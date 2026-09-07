@@ -2,8 +2,8 @@ name: Refresh market radar data
 
 on:
   schedule:
-    # 05:00 UTC daily
-    - cron: "0 5 * * *"
+    # 08:00 Dubai time daily (Asia/Dubai is UTC+4 year-round, no DST) = 04:00 UTC
+    - cron: "0 4 * * *"
   workflow_dispatch: {}
 
 permissions:
