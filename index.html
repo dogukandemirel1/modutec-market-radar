@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Modutec Market Radar</title>
+<style>
+  :root{
+    --bg:#f5f6f8;
+    --surface:#ffffff;
+    --border:#e2e5ea;
+    --text:#1a2130;
+    --text-muted:#5b6472;
+    --text-faint:#8791a0;
+    --accent:#0a4d68;
+    --accent-2:#0f7ea0;
+    --tag-bg:#eef4f7;
+    --tag-text:#0a4d68;
+    --shadow:0 1px 2px rgba(16,24,40,0.04), 0 1px 3px rgba(16,24,40,0.06);
+    --radius:10px;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:var(--bg);
+    color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    line-height:1.5;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:920px;margin:0 auto;padding:0 20px 64px;}
+
+  header.site{
+    padding:36px 0 24px;
+    border-bottom:1px solid var(--border);
+    margin-bottom:8px;
+  }
+  .brand{
+    display:flex;
+    align-items:baseline;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap:8px 16px;
+  }
+  .brand h1{
+    font-size:1.65rem;
+    margin:0;
+    letter-spacing:-0.02em;
+    color:var(--accent);
+  }
+  .brand h1 .accent-dot{color:var(--accent-2);}
+  .tagline{
+    margin:6px 0 0;
+    color:var(--text-muted);
+    font-size:0.95rem;
+  }
+  .updated-bar{
+    margin-top:16px;
+    display:flex;
+    align-items:center;
+    gap:8px;
+    font-size:0.85rem;
+    color:var(--text-faint);
+  }
+  .updated-bar .dot{
+    width:7px;height:7px;border-radius:50%;
+    background:#1fae5f;
+    flex:none;
+  }
+  .updated-bar strong{color:var(--text-muted);font-weight:600;}
+
+  nav.toc{
+    display:flex;
+    flex-wrap:wrap;
+    gap:8px;
+    margin:20px 0 8px;
+  }
+  nav.toc a{
+    font-size:0.82rem;
+    color:var(--accent-2);
+    text-decoration:none;
+    background:var(--tag-bg);
+    border:1px solid var(--border);
+    padding:6px 12px;
+    border-radius:999px;
+    transition:background .15s ease, color .15s ease;
+  }
+  nav.toc a:hover{background:var(--accent-2);color:#fff;border-color:var(--accent-2);}
+
+  section.section{
+    margin-top:40px;
+  }
+  .section-head{
+    display:flex;
+    align-items:baseline;
+    gap:12px;
+    margin-bottom:4px;
+  }
+  .section-index{
+    font-size:0.78rem;
+    font-weight:700;
+    color:var(--accent-2);
+    letter-spacing:0.04em;
+  }
+  .section-head h2{
+    font-size:1.2rem;
+    margin:0;
+    color:var(--text);
+  }
+  .section-desc{
+    color:var(--text-muted);
+    font-size:0.88rem;
+    margin:2px 0 18px;
+  }
+
+  .cards{
+    display:flex;
+    flex-direction:column;
+    gap:12px;
+  }
+  .card{
+    background:var(--surface);
+    border:1px solid var(--border);
+    border-radius:var(--radius);
+    padding:16px 18px;
+    box-shadow:var(--shadow);
+  }
+  .card-top{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+    gap:12px;
+    margin-bottom:6px;
+  }
+  .card h3{
+    font-size:1rem;
+    margin:0;
+    color:var(--text);
+    line-height:1.35;
+  }
+  .card-date{
+    flex:none;
+    font-size:0.75rem;
+    color:var(--text-faint);
+    white-space:nowrap;
+    padding-top:2px;
+  }
+  .card p.summary{
+    margin:0 0 10px;
+    font-size:0.9rem;
+    color:var(--text-muted);
+  }
+  .card-meta{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap:8px;
+    font-size:0.78rem;
+  }
+  .tag{
+    display:inline-block;
+    background:var(--tag-bg);
+    color:var(--tag-text);
+    padding:3px 9px;
+    border-radius:999px;
+    font-weight:600;
+    font-size:0.72rem;
+  }
+  .card-meta a{
+    color:var(--accent-2);
+    text-decoration:none;
+    font-weight:500;
+  }
+  .card-meta a:hover{text-decoration:underline;}
+  .source-name{color:var(--text-faint);}
+
+  .empty-state{
+    color:var(--text-faint);
+    font-size:0.88rem;
+    font-style:italic;
+    padding:16px 0;
+  }
+
+  footer.site{
+    margin-top:56px;
+    padding-top:20px;
+    border-top:1px solid var(--border);
+    color:var(--text-faint);
+    font-size:0.8rem;
+    text-align:center;
+  }
+
+  @media (max-width:600px){
+    .wrap{padding:0 14px 48px;}
+    header.site{padding:24px 0 18px;}
+    .brand h1{font-size:1.35rem;}
+    .card{padding:14px;}
+    .card-top{flex-direction:column;gap:4px;}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="site">
+    <div class="brand">
+      <h1>Modutec Market Radar<span class="accent-dot">.</span></h1>
+    </div>
+    <p class="tagline">A research digest for the marine, offshore, energy &amp; defence industry.</p>
+    <div class="updated-bar">
+      <span class="dot"></span>
+      <span><strong>Last updated:</strong> <span id="last-updated">Loading…</span></span>
+    </div>
+    <nav class="toc" id="toc"></nav>
+  </header>
+
+  <main id="sections"></main>
+
+  <footer class="site">
+    <div id="footer-note">Modutec Market Radar — compiled from public industry sources. Verify figures against primary sources before use in decision-making.</div>
+  </footer>
+
+</div>
+
+<script>
+(function(){
+  function fmtDate(iso){
+    if(!iso) return '';
+    var d = new Date(iso + (iso.length===10 ? 'T00:00:00Z' : ''));
+    if(isNaN(d.getTime())) return iso;
+    return d.toLocaleDateString('en-GB',{day:'numeric',month:'short',year:'numeric',timeZone:'UTC'});
+  }
+
+  function fmtTimestamp(iso){
+    if(!iso) return 'Unknown';
+    var d = new Date(iso);
+    if(isNaN(d.getTime())) return iso;
+    return d.toLocaleDateString('en-GB',{day:'numeric',month:'long',year:'numeric',timeZone:'UTC'}) +
+      ' · ' + d.toLocaleTimeString('en-GB',{hour:'2-digit',minute:'2-digit',timeZone:'UTC',hour12:false}) + ' UTC';
+  }
+
+  function el(tag, cls, html){
+    var e = document.createElement(tag);
+    if(cls) e.className = cls;
+    if(html !== undefined) e.innerHTML = html;
+    return e;
+  }
+
+  function escapeHtml(s){
+    return String(s == null ? '' : s)
+      .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  }
+
+  function renderCard(item){
+    var card = el('div','card');
+
+    var top = el('div','card-top');
+    top.appendChild(el('h3', null, escapeHtml(item.title)));
+    top.appendChild(el('div','card-date', escapeHtml(fmtDate(item.date))));
+    card.appendChild(top);
+
+    if(item.summary){
+      card.appendChild(el('p','summary', escapeHtml(item.summary)));
+    }
+
+    var meta = el('div','card-meta');
+    var left = el('div', null);
+    if(item.region){
+      left.appendChild(el('span','tag', escapeHtml(item.region)));
+    }
+    meta.appendChild(left);
+
+    var right = el('div', null);
+    if(item.source_name){
+      right.appendChild(el('span','source-name', escapeHtml(item.source_name)));
+    }
+    if(item.source_url){
+      var sep = document.createTextNode(item.source_name ? '  ·  ' : '');
+      right.appendChild(sep);
+      var a = document.createElement('a');
+      a.href = item.source_url;
+      a.target = '_blank';
+      a.rel = 'noopener noreferrer';
+      a.textContent = 'Source ↗';
+      right.appendChild(a);
+    }
+    meta.appendChild(right);
+    card.appendChild(meta);
+
+    return card;
+  }
+
+  function renderSection(section, index){
+    var sec = el('section','section');
+    sec.id = section.id;
+
+    var head = el('div','section-head');
+    head.appendChild(el('span','section-index', String(index+1).padStart(2,'0')));
+    head.appendChild(el('h2', null, escapeHtml(section.title)));
+    sec.appendChild(head);
+
+    if(section.description){
+      sec.appendChild(el('p','section-desc', escapeHtml(section.description)));
+    }
+
+    var cards = el('div','cards');
+    if(section.items && section.items.length){
+      section.items
+        .slice()
+        .sort(function(a,b){ return (b.date||'').localeCompare(a.date||''); })
+        .forEach(function(item){ cards.appendChild(renderCard(item)); });
+    } else {
+      cards.appendChild(el('div','empty-state','No items yet for this section.'));
+    }
+    sec.appendChild(cards);
+
+    return sec;
+  }
+
+  function render(data){
+    document.getElementById('last-updated').textContent = fmtTimestamp(data.last_updated);
+
+    var toc = document.getElementById('toc');
+    var sections = document.getElementById('sections');
+    toc.innerHTML = '';
+    sections.innerHTML = '';
+
+    (data.sections || []).forEach(function(section, i){
+      var a = document.createElement('a');
+      a.href = '#' + section.id;
+      a.textContent = section.short_title || section.title;
+      toc.appendChild(a);
+
+      sections.appendChild(renderSection(section, i));
+    });
+
+    if(data.footer_note){
+      document.getElementById('footer-note').textContent = data.footer_note;
+    }
+  }
+
+  fetch('data.json', {cache:'no-store'})
+    .then(function(r){
+      if(!r.ok) throw new Error('Failed to load data.json: ' + r.status);
+      return r.json();
+    })
+    .then(render)
+    .catch(function(err){
+      document.getElementById('last-updated').textContent = 'Error loading data';
+      var sections = document.getElementById('sections');
+      sections.innerHTML = '';
+      var e = document.createElement('div');
+      e.className = 'empty-state';
+      e.textContent = 'Could not load data.json — ' + err.message;
+      sections.appendChild(e);
+      console.error(err);
+    });
+})();
+</script>
+
+</body>
+</html>
