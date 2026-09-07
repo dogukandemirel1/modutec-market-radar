@@ -121,6 +121,27 @@
     accent-color:var(--accent-2);
     cursor:pointer;
   }
+  #sort-select{
+    padding:9px 30px 9px 12px;
+    border-radius:8px;
+    border:1px solid var(--border);
+    background:var(--surface);
+    color:var(--text);
+    font-size:0.84rem;
+    font-family:inherit;
+    cursor:pointer;
+    flex:none;
+    appearance:none;
+    -webkit-appearance:none;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%235b6472' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
+    background-repeat:no-repeat;
+    background-position:right 8px center;
+    background-size:15px;
+  }
+  #sort-select:focus{
+    outline:2px solid var(--accent-2);
+    outline-offset:-1px;
+  }
   .results-note{
     font-size:0.8rem;
     color:var(--text-faint);
@@ -276,6 +297,11 @@
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
         <input type="search" id="search-input" placeholder="Search titles, summaries, sources…" aria-label="Search items">
       </div>
+      <select id="sort-select" aria-label="Sort items">
+        <option value="date-desc">Newest first</option>
+        <option value="date-asc">Oldest first</option>
+        <option value="source-asc">Source (A-Z)</option>
+      </select>
       <label class="relevance-toggle" for="relevance-toggle">
         <input type="checkbox" id="relevance-toggle">
         <span>Show only Modutec-relevant</span>
@@ -327,6 +353,8 @@
     card.dataset.search = [item.title, item.summary, item.source_name]
       .filter(Boolean).join(' ').toLowerCase();
     card.dataset.relevant = item.relevant ? 'true' : 'false';
+    card.dataset.date = item.date || '';
+    card.dataset.sourceName = (item.source_name || '').toLowerCase();
 
     var top = el('div','card-top');
     top.appendChild(el('h3', null, escapeHtml(item.title)));
@@ -418,14 +446,36 @@
     applyFilters();
   }
 
+  function sortComparator(mode){
+    if(mode === 'date-asc'){
+      return function(a,b){ return (a.dataset.date||'').localeCompare(b.dataset.date||''); };
+    }
+    if(mode === 'source-asc'){
+      return function(a,b){ return (a.dataset.sourceName||'').localeCompare(b.dataset.sourceName||''); };
+    }
+    // date-desc (default: newest first)
+    return function(a,b){ return (b.dataset.date||'').localeCompare(a.dataset.date||''); };
+  }
+
+  function sortSectionCards(sec, mode){
+    var container = sec.querySelector('.cards');
+    if(!container) return;
+    var filteredEmpty = container.querySelector('.filtered-empty');
+    var cardEls = Array.prototype.slice.call(container.querySelectorAll('.card'));
+    cardEls.sort(sortComparator(mode));
+    cardEls.forEach(function(card){ container.insertBefore(card, filteredEmpty || null); });
+  }
+
   function applyFilters(){
     var term = (document.getElementById('search-input').value || '').trim().toLowerCase();
     var relevantOnly = document.getElementById('relevance-toggle').checked;
+    var sortMode = document.getElementById('sort-select').value;
 
     var totalVisible = 0;
     var totalCards = 0;
 
     document.querySelectorAll('section.section').forEach(function(sec){
+      sortSectionCards(sec, sortMode);
       var cardEls = sec.querySelectorAll('.card');
       var anyVisible = false;
 
@@ -457,6 +507,7 @@
 
   document.getElementById('search-input').addEventListener('input', applyFilters);
   document.getElementById('relevance-toggle').addEventListener('change', applyFilters);
+  document.getElementById('sort-select').addEventListener('change', applyFilters);
 
   fetch('data.json', {cache:'no-store'})
     .then(function(r){
