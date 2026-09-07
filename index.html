@@ -69,6 +69,65 @@
   }
   .updated-bar strong{color:var(--text-muted);font-weight:600;}
 
+  .controls{
+    display:flex;
+    align-items:center;
+    gap:12px;
+    flex-wrap:wrap;
+    margin-top:18px;
+  }
+  .search-wrap{
+    position:relative;
+    flex:1 1 260px;
+  }
+  .search-wrap svg{
+    position:absolute;
+    left:11px;
+    top:50%;
+    transform:translateY(-50%);
+    width:15px;
+    height:15px;
+    color:var(--text-faint);
+    pointer-events:none;
+  }
+  #search-input{
+    width:100%;
+    padding:9px 12px 9px 33px;
+    border-radius:8px;
+    border:1px solid var(--border);
+    background:var(--surface);
+    color:var(--text);
+    font-size:0.88rem;
+    font-family:inherit;
+  }
+  #search-input:focus{
+    outline:2px solid var(--accent-2);
+    outline-offset:-1px;
+  }
+  .relevance-toggle{
+    display:flex;
+    align-items:center;
+    gap:7px;
+    font-size:0.84rem;
+    color:var(--text-muted);
+    cursor:pointer;
+    user-select:none;
+    white-space:nowrap;
+    flex:none;
+  }
+  .relevance-toggle input{
+    width:15px;
+    height:15px;
+    accent-color:var(--accent-2);
+    cursor:pointer;
+  }
+  .results-note{
+    font-size:0.8rem;
+    color:var(--text-faint);
+    margin-top:8px;
+  }
+  .results-note[hidden]{display:none;}
+
   nav.toc{
     display:flex;
     flex-wrap:wrap;
@@ -212,6 +271,17 @@
       <span class="dot"></span>
       <span><strong>Last updated:</strong> <span id="last-updated">Loading…</span></span>
     </div>
+    <div class="controls">
+      <div class="search-wrap">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+        <input type="search" id="search-input" placeholder="Search titles, summaries, sources…" aria-label="Search items">
+      </div>
+      <label class="relevance-toggle" for="relevance-toggle">
+        <input type="checkbox" id="relevance-toggle">
+        <span>Show only Modutec-relevant</span>
+      </label>
+    </div>
+    <p class="results-note" id="results-note" hidden></p>
     <nav class="toc" id="toc"></nav>
   </header>
 
@@ -254,6 +324,9 @@
 
   function renderCard(item){
     var card = el('div','card');
+    card.dataset.search = [item.title, item.summary, item.source_name]
+      .filter(Boolean).join(' ').toLowerCase();
+    card.dataset.relevant = item.relevant ? 'true' : 'false';
 
     var top = el('div','card-top');
     top.appendChild(el('h3', null, escapeHtml(item.title)));
@@ -310,6 +383,9 @@
         .slice()
         .sort(function(a,b){ return (b.date||'').localeCompare(a.date||''); })
         .forEach(function(item){ cards.appendChild(renderCard(item)); });
+      var filteredEmpty = el('div','empty-state filtered-empty','No items match your search or filter in this section.');
+      filteredEmpty.hidden = true;
+      cards.appendChild(filteredEmpty);
     } else {
       cards.appendChild(el('div','empty-state','No items yet for this section.'));
     }
@@ -338,7 +414,49 @@
     if(data.footer_note){
       document.getElementById('footer-note').textContent = data.footer_note;
     }
+
+    applyFilters();
   }
+
+  function applyFilters(){
+    var term = (document.getElementById('search-input').value || '').trim().toLowerCase();
+    var relevantOnly = document.getElementById('relevance-toggle').checked;
+
+    var totalVisible = 0;
+    var totalCards = 0;
+
+    document.querySelectorAll('section.section').forEach(function(sec){
+      var cardEls = sec.querySelectorAll('.card');
+      var anyVisible = false;
+
+      cardEls.forEach(function(card){
+        totalCards++;
+        var matchesTerm = !term || (card.dataset.search || '').indexOf(term) !== -1;
+        var matchesRelevance = !relevantOnly || card.dataset.relevant === 'true';
+        var visible = matchesTerm && matchesRelevance;
+        card.hidden = !visible;
+        if(visible){ anyVisible = true; totalVisible++; }
+      });
+
+      var filteredEmpty = sec.querySelector('.filtered-empty');
+      if(filteredEmpty){
+        filteredEmpty.hidden = cardEls.length === 0 || anyVisible;
+      }
+    });
+
+    var note = document.getElementById('results-note');
+    if(term || relevantOnly){
+      note.hidden = false;
+      note.textContent = 'Showing ' + totalVisible + ' of ' + totalCards + ' item' + (totalCards === 1 ? '' : 's') +
+        (term ? ' matching "' + term + '"' : '') +
+        (relevantOnly ? (term ? ', Modutec-relevant only' : 'Modutec-relevant only') : '') + '.';
+    } else {
+      note.hidden = true;
+    }
+  }
+
+  document.getElementById('search-input').addEventListener('input', applyFilters);
+  document.getElementById('relevance-toggle').addEventListener('change', applyFilters);
 
   fetch('data.json', {cache:'no-store'})
     .then(function(r){

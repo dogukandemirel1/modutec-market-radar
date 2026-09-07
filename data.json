@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T11:20:00Z",
+  "last_updated": "2026-09-07T11:38:28Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -9,46 +9,52 @@
       "description": "Benchmark day-rate trends for jackups, floaters and offshore support vessels across key regions.",
       "items": [
         {
+          "title": "Valaris Q2 2026: drillship dayrate repricing lifts rates to $416k-$433k",
+          "summary": "Valaris reported Q2 2026 operating revenue of $539.2m (down from $615.2m a year earlier) and net income of $50.4m. Contract repricing lifted drillship dayrates to $416,000-$433,000/day even as idle rigs and Middle East conflict costs (~$38m negative operating income impact YTD) weighed on results ahead of its pending all-stock merger with Transocean.",
+          "date": "2026-08-01",
+          "source_name": "Simply Wall St News",
+          "source_url": "https://simplywall.st/stocks/us/energy/nyse-val/valaris/news/do-softer-q2-2026-results-shift-the-earnings-narrative-for-v",
+          "relevant": false
+        },
+        {
           "title": "Westwood: offshore rig dayrates mostly continue to fall in 2026",
           "summary": "Leading-edge jackup dayrates averaged just over $94,000/day year-to-date in 2026 (down 6% from 2025, ~24% below 2024's $123,000 average). Semisubmersibles averaged just under $340,000/day (Norway premium $436,000/day) and 6th/7th-gen drillships averaged ~$388,000/day. Global jackup utilisation fell 7 points year-on-year to 85%; floating rig utilisation slipped to 87%.",
           "date": "2026-06-15",
           "source_name": "Riviera Maritime Media (citing Westwood Global Energy)",
-          "source_url": "https://www.rivieramm.com/news-content-hub/news-content-hub/westwood-offshore-rig-dayrates-mostly-continue-to-fall-in-2026-89065"
-        },
-        {
-          "title": "2026 offshore challenge: softening demand puts brakes on day rates",
-          "summary": "Near-term drillship day rates have fallen under $400,000/day amid expected 2026 oil oversupply exceeding 3 million boepd, though later contract work commands higher rates — over 40% of competitive 7th-gen drillships are already booked for 2027. Drillship utilisation is projected at 94% for 2026-2027, semisub utilisation rising to 88% in 2026, jackup utilisation holding at 91%+.",
-          "date": "2025-11-21",
-          "source_name": "JPT (Society of Petroleum Engineers)",
-          "source_url": "https://jpt.spe.org/2026-offshore-challenge-softening-demand-puts-the-brakes-on-day-rates"
+          "source_url": "https://www.rivieramm.com/news-content-hub/news-content-hub/westwood-offshore-rig-dayrates-mostly-continue-to-fall-in-2026-89065",
+          "relevant": false
         },
         {
           "title": "North Sea AHTS and PSV day rates hold firm on fleet attrition",
           "summary": "Large AHTS vessels in the North Sea are commanding $35,000-$55,000/day on short-term fixtures in 2026 (having briefly touched $60,000-$70,000/day in 2023-2024), while PSVs of 4,000+ DWT achieve $22,000-$32,000/day — levels not sustained since the 2013-2014 peak — driven by 300+ vessels scrapped or redeployed since 2015.",
           "date": "2026-05-06",
           "source_name": "Offshore Industry",
-          "source_url": "https://offshoreindustry.co.uk/north-sea-osv-market-2026-ahts-and-psv-rates-hold-firm-as-fleet-attrition-bites/"
+          "source_url": "https://offshoreindustry.co.uk/north-sea-osv-market-2026-ahts-and-psv-rates-hold-firm-as-fleet-attrition-bites/",
+          "relevant": false
         },
         {
-          "title": "OSV rates and utilisation levels roar back in Southeast Asia",
-          "summary": "Day rates for 'backbone' 5,150-bhp AHTS vessels reached $8,100/day and 8,000-bhp AHTS units recovered to $12,000/day, while larger 10,000-12,000-bhp AHTS units chartered at $16,000-$19,000/day and PSVs (1,000 m² clear deck) commanded $33,000-$36,000/day amid a regional shortage of 8,000-bhp AHTS tonnage.",
-          "date": "2025-03-10",
-          "source_name": "Riviera Maritime Media",
-          "source_url": "https://www.rivieramm.com/news-content-hub/news-content-hub/osv-rates-and-utilisation-levels-roar-back-in-southeast-asia-84057"
+          "title": "2026 offshore challenge: softening demand puts brakes on day rates",
+          "summary": "Near-term drillship day rates have fallen under $400,000/day amid expected 2026 oil oversupply exceeding 3 million boepd, though later contract work commands higher rates — over 40% of competitive 7th-gen drillships are already booked for 2027. Drillship utilisation is projected at 94% for 2026-2027, semisub utilisation rising to 88% in 2026, jackup utilisation holding at 91%+.",
+          "date": "2025-11-21",
+          "source_name": "JPT (Society of Petroleum Engineers)",
+          "source_url": "https://jpt.spe.org/2026-offshore-challenge-softening-demand-puts-the-brakes-on-day-rates",
+          "relevant": false
         },
         {
           "title": "GCC jackup dayrates keep sliding as Saudi Aramco suspensions linger",
           "summary": "Average GCC jackup dayrates fell from $108,484 in 2023 to $91,735 in 2024 and $89,865 in 2025, with 2026 forecast to remain in the low-to-high $80,000s/day; committed Middle East utilisation is projected to decline from 91% (2025) to 89% (2026) as, of 37 jackup contracts Saudi Aramco suspended, 22 rigs have since mobilised out of or committed to leave the Kingdom.",
           "date": "2025-11-03",
           "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/offshore-likely-to-remain-a-waiting-game-until-expected-uptick-in-2027-75703"
+          "source_url": "https://drillingcontractor.org/offshore-likely-to-remain-a-waiting-game-until-expected-uptick-in-2027-75703",
+          "relevant": true
         },
         {
-          "title": "Valaris Q2 2026: drillship dayrate repricing lifts rates to $416k-$433k",
-          "summary": "Valaris reported Q2 2026 operating revenue of $539.2m (down from $615.2m a year earlier) and net income of $50.4m. Contract repricing lifted drillship dayrates to $416,000-$433,000/day even as idle rigs and Middle East conflict costs (~$38m negative operating income impact YTD) weighed on results ahead of its pending all-stock merger with Transocean.",
-          "date": "2026-08-01",
-          "source_name": "Simply Wall St News",
-          "source_url": "https://simplywall.st/stocks/us/energy/nyse-val/valaris/news/do-softer-q2-2026-results-shift-the-earnings-narrative-for-v"
+          "title": "OSV rates and utilisation levels roar back in Southeast Asia",
+          "summary": "Day rates for 'backbone' 5,150-bhp AHTS vessels reached $8,100/day and 8,000-bhp AHTS units recovered to $12,000/day, while larger 10,000-12,000-bhp AHTS units chartered at $16,000-$19,000/day and PSVs (1,000 m² clear deck) commanded $33,000-$36,000/day amid a regional shortage of 8,000-bhp AHTS tonnage.",
+          "date": "2025-03-10",
+          "source_name": "Riviera Maritime Media",
+          "source_url": "https://www.rivieramm.com/news-content-hub/news-content-hub/osv-rates-and-utilisation-levels-roar-back-in-southeast-asia-84057",
+          "relevant": false
         }
       ]
     },
@@ -59,46 +65,172 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Subsea7 wins pipeline installation contract for Who Dat East, US Gulf",
-          "summary": "Subsea7 was awarded a sizeable contract (estimated $50-150 million) by LLOG Exploration, a Harbour Energy subsidiary, to install a 29-km steel catenary riser and pipe-in-pipe system plus umbilical and subsea controls for the Who Dat East development in ~1,300m water depth. Engineering starts immediately in Houston, offshore installation planned for 2028.",
-          "date": "2026-09-02",
-          "source_name": "GlobeNewswire (Subsea7 press release)",
-          "source_url": "https://www.globenewswire.com/news-release/2026/09/02/3354839/0/en/subsea7-awarded-contract-offshore-us.html"
+          "title": "Russia Launches Massive Vostok Oil Project, Marking New Arctic Shipping Era",
+          "summary": "Russia has begun loading crude from its giant Vostok Oil development onto tankers at the newly built Bukhta Sever terminal on the Kara Sea, marking the start of what could become one of the largest new sources of…",
+          "date": "2026-09-07",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/russia-launches-massive-vostok-oil-project-marking-new-arctic-shipping-era/",
+          "relevant": false
+        },
+        {
+          "title": "Ventura lines up $58m Petronas job as Eldorado drillship joins managed fleet",
+          "summary": "Ventura Offshore has struck a management deal with Eldorado Drilling for the seventh-generation Deep Value Driller and simultaneously secured a one-well drilling contract with Petronas in Indonesia valued at around…",
+          "date": "2026-09-07",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/ventura-lines-up-58m-petronas-job-as-eldorado-drillship-joins-managed-fleet/",
+          "relevant": false
+        },
+        {
+          "title": "Indian Navy Eyes 1,000 km Ship-Based Loitering Munitions",
+          "summary": "The Indian Navy has issued an RFI for 1,000 km range ship-based loitering munitions. Explore the specs, local contenders, and strategic impact. The post Indian Navy Eyes 1,000 km Ship-Based Loitering Munitions appeared…",
+          "date": "2026-09-07",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/indian-navy-1000km-ship-based-loitering-munitions/",
+          "relevant": false
+        },
+        {
+          "title": "ExxonMobil to Acquire Papua LNG Operatorship from TotalEnergies",
+          "summary": "TotalEnergies said the transfer, which also involves a farm-down by the French majority owner, will help bring the project closer to a final investment decision.",
+          "date": "2026-09-07",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/exxonmobil_to_acquire_papua_lng_operatorship_from_totalenergies-07-sep-2026-184550-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Papua LNG Nears FID as ExxonMobil Takes Operatorship",
+          "summary": "Papua LNG has reached a series of commercial and contractual milestones ahead of a final investment decision (FID), including a transfer of operatorship from TotalEnergies…",
+          "date": "2026-09-07",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542767-papua-lng-nears-fid-as-exxonmobil-takes-operatorship",
+          "relevant": false
+        },
+        {
+          "title": "U.S. Navy Accelerates Tomahawk Production Citing ‘Current International Conflict’",
+          "summary": "Citing a \"current international conflict\", the U.S. Navy is modifying a SLAM-ER contract with General Dynamics to fast-track Tomahawk warhead production. The post U.S. Navy Accelerates Tomahawk Production Citing…",
+          "date": "2026-09-06",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/us-navy-accelerates-tomahawk-missile-production/",
+          "relevant": false
         },
         {
           "title": "DOF secures transport and installation deal for North Sea floating wind",
           "summary": "DOF ASA was awarded a Transport & Installation contract for a floating offshore wind project in the North Sea, covering inshore marine operations, mooring system pre-lay, floating turbine tow-out and installation, and dynamic/static export cable installation. Contract value was not disclosed.",
           "date": "2026-09-05",
           "source_name": "Ocean Energy Resources",
-          "source_url": "https://ocean-energyresources.com/2026/09/05/dof-executing-floating-offshore-wind-project-in-north-sea/"
+          "source_url": "https://ocean-energyresources.com/2026/09/05/dof-executing-floating-offshore-wind-project-in-north-sea/",
+          "relevant": false
         },
         {
-          "title": "SLB OneSubsea awarded EPC contract for Eni's Baleine Phase 3, Ivory Coast",
-          "summary": "SLB's OneSubsea joint venture was awarded a multi-well EPC contract by Eni for Phase 3 of the deepwater Baleine project offshore Cote d'Ivoire, covering subsea production systems for 13 wells including trees, umbilicals, manifolds, multiphase flowmeters, controls, installation and commissioning.",
-          "date": "2026-07-13",
-          "source_name": "SLB (press release)",
-          "source_url": "https://www.slb.com/newsroom/press-release/2026/pr-2026-0713-slb-oss-eni-baleine"
+          "title": "Baker Hughes wins BP stimulation contract for UK North Sea",
+          "summary": "Baker Hughes secured a contract from BP to provide offshore stimulation services across the operator’s UK North Sea operations. The award covers both new well development and enhanced recovery from mature fields. Baker…",
+          "date": "2026-09-04",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/baker-hughes-wins-bp-stimulation-contract-for-uk-north-sea-79855",
+          "relevant": false
         },
         {
-          "title": "Saipem wins ~$2 billion EPCI contract for Kutei FPSO, Indonesia",
-          "summary": "Saipem, via PT Saipem Indonesia in JV with PT Tripatra Engineers and Constructors, was awarded an EPCI contract worth ~$2 billion (Saipem's share) for a new FPSO for the Kutei Basin North Hub development offshore East Kalimantan, for client Eni North Ganal. Estimated project duration: 48 months.",
-          "date": "2026-07-07",
-          "source_name": "Saipem (press release)",
-          "source_url": "https://www.saipem.com/en/media/press-releases/2026-07-07/saipem-contract-awarded-kutei-fpso-project-indonesia"
+          "title": "SubSea Craft Unveils Modular Payload Cassettes for MARS USV",
+          "summary": "SubSea Craft has unveiled a new modular payload cassette system for its MARS USV, enabling rapid, two-person field exchanges of loitering munitions, UAVs, and sonobuoys. The post SubSea Craft Unveils Modular Payload…",
+          "date": "2026-09-04",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/subsea-craft-unveils-modular-payload-cassettes-for-mars-usv/",
+          "relevant": false
+        },
+        {
+          "title": "MISC explores consortium role in potential Yinson privatization",
+          "summary": "MISC Group, a member of the Petronas Group of Companies and an owner and operator of offshore floating assets and provider of energy-related maritime solutions and services, is weighing a role in a potential consortium…",
+          "date": "2026-09-04",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/misc-explores-consortium-role-in-potential-yinson-privatization/",
+          "relevant": false
+        },
+        {
+          "title": "Spanish Navy selects Alpha Unmanned’s A900 helicopters for CEVENTA centre",
+          "summary": "The Spanish Navy has awarded Alpha Unmanned Systems a contract to supply a Class I Remotely Piloted Aircraft System for the Armada’s Unmanned Vehicle Experimentation Centre (CEVENTA). The post Spanish Navy selects Alpha…",
+          "date": "2026-09-04",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/spain-navy-a900-helicopters/",
+          "relevant": false
+        },
+        {
+          "title": "RH Petrogas well test flows gas, condensate and oil in Papua",
+          "summary": "RH Petrogas confirmed strong gas and condensate deliverability, along with an unexpected oil discovery, from well testing at the Northwest Klagagi-1 (NWK-1) well in the Kepala Burung production sharing contract in…",
+          "date": "2026-09-03",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/rh-petrogas-well-test-flows-gas-condensate-and-oil-in-papua-79782",
+          "relevant": false
+        },
+        {
+          "title": "Baker Hughes partners with OGDCL on Pakistan well optimization",
+          "summary": "Baker Hughes signed a multi-year contract with OGDCL to maximize production performance from OGDCL’s mature oil and gas fields in Pakistan. The agreement builds on a decades-long relationship between the two companies…",
+          "date": "2026-09-03",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/baker-hughes-partners-with-ogdcl-on-pakistan-well-optimization-79779",
+          "relevant": false
+        },
+        {
+          "title": "Germany Leans Toward Watercat M18 AMC for Sea Battalion Combat Boat Requirement",
+          "summary": "Germany is set to award Marine Alutech a contract for up to 15 Watercat M18 AMC combat boats to equip the German Navy's Sea Battalion. The post Germany Leans Toward Watercat M18 AMC for Sea Battalion Combat Boat…",
+          "date": "2026-09-03",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/germany-leans-toward-watercat-m18-amc-for-sea-battalion-combat-boat-requirement/",
+          "relevant": false
+        },
+        {
+          "title": "Subsea7 secures contract from LLOG Exploration in US Gulf",
+          "summary": "Subsea7 has secured a contract from LLOG Exploration for offshore work related to the Who Dat East development in the US Gulf of Mexico.",
+          "date": "2026-09-03",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/subsea7-offshore-contract-llog-exploration/",
+          "relevant": false
+        },
+        {
+          "title": "ABS to Support Floating Offshore Wind Development in Brazil",
+          "summary": "ABS and JB Energy have signed a memorandum of understanding (MOU) to collaborate on strategic studies for the proposed Aura Sul Wind Project, a floating offshore…",
+          "date": "2026-09-03",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542722-abs-to-support-floating-offshore-wind-development-in-brazil",
+          "relevant": false
+        },
+        {
+          "title": "Proserv Secures Equinor Contract for Dudgeon Offshore Wind Farm",
+          "summary": "Proserv has secured a full deployment contract with Equinor to install its ECG™ cable monitoring technology at the 402 MW Dudgeon Offshore Wind Farm off the Norfolk coast…",
+          "date": "2026-09-03",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542721-proserv-secures-equinor-contract-for-dudgeon-offshore-wind-farm",
+          "relevant": false
+        },
+        {
+          "title": "Kongsberg Maritime to Supply Technology Package for Two Cadeler WTIVs",
+          "summary": "Kongsberg Maritime has secured a contract from COSCO Shipping (Qidong) Offshore Co., Ltd. to supply an integrated technology package for two new Wind Turbine Installation…",
+          "date": "2026-09-03",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542701-kongsberg-maritime-to-supply-technology-package-for-two-cadeler-wtivs",
+          "relevant": false
+        },
+        {
+          "title": "Subsea7 wins pipeline installation contract for Who Dat East, US Gulf",
+          "summary": "Subsea7 was awarded a sizeable contract (estimated $50-150 million) by LLOG Exploration, a Harbour Energy subsidiary, to install a 29-km steel catenary riser and pipe-in-pipe system plus umbilical and subsea controls for the Who Dat East development in ~1,300m water depth. Engineering starts immediately in Houston, offshore installation planned for 2028.",
+          "date": "2026-09-02",
+          "source_name": "GlobeNewswire (Subsea7 press release)",
+          "source_url": "https://www.globenewswire.com/news-release/2026/09/02/3354839/0/en/subsea7-awarded-contract-offshore-us.html",
+          "relevant": false
         },
         {
           "title": "US Navy awards $76.6bn for new Virginia- and Columbia-class submarines",
           "summary": "The US Navy awarded General Dynamics Electric Boat and Huntington Ingalls' Newport News Shipbuilding a combined $76.6 billion across two contracts: $42.1bn for nine Block VI Virginia-class attack submarines plus material for an additional unit, and $29.5bn for five Build II Columbia-class ballistic missile submarines, securing production into the late 2030s and supporting the AUKUS submarine transfer commitment.",
           "date": "2026-07-29",
           "source_name": "Breaking Defense",
-          "source_url": "https://breakingdefense.com/2026/07/navy-awards-76-6b-in-contracts-for-new-virginia-columbia-class-subs/"
+          "source_url": "https://breakingdefense.com/2026/07/navy-awards-76-6b-in-contracts-for-new-virginia-columbia-class-subs/",
+          "relevant": false
         },
         {
-          "title": "Borr Drilling's Prospector 5 lands four-well letter of award from BW Energy, Gabon",
-          "summary": "Borr Drilling received a binding letter of award from BW Energy in Gabon for its Prospector 5 jackup rig, covering a firm four-well campaign of at least 320 days with options to extend by up to 220 days, expected to start Q3 2026 in West Africa.",
-          "date": "2026-04-02",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/borr-drilling-lines-up-work-for-four-jackups-across-four-continents-77643"
+          "title": "SLB OneSubsea awarded EPC contract for Eni's Baleine Phase 3, Ivory Coast",
+          "summary": "SLB's OneSubsea joint venture was awarded a multi-well EPC contract by Eni for Phase 3 of the deepwater Baleine project offshore Cote d'Ivoire, covering subsea production systems for 13 wells including trees, umbilicals, manifolds, multiphase flowmeters, controls, installation and commissioning.",
+          "date": "2026-07-13",
+          "source_name": "SLB (press release)",
+          "source_url": "https://www.slb.com/newsroom/press-release/2026/pr-2026-0713-slb-oss-eni-baleine",
+          "relevant": false
         }
       ]
     },
@@ -109,46 +241,76 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
-          "title": "IMO PFOS firefighting foam ban enters into force 1 January 2026",
-          "summary": "New SOLAS Chapter II-2 and HSC Code amendments prohibit fire-extinguishing media containing PFOS (a persistent 'forever chemical') above 10 mg/kg. New vessels with keels laid from 1 January 2026 must deliver PFOS-free; existing ships must remove and replace legacy foam stocks by their first survey on or after that date, requiring manufacturer PFOS-free declarations and documented disposal.",
-          "date": "2025-11-25",
-          "source_name": "DNV",
-          "source_url": "https://www.dnv.com/news/2025/pfos-prohibited-in-fire-extinguishing-media-from-1-january-2026/"
+          "title": "Russian military-linked roro targeted near Crete",
+          "summary": "Ukraine’s maritime campaign against Russian shipping has pushed deep into the Mediterranean, with reports over the weekend that the sanctioned Russian roro Lady Mariia was struck by drones near Crete. Drones dropped…",
+          "date": "2026-09-07",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/russian-military-linked-roro-targeted-near-crete/",
+          "relevant": false
         },
         {
-          "title": "EU ETS reaches 100% emissions coverage for shipping from 1 January 2026",
-          "summary": "The EU Emissions Trading System for maritime transport moved to full implementation on 1 January 2026, requiring shipowners to surrender allowances for 100% of verified CO2 emissions (up from 70% in 2025), and for the first time brings methane and nitrous oxide into scope — sharply increasing compliance costs, especially for LNG-fuelled vessels.",
-          "date": "2026-01-21",
-          "source_name": "UK P&I Club",
-          "source_url": "https://www.ukpandi.com/news-and-resources/news/article/eu-ets-and-shipping-from-1-january-2026/"
+          "title": "IMO carbon price heads for December showdown",
+          "summary": "Shipping’s proposed global carbon price has survived another bruising week at the International Maritime Organization, with a clear majority of countries continuing to back the core architecture of the Net-Zero…",
+          "date": "2026-09-07",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/imo-carbon-price-heads-for-december-showdown/",
+          "relevant": false
         },
         {
-          "title": "EU's 21st Russia sanctions package adds 41 more vessels to shadow fleet list",
-          "summary": "The EU designated 41 additional tankers under its 21st sanctions package, pushing the total sanctioned 'shadow fleet' vessel list to nearly 600 ships, and expanded listing criteria to also capture vessels providing bunkering and support services to sanctioned tankers, triggering EU port-access bans and maritime service restrictions.",
-          "date": "2025-12-18",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/eu-sanctions-list-nears-600-ships-as-crackdown-on-russias-shadow-fleet-expands/"
+          "title": "Sea Lion Oil Project Caught in Argentina-Falklands Oil Dispute",
+          "summary": "Argentine President Javier Milei's push for sanctions on oil companies drilling offshore in the British-controlled Falkland Islands has put Israeli investors at…",
+          "date": "2026-09-07",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542763-sea-lion-oil-project-caught-in-argentina-falklands-oil-dispute",
+          "relevant": false
         },
         {
-          "title": "DNV publishes July 2026 class rules with new energy-transition notations",
-          "summary": "DNV's July 2026 rule edition (in force 1 January 2027, early adoption by mutual consent) introduces notations including 'Shore power ready', 'Battery ready', and 'ER(ULEV)' for ultra-low-emission vessels, alongside relaxed corrosion-margin/structural requirements and streamlined fire-safety documentation for windfarm service vessels.",
-          "date": "2026-07-02",
-          "source_name": "DNV",
-          "source_url": "https://www.dnv.com/news/2026/standards-now-available-the-july-2026-edition-of-the-dnv-class-rules-and-standards-for-ship-and-offshore/"
+          "title": "Hilcorp gets go-ahead for 2 new Pretty Creek wells",
+          "summary": "The Alaska Department of Natural Resources’ Division of Oil and Gas cleared Hilcorp Alaska to drill two new wells on two pads at its Pretty Creek unit on the west side of Cook Inlet. In related approvals, the Alaska Oil…",
+          "date": "2026-09-04",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/hilcorp-gets-go-ahead-for-2-new-pretty-creek-wells-79859",
+          "relevant": false
         },
         {
-          "title": "US State Department finalizes AUKUS ITAR exemption for defense trade",
-          "summary": "DDTC published a final rule (effective early January 2026) adding ITAR section 126.7(c), exempting certain reexports, retransfers and temporary imports of defense articles among Australia, the UK and the US when properly authorized, and expanding 'Authorized User' status to UK/Australian government departments — easing licence-free defence trade among AUKUS partners.",
-          "date": "2026-01-07",
-          "source_name": "DLA Piper",
-          "source_url": "https://www.dlapiper.com/en-us/insights/publications/2026/01/department-of-state-publishes-final-rule-finalizing-aukus-defense-trade-itar-exemption"
+          "title": "BP tasks Baker Hughes with production enhancement across UK North Sea assets",
+          "summary": "UK-headquartered energy giant BP has hired U.S.-headquartered energy technology giant Baker Hughes to support new well development and production optimization across its North Sea operations on the UK Continental Shelf…",
+          "date": "2026-09-04",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/bp-tasks-baker-hughes-with-production-enhancement-across-uk-north-sea-assets/",
+          "relevant": false
         },
         {
-          "title": "IMO reconvenes Net-Zero Framework vote after October 2025 adjournment",
-          "summary": "The IMO's Marine Environment Protection Committee adjourned its extraordinary session on the draft MARPOL Annex VI Net-Zero Framework (a global fuel standard and GHG pricing mechanism for ships above 5,000 GT) in October 2025, pushing final adoption to a reconvened session roughly 12 months later amid opposition led by the US — leaving shipowners in continued regulatory limbo on carbon levy design.",
-          "date": "2025-10-20",
-          "source_name": "IMO",
-          "source_url": "https://www.imo.org/en/mediacentre/pressbriefings/pages/imo-net-zero-shipping-talks-to-resume-in-2026.aspx"
+          "title": "Sea Lion partners face Argentine sanctions push over Falklands oil",
+          "summary": "Argentine President says he will sanction oil companies and their suppliers over the Navitas- and Rockhopper-backed Sea Lion Falklands project.",
+          "date": "2026-09-04",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/sea-lion-argentine-sanctions-falklands-oil/",
+          "relevant": false
+        },
+        {
+          "title": "Can the UK defend the Falkland Islands?",
+          "summary": "The UK military with rotting from within while intransigence in Whitehall is aiding Argentina's claim to the Falkland Islands. The post Can the UK defend the Falkland Islands? appeared first on Naval Technology .",
+          "date": "2026-09-04",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/comment/can-the-uk-defend-the-falkland-islands/",
+          "relevant": false
+        },
+        {
+          "title": "Milei Vows Tougher Sanctions, Defense Push Over Falklands Oil Drilling",
+          "summary": "Argentine President Javier Milei said on Thursday he would tighten sanctions on companies involved in oil projects around the Falkland Islands, boost defense resources…",
+          "date": "2026-09-04",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542726-milei-vows-tougher-sanctions-defense-push-over-falklands-oil-drilling",
+          "relevant": false
+        },
+        {
+          "title": "Texas Oil Regulator Hails 'Oil Theft Bust'",
+          "summary": "RRC Commissioner Wayne Christian hailed an 'oil theft bust' stemming from a multistate investigation as a 'victory for Texas oil and gas'.",
+          "date": "2026-09-03",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/texas_oil_regulator_hails_oil_theft_bust-03-sep-2026-184533-article/?rss=true",
+          "relevant": false
         }
       ]
     },
@@ -159,46 +321,76 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
-          "title": "Saipem-Subsea7 merger hit with EU Phase II antitrust investigation",
-          "summary": "The European Commission opened an in-depth Phase II probe into the proposed Saipem/Subsea7 merger (to form 'Saipem7') over concerns it could reduce competition in offshore engineering and subsea umbilicals, risers and flowlines (SURF) services; Australian regulators are also conducting an in-depth review.",
-          "date": "2026-07-13",
-          "source_name": "Offshore Magazine",
-          "source_url": "https://www.offshore-mag.com/business-briefs/company-news/news/55390468/subsea7-saipem-merger-faces-in-depth-regulatory-scrutiny-in-eu-and-australia"
+          "title": "Fujian Highton seeks nearly $300m for 16-ship buying spree",
+          "summary": "Chinese owner Fujian Highton Development is looking to raise up to RMB2bn ($295m) to bankroll a 16-ship acquisition programme spanning dry bulk and multipurpose heavylift tonnage. The Shanghai-listed company has…",
+          "date": "2026-09-07",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/fujian-highton-seeks-nearly-300m-for-16-ship-buying-spree/",
+          "relevant": false
+        },
+        {
+          "title": "WATCH: 24-meter USV performs first fully remote project",
+          "summary": "The 24-meter-long unmanned surface vessel (USV) Challenger, owned by a joint venture of DeepOcean, […] The post WATCH: 24-meter USV performs first fully remote project appeared first on Offshore Energy .",
+          "date": "2026-09-04",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/watch-24-meter-usv-performs-first-fully-remote-project/",
+          "relevant": false
+        },
+        {
+          "title": "Shell Completes Acquisition of Montney Major ARC",
+          "summary": "Shell completed its acquisition of ARC Resources, a leading producer in Canada's Montney shale, for around $16.5 billion including assumed debt.",
+          "date": "2026-09-04",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/shell_completes_acquisition_of_montney_major_arc-04-sep-2026-184538-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Williams closes $5.5bn Momentum deal to expand Haynesville footprint",
+          "summary": "Williams has acquired Momentum Midstream, adding more than 4,000 miles of Haynesville gathering and transmission pipe.",
+          "date": "2026-09-04",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/williams-closes-momentum-deal/",
+          "relevant": false
+        },
+        {
+          "title": "Kongsberg expands US presence with Sonatech acquisition",
+          "summary": "Kongsberg has completed its acquisition of Sonatech, a California-based engineering firm specialising in underwater acoustics. The post Kongsberg expands US presence with Sonatech acquisition appeared first on Naval…",
+          "date": "2026-09-03",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/kongsberg-sonatech-acquisition-us/",
+          "relevant": false
+        },
+        {
+          "title": "Valaris 107 completes five-well Turrum Phase 3 campaign",
+          "summary": "The Gippsland Basin joint venture between Esso Australia, a subsidiary of ExxonMobil, and Woodside Energy completed drilling five new production wells under the Turrum Phase 3 project, with the Valaris 107 jackup…",
+          "date": "2026-09-02",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/valaris-107-completes-five-well-turrum-phase-3-campaign-79768",
+          "relevant": false
         },
         {
           "title": "McDermott wins mega offshore EPCI contract from ADNOC for Umm Shaif",
           "summary": "McDermott, with its Qingdao McDermott Wuchuan (QMW) joint venture, was awarded a mega (over $1 billion) EPCI contract by ADNOC for Package 4 of the Umm Shaif Integrated Gas Cap and Surface Pressure Boosting Project, covering a jacket and topside that will rank among the heaviest offshore modules ever installed in the Middle East.",
           "date": "2026-08-24",
           "source_name": "McDermott (press release)",
-          "source_url": "https://www.mcdermott.com/press-release-detail/123077/adnoc-awards-mcdermott-mega-offshore-epci-contract-advance-umm-shaif-field-development"
+          "source_url": "https://www.mcdermott.com/press-release-detail/123077/adnoc-awards-mcdermott-mega-offshore-epci-contract-advance-umm-shaif-field-development",
+          "relevant": true
         },
         {
           "title": "Centurion Group expands Canadian rental footprint via Equipment World deal",
           "summary": "Centurion Group, parent of offshore accommodation module specialist H2M, acquired Equipment World Inc., an Ontario-based equipment sales, rental and maintenance provider, broadening Centurion's diversified multi-industry rental platform.",
           "date": "2026-07-29",
           "source_name": "Centurion Group",
-          "source_url": "https://www.centuriongroup.co.uk/centurion-expands-canadian-footprint-with-acquisition-of-equipment-world-inc"
+          "source_url": "https://www.centuriongroup.co.uk/centurion-expands-canadian-footprint-with-acquisition-of-equipment-world-inc",
+          "relevant": false
         },
         {
-          "title": "Wilhelmsen completes full exit from Edda Wind offshore wind vessel fleet",
-          "summary": "Wilhelmsen sold its entire stake in Edda Wind's service operation vessel (SOV) and commissioning SOV fleet, including newbuilds under construction, to UK-based North Star and an affiliate of Navigare Capital Partners, ending its offshore wind vessel investment.",
-          "date": "2026-04-29",
-          "source_name": "Wilhelmsen",
-          "source_url": "https://www.wilhelmsen.com/media-news-and-events/news/2026/wilhelmsen-completes-sale-of-edda-wind-vessel-fleet/"
-        },
-        {
-          "title": "H2M launches redesigned lightweight offshore accommodation module",
-          "summary": "H2M Offshore Accommodation (a Centurion Group company) launched a newly designed A60/DNV 2.7-1/ABS/USCG-certified ISO 20ft accommodation module aimed at offshore wind projects, manufactured with sister company Specialist Services and already deployed on a Taiwan offshore wind project.",
-          "date": "2025-04-29",
-          "source_name": "Centurion Group",
-          "source_url": "https://www.centuriongroup.co.uk/h2m-expands-rental-fleet-launches-newly-designed-offshore-accommodation-modules"
-        },
-        {
-          "title": "Armoda delivers single-lift fiberglass modular living quarters for dredging barge",
-          "summary": "Modular fabricator Armoda (New Iberia, Louisiana) completed and installed a custom 36'x32'x12' fiberglass modular living quarters unit as a single-lift structure on a dredging barge, housing a 12-person crew with staterooms, galley and laundry facilities.",
-          "date": "2025-10-21",
-          "source_name": "WorkBoat",
-          "source_url": "https://www.workboat.com/armoda-delivers-modular-living-quarters-for-dredging-barge"
+          "title": "Saipem-Subsea7 merger hit with EU Phase II antitrust investigation",
+          "summary": "The European Commission opened an in-depth Phase II probe into the proposed Saipem/Subsea7 merger (to form 'Saipem7') over concerns it could reduce competition in offshore engineering and subsea umbilicals, risers and flowlines (SURF) services; Australian regulators are also conducting an in-depth review.",
+          "date": "2026-07-13",
+          "source_name": "Offshore Magazine",
+          "source_url": "https://www.offshore-mag.com/business-briefs/company-news/news/55390468/subsea7-saipem-merger-faces-in-depth-regulatory-scrutiny-in-eu-and-australia",
+          "relevant": false
         }
       ]
     },
@@ -209,52 +401,112 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Hormuz Traffic Dips To Lowest Since May After US, Iranian Strikes On Ships",
+          "summary": "By Florence Tan SINGAPORE, Sept 7 (Reuters) – An average of 10 commodity ships transited the Strait of Hormuz per day over the past 10 days, the lowest since May, according to shipping data...",
+          "date": "2026-09-07",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/hormuz-traffic-dips-to-lowest-since-may-after-us-iranian-strikes-on-ships/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Petronas on AI-powered quest to streamline Malaysia’s upstream investment playbook",
+          "summary": "Malaysia’s state-owned oil and gas heavyweight Petronas is using artificial intelligence (AI) to transform the country’s exploration and production investment landscape, helping investors identify and evaluate upstream…",
+          "date": "2026-09-07",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/petronas-on-ai-powered-quest-to-streamline-malaysias-upstream-investment-playbook/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "OPEC+ 7 Reveal October Output Plan",
+          "summary": "A statement posted on OPEC's website on Sunday revealed Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria, and Oman's production plan for October.",
+          "date": "2026-09-07",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/opec_7_reveal_october_output_plan-07-sep-2026-184549-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "Petronas Turns to AI to Accelerate Upstream Investment",
+          "summary": "Malaysia's state energy firm Petronas has signed an agreement with Iraya Energies to integrate agentic artificial intelligence capabilities into its myPROdata upstream data platform…",
+          "date": "2026-09-07",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542771-petronas-turns-to-ai-to-accelerate-upstream-investment",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "US Carrier Abraham Lincoln Departs Thailand After Respite Visit",
+          "summary": "Sept 6 (Reuters) – The U.S. aircraft carrier Abraham Lincoln left Thailand on Sunday after a five-day port visit, ending a respite from an extended deployment that included operations in the Middle East, the U.S. Navy…",
+          "date": "2026-09-06",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/us-carrier-abraham-lincoln-departs-thailand-after-respite-visit/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Indonesia Energy discovers oil at K-29 well in Sumatra",
+          "summary": "Indonesia Energy discovered good quality oil during testing operations at its newly drilled K-29 well at the Kruh Block on the island of Sumatra, Indonesia, the company said 2 September 2026. K-29 was spud 25 July 2026…",
+          "date": "2026-09-04",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/indonesia-energy-discovers-oil-at-k-29-well-in-sumatra-79857",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Three-fold resource surge sharpens focus on Tetragon’s gas play offshore Philippines",
+          "summary": "Asia-focussed oil and gas explorer Tetragon Energy has upgraded the potential of its gas portfolio off the coast of the Philippines, more than tripling the mid-case prospective resource estimate for a key exploration…",
+          "date": "2026-09-04",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/three-fold-resource-surge-sharpens-focus-on-tetragons-gas-play-offshore-philippines/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "EnQuest Trims Losses",
+          "summary": "The London-based company, whose production comes from the UK's side of the North Sea and Southeast Asia, reported a net loss of $24.83 million for H1 2026, improving from -$39.94 million for H1 2025 on higher production…",
+          "date": "2026-09-04",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/enquest_trims_losses-04-sep-2026-184541-article/?rss=true",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "ADNOC Keeps Loading LNG Tankers in Gulf",
+          "summary": "ADNOC appears to be continuing to load liquefied natural gas onto tankers in the Persian Gulf, according to satellite images, despite ongoing disruptions to energy flows through the Strait of Hormuz and a recent…",
+          "date": "2026-09-04",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/adnoc_keeps_loading_lng_tankers_in_gulf-04-sep-2026-184536-article/?rss=true",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
+          "title": "Bass Oil confirms new oil pay at Bunian 6 in Indonesia",
+          "summary": "Bass Oil has confirmed the identification of oil pay in three separate reservoirs at its Bunian 6 well in Indonesia’s South Sumatra Basin.",
+          "date": "2026-09-04",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/bass-oil-new-oil-pay-bunian-6/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Singapore Lays Keel for Third Multi-Role Combat Vessel",
+          "summary": "On September 3, 2026, ST Engineering announced the keel-laying ceremony of the third Multi-Role Combat Vessel (MRCV) for the Republic of Singapore Navy The ceremony took place at ST Engineering Marine and was officiated…",
+          "date": "2026-09-03",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/singapore-lays-keel-for-third-multi-role-combat-vessel/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Technip Energies wins ADNOC Offshore engineering contract via L&T",
           "summary": "Technip Energies was selected by Larsen & Toubro (L&T) for a significant detailed engineering services contract on a major ADNOC Offshore project in the UAE, covering new offshore facilities and modifications to existing infrastructure. The award follows L&T's lead role in a consortium that secured an EPCIC contract worth over $1.7bn from ADNOC Offshore.",
           "date": "2026-08-26",
           "source_name": "GlobeNewswire (Technip Energies)",
           "source_url": "https://www.globenewswire.com/news-release/2026/08/26/3351071/0/en/technip-energies-selected-by-l-t-for-a-significant-engineering-services-contract-for-adnoc-offshore-in-the-uae.html",
-          "region": "UAE"
-        },
-        {
-          "title": "Abu Dhabi Ship Building signs Dh1.3bn Leonardo deal for Kuwait missile boats",
-          "summary": "Abu Dhabi Ship Building (ADSB), an EDGE Group subsidiary, signed a Dh1.3bn (~€320m) contract with Italy's Leonardo to equip Kuwait's new Falaj 3-configuration Al Dorra-class missile boats with combat systems, radar and guns. ADSB is building eight of the vessels for the Kuwaiti Navy under a broader export program.",
-          "date": "2026-05-20",
-          "source_name": "The National (UAE)",
-          "source_url": "https://www.thenationalnews.com/business/economy/2026/05/20/abu-dhabi-ship-building-signs-dh13bn-leonardo-deal-for-kuwait-missile-boats/",
-          "region": "UAE"
-        },
-        {
-          "title": "AD Ports Group earmarks $667m for 2026 port infrastructure investment",
-          "summary": "Abu Dhabi-listed AD Ports Group set 2026 capital expenditure of AED2.45bn ($667m) for port infrastructure development, following record 2025 revenue (AED20.77bn, up 20%) and profit. The plan includes expansion at Khalifa Port and further capex for LNG/LPG storage terminal development through 2028.",
-          "date": "2026-01-01",
-          "source_name": "Zawya",
-          "source_url": "https://www.zawya.com/en/projects/industry/abu-dhabi-listed-ad-ports-sets-2026-capex-at-667mln-352196",
-          "region": "UAE"
-        },
-        {
-          "title": "Saipem wins $500m Aramco offshore contract for Safaniya trunkline",
-          "summary": "Saipem was awarded a contract release purchase order by Saudi Aramco worth ~$500 million for EPCI of a 48-inch, ~65km offshore/12km onshore trunkline and related subsea infrastructure at the Safaniya oil field, under its existing long-term agreement with Aramco.",
-          "date": "2026-02-23",
-          "source_name": "Saipem",
-          "source_url": "https://www.saipem.com/en/media/press-releases/2026-02-23/saipem-awarded-new-offshore-contract-saudi-arabia-worth",
-          "region": "KSA"
-        },
-        {
-          "title": "Saipem awarded two more Saudi offshore contracts worth ~$400m",
-          "summary": "Saipem secured two additional offshore contracts in Saudi Arabia (CRPOs under its long-term agreement with Aramco) worth a combined ~$400 million, covering further infrastructure work at the Safaniya oil field, building on its February 2026 award in the same field.",
-          "date": "2026-04-15",
-          "source_name": "Saipem",
-          "source_url": "https://www.saipem.com/en/media/press-releases/2026-04-15/saipem-awarded-two-offshore-contracts-kingdom-saudi-arabia-worth",
-          "region": "KSA"
-        },
-        {
-          "title": "Petronas launches Malaysia Bid Round 2026 to boost E&P investment",
-          "summary": "Petronas, via Malaysia Petroleum Management, launched Malaysia Bid Round 2026 (MBR 2026) on 11 February 2026, offering nine exploration blocks (including a frontier Sandakan Basin block) plus six ready-to-develop Discovered Resource Opportunities, as Malaysia seeks RM50-60bn in annual upstream investment.",
-          "date": "2026-02-11",
-          "source_name": "Oil & Gas Journal",
-          "source_url": "https://www.ogj.com/exploration-development/news/55356924/petronas-launches-malaysia-bid-round-2026",
-          "region": "SEA"
+          "region": "UAE",
+          "relevant": true
         },
         {
           "title": "Vietnam begins construction of first indigenous multipurpose frigate",
@@ -262,15 +514,8 @@
           "date": "2026-08-13",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/08/vietnam-begins-construction-indigenous-multipurpose-frigate/",
-          "region": "SEA"
-        },
-        {
-          "title": "HD Hyundai delivers first Rajah Sulayman-class OPV to Philippine Navy",
-          "summary": "HD Hyundai Heavy Industries delivered the first of six 2,400-ton Rajah Sulayman-class offshore patrol vessels to the Philippine Navy in February 2026, five months ahead of schedule, under a ₱30bn ($573m) contract signed in 2022; the remaining five vessels are due for sequential delivery through 2028.",
-          "date": "2026-02-24",
-          "source_name": "Naval-Technology",
-          "source_url": "https://www.naval-technology.com/news/philippines-navy-opv-delivery-hhi/",
-          "region": "SEA"
+          "region": "SEA",
+          "relevant": false
         }
       ]
     }

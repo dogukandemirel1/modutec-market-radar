@@ -4,13 +4,24 @@ Refreshes data.json for Modutec Market Radar from free RSS feeds.
 
 Pulls headlines from a set of marine/offshore/energy/defence trade press
 RSS feeds, sorts each item into one of the 5 existing dashboard categories
-via keyword matching, and rewrites data.json in the same structure the
-site already reads (index.html requires no changes).
+via keyword matching, and merges them into the existing data.json - it
+never wipes a category and replaces it with just this run's fetch.
 
-New items are merged with whatever is already in data.json for that
-category (deduped by source URL, newest first, capped at MAX_ITEMS) so a
-quiet news day for a category doesn't leave it empty.
+Merge behaviour, per category:
+  - New items are combined with whatever is already on disk.
+  - Duplicates are skipped by matching on source_url.
+  - Items older than RETENTION_DAYS are dropped automatically, EXCEPT
+    categories listed in EXPIRY_EXEMPT_CATEGORIES (day-rates: benchmark
+    rate reports don't get published daily via RSS, so that category
+    keeps its items until fresh day-rate items actually replace them).
 
+Each item is also flagged "relevant": true/false based on whether its
+title/summary mentions Modutec's core markets (UAE, KSA, Saudi Arabia,
+Aberdeen, ADNOC, Aramco, Dubai, Abu Dhabi) - see MODUTEC_RELEVANCE_KEYWORDS.
+Existing items from prior runs that predate this field are backfilled
+the same way.
+
+index.html requires no changes - the JSON structure is unchanged.
 No API keys required - RSS only.
 """
 from __future__ import annotations
@@ -20,7 +31,7 @@ import json
 import re
 import sys
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import feedparser
@@ -28,8 +39,8 @@ import feedparser
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DATA_PATH = REPO_ROOT / "data.json"
 
-MIN_ITEMS = 5
-MAX_ITEMS = 8
+RETENTION_DAYS = 60
+EXPIRY_EXEMPT_CATEGORIES = {"day-rates"}
 MIN_SCORE = 2  # a single weak (weight-1) keyword hit alone isn't enough to classify
 SUMMARY_MAX_CHARS = 220
 USER_AGENT = (
@@ -105,6 +116,13 @@ REGION_KEYWORDS = {
     ],
 }
 
+# Any item (in any category) whose title/summary mentions one of these is
+# flagged "relevant": true, so the site can offer a "Modutec-relevant" filter.
+MODUTEC_RELEVANCE_KEYWORDS = [
+    "uae", "ksa", "saudi arabia", "aberdeen", "adnoc", "aramco",
+    "dubai", "abu dhabi",
+]
+
 
 def clean_summary(raw_html: str) -> str:
     text = html.unescape(raw_html or "")
@@ -141,6 +159,10 @@ def detect_region(text: str) -> str | None:
         if any(kw in text for kw in keywords):
             return region
     return None
+
+
+def is_modutec_relevant(text: str) -> bool:
+    return any(kw in text for kw in MODUTEC_RELEVANCE_KEYWORDS)
 
 
 def fetch_items() -> dict[str, list[dict]]:
@@ -184,6 +206,7 @@ def fetch_items() -> dict[str, list[dict]]:
                 "date": date,
                 "source_name": source_name,
                 "source_url": link,
+                "relevant": is_modutec_relevant(haystack),
             }
             if category == "regional":
                 region = detect_region(haystack)
@@ -195,7 +218,23 @@ def fetch_items() -> dict[str, list[dict]]:
     return buckets
 
 
-def merge_and_cap(new_items: list[dict], existing_items: list[dict]) -> list[dict]:
+def backfill_relevant(item: dict) -> dict:
+    if "relevant" not in item:
+        text = f"{item.get('title', '')} {item.get('summary', '')}".lower()
+        item["relevant"] = is_modutec_relevant(text)
+    return item
+
+
+def merge_items(
+    category: str, new_items: list[dict], existing_items: list[dict], cutoff_date: str
+) -> list[dict]:
+    """Merge new + existing items for one category: dedupe by source_url,
+    drop anything older than cutoff_date (unless the category is expiry
+    exempt), sort newest first. Never truncates to a fixed count - the
+    only thing that removes an item going forward is age (or expiry
+    exemption keeping it around indefinitely)."""
+    existing_items = [backfill_relevant(dict(it)) for it in existing_items]
+
     seen_urls = set()
     merged = []
     for item in new_items + existing_items:
@@ -204,8 +243,12 @@ def merge_and_cap(new_items: list[dict], existing_items: list[dict]) -> list[dic
             continue
         seen_urls.add(url)
         merged.append(item)
+
+    if category not in EXPIRY_EXEMPT_CATEGORIES:
+        merged = [it for it in merged if it.get("date", "") >= cutoff_date]
+
     merged.sort(key=lambda i: i.get("date", ""), reverse=True)
-    return merged[:MAX_ITEMS]
+    return merged
 
 
 def main() -> None:
@@ -216,6 +259,9 @@ def main() -> None:
     existing = json.loads(DATA_PATH.read_text(encoding="utf-8"))
     existing_sections = {s["id"]: s for s in existing.get("sections", [])}
 
+    today = datetime.now(timezone.utc).date()
+    cutoff_date = (today - timedelta(days=RETENTION_DAYS)).strftime("%Y-%m-%d")
+
     print("Fetching feeds...")
     new_buckets = fetch_items()
     for cat in CATEGORY_ORDER:
@@ -225,7 +271,7 @@ def main() -> None:
     for cat in CATEGORY_ORDER:
         base = existing_sections.get(cat, {})
         existing_items = base.get("items", [])
-        merged_items = merge_and_cap(new_buckets[cat], existing_items)
+        merged_items = merge_items(cat, new_buckets[cat], existing_items, cutoff_date)
         sections.append({
             "id": cat,
             "title": base.get("title", cat),
@@ -233,8 +279,8 @@ def main() -> None:
             "description": base.get("description", ""),
             "items": merged_items,
         })
-        print(f"  {cat}: {len(merged_items)} item(s) in final section "
-              f"({'ok' if len(merged_items) >= MIN_ITEMS else 'below target of ' + str(MIN_ITEMS)})")
+        exempt_note = " (expiry exempt)" if cat in EXPIRY_EXEMPT_CATEGORIES else f" (>= {cutoff_date})"
+        print(f"  {cat}: {len(merged_items)} item(s) after merge{exempt_note}")
 
     output = {
         "last_updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
