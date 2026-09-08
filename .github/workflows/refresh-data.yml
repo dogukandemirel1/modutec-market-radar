@@ -2,8 +2,11 @@ name: Refresh market radar data
 
 on:
   schedule:
-    # 08:00 Dubai time daily (Asia/Dubai is UTC+4 year-round, no DST) = 04:00 UTC
-    - cron: "0 4 * * *"
+    # ~08:00 Dubai time daily (Asia/Dubai is UTC+4 year-round, no DST) = ~04:00 UTC.
+    # Offset a few minutes past the hour on purpose: GitHub Actions frequently
+    # delays or drops scheduled runs queued for exact hour marks (00 minutes)
+    # due to load - see https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule
+    - cron: "7 4 * * *"
   workflow_dispatch: {}
 
 permissions:
