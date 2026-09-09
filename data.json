@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T10:00:59Z",
+  "last_updated": "2026-09-09T11:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -217,14 +217,6 @@
           "relevant": false
         },
         {
-          "title": "ExxonMobil to Acquire Papua LNG Operatorship from TotalEnergies",
-          "summary": "TotalEnergies said the transfer, which also involves a farm-down by the French majority owner, will help bring the project closer to a final investment decision.",
-          "date": "2026-09-07",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/exxonmobil_to_acquire_papua_lng_operatorship_from_totalenergies-07-sep-2026-184550-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "TotalEnergies to transfer Papua LNG operatorship to ExxonMobil",
           "summary": "TotalEnergies has agreed to transfer operatorship of the Papua LNG project in PNG to ExxonMobil PNG Antelope, as part of a set of contractual and commercial agreements ahead of a FID on the development.",
           "date": "2026-09-07",
@@ -254,6 +246,14 @@
           "date": "2026-09-07",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542778-onesubsea-to-supply-umbilicals-for-azule-energy-s-project-off-angola",
+          "relevant": false
+        },
+        {
+          "title": "ExxonMobil to Acquire Papua LNG Operatorship from TotalEnergies",
+          "summary": "TotalEnergies said the transfer, which also involves a farm-down by the French majority owner, will help bring the project closer to a final investment decision.",
+          "date": "2026-09-07",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/exxonmobil_to_acquire_papua_lng_operatorship_from_totalenergies-07-sep-2026-184550-article/?rss=true",
           "relevant": false
         },
         {
