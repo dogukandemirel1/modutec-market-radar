@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T15:01:02Z",
+  "last_updated": "2026-09-09T16:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -433,6 +433,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "White Fleet’s WFD 450 begins drilling for Arena",
+          "summary": "White Fleet Drilling’s WFD 450 jackup commenced a multi-well drilling program on Arena Energy’s US Gulf assets, the companies announced on 8 September 2026. The WFD 450 can drill in water depths up to 400 ft and to…",
+          "date": "2026-09-09",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/white-fleets-wfd-450-begins-drilling-for-arena-79907",
+          "relevant": false
+        },
+        {
           "title": "Belgian Utility Gets Over $1B EIB Loan for Artificial North Sea Energy Isle",
           "summary": "Elia Transmission Belgium signed a record EUR 1 billion (around $1.16 billion) credit facility with the European Investment Bank for an artificial energy island project in the North Sea.",
           "date": "2026-09-09",
@@ -513,19 +521,19 @@
           "relevant": false
         },
         {
-          "title": "Hilcorp gets go-ahead for 2 new Pretty Creek wells",
-          "summary": "The Alaska Department of Natural Resources’ Division of Oil and Gas cleared Hilcorp Alaska to drill two new wells on two pads at its Pretty Creek unit on the west side of Cook Inlet. In related approvals, the Alaska Oil…",
-          "date": "2026-09-04",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/hilcorp-gets-go-ahead-for-2-new-pretty-creek-wells-79859",
-          "relevant": false
-        },
-        {
           "title": "Can the UK defend the Falkland Islands?",
           "summary": "The UK military with rotting from within while intransigence in Whitehall is aiding Argentina's claim to the Falkland Islands. The post Can the UK defend the Falkland Islands? appeared first on Naval Technology .",
           "date": "2026-09-04",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/comment/can-the-uk-defend-the-falkland-islands/",
+          "relevant": false
+        },
+        {
+          "title": "Hilcorp gets go-ahead for 2 new Pretty Creek wells",
+          "summary": "The Alaska Department of Natural Resources’ Division of Oil and Gas cleared Hilcorp Alaska to drill two new wells on two pads at its Pretty Creek unit on the west side of Cook Inlet. In related approvals, the Alaska Oil…",
+          "date": "2026-09-04",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/hilcorp-gets-go-ahead-for-2-new-pretty-creek-wells-79859",
           "relevant": false
         },
         {
@@ -568,6 +576,30 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "OGDCL, Mari bring Lundali-1 online in Sukhpur-II Block",
+          "summary": "Oil and Gas Development Company (OGDCL) and joint venture partner Mari Energies achieved first gas at the Lundali-1 well in Pakistan’s Sukhpur-II Block on 6 September 2026. The well is producing 10 mcf/d of gas at a…",
+          "date": "2026-09-09",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/ogdcl-mari-bring-lundali-1-online-in-sukhpur-ii-block-79902",
+          "relevant": false
+        },
+        {
+          "title": "Sapphire Expands Southwest Presence into LNG Production",
+          "summary": "Sapphire acquired a small-scale liquefied natural gas production facility in Ehrenberg, Arizona, part of its efforts to establish a leading vertically integrated merchant LNG platform in the U.S.",
+          "date": "2026-09-09",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/sapphire_expands_southwest_presence_into_lng_production-09-sep-2026-184574-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "PowerTransitions Acquires 1.24GW Roseton Gas Power Plant in NY",
+          "summary": "Roseton's 'scale and existing grid infrastructure make it an ideal candidate for co-location development into a robust energy campus, including new energy storage systems', PowerTransitions said.",
+          "date": "2026-09-09",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/powertransitions_acquires_124gw_roseton_gas_power_plant_in_ny-09-sep-2026-184573-article/?rss=true",
+          "relevant": false
+        },
         {
           "title": "Greece and Italy Ink Deal for Two FREMM Frigates",
           "summary": "Greece and Italy have signed an agreement activating the Hellenic Navy’s acquisition of two Bergamini-class FREMM frigates, scheduled for transfer in 2028 and 2029. The post Greece and Italy Ink Deal for Two FREMM…",
