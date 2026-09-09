@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T13:01:04Z",
+  "last_updated": "2026-09-09T14:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -70,6 +70,14 @@
           "date": "2026-09-09",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/india-larsen-toubro-company-gets-epcic-order-from-ongc/",
+          "relevant": false
+        },
+        {
+          "title": "Saipem wins Osman Gazi FPU commissioning contract in Türkiye",
+          "summary": "Saipem has secured a contract from GOE Petrol Sanayi to provide commissioning services for the Osman Gazi FPU, which will serve the Sakarya gas field in the Turkish Black Sea.",
+          "date": "2026-09-09",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/saipem-osman-gazi-fpu-contract-turkiye/",
           "relevant": false
         },
         {
@@ -297,19 +305,19 @@
           "relevant": false
         },
         {
-          "title": "Baker Hughes wins BP stimulation contract for UK North Sea",
-          "summary": "Baker Hughes secured a contract from BP to provide offshore stimulation services across the operator’s UK North Sea operations. The award covers both new well development and enhanced recovery from mature fields. Baker…",
-          "date": "2026-09-04",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/baker-hughes-wins-bp-stimulation-contract-for-uk-north-sea-79855",
-          "relevant": false
-        },
-        {
           "title": "Spanish Navy selects Alpha Unmanned’s A900 helicopters for CEVENTA centre",
           "summary": "The Spanish Navy has awarded Alpha Unmanned Systems a contract to supply a Class I Remotely Piloted Aircraft System for the Armada’s Unmanned Vehicle Experimentation Centre (CEVENTA). The post Spanish Navy selects Alpha…",
           "date": "2026-09-04",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/spain-navy-a900-helicopters/",
+          "relevant": false
+        },
+        {
+          "title": "Baker Hughes wins BP stimulation contract for UK North Sea",
+          "summary": "Baker Hughes secured a contract from BP to provide offshore stimulation services across the operator’s UK North Sea operations. The award covers both new well development and enhanced recovery from mature fields. Baker…",
+          "date": "2026-09-04",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/baker-hughes-wins-bp-stimulation-contract-for-uk-north-sea-79855",
           "relevant": false
         },
         {
@@ -569,19 +577,19 @@
           "relevant": false
         },
         {
-          "title": "Kistos secures Royal Decree for Oman Blocks 3 and 4 deal",
-          "summary": "UK-based energy firm Kistos has been granted a Royal Decree by the Sultanate of Oman relating to its acquisition of onshore Blocks 3 and 4 (Afar & Ghunaim) in Oman from Mitsui E&P Middle East.",
-          "date": "2026-09-08",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/kistos-royal-decree-oman-blocks-3-and-4/",
-          "relevant": false
-        },
-        {
           "title": "India’s DAC approves $11.64bn procurement boost for armed forces",
           "summary": "India’s Defence Acquisition Council has granted in-principle approval for defence acquisitions valued at approximately Rs1.1trn ($11.64bn). The post India’s DAC approves $11.64bn procurement boost for armed forces…",
           "date": "2026-09-08",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/india-defence-procurement-armed-forces/",
+          "relevant": false
+        },
+        {
+          "title": "Kistos secures Royal Decree for Oman Blocks 3 and 4 deal",
+          "summary": "UK-based energy firm Kistos has been granted a Royal Decree by the Sultanate of Oman relating to its acquisition of onshore Blocks 3 and 4 (Afar & Ghunaim) in Oman from Mitsui E&P Middle East.",
+          "date": "2026-09-08",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/kistos-royal-decree-oman-blocks-3-and-4/",
           "relevant": false
         },
         {
@@ -673,6 +681,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "MISC launches Malaysia’s first maritime-focused foundation",
+          "summary": "MISC Group has launched Yayasan Maritim, which it describes as Malaysia’s first dedicated maritime-focused foundation, aimed at strengthening the country’s maritime talent pipeline, marine resilience and coastal…",
+          "date": "2026-09-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/misc-launches-malaysias-first-maritime-focused-foundation/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Hanwha Ocean Selected as Preferred Bidder for Thailand’s Next-Generation Frigate Program",
           "summary": "Hanwha Ocean has been selected as the preferred bidder for the Royal Thai Navy’s next-generation frigate procurement program. The post Hanwha Ocean Selected as Preferred Bidder for Thailand’s Next-Generation Frigate…",
           "date": "2026-09-09",
@@ -698,15 +715,6 @@
           "source_url": "https://www.oedigital.com/news/542818-vallourec-aramco-expand-tubulars-partnership",
           "relevant": true,
           "region": "KSA"
-        },
-        {
-          "title": "MISC launches Malaysia’s first maritime-focused foundation",
-          "summary": "MISC Group has launched Yayasan Maritim, which it describes as Malaysia’s first dedicated maritime-focused foundation, aimed at strengthening the country’s maritime talent pipeline, marine resilience and coastal…",
-          "date": "2026-09-09",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/misc-launches-malaysias-first-maritime-focused-foundation/",
-          "relevant": false,
-          "region": "SEA"
         },
         {
           "title": "Saudi Arabia Halts Energy Sites",
