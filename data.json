@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T11:59:39Z",
+  "last_updated": "2026-09-09T05:36:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -65,19 +65,107 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Oil Tanker Company Says It’s Owed $55 Million in Rate Dispute",
+          "summary": "Oil tanker company Hunter Group ASA says it’s owed $55 million by a counterparty that’s disputing its contractual obligations after a surge in the world’s benchmark freight rate.",
+          "date": "2026-09-08",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/oil-tanker-company-says-its-owed-55-million-in-rate-dispute/",
+          "relevant": false
+        },
+        {
+          "title": "Russia’s Arctic LNG 2 Seeks $1 Billion in Damages From South Korea’s Hanwha",
+          "summary": "Arctic LNG 2, a liquefied natural gas project led by Russia's Novatek NVTK.MM, is seeking about $1 billion in damages from South Korean shipbuilder Hanwha Ocean over canceled tanker construction contracts, according to…",
+          "date": "2026-09-08",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/russias-arctic-lng-2-seeks-1-billion-in-damages-from-south-koreas-hanwha/",
+          "relevant": false
+        },
+        {
+          "title": "Saipem wins Turkish FPU commissioning job",
+          "summary": "Italian offshore engineering contractor Saipem has picked up another piece of Turkey’s fast-expanding Sakarya gas development, securing the commissioning work for the country’s first floating gas production unit. GOE…",
+          "date": "2026-09-08",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/saipem-wins-turkish-fpu-commissioning-job/",
+          "relevant": false
+        },
+        {
+          "title": "Eni hands McDermott major Cyprus subsea contract",
+          "summary": "McDermott has landed a subsea contract worth between $500m and $750m from Eni for the fast-tracked Cronos gas development offshore Cyprus, adding another sizeable offshore project to its orderbook. The Houston-based…",
+          "date": "2026-09-08",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/eni-hands-mcdermott-major-cyprus-subsea-contract/",
+          "relevant": false
+        },
+        {
+          "title": "Ventura  expands managed fleet, secures PETRONAS drilling deal in Indonesia",
+          "summary": "Ventura Offshore agreed to provide marketing and operations management services for Eldorado Drilling’s Deep Value Driller and separately signed a one-well drilling contract with PETRONAS E&P Bobara offshore Indonesia…",
+          "date": "2026-09-08",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/ventura-expands-managed-fleet-secures-petronas-drilling-deal-in-indonesia-79879",
+          "relevant": false
+        },
+        {
+          "title": "First subsea contract with Eni takes McDermott to Cyprus",
+          "summary": "U.S. offshore engineering and construction player McDermott has secured its first subsea contract with […] The post First subsea contract with Eni takes McDermott to Cyprus appeared first on Offshore Energy .",
+          "date": "2026-09-08",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/first-subsea-contract-with-eni-takes-mcdermott-to-cyprus/",
+          "relevant": false
+        },
+        {
+          "title": "Saipem put in charge of commissioning services for Türkiye-bound FPU",
+          "summary": "Saipem has secured a new contract with GOE Petrol Sanayi to provide commissioning services […] The post Saipem put in charge of commissioning services for Türkiye-bound FPU appeared first on Offshore Energy .",
+          "date": "2026-09-08",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/saipem-put-in-charge-of-commissioning-services-for-turkiye-bound-fpu/",
+          "relevant": false
+        },
+        {
+          "title": "Shearwater to use electric ROVs for North Sea contract",
+          "summary": "Norway’s Shearwater Geoservices has secured an ocean bottom node (OBN) survey contract in the […] The post Shearwater to use electric ROVs for North Sea contract appeared first on Offshore Energy .",
+          "date": "2026-09-08",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/shearwater-to-use-electric-rovs-for-north-sea-contract/",
+          "relevant": false
+        },
+        {
+          "title": "Eni Picks McDermott for Cronos Field Subsea Work off Cyprus",
+          "summary": "McDermott has secured a subsea contract from Eni for the Cronos gas field development offshore Cyprus, following the recent final investment decision for the country's first gas development…",
+          "date": "2026-09-08",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542798-eni-picks-mcdermott-for-cronos-field-subsea-work-off-cyprus",
+          "relevant": false
+        },
+        {
+          "title": "T12 Engineering Gets OWGP Funding for Floating Wind Mooring Tech",
+          "summary": "T12 Engineering has secured funding from the Offshore Wind Growth Partnership (OWGP) to advance its Floating Mooring System (FMS), a technology designed to reduce…",
+          "date": "2026-09-08",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542795-t12-engineering-gets-owgp-funding-for-floating-wind-mooring-tech",
+          "relevant": false
+        },
+        {
+          "title": "Elia Secures $1.1B EIB Loan for Princess Elisabeth Energy Island",
+          "summary": "Belgian transmission system operator Elia Transmission Belgium has secured a $1.15 billion (€1 billion) green credit facility from the European Investment Bank (EIB)…",
+          "date": "2026-09-08",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542793-elia-secures-1-1b-eib-loan-for-princess-elisabeth-energy-island",
+          "relevant": false
+        },
+        {
+          "title": "Saipem Bags Commissioning Contract for Türkiye-Bound FPU",
+          "summary": "Italian energy services firm Saipem has secured a contract from GOE Petrol Sanayi for commissioning services on the Osman Gazi floating production unit (FPU), destined…",
+          "date": "2026-09-08",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542790-saipem-bags-commissioning-contract-for-t-rkiye-bound-fpu",
+          "relevant": false
+        },
+        {
           "title": "Russia Launches Massive Vostok Oil Project, Marking New Arctic Shipping Era",
           "summary": "Russia has begun loading crude from its giant Vostok Oil development onto tankers at the newly built Bukhta Sever terminal on the Kara Sea, marking the start of what could become one of the largest new sources of…",
           "date": "2026-09-07",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/russia-launches-massive-vostok-oil-project-marking-new-arctic-shipping-era/",
-          "relevant": false
-        },
-        {
-          "title": "Ventura lines up $58m Petronas job as Eldorado drillship joins managed fleet",
-          "summary": "Ventura Offshore has struck a management deal with Eldorado Drilling for the seventh-generation Deep Value Driller and simultaneously secured a one-well drilling contract with Petronas in Indonesia valued at around…",
-          "date": "2026-09-07",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/ventura-lines-up-58m-petronas-job-as-eldorado-drillship-joins-managed-fleet/",
           "relevant": false
         },
         {
@@ -89,6 +177,22 @@
           "relevant": false
         },
         {
+          "title": "Ventura Offshore adds deepwater firepower to managed fleet and wins Petronas rig deal",
+          "summary": "Brazilian deepwater offshore drilling contractor Ventura Offshore has expanded its managed fleet by adding Eldorado Drilling’s seventh-generation drillship to its rig pool. The firm has also secured a…",
+          "date": "2026-09-07",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/ventura-offshore-adds-deepwater-firepower-to-managed-fleet-and-wins-petronas-rig-deal/",
+          "relevant": false
+        },
+        {
+          "title": "OneSubsea to support Azule Energy’s production shift from aging to new FPSO",
+          "summary": "Azule Energy, a joint venture between Italy’s Eni and the UK’s BP, has awarded SLB […] The post OneSubsea to support Azule Energy’s production shift from aging to new FPSO appeared first on Offshore Energy .",
+          "date": "2026-09-07",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/onesubsea-to-support-azule-energys-production-shift-from-aging-to-new-fpso/",
+          "relevant": false
+        },
+        {
           "title": "ExxonMobil to Acquire Papua LNG Operatorship from TotalEnergies",
           "summary": "TotalEnergies said the transfer, which also involves a farm-down by the French majority owner, will help bring the project closer to a final investment decision.",
           "date": "2026-09-07",
@@ -97,11 +201,51 @@
           "relevant": false
         },
         {
+          "title": "TotalEnergies to transfer Papua LNG operatorship to ExxonMobil",
+          "summary": "TotalEnergies has agreed to transfer operatorship of the Papua LNG project in PNG to ExxonMobil PNG Antelope, as part of a set of contractual and commercial agreements ahead of a FID on the development.",
+          "date": "2026-09-07",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/totalenergies-to-hand-papua-lng-exxonmobil/",
+          "relevant": false
+        },
+        {
+          "title": "SubSea Craft simplify payload integration on its USV",
+          "summary": "British naval engineering firm, SubSea Craft, unveiled its new modular payload cassette system for its MARS uncrewed surface vessel. The post SubSea Craft simplify payload integration on its USV appeared first on Naval…",
+          "date": "2026-09-07",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/subsea-craft-simplify-payload-integration-on-its-usv/",
+          "relevant": false
+        },
+        {
+          "title": "HII wins $336m contract for USS William J. Clinton carrier materials",
+          "summary": "Huntington Ingalls Industries has secured a deal for long lead materials ahead of building the next Gerald R. Ford-class aircraft carrier. The post HII wins $336m contract for USS William J. Clinton carrier materials…",
+          "date": "2026-09-07",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/hii-uss-william-j-clinton/",
+          "relevant": false
+        },
+        {
+          "title": "OneSubsea To Supply Umbilicals for Azule Energy’s Project off Angola",
+          "summary": "OneSubsea, a joint venture backed by SLB, Aker Solutions and Subsea7, has secured a contract from Azule Energy to supply controls umbilicals for the West Hub Tails project offshore Angola…",
+          "date": "2026-09-07",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542778-onesubsea-to-supply-umbilicals-for-azule-energy-s-project-off-angola",
+          "relevant": false
+        },
+        {
           "title": "Papua LNG Nears FID as ExxonMobil Takes Operatorship",
           "summary": "Papua LNG has reached a series of commercial and contractual milestones ahead of a final investment decision (FID), including a transfer of operatorship from TotalEnergies…",
           "date": "2026-09-07",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542767-papua-lng-nears-fid-as-exxonmobil-takes-operatorship",
+          "relevant": false
+        },
+        {
+          "title": "Ventura lines up $58m Petronas job as Eldorado drillship joins managed fleet",
+          "summary": "Ventura Offshore has struck a management deal with Eldorado Drilling for the seventh-generation Deep Value Driller and simultaneously secured a one-well drilling contract with Petronas in Indonesia valued at around…",
+          "date": "2026-09-07",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/ventura-lines-up-58m-petronas-job-as-eldorado-drillship-joins-managed-fleet/",
           "relevant": false
         },
         {
@@ -137,19 +281,19 @@
           "relevant": false
         },
         {
-          "title": "MISC explores consortium role in potential Yinson privatization",
-          "summary": "MISC Group, a member of the Petronas Group of Companies and an owner and operator of offshore floating assets and provider of energy-related maritime solutions and services, is weighing a role in a potential consortium…",
-          "date": "2026-09-04",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/misc-explores-consortium-role-in-potential-yinson-privatization/",
-          "relevant": false
-        },
-        {
           "title": "Spanish Navy selects Alpha Unmanned’s A900 helicopters for CEVENTA centre",
           "summary": "The Spanish Navy has awarded Alpha Unmanned Systems a contract to supply a Class I Remotely Piloted Aircraft System for the Armada’s Unmanned Vehicle Experimentation Centre (CEVENTA). The post Spanish Navy selects Alpha…",
           "date": "2026-09-04",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/spain-navy-a900-helicopters/",
+          "relevant": false
+        },
+        {
+          "title": "MISC explores consortium role in potential Yinson privatization",
+          "summary": "MISC Group, a member of the Petronas Group of Companies and an owner and operator of offshore floating assets and provider of energy-related maritime solutions and services, is weighing a role in a potential consortium…",
+          "date": "2026-09-04",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/misc-explores-consortium-role-in-potential-yinson-privatization/",
           "relevant": false
         },
         {
@@ -241,6 +385,46 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "U.S. Destroys Five More IRGC Tankers After Iran Targets Navy Warship",
+          "summary": "U.S. forces destroyed five Iranian crude oil tankers Tuesday after the Islamic Revolutionary Guard Corps targeted a U.S. Navy warship with ballistic missiles twice over the past two days, according...",
+          "date": "2026-09-08",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/u-s-destroys-five-more-irgc-tankers-after-iran-targets-navy-warship/",
+          "relevant": false
+        },
+        {
+          "title": "Shipping powers warn global maritime rulebook is breaking down",
+          "summary": "Eighteen of the world’s leading maritime nations have issued an unusually stark warning that the international rules underpinning global shipping are being eroded, threatening to fragment both maritime markets and…",
+          "date": "2026-09-08",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/shipping-powers-warn-global-maritime-rulebook-is-breaking-down/",
+          "relevant": false
+        },
+        {
+          "title": "Petrobras wins approval for three more Foz do Amazonas wells",
+          "summary": "Brazil’s environmental regulator Ibama authorized Petrobras to drill three more wells in the Foz do Amazonas basin, expanding the licensed program in block FZA-M-59 on the country’s Equatorial Margin. Ibama issued the…",
+          "date": "2026-09-08",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/petrobras-wins-approval-for-three-more-foz-do-amazonas-wells-79875",
+          "relevant": false
+        },
+        {
+          "title": "EnergyPathways Selects Jacobs as Tier-1 Engineering, Regulatory Partner",
+          "summary": "EnergyPathways, an energy transition company, has selected Jacobs to provide planning, regulatory, consenting and environmental services for its proposed LDES project…",
+          "date": "2026-09-08",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542802-energypathways-selects-jacobs-as-tier-1-engineering-regulatory-partner",
+          "relevant": false
+        },
+        {
+          "title": "Shearwater Nets North Sea OBN Survey for Electric ROV Debut",
+          "summary": "Marine geoscience firm Shearwater Geoservices has secured a seven-week ocean bottom node (OBN) survey in the North Sea that will mark the first commercial deployment…",
+          "date": "2026-09-08",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542792-shearwater-nets-north-sea-obn-survey-for-electric-rov-debut",
+          "relevant": false
+        },
+        {
           "title": "Russian military-linked roro targeted near Crete",
           "summary": "Ukraine’s maritime campaign against Russian shipping has pushed deep into the Mediterranean, with reports over the weekend that the sanctioned Russian roro Lady Mariia was struck by drones near Crete. Drones dropped…",
           "date": "2026-09-07",
@@ -273,6 +457,14 @@
           "relevant": false
         },
         {
+          "title": "Can the UK defend the Falkland Islands?",
+          "summary": "The UK military with rotting from within while intransigence in Whitehall is aiding Argentina's claim to the Falkland Islands. The post Can the UK defend the Falkland Islands? appeared first on Naval Technology .",
+          "date": "2026-09-04",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/comment/can-the-uk-defend-the-falkland-islands/",
+          "relevant": false
+        },
+        {
           "title": "BP tasks Baker Hughes with production enhancement across UK North Sea assets",
           "summary": "UK-headquartered energy giant BP has hired U.S.-headquartered energy technology giant Baker Hughes to support new well development and production optimization across its North Sea operations on the UK Continental Shelf…",
           "date": "2026-09-04",
@@ -286,14 +478,6 @@
           "date": "2026-09-04",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/sea-lion-argentine-sanctions-falklands-oil/",
-          "relevant": false
-        },
-        {
-          "title": "Can the UK defend the Falkland Islands?",
-          "summary": "The UK military with rotting from within while intransigence in Whitehall is aiding Argentina's claim to the Falkland Islands. The post Can the UK defend the Falkland Islands? appeared first on Naval Technology .",
-          "date": "2026-09-04",
-          "source_name": "Naval Technology",
-          "source_url": "https://www.naval-technology.com/comment/can-the-uk-defend-the-falkland-islands/",
           "relevant": false
         },
         {
@@ -320,6 +504,46 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "Greece and Italy Ink Deal for Two FREMM Frigates",
+          "summary": "Greece and Italy have signed an agreement activating the Hellenic Navy’s acquisition of two Bergamini-class FREMM frigates, scheduled for transfer in 2028 and 2029. The post Greece and Italy Ink Deal for Two FREMM…",
+          "date": "2026-09-08",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/greece-italy-ink-deal-two-fremm-frigates/",
+          "relevant": false
+        },
+        {
+          "title": "Tamarack Valley, Headwater Exploration agree $7.2bn all-stock merger",
+          "summary": "Tamarack Valley Energy and Headwater Exploration have agreed to combine in an all-stock transaction valued at $7.25bn, creating a Clearwater-focused oil producer.",
+          "date": "2026-09-08",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/tamarack-valley-headwater-exploration-merger/",
+          "relevant": false
+        },
+        {
+          "title": "Kistos secures Royal Decree for Oman Blocks 3 and 4 deal",
+          "summary": "UK-based energy firm Kistos has been granted a Royal Decree by the Sultanate of Oman relating to its acquisition of onshore Blocks 3 and 4 (Afar & Ghunaim) in Oman from Mitsui E&P Middle East.",
+          "date": "2026-09-08",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/kistos-royal-decree-oman-blocks-3-and-4/",
+          "relevant": false
+        },
+        {
+          "title": "India’s DAC approves $11.64bn procurement boost for armed forces",
+          "summary": "India’s Defence Acquisition Council has granted in-principle approval for defence acquisitions valued at approximately Rs1.1trn ($11.64bn). The post India’s DAC approves $11.64bn procurement boost for armed forces…",
+          "date": "2026-09-08",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/india-defence-procurement-armed-forces/",
+          "relevant": false
+        },
+        {
+          "title": "Williams Completes $5.5B Momentum Acquisition",
+          "summary": "'With the acquisition now complete, Williams has established a premier Haynesville position that strengthens our ability to serve rapidly growing LNG, power and industrial demand along the Gulf Coast'.",
+          "date": "2026-09-07",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/williams_completes_55b_momentum_acquisition-07-sep-2026-184557-article/?rss=true",
+          "relevant": false
+        },
         {
           "title": "Fujian Highton seeks nearly $300m for 16-ship buying spree",
           "summary": "Chinese owner Fujian Highton Development is looking to raise up to RMB2bn ($295m) to bankroll a 16-ship acquisition programme spanning dry bulk and multipurpose heavylift tonnage. The Shanghai-listed company has…",
@@ -401,22 +625,40 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Hormuz Traffic Dips To Lowest Since May After US, Iranian Strikes On Ships",
-          "summary": "By Florence Tan SINGAPORE, Sept 7 (Reuters) – An average of 10 commodity ships transited the Strait of Hormuz per day over the past 10 days, the lowest since May, according to shipping data...",
-          "date": "2026-09-07",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/hormuz-traffic-dips-to-lowest-since-may-after-us-iranian-strikes-on-ships/",
+          "title": "Saudi Arabia Halts Energy Sites",
+          "summary": "Saudi Arabia halted several energy facilities in the south.",
+          "date": "2026-09-08",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/saudi_arabia_halts_energy_sites-08-sep-2026-184563-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "Eni, Petronas to Jointly Explore High-Performance Biofuels",
+          "summary": "The Italian and Malaysian energy majors - partners with F1 teams - signed a collaboration agreement to test newer processes to produce biofuels for high-performance deployment.",
+          "date": "2026-09-08",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/eni_petronas_to_jointly_explore_highperformance_biofuels-08-sep-2026-184558-article/?rss=true",
           "relevant": false,
           "region": "SEA"
         },
         {
-          "title": "Petronas on AI-powered quest to streamline Malaysia’s upstream investment playbook",
-          "summary": "Malaysia’s state-owned oil and gas heavyweight Petronas is using artificial intelligence (AI) to transform the country’s exploration and production investment landscape, helping investors identify and evaluate upstream…",
-          "date": "2026-09-07",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/petronas-on-ai-powered-quest-to-streamline-malaysias-upstream-investment-playbook/",
+          "title": "Oil prices surge after Houthi strikes on Saudi energy facilities",
+          "summary": "Oil prices rose to their highest levels in several weeks on 8 September, Tuesday, following attacks on Saudi energy facilities by Yemen’s Houthi movement and escalating tensions between Iran and the US.",
+          "date": "2026-09-08",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/oil-surge-houthi-strikes-saudi-energy-facilities/",
           "relevant": false,
-          "region": "SEA"
+          "region": "KSA"
+        },
+        {
+          "title": "Oil Jumps as Houthi Strikes Disrupt Saudi Energy Operations",
+          "summary": "Oil prices hit multi-week highs on Tuesday after Iran-backed Houthis attacked Saudi energy facilities and Tehran threatened the United States with 'economic warfare'…",
+          "date": "2026-09-08",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542785-oil-jumps-as-houthi-strikes-disrupt-saudi-energy-operations",
+          "relevant": false,
+          "region": "KSA"
         },
         {
           "title": "OPEC+ 7 Reveal October Output Plan",
@@ -433,6 +675,24 @@
           "date": "2026-09-07",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542771-petronas-turns-to-ai-to-accelerate-upstream-investment",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Hormuz Traffic Dips To Lowest Since May After US, Iranian Strikes On Ships",
+          "summary": "By Florence Tan SINGAPORE, Sept 7 (Reuters) – An average of 10 commodity ships transited the Strait of Hormuz per day over the past 10 days, the lowest since May, according to shipping data...",
+          "date": "2026-09-07",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/hormuz-traffic-dips-to-lowest-since-may-after-us-iranian-strikes-on-ships/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Petronas on AI-powered quest to streamline Malaysia’s upstream investment playbook",
+          "summary": "Malaysia’s state-owned oil and gas heavyweight Petronas is using artificial intelligence (AI) to transform the country’s exploration and production investment landscape, helping investors identify and evaluate upstream…",
+          "date": "2026-09-07",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/petronas-on-ai-powered-quest-to-streamline-malaysias-upstream-investment-playbook/",
           "relevant": false,
           "region": "SEA"
         },
