@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T20:01:00Z",
+  "last_updated": "2026-09-09T21:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -449,6 +449,14 @@
           "relevant": false
         },
         {
+          "title": "Oil Surges as Attacks Escalate",
+          "summary": "Brent reached $101 as Middle East disruptions, falling inventories and renewed Chinese buying tightened markets.",
+          "date": "2026-09-09",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/oil_surges_as_attacks_escalate-09-sep-2026-184579-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "Belgian Utility Gets Over $1B EIB Loan for Artificial North Sea Energy Isle",
           "summary": "Elia Transmission Belgium signed a record EUR 1 billion (around $1.16 billion) credit facility with the European Investment Bank for an artificial energy island project in the North Sea.",
           "date": "2026-09-09",
@@ -783,15 +791,6 @@
           "region": "KSA"
         },
         {
-          "title": "Eni, Petronas to Jointly Explore High-Performance Biofuels",
-          "summary": "The Italian and Malaysian energy majors - partners with F1 teams - signed a collaboration agreement to test newer processes to produce biofuels for high-performance deployment.",
-          "date": "2026-09-08",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/eni_petronas_to_jointly_explore_highperformance_biofuels-08-sep-2026-184558-article/?rss=true",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Oil prices surge after Houthi strikes on Saudi energy facilities",
           "summary": "Oil prices rose to their highest levels in several weeks on 8 September, Tuesday, following attacks on Saudi energy facilities by Yemen’s Houthi movement and escalating tensions between Iran and the US.",
           "date": "2026-09-08",
@@ -799,6 +798,15 @@
           "source_url": "https://www.offshore-technology.com/news/oil-surge-houthi-strikes-saudi-energy-facilities/",
           "relevant": false,
           "region": "KSA"
+        },
+        {
+          "title": "Eni, Petronas to Jointly Explore High-Performance Biofuels",
+          "summary": "The Italian and Malaysian energy majors - partners with F1 teams - signed a collaboration agreement to test newer processes to produce biofuels for high-performance deployment.",
+          "date": "2026-09-08",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/eni_petronas_to_jointly_explore_highperformance_biofuels-08-sep-2026-184558-article/?rss=true",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Oil Jumps as Houthi Strikes Disrupt Saudi Energy Operations",
