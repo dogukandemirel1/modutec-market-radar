@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T19:00:59Z",
+  "last_updated": "2026-09-09T20:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -728,6 +728,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Splash Singapore heads into final fortnight with registrations climbing",
+          "summary": "The countdown to Splash Singapore is entering its final fortnight, with delegate registrations accelerating and another group of senior shipping executives joining an already packed speaker lineup. The inaugural event…",
+          "date": "2026-09-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/splash-singapore-heads-into-final-fortnight-with-registrations-climbing/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "MISC launches Malaysia’s first maritime-focused foundation",
           "summary": "MISC Group has launched Yayasan Maritim, which it describes as Malaysia’s first dedicated maritime-focused foundation, aimed at strengthening the country’s maritime talent pipeline, marine resilience and coastal…",
