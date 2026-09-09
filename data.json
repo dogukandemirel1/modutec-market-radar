@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T06:01:02Z",
+  "last_updated": "2026-09-09T07:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -89,14 +89,6 @@
           "relevant": false
         },
         {
-          "title": "Eni hands McDermott major Cyprus subsea contract",
-          "summary": "McDermott has landed a subsea contract worth between $500m and $750m from Eni for the fast-tracked Cronos gas development offshore Cyprus, adding another sizeable offshore project to its orderbook. The Houston-based…",
-          "date": "2026-09-08",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/eni-hands-mcdermott-major-cyprus-subsea-contract/",
-          "relevant": false
-        },
-        {
           "title": "Ventura  expands managed fleet, secures PETRONAS drilling deal in Indonesia",
           "summary": "Ventura Offshore agreed to provide marketing and operations management services for Eldorado Drilling’s Deep Value Driller and separately signed a one-well drilling contract with PETRONAS E&P Bobara offshore Indonesia…",
           "date": "2026-09-08",
@@ -158,6 +150,14 @@
           "date": "2026-09-08",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542790-saipem-bags-commissioning-contract-for-t-rkiye-bound-fpu",
+          "relevant": false
+        },
+        {
+          "title": "Eni hands McDermott major Cyprus subsea contract",
+          "summary": "McDermott has landed a subsea contract worth between $500m and $750m from Eni for the fast-tracked Cronos gas development offshore Cyprus, adding another sizeable offshore project to its orderbook. The Houston-based…",
+          "date": "2026-09-08",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/eni-hands-mcdermott-major-cyprus-subsea-contract/",
           "relevant": false
         },
         {
@@ -384,6 +384,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "Shearwater targets Brazil’s Equatorial Margin with new 3D survey",
+          "summary": "Norwegian offshore seismic vessel player Shearwater Geoservices has launched the Amapá 3D multi-client seismic survey in partnership with energy technology company SLB. The survey will be conducted offshore Amapá, in…",
+          "date": "2026-09-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/shearwater-targets-brazils-equatorial-margin-with-new-3d-survey/",
+          "relevant": false
+        },
         {
           "title": "U.S. Destroys Five More IRGC Tankers After Iran Targets Navy Warship",
           "summary": "U.S. forces destroyed five Iranian crude oil tankers Tuesday after the Islamic Revolutionary Guard Corps targeted a U.S. Navy warship with ballistic missiles twice over the past two days, according...",
