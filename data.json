@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T09:01:03Z",
+  "last_updated": "2026-09-09T10:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -65,14 +65,6 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Saipem wins Turkish FPU commissioning job",
-          "summary": "Italian offshore engineering contractor Saipem has picked up another piece of Turkey’s fast-expanding Sakarya gas development, securing the commissioning work for the country’s first floating gas production unit. GOE…",
-          "date": "2026-09-09",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/saipem-wins-turkish-fpu-commissioning-job/",
-          "relevant": false
-        },
-        {
           "title": "India: Larsen & Toubro company gets EPCIC order from ONGC",
           "summary": "Mumbai-headquartered L&T Energy Hydrocarbon Offshore (LTEH Offshore), a Larsen & Toubro business, has secured […] The post India: Larsen & Toubro company gets EPCIC order from ONGC appeared first on Offshore Energy .",
           "date": "2026-09-09",
@@ -89,11 +81,27 @@
           "relevant": false
         },
         {
+          "title": "ABS Backs Hanwha Ocean’s Standardized FPSO Design",
+          "summary": "The American Bureau of Shipping (ABS) has issued basic design review certification to Hanwha Ocean for a standardized floating production, storage and offloading…",
+          "date": "2026-09-09",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542819-abs-backs-hanwha-ocean-s-standardized-fpso-design",
+          "relevant": false
+        },
+        {
           "title": "Larsen & Toubro Adds Major ONGC Offshore Project to Orderbook",
           "summary": "Larsen & Toubro Energy Hydrocarbon Offshore (LTEH Offshore) has secured an offshore Engineering, Procurement, Construction, Installation, and Commissioning (EPCIC)…",
           "date": "2026-09-09",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542816-larsen-toubro-adds-major-ongc-offshore-project-to-orderbook",
+          "relevant": false
+        },
+        {
+          "title": "Saipem wins Turkish FPU commissioning job",
+          "summary": "Italian offshore engineering contractor Saipem has picked up another piece of Turkey’s fast-expanding Sakarya gas development, securing the commissioning work for the country’s first floating gas production unit. GOE…",
+          "date": "2026-09-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/saipem-wins-turkish-fpu-commissioning-job/",
           "relevant": false
         },
         {
@@ -209,14 +217,6 @@
           "relevant": false
         },
         {
-          "title": "OneSubsea to support Azule Energy’s production shift from aging to new FPSO",
-          "summary": "Azule Energy, a joint venture between Italy’s Eni and the UK’s BP, has awarded SLB […] The post OneSubsea to support Azule Energy’s production shift from aging to new FPSO appeared first on Offshore Energy .",
-          "date": "2026-09-07",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/onesubsea-to-support-azule-energys-production-shift-from-aging-to-new-fpso/",
-          "relevant": false
-        },
-        {
           "title": "ExxonMobil to Acquire Papua LNG Operatorship from TotalEnergies",
           "summary": "TotalEnergies said the transfer, which also involves a farm-down by the French majority owner, will help bring the project closer to a final investment decision.",
           "date": "2026-09-07",
@@ -254,6 +254,14 @@
           "date": "2026-09-07",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542778-onesubsea-to-supply-umbilicals-for-azule-energy-s-project-off-angola",
+          "relevant": false
+        },
+        {
+          "title": "OneSubsea to support Azule Energy’s production shift from aging to new FPSO",
+          "summary": "Azule Energy, a joint venture between Italy’s Eni and the UK’s BP, has awarded SLB […] The post OneSubsea to support Azule Energy’s production shift from aging to new FPSO appeared first on Offshore Energy .",
+          "date": "2026-09-07",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/onesubsea-to-support-azule-energys-production-shift-from-aging-to-new-fpso/",
           "relevant": false
         },
         {
@@ -297,19 +305,19 @@
           "relevant": false
         },
         {
-          "title": "SubSea Craft Unveils Modular Payload Cassettes for MARS USV",
-          "summary": "SubSea Craft has unveiled a new modular payload cassette system for its MARS USV, enabling rapid, two-person field exchanges of loitering munitions, UAVs, and sonobuoys. The post SubSea Craft Unveils Modular Payload…",
-          "date": "2026-09-04",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/subsea-craft-unveils-modular-payload-cassettes-for-mars-usv/",
-          "relevant": false
-        },
-        {
           "title": "Spanish Navy selects Alpha Unmanned’s A900 helicopters for CEVENTA centre",
           "summary": "The Spanish Navy has awarded Alpha Unmanned Systems a contract to supply a Class I Remotely Piloted Aircraft System for the Armada’s Unmanned Vehicle Experimentation Centre (CEVENTA). The post Spanish Navy selects Alpha…",
           "date": "2026-09-04",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/spain-navy-a900-helicopters/",
+          "relevant": false
+        },
+        {
+          "title": "SubSea Craft Unveils Modular Payload Cassettes for MARS USV",
+          "summary": "SubSea Craft has unveiled a new modular payload cassette system for its MARS USV, enabling rapid, two-person field exchanges of loitering munitions, UAVs, and sonobuoys. The post SubSea Craft Unveils Modular Payload…",
+          "date": "2026-09-04",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/subsea-craft-unveils-modular-payload-cassettes-for-mars-usv/",
           "relevant": false
         },
         {
@@ -656,6 +664,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "MISC launches Malaysia’s first maritime-focused foundation",
+          "summary": "MISC Group has launched Yayasan Maritim, which it describes as Malaysia’s first dedicated maritime-focused foundation, aimed at strengthening the country’s maritime talent pipeline, marine resilience and coastal…",
+          "date": "2026-09-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/misc-launches-malaysias-first-maritime-focused-foundation/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Vallourec, Aramco Expand Tubulars Partnership",
           "summary": "French tubular solutions provider Vallourec has signed an agreement with Saudi Aramco covering the supply of Oil Country Tubular Goods (OCTG), further expanding…",
