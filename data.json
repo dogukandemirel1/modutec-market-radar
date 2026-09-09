@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T12:00:58Z",
+  "last_updated": "2026-09-09T13:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -193,14 +193,6 @@
           "relevant": false
         },
         {
-          "title": "Russia Launches Massive Vostok Oil Project, Marking New Arctic Shipping Era",
-          "summary": "Russia has begun loading crude from its giant Vostok Oil development onto tankers at the newly built Bukhta Sever terminal on the Kara Sea, marking the start of what could become one of the largest new sources of…",
-          "date": "2026-09-07",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/russia-launches-massive-vostok-oil-project-marking-new-arctic-shipping-era/",
-          "relevant": false
-        },
-        {
           "title": "Indian Navy Eyes 1,000 km Ship-Based Loitering Munitions",
           "summary": "The Indian Navy has issued an RFI for 1,000 km range ship-based loitering munitions. Explore the specs, local contenders, and strategic impact. The post Indian Navy Eyes 1,000 km Ship-Based Loitering Munitions appeared…",
           "date": "2026-09-07",
@@ -230,6 +222,14 @@
           "date": "2026-09-07",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/hii-uss-william-j-clinton/",
+          "relevant": false
+        },
+        {
+          "title": "Russia Launches Massive Vostok Oil Project, Marking New Arctic Shipping Era",
+          "summary": "Russia has begun loading crude from its giant Vostok Oil development onto tankers at the newly built Bukhta Sever terminal on the Kara Sea, marking the start of what could become one of the largest new sources of…",
+          "date": "2026-09-07",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/russia-launches-massive-vostok-oil-project-marking-new-arctic-shipping-era/",
           "relevant": false
         },
         {
@@ -673,11 +673,11 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "MISC launches Malaysia’s first maritime-focused foundation",
-          "summary": "MISC Group has launched Yayasan Maritim, which it describes as Malaysia’s first dedicated maritime-focused foundation, aimed at strengthening the country’s maritime talent pipeline, marine resilience and coastal…",
+          "title": "Hanwha Ocean Selected as Preferred Bidder for Thailand’s Next-Generation Frigate Program",
+          "summary": "Hanwha Ocean has been selected as the preferred bidder for the Royal Thai Navy’s next-generation frigate procurement program. The post Hanwha Ocean Selected as Preferred Bidder for Thailand’s Next-Generation Frigate…",
           "date": "2026-09-09",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/misc-launches-malaysias-first-maritime-focused-foundation/",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/hanwha-ocean-selected-as-preferred-bidder-for-thailands-next-generation-frigate-program/",
           "relevant": false,
           "region": "SEA"
         },
@@ -698,6 +698,15 @@
           "source_url": "https://www.oedigital.com/news/542818-vallourec-aramco-expand-tubulars-partnership",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "MISC launches Malaysia’s first maritime-focused foundation",
+          "summary": "MISC Group has launched Yayasan Maritim, which it describes as Malaysia’s first dedicated maritime-focused foundation, aimed at strengthening the country’s maritime talent pipeline, marine resilience and coastal…",
+          "date": "2026-09-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/misc-launches-malaysias-first-maritime-focused-foundation/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Saudi Arabia Halts Energy Sites",
