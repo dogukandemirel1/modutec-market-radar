@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T14:01:04Z",
+  "last_updated": "2026-09-09T15:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -64,6 +64,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "US Navy Selects L3Harris VAMPIRE for Littoral Counter-Drone Defense",
+          "summary": "L3Harris Technologies has been awarded a contract to deliver its VAMPIRE (Vehicle-Agnostic Modular Palletized ISR Rocket Equipment) counter-unmanned system to the U.S. Navy for littoral defense against drone threats…",
+          "date": "2026-09-09",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/us-navy-l3harris-vampire-counter-drone/",
+          "relevant": false
+        },
         {
           "title": "India: Larsen & Toubro company gets EPCIC order from ONGC",
           "summary": "Mumbai-headquartered L&T Energy Hydrocarbon Offshore (LTEH Offshore), a Larsen & Toubro business, has secured […] The post India: Larsen & Toubro company gets EPCIC order from ONGC appeared first on Offshore Energy .",
