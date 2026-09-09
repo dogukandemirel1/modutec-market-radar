@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T05:36:05Z",
+  "last_updated": "2026-09-09T06:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -393,14 +393,6 @@
           "relevant": false
         },
         {
-          "title": "Shipping powers warn global maritime rulebook is breaking down",
-          "summary": "Eighteen of the world’s leading maritime nations have issued an unusually stark warning that the international rules underpinning global shipping are being eroded, threatening to fragment both maritime markets and…",
-          "date": "2026-09-08",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/shipping-powers-warn-global-maritime-rulebook-is-breaking-down/",
-          "relevant": false
-        },
-        {
           "title": "Petrobras wins approval for three more Foz do Amazonas wells",
           "summary": "Brazil’s environmental regulator Ibama authorized Petrobras to drill three more wells in the Foz do Amazonas basin, expanding the licensed program in block FZA-M-59 on the country’s Equatorial Margin. Ibama issued the…",
           "date": "2026-09-08",
@@ -422,6 +414,14 @@
           "date": "2026-09-08",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542792-shearwater-nets-north-sea-obn-survey-for-electric-rov-debut",
+          "relevant": false
+        },
+        {
+          "title": "Shipping powers warn global maritime rulebook is breaking down",
+          "summary": "Eighteen of the world’s leading maritime nations have issued an unusually stark warning that the international rules underpinning global shipping are being eroded, threatening to fragment both maritime markets and…",
+          "date": "2026-09-08",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/shipping-powers-warn-global-maritime-rulebook-is-breaking-down/",
           "relevant": false
         },
         {
