@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T07:01:05Z",
+  "last_updated": "2026-09-09T08:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -65,6 +65,30 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Saipem wins Turkish FPU commissioning job",
+          "summary": "Italian offshore engineering contractor Saipem has picked up another piece of Turkey’s fast-expanding Sakarya gas development, securing the commissioning work for the country’s first floating gas production unit. GOE…",
+          "date": "2026-09-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/saipem-wins-turkish-fpu-commissioning-job/",
+          "relevant": false
+        },
+        {
+          "title": "McDermott wins subsea contract for Cronos gas field off Cyprus",
+          "summary": "McDermott has secured a subsea contract from Eni Cyprus, a subsidiary of Eni, for the Cronos gas development in Cyprus’s offshore Block 6.",
+          "date": "2026-09-09",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/mcdermott-subsea-contract-cronos-gas-field/",
+          "relevant": false
+        },
+        {
+          "title": "Larsen & Toubro Adds Major ONGC Offshore Project to Orderbook",
+          "summary": "Larsen & Toubro Energy Hydrocarbon Offshore (LTEH Offshore) has secured an offshore Engineering, Procurement, Construction, Installation, and Commissioning (EPCIC)…",
+          "date": "2026-09-09",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542816-larsen-toubro-adds-major-ongc-offshore-project-to-orderbook",
+          "relevant": false
+        },
+        {
           "title": "Oil Tanker Company Says It’s Owed $55 Million in Rate Dispute",
           "summary": "Oil tanker company Hunter Group ASA says it’s owed $55 million by a counterparty that’s disputing its contractual obligations after a surge in the world’s benchmark freight rate.",
           "date": "2026-09-08",
@@ -78,14 +102,6 @@
           "date": "2026-09-08",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/russias-arctic-lng-2-seeks-1-billion-in-damages-from-south-koreas-hanwha/",
-          "relevant": false
-        },
-        {
-          "title": "Saipem wins Turkish FPU commissioning job",
-          "summary": "Italian offshore engineering contractor Saipem has picked up another piece of Turkey’s fast-expanding Sakarya gas development, securing the commissioning work for the country’s first floating gas production unit. GOE…",
-          "date": "2026-09-08",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/saipem-wins-turkish-fpu-commissioning-job/",
           "relevant": false
         },
         {
