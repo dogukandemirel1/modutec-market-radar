@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T08:00:56Z",
+  "last_updated": "2026-09-09T08:56:43Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -70,6 +70,14 @@
           "date": "2026-09-09",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/saipem-wins-turkish-fpu-commissioning-job/",
+          "relevant": false
+        },
+        {
+          "title": "India: Larsen & Toubro company gets EPCIC order from ONGC",
+          "summary": "Mumbai-headquartered L&T Energy Hydrocarbon Offshore (LTEH Offshore), a Larsen & Toubro business, has secured […] The post India: Larsen & Toubro company gets EPCIC order from ONGC appeared first on Offshore Energy .",
+          "date": "2026-09-09",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/india-larsen-toubro-company-gets-epcic-order-from-ongc/",
           "relevant": false
         },
         {
@@ -648,6 +656,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Vallourec, Aramco Expand Tubulars Partnership",
+          "summary": "French tubular solutions provider Vallourec has signed an agreement with Saudi Aramco covering the supply of Oil Country Tubular Goods (OCTG), further expanding…",
+          "date": "2026-09-09",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542818-vallourec-aramco-expand-tubulars-partnership",
+          "relevant": true,
+          "region": "KSA"
+        },
         {
           "title": "Saudi Arabia Halts Energy Sites",
           "summary": "Saudi Arabia halted several energy facilities in the south.",
