@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T18:01:02Z",
+  "last_updated": "2026-09-09T19:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -65,6 +65,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Bluecore Energy Raises $50 Million for Maritime Nuclear System",
+          "summary": "By Laura Curtis (Bloomberg) — A Southern California startup with plans to deploy floating nuclear power plants may be one step closer to providing electricity to the busiest seaport complex in...",
+          "date": "2026-09-09",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/bluecore-energy-raises-50-million-for-maritime-nuclear-system/",
+          "relevant": false
+        },
+        {
           "title": "US Navy Selects L3Harris VAMPIRE for Littoral Counter-Drone Defense",
           "summary": "L3Harris Technologies has been awarded a contract to deliver its VAMPIRE (Vehicle-Agnostic Modular Palletized ISR Rocket Equipment) counter-unmanned system to the U.S. Navy for littoral defense against drone threats…",
           "date": "2026-09-09",
@@ -118,22 +126,6 @@
           "date": "2026-09-09",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/saipem-wins-turkish-fpu-commissioning-job/",
-          "relevant": false
-        },
-        {
-          "title": "Oil Tanker Company Says It’s Owed $55 Million in Rate Dispute",
-          "summary": "Oil tanker company Hunter Group ASA says it’s owed $55 million by a counterparty that’s disputing its contractual obligations after a surge in the world’s benchmark freight rate.",
-          "date": "2026-09-08",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/oil-tanker-company-says-its-owed-55-million-in-rate-dispute/",
-          "relevant": false
-        },
-        {
-          "title": "Russia’s Arctic LNG 2 Seeks $1 Billion in Damages From South Korea’s Hanwha",
-          "summary": "Arctic LNG 2, a liquefied natural gas project led by Russia's Novatek NVTK.MM, is seeking about $1 billion in damages from South Korean shipbuilder Hanwha Ocean over canceled tanker construction contracts, according to…",
-          "date": "2026-09-08",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/russias-arctic-lng-2-seeks-1-billion-in-damages-from-south-koreas-hanwha/",
           "relevant": false
         },
         {
@@ -198,6 +190,22 @@
           "date": "2026-09-08",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542790-saipem-bags-commissioning-contract-for-t-rkiye-bound-fpu",
+          "relevant": false
+        },
+        {
+          "title": "Oil Tanker Company Says It’s Owed $55 Million in Rate Dispute",
+          "summary": "Oil tanker company Hunter Group ASA says it’s owed $55 million by a counterparty that’s disputing its contractual obligations after a surge in the world’s benchmark freight rate.",
+          "date": "2026-09-08",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/oil-tanker-company-says-its-owed-55-million-in-rate-dispute/",
+          "relevant": false
+        },
+        {
+          "title": "Russia’s Arctic LNG 2 Seeks $1 Billion in Damages From South Korea’s Hanwha",
+          "summary": "Arctic LNG 2, a liquefied natural gas project led by Russia's Novatek NVTK.MM, is seeking about $1 billion in damages from South Korean shipbuilder Hanwha Ocean over canceled tanker construction contracts, according to…",
+          "date": "2026-09-08",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/russias-arctic-lng-2-seeks-1-billion-in-damages-from-south-koreas-hanwha/",
           "relevant": false
         },
         {
