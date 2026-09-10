@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T10:01:00Z",
+  "last_updated": "2026-09-10T11:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -65,6 +65,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "New Fortress scraps former Seadrill semisub pair after FLNG plans fade",
+          "summary": "New Fortress Energy has sold two former Seadrill cylindrical semisubs for demolition, ending a four-year effort to repurpose the pair as floating LNG liquefaction facilities. VesselsValue’s latest demolition data lists…",
+          "date": "2026-09-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/new-fortress-scraps-former-seadrill-semisub-pair-after-flng-plans-fade/",
+          "relevant": false
+        },
+        {
           "title": "CMA CGM says it met obligations in $186m Samsung dispute",
           "summary": "CMA CGM has pushed back against Samsung Electronics America’s $186m claim before the US Federal Maritime Commission, telling Splash it believes it complied with its contractual obligations and applicable regulations…",
           "date": "2026-09-10",
@@ -73,19 +81,27 @@
           "relevant": false
         },
         {
-          "title": "US maritime nuclear push gathers pace",
-          "summary": "US maritime nuclear startup Bluecore Energy has raised $50m to accelerate development of floating nuclear power systems as Washington’s push to bring atomic energy into commercial shipping gathers momentum. The…",
-          "date": "2026-09-10",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/us-maritime-nuclear-push-gathers-pace/",
-          "relevant": false
-        },
-        {
           "title": "Odfjell Drilling’s new rig busy until 2031 thanks to deal with Vår Energi",
           "summary": "Odfjell Drilling has signed a letter of award (LOA) with Vår Energi for a […] The post Odfjell Drilling’s new rig busy until 2031 thanks to deal with Vår Energi appeared first on Offshore Energy .",
           "date": "2026-09-10",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/odfjell-drillings-new-rig-busy-until-2031-thanks-to-deal-with-var-energi/",
+          "relevant": false
+        },
+        {
+          "title": "Petronas Awards Estuary Cluster PSC to Harvester Energy",
+          "summary": "Petronas has awarded a production sharing contract for Malaysia's Estuary Cluster to Harvester Energy and handed over enhanced seismic data for the Mutiara Cluster to DIALOG Resources…",
+          "date": "2026-09-10",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542849-petronas-awards-estuary-cluster-psc-to-harvester-energy",
+          "relevant": false
+        },
+        {
+          "title": "US maritime nuclear push gathers pace",
+          "summary": "US maritime nuclear startup Bluecore Energy has raised $50m to accelerate development of floating nuclear power systems as Washington’s push to bring atomic energy into commercial shipping gathers momentum. The…",
+          "date": "2026-09-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/us-maritime-nuclear-push-gathers-pace/",
           "relevant": false
         },
         {
@@ -632,6 +648,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "Cochin and Drydocks World seal Kochi repair venture",
+          "summary": "India’s Cochin Shipyard has approved a 50:50 joint venture with DP World’s Drydocks World that will take over its International Ship Repair Facility (ISRF) in Kochi, giving the Dubai-based repair specialist the lead…",
+          "date": "2026-09-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/cochin-and-drydocks-world-seal-kochi-repair-venture/",
+          "relevant": true
+        },
         {
           "title": "Safe Bulkers raises $94m for fleet push",
           "summary": "Polys Hajioannou-led Safe Bulkers has raised €80.4m ($93.5m) through a private placement, adding fresh capital to fund its growing newbuilding programme and potentially pursue further vessel acquisitions. The New York-…",
