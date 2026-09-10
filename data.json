@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T18:01:34Z",
+  "last_updated": "2026-09-10T19:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -64,6 +64,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Iraq Seeks Oil Tankers as Gulf Giants Try to Ensure Hormuz Flows",
+          "summary": "Iraq is holding a tender to hire two or more oil supertankers to perform transits through the Strait of Hormuz, the latest evidence that producers in the region are trying to take greater control of their exports…",
+          "date": "2026-09-10",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/iraq-seeks-oil-tankers-as-gulf-giants-try-to-ensure-hormuz-flows/",
+          "relevant": false
+        },
         {
           "title": "New Fortress scraps former Seadrill semisub pair after FLNG plans fade",
           "summary": "New Fortress Energy has sold two former Seadrill cylindrical semisubs for demolition, ending a four-year effort to repurpose the pair as floating LNG liquefaction facilities. VesselsValue’s latest demolition data lists…",
@@ -161,14 +169,6 @@
           "relevant": false
         },
         {
-          "title": "Bluecore Energy Raises $50 Million for Maritime Nuclear System",
-          "summary": "By Laura Curtis (Bloomberg) — A Southern California startup with plans to deploy floating nuclear power plants may be one step closer to providing electricity to the busiest seaport complex in...",
-          "date": "2026-09-09",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/bluecore-energy-raises-50-million-for-maritime-nuclear-system/",
-          "relevant": false
-        },
-        {
           "title": "US Navy Selects L3Harris VAMPIRE for Littoral Counter-Drone Defense",
           "summary": "L3Harris Technologies has been awarded a contract to deliver its VAMPIRE (Vehicle-Agnostic Modular Palletized ISR Rocket Equipment) counter-unmanned system to the U.S. Navy for littoral defense against drone threats…",
           "date": "2026-09-09",
@@ -214,6 +214,14 @@
           "date": "2026-09-09",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542816-larsen-toubro-adds-major-ongc-offshore-project-to-orderbook",
+          "relevant": false
+        },
+        {
+          "title": "Bluecore Energy Raises $50 Million for Maritime Nuclear System",
+          "summary": "By Laura Curtis (Bloomberg) — A Southern California startup with plans to deploy floating nuclear power plants may be one step closer to providing electricity to the busiest seaport complex in...",
+          "date": "2026-09-09",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/bluecore-energy-raises-50-million-for-maritime-nuclear-system/",
           "relevant": false
         },
         {
