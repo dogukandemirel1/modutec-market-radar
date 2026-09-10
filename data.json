@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T15:01:04Z",
+  "last_updated": "2026-09-10T16:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -81,6 +81,14 @@
           "relevant": false
         },
         {
+          "title": "Vår Energi picks Deepsea Bergen for long-term drilling program",
+          "summary": "Odfjell Drilling received a letter of award from Vår Energi for the Deepsea Bergen semisubmersible, covering three years of drilling work starting in early 2028. The award follows completion of the rig’s current…",
+          "date": "2026-09-10",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/var-energi-picks-deepsea-bergen-for-long-term-drilling-program-79933",
+          "relevant": false
+        },
+        {
           "title": "Odfjell Drilling’s new rig busy until 2031 thanks to deal with Vår Energi",
           "summary": "Odfjell Drilling has signed a letter of award (LOA) with Vår Energi for a […] The post Odfjell Drilling’s new rig busy until 2031 thanks to deal with Vår Energi appeared first on Offshore Energy .",
           "date": "2026-09-10",
@@ -89,11 +97,27 @@
           "relevant": false
         },
         {
+          "title": "NextEra Energy Seals $1.9B DOE Loan to Restart Iowa Nuclear Plant",
+          "summary": "The Trump administration has now financed three nuclear power plant restarts.",
+          "date": "2026-09-10",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/nextera_energy_seals_19b_doe_loan_to_restart_iowa_nuclear_plant-10-sep-2026-184588-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "McDermott Wins Contract for Eni's Cronos Project offshore Cyprus",
           "summary": "The Houston-based company received a 'substantial' contract from Eni for Cyprus' first hydrocarbon development.",
           "date": "2026-09-10",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/mcdermott_wins_contract_for_enis_cronos_project_offshore_cyprus-10-sep-2026-184584-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Odfjell secures $518m contract for Deepsea Bergen from Vår Energi",
+          "summary": "Odfjell Drilling has received a LOA from Vår Energi for the deployment of the Deepsea Bergen rig, with an estimated contract value of $518m.",
+          "date": "2026-09-10",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/odfjell-contract-deepsea-bergen-var-energi/",
           "relevant": false
         },
         {
@@ -193,19 +217,19 @@
           "relevant": false
         },
         {
-          "title": "Ventura  expands managed fleet, secures PETRONAS drilling deal in Indonesia",
-          "summary": "Ventura Offshore agreed to provide marketing and operations management services for Eldorado Drilling’s Deep Value Driller and separately signed a one-well drilling contract with PETRONAS E&P Bobara offshore Indonesia…",
-          "date": "2026-09-08",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/ventura-expands-managed-fleet-secures-petronas-drilling-deal-in-indonesia-79879",
-          "relevant": false
-        },
-        {
           "title": "First subsea contract with Eni takes McDermott to Cyprus",
           "summary": "U.S. offshore engineering and construction player McDermott has secured its first subsea contract with […] The post First subsea contract with Eni takes McDermott to Cyprus appeared first on Offshore Energy .",
           "date": "2026-09-08",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/first-subsea-contract-with-eni-takes-mcdermott-to-cyprus/",
+          "relevant": false
+        },
+        {
+          "title": "Ventura  expands managed fleet, secures PETRONAS drilling deal in Indonesia",
+          "summary": "Ventura Offshore agreed to provide marketing and operations management services for Eldorado Drilling’s Deep Value Driller and separately signed a one-well drilling contract with PETRONAS E&P Bobara offshore Indonesia…",
+          "date": "2026-09-08",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/ventura-expands-managed-fleet-secures-petronas-drilling-deal-in-indonesia-79879",
           "relevant": false
         },
         {
@@ -729,19 +753,19 @@
           "relevant": false
         },
         {
-          "title": "Tamarack Valley, Headwater Exploration agree $7.2bn all-stock merger",
-          "summary": "Tamarack Valley Energy and Headwater Exploration have agreed to combine in an all-stock transaction valued at $7.25bn, creating a Clearwater-focused oil producer.",
-          "date": "2026-09-08",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/tamarack-valley-headwater-exploration-merger/",
-          "relevant": false
-        },
-        {
           "title": "India’s DAC approves $11.64bn procurement boost for armed forces",
           "summary": "India’s Defence Acquisition Council has granted in-principle approval for defence acquisitions valued at approximately Rs1.1trn ($11.64bn). The post India’s DAC approves $11.64bn procurement boost for armed forces…",
           "date": "2026-09-08",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/india-defence-procurement-armed-forces/",
+          "relevant": false
+        },
+        {
+          "title": "Tamarack Valley, Headwater Exploration agree $7.2bn all-stock merger",
+          "summary": "Tamarack Valley Energy and Headwater Exploration have agreed to combine in an all-stock transaction valued at $7.25bn, creating a Clearwater-focused oil producer.",
+          "date": "2026-09-08",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/tamarack-valley-headwater-exploration-merger/",
           "relevant": false
         },
         {
