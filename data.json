@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T17:00:58Z",
+  "last_updated": "2026-09-10T18:01:34Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -742,6 +742,14 @@
           "date": "2026-09-10",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/the-return-of-the-small-shipowner/",
+          "relevant": false
+        },
+        {
+          "title": "Enbridge to Acquire Tallgrass Pipelines for $2.55B",
+          "summary": "The acquisition includes a 75 percent stake in the Pony Express Pipeline, which carries up to about 460,000 barrels per day of Rockies production to Cushing, Oklahoma.",
+          "date": "2026-09-10",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/enbridge_to_acquire_tallgrass_pipelines_for_255b-10-sep-2026-184589-article/?rss=true",
           "relevant": false
         },
         {
