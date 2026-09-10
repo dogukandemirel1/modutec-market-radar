@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T19:01:01Z",
+  "last_updated": "2026-09-10T20:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -566,6 +566,14 @@
           "date": "2026-09-10",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/surging-tanker-rates-signal-a-deepening-global-energy-crisis/",
+          "relevant": false
+        },
+        {
+          "title": "The common language shipping still lacks",
+          "summary": "Shipping’s digital ambitions are accelerating faster than the structures beneath them. The industry largely agrees on the need for open standards, but adoption remains constrained by proprietary interests, regulatory…",
+          "date": "2026-09-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/the-common-language-shipping-still-lacks/",
           "relevant": false
         },
         {
