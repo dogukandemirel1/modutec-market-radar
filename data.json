@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T14:01:03Z",
+  "last_updated": "2026-09-10T15:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -86,6 +86,14 @@
           "date": "2026-09-10",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/odfjell-drillings-new-rig-busy-until-2031-thanks-to-deal-with-var-energi/",
+          "relevant": false
+        },
+        {
+          "title": "McDermott Wins Contract for Eni's Cronos Project offshore Cyprus",
+          "summary": "The Houston-based company received a 'substantial' contract from Eni for Cyprus' first hydrocarbon development.",
+          "date": "2026-09-10",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/mcdermott_wins_contract_for_enis_cronos_project_offshore_cyprus-10-sep-2026-184584-article/?rss=true",
           "relevant": false
         },
         {
