@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T20:00:55Z",
+  "last_updated": "2026-09-10T21:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -65,27 +65,19 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Bluecore Advances Floating Nuclear Power Project at Port of Long Beach",
+          "summary": "Bluecore Energy is moving its floating nuclear power concept deeper into the development and regulatory phase, securing its first barge and beginning formal engagement with federal regulators as it works...",
+          "date": "2026-09-10",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/bluecore-advances-floating-nuclear-power-project-at-port-of-long-beach/",
+          "relevant": false
+        },
+        {
           "title": "Iraq Seeks Oil Tankers as Gulf Giants Try to Ensure Hormuz Flows",
           "summary": "Iraq is holding a tender to hire two or more oil supertankers to perform transits through the Strait of Hormuz, the latest evidence that producers in the region are trying to take greater control of their exports…",
           "date": "2026-09-10",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/iraq-seeks-oil-tankers-as-gulf-giants-try-to-ensure-hormuz-flows/",
-          "relevant": false
-        },
-        {
-          "title": "New Fortress scraps former Seadrill semisub pair after FLNG plans fade",
-          "summary": "New Fortress Energy has sold two former Seadrill cylindrical semisubs for demolition, ending a four-year effort to repurpose the pair as floating LNG liquefaction facilities. VesselsValue’s latest demolition data lists…",
-          "date": "2026-09-10",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/new-fortress-scraps-former-seadrill-semisub-pair-after-flng-plans-fade/",
-          "relevant": false
-        },
-        {
-          "title": "CMA CGM says it met obligations in $186m Samsung dispute",
-          "summary": "CMA CGM has pushed back against Samsung Electronics America’s $186m claim before the US Federal Maritime Commission, telling Splash it believes it complied with its contractual obligations and applicable regulations…",
-          "date": "2026-09-10",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/cma-cgm-says-it-met-obligations-in-186m-samsung-dispute/",
           "relevant": false
         },
         {
@@ -150,6 +142,22 @@
           "date": "2026-09-10",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542849-petronas-awards-estuary-cluster-psc-to-harvester-energy",
+          "relevant": false
+        },
+        {
+          "title": "New Fortress scraps former Seadrill semisub pair after FLNG plans fade",
+          "summary": "New Fortress Energy has sold two former Seadrill cylindrical semisubs for demolition, ending a four-year effort to repurpose the pair as floating LNG liquefaction facilities. VesselsValue’s latest demolition data lists…",
+          "date": "2026-09-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/new-fortress-scraps-former-seadrill-semisub-pair-after-flng-plans-fade/",
+          "relevant": false
+        },
+        {
+          "title": "CMA CGM says it met obligations in $186m Samsung dispute",
+          "summary": "CMA CGM has pushed back against Samsung Electronics America’s $186m claim before the US Federal Maritime Commission, telling Splash it believes it complied with its contractual obligations and applicable regulations…",
+          "date": "2026-09-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/cma-cgm-says-it-met-obligations-in-186m-samsung-dispute/",
           "relevant": false
         },
         {
@@ -545,6 +553,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Houthi Seizure of Mocha Opens New Front in Iran-U.S. War",
+          "summary": "Iran-aligned Houthis seized control of Yemen's port city of Mocha on Thursday and advanced down the Red Sea coast to strategic islands, military sources said, hours after President Donald Trump said he expected the Iran…",
+          "date": "2026-09-10",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/houthi-seizure-of-mocha-opens-new-front-in-iran-u-s-war/",
+          "relevant": false
+        },
+        {
           "title": "Surging Tanker Rates Signal Deepening Global Energy Crisis",
           "summary": "Global tanker freight rates are surging to record levels with little respite in sight, a sign of the growing strain in oil markets as traders, shipowners, producers and buyers grapple with a drawn-out conflict in the…",
           "date": "2026-09-10",
@@ -566,6 +582,14 @@
           "date": "2026-09-10",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/surging-tanker-rates-signal-a-deepening-global-energy-crisis/",
+          "relevant": false
+        },
+        {
+          "title": "Oil Soars as Hormuz Risks Rattle Markets",
+          "summary": "Brent surged more than 6% to $107.63 as escalating Middle East tensions heightened global supply concerns.",
+          "date": "2026-09-10",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/oil_soars_as_hormuz_risks_rattle_markets-10-sep-2026-184590-article/?rss=true",
           "relevant": false
         },
         {
@@ -737,6 +761,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Enbridge to Acquire Tallgrass Pipelines for $2.55B",
+          "summary": "The acquisition includes a 75 percent stake in the Pony Express Pipeline, which carries up to about 460,000 barrels per day of Rockies production to Cushing, Oklahoma.",
+          "date": "2026-09-10",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/enbridge_to_acquire_tallgrass_pipelines_for_255b-10-sep-2026-184589-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "Cochin and Drydocks World seal Kochi repair venture",
           "summary": "India’s Cochin Shipyard has approved a 50:50 joint venture with DP World’s Drydocks World that will take over its International Ship Repair Facility (ISRF) in Kochi, giving the Dubai-based repair specialist the lead…",
           "date": "2026-09-10",
@@ -758,14 +790,6 @@
           "date": "2026-09-10",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/the-return-of-the-small-shipowner/",
-          "relevant": false
-        },
-        {
-          "title": "Enbridge to Acquire Tallgrass Pipelines for $2.55B",
-          "summary": "The acquisition includes a 75 percent stake in the Pony Express Pipeline, which carries up to about 460,000 barrels per day of Rockies production to Cushing, Oklahoma.",
-          "date": "2026-09-10",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/enbridge_to_acquire_tallgrass_pipelines_for_255b-10-sep-2026-184589-article/?rss=true",
           "relevant": false
         },
         {
@@ -913,20 +937,20 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Splash Singapore heads into final fortnight with registrations climbing",
-          "summary": "The countdown to Splash Singapore is entering its final fortnight, with delegate registrations accelerating and another group of senior shipping executives joining an already packed speaker lineup. The inaugural event…",
-          "date": "2026-09-10",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/splash-singapore-heads-into-final-fortnight-with-registrations-climbing/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Nevesbu Unveils SIGMA 9113 Corvette Refurbishment Concept for Indonesia",
           "summary": "Dutch naval engineering firm Nevesbu has presented its concept design for the refurbishment of the Indonesian Navy’s (TNI AL) Damen-built SIGMA 9113/Diponegoro-class corvettes. According to Nevesbu, the company…",
           "date": "2026-09-10",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/09/nevesbu-unveils-sigma-9113-corvette-refurbishment-concept-for-indonesia/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Splash Singapore heads into final fortnight with registrations climbing",
+          "summary": "The countdown to Splash Singapore is entering its final fortnight, with delegate registrations accelerating and another group of senior shipping executives joining an already packed speaker lineup. The inaugural event…",
+          "date": "2026-09-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/splash-singapore-heads-into-final-fortnight-with-registrations-climbing/",
           "relevant": false,
           "region": "SEA"
         },
