@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T07:01:00Z",
+  "last_updated": "2026-09-10T08:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -64,6 +64,30 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "CMA CGM says it met obligations in $186m Samsung dispute",
+          "summary": "CMA CGM has pushed back against Samsung Electronics America’s $186m claim before the US Federal Maritime Commission, telling Splash it believes it complied with its contractual obligations and applicable regulations…",
+          "date": "2026-09-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/cma-cgm-says-it-met-obligations-in-186m-samsung-dispute/",
+          "relevant": false
+        },
+        {
+          "title": "US maritime nuclear push gathers pace",
+          "summary": "US maritime nuclear startup Bluecore Energy has raised $50m to accelerate development of floating nuclear power systems as Washington’s push to bring atomic energy into commercial shipping gathers momentum. The…",
+          "date": "2026-09-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/us-maritime-nuclear-push-gathers-pace/",
+          "relevant": false
+        },
+        {
+          "title": "Odfjell Drilling lands $518m semisub deal with Vår Energi",
+          "summary": "Oslo-listed semisub player Odfjell Drilling has received a letter of award from Vår Energi for use of one of its rigs. Vår Energi hired the 2019-built Deepsea Bergen, formerly known as Deepsea Bollsta, for three years…",
+          "date": "2026-09-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/odfjell-drilling-lands-518m-semisub-deal-with-var-energi/",
+          "relevant": false
+        },
         {
           "title": "Bluecore Energy Raises $50 Million for Maritime Nuclear System",
           "summary": "By Laura Curtis (Bloomberg) — A Southern California startup with plans to deploy floating nuclear power plants may be one step closer to providing electricity to the busiest seaport complex in...",
@@ -465,6 +489,14 @@
           "relevant": false
         },
         {
+          "title": "Lords Committee: UK-Poland defence treaty lacks ‘substance’",
+          "summary": "The UK-Poland defence treaty has been questioned by an influential committee in the UK House of Lords amid a crisis in UK military readiness. The post Lords Committee: UK-Poland defence treaty lacks ‘substance’ appeared…",
+          "date": "2026-09-09",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/lords-committee-uk-poland-defence-treaty-lacks-substance/",
+          "relevant": false
+        },
+        {
           "title": "Shearwater targets Brazil’s Equatorial Margin with new 3D survey",
           "summary": "Norwegian offshore seismic vessel player Shearwater Geoservices has launched the Amapá 3D multi-client seismic survey in partnership with energy technology company SLB. The survey will be conducted offshore Amapá, in…",
           "date": "2026-09-09",
@@ -737,6 +769,24 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Splash Singapore heads into final fortnight with registrations climbing",
+          "summary": "The countdown to Splash Singapore is entering its final fortnight, with delegate registrations accelerating and another group of senior shipping executives joining an already packed speaker lineup. The inaugural event…",
+          "date": "2026-09-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/splash-singapore-heads-into-final-fortnight-with-registrations-climbing/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Alam Maritim head faces fraud charges tied to vessel rates",
+          "summary": "Chief executive of Malaysia’s OSV owner Alam Maritim Resources, Azmi Ahmad, has been charged with two counts of fraud linked to offshore vessel charter agreements involving companies connected to Lembaga Tabung Haji…",
+          "date": "2026-09-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/alam-maritim-head-faces-fraud-charges-tied-to-vessel-rates/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Nevesbu Unveils SIGMA 9113 Corvette Refurbishment Concept for Indonesia",
           "summary": "Dutch naval engineering firm Nevesbu has presented its concept design for the refurbishment of the Indonesian Navy’s (TNI AL) Damen-built SIGMA 9113/Diponegoro-class corvettes. According to Nevesbu, the company…",
           "date": "2026-09-10",
@@ -771,15 +821,6 @@
           "source_url": "https://www.oedigital.com/news/542818-vallourec-aramco-expand-tubulars-partnership",
           "relevant": true,
           "region": "KSA"
-        },
-        {
-          "title": "Splash Singapore heads into final fortnight with registrations climbing",
-          "summary": "The countdown to Splash Singapore is entering its final fortnight, with delegate registrations accelerating and another group of senior shipping executives joining an already packed speaker lineup. The inaugural event…",
-          "date": "2026-09-09",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/splash-singapore-heads-into-final-fortnight-with-registrations-climbing/",
-          "relevant": false,
-          "region": "SEA"
         },
         {
           "title": "MISC launches Malaysia’s first maritime-focused foundation",
