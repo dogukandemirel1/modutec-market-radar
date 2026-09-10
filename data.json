@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T08:01:00Z",
+  "last_updated": "2026-09-10T08:55:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -105,14 +105,6 @@
           "relevant": false
         },
         {
-          "title": "India: Larsen & Toubro company gets EPCIC order from ONGC",
-          "summary": "Mumbai-headquartered L&T Energy Hydrocarbon Offshore (LTEH Offshore), a Larsen & Toubro business, has secured […] The post India: Larsen & Toubro company gets EPCIC order from ONGC appeared first on Offshore Energy .",
-          "date": "2026-09-09",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/india-larsen-toubro-company-gets-epcic-order-from-ongc/",
-          "relevant": false
-        },
-        {
           "title": "Saipem wins Osman Gazi FPU commissioning contract in Türkiye",
           "summary": "Saipem has secured a contract from GOE Petrol Sanayi to provide commissioning services for the Osman Gazi FPU, which will serve the Sakarya gas field in the Turkish Black Sea.",
           "date": "2026-09-09",
@@ -145,6 +137,14 @@
           "relevant": false
         },
         {
+          "title": "India: Larsen & Toubro company gets EPCIC order from ONGC",
+          "summary": "Mumbai-headquartered L&T Energy Hydrocarbon Offshore (LTEH Offshore), a Larsen & Toubro business, has secured […] The post India: Larsen & Toubro company gets EPCIC order from ONGC appeared first on Offshore Energy .",
+          "date": "2026-09-09",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/india-larsen-toubro-company-gets-epcic-order-from-ongc/",
+          "relevant": false
+        },
+        {
           "title": "Saipem wins Turkish FPU commissioning job",
           "summary": "Italian offshore engineering contractor Saipem has picked up another piece of Turkey’s fast-expanding Sakarya gas development, securing the commissioning work for the country’s first floating gas production unit. GOE…",
           "date": "2026-09-09",
@@ -158,30 +158,6 @@
           "date": "2026-09-08",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/ventura-expands-managed-fleet-secures-petronas-drilling-deal-in-indonesia-79879",
-          "relevant": false
-        },
-        {
-          "title": "First subsea contract with Eni takes McDermott to Cyprus",
-          "summary": "U.S. offshore engineering and construction player McDermott has secured its first subsea contract with […] The post First subsea contract with Eni takes McDermott to Cyprus appeared first on Offshore Energy .",
-          "date": "2026-09-08",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/first-subsea-contract-with-eni-takes-mcdermott-to-cyprus/",
-          "relevant": false
-        },
-        {
-          "title": "Saipem put in charge of commissioning services for Türkiye-bound FPU",
-          "summary": "Saipem has secured a new contract with GOE Petrol Sanayi to provide commissioning services […] The post Saipem put in charge of commissioning services for Türkiye-bound FPU appeared first on Offshore Energy .",
-          "date": "2026-09-08",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/saipem-put-in-charge-of-commissioning-services-for-turkiye-bound-fpu/",
-          "relevant": false
-        },
-        {
-          "title": "Shearwater to use electric ROVs for North Sea contract",
-          "summary": "Norway’s Shearwater Geoservices has secured an ocean bottom node (OBN) survey contract in the […] The post Shearwater to use electric ROVs for North Sea contract appeared first on Offshore Energy .",
-          "date": "2026-09-08",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/shearwater-to-use-electric-rovs-for-north-sea-contract/",
           "relevant": false
         },
         {
@@ -217,6 +193,30 @@
           "relevant": false
         },
         {
+          "title": "First subsea contract with Eni takes McDermott to Cyprus",
+          "summary": "U.S. offshore engineering and construction player McDermott has secured its first subsea contract with […] The post First subsea contract with Eni takes McDermott to Cyprus appeared first on Offshore Energy .",
+          "date": "2026-09-08",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/first-subsea-contract-with-eni-takes-mcdermott-to-cyprus/",
+          "relevant": false
+        },
+        {
+          "title": "Saipem put in charge of commissioning services for Türkiye-bound FPU",
+          "summary": "Saipem has secured a new contract with GOE Petrol Sanayi to provide commissioning services […] The post Saipem put in charge of commissioning services for Türkiye-bound FPU appeared first on Offshore Energy .",
+          "date": "2026-09-08",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/saipem-put-in-charge-of-commissioning-services-for-turkiye-bound-fpu/",
+          "relevant": false
+        },
+        {
+          "title": "Shearwater to use electric ROVs for North Sea contract",
+          "summary": "Norway’s Shearwater Geoservices has secured an ocean bottom node (OBN) survey contract in the […] The post Shearwater to use electric ROVs for North Sea contract appeared first on Offshore Energy .",
+          "date": "2026-09-08",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/shearwater-to-use-electric-rovs-for-north-sea-contract/",
+          "relevant": false
+        },
+        {
           "title": "Oil Tanker Company Says It’s Owed $55 Million in Rate Dispute",
           "summary": "Oil tanker company Hunter Group ASA says it’s owed $55 million by a counterparty that’s disputing its contractual obligations after a surge in the world’s benchmark freight rate.",
           "date": "2026-09-08",
@@ -241,14 +241,6 @@
           "relevant": false
         },
         {
-          "title": "Ventura Offshore adds deepwater firepower to managed fleet and wins Petronas rig deal",
-          "summary": "Brazilian deepwater offshore drilling contractor Ventura Offshore has expanded its managed fleet by adding Eldorado Drilling’s seventh-generation drillship to its rig pool. The firm has also secured a…",
-          "date": "2026-09-07",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/ventura-offshore-adds-deepwater-firepower-to-managed-fleet-and-wins-petronas-rig-deal/",
-          "relevant": false
-        },
-        {
           "title": "SubSea Craft simplify payload integration on its USV",
           "summary": "British naval engineering firm, SubSea Craft, unveiled its new modular payload cassette system for its MARS uncrewed surface vessel. The post SubSea Craft simplify payload integration on its USV appeared first on Naval…",
           "date": "2026-09-07",
@@ -262,6 +254,14 @@
           "date": "2026-09-07",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/hii-uss-william-j-clinton/",
+          "relevant": false
+        },
+        {
+          "title": "Ventura Offshore adds deepwater firepower to managed fleet and wins Petronas rig deal",
+          "summary": "Brazilian deepwater offshore drilling contractor Ventura Offshore has expanded its managed fleet by adding Eldorado Drilling’s seventh-generation drillship to its rig pool. The firm has also secured a…",
+          "date": "2026-09-07",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/ventura-offshore-adds-deepwater-firepower-to-managed-fleet-and-wins-petronas-rig-deal/",
           "relevant": false
         },
         {
@@ -805,20 +805,20 @@
           "region": "SEA"
         },
         {
-          "title": "Vallourec and Aramco expand partnership dating back to 1962",
-          "summary": "French provider of tubular solutions Vallourec and Saudi Arabia’s energy company Aramco have expanded their partnership […] The post Vallourec and Aramco expand partnership dating back to 1962 appeared first on Offshore…",
-          "date": "2026-09-09",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/vallourec-and-aramco-expand-partnership-dating-back-to-1962/",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
           "title": "Vallourec, Aramco Expand Tubulars Partnership",
           "summary": "French tubular solutions provider Vallourec has signed an agreement with Saudi Aramco covering the supply of Oil Country Tubular Goods (OCTG), further expanding…",
           "date": "2026-09-09",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542818-vallourec-aramco-expand-tubulars-partnership",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "Vallourec and Aramco expand partnership dating back to 1962",
+          "summary": "French provider of tubular solutions Vallourec and Saudi Arabia’s energy company Aramco have expanded their partnership […] The post Vallourec and Aramco expand partnership dating back to 1962 appeared first on Offshore…",
+          "date": "2026-09-09",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/vallourec-and-aramco-expand-partnership-dating-back-to-1962/",
           "relevant": true,
           "region": "KSA"
         },
