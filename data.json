@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T12:01:00Z",
+  "last_updated": "2026-09-10T13:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -86,6 +86,14 @@
           "date": "2026-09-10",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/odfjell-drillings-new-rig-busy-until-2031-thanks-to-deal-with-var-energi/",
+          "relevant": false
+        },
+        {
+          "title": "Vår Energi Picks Odfjell Drilling’s Deepsea Bergen for Multi-Year Drilling Ops",
+          "summary": "Odfjell Drilling has received a letter of award from Vår Energi for a three-year drilling campaign with the Deepsea Bergen rig starting in early 2028, with the firm…",
+          "date": "2026-09-10",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542860-v-r-energi-picks-odfjell-drilling-s-deepsea-bergen-for-multi-year-drilling-ops",
           "relevant": false
         },
         {
@@ -193,19 +201,19 @@
           "relevant": false
         },
         {
-          "title": "Saipem put in charge of commissioning services for Türkiye-bound FPU",
-          "summary": "Saipem has secured a new contract with GOE Petrol Sanayi to provide commissioning services […] The post Saipem put in charge of commissioning services for Türkiye-bound FPU appeared first on Offshore Energy .",
-          "date": "2026-09-08",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/saipem-put-in-charge-of-commissioning-services-for-turkiye-bound-fpu/",
-          "relevant": false
-        },
-        {
           "title": "Eni Picks McDermott for Cronos Field Subsea Work off Cyprus",
           "summary": "McDermott has secured a subsea contract from Eni for the Cronos gas field development offshore Cyprus, following the recent final investment decision for the country's first gas development…",
           "date": "2026-09-08",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542798-eni-picks-mcdermott-for-cronos-field-subsea-work-off-cyprus",
+          "relevant": false
+        },
+        {
+          "title": "Saipem put in charge of commissioning services for Türkiye-bound FPU",
+          "summary": "Saipem has secured a new contract with GOE Petrol Sanayi to provide commissioning services […] The post Saipem put in charge of commissioning services for Türkiye-bound FPU appeared first on Offshore Energy .",
+          "date": "2026-09-08",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/saipem-put-in-charge-of-commissioning-services-for-turkiye-bound-fpu/",
           "relevant": false
         },
         {
@@ -488,6 +496,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "Surging Tanker Rates Signal a Deepening Global Energy Crisis",
+          "summary": "Global tanker freight rates are surging to record levels with little respite in sight, a sign of the growing strain in oil markets as traders, shipowners, producers and buyers grapple with a drawn-out conflict in the…",
+          "date": "2026-09-10",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/surging-tanker-rates-signal-a-deepening-global-energy-crisis/",
+          "relevant": false
+        },
         {
           "title": "White Fleet’s WFD 450 begins drilling for Arena",
           "summary": "White Fleet Drilling’s WFD 450 jackup commenced a multi-well drilling program on Arena Energy’s US Gulf assets, the companies announced on 8 September 2026. The WFD 450 can drill in water depths up to 400 ft and to…",
