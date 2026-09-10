@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T06:00:59Z",
+  "last_updated": "2026-09-10T07:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -217,14 +217,6 @@
           "relevant": false
         },
         {
-          "title": "Indian Navy Eyes 1,000 km Ship-Based Loitering Munitions",
-          "summary": "The Indian Navy has issued an RFI for 1,000 km range ship-based loitering munitions. Explore the specs, local contenders, and strategic impact. The post Indian Navy Eyes 1,000 km Ship-Based Loitering Munitions appeared…",
-          "date": "2026-09-07",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/indian-navy-1000km-ship-based-loitering-munitions/",
-          "relevant": false
-        },
-        {
           "title": "Ventura Offshore adds deepwater firepower to managed fleet and wins Petronas rig deal",
           "summary": "Brazilian deepwater offshore drilling contractor Ventura Offshore has expanded its managed fleet by adding Eldorado Drilling’s seventh-generation drillship to its rig pool. The firm has also secured a…",
           "date": "2026-09-07",
@@ -246,6 +238,14 @@
           "date": "2026-09-07",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/hii-uss-william-j-clinton/",
+          "relevant": false
+        },
+        {
+          "title": "Indian Navy Eyes 1,000 km Ship-Based Loitering Munitions",
+          "summary": "The Indian Navy has issued an RFI for 1,000 km range ship-based loitering munitions. Explore the specs, local contenders, and strategic impact. The post Indian Navy Eyes 1,000 km Ship-Based Loitering Munitions appeared…",
+          "date": "2026-09-07",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/indian-navy-1000km-ship-based-loitering-munitions/",
           "relevant": false
         },
         {
@@ -737,20 +737,11 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Splash Singapore heads into final fortnight with registrations climbing",
-          "summary": "The countdown to Splash Singapore is entering its final fortnight, with delegate registrations accelerating and another group of senior shipping executives joining an already packed speaker lineup. The inaugural event…",
-          "date": "2026-09-09",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/splash-singapore-heads-into-final-fortnight-with-registrations-climbing/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "MISC launches Malaysia’s first maritime-focused foundation",
-          "summary": "MISC Group has launched Yayasan Maritim, which it describes as Malaysia’s first dedicated maritime-focused foundation, aimed at strengthening the country’s maritime talent pipeline, marine resilience and coastal…",
-          "date": "2026-09-09",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/misc-launches-malaysias-first-maritime-focused-foundation/",
+          "title": "Nevesbu Unveils SIGMA 9113 Corvette Refurbishment Concept for Indonesia",
+          "summary": "Dutch naval engineering firm Nevesbu has presented its concept design for the refurbishment of the Indonesian Navy’s (TNI AL) Damen-built SIGMA 9113/Diponegoro-class corvettes. According to Nevesbu, the company…",
+          "date": "2026-09-10",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/nevesbu-unveils-sigma-9113-corvette-refurbishment-concept-for-indonesia/",
           "relevant": false,
           "region": "SEA"
         },
@@ -780,6 +771,24 @@
           "source_url": "https://www.oedigital.com/news/542818-vallourec-aramco-expand-tubulars-partnership",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Splash Singapore heads into final fortnight with registrations climbing",
+          "summary": "The countdown to Splash Singapore is entering its final fortnight, with delegate registrations accelerating and another group of senior shipping executives joining an already packed speaker lineup. The inaugural event…",
+          "date": "2026-09-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/splash-singapore-heads-into-final-fortnight-with-registrations-climbing/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "MISC launches Malaysia’s first maritime-focused foundation",
+          "summary": "MISC Group has launched Yayasan Maritim, which it describes as Malaysia’s first dedicated maritime-focused foundation, aimed at strengthening the country’s maritime talent pipeline, marine resilience and coastal…",
+          "date": "2026-09-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/misc-launches-malaysias-first-maritime-focused-foundation/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Saudi Arabia Halts Energy Sites",
