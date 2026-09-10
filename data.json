@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T09:01:00Z",
+  "last_updated": "2026-09-10T10:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -81,6 +81,14 @@
           "relevant": false
         },
         {
+          "title": "Odfjell Drilling’s new rig busy until 2031 thanks to deal with Vår Energi",
+          "summary": "Odfjell Drilling has signed a letter of award (LOA) with Vår Energi for a […] The post Odfjell Drilling’s new rig busy until 2031 thanks to deal with Vår Energi appeared first on Offshore Energy .",
+          "date": "2026-09-10",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/odfjell-drillings-new-rig-busy-until-2031-thanks-to-deal-with-var-energi/",
+          "relevant": false
+        },
+        {
           "title": "Odfjell Drilling lands $518m semisub deal with Vår Energi",
           "summary": "Oslo-listed semisub player Odfjell Drilling has received a letter of award from Vår Energi for use of one of its rigs. Vår Energi hired the 2019-built Deepsea Bergen, formerly known as Deepsea Bollsta, for three years…",
           "date": "2026-09-10",
@@ -102,6 +110,14 @@
           "date": "2026-09-09",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/09/us-navy-l3harris-vampire-counter-drone/",
+          "relevant": false
+        },
+        {
+          "title": "India: Larsen & Toubro company gets EPCIC order from ONGC",
+          "summary": "Mumbai-headquartered L&T Energy Hydrocarbon Offshore (LTEH Offshore), a Larsen & Toubro business, has secured […] The post India: Larsen & Toubro company gets EPCIC order from ONGC appeared first on Offshore Energy .",
+          "date": "2026-09-09",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/india-larsen-toubro-company-gets-epcic-order-from-ongc/",
           "relevant": false
         },
         {
@@ -137,14 +153,6 @@
           "relevant": false
         },
         {
-          "title": "India: Larsen & Toubro company gets EPCIC order from ONGC",
-          "summary": "Mumbai-headquartered L&T Energy Hydrocarbon Offshore (LTEH Offshore), a Larsen & Toubro business, has secured […] The post India: Larsen & Toubro company gets EPCIC order from ONGC appeared first on Offshore Energy .",
-          "date": "2026-09-09",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/india-larsen-toubro-company-gets-epcic-order-from-ongc/",
-          "relevant": false
-        },
-        {
           "title": "Saipem wins Turkish FPU commissioning job",
           "summary": "Italian offshore engineering contractor Saipem has picked up another piece of Turkey’s fast-expanding Sakarya gas development, securing the commissioning work for the country’s first floating gas production unit. GOE…",
           "date": "2026-09-09",
@@ -158,6 +166,22 @@
           "date": "2026-09-08",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/ventura-expands-managed-fleet-secures-petronas-drilling-deal-in-indonesia-79879",
+          "relevant": false
+        },
+        {
+          "title": "First subsea contract with Eni takes McDermott to Cyprus",
+          "summary": "U.S. offshore engineering and construction player McDermott has secured its first subsea contract with […] The post First subsea contract with Eni takes McDermott to Cyprus appeared first on Offshore Energy .",
+          "date": "2026-09-08",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/first-subsea-contract-with-eni-takes-mcdermott-to-cyprus/",
+          "relevant": false
+        },
+        {
+          "title": "Saipem put in charge of commissioning services for Türkiye-bound FPU",
+          "summary": "Saipem has secured a new contract with GOE Petrol Sanayi to provide commissioning services […] The post Saipem put in charge of commissioning services for Türkiye-bound FPU appeared first on Offshore Energy .",
+          "date": "2026-09-08",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/saipem-put-in-charge-of-commissioning-services-for-turkiye-bound-fpu/",
           "relevant": false
         },
         {
@@ -190,22 +214,6 @@
           "date": "2026-09-08",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542790-saipem-bags-commissioning-contract-for-t-rkiye-bound-fpu",
-          "relevant": false
-        },
-        {
-          "title": "First subsea contract with Eni takes McDermott to Cyprus",
-          "summary": "U.S. offshore engineering and construction player McDermott has secured its first subsea contract with […] The post First subsea contract with Eni takes McDermott to Cyprus appeared first on Offshore Energy .",
-          "date": "2026-09-08",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/first-subsea-contract-with-eni-takes-mcdermott-to-cyprus/",
-          "relevant": false
-        },
-        {
-          "title": "Saipem put in charge of commissioning services for Türkiye-bound FPU",
-          "summary": "Saipem has secured a new contract with GOE Petrol Sanayi to provide commissioning services […] The post Saipem put in charge of commissioning services for Türkiye-bound FPU appeared first on Offshore Energy .",
-          "date": "2026-09-08",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/saipem-put-in-charge-of-commissioning-services-for-turkiye-bound-fpu/",
           "relevant": false
         },
         {
@@ -625,6 +633,22 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Safe Bulkers raises $94m for fleet push",
+          "summary": "Polys Hajioannou-led Safe Bulkers has raised €80.4m ($93.5m) through a private placement, adding fresh capital to fund its growing newbuilding programme and potentially pursue further vessel acquisitions. The New York-…",
+          "date": "2026-09-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/safe-bulkers-raises-94m-for-fleet-push/",
+          "relevant": false
+        },
+        {
+          "title": "The return of the small shipowner",
+          "summary": "Sunil Kapoor on why technology is changing the balance in shipping. When we acquired our vessel, several shipmanagement companies approached us. Nearly every conversation began in the same way: “Let me show you our…",
+          "date": "2026-09-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/the-return-of-the-small-shipowner/",
+          "relevant": false
+        },
+        {
           "title": "OGDCL, Mari bring Lundali-1 online in Sukhpur-II Block",
           "summary": "Oil and Gas Development Company (OGDCL) and joint venture partner Mari Energies achieved first gas at the Lundali-1 well in Pakistan’s Sukhpur-II Block on 6 September 2026. The well is producing 10 mcf/d of gas at a…",
           "date": "2026-09-09",
@@ -778,20 +802,20 @@
           "region": "SEA"
         },
         {
-          "title": "Alam Maritim head faces fraud charges tied to vessel rates",
-          "summary": "Chief executive of Malaysia’s OSV owner Alam Maritim Resources, Azmi Ahmad, has been charged with two counts of fraud linked to offshore vessel charter agreements involving companies connected to Lembaga Tabung Haji…",
-          "date": "2026-09-10",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/alam-maritim-head-faces-fraud-charges-tied-to-vessel-rates/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Nevesbu Unveils SIGMA 9113 Corvette Refurbishment Concept for Indonesia",
           "summary": "Dutch naval engineering firm Nevesbu has presented its concept design for the refurbishment of the Indonesian Navy’s (TNI AL) Damen-built SIGMA 9113/Diponegoro-class corvettes. According to Nevesbu, the company…",
           "date": "2026-09-10",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/09/nevesbu-unveils-sigma-9113-corvette-refurbishment-concept-for-indonesia/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Alam Maritim head faces fraud charges tied to vessel rates",
+          "summary": "Chief executive of Malaysia’s OSV owner Alam Maritim Resources, Azmi Ahmad, has been charged with two counts of fraud linked to offshore vessel charter agreements involving companies connected to Lembaga Tabung Haji…",
+          "date": "2026-09-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/alam-maritim-head-faces-fraud-charges-tied-to-vessel-rates/",
           "relevant": false,
           "region": "SEA"
         },
@@ -805,20 +829,20 @@
           "region": "SEA"
         },
         {
-          "title": "Vallourec, Aramco Expand Tubulars Partnership",
-          "summary": "French tubular solutions provider Vallourec has signed an agreement with Saudi Aramco covering the supply of Oil Country Tubular Goods (OCTG), further expanding…",
-          "date": "2026-09-09",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/542818-vallourec-aramco-expand-tubulars-partnership",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
           "title": "Vallourec and Aramco expand partnership dating back to 1962",
           "summary": "French provider of tubular solutions Vallourec and Saudi Arabia’s energy company Aramco have expanded their partnership […] The post Vallourec and Aramco expand partnership dating back to 1962 appeared first on Offshore…",
           "date": "2026-09-09",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/vallourec-and-aramco-expand-partnership-dating-back-to-1962/",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "Vallourec, Aramco Expand Tubulars Partnership",
+          "summary": "French tubular solutions provider Vallourec has signed an agreement with Saudi Aramco covering the supply of Oil Country Tubular Goods (OCTG), further expanding…",
+          "date": "2026-09-09",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542818-vallourec-aramco-expand-tubulars-partnership",
           "relevant": true,
           "region": "KSA"
         },
