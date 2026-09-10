@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T16:01:00Z",
+  "last_updated": "2026-09-10T17:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -118,6 +118,14 @@
           "date": "2026-09-10",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/odfjell-contract-deepsea-bergen-var-energi/",
+          "relevant": false
+        },
+        {
+          "title": "Lockheed Martin nets over $1bn in US contracts for missiles, torpedoes",
+          "summary": "Lockheed Martin received contract modifications from the US Department of War totalling over $1bn, expanding production for its MK 48 Heavyweight Torpedo and a range of standoff missile systems. The post Lockheed Martin…",
+          "date": "2026-09-10",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/lockheed-martin-torpedoes-missile-contract/",
           "relevant": false
         },
         {
@@ -528,6 +536,22 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "Surging Tanker Rates Signal Deepening Global Energy Crisis",
+          "summary": "Global tanker freight rates are surging to record levels with little respite in sight, a sign of the growing strain in oil markets as traders, shipowners, producers and buyers grapple with a drawn-out conflict in the…",
+          "date": "2026-09-10",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/surging-tanker-rates-signal-deepening-global-energy-crisis/",
+          "relevant": false
+        },
+        {
+          "title": "Houthis Seize Mocha, Tightening Grip on Bab el-Mandeb and Red Sea Shipping",
+          "summary": "Iran-aligned Houthis seized control of Yemen's port city of Mocha on Thursday, military sources said, posing a further threat to global energy supplies hours after President Donald Trump said he expected the war to end…",
+          "date": "2026-09-10",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/houthis-seize-mocha-tightening-grip-on-bab-el-mandeb-and-red-sea-shipping/",
+          "relevant": false
+        },
         {
           "title": "Surging Tanker Rates Signal a Deepening Global Energy Crisis",
           "summary": "Global tanker freight rates are surging to record levels with little respite in sight, a sign of the growing strain in oil markets as traders, shipowners, producers and buyers grapple with a drawn-out conflict in the…",
