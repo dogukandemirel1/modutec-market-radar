@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T21:01:03Z",
+  "last_updated": "2026-09-10T22:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -81,6 +81,22 @@
           "relevant": false
         },
         {
+          "title": "New Fortress scraps former Seadrill semisub pair after FLNG plans fade",
+          "summary": "New Fortress Energy has sold two former Seadrill cylindrical semisubs for demolition, ending a four-year effort to repurpose the pair as floating LNG liquefaction facilities. VesselsValue’s latest demolition data lists…",
+          "date": "2026-09-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/new-fortress-scraps-former-seadrill-semisub-pair-after-flng-plans-fade/",
+          "relevant": false
+        },
+        {
+          "title": "CMA CGM says it met obligations in $186m Samsung dispute",
+          "summary": "CMA CGM has pushed back against Samsung Electronics America’s $186m claim before the US Federal Maritime Commission, telling Splash it believes it complied with its contractual obligations and applicable regulations…",
+          "date": "2026-09-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/cma-cgm-says-it-met-obligations-in-186m-samsung-dispute/",
+          "relevant": false
+        },
+        {
           "title": "Vår Energi picks Deepsea Bergen for long-term drilling program",
           "summary": "Odfjell Drilling received a letter of award from Vår Energi for the Deepsea Bergen semisubmersible, covering three years of drilling work starting in early 2028. The award follows completion of the rig’s current…",
           "date": "2026-09-10",
@@ -142,22 +158,6 @@
           "date": "2026-09-10",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542849-petronas-awards-estuary-cluster-psc-to-harvester-energy",
-          "relevant": false
-        },
-        {
-          "title": "New Fortress scraps former Seadrill semisub pair after FLNG plans fade",
-          "summary": "New Fortress Energy has sold two former Seadrill cylindrical semisubs for demolition, ending a four-year effort to repurpose the pair as floating LNG liquefaction facilities. VesselsValue’s latest demolition data lists…",
-          "date": "2026-09-10",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/new-fortress-scraps-former-seadrill-semisub-pair-after-flng-plans-fade/",
-          "relevant": false
-        },
-        {
-          "title": "CMA CGM says it met obligations in $186m Samsung dispute",
-          "summary": "CMA CGM has pushed back against Samsung Electronics America’s $186m claim before the US Federal Maritime Commission, telling Splash it believes it complied with its contractual obligations and applicable regulations…",
-          "date": "2026-09-10",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/cma-cgm-says-it-met-obligations-in-186m-samsung-dispute/",
           "relevant": false
         },
         {
@@ -585,19 +585,19 @@
           "relevant": false
         },
         {
-          "title": "Oil Soars as Hormuz Risks Rattle Markets",
-          "summary": "Brent surged more than 6% to $107.63 as escalating Middle East tensions heightened global supply concerns.",
-          "date": "2026-09-10",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/oil_soars_as_hormuz_risks_rattle_markets-10-sep-2026-184590-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "The common language shipping still lacks",
           "summary": "Shipping’s digital ambitions are accelerating faster than the structures beneath them. The industry largely agrees on the need for open standards, but adoption remains constrained by proprietary interests, regulatory…",
           "date": "2026-09-10",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/the-common-language-shipping-still-lacks/",
+          "relevant": false
+        },
+        {
+          "title": "Oil Soars as Hormuz Risks Rattle Markets",
+          "summary": "Brent surged more than 6% to $107.63 as escalating Middle East tensions heightened global supply concerns.",
+          "date": "2026-09-10",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/oil_soars_as_hormuz_risks_rattle_markets-10-sep-2026-184590-article/?rss=true",
           "relevant": false
         },
         {
@@ -761,14 +761,6 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
-          "title": "Enbridge to Acquire Tallgrass Pipelines for $2.55B",
-          "summary": "The acquisition includes a 75 percent stake in the Pony Express Pipeline, which carries up to about 460,000 barrels per day of Rockies production to Cushing, Oklahoma.",
-          "date": "2026-09-10",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/enbridge_to_acquire_tallgrass_pipelines_for_255b-10-sep-2026-184589-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Cochin and Drydocks World seal Kochi repair venture",
           "summary": "India’s Cochin Shipyard has approved a 50:50 joint venture with DP World’s Drydocks World that will take over its International Ship Repair Facility (ISRF) in Kochi, giving the Dubai-based repair specialist the lead…",
           "date": "2026-09-10",
@@ -790,6 +782,14 @@
           "date": "2026-09-10",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/the-return-of-the-small-shipowner/",
+          "relevant": false
+        },
+        {
+          "title": "Enbridge to Acquire Tallgrass Pipelines for $2.55B",
+          "summary": "The acquisition includes a 75 percent stake in the Pony Express Pipeline, which carries up to about 460,000 barrels per day of Rockies production to Cushing, Oklahoma.",
+          "date": "2026-09-10",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/enbridge_to_acquire_tallgrass_pipelines_for_255b-10-sep-2026-184589-article/?rss=true",
           "relevant": false
         },
         {
@@ -937,20 +937,20 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Nevesbu Unveils SIGMA 9113 Corvette Refurbishment Concept for Indonesia",
-          "summary": "Dutch naval engineering firm Nevesbu has presented its concept design for the refurbishment of the Indonesian Navy’s (TNI AL) Damen-built SIGMA 9113/Diponegoro-class corvettes. According to Nevesbu, the company…",
-          "date": "2026-09-10",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/nevesbu-unveils-sigma-9113-corvette-refurbishment-concept-for-indonesia/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Splash Singapore heads into final fortnight with registrations climbing",
           "summary": "The countdown to Splash Singapore is entering its final fortnight, with delegate registrations accelerating and another group of senior shipping executives joining an already packed speaker lineup. The inaugural event…",
           "date": "2026-09-10",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/splash-singapore-heads-into-final-fortnight-with-registrations-climbing/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Nevesbu Unveils SIGMA 9113 Corvette Refurbishment Concept for Indonesia",
+          "summary": "Dutch naval engineering firm Nevesbu has presented its concept design for the refurbishment of the Indonesian Navy’s (TNI AL) Damen-built SIGMA 9113/Diponegoro-class corvettes. According to Nevesbu, the company…",
+          "date": "2026-09-10",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/nevesbu-unveils-sigma-9113-corvette-refurbishment-concept-for-indonesia/",
           "relevant": false,
           "region": "SEA"
         },
