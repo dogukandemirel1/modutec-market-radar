@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T10:01:00Z",
+  "last_updated": "2026-09-11T11:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -209,19 +209,19 @@
           "relevant": false
         },
         {
-          "title": "India: Larsen & Toubro company gets EPCIC order from ONGC",
-          "summary": "Mumbai-headquartered L&T Energy Hydrocarbon Offshore (LTEH Offshore), a Larsen & Toubro business, has secured […] The post India: Larsen & Toubro company gets EPCIC order from ONGC appeared first on Offshore Energy .",
-          "date": "2026-09-09",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/india-larsen-toubro-company-gets-epcic-order-from-ongc/",
-          "relevant": false
-        },
-        {
           "title": "Saipem wins Osman Gazi FPU commissioning contract in Türkiye",
           "summary": "Saipem has secured a contract from GOE Petrol Sanayi to provide commissioning services for the Osman Gazi FPU, which will serve the Sakarya gas field in the Turkish Black Sea.",
           "date": "2026-09-09",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/saipem-osman-gazi-fpu-contract-turkiye/",
+          "relevant": false
+        },
+        {
+          "title": "India: Larsen & Toubro company gets EPCIC order from ONGC",
+          "summary": "Mumbai-headquartered L&T Energy Hydrocarbon Offshore (LTEH Offshore), a Larsen & Toubro business, has secured […] The post India: Larsen & Toubro company gets EPCIC order from ONGC appeared first on Offshore Energy .",
+          "date": "2026-09-09",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/india-larsen-toubro-company-gets-epcic-order-from-ongc/",
           "relevant": false
         },
         {
@@ -576,6 +576,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "Ørsted Gets Favorable Tax Opinion on Two UK Wind Farms",
+          "summary": "Ørsted has received a favorable final opinion in a long-running tax dispute between Denmark and the United Kingdom over taxation rights related to the Walney Extension…",
+          "date": "2026-09-11",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542879-rsted-gets-favorable-tax-opinion-on-two-uk-wind-farms",
+          "relevant": false
+        },
         {
           "title": "The common language shipping still lacks",
           "summary": "Shipping’s digital ambitions are accelerating faster than the structures beneath them. The industry largely agrees on the need for open standards, but adoption remains constrained by proprietary interests, regulatory…",
@@ -960,6 +968,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Wealth Holdings grows MPP pipeline with up to six more newbuilds in China",
+          "summary": "Singapore-based Wealth Holdings has added a third multipurpose newbuilding programme this year, signing for up to six 25,000 dwt ships at China’s Hubei Guangji Green Energy Shipbuilding. The deal covers two firm vessels…",
+          "date": "2026-09-11",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/wealth-holdings-grows-mpp-pipeline-with-up-to-six-more-newbuilds-in-china/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Onex linked to record $200m VLCC deal",
           "summary": "The tanker sale that has dominated market chatter this month has finally taken shape, with Dubai-based trading house Onex DMCC linked to an extraordinary $200m purchase of a near-new VLCC from George Procopiou’s Dynacom…",
