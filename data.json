@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T11:01:01Z",
+  "last_updated": "2026-09-11T12:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -70,6 +70,14 @@
           "date": "2026-09-11",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/korea-line-locks-in-31m-zhejiang-bulker-charter/",
+          "relevant": false
+        },
+        {
+          "title": "Saipem Signs New Preliminary Contract for Rovuma LNG",
+          "summary": "A consortium of Belgium's Jan De Nul and Italy's Saipem signed a letter of intent with ExxonMobil for the upstream infrastructure of the planned Rovuma LNG project in Mozambique.",
+          "date": "2026-09-11",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/saipem_signs_new_preliminary_contract_for_rovuma_lng-11-sep-2026-184592-article/?rss=true",
           "relevant": false
         },
         {
