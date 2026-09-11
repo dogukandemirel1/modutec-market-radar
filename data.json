@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T05:01:00Z",
+  "last_updated": "2026-09-11T06:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -553,6 +553,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "The common language shipping still lacks",
+          "summary": "Shipping’s digital ambitions are accelerating faster than the structures beneath them. The industry largely agrees on the need for open standards, but adoption remains constrained by proprietary interests, regulatory…",
+          "date": "2026-09-11",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/the-common-language-shipping-still-lacks/",
+          "relevant": false
+        },
+        {
           "title": "Houthi Seizure of Mocha Opens New Front in Iran-U.S. War",
           "summary": "Iran-aligned Houthis seized control of Yemen's port city of Mocha on Thursday and advanced down the Red Sea coast to strategic islands, military sources said, hours after President Donald Trump said he expected the Iran…",
           "date": "2026-09-10",
@@ -582,14 +590,6 @@
           "date": "2026-09-10",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/surging-tanker-rates-signal-a-deepening-global-energy-crisis/",
-          "relevant": false
-        },
-        {
-          "title": "The common language shipping still lacks",
-          "summary": "Shipping’s digital ambitions are accelerating faster than the structures beneath them. The industry largely agrees on the need for open standards, but adoption remains constrained by proprietary interests, regulatory…",
-          "date": "2026-09-10",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/the-common-language-shipping-still-lacks/",
           "relevant": false
         },
         {
