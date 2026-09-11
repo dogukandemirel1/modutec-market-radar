@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T01:01:03Z",
+  "last_updated": "2026-09-11T02:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -105,6 +105,14 @@
           "relevant": false
         },
         {
+          "title": "Odfjell Drilling’s new rig busy until 2031 thanks to deal with Vår Energi",
+          "summary": "Odfjell Drilling has signed a letter of award (LOA) with Vår Energi for a […] The post Odfjell Drilling’s new rig busy until 2031 thanks to deal with Vår Energi appeared first on Offshore Energy .",
+          "date": "2026-09-10",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/odfjell-drillings-new-rig-busy-until-2031-thanks-to-deal-with-var-energi/",
+          "relevant": false
+        },
+        {
           "title": "NextEra Energy Seals $1.9B DOE Loan to Restart Iowa Nuclear Plant",
           "summary": "The Trump administration has now financed three nuclear power plant restarts.",
           "date": "2026-09-10",
@@ -153,14 +161,6 @@
           "relevant": false
         },
         {
-          "title": "Odfjell Drilling’s new rig busy until 2031 thanks to deal with Vår Energi",
-          "summary": "Odfjell Drilling has signed a letter of award (LOA) with Vår Energi for a […] The post Odfjell Drilling’s new rig busy until 2031 thanks to deal with Vår Energi appeared first on Offshore Energy .",
-          "date": "2026-09-10",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/odfjell-drillings-new-rig-busy-until-2031-thanks-to-deal-with-var-energi/",
-          "relevant": false
-        },
-        {
           "title": "US maritime nuclear push gathers pace",
           "summary": "US maritime nuclear startup Bluecore Energy has raised $50m to accelerate development of floating nuclear power systems as Washington’s push to bring atomic energy into commercial shipping gathers momentum. The…",
           "date": "2026-09-10",
@@ -182,6 +182,14 @@
           "date": "2026-09-09",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/09/us-navy-l3harris-vampire-counter-drone/",
+          "relevant": false
+        },
+        {
+          "title": "India: Larsen & Toubro company gets EPCIC order from ONGC",
+          "summary": "Mumbai-headquartered L&T Energy Hydrocarbon Offshore (LTEH Offshore), a Larsen & Toubro business, has secured […] The post India: Larsen & Toubro company gets EPCIC order from ONGC appeared first on Offshore Energy .",
+          "date": "2026-09-09",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/india-larsen-toubro-company-gets-epcic-order-from-ongc/",
           "relevant": false
         },
         {
@@ -214,14 +222,6 @@
           "date": "2026-09-09",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542816-larsen-toubro-adds-major-ongc-offshore-project-to-orderbook",
-          "relevant": false
-        },
-        {
-          "title": "India: Larsen & Toubro company gets EPCIC order from ONGC",
-          "summary": "Mumbai-headquartered L&T Energy Hydrocarbon Offshore (LTEH Offshore), a Larsen & Toubro business, has secured […] The post India: Larsen & Toubro company gets EPCIC order from ONGC appeared first on Offshore Energy .",
-          "date": "2026-09-09",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/india-larsen-toubro-company-gets-epcic-order-from-ongc/",
           "relevant": false
         },
         {
@@ -973,20 +973,20 @@
           "region": "SEA"
         },
         {
-          "title": "Vallourec, Aramco Expand Tubulars Partnership",
-          "summary": "French tubular solutions provider Vallourec has signed an agreement with Saudi Aramco covering the supply of Oil Country Tubular Goods (OCTG), further expanding…",
-          "date": "2026-09-09",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/542818-vallourec-aramco-expand-tubulars-partnership",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
           "title": "Vallourec and Aramco expand partnership dating back to 1962",
           "summary": "French provider of tubular solutions Vallourec and Saudi Arabia’s energy company Aramco have expanded their partnership […] The post Vallourec and Aramco expand partnership dating back to 1962 appeared first on Offshore…",
           "date": "2026-09-09",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/vallourec-and-aramco-expand-partnership-dating-back-to-1962/",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "Vallourec, Aramco Expand Tubulars Partnership",
+          "summary": "French tubular solutions provider Vallourec has signed an agreement with Saudi Aramco covering the supply of Oil Country Tubular Goods (OCTG), further expanding…",
+          "date": "2026-09-09",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542818-vallourec-aramco-expand-tubulars-partnership",
           "relevant": true,
           "region": "KSA"
         },
