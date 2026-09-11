@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T09:01:04Z",
+  "last_updated": "2026-09-11T10:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -65,11 +65,11 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Saipem and Jan de Nul bag work on ExxonMobil’s LNG project in Mozambique",
-          "summary": "Italian offshore engineering contractor Saipem, in consortium with Belgian marine contractor Jan De Nul, has signed a letter of intent (LOI) with ExxonMobil for the Rovuma LNG Phase 1 development in Mozambique. The LOI…",
+          "title": "Korea Line locks in $31m Zhejiang bulker charter",
+          "summary": "South Korea’s Korea Line has secured a new long-term bulker charter with China’s Zhejiang Shipping worth an estimated KRW42.08bn ($31.38m). The SM Group-controlled owner will provide one bulk carrier under a contract…",
           "date": "2026-09-11",
           "source_name": "Splash247",
-          "source_url": "https://splash247.com/saipem-bags-work-on-exxonmobils-lng-project-in-mozambique/",
+          "source_url": "https://splash247.com/korea-line-locks-in-31m-zhejiang-bulker-charter/",
           "relevant": false
         },
         {
@@ -78,6 +78,14 @@
           "date": "2026-09-11",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/saipem-jan-de-nul-loi-rovuma-lng/",
+          "relevant": false
+        },
+        {
+          "title": "Saipem and Jan de Nul bag work on ExxonMobil’s LNG project in Mozambique",
+          "summary": "Italian offshore engineering contractor Saipem, in consortium with Belgian marine contractor Jan De Nul, has signed a letter of intent (LOI) with ExxonMobil for the Rovuma LNG Phase 1 development in Mozambique. The LOI…",
+          "date": "2026-09-11",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/saipem-bags-work-on-exxonmobils-lng-project-in-mozambique/",
           "relevant": false
         },
         {
@@ -633,19 +641,19 @@
           "relevant": false
         },
         {
-          "title": "Belgian Utility Gets Over $1B EIB Loan for Artificial North Sea Energy Isle",
-          "summary": "Elia Transmission Belgium signed a record EUR 1 billion (around $1.16 billion) credit facility with the European Investment Bank for an artificial energy island project in the North Sea.",
-          "date": "2026-09-09",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/belgian_utility_gets_over_1b_eib_loan_for_artificial_north_sea_energy_isle-09-sep-2026-184571-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Lords Committee: UK-Poland defence treaty lacks ‘substance’",
           "summary": "The UK-Poland defence treaty has been questioned by an influential committee in the UK House of Lords amid a crisis in UK military readiness. The post Lords Committee: UK-Poland defence treaty lacks ‘substance’ appeared…",
           "date": "2026-09-09",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/lords-committee-uk-poland-defence-treaty-lacks-substance/",
+          "relevant": false
+        },
+        {
+          "title": "Belgian Utility Gets Over $1B EIB Loan for Artificial North Sea Energy Isle",
+          "summary": "Elia Transmission Belgium signed a record EUR 1 billion (around $1.16 billion) credit facility with the European Investment Bank for an artificial energy island project in the North Sea.",
+          "date": "2026-09-09",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/belgian_utility_gets_over_1b_eib_loan_for_artificial_north_sea_energy_isle-09-sep-2026-184571-article/?rss=true",
           "relevant": false
         },
         {
