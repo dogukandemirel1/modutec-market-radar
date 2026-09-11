@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T15:01:04Z",
+  "last_updated": "2026-09-11T16:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -665,19 +665,19 @@
           "relevant": false
         },
         {
-          "title": "Oil Surges as Attacks Escalate",
-          "summary": "Brent reached $101 as Middle East disruptions, falling inventories and renewed Chinese buying tightened markets.",
-          "date": "2026-09-09",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/oil_surges_as_attacks_escalate-09-sep-2026-184579-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Lords Committee: UK-Poland defence treaty lacks ‘substance’",
           "summary": "The UK-Poland defence treaty has been questioned by an influential committee in the UK House of Lords amid a crisis in UK military readiness. The post Lords Committee: UK-Poland defence treaty lacks ‘substance’ appeared…",
           "date": "2026-09-09",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/lords-committee-uk-poland-defence-treaty-lacks-substance/",
+          "relevant": false
+        },
+        {
+          "title": "Oil Surges as Attacks Escalate",
+          "summary": "Brent reached $101 as Middle East disruptions, falling inventories and renewed Chinese buying tightened markets.",
+          "date": "2026-09-09",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/oil_surges_as_attacks_escalate-09-sep-2026-184579-article/?rss=true",
           "relevant": false
         },
         {
@@ -816,6 +816,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "Shell Acquires PJM Gas Power Plant",
+          "summary": "Shell agreed to acquire a 169-megawatt natural gas-fired power plant in Pennsylvania, while selling a 609-MW combined-cycle gas power plant in New England.",
+          "date": "2026-09-11",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/shell_acquires_pjm_gas_power_plant-11-sep-2026-184601-article/?rss=true",
+          "relevant": false
+        },
         {
           "title": "Enbridge to Acquire Tallgrass Pipelines for $2.55B",
           "summary": "The acquisition includes a 75 percent stake in the Pony Express Pipeline, which carries up to about 460,000 barrels per day of Rockies production to Cushing, Oklahoma.",
