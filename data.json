@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T14:00:58Z",
+  "last_updated": "2026-09-11T15:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -70,6 +70,22 @@
           "date": "2026-09-11",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/korea-line-locks-in-31m-zhejiang-bulker-charter/",
+          "relevant": false
+        },
+        {
+          "title": "Oslo-listed drilling contractors combine in all-share deal",
+          "summary": "Oslo-listed SED Energy Holdings and Ventura Offshore signed a letter of intent on 11 September 2026 for an all-share combination that would create a larger offshore drilling and energy services group. Energy Holdings…",
+          "date": "2026-09-11",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/oslo-listed-drilling-contractors-combine-in-all-share-deal-79935",
+          "relevant": false
+        },
+        {
+          "title": "Norway Sees 'Strong Confidence' in New Discoveries Potential",
+          "summary": "The Norwegian Energy Ministry received applications from 21 companies including international majors for the country's expanded exploration licensing round.",
+          "date": "2026-09-11",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/norway_sees_strong_confidence_in_new_discoveries_potential-11-sep-2026-184599-article/?rss=true",
           "relevant": false
         },
         {
