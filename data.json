@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T18:00:59Z",
+  "last_updated": "2026-09-11T19:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -129,27 +129,11 @@
           "relevant": false
         },
         {
-          "title": "Iraq Seeks Oil Tankers as Gulf Giants Try to Ensure Hormuz Flows",
-          "summary": "Iraq is holding a tender to hire two or more oil supertankers to perform transits through the Strait of Hormuz, the latest evidence that producers in the region are trying to take greater control of their exports…",
-          "date": "2026-09-10",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/iraq-seeks-oil-tankers-as-gulf-giants-try-to-ensure-hormuz-flows/",
-          "relevant": false
-        },
-        {
           "title": "Vår Energi picks Deepsea Bergen for long-term drilling program",
           "summary": "Odfjell Drilling received a letter of award from Vår Energi for the Deepsea Bergen semisubmersible, covering three years of drilling work starting in early 2028. The award follows completion of the rig’s current…",
           "date": "2026-09-10",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/var-energi-picks-deepsea-bergen-for-long-term-drilling-program-79933",
-          "relevant": false
-        },
-        {
-          "title": "Odfjell Drilling’s new rig busy until 2031 thanks to deal with Vår Energi",
-          "summary": "Odfjell Drilling has signed a letter of award (LOA) with Vår Energi for a […] The post Odfjell Drilling’s new rig busy until 2031 thanks to deal with Vår Energi appeared first on Offshore Energy .",
-          "date": "2026-09-10",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/odfjell-drillings-new-rig-busy-until-2031-thanks-to-deal-with-var-energi/",
           "relevant": false
         },
         {
@@ -190,6 +174,22 @@
           "date": "2026-09-10",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542860-v-r-energi-picks-odfjell-drilling-s-deepsea-bergen-for-multi-year-drilling-ops",
+          "relevant": false
+        },
+        {
+          "title": "Iraq Seeks Oil Tankers as Gulf Giants Try to Ensure Hormuz Flows",
+          "summary": "Iraq is holding a tender to hire two or more oil supertankers to perform transits through the Strait of Hormuz, the latest evidence that producers in the region are trying to take greater control of their exports…",
+          "date": "2026-09-10",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/iraq-seeks-oil-tankers-as-gulf-giants-try-to-ensure-hormuz-flows/",
+          "relevant": false
+        },
+        {
+          "title": "Odfjell Drilling’s new rig busy until 2031 thanks to deal with Vår Energi",
+          "summary": "Odfjell Drilling has signed a letter of award (LOA) with Vår Energi for a […] The post Odfjell Drilling’s new rig busy until 2031 thanks to deal with Vår Energi appeared first on Offshore Energy .",
+          "date": "2026-09-10",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/odfjell-drillings-new-rig-busy-until-2031-thanks-to-deal-with-var-energi/",
           "relevant": false
         },
         {
@@ -641,6 +641,14 @@
           "relevant": false
         },
         {
+          "title": "Oil Soars as Hormuz Risks Rattle Markets",
+          "summary": "Brent surged more than 6% to $107.63 as escalating Middle East tensions heightened global supply concerns.",
+          "date": "2026-09-10",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/oil_soars_as_hormuz_risks_rattle_markets-10-sep-2026-184590-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "Houthi Seizure of Mocha Opens New Front in Iran-U.S. War",
           "summary": "Iran-aligned Houthis seized control of Yemen's port city of Mocha on Thursday and advanced down the Red Sea coast to strategic islands, military sources said, hours after President Donald Trump said he expected the Iran…",
           "date": "2026-09-10",
@@ -654,14 +662,6 @@
           "date": "2026-09-10",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/surging-tanker-rates-signal-deepening-global-energy-crisis/",
-          "relevant": false
-        },
-        {
-          "title": "Oil Soars as Hormuz Risks Rattle Markets",
-          "summary": "Brent surged more than 6% to $107.63 as escalating Middle East tensions heightened global supply concerns.",
-          "date": "2026-09-10",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/oil_soars_as_hormuz_risks_rattle_markets-10-sep-2026-184590-article/?rss=true",
           "relevant": false
         },
         {
