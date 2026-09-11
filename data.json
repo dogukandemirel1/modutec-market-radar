@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T08:01:02Z",
+  "last_updated": "2026-09-11T08:52:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -777,20 +777,20 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
-          "title": "Cochin and Drydocks World seal Kochi repair venture",
-          "summary": "India’s Cochin Shipyard has approved a 50:50 joint venture with DP World’s Drydocks World that will take over its International Ship Repair Facility (ISRF) in Kochi, giving the Dubai-based repair specialist the lead…",
-          "date": "2026-09-10",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/cochin-and-drydocks-world-seal-kochi-repair-venture/",
-          "relevant": true
-        },
-        {
           "title": "Enbridge to Acquire Tallgrass Pipelines for $2.55B",
           "summary": "The acquisition includes a 75 percent stake in the Pony Express Pipeline, which carries up to about 460,000 barrels per day of Rockies production to Cushing, Oklahoma.",
           "date": "2026-09-10",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/enbridge_to_acquire_tallgrass_pipelines_for_255b-10-sep-2026-184589-article/?rss=true",
           "relevant": false
+        },
+        {
+          "title": "Cochin and Drydocks World seal Kochi repair venture",
+          "summary": "India’s Cochin Shipyard has approved a 50:50 joint venture with DP World’s Drydocks World that will take over its International Ship Repair Facility (ISRF) in Kochi, giving the Dubai-based repair specialist the lead…",
+          "date": "2026-09-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/cochin-and-drydocks-world-seal-kochi-repair-venture/",
+          "relevant": true
         },
         {
           "title": "Safe Bulkers raises $94m for fleet push",
@@ -833,19 +833,19 @@
           "relevant": false
         },
         {
-          "title": "Greece and Italy Ink Deal for Two FREMM Frigates",
-          "summary": "Greece and Italy have signed an agreement activating the Hellenic Navy’s acquisition of two Bergamini-class FREMM frigates, scheduled for transfer in 2028 and 2029. The post Greece and Italy Ink Deal for Two FREMM…",
-          "date": "2026-09-08",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/greece-italy-ink-deal-two-fremm-frigates/",
-          "relevant": false
-        },
-        {
           "title": "India’s DAC approves $11.64bn procurement boost for armed forces",
           "summary": "India’s Defence Acquisition Council has granted in-principle approval for defence acquisitions valued at approximately Rs1.1trn ($11.64bn). The post India’s DAC approves $11.64bn procurement boost for armed forces…",
           "date": "2026-09-08",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/india-defence-procurement-armed-forces/",
+          "relevant": false
+        },
+        {
+          "title": "Greece and Italy Ink Deal for Two FREMM Frigates",
+          "summary": "Greece and Italy have signed an agreement activating the Hellenic Navy’s acquisition of two Bergamini-class FREMM frigates, scheduled for transfer in 2028 and 2029. The post Greece and Italy Ink Deal for Two FREMM…",
+          "date": "2026-09-08",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/greece-italy-ink-deal-two-fremm-frigates/",
           "relevant": false
         },
         {
