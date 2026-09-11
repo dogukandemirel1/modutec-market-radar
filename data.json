@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T06:00:59Z",
+  "last_updated": "2026-09-11T07:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -89,14 +89,6 @@
           "relevant": false
         },
         {
-          "title": "CMA CGM says it met obligations in $186m Samsung dispute",
-          "summary": "CMA CGM has pushed back against Samsung Electronics America’s $186m claim before the US Federal Maritime Commission, telling Splash it believes it complied with its contractual obligations and applicable regulations…",
-          "date": "2026-09-10",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/cma-cgm-says-it-met-obligations-in-186m-samsung-dispute/",
-          "relevant": false
-        },
-        {
           "title": "Vår Energi picks Deepsea Bergen for long-term drilling program",
           "summary": "Odfjell Drilling received a letter of award from Vår Energi for the Deepsea Bergen semisubmersible, covering three years of drilling work starting in early 2028. The award follows completion of the rig’s current…",
           "date": "2026-09-10",
@@ -158,6 +150,14 @@
           "date": "2026-09-10",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542849-petronas-awards-estuary-cluster-psc-to-harvester-energy",
+          "relevant": false
+        },
+        {
+          "title": "CMA CGM says it met obligations in $186m Samsung dispute",
+          "summary": "CMA CGM has pushed back against Samsung Electronics America’s $186m claim before the US Federal Maritime Commission, telling Splash it believes it complied with its contractual obligations and applicable regulations…",
+          "date": "2026-09-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/cma-cgm-says-it-met-obligations-in-186m-samsung-dispute/",
           "relevant": false
         },
         {
@@ -585,19 +585,19 @@
           "relevant": false
         },
         {
-          "title": "Surging Tanker Rates Signal a Deepening Global Energy Crisis",
-          "summary": "Global tanker freight rates are surging to record levels with little respite in sight, a sign of the growing strain in oil markets as traders, shipowners, producers and buyers grapple with a drawn-out conflict in the…",
-          "date": "2026-09-10",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/surging-tanker-rates-signal-a-deepening-global-energy-crisis/",
-          "relevant": false
-        },
-        {
           "title": "Oil Soars as Hormuz Risks Rattle Markets",
           "summary": "Brent surged more than 6% to $107.63 as escalating Middle East tensions heightened global supply concerns.",
           "date": "2026-09-10",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/oil_soars_as_hormuz_risks_rattle_markets-10-sep-2026-184590-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Surging Tanker Rates Signal a Deepening Global Energy Crisis",
+          "summary": "Global tanker freight rates are surging to record levels with little respite in sight, a sign of the growing strain in oil markets as traders, shipowners, producers and buyers grapple with a drawn-out conflict in the…",
+          "date": "2026-09-10",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/surging-tanker-rates-signal-a-deepening-global-energy-crisis/",
           "relevant": false
         },
         {
@@ -936,6 +936,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Onex linked to record $200m VLCC deal",
+          "summary": "The tanker sale that has dominated market chatter this month has finally taken shape, with Dubai-based trading house Onex DMCC linked to an extraordinary $200m purchase of a near-new VLCC from George Procopiou’s Dynacom…",
+          "date": "2026-09-11",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/onex-linked-to-record-200m-vlcc-deal/",
+          "relevant": true,
+          "region": "UAE"
+        },
         {
           "title": "Splash Singapore heads into final fortnight with registrations climbing",
           "summary": "The countdown to Splash Singapore is entering its final fortnight, with delegate registrations accelerating and another group of senior shipping executives joining an already packed speaker lineup. The inaugural event…",
