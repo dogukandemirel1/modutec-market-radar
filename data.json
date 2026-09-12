@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T11:00:59Z",
+  "last_updated": "2026-09-12T12:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -65,14 +65,6 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Korea Line locks in $31m Zhejiang bulker charter",
-          "summary": "South Korea’s Korea Line has secured a new long-term bulker charter with China’s Zhejiang Shipping worth an estimated KRW42.08bn ($31.38m). The SM Group-controlled owner will provide one bulk carrier under a contract…",
-          "date": "2026-09-11",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/korea-line-locks-in-31m-zhejiang-bulker-charter/",
-          "relevant": false
-        },
-        {
           "title": "Oslo-listed drilling contractors combine in all-share deal",
           "summary": "Oslo-listed SED Energy Holdings and Ventura Offshore signed a letter of intent on 11 September 2026 for an all-share combination that would create a larger offshore drilling and energy services group. Energy Holdings…",
           "date": "2026-09-11",
@@ -110,6 +102,14 @@
           "date": "2026-09-11",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/saipem-jan-de-nul-loi-rovuma-lng/",
+          "relevant": false
+        },
+        {
+          "title": "Korea Line locks in $31m Zhejiang bulker charter",
+          "summary": "South Korea’s Korea Line has secured a new long-term bulker charter with China’s Zhejiang Shipping worth an estimated KRW42.08bn ($31.38m). The SM Group-controlled owner will provide one bulk carrier under a contract…",
+          "date": "2026-09-11",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/korea-line-locks-in-31m-zhejiang-bulker-charter/",
           "relevant": false
         },
         {
