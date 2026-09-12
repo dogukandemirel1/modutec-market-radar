@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T23:01:07Z",
+  "last_updated": "2026-09-12T00:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -65,14 +65,6 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Korea Line locks in $31m Zhejiang bulker charter",
-          "summary": "South Korea’s Korea Line has secured a new long-term bulker charter with China’s Zhejiang Shipping worth an estimated KRW42.08bn ($31.38m). The SM Group-controlled owner will provide one bulk carrier under a contract…",
-          "date": "2026-09-11",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/korea-line-locks-in-31m-zhejiang-bulker-charter/",
-          "relevant": false
-        },
-        {
           "title": "Oslo-listed drilling contractors combine in all-share deal",
           "summary": "Oslo-listed SED Energy Holdings and Ventura Offshore signed a letter of intent on 11 September 2026 for an all-share combination that would create a larger offshore drilling and energy services group. Energy Holdings…",
           "date": "2026-09-11",
@@ -110,6 +102,14 @@
           "date": "2026-09-11",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/saipem-jan-de-nul-loi-rovuma-lng/",
+          "relevant": false
+        },
+        {
+          "title": "Korea Line locks in $31m Zhejiang bulker charter",
+          "summary": "South Korea’s Korea Line has secured a new long-term bulker charter with China’s Zhejiang Shipping worth an estimated KRW42.08bn ($31.38m). The SM Group-controlled owner will provide one bulk carrier under a contract…",
+          "date": "2026-09-11",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/korea-line-locks-in-31m-zhejiang-bulker-charter/",
           "relevant": false
         },
         {
@@ -591,14 +591,6 @@
           "source_name": "Breaking Defense",
           "source_url": "https://breakingdefense.com/2026/07/navy-awards-76-6b-in-contracts-for-new-virginia-columbia-class-subs/",
           "relevant": false
-        },
-        {
-          "title": "SLB OneSubsea awarded EPC contract for Eni's Baleine Phase 3, Ivory Coast",
-          "summary": "SLB's OneSubsea joint venture was awarded a multi-well EPC contract by Eni for Phase 3 of the deepwater Baleine project offshore Cote d'Ivoire, covering subsea production systems for 13 wells including trees, umbilicals, manifolds, multiphase flowmeters, controls, installation and commissioning.",
-          "date": "2026-07-13",
-          "source_name": "SLB (press release)",
-          "source_url": "https://www.slb.com/newsroom/press-release/2026/pr-2026-0713-slb-oss-eni-baleine",
-          "relevant": false
         }
       ]
     },
@@ -1014,14 +1006,6 @@
           "date": "2026-07-29",
           "source_name": "Centurion Group",
           "source_url": "https://www.centuriongroup.co.uk/centurion-expands-canadian-footprint-with-acquisition-of-equipment-world-inc",
-          "relevant": false
-        },
-        {
-          "title": "Saipem-Subsea7 merger hit with EU Phase II antitrust investigation",
-          "summary": "The European Commission opened an in-depth Phase II probe into the proposed Saipem/Subsea7 merger (to form 'Saipem7') over concerns it could reduce competition in offshore engineering and subsea umbilicals, risers and flowlines (SURF) services; Australian regulators are also conducting an in-depth review.",
-          "date": "2026-07-13",
-          "source_name": "Offshore Magazine",
-          "source_url": "https://www.offshore-mag.com/business-briefs/company-news/news/55390468/subsea7-saipem-merger-faces-in-depth-regulatory-scrutiny-in-eu-and-australia",
           "relevant": false
         }
       ]
