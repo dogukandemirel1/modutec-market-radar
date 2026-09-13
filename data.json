@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T21:00:58Z",
+  "last_updated": "2026-09-13T22:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -65,14 +65,6 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Korea Line locks in $31m Zhejiang bulker charter",
-          "summary": "South Korea’s Korea Line has secured a new long-term bulker charter with China’s Zhejiang Shipping worth an estimated KRW42.08bn ($31.38m). The SM Group-controlled owner will provide one bulk carrier under a contract…",
-          "date": "2026-09-11",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/korea-line-locks-in-31m-zhejiang-bulker-charter/",
-          "relevant": false
-        },
-        {
           "title": "Oslo-listed drilling contractors combine in all-share deal",
           "summary": "Oslo-listed SED Energy Holdings and Ventura Offshore signed a letter of intent on 11 September 2026 for an all-share combination that would create a larger offshore drilling and energy services group. Energy Holdings…",
           "date": "2026-09-11",
@@ -113,6 +105,14 @@
           "relevant": false
         },
         {
+          "title": "Korea Line locks in $31m Zhejiang bulker charter",
+          "summary": "South Korea’s Korea Line has secured a new long-term bulker charter with China’s Zhejiang Shipping worth an estimated KRW42.08bn ($31.38m). The SM Group-controlled owner will provide one bulk carrier under a contract…",
+          "date": "2026-09-11",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/korea-line-locks-in-31m-zhejiang-bulker-charter/",
+          "relevant": false
+        },
+        {
           "title": "Saipem and Jan de Nul bag work on ExxonMobil’s LNG project in Mozambique",
           "summary": "Italian offshore engineering contractor Saipem, in consortium with Belgian marine contractor Jan De Nul, has signed a letter of intent (LOI) with ExxonMobil for the Rovuma LNG Phase 1 development in Mozambique. The LOI…",
           "date": "2026-09-11",
@@ -126,6 +126,14 @@
           "date": "2026-09-10",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/var-energi-picks-deepsea-bergen-for-long-term-drilling-program-79933",
+          "relevant": false
+        },
+        {
+          "title": "Odfjell Drilling’s new rig busy until 2031 thanks to deal with Vår Energi",
+          "summary": "Odfjell Drilling has signed a letter of award (LOA) with Vår Energi for a […] The post Odfjell Drilling’s new rig busy until 2031 thanks to deal with Vår Energi appeared first on Offshore Energy .",
+          "date": "2026-09-10",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/odfjell-drillings-new-rig-busy-until-2031-thanks-to-deal-with-var-energi/",
           "relevant": false
         },
         {
@@ -166,14 +174,6 @@
           "date": "2026-09-10",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542860-v-r-energi-picks-odfjell-drilling-s-deepsea-bergen-for-multi-year-drilling-ops",
-          "relevant": false
-        },
-        {
-          "title": "Odfjell Drilling’s new rig busy until 2031 thanks to deal with Vår Energi",
-          "summary": "Odfjell Drilling has signed a letter of award (LOA) with Vår Energi for a […] The post Odfjell Drilling’s new rig busy until 2031 thanks to deal with Vår Energi appeared first on Offshore Energy .",
-          "date": "2026-09-10",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/odfjell-drillings-new-rig-busy-until-2031-thanks-to-deal-with-var-energi/",
           "relevant": false
         },
         {
