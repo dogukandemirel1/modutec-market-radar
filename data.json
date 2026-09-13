@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T04:01:00Z",
+  "last_updated": "2026-09-13T05:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -121,14 +121,6 @@
           "relevant": false
         },
         {
-          "title": "Bluecore Advances Floating Nuclear Power Project at Port of Long Beach",
-          "summary": "Bluecore Energy is moving its floating nuclear power concept deeper into the development and regulatory phase, securing its first barge and beginning formal engagement with federal regulators as it works...",
-          "date": "2026-09-10",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/bluecore-advances-floating-nuclear-power-project-at-port-of-long-beach/",
-          "relevant": false
-        },
-        {
           "title": "Vår Energi picks Deepsea Bergen for long-term drilling program",
           "summary": "Odfjell Drilling received a letter of award from Vår Energi for the Deepsea Bergen semisubmersible, covering three years of drilling work starting in early 2028. The award follows completion of the rig’s current…",
           "date": "2026-09-10",
@@ -182,6 +174,14 @@
           "date": "2026-09-10",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542860-v-r-energi-picks-odfjell-drilling-s-deepsea-bergen-for-multi-year-drilling-ops",
+          "relevant": false
+        },
+        {
+          "title": "Bluecore Advances Floating Nuclear Power Project at Port of Long Beach",
+          "summary": "Bluecore Energy is moving its floating nuclear power concept deeper into the development and regulatory phase, securing its first barge and beginning formal engagement with federal regulators as it works...",
+          "date": "2026-09-10",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/bluecore-advances-floating-nuclear-power-project-at-port-of-long-beach/",
           "relevant": false
         },
         {
@@ -601,22 +601,6 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
-          "title": "World Shipping Council Calls for IMO Action on Lithium Battery Cargo Safety Gap",
-          "summary": "The World Shipping Council is urging governments to close what it says is a dangerous loophole in international shipping rules that can allow containers packed with thousands of lithium batteries...",
-          "date": "2026-09-11",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/world-shipping-council-calls-for-imo-action-on-lithium-battery-cargo-safety-gap/",
-          "relevant": false
-        },
-        {
-          "title": "IMO Urged to Give Shipping Clear Investment Signal on Net Zero Pathway",
-          "summary": "The Getting to Zero Coalition is calling on International Maritime Organization member states to preserve a strong and predictable Net-Zero Framework as negotiations over shipping’s global emissions rules head into...",
-          "date": "2026-09-11",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/imo-urged-to-give-shipping-clear-investment-signal-on-net-zero-pathway/",
-          "relevant": false
-        },
-        {
           "title": "Oil Posts Biggest Weekly Gain Since July",
           "summary": "Oil posted a strong weekly gain as Middle East conflict and mounting supply risks kept markets on edge.",
           "date": "2026-09-11",
@@ -630,6 +614,22 @@
           "date": "2026-09-11",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542879-rsted-gets-favorable-tax-opinion-on-two-uk-wind-farms",
+          "relevant": false
+        },
+        {
+          "title": "World Shipping Council Calls for IMO Action on Lithium Battery Cargo Safety Gap",
+          "summary": "The World Shipping Council is urging governments to close what it says is a dangerous loophole in international shipping rules that can allow containers packed with thousands of lithium batteries...",
+          "date": "2026-09-11",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/world-shipping-council-calls-for-imo-action-on-lithium-battery-cargo-safety-gap/",
+          "relevant": false
+        },
+        {
+          "title": "IMO Urged to Give Shipping Clear Investment Signal on Net Zero Pathway",
+          "summary": "The Getting to Zero Coalition is calling on International Maritime Organization member states to preserve a strong and predictable Net-Zero Framework as negotiations over shipping’s global emissions rules head into...",
+          "date": "2026-09-11",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/imo-urged-to-give-shipping-clear-investment-signal-on-net-zero-pathway/",
           "relevant": false
         },
         {
