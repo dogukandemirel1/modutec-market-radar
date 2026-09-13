@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T19:00:56Z",
+  "last_updated": "2026-09-13T20:00:54Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -609,14 +609,6 @@
           "relevant": false
         },
         {
-          "title": "World Shipping Council Calls for IMO Action on Lithium Battery Cargo Safety Gap",
-          "summary": "The World Shipping Council is urging governments to close what it says is a dangerous loophole in international shipping rules that can allow containers packed with thousands of lithium batteries...",
-          "date": "2026-09-11",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/world-shipping-council-calls-for-imo-action-on-lithium-battery-cargo-safety-gap/",
-          "relevant": false
-        },
-        {
           "title": "Oil Posts Biggest Weekly Gain Since July",
           "summary": "Oil posted a strong weekly gain as Middle East conflict and mounting supply risks kept markets on edge.",
           "date": "2026-09-11",
@@ -630,6 +622,14 @@
           "date": "2026-09-11",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542879-rsted-gets-favorable-tax-opinion-on-two-uk-wind-farms",
+          "relevant": false
+        },
+        {
+          "title": "World Shipping Council Calls for IMO Action on Lithium Battery Cargo Safety Gap",
+          "summary": "The World Shipping Council is urging governments to close what it says is a dangerous loophole in international shipping rules that can allow containers packed with thousands of lithium batteries...",
+          "date": "2026-09-11",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/world-shipping-council-calls-for-imo-action-on-lithium-battery-cargo-safety-gap/",
           "relevant": false
         },
         {
