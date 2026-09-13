@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T11:00:57Z",
+  "last_updated": "2026-09-13T12:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1016,6 +1016,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Harvester Energy Bags New Malaysian PSC",
+          "summary": "The Estuary Cluster 'is expected to unlock stranded marginal oil resources through a technology-led development concept centered on a novel shallow-water subsea development approach', Petronas said.",
+          "date": "2026-09-13",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/harvester_energy_bags_new_malaysian_psc-13-sep-2026-184598-article/?rss=true",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Wealth Holdings grows MPP pipeline with up to six more newbuilds in China",
           "summary": "Singapore-based Wealth Holdings has added a third multipurpose newbuilding programme this year, signing for up to six 25,000 dwt ships at China’s Hubei Guangji Green Energy Shipbuilding. The deal covers two firm vessels…",
