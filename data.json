@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T12:01:03Z",
+  "last_updated": "2026-09-14T13:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -70,6 +70,14 @@
           "date": "2026-09-14",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/sfl-locks-in-750m-with-hapag-lloyd-extensions/",
+          "relevant": false
+        },
+        {
+          "title": "Saipem picks up $350 million subsea job offshore Angola",
+          "summary": "Italy’s engineering, drilling, and construction services company Saipem has won a roughly $350 million contract from Azule Energy, a joint venture between Italy’s Eni and the UK’s BP, for subsea work on an offshore…",
+          "date": "2026-09-14",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/saipem-picks-up-350-million-subsea-job-offshore-angola/",
           "relevant": false
         },
         {
