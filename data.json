@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T10:01:01Z",
+  "last_updated": "2026-09-14T11:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -161,14 +161,6 @@
           "relevant": false
         },
         {
-          "title": "McDermott Wins Contract for Eni's Cronos Project offshore Cyprus",
-          "summary": "The Houston-based company received a 'substantial' contract from Eni for Cyprus' first hydrocarbon development.",
-          "date": "2026-09-10",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/mcdermott_wins_contract_for_enis_cronos_project_offshore_cyprus-10-sep-2026-184584-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Odfjell secures $518m contract for Deepsea Bergen from Vår Energi",
           "summary": "Odfjell Drilling has received a LOA from Vår Energi for the deployment of the Deepsea Bergen rig, with an estimated contract value of $518m.",
           "date": "2026-09-10",
@@ -182,6 +174,14 @@
           "date": "2026-09-10",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/lockheed-martin-torpedoes-missile-contract/",
+          "relevant": false
+        },
+        {
+          "title": "McDermott Wins Contract for Eni's Cronos Project offshore Cyprus",
+          "summary": "The Houston-based company received a 'substantial' contract from Eni for Cyprus' first hydrocarbon development.",
+          "date": "2026-09-10",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/mcdermott_wins_contract_for_enis_cronos_project_offshore_cyprus-10-sep-2026-184584-article/?rss=true",
           "relevant": false
         },
         {
@@ -625,19 +625,19 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
-          "title": "COSCO readies listing of its shipyard division",
-          "summary": "COSCO Shipping Heavy Industry has taken its first formal step towards an A-share listing in Shanghai. China’s securities regulator disclosed that the shipbuilding and repair giant registered for listing guidance on…",
-          "date": "2026-09-14",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/cosco-readies-listing-of-its-shipyard-division/",
-          "relevant": false
-        },
-        {
           "title": "Greater Sunrise Gas Production Pushed Back to 2034",
           "summary": "The Greater Sunrise natural gas project has pushed back its earliest possible production start by two years to 2034, East Timor's petroleum minister said, tightening…",
           "date": "2026-09-14",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542899-greater-sunrise-gas-production-pushed-back-to-2034",
+          "relevant": false
+        },
+        {
+          "title": "COSCO readies listing of its shipyard division",
+          "summary": "COSCO Shipping Heavy Industry has taken its first formal step towards an A-share listing in Shanghai. China’s securities regulator disclosed that the shipbuilding and repair giant registered for listing guidance on…",
+          "date": "2026-09-14",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/cosco-readies-listing-of-its-shipyard-division/",
           "relevant": false
         },
         {
@@ -1090,15 +1090,6 @@
           "region": "KSA"
         },
         {
-          "title": "Middle East shipping squeezed as Hormuz and Bab el-Mandeb risks converge",
-          "summary": "Middle Eastern shipping patterns face another violent reshuffle after fresh vessel attacks around Hormuz, the shutdown of Saudi Arabia’s critical East-West oil pipeline and the Houthis’ advance into the heart of the Bab…",
-          "date": "2026-09-14",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/middle-east-shipping-squeezed-as-hormuz-and-bab-el-mandeb-risks-converge/",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
           "title": "Petronas, PTTEP Get Approvals for New Gas Block Sharing Contract",
           "summary": "Petronas and PTTEP subsidiaries have received approvals from the governments of Malaysia and Thailand for a new 35-year production sharing contract covering Block…",
           "date": "2026-09-14",
@@ -1122,6 +1113,15 @@
           "date": "2026-09-14",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542900-saudi-oil-lifeline-shut-after-attack-as-red-sea-threat-grows",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "Middle East shipping squeezed as Hormuz and Bab el-Mandeb risks converge",
+          "summary": "Middle Eastern shipping patterns face another violent reshuffle after fresh vessel attacks around Hormuz, the shutdown of Saudi Arabia’s critical East-West oil pipeline and the Houthis’ advance into the heart of the Bab…",
+          "date": "2026-09-14",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/middle-east-shipping-squeezed-as-hormuz-and-bab-el-mandeb-risks-converge/",
           "relevant": true,
           "region": "KSA"
         },
