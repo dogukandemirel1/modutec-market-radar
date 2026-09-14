@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T09:48:03Z",
+  "last_updated": "2026-09-14T10:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -70,6 +70,14 @@
           "date": "2026-09-14",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/fulkrum-steps-up-norwegian-offshore-oil-gas-presence-with-var-energi-deal/",
+          "relevant": false
+        },
+        {
+          "title": "Saipem Secures $350M Subsea Job at Azule Energy’s Angola Oil Project",
+          "summary": "Saipem has been awarded a contract worth about $350 million for subsea work on Azule Energy's West Hub Tails oil project offshore Angola, part of the wider Agogo Integrated West Hub Development…",
+          "date": "2026-09-14",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542906-saipem-secures-350m-subsea-job-at-azule-energy-s-angola-oil-project",
           "relevant": false
         },
         {
