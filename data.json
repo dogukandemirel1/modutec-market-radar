@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T13:01:04Z",
+  "last_updated": "2026-09-14T14:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -70,6 +70,14 @@
           "date": "2026-09-14",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/sfl-locks-in-750m-with-hapag-lloyd-extensions/",
+          "relevant": false
+        },
+        {
+          "title": "France Launches Procurement for New Embarked Long-Endurance USV",
+          "summary": "The French DGA has launched a formal tender for embarked, long-endurance surface drones to support French Navy ISR missions, but the technical requirements for the USV are quite challenging. The post France Launches…",
+          "date": "2026-09-14",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/france-procurement-embarked-long-endurance-surface-drones/",
           "relevant": false
         },
         {
@@ -921,6 +929,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "KERSHIP Launches First of Two Offshore Patrol Vessels for Montenegrin Navy",
+          "summary": "KERSHIP, a joint venture between PIRIOU and Naval Group, launched the PETAR NJEGOS I, the first of two OPV 60M offshore patrol vessels ordered by Montenegro, at its Lanester shipyard on Friday…",
+          "date": "2026-09-14",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542917-kership-launches-first-of-two-offshore-patrol-vessels-for-montenegrin-navy",
+          "relevant": false
+        },
+        {
           "title": "Shell Acquires PJM Gas Power Plant",
           "summary": "Shell agreed to acquire a 169-megawatt natural gas-fired power plant in Pennsylvania, while selling a 609-MW combined-cycle gas power plant in New England.",
           "date": "2026-09-11",
@@ -1113,6 +1129,15 @@
           "source_url": "https://splash247.com/middle-east-shipping-squeezed-as-hormuz-and-bab-el-mandeb-risks-converge/",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Germany-UAE energy ties deepen as RWE, Masdar and ADNOC eye LNG supply and €3B offshore wind investment",
+          "summary": "Germany and the United Arab Emirates are stepping up energy cooperation, with German power producer RWE joining Abu Dhabi clean-energy firm Masdar and oil and gas giant ADNOC to pursue plans spanning more than €3…",
+          "date": "2026-09-14",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/germany-uae-energy-ties-deepen-as-rwe-masdar-and-adnoc-eye-lng-supply-and-e3b-offshore-wind-investment/",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Petronas, PTTEP Get Approvals for New Gas Block Sharing Contract",
