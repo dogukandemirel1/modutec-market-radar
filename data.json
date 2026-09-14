@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T08:00:59Z",
+  "last_updated": "2026-09-14T09:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -70,6 +70,14 @@
           "date": "2026-09-14",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/vroon-enters-offshore-wind-errv-market-with-scottishpower-deal/",
+          "relevant": false
+        },
+        {
+          "title": "Fulkrum steps up Norwegian offshore oil & gas presence with Vår Energi deal",
+          "summary": "Fulkrum, a London-headquartered technical services company providing inspection, expediting, auditing and technical staffing solutions to energy and industrial projects, has landed an inspection services contract with…",
+          "date": "2026-09-14",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/fulkrum-steps-up-norwegian-offshore-oil-gas-presence-with-var-energi-deal/",
           "relevant": false
         },
         {
@@ -1065,6 +1073,15 @@
           "source_url": "https://splash247.com/middle-east-shipping-squeezed-as-hormuz-and-bab-el-mandeb-risks-converge/",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "XRG, ADNOC and SEFE Deepen Gas Ties in Europe",
+          "summary": "XRG, ADNOC and SEFE have signed a memorandum of understanding to explore wider cooperation across the natural gas and LNG value chain, including supply, infrastructure…",
+          "date": "2026-09-14",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542901-xrg-adnoc-and-sefe-deepen-gas-ties-in-europe",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Saudi Oil Lifeline Shut After Attack as Red Sea Threat Grows",
