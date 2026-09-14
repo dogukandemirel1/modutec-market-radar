@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T20:00:55Z",
+  "last_updated": "2026-09-14T21:01:11Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -153,19 +153,19 @@
           "relevant": false
         },
         {
-          "title": "Saipem Signs New Preliminary Contract for Rovuma LNG",
-          "summary": "A consortium of Belgium's Jan De Nul and Italy's Saipem signed a letter of intent with ExxonMobil for the upstream infrastructure of the planned Rovuma LNG project in Mozambique.",
-          "date": "2026-09-11",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/saipem_signs_new_preliminary_contract_for_rovuma_lng-11-sep-2026-184592-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Saipem, Jan De Nul sign LoI for Mozambique Rovuma LNG project",
           "summary": "Saipem, in partnership with Jan De Nul, has entered into a letter of intent (LoI) with ExxonMobil Moçambique for a contract related to the phase 1 of the Rovuma LNG project, located offshore Mozambique.",
           "date": "2026-09-11",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/saipem-jan-de-nul-loi-rovuma-lng/",
+          "relevant": false
+        },
+        {
+          "title": "Saipem Signs New Preliminary Contract for Rovuma LNG",
+          "summary": "A consortium of Belgium's Jan De Nul and Italy's Saipem signed a letter of intent with ExxonMobil for the upstream infrastructure of the planned Rovuma LNG project in Mozambique.",
+          "date": "2026-09-11",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/saipem_signs_new_preliminary_contract_for_rovuma_lng-11-sep-2026-184592-article/?rss=true",
           "relevant": false
         },
         {
@@ -1188,6 +1188,15 @@
           "source_url": "https://www.offshore-energy.biz/germany-uae-energy-ties-deepen-as-rwe-masdar-and-adnoc-eye-lng-supply-and-e3b-offshore-wind-investment/",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "Oil Climbs Amid Saudi Pipeline Halt",
+          "summary": "Crude gained as the Saudi East-West pipeline closure heightened fears of tighter global supplies.",
+          "date": "2026-09-14",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/oil_climbs_amid_saudi_pipeline_halt-14-sep-2026-184613-article/?rss=true",
+          "relevant": false,
+          "region": "KSA"
         },
         {
           "title": "Petronas to Supply LNG to Southeast Europe under Metlen Deal",
