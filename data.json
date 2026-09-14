@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T09:01:01Z",
+  "last_updated": "2026-09-14T09:48:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -65,19 +65,19 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Vroon enters offshore wind ERRV market with ScottishPower deal",
-          "summary": "Vroon Offshore Services (VOS) has won its first long-term charter for emergency response and rescue vessel (ERRV) services in the offshore wind industry. The contract award, with a value of more than £7m ($9.5m), will…",
-          "date": "2026-09-14",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/vroon-enters-offshore-wind-errv-market-with-scottishpower-deal/",
-          "relevant": false
-        },
-        {
           "title": "Fulkrum steps up Norwegian offshore oil & gas presence with Vår Energi deal",
           "summary": "Fulkrum, a London-headquartered technical services company providing inspection, expediting, auditing and technical staffing solutions to energy and industrial projects, has landed an inspection services contract with…",
           "date": "2026-09-14",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/fulkrum-steps-up-norwegian-offshore-oil-gas-presence-with-var-energi-deal/",
+          "relevant": false
+        },
+        {
+          "title": "Vroon enters offshore wind ERRV market with ScottishPower deal",
+          "summary": "Vroon Offshore Services (VOS) has won its first long-term charter for emergency response and rescue vessel (ERRV) services in the offshore wind industry. The contract award, with a value of more than £7m ($9.5m), will…",
+          "date": "2026-09-14",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/vroon-enters-offshore-wind-errv-market-with-scottishpower-deal/",
           "relevant": false
         },
         {
@@ -145,14 +145,6 @@
           "relevant": false
         },
         {
-          "title": "Odfjell Drilling’s new rig busy until 2031 thanks to deal with Vår Energi",
-          "summary": "Odfjell Drilling has signed a letter of award (LOA) with Vår Energi for a […] The post Odfjell Drilling’s new rig busy until 2031 thanks to deal with Vår Energi appeared first on Offshore Energy .",
-          "date": "2026-09-10",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/odfjell-drillings-new-rig-busy-until-2031-thanks-to-deal-with-var-energi/",
-          "relevant": false
-        },
-        {
           "title": "NextEra Energy Seals $1.9B DOE Loan to Restart Iowa Nuclear Plant",
           "summary": "The Trump administration has now financed three nuclear power plant restarts.",
           "date": "2026-09-10",
@@ -182,6 +174,14 @@
           "date": "2026-09-10",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/lockheed-martin-torpedoes-missile-contract/",
+          "relevant": false
+        },
+        {
+          "title": "Odfjell Drilling’s new rig busy until 2031 thanks to deal with Vår Energi",
+          "summary": "Odfjell Drilling has signed a letter of award (LOA) with Vår Energi for a […] The post Odfjell Drilling’s new rig busy until 2031 thanks to deal with Vår Energi appeared first on Offshore Energy .",
+          "date": "2026-09-10",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/odfjell-drillings-new-rig-busy-until-2031-thanks-to-deal-with-var-energi/",
           "relevant": false
         },
         {
@@ -616,6 +616,22 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "COSCO readies listing of its shipyard division",
+          "summary": "COSCO Shipping Heavy Industry has taken its first formal step towards an A-share listing in Shanghai. China’s securities regulator disclosed that the shipbuilding and repair giant registered for listing guidance on…",
+          "date": "2026-09-14",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/cosco-readies-listing-of-its-shipyard-division/",
+          "relevant": false
+        },
+        {
+          "title": "Greater Sunrise Gas Production Pushed Back to 2034",
+          "summary": "The Greater Sunrise natural gas project has pushed back its earliest possible production start by two years to 2034, East Timor's petroleum minister said, tightening…",
+          "date": "2026-09-14",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542899-greater-sunrise-gas-production-pushed-back-to-2034",
+          "relevant": false
+        },
         {
           "title": "Masdar sets sights on major German offshore wind expansion",
           "summary": "Abu Dhabi-based renewable energy company Masdar has signed two memoranda of understanding with German companies for potential investments of over €8bn ($9.24bn) in offshore wind and battery energy storage. Under one…",
@@ -1073,6 +1089,15 @@
           "source_url": "https://splash247.com/middle-east-shipping-squeezed-as-hormuz-and-bab-el-mandeb-risks-converge/",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Petronas, PTTEP Get Approvals for New Gas Block Sharing Contract",
+          "summary": "Petronas and PTTEP subsidiaries have received approvals from the governments of Malaysia and Thailand for a new 35-year production sharing contract covering Block…",
+          "date": "2026-09-14",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542904-petronas-pttep-get-approvals-for-new-gas-block-sharing-contract",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "XRG, ADNOC and SEFE Deepen Gas Ties in Europe",
