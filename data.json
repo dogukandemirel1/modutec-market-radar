@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T06:01:01Z",
+  "last_updated": "2026-09-14T07:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1030,6 +1030,15 @@
           "date": "2026-09-14",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/saudi-pipeline-outage-threatens-loss-of-4-of-global-oil-supply/",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "Middle East shipping squeezed as Hormuz and Bab el-Mandeb risks converge",
+          "summary": "Middle Eastern shipping patterns face another violent reshuffle after fresh vessel attacks around Hormuz, the shutdown of Saudi Arabia’s critical East-West oil pipeline and the Houthis’ advance into the heart of the Bab…",
+          "date": "2026-09-14",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/middle-east-shipping-squeezed-as-hormuz-and-bab-el-mandeb-risks-converge/",
           "relevant": true,
           "region": "KSA"
         },
