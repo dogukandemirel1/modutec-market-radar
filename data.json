@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T03:01:03Z",
+  "last_updated": "2026-09-14T04:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1024,6 +1024,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Saudi Pipeline Outage Threatens Loss Of 4% Of Global Oil Supply",
+          "summary": "By Alex Lawler and Dmitry Zhdannikov LONDON, Sept 13 (Reuters) – Saudi Arabia will run out of oil stocks for exports if it doesn’t restart its major pipeline to the Red Sea within days,...",
+          "date": "2026-09-14",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/saudi-pipeline-outage-threatens-loss-of-4-of-global-oil-supply/",
+          "relevant": true,
+          "region": "KSA"
+        },
         {
           "title": "Iraq Under Pressure After Drone Strikes Close Key Saudi Pipeline",
           "summary": "By Khalid Al-Ansary and Devika Krishna Kumar Sep 12, 2026 (Bloomberg) –Iraq is moving to contain the fallout from attacks that caused the closure of Saudi Arabia’s East-West pipeline, after the...",
