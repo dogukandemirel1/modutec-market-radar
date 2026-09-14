@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T15:01:03Z",
+  "last_updated": "2026-09-14T16:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -89,14 +89,6 @@
           "relevant": false
         },
         {
-          "title": "Saipem Secures $350M Subsea Job at Azule Energy’s Angola Oil Project",
-          "summary": "Saipem has been awarded a contract worth about $350 million for subsea work on Azule Energy's West Hub Tails oil project offshore Angola, part of the wider Agogo Integrated West Hub Development…",
-          "date": "2026-09-14",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/542906-saipem-secures-350m-subsea-job-at-azule-energy-s-angola-oil-project",
-          "relevant": false
-        },
-        {
           "title": "Saipem picks up $350 million subsea job offshore Angola",
           "summary": "Italy’s engineering, drilling, and construction services company Saipem has won a roughly $350 million contract from Azule Energy, a joint venture between Italy’s Eni and the UK’s BP, for subsea work on an offshore…",
           "date": "2026-09-14",
@@ -110,6 +102,14 @@
           "date": "2026-09-14",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/fulkrum-steps-up-norwegian-offshore-oil-gas-presence-with-var-energi-deal/",
+          "relevant": false
+        },
+        {
+          "title": "Saipem Secures $350M Subsea Job at Azule Energy’s Angola Oil Project",
+          "summary": "Saipem has been awarded a contract worth about $350 million for subsea work on Azule Energy's West Hub Tails oil project offshore Angola, part of the wider Agogo Integrated West Hub Development…",
+          "date": "2026-09-14",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542906-saipem-secures-350m-subsea-job-at-azule-energy-s-angola-oil-project",
           "relevant": false
         },
         {
@@ -1121,6 +1121,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Indonesia Rescuers Battle Turbulent Seas in Search for 129 People After Passenger Ship Capsizes",
+          "summary": "Hundreds of Indonesian rescuers including the coast guard and the navy raced on Monday to board a passenger ship that capsized in the Java Sea over the weekend as they searched for 129 people still missing, officials…",
+          "date": "2026-09-14",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/indonesia-rescuers-battle-turbulent-seas-in-search-for-129-people-after-passenger-ship-capsizes/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Saudi Pipeline Outage Threatens Loss Of 4% Of Global Oil Supply",
           "summary": "By Alex Lawler and Dmitry Zhdannikov LONDON, Sept 13 (Reuters) – Saudi Arabia will run out of oil stocks for exports if it doesn’t restart its major pipeline to the Red Sea within days,...",
           "date": "2026-09-14",
@@ -1137,6 +1146,15 @@
           "source_url": "https://splash247.com/middle-east-shipping-squeezed-as-hormuz-and-bab-el-mandeb-risks-converge/",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Germany-UAE energy ties deepen as RWE, Masdar and ADNOC eye LNG supply and €3B offshore wind investment",
+          "summary": "Germany and the United Arab Emirates are stepping up energy cooperation, with German power producer RWE joining Abu Dhabi clean-energy firm Masdar and oil and gas giant ADNOC to pursue plans spanning more than €3…",
+          "date": "2026-09-14",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/germany-uae-energy-ties-deepen-as-rwe-masdar-and-adnoc-eye-lng-supply-and-e3b-offshore-wind-investment/",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Petronas, PTTEP Get Approvals for New Gas Block Sharing Contract",
@@ -1164,15 +1182,6 @@
           "source_url": "https://www.oedigital.com/news/542900-saudi-oil-lifeline-shut-after-attack-as-red-sea-threat-grows",
           "relevant": true,
           "region": "KSA"
-        },
-        {
-          "title": "Germany-UAE energy ties deepen as RWE, Masdar and ADNOC eye LNG supply and €3B offshore wind investment",
-          "summary": "Germany and the United Arab Emirates are stepping up energy cooperation, with German power producer RWE joining Abu Dhabi clean-energy firm Masdar and oil and gas giant ADNOC to pursue plans spanning more than €3…",
-          "date": "2026-09-14",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/germany-uae-energy-ties-deepen-as-rwe-masdar-and-adnoc-eye-lng-supply-and-e3b-offshore-wind-investment/",
-          "relevant": true,
-          "region": "UAE"
         },
         {
           "title": "Iraq Under Pressure After Drone Strikes Close Key Saudi Pipeline",
