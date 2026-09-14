@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T21:01:11Z",
+  "last_updated": "2026-09-14T22:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1163,15 +1163,6 @@
           "region": "UAE"
         },
         {
-          "title": "Indonesia Rescuers Battle Turbulent Seas in Search for 129 People After Passenger Ship Capsizes",
-          "summary": "Hundreds of Indonesian rescuers including the coast guard and the navy raced on Monday to board a passenger ship that capsized in the Java Sea over the weekend as they searched for 129 people still missing, officials…",
-          "date": "2026-09-14",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/indonesia-rescuers-battle-turbulent-seas-in-search-for-129-people-after-passenger-ship-capsizes/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Middle East shipping squeezed as Hormuz and Bab el-Mandeb risks converge",
           "summary": "Middle Eastern shipping patterns face another violent reshuffle after fresh vessel attacks around Hormuz, the shutdown of Saudi Arabia’s critical East-West oil pipeline and the Houthis’ advance into the heart of the Bab…",
           "date": "2026-09-14",
@@ -1233,6 +1224,15 @@
           "source_url": "https://www.oedigital.com/news/542900-saudi-oil-lifeline-shut-after-attack-as-red-sea-threat-grows",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Indonesia Rescuers Battle Turbulent Seas in Search for 129 People After Passenger Ship Capsizes",
+          "summary": "Hundreds of Indonesian rescuers including the coast guard and the navy raced on Monday to board a passenger ship that capsized in the Java Sea over the weekend as they searched for 129 people still missing, officials…",
+          "date": "2026-09-14",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/indonesia-rescuers-battle-turbulent-seas-in-search-for-129-people-after-passenger-ship-capsizes/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Saudi Pipeline Outage Threatens Loss Of 4% Of Global Oil Supply",
