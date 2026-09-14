@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T11:00:59Z",
+  "last_updated": "2026-09-14T12:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -64,6 +64,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "SFL locks in $750m with Hapag-Lloyd extensions",
+          "summary": "John Fredriksen-backed SFL Corporation has added another $750m to its contracted revenue after agreeing seven-year charter extensions with Hapag-Lloyd on six 15,400 teu containerships. The renewed fixtures will keep the…",
+          "date": "2026-09-14",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/sfl-locks-in-750m-with-hapag-lloyd-extensions/",
+          "relevant": false
+        },
         {
           "title": "Fulkrum steps up Norwegian offshore oil & gas presence with Vår Energi deal",
           "summary": "Fulkrum, a London-headquartered technical services company providing inspection, expediting, auditing and technical staffing solutions to energy and industrial projects, has landed an inspection services contract with…",
@@ -625,19 +633,19 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
-          "title": "Greater Sunrise Gas Production Pushed Back to 2034",
-          "summary": "The Greater Sunrise natural gas project has pushed back its earliest possible production start by two years to 2034, East Timor's petroleum minister said, tightening…",
-          "date": "2026-09-14",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/542899-greater-sunrise-gas-production-pushed-back-to-2034",
-          "relevant": false
-        },
-        {
           "title": "COSCO readies listing of its shipyard division",
           "summary": "COSCO Shipping Heavy Industry has taken its first formal step towards an A-share listing in Shanghai. China’s securities regulator disclosed that the shipbuilding and repair giant registered for listing guidance on…",
           "date": "2026-09-14",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/cosco-readies-listing-of-its-shipyard-division/",
+          "relevant": false
+        },
+        {
+          "title": "Greater Sunrise Gas Production Pushed Back to 2034",
+          "summary": "The Greater Sunrise natural gas project has pushed back its earliest possible production start by two years to 2034, East Timor's petroleum minister said, tightening…",
+          "date": "2026-09-14",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542899-greater-sunrise-gas-production-pushed-back-to-2034",
           "relevant": false
         },
         {
@@ -1090,6 +1098,15 @@
           "region": "KSA"
         },
         {
+          "title": "Middle East shipping squeezed as Hormuz and Bab el-Mandeb risks converge",
+          "summary": "Middle Eastern shipping patterns face another violent reshuffle after fresh vessel attacks around Hormuz, the shutdown of Saudi Arabia’s critical East-West oil pipeline and the Houthis’ advance into the heart of the Bab…",
+          "date": "2026-09-14",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/middle-east-shipping-squeezed-as-hormuz-and-bab-el-mandeb-risks-converge/",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
           "title": "Petronas, PTTEP Get Approvals for New Gas Block Sharing Contract",
           "summary": "Petronas and PTTEP subsidiaries have received approvals from the governments of Malaysia and Thailand for a new 35-year production sharing contract covering Block…",
           "date": "2026-09-14",
@@ -1113,15 +1130,6 @@
           "date": "2026-09-14",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542900-saudi-oil-lifeline-shut-after-attack-as-red-sea-threat-grows",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
-          "title": "Middle East shipping squeezed as Hormuz and Bab el-Mandeb risks converge",
-          "summary": "Middle Eastern shipping patterns face another violent reshuffle after fresh vessel attacks around Hormuz, the shutdown of Saudi Arabia’s critical East-West oil pipeline and the Houthis’ advance into the heart of the Bab…",
-          "date": "2026-09-14",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/middle-east-shipping-squeezed-as-hormuz-and-bab-el-mandeb-risks-converge/",
           "relevant": true,
           "region": "KSA"
         },
