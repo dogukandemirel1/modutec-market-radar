@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T17:01:00Z",
+  "last_updated": "2026-09-14T18:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1137,6 +1137,24 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "New Attacks in Hormuz and Saudi Test Nerves as War’s Spread Worsens Oil Disruption",
+          "summary": "New strikes on Saudi Arabia and on ships in the Gulf tested nerves in the Middle East on Sunday, after an attack on a Saudi oil pipeline and an advance by Yemen's Houthis threatened to worsen the wartime disruption to…",
+          "date": "2026-09-14",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/new-attacks-in-hormuz-and-saudi-test-nerves-as-wars-spread-worsens-oil-disruption/",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "Gulf States Postpone Iran Talks as Houthis Strike Saudi Arabia",
+          "summary": "TAIZ, Yemen/DUBAI, Sept 14 (Reuters) – Arab states in the Gulf called off a meeting with Iran planned for Monday, while Yemen’s Houthis launched a new attack on Saudi Arabia after fighting that has...",
+          "date": "2026-09-14",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/gulf-states-postpone-iran-talks-as-houthis-strike-saudi-arabia/",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
           "title": "Indonesia Rescuers Battle Turbulent Seas in Search for 129 People After Passenger Ship Capsizes",
           "summary": "Hundreds of Indonesian rescuers including the coast guard and the navy raced on Monday to board a passenger ship that capsized in the Java Sea over the weekend as they searched for 129 people still missing, officials…",
           "date": "2026-09-14",
@@ -1209,15 +1227,6 @@
           "region": "KSA"
         },
         {
-          "title": "Iraq Under Pressure After Drone Strikes Close Key Saudi Pipeline",
-          "summary": "By Khalid Al-Ansary and Devika Krishna Kumar Sep 12, 2026 (Bloomberg) –Iraq is moving to contain the fallout from attacks that caused the closure of Saudi Arabia’s East-West pipeline, after the...",
-          "date": "2026-09-13",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/iraq-under-pressure-after-drone-strikes-close-key-saudi-pipeline/",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
           "title": "Harvester Energy Bags New Malaysian PSC",
           "summary": "The Estuary Cluster 'is expected to unlock stranded marginal oil resources through a technology-led development concept centered on a novel shallow-water subsea development approach', Petronas said.",
           "date": "2026-09-13",
@@ -1225,6 +1234,15 @@
           "source_url": "https://www.rigzone.com/news/harvester_energy_bags_new_malaysian_psc-13-sep-2026-184598-article/?rss=true",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Iraq Under Pressure After Drone Strikes Close Key Saudi Pipeline",
+          "summary": "By Khalid Al-Ansary and Devika Krishna Kumar Sep 12, 2026 (Bloomberg) –Iraq is moving to contain the fallout from attacks that caused the closure of Saudi Arabia’s East-West pipeline, after the...",
+          "date": "2026-09-13",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/iraq-under-pressure-after-drone-strikes-close-key-saudi-pipeline/",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "Wealth Holdings grows MPP pipeline with up to six more newbuilds in China",
