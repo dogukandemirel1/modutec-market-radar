@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T07:01:00Z",
+  "last_updated": "2026-09-14T08:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -65,11 +65,11 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Korea Line locks in $31m Zhejiang bulker charter",
-          "summary": "South Korea’s Korea Line has secured a new long-term bulker charter with China’s Zhejiang Shipping worth an estimated KRW42.08bn ($31.38m). The SM Group-controlled owner will provide one bulk carrier under a contract…",
-          "date": "2026-09-11",
+          "title": "Vroon enters offshore wind ERRV market with ScottishPower deal",
+          "summary": "Vroon Offshore Services (VOS) has won its first long-term charter for emergency response and rescue vessel (ERRV) services in the offshore wind industry. The contract award, with a value of more than £7m ($9.5m), will…",
+          "date": "2026-09-14",
           "source_name": "Splash247",
-          "source_url": "https://splash247.com/korea-line-locks-in-31m-zhejiang-bulker-charter/",
+          "source_url": "https://splash247.com/vroon-enters-offshore-wind-errv-market-with-scottishpower-deal/",
           "relevant": false
         },
         {
@@ -110,6 +110,14 @@
           "date": "2026-09-11",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/saipem-jan-de-nul-loi-rovuma-lng/",
+          "relevant": false
+        },
+        {
+          "title": "Korea Line locks in $31m Zhejiang bulker charter",
+          "summary": "South Korea’s Korea Line has secured a new long-term bulker charter with China’s Zhejiang Shipping worth an estimated KRW42.08bn ($31.38m). The SM Group-controlled owner will provide one bulk carrier under a contract…",
+          "date": "2026-09-11",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/korea-line-locks-in-31m-zhejiang-bulker-charter/",
           "relevant": false
         },
         {
@@ -233,19 +241,19 @@
           "relevant": false
         },
         {
-          "title": "US Navy Selects L3Harris VAMPIRE for Littoral Counter-Drone Defense",
-          "summary": "L3Harris Technologies has been awarded a contract to deliver its VAMPIRE (Vehicle-Agnostic Modular Palletized ISR Rocket Equipment) counter-unmanned system to the U.S. Navy for littoral defense against drone threats…",
-          "date": "2026-09-09",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/us-navy-l3harris-vampire-counter-drone/",
-          "relevant": false
-        },
-        {
           "title": "Saipem wins Osman Gazi FPU commissioning contract in Türkiye",
           "summary": "Saipem has secured a contract from GOE Petrol Sanayi to provide commissioning services for the Osman Gazi FPU, which will serve the Sakarya gas field in the Turkish Black Sea.",
           "date": "2026-09-09",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/saipem-osman-gazi-fpu-contract-turkiye/",
+          "relevant": false
+        },
+        {
+          "title": "US Navy Selects L3Harris VAMPIRE for Littoral Counter-Drone Defense",
+          "summary": "L3Harris Technologies has been awarded a contract to deliver its VAMPIRE (Vehicle-Agnostic Modular Palletized ISR Rocket Equipment) counter-unmanned system to the U.S. Navy for littoral defense against drone threats…",
+          "date": "2026-09-09",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/us-navy-l3harris-vampire-counter-drone/",
           "relevant": false
         },
         {
@@ -600,6 +608,22 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "Masdar sets sights on major German offshore wind expansion",
+          "summary": "Abu Dhabi-based renewable energy company Masdar has signed two memoranda of understanding with German companies for potential investments of over €8bn ($9.24bn) in offshore wind and battery energy storage. Under one…",
+          "date": "2026-09-14",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/masdar-sets-sights-on-major-german-offshore-wind-expansion/",
+          "relevant": true
+        },
+        {
+          "title": "Greater Sunrise Gas Project Targets 2029 Investment Decision",
+          "summary": "The last round of negotiations between East Timor and Australia over the Greater Sunrise gas field were finalized last week and the Southeast Asian nation is hoping…",
+          "date": "2026-09-14",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542899-greater-sunrise-gas-project-targets-2029-investment-decision",
+          "relevant": false
+        },
         {
           "title": "US Limits Air Defense Time Slots For Tankers Sailing Through Hormuz",
           "summary": "Sept 12 (Reuters) – The U.S. has asked tankers traveling through the Strait of Hormuz to sail only at specific times to guarantee military protection after Iran stepped up attacks on ships...",
@@ -1039,6 +1063,15 @@
           "date": "2026-09-14",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/middle-east-shipping-squeezed-as-hormuz-and-bab-el-mandeb-risks-converge/",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "Saudi Oil Lifeline Shut After Attack as Red Sea Threat Grows",
+          "summary": "Saudi Arabia has shut down its East-West pipeline, after the vital oil conduit came under aerial attack in the widening Middle East war, threatening to send energy prices even higher…",
+          "date": "2026-09-14",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542900-saudi-oil-lifeline-shut-after-attack-as-red-sea-threat-grows",
           "relevant": true,
           "region": "KSA"
         },
