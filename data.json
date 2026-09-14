@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T14:01:05Z",
+  "last_updated": "2026-09-14T15:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -73,11 +73,27 @@
           "relevant": false
         },
         {
+          "title": "Zefiro secures state-funded well-plugging contract in Great Lakes region",
+          "summary": "Zefiro was awarded a well-plugging services contract by an environmental protection department for a state in the Great Lakes region, with work scheduled to run from November 2026 through June 2029. The contract will be…",
+          "date": "2026-09-14",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/zefiro-secures-state-funded-well-plugging-contract-in-great-lakes-region-79941",
+          "relevant": false
+        },
+        {
           "title": "France Launches Procurement for New Embarked Long-Endurance USV",
           "summary": "The French DGA has launched a formal tender for embarked, long-endurance surface drones to support French Navy ISR missions, but the technical requirements for the USV are quite challenging. The post France Launches…",
           "date": "2026-09-14",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/09/france-procurement-embarked-long-endurance-surface-drones/",
+          "relevant": false
+        },
+        {
+          "title": "Saipem Secures $350M Subsea Job at Azule Energy’s Angola Oil Project",
+          "summary": "Saipem has been awarded a contract worth about $350 million for subsea work on Azule Energy's West Hub Tails oil project offshore Angola, part of the wider Agogo Integrated West Hub Development…",
+          "date": "2026-09-14",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542906-saipem-secures-350m-subsea-job-at-azule-energy-s-angola-oil-project",
           "relevant": false
         },
         {
@@ -94,14 +110,6 @@
           "date": "2026-09-14",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/fulkrum-steps-up-norwegian-offshore-oil-gas-presence-with-var-energi-deal/",
-          "relevant": false
-        },
-        {
-          "title": "Saipem Secures $350M Subsea Job at Azule Energy’s Angola Oil Project",
-          "summary": "Saipem has been awarded a contract worth about $350 million for subsea work on Azule Energy's West Hub Tails oil project offshore Angola, part of the wider Agogo Integrated West Hub Development…",
-          "date": "2026-09-14",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/542906-saipem-secures-350m-subsea-job-at-azule-energy-s-angola-oil-project",
           "relevant": false
         },
         {
@@ -177,14 +185,6 @@
           "relevant": false
         },
         {
-          "title": "NextEra Energy Seals $1.9B DOE Loan to Restart Iowa Nuclear Plant",
-          "summary": "The Trump administration has now financed three nuclear power plant restarts.",
-          "date": "2026-09-10",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/nextera_energy_seals_19b_doe_loan_to_restart_iowa_nuclear_plant-10-sep-2026-184588-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Odfjell secures $518m contract for Deepsea Bergen from Vår Energi",
           "summary": "Odfjell Drilling has received a LOA from Vår Energi for the deployment of the Deepsea Bergen rig, with an estimated contract value of $518m.",
           "date": "2026-09-10",
@@ -198,6 +198,14 @@
           "date": "2026-09-10",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/lockheed-martin-torpedoes-missile-contract/",
+          "relevant": false
+        },
+        {
+          "title": "NextEra Energy Seals $1.9B DOE Loan to Restart Iowa Nuclear Plant",
+          "summary": "The Trump administration has now financed three nuclear power plant restarts.",
+          "date": "2026-09-10",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/nextera_energy_seals_19b_doe_loan_to_restart_iowa_nuclear_plant-10-sep-2026-184588-article/?rss=true",
           "relevant": false
         },
         {
@@ -769,19 +777,19 @@
           "relevant": false
         },
         {
-          "title": "White Fleet’s WFD 450 begins drilling for Arena",
-          "summary": "White Fleet Drilling’s WFD 450 jackup commenced a multi-well drilling program on Arena Energy’s US Gulf assets, the companies announced on 8 September 2026. The WFD 450 can drill in water depths up to 400 ft and to…",
-          "date": "2026-09-09",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/white-fleets-wfd-450-begins-drilling-for-arena-79907",
-          "relevant": false
-        },
-        {
           "title": "Lords Committee: UK-Poland defence treaty lacks ‘substance’",
           "summary": "The UK-Poland defence treaty has been questioned by an influential committee in the UK House of Lords amid a crisis in UK military readiness. The post Lords Committee: UK-Poland defence treaty lacks ‘substance’ appeared…",
           "date": "2026-09-09",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/lords-committee-uk-poland-defence-treaty-lacks-substance/",
+          "relevant": false
+        },
+        {
+          "title": "White Fleet’s WFD 450 begins drilling for Arena",
+          "summary": "White Fleet Drilling’s WFD 450 jackup commenced a multi-well drilling program on Arena Energy’s US Gulf assets, the companies announced on 8 September 2026. The WFD 450 can drill in water depths up to 400 ft and to…",
+          "date": "2026-09-09",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/white-fleets-wfd-450-begins-drilling-for-arena-79907",
           "relevant": false
         },
         {
@@ -1131,15 +1139,6 @@
           "region": "KSA"
         },
         {
-          "title": "Germany-UAE energy ties deepen as RWE, Masdar and ADNOC eye LNG supply and €3B offshore wind investment",
-          "summary": "Germany and the United Arab Emirates are stepping up energy cooperation, with German power producer RWE joining Abu Dhabi clean-energy firm Masdar and oil and gas giant ADNOC to pursue plans spanning more than €3…",
-          "date": "2026-09-14",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/germany-uae-energy-ties-deepen-as-rwe-masdar-and-adnoc-eye-lng-supply-and-e3b-offshore-wind-investment/",
-          "relevant": true,
-          "region": "UAE"
-        },
-        {
           "title": "Petronas, PTTEP Get Approvals for New Gas Block Sharing Contract",
           "summary": "Petronas and PTTEP subsidiaries have received approvals from the governments of Malaysia and Thailand for a new 35-year production sharing contract covering Block…",
           "date": "2026-09-14",
@@ -1165,6 +1164,15 @@
           "source_url": "https://www.oedigital.com/news/542900-saudi-oil-lifeline-shut-after-attack-as-red-sea-threat-grows",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Germany-UAE energy ties deepen as RWE, Masdar and ADNOC eye LNG supply and €3B offshore wind investment",
+          "summary": "Germany and the United Arab Emirates are stepping up energy cooperation, with German power producer RWE joining Abu Dhabi clean-energy firm Masdar and oil and gas giant ADNOC to pursue plans spanning more than €3…",
+          "date": "2026-09-14",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/germany-uae-energy-ties-deepen-as-rwe-masdar-and-adnoc-eye-lng-supply-and-e3b-offshore-wind-investment/",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Iraq Under Pressure After Drone Strikes Close Key Saudi Pipeline",
