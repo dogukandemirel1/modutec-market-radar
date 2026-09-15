@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T05:00:59Z",
+  "last_updated": "2026-09-15T06:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -665,6 +665,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Splash Singapore: SGX’s William Chin on the financialisation of freight",
+          "summary": "Freight markets are undergoing one of the biggest financial transformations in commodities, with shipping moving steadily from a world where rate volatility was simply accepted as a cost of doing business to one where…",
+          "date": "2026-09-15",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/splash-singapore-sgxs-william-chin-on-the-financialisation-of-freight/",
+          "relevant": false
+        },
+        {
           "title": "COSCO readies listing of its shipyard division",
           "summary": "COSCO Shipping Heavy Industry has taken its first formal step towards an A-share listing in Shanghai. China’s securities regulator disclosed that the shipbuilding and repair giant registered for listing guidance on…",
           "date": "2026-09-14",
@@ -1144,6 +1152,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Arabian Drilling signs five-year deal for 8 land rigs with SLB",
+          "summary": "Arabian Drilling signed a five-year contract with SLB Middle East for eight additional land rigs supporting gas lump-sum turnkey (LSTK) operations in Saudi Arabia. The rigs will be redeployed from Arabian Drilling’s…",
+          "date": "2026-09-15",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/arabian-drilling-signs-five-year-deal-for-8-land-rigs-with-slb-79952",
+          "relevant": true,
+          "region": "KSA"
+        },
         {
           "title": "New Attacks in Hormuz and Saudi Test Nerves as War’s Spread Worsens Oil Disruption",
           "summary": "New strikes on Saudi Arabia and on ships in the Gulf tested nerves in the Middle East on Sunday, after an attack on a Saudi oil pipeline and an advance by Yemen's Houthis threatened to worsen the wartime disruption to…",
