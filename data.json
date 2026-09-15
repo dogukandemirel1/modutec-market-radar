@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T21:00:59Z",
+  "last_updated": "2026-09-15T22:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1049,14 +1049,6 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
-          "title": "ADES wraps up purchase of Saipem’s Saudi drilling business",
-          "summary": "Saudi oil and gas driller ADES has completed its acquisition of Saipem’s Saudi shallow-water drilling business. The two entered into the transaction in late June. Under the deal, ADES’s indirectly owned subsidiary, ADES…",
-          "date": "2026-09-15",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/ades-wraps-up-purchase-of-saipems-saudi-drilling-business/",
-          "relevant": false
-        },
-        {
           "title": "Saipem hands Saudi jack-up fleet to ADES in strategic shallow-water exit",
           "summary": "Italy’s engineering, drilling, and construction services company Saipem has divested its shallow-water drilling business in Saudi Arabia to ADES Saudi Limited Company, an indirect subsidiary of Saudi…",
           "date": "2026-09-15",
@@ -1086,6 +1078,14 @@
           "date": "2026-09-15",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/kistos_completes_acquisition_of_stakes_in_omani_producing_blocks-15-sep-2026-184622-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "ADES wraps up purchase of Saipem’s Saudi drilling business",
+          "summary": "Saudi oil and gas driller ADES has completed its acquisition of Saipem’s Saudi shallow-water drilling business. The two entered into the transaction in late June. Under the deal, ADES’s indirectly owned subsidiary, ADES…",
+          "date": "2026-09-15",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/ades-wraps-up-purchase-of-saipems-saudi-drilling-business/",
           "relevant": false
         },
         {
