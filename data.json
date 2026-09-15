@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T20:00:54Z",
+  "last_updated": "2026-09-15T21:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1311,6 +1311,15 @@
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/arabian-drilling-signs-five-year-deal-for-8-land-rigs-with-slb-79952",
           "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "Oil Jumps on Saudi and Libya Outages",
+          "summary": "Brent neared $109 as pipeline and oil field disruptions tightened supplies.",
+          "date": "2026-09-15",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/oil_jumps_on_saudi_and_libya_outages-15-sep-2026-184624-article/?rss=true",
+          "relevant": false,
           "region": "KSA"
         },
         {
