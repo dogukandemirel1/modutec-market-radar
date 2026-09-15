@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T15:01:03Z",
+  "last_updated": "2026-09-15T16:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -78,6 +78,14 @@
           "date": "2026-09-15",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/saipem-350m-offshore-contract-azule-energy-angola/",
+          "relevant": false
+        },
+        {
+          "title": "Boeing wins $562m US Navy production contract for MQ-25A Stingray",
+          "summary": "Boeing has been awarded a $562m fixed-price contract by the US Navy to begin production of the MQ-25A Stingray uncrewed aerial refueller. The post Boeing wins $562m US Navy production contract for MQ-25A Stingray…",
+          "date": "2026-09-15",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/boeing-mq-25a-us-navy/",
           "relevant": false
         },
         {
@@ -1025,6 +1033,14 @@
           "relevant": false
         },
         {
+          "title": "Saipem hands Saudi jack-up fleet to ADES in strategic shallow-water exit",
+          "summary": "Italy’s engineering, drilling, and construction services company Saipem has divested its shallow-water drilling business in Saudi Arabia to ADES Saudi Limited Company, an indirect subsidiary of Saudi…",
+          "date": "2026-09-15",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/saipem-hands-saudi-jack-up-fleet-to-ades-in-strategic-shallow-water-exit/",
+          "relevant": true
+        },
+        {
           "title": "Valeura advances Gulf of Thailand expansion with PTTEP farm-in approval",
           "summary": "Canadian oil and gas company Valeura Energy has received the go-ahead for its acquisition of partial stakes in two offshore blocks in the Gulf of Thailand from Thailand’s national oil and gas player, PTT Exploration and…",
           "date": "2026-09-15",
@@ -1041,12 +1057,12 @@
           "relevant": false
         },
         {
-          "title": "Saipem hands Saudi jack-up fleet to ADES in strategic shallow-water exit",
-          "summary": "Italy’s engineering, drilling, and construction services company Saipem has divested its shallow-water drilling business in Saudi Arabia to ADES Saudi Limited Company, an indirect subsidiary of Saudi…",
+          "title": "Kistos Completes Acquisition of Stakes in Omani Producing Blocks",
+          "summary": "London-based Kistos consummated the purchase of Mitsui's stakes in Blocks 3 and 4 onshore Oman, marking its entry into the Middle East.",
           "date": "2026-09-15",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/saipem-hands-saudi-jack-up-fleet-to-ades-in-strategic-shallow-water-exit/",
-          "relevant": true
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/kistos_completes_acquisition_of_stakes_in_omani_producing_blocks-15-sep-2026-184622-article/?rss=true",
+          "relevant": false
         },
         {
           "title": "Borr Drilling hands operating control of three jackups to Mexican partner",
@@ -1310,15 +1326,6 @@
           "region": "KSA"
         },
         {
-          "title": "Gulf States Postpone Iran Talks as Houthis Strike Saudi Arabia",
-          "summary": "TAIZ, Yemen/DUBAI, Sept 14 (Reuters) – Arab states in the Gulf called off a meeting with Iran planned for Monday, while Yemen’s Houthis launched a new attack on Saudi Arabia after fighting that has...",
-          "date": "2026-09-14",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/gulf-states-postpone-iran-talks-as-houthis-strike-saudi-arabia/",
-          "relevant": true,
-          "region": "UAE"
-        },
-        {
           "title": "Oil Climbs Amid Saudi Pipeline Halt",
           "summary": "Crude gained as the Saudi East-West pipeline closure heightened fears of tighter global supplies.",
           "date": "2026-09-14",
@@ -1344,6 +1351,15 @@
           "source_url": "https://www.oedigital.com/news/542904-petronas-pttep-get-approvals-for-new-gas-block-sharing-contract",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Gulf States Postpone Iran Talks as Houthis Strike Saudi Arabia",
+          "summary": "TAIZ, Yemen/DUBAI, Sept 14 (Reuters) – Arab states in the Gulf called off a meeting with Iran planned for Monday, while Yemen’s Houthis launched a new attack on Saudi Arabia after fighting that has...",
+          "date": "2026-09-14",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/gulf-states-postpone-iran-talks-as-houthis-strike-saudi-arabia/",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Germany-UAE energy ties deepen as RWE, Masdar and ADNOC eye LNG supply and €3B offshore wind investment",
