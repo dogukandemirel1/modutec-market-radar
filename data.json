@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T08:01:00Z",
+  "last_updated": "2026-09-15T09:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -969,19 +969,27 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
-          "title": "InterMaritime and Carsten Rehder form Hamburg shipmanagement joint venture",
-          "summary": "InterMaritime Group and Hamburg-based Carsten Rehder have formed a shipmanagement joint venture aimed at expanding their presence across Germany and Northern Europe. The two companies will take equal ownership in…",
-          "date": "2026-09-15",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/intermaritime-and-carsten-rehder-form-hamburg-shipmanagement-joint-venture/",
-          "relevant": false
-        },
-        {
           "title": "Borr Drilling hands operating control of three jackups to Mexican partner",
           "summary": "Offshore driller Borr Drilling has entered into definitive agreements to divest its 51% equity interest in two Mexican subsidiaries to a local partner. Upon completion of the transaction, Borr Drilling will have fully…",
           "date": "2026-09-15",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/borr-drilling-hands-operating-control-of-three-jackups-to-mexican-partner/",
+          "relevant": false
+        },
+        {
+          "title": "Saipem hands Saudi jack-up fleet to ADES in strategic shallow-water exit",
+          "summary": "Italy’s engineering, drilling, and construction services company Saipem has divested its shallow-water drilling business in Saudi Arabia to ADES Saudi Limited Company, an indirect subsidiary of Saudi…",
+          "date": "2026-09-15",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/saipem-hands-saudi-jack-up-fleet-to-ades-in-strategic-shallow-water-exit/",
+          "relevant": true
+        },
+        {
+          "title": "InterMaritime and Carsten Rehder form Hamburg shipmanagement joint venture",
+          "summary": "InterMaritime Group and Hamburg-based Carsten Rehder have formed a shipmanagement joint venture aimed at expanding their presence across Germany and Northern Europe. The two companies will take equal ownership in…",
+          "date": "2026-09-15",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/intermaritime-and-carsten-rehder-form-hamburg-shipmanagement-joint-venture/",
           "relevant": false
         },
         {
