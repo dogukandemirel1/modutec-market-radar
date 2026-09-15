@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T10:00:57Z",
+  "last_updated": "2026-09-15T11:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -70,6 +70,22 @@
           "date": "2026-09-15",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/saipem-lands-350m-angola-offshore-contract/",
+          "relevant": false
+        },
+        {
+          "title": "Wood secures $200m contract from ExxonMobil for PNG LNG project",
+          "summary": "Wood has secured a $200m contract from ExxonMobil PNG to deliver construction services for the PNG LNG Project in Papua New Guinea (PNG).",
+          "date": "2026-09-15",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/wood-200m-contract-exxonmobil-png-lng-project/",
+          "relevant": false
+        },
+        {
+          "title": "Saipem wins $350m offshore contract from Azule Energy Angola",
+          "summary": "Saipem has secured an offshore contract in Angola valued at about $350m from Azule Energy Angola, a joint venture owned by Eni and bp.",
+          "date": "2026-09-15",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/saipem-350m-offshore-contract-azule-energy-angola/",
           "relevant": false
         },
         {
