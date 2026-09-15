@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T13:01:01Z",
+  "last_updated": "2026-09-15T14:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -129,14 +129,6 @@
           "relevant": false
         },
         {
-          "title": "Saipem Secures $350M Subsea Job at Azule Energy’s Angola Oil Project",
-          "summary": "Saipem has been awarded a contract worth about $350 million for subsea work on Azule Energy's West Hub Tails oil project offshore Angola, part of the wider Agogo Integrated West Hub Development…",
-          "date": "2026-09-14",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/542906-saipem-secures-350m-subsea-job-at-azule-energy-s-angola-oil-project",
-          "relevant": false
-        },
-        {
           "title": "New US wave power test facility on Carnegie Clean Energy contender list for potential CETO demo",
           "summary": "Australian ocean energy developer Carnegie Clean Energy has put a newly opened U.S. wave energy test facility on its list of potential sites for a future demonstration of its wave energy converter technology designed to…",
           "date": "2026-09-14",
@@ -150,6 +142,14 @@
           "date": "2026-09-14",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/saipem-picks-up-350-million-subsea-job-offshore-angola/",
+          "relevant": false
+        },
+        {
+          "title": "Saipem Secures $350M Subsea Job at Azule Energy’s Angola Oil Project",
+          "summary": "Saipem has been awarded a contract worth about $350 million for subsea work on Azule Energy's West Hub Tails oil project offshore Angola, part of the wider Agogo Integrated West Hub Development…",
+          "date": "2026-09-14",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542906-saipem-secures-350m-subsea-job-at-azule-energy-s-angola-oil-project",
           "relevant": false
         },
         {
@@ -241,19 +241,19 @@
           "relevant": false
         },
         {
-          "title": "Odfjell secures $518m contract for Deepsea Bergen from Vår Energi",
-          "summary": "Odfjell Drilling has received a LOA from Vår Energi for the deployment of the Deepsea Bergen rig, with an estimated contract value of $518m.",
-          "date": "2026-09-10",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/odfjell-contract-deepsea-bergen-var-energi/",
-          "relevant": false
-        },
-        {
           "title": "Lockheed Martin nets over $1bn in US contracts for missiles, torpedoes",
           "summary": "Lockheed Martin received contract modifications from the US Department of War totalling over $1bn, expanding production for its MK 48 Heavyweight Torpedo and a range of standoff missile systems. The post Lockheed Martin…",
           "date": "2026-09-10",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/lockheed-martin-torpedoes-missile-contract/",
+          "relevant": false
+        },
+        {
+          "title": "Odfjell secures $518m contract for Deepsea Bergen from Vår Energi",
+          "summary": "Odfjell Drilling has received a LOA from Vår Energi for the deployment of the Deepsea Bergen rig, with an estimated contract value of $518m.",
+          "date": "2026-09-10",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/odfjell-contract-deepsea-bergen-var-energi/",
           "relevant": false
         },
         {
@@ -713,6 +713,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Russia Accuses Danish Military Helicopters of making Dangerous Maneuvers Near Its Warships",
+          "summary": "Russia has accused Danish military helicopters of making dangerous maneuvers near its warships in the Baltic Sea and handed an official note to Copenhagen complaining about such incidents, Russia's ambassador to Denmark…",
+          "date": "2026-09-15",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/russia-accuses-danish-military-helicopters-of-making-dangerous-maneuvers-near-its-warships/",
+          "relevant": false
+        },
+        {
           "title": "EU Leaders Back Finnish Push for Arctic Icebreaker Fleet",
           "summary": "European leaders have backed a stronger role for the European Union in the Arctic, with Finland pushing for a joint icebreaking capability as the region becomes increasingly important for commercial shipping, military…",
           "date": "2026-09-15",
@@ -1017,6 +1025,14 @@
           "relevant": false
         },
         {
+          "title": "Borr Drilling keeps three jack-up rigs as it reorganizes Mexico ops with stake sale",
+          "summary": "Borr Drilling, an offshore drilling player with its corporate base in Bermuda, has taken steps to streamline its operations in Mexico through a sale of its interests in joint ventures Perforaciones Estratégicas e…",
+          "date": "2026-09-15",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/borr-drilling-keeps-three-jack-up-rigs-as-it-reorganizes-mexico-ops-with-stake-sale/",
+          "relevant": false
+        },
+        {
           "title": "Saipem hands Saudi jack-up fleet to ADES in strategic shallow-water exit",
           "summary": "Italy’s engineering, drilling, and construction services company Saipem has divested its shallow-water drilling business in Saudi Arabia to ADES Saudi Limited Company, an indirect subsidiary of Saudi…",
           "date": "2026-09-15",
@@ -1286,6 +1302,15 @@
           "region": "UAE"
         },
         {
+          "title": "Germany-UAE energy ties deepen as RWE, Masdar and ADNOC eye LNG supply and €3B offshore wind investment",
+          "summary": "Germany and the United Arab Emirates are stepping up energy cooperation, with German power producer RWE joining Abu Dhabi clean-energy firm Masdar and oil and gas giant ADNOC to pursue plans spanning more than €3…",
+          "date": "2026-09-14",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/germany-uae-energy-ties-deepen-as-rwe-masdar-and-adnoc-eye-lng-supply-and-e3b-offshore-wind-investment/",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
           "title": "Oil Climbs Amid Saudi Pipeline Halt",
           "summary": "Crude gained as the Saudi East-West pipeline closure heightened fears of tighter global supplies.",
           "date": "2026-09-14",
@@ -1311,15 +1336,6 @@
           "source_url": "https://www.oedigital.com/news/542904-petronas-pttep-get-approvals-for-new-gas-block-sharing-contract",
           "relevant": false,
           "region": "SEA"
-        },
-        {
-          "title": "Germany-UAE energy ties deepen as RWE, Masdar and ADNOC eye LNG supply and €3B offshore wind investment",
-          "summary": "Germany and the United Arab Emirates are stepping up energy cooperation, with German power producer RWE joining Abu Dhabi clean-energy firm Masdar and oil and gas giant ADNOC to pursue plans spanning more than €3…",
-          "date": "2026-09-14",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/germany-uae-energy-ties-deepen-as-rwe-masdar-and-adnoc-eye-lng-supply-and-e3b-offshore-wind-investment/",
-          "relevant": true,
-          "region": "UAE"
         },
         {
           "title": "XRG, ADNOC and SEFE Deepen Gas Ties in Europe",
