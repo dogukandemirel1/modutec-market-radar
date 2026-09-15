@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T09:00:58Z",
+  "last_updated": "2026-09-15T09:22:28Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1198,6 +1198,15 @@
           "date": "2026-09-15",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/arabian-drilling-signs-five-year-deal-for-8-land-rigs-with-slb-79952",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "ADES Takes Over Saipem’s Saudi Jack-Up Business",
+          "summary": "Saipem has completed the sale of its Saudi Arabian shallow-water drilling business to ADES Saudi Limited Company, advancing its strategy to focus its offshore drilling…",
+          "date": "2026-09-15",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542942-ades-takes-over-saipem-s-saudi-jack-up-business",
           "relevant": true,
           "region": "KSA"
         },
