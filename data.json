@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T11:01:01Z",
+  "last_updated": "2026-09-15T12:01:09Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -65,14 +65,6 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Saipem lands $350m Angola offshore contract",
-          "summary": "Italian offshore engineering contractor Saipem has been awarded a new offshore contract in Angola worth around $350m. The contract has been awarded by Azule Energy, a joint venture owned by Eni and BP, and relates to…",
-          "date": "2026-09-15",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/saipem-lands-350m-angola-offshore-contract/",
-          "relevant": false
-        },
-        {
           "title": "Wood secures $200m contract from ExxonMobil for PNG LNG project",
           "summary": "Wood has secured a $200m contract from ExxonMobil PNG to deliver construction services for the PNG LNG Project in Papua New Guinea (PNG).",
           "date": "2026-09-15",
@@ -89,11 +81,27 @@
           "relevant": false
         },
         {
+          "title": "Petrobras Taps Strohm for Deepwater Pipe Supply",
+          "summary": "Petrobras has awarded Strohm a contract to supply thermoplastic composite pipes for water injection and gas lift applications in Brazil's deepwater post-salt cluster…",
+          "date": "2026-09-15",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542950-petrobras-taps-strohm-for-deepwater-pipe-supply",
+          "relevant": false
+        },
+        {
           "title": "MODEC, Eld Energy Advance Fuel Cell Power for FPSOs",
           "summary": "MODEC and Eld Energy have completed a key qualification stage for a solid oxide fuel cell power system designed for floating production, storage and offloading (FPSO) units…",
           "date": "2026-09-15",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542943-modec-eld-energy-advance-fuel-cell-power-for-fpsos",
+          "relevant": false
+        },
+        {
+          "title": "Saipem lands $350m Angola offshore contract",
+          "summary": "Italian offshore engineering contractor Saipem has been awarded a new offshore contract in Angola worth around $350m. The contract has been awarded by Azule Energy, a joint venture owned by Eni and BP, and relates to…",
+          "date": "2026-09-15",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/saipem-lands-350m-angola-offshore-contract/",
           "relevant": false
         },
         {
@@ -185,19 +193,19 @@
           "relevant": false
         },
         {
-          "title": "Norway Sees 'Strong Confidence' in New Discoveries Potential",
-          "summary": "The Norwegian Energy Ministry received applications from 21 companies including international majors for the country's expanded exploration licensing round.",
-          "date": "2026-09-11",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/norway_sees_strong_confidence_in_new_discoveries_potential-11-sep-2026-184599-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Saipem, Jan De Nul sign LoI for Mozambique Rovuma LNG project",
           "summary": "Saipem, in partnership with Jan De Nul, has entered into a letter of intent (LoI) with ExxonMobil Moçambique for a contract related to the phase 1 of the Rovuma LNG project, located offshore Mozambique.",
           "date": "2026-09-11",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/saipem-jan-de-nul-loi-rovuma-lng/",
+          "relevant": false
+        },
+        {
+          "title": "Norway Sees 'Strong Confidence' in New Discoveries Potential",
+          "summary": "The Norwegian Energy Ministry received applications from 21 companies including international majors for the country's expanded exploration licensing round.",
+          "date": "2026-09-11",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/norway_sees_strong_confidence_in_new_discoveries_potential-11-sep-2026-184599-article/?rss=true",
           "relevant": false
         },
         {
@@ -705,6 +713,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "EU Leaders Back Finnish Push for Arctic Icebreaker Fleet",
+          "summary": "European leaders have backed a stronger role for the European Union in the Arctic, with Finland pushing for a joint icebreaking capability as the region becomes increasingly important for commercial shipping, military…",
+          "date": "2026-09-15",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/eu-leaders-back-finnish-push-for-arctic-icebreaker-fleet/",
+          "relevant": false
+        },
+        {
           "title": "Splash Singapore: SGX’s William Chin on the financialisation of freight",
           "summary": "Freight markets are undergoing one of the biggest financial transformations in commodities, with shipping moving steadily from a world where rate volatility was simply accepted as a cost of doing business to one where…",
           "date": "2026-09-15",
@@ -993,6 +1009,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "ADES wraps up purchase of Saipem’s Saudi drilling business",
+          "summary": "Saudi oil and gas driller ADES has completed its acquisition of Saipem’s Saudi shallow-water drilling business. The two entered into the transaction in late June. Under the deal, ADES’s indirectly owned subsidiary, ADES…",
+          "date": "2026-09-15",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/ades-wraps-up-purchase-of-saipems-saudi-drilling-business/",
+          "relevant": false
+        },
+        {
           "title": "Saipem hands Saudi jack-up fleet to ADES in strategic shallow-water exit",
           "summary": "Italy’s engineering, drilling, and construction services company Saipem has divested its shallow-water drilling business in Saudi Arabia to ADES Saudi Limited Company, an indirect subsidiary of Saudi…",
           "date": "2026-09-15",
@@ -1222,6 +1246,15 @@
           "date": "2026-09-15",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/arabian-drilling-signs-five-year-deal-for-8-land-rigs-with-slb-79952",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "What Does the Yanbu Outage Mean?",
+          "summary": "The East-West Pipeline was subjected to multiple attacks and subsequently shut down, a statement posted on the official X page of Saudi Arabia's Ministry of Energy revealed.",
+          "date": "2026-09-15",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/what_does_the_yanbu_outage_mean-15-sep-2026-184616-article/?rss=true",
           "relevant": true,
           "region": "KSA"
         },
