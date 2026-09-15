@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T06:00:56Z",
+  "last_updated": "2026-09-15T07:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1180,15 +1180,6 @@
           "region": "UAE"
         },
         {
-          "title": "Middle East shipping squeezed as Hormuz and Bab el-Mandeb risks converge",
-          "summary": "Middle Eastern shipping patterns face another violent reshuffle after fresh vessel attacks around Hormuz, the shutdown of Saudi Arabia’s critical East-West oil pipeline and the Houthis’ advance into the heart of the Bab…",
-          "date": "2026-09-14",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/middle-east-shipping-squeezed-as-hormuz-and-bab-el-mandeb-risks-converge/",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
           "title": "Germany-UAE energy ties deepen as RWE, Masdar and ADNOC eye LNG supply and €3B offshore wind investment",
           "summary": "Germany and the United Arab Emirates are stepping up energy cooperation, with German power producer RWE joining Abu Dhabi clean-energy firm Masdar and oil and gas giant ADNOC to pursue plans spanning more than €3…",
           "date": "2026-09-14",
@@ -1239,6 +1230,15 @@
           "date": "2026-09-14",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542900-saudi-oil-lifeline-shut-after-attack-as-red-sea-threat-grows",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "Middle East shipping squeezed as Hormuz and Bab el-Mandeb risks converge",
+          "summary": "Middle Eastern shipping patterns face another violent reshuffle after fresh vessel attacks around Hormuz, the shutdown of Saudi Arabia’s critical East-West oil pipeline and the Houthis’ advance into the heart of the Bab…",
+          "date": "2026-09-14",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/middle-east-shipping-squeezed-as-hormuz-and-bab-el-mandeb-risks-converge/",
           "relevant": true,
           "region": "KSA"
         },
