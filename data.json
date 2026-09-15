@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T09:22:28Z",
+  "last_updated": "2026-09-15T10:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -70,6 +70,14 @@
           "date": "2026-09-15",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/saipem-lands-350m-angola-offshore-contract/",
+          "relevant": false
+        },
+        {
+          "title": "MODEC, Eld Energy Advance Fuel Cell Power for FPSOs",
+          "summary": "MODEC and Eld Energy have completed a key qualification stage for a solid oxide fuel cell power system designed for floating production, storage and offloading (FPSO) units…",
+          "date": "2026-09-15",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542943-modec-eld-energy-advance-fuel-cell-power-for-fpsos",
           "relevant": false
         },
         {
@@ -969,20 +977,20 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
-          "title": "Borr Drilling hands operating control of three jackups to Mexican partner",
-          "summary": "Offshore driller Borr Drilling has entered into definitive agreements to divest its 51% equity interest in two Mexican subsidiaries to a local partner. Upon completion of the transaction, Borr Drilling will have fully…",
-          "date": "2026-09-15",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/borr-drilling-hands-operating-control-of-three-jackups-to-mexican-partner/",
-          "relevant": false
-        },
-        {
           "title": "Saipem hands Saudi jack-up fleet to ADES in strategic shallow-water exit",
           "summary": "Italy’s engineering, drilling, and construction services company Saipem has divested its shallow-water drilling business in Saudi Arabia to ADES Saudi Limited Company, an indirect subsidiary of Saudi…",
           "date": "2026-09-15",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/saipem-hands-saudi-jack-up-fleet-to-ades-in-strategic-shallow-water-exit/",
           "relevant": true
+        },
+        {
+          "title": "Borr Drilling hands operating control of three jackups to Mexican partner",
+          "summary": "Offshore driller Borr Drilling has entered into definitive agreements to divest its 51% equity interest in two Mexican subsidiaries to a local partner. Upon completion of the transaction, Borr Drilling will have fully…",
+          "date": "2026-09-15",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/borr-drilling-hands-operating-control-of-three-jackups-to-mexican-partner/",
+          "relevant": false
         },
         {
           "title": "InterMaritime and Carsten Rehder form Hamburg shipmanagement joint venture",
