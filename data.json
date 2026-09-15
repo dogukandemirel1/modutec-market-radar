@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T12:01:09Z",
+  "last_updated": "2026-09-15T13:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -129,6 +129,14 @@
           "relevant": false
         },
         {
+          "title": "Saipem Secures $350M Subsea Job at Azule Energy’s Angola Oil Project",
+          "summary": "Saipem has been awarded a contract worth about $350 million for subsea work on Azule Energy's West Hub Tails oil project offshore Angola, part of the wider Agogo Integrated West Hub Development…",
+          "date": "2026-09-14",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542906-saipem-secures-350m-subsea-job-at-azule-energy-s-angola-oil-project",
+          "relevant": false
+        },
+        {
           "title": "New US wave power test facility on Carnegie Clean Energy contender list for potential CETO demo",
           "summary": "Australian ocean energy developer Carnegie Clean Energy has put a newly opened U.S. wave energy test facility on its list of potential sites for a future demonstration of its wave energy converter technology designed to…",
           "date": "2026-09-14",
@@ -150,14 +158,6 @@
           "date": "2026-09-14",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/fulkrum-steps-up-norwegian-offshore-oil-gas-presence-with-var-energi-deal/",
-          "relevant": false
-        },
-        {
-          "title": "Saipem Secures $350M Subsea Job at Azule Energy’s Angola Oil Project",
-          "summary": "Saipem has been awarded a contract worth about $350 million for subsea work on Azule Energy's West Hub Tails oil project offshore Angola, part of the wider Agogo Integrated West Hub Development…",
-          "date": "2026-09-14",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/542906-saipem-secures-350m-subsea-job-at-azule-energy-s-angola-oil-project",
           "relevant": false
         },
         {
@@ -1286,15 +1286,6 @@
           "region": "UAE"
         },
         {
-          "title": "Germany-UAE energy ties deepen as RWE, Masdar and ADNOC eye LNG supply and €3B offshore wind investment",
-          "summary": "Germany and the United Arab Emirates are stepping up energy cooperation, with German power producer RWE joining Abu Dhabi clean-energy firm Masdar and oil and gas giant ADNOC to pursue plans spanning more than €3…",
-          "date": "2026-09-14",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/germany-uae-energy-ties-deepen-as-rwe-masdar-and-adnoc-eye-lng-supply-and-e3b-offshore-wind-investment/",
-          "relevant": true,
-          "region": "UAE"
-        },
-        {
           "title": "Oil Climbs Amid Saudi Pipeline Halt",
           "summary": "Crude gained as the Saudi East-West pipeline closure heightened fears of tighter global supplies.",
           "date": "2026-09-14",
@@ -1320,6 +1311,15 @@
           "source_url": "https://www.oedigital.com/news/542904-petronas-pttep-get-approvals-for-new-gas-block-sharing-contract",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Germany-UAE energy ties deepen as RWE, Masdar and ADNOC eye LNG supply and €3B offshore wind investment",
+          "summary": "Germany and the United Arab Emirates are stepping up energy cooperation, with German power producer RWE joining Abu Dhabi clean-energy firm Masdar and oil and gas giant ADNOC to pursue plans spanning more than €3…",
+          "date": "2026-09-14",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/germany-uae-energy-ties-deepen-as-rwe-masdar-and-adnoc-eye-lng-supply-and-e3b-offshore-wind-investment/",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "XRG, ADNOC and SEFE Deepen Gas Ties in Europe",
