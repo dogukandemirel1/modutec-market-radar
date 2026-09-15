@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T17:01:00Z",
+  "last_updated": "2026-09-15T18:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -64,6 +64,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Coast Guard Awards $173.7 Million for New Polar Cutter Berths in Seattle",
+          "summary": "The U.S. Coast Guard has awarded a $173.7 million contract to continue a major modernization of Base Seattle, including new berthing infrastructure intended to support the service’s future Polar Security...",
+          "date": "2026-09-15",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/coast-guard-awards-173-7-million-for-new-polar-cutter-berths-in-seattle/",
+          "relevant": false
+        },
         {
           "title": "Wood secures $200m contract from ExxonMobil for PNG LNG project",
           "summary": "Wood has secured a $200m contract from ExxonMobil PNG to deliver construction services for the PNG LNG Project in Papua New Guinea (PNG).",
@@ -721,6 +729,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Russia and Ukraine Press on With Energy Strikes Despite Trump",
+          "summary": "Russia hit petrol stations in Kyiv on Tuesday and Ukraine struck a Russian oil refinery, as the warring sides carried on with strikes on each other's energy targets despite an announcement by U.S. President Donald Trump…",
+          "date": "2026-09-15",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/russia-and-ukraine-press-on-with-energy-strikes-despite-trump/",
+          "relevant": false
+        },
+        {
           "title": "Russia Accuses Danish Military Helicopters of making Dangerous Maneuvers Near Its Warships",
           "summary": "Russia has accused Danish military helicopters of making dangerous maneuvers near its warships in the Baltic Sea and handed an official note to Copenhagen complaining about such incidents, Russia's ambassador to Denmark…",
           "date": "2026-09-15",
@@ -1317,15 +1333,6 @@
           "region": "KSA"
         },
         {
-          "title": "New Attacks in Hormuz and Saudi Test Nerves as War’s Spread Worsens Oil Disruption",
-          "summary": "New strikes on Saudi Arabia and on ships in the Gulf tested nerves in the Middle East on Sunday, after an attack on a Saudi oil pipeline and an advance by Yemen's Houthis threatened to worsen the wartime disruption to…",
-          "date": "2026-09-14",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/new-attacks-in-hormuz-and-saudi-test-nerves-as-wars-spread-worsens-oil-disruption/",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
           "title": "Oil Climbs Amid Saudi Pipeline Halt",
           "summary": "Crude gained as the Saudi East-West pipeline closure heightened fears of tighter global supplies.",
           "date": "2026-09-14",
@@ -1351,6 +1358,15 @@
           "source_url": "https://www.oedigital.com/news/542904-petronas-pttep-get-approvals-for-new-gas-block-sharing-contract",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "New Attacks in Hormuz and Saudi Test Nerves as War’s Spread Worsens Oil Disruption",
+          "summary": "New strikes on Saudi Arabia and on ships in the Gulf tested nerves in the Middle East on Sunday, after an attack on a Saudi oil pipeline and an advance by Yemen's Houthis threatened to worsen the wartime disruption to…",
+          "date": "2026-09-14",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/new-attacks-in-hormuz-and-saudi-test-nerves-as-wars-spread-worsens-oil-disruption/",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "Gulf States Postpone Iran Talks as Houthis Strike Saudi Arabia",
