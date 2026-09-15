@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T14:01:01Z",
+  "last_updated": "2026-09-15T15:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -137,19 +137,19 @@
           "relevant": false
         },
         {
-          "title": "Saipem picks up $350 million subsea job offshore Angola",
-          "summary": "Italy’s engineering, drilling, and construction services company Saipem has won a roughly $350 million contract from Azule Energy, a joint venture between Italy’s Eni and the UK’s BP, for subsea work on an offshore…",
-          "date": "2026-09-14",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/saipem-picks-up-350-million-subsea-job-offshore-angola/",
-          "relevant": false
-        },
-        {
           "title": "Saipem Secures $350M Subsea Job at Azule Energy’s Angola Oil Project",
           "summary": "Saipem has been awarded a contract worth about $350 million for subsea work on Azule Energy's West Hub Tails oil project offshore Angola, part of the wider Agogo Integrated West Hub Development…",
           "date": "2026-09-14",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542906-saipem-secures-350m-subsea-job-at-azule-energy-s-angola-oil-project",
+          "relevant": false
+        },
+        {
+          "title": "Saipem picks up $350 million subsea job offshore Angola",
+          "summary": "Italy’s engineering, drilling, and construction services company Saipem has won a roughly $350 million contract from Azule Energy, a joint venture between Italy’s Eni and the UK’s BP, for subsea work on an offshore…",
+          "date": "2026-09-14",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/saipem-picks-up-350-million-subsea-job-offshore-angola/",
           "relevant": false
         },
         {
@@ -1025,6 +1025,14 @@
           "relevant": false
         },
         {
+          "title": "Valeura advances Gulf of Thailand expansion with PTTEP farm-in approval",
+          "summary": "Canadian oil and gas company Valeura Energy has received the go-ahead for its acquisition of partial stakes in two offshore blocks in the Gulf of Thailand from Thailand’s national oil and gas player, PTT Exploration and…",
+          "date": "2026-09-15",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/valeura-advances-gulf-of-thailand-expansion-with-pttep-farm-in-approval/",
+          "relevant": false
+        },
+        {
           "title": "Borr Drilling keeps three jack-up rigs as it reorganizes Mexico ops with stake sale",
           "summary": "Borr Drilling, an offshore drilling player with its corporate base in Bermuda, has taken steps to streamline its operations in Mexico through a sale of its interests in joint ventures Perforaciones Estratégicas e…",
           "date": "2026-09-15",
@@ -1266,6 +1274,15 @@
           "region": "KSA"
         },
         {
+          "title": "Petronas, TotalEnergies Partner to Support Methane Monitoring in SE Asia",
+          "summary": "'As the first center of its kind in Southeast Asia, SEA METEC will support regional efforts to strengthen methane emissions measurement, monitoring, reporting and verification, technology research and development and…",
+          "date": "2026-09-15",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/petronas_totalenergies_partner_to_support_methane_monitoring_in_se_asia-15-sep-2026-184618-article/?rss=true",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "What Does the Yanbu Outage Mean?",
           "summary": "The East-West Pipeline was subjected to multiple attacks and subsequently shut down, a statement posted on the official X page of Saudi Arabia's Ministry of Energy revealed.",
           "date": "2026-09-15",
@@ -1302,15 +1319,6 @@
           "region": "UAE"
         },
         {
-          "title": "Germany-UAE energy ties deepen as RWE, Masdar and ADNOC eye LNG supply and €3B offshore wind investment",
-          "summary": "Germany and the United Arab Emirates are stepping up energy cooperation, with German power producer RWE joining Abu Dhabi clean-energy firm Masdar and oil and gas giant ADNOC to pursue plans spanning more than €3…",
-          "date": "2026-09-14",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/germany-uae-energy-ties-deepen-as-rwe-masdar-and-adnoc-eye-lng-supply-and-e3b-offshore-wind-investment/",
-          "relevant": true,
-          "region": "UAE"
-        },
-        {
           "title": "Oil Climbs Amid Saudi Pipeline Halt",
           "summary": "Crude gained as the Saudi East-West pipeline closure heightened fears of tighter global supplies.",
           "date": "2026-09-14",
@@ -1336,6 +1344,15 @@
           "source_url": "https://www.oedigital.com/news/542904-petronas-pttep-get-approvals-for-new-gas-block-sharing-contract",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Germany-UAE energy ties deepen as RWE, Masdar and ADNOC eye LNG supply and €3B offshore wind investment",
+          "summary": "Germany and the United Arab Emirates are stepping up energy cooperation, with German power producer RWE joining Abu Dhabi clean-energy firm Masdar and oil and gas giant ADNOC to pursue plans spanning more than €3…",
+          "date": "2026-09-14",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/germany-uae-energy-ties-deepen-as-rwe-masdar-and-adnoc-eye-lng-supply-and-e3b-offshore-wind-investment/",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "XRG, ADNOC and SEFE Deepen Gas Ties in Europe",
