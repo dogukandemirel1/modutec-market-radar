@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T07:00:59Z",
+  "last_updated": "2026-09-15T08:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -65,11 +65,19 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "SFL locks in $750m with Hapag-Lloyd extensions",
-          "summary": "John Fredriksen-backed SFL Corporation has added another $750m to its contracted revenue after agreeing seven-year charter extensions with Hapag-Lloyd on six 15,400 teu containerships. The renewed fixtures will keep the…",
-          "date": "2026-09-14",
+          "title": "Saipem lands $350m Angola offshore contract",
+          "summary": "Italian offshore engineering contractor Saipem has been awarded a new offshore contract in Angola worth around $350m. The contract has been awarded by Azule Energy, a joint venture owned by Eni and BP, and relates to…",
+          "date": "2026-09-15",
           "source_name": "Splash247",
-          "source_url": "https://splash247.com/sfl-locks-in-750m-with-hapag-lloyd-extensions/",
+          "source_url": "https://splash247.com/saipem-lands-350m-angola-offshore-contract/",
+          "relevant": false
+        },
+        {
+          "title": "Hornbeck wins decommissioning work in North Sea",
+          "summary": "US offshore vessel owner Hornbeck Offshore Services has secured a multi-year decommissioning contract with an unnamed North Sea operator. The contract, awarded to the company’s subsidiary Helix Well Ops, is expected to…",
+          "date": "2026-09-15",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/hornbeck-wins-decommissioning-work-in-north-sea/",
           "relevant": false
         },
         {
@@ -118,6 +126,14 @@
           "date": "2026-09-14",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542906-saipem-secures-350m-subsea-job-at-azule-energy-s-angola-oil-project",
+          "relevant": false
+        },
+        {
+          "title": "SFL locks in $750m with Hapag-Lloyd extensions",
+          "summary": "John Fredriksen-backed SFL Corporation has added another $750m to its contracted revenue after agreeing seven-year charter extensions with Hapag-Lloyd on six 15,400 teu containerships. The renewed fixtures will keep the…",
+          "date": "2026-09-14",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/sfl-locks-in-750m-with-hapag-lloyd-extensions/",
           "relevant": false
         },
         {
@@ -673,19 +689,19 @@
           "relevant": false
         },
         {
-          "title": "COSCO readies listing of its shipyard division",
-          "summary": "COSCO Shipping Heavy Industry has taken its first formal step towards an A-share listing in Shanghai. China’s securities regulator disclosed that the shipbuilding and repair giant registered for listing guidance on…",
-          "date": "2026-09-14",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/cosco-readies-listing-of-its-shipyard-division/",
-          "relevant": false
-        },
-        {
           "title": "Greater Sunrise Gas Production Pushed Back to 2034",
           "summary": "The Greater Sunrise natural gas project has pushed back its earliest possible production start by two years to 2034, East Timor's petroleum minister said, tightening…",
           "date": "2026-09-14",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542899-greater-sunrise-gas-production-pushed-back-to-2034",
+          "relevant": false
+        },
+        {
+          "title": "COSCO readies listing of its shipyard division",
+          "summary": "COSCO Shipping Heavy Industry has taken its first formal step towards an A-share listing in Shanghai. China’s securities regulator disclosed that the shipbuilding and repair giant registered for listing guidance on…",
+          "date": "2026-09-14",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/cosco-readies-listing-of-its-shipyard-division/",
           "relevant": false
         },
         {
@@ -952,6 +968,22 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "InterMaritime and Carsten Rehder form Hamburg shipmanagement joint venture",
+          "summary": "InterMaritime Group and Hamburg-based Carsten Rehder have formed a shipmanagement joint venture aimed at expanding their presence across Germany and Northern Europe. The two companies will take equal ownership in…",
+          "date": "2026-09-15",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/intermaritime-and-carsten-rehder-form-hamburg-shipmanagement-joint-venture/",
+          "relevant": false
+        },
+        {
+          "title": "Borr Drilling hands operating control of three jackups to Mexican partner",
+          "summary": "Offshore driller Borr Drilling has entered into definitive agreements to divest its 51% equity interest in two Mexican subsidiaries to a local partner. Upon completion of the transaction, Borr Drilling will have fully…",
+          "date": "2026-09-15",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/borr-drilling-hands-operating-control-of-three-jackups-to-mexican-partner/",
+          "relevant": false
+        },
         {
           "title": "Quantum Systems launches Maritime domain, introducing Seavex and Subvex",
           "summary": "Quantum Systems expands into the maritime domain with Seavex and Subvex, introducing new autonomous surface and underwater systems integrated via MOSAIC UXS. The post Quantum Systems launches Maritime domain…",
