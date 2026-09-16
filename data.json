@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T12:01:00Z",
+  "last_updated": "2026-09-16T13:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -70,6 +70,14 @@
           "date": "2026-09-16",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/eni-adds-halliburton-to-cronos-contractor-lineup/",
+          "relevant": false
+        },
+        {
+          "title": "Castelion Secures U.S. Navy Production Order for Blackbeard Hypersonic Weapon",
+          "summary": "U.S. Navy awards Castelion a production delivery order valued at up to $200 million to manufacture Blackbeard hypersonic strike weapons for carrier-based aviation. The post Castelion Secures U.S. Navy Production Order…",
+          "date": "2026-09-16",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/castelion-secures-u-s-navy-production-order-for-blackbeard-hypersonic-weapon/",
           "relevant": false
         },
         {
