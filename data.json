@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T08:00:57Z",
+  "last_updated": "2026-09-16T09:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -81,14 +81,6 @@
           "relevant": false
         },
         {
-          "title": "TechnipFMC scores Petronas subsea contract",
-          "summary": "Offshore contracting giant TechnipFMC has been awarded an integrated engineering, procurement, construction, and installation (iEPCI) contract by Petronas Carigali for the Limbayong deepwater project offshore Malaysia…",
-          "date": "2026-09-16",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/technipfmc-scores-petronas-subsea-contract/",
-          "relevant": false
-        },
-        {
           "title": "Hanwha Ocean to Conduct ROK Navy’s First Outsourced Destroyer Overhaul",
           "summary": "Hanwha Ocean has won a contract to overhaul ROKS Sejong-the-Great, marking the ROK Navy's first outsourced depot-level maintenance for a surface combatant. The post Hanwha Ocean to Conduct ROK Navy’s First Outsourced…",
           "date": "2026-09-16",
@@ -102,6 +94,14 @@
           "date": "2026-09-16",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/halliburton-well-services-contract-cronos-project/",
+          "relevant": false
+        },
+        {
+          "title": "TechnipFMC scores Petronas subsea contract",
+          "summary": "Offshore contracting giant TechnipFMC has been awarded an integrated engineering, procurement, construction, and installation (iEPCI) contract by Petronas Carigali for the Limbayong deepwater project offshore Malaysia…",
+          "date": "2026-09-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/technipfmc-scores-petronas-subsea-contract/",
           "relevant": false
         },
         {
@@ -1105,6 +1105,22 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Implications of the Hangor-class for Pakistan’s operational naval posture and strategic sovereignty",
+          "summary": "This Naval News outline examines the importance of the Hangor-class submarines acquisition for the operational priorities of the Pakistan Navy, the industrial perspective for Islamabad and Beijing. The feature also…",
+          "date": "2026-09-16",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/features/2026/09/pakistans-hangor-class-and-naval-strategic-souvereignty/",
+          "relevant": false
+        },
+        {
+          "title": "Borr Drilling Reshapes Mexico Operations, Extends Rig Backlog",
+          "summary": "Borr Drilling has agreed to sell its 51% stake in two Mexican joint ventures to its local partner, while retaining ownership of three jack-up rigs working for Pemex…",
+          "date": "2026-09-16",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542979-borr-drilling-reshapes-mexico-operations-extends-rig-backlog",
+          "relevant": false
+        },
+        {
           "title": "Saipem hands Saudi jack-up fleet to ADES in strategic shallow-water exit",
           "summary": "Italy’s engineering, drilling, and construction services company Saipem has divested its shallow-water drilling business in Saudi Arabia to ADES Saudi Limited Company, an indirect subsidiary of Saudi…",
           "date": "2026-09-15",
@@ -1366,6 +1382,15 @@
           "date": "2026-09-16",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/china-opens-pinglu-canal-carving-a-new-southwest-route-to-the-sea/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Valeura Finds New Oil Near Manora Field in Gulf of Thailand",
+          "summary": "Valeura Energy has discovered a new oil accumulation near its Manora field in the Gulf of Thailand, with drilling results prompting the company to move immediately…",
+          "date": "2026-09-16",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542978-valeura-finds-new-oil-near-manora-field-in-gulf-of-thailand",
           "relevant": false,
           "region": "SEA"
         },
