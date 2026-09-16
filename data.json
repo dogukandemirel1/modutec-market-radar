@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T09:15:28Z",
+  "last_updated": "2026-09-16T10:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -65,11 +65,11 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Transocean wins fresh Equatorial Guinea drillship contract",
-          "summary": "Swiss-based offshore drilling giant Transocean has won drillship work in Equatorial Guinea with an undisclosed operator. Transocean said it was awarded a two-well contract for its 2016-built drillship Deepwater…",
+          "title": "Eni adds Halliburton to Cronos contractor lineup",
+          "summary": "Houston-headquartered energy services giant Halliburton has won a bundled well construction and completions contract from Eni for the Cronos ultra-deepwater development off Cyprus. Under the contract, Halliburton will…",
           "date": "2026-09-16",
           "source_name": "Splash247",
-          "source_url": "https://splash247.com/transocean-lands-drillship-work-in-equatorial-guinea/",
+          "source_url": "https://splash247.com/eni-adds-halliburton-to-cronos-contractor-lineup/",
           "relevant": false
         },
         {
@@ -86,6 +86,14 @@
           "date": "2026-09-16",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/halliburton-well-services-contract-cronos-project/",
+          "relevant": false
+        },
+        {
+          "title": "Transocean wins fresh Equatorial Guinea drillship contract",
+          "summary": "Swiss-based offshore drilling giant Transocean has won drillship work in Equatorial Guinea with an undisclosed operator. Transocean said it was awarded a two-well contract for its 2016-built drillship Deepwater…",
+          "date": "2026-09-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/transocean-lands-drillship-work-in-equatorial-guinea/",
           "relevant": false
         },
         {
@@ -1104,6 +1112,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "SGMF completes three-fuel lifecycle picture",
+          "summary": "Shipping’s alternative fuel debate has acquired a useful new reference point with an important fuel body completing lifecycle assessments of LNG, ammonia and now methanol — and the clearest conclusion is that the…",
+          "date": "2026-09-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/sgmf-completes-three-fuel-lifecycle-picture/",
+          "relevant": false
+        },
         {
           "title": "Implications of the Hangor-class for Pakistan’s operational naval posture and strategic sovereignty",
           "summary": "This Naval News outline examines the importance of the Hangor-class submarines acquisition for the operational priorities of the Pakistan Navy, the industrial perspective for Islamabad and Beijing. The feature also…",
