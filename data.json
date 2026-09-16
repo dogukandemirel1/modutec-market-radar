@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T16:01:00Z",
+  "last_updated": "2026-09-16T17:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -94,6 +94,14 @@
           "date": "2026-09-16",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/transocean-drillship-lands-new-work-offshore-equatorial-guinea-79964",
+          "relevant": false
+        },
+        {
+          "title": "First Virginia Payload Module (VPM) Spotted for U.S. Navy’s Block V Submarines",
+          "summary": "General Dynamics Electric Boat has shared a photo showing the first completed Virginia Payload Module (VPM) for the U.S. Navy's Block V submarines, expanding strike capacity. The post First Virginia Payload Module (VPM)…",
+          "date": "2026-09-16",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/slug-first-virginia-payload-module-vpm-spotted-block-v-submarines/",
           "relevant": false
         },
         {
@@ -273,19 +281,19 @@
           "relevant": false
         },
         {
-          "title": "Zefiro secures state-funded well-plugging contract in Great Lakes region",
-          "summary": "Zefiro was awarded a well-plugging services contract by an environmental protection department for a state in the Great Lakes region, with work scheduled to run from November 2026 through June 2029. The contract will be…",
-          "date": "2026-09-14",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/zefiro-secures-state-funded-well-plugging-contract-in-great-lakes-region-79941",
-          "relevant": false
-        },
-        {
           "title": "France Launches Procurement for New Embarked Long-Endurance USV",
           "summary": "The French DGA has launched a formal tender for embarked, long-endurance surface drones to support French Navy ISR missions, but the technical requirements for the USV are quite challenging. The post France Launches…",
           "date": "2026-09-14",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/09/france-procurement-embarked-long-endurance-surface-drones/",
+          "relevant": false
+        },
+        {
+          "title": "Zefiro secures state-funded well-plugging contract in Great Lakes region",
+          "summary": "Zefiro was awarded a well-plugging services contract by an environmental protection department for a state in the Great Lakes region, with work scheduled to run from November 2026 through June 2029. The contract will be…",
+          "date": "2026-09-14",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/zefiro-secures-state-funded-well-plugging-contract-in-great-lakes-region-79941",
           "relevant": false
         },
         {
