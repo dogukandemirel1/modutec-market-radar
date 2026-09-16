@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T20:00:59Z",
+  "last_updated": "2026-09-16T21:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1562,6 +1562,15 @@
           "source_url": "https://www.offshore-energy.biz/southeast-asias-hydrocarbon-push-valeura-hits-oil-pay-eyes-new-satellite-development/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Oil Falls as Saudi Supply Outlook Improves",
+          "summary": "Crude futures fell as Saudi and Libyan supply disruptions showed signs of easing.",
+          "date": "2026-09-16",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/oil_falls_as_saudi_supply_outlook_improves-16-sep-2026-184635-article/?rss=true",
+          "relevant": false,
+          "region": "KSA"
         },
         {
           "title": "First Turbine Stands Tall at Vietnam’s 128MW Offshore Wind Farm",
