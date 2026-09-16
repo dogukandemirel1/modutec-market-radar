@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T15:01:01Z",
+  "last_updated": "2026-09-16T16:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -73,11 +73,27 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Fox News: Iran Attack Hits U.S.-Contracted Ship Carrying American Personnel",
+          "summary": "A U.S.-contracted vessel carrying American personnel was struck in an Iranian drone and missile attack near the Strait of Hormuz earlier this week, Fox News reported Wednesday, citing two sources...",
+          "date": "2026-09-16",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/fox-news-iran-attack-hits-u-s-contracted-ship-carrying-american-personnel/",
+          "relevant": false
+        },
+        {
           "title": "Eni adds Halliburton to Cronos contractor lineup",
           "summary": "Houston-headquartered energy services giant Halliburton has won a bundled well construction and completions contract from Eni for the Cronos ultra-deepwater development off Cyprus. Under the contract, Halliburton will…",
           "date": "2026-09-16",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/eni-adds-halliburton-to-cronos-contractor-lineup/",
+          "relevant": false
+        },
+        {
+          "title": "Transocean drillship lands new work offshore Equatorial Guinea",
+          "summary": "Transocean secured a two-well contract for the ultra-deepwater drillship Deepwater Conqueror to work offshore Equatorial Guinea for an undisclosed operator. The estimated 170-day campaign is expected to begin in 2027…",
+          "date": "2026-09-16",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/transocean-drillship-lands-new-work-offshore-equatorial-guinea-79964",
           "relevant": false
         },
         {
@@ -97,6 +113,22 @@
           "relevant": false
         },
         {
+          "title": "Halliburton bags Eni’s deepwater bundle as Eastern Mediterranean gas buildout continues",
+          "summary": "U.S.-headquartered oilfield services player Halliburton has secured a multi-year contract with Italy’s energy giant Eni to provide bundled well construction and completions services for an ultra-deepwater development in…",
+          "date": "2026-09-16",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/halliburton-bags-enis-deepwater-bundle-as-eastern-mediterranean-gas-buildout-continues/",
+          "relevant": false
+        },
+        {
+          "title": "TechnipFMC picks up multimillion-dollar subsea scope for Petronas’ deepwater project",
+          "summary": "UK-headquartered energy technology provider TechnipFMC has been tasked with an integrated engineering, procurement, construction, and installation (iEPCI) assignment for the development of a long-delayed deepwater…",
+          "date": "2026-09-16",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/technipfmc-picks-up-multimillion-dollar-subsea-scope-for-petronas-deepwater-project/",
+          "relevant": false
+        },
+        {
           "title": "FSRU docks in Stade as LNG terminal prepares to feed gas into German grid from November",
           "summary": "A 294-meter floating storage and regasification unit (FSRU) has arrived at the new liquefied natural gas (LNG) terminal in Stade, marking the start of commissioning preparations and bringing the facility a step closer…",
           "date": "2026-09-16",
@@ -110,6 +142,14 @@
           "date": "2026-09-16",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/halliburton-well-services-contract-cronos-project/",
+          "relevant": false
+        },
+        {
+          "title": "Northrop Grumman wins contract for Marine UH-1Y, AH-1Z Link 16 kits",
+          "summary": "Northrop Grumman received a $34.39m contract to provide Link 16 upgrade kits and spares for the US Marine Corps’ UH-1Y and AH-1Z helicopters. The post Northrop Grumman wins contract for Marine UH-1Y, AH-1Z Link 16 kits…",
+          "date": "2026-09-16",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/northrop-grumman-marines-helicopters/",
           "relevant": false
         },
         {
@@ -1185,6 +1225,14 @@
           "relevant": false
         },
         {
+          "title": "Kimmeridge, Mubadala to Nearly Double Commonwealth LNG Capacity",
+          "summary": "Caturus, the joint venture of Kimmeridge and Mubadala, plans to add five liquefaction trains with a combined capacity of 7.75 million metric tons per annum to the Commonwealth LNG export project in Louisiana.",
+          "date": "2026-09-16",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/kimmeridge_mubadala_to_nearly_double_commonwealth_lng_capacity-16-sep-2026-184634-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "BKV Expands Barnett Shale Footprint",
           "summary": "BKV said it had acquired upstream, midstream and carbon capture and storage assets in the Barnett Shale that grow its proven developed producing reserves by about 350 billion cubic feet equivalent.",
           "date": "2026-09-16",
@@ -1233,19 +1281,19 @@
           "relevant": false
         },
         {
-          "title": "Borr Drilling keeps three jack-up rigs as it reorganizes Mexico ops with stake sale",
-          "summary": "Borr Drilling, an offshore drilling player with its corporate base in Bermuda, has taken steps to streamline its operations in Mexico through a sale of its interests in joint ventures Perforaciones Estratégicas e…",
-          "date": "2026-09-15",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/borr-drilling-keeps-three-jack-up-rigs-as-it-reorganizes-mexico-ops-with-stake-sale/",
-          "relevant": false
-        },
-        {
           "title": "Kistos Completes Acquisition of Stakes in Omani Producing Blocks",
           "summary": "London-based Kistos consummated the purchase of Mitsui's stakes in Blocks 3 and 4 onshore Oman, marking its entry into the Middle East.",
           "date": "2026-09-15",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/kistos_completes_acquisition_of_stakes_in_omani_producing_blocks-15-sep-2026-184622-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Borr Drilling keeps three jack-up rigs as it reorganizes Mexico ops with stake sale",
+          "summary": "Borr Drilling, an offshore drilling player with its corporate base in Bermuda, has taken steps to streamline its operations in Mexico through a sale of its interests in joint ventures Perforaciones Estratégicas e…",
+          "date": "2026-09-15",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/borr-drilling-keeps-three-jack-up-rigs-as-it-reorganizes-mexico-ops-with-stake-sale/",
           "relevant": false
         },
         {
@@ -1472,6 +1520,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Valeura completes Jasmine drilling campaign, announces Suraphi discovery",
+          "summary": "Valeura Energy discovered a new oil field, named Suraphi, near its Manora field in the Gulf of Thailand, following the drilling of the Manora-9 exploration well and associated sidetracks. The D and E prospects each…",
+          "date": "2026-09-16",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/valeura-completes-jasmine-drilling-campaign-announces-suraphi-discovery-79961",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Southeast Asia’s hydrocarbon push: Valeura hits oil pay, eyes new satellite development",
           "summary": "Southeast Asia’s hydrocarbon sector has gained fresh momentum as Canadian oil and gas company Valeura Energy struck an oil discovery near its existing offshore field in the Gulf of Thailand, potentially supporting a new…",
