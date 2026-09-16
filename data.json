@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T21:00:58Z",
+  "last_updated": "2026-09-16T22:01:34Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -209,14 +209,6 @@
           "relevant": false
         },
         {
-          "title": "Oil Prices Surge as Saudi Red Sea Loadings Halt, Libya Shuts Fields",
-          "summary": "Oil prices rose by over $3 on Tuesday after shipping industry sources said oil loadings at Saudi Arabia's Red Sea port of Yanbu had been suspended, and Libya halted operations at three oil fields, heightening concerns…",
-          "date": "2026-09-15",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/oil-prices-surge-as-saudi-red-sea-loadings-halt-libya-shuts-fields/",
-          "relevant": true
-        },
-        {
           "title": "Wood secures $200m contract from ExxonMobil for PNG LNG project",
           "summary": "Wood has secured a $200m contract from ExxonMobil PNG to deliver construction services for the PNG LNG Project in Papua New Guinea (PNG).",
           "date": "2026-09-15",
@@ -247,6 +239,14 @@
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542950-petrobras-taps-strohm-for-deepwater-pipe-supply",
           "relevant": false
+        },
+        {
+          "title": "Oil Prices Surge as Saudi Red Sea Loadings Halt, Libya Shuts Fields",
+          "summary": "Oil prices rose by over $3 on Tuesday after shipping industry sources said oil loadings at Saudi Arabia's Red Sea port of Yanbu had been suspended, and Libya halted operations at three oil fields, heightening concerns…",
+          "date": "2026-09-15",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/oil-prices-surge-as-saudi-red-sea-loadings-halt-libya-shuts-fields/",
+          "relevant": true
         },
         {
           "title": "Coast Guard Awards $173.7 Million for New Polar Cutter Berths in Seattle",
