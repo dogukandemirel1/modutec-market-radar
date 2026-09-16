@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T13:00:59Z",
+  "last_updated": "2026-09-16T14:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -89,11 +89,27 @@
           "relevant": false
         },
         {
+          "title": "FSRU docks in Stade as LNG terminal prepares to feed gas into German grid from November",
+          "summary": "A 294-meter floating storage and regasification unit (FSRU) has arrived at the new liquefied natural gas (LNG) terminal in Stade, marking the start of commissioning preparations and bringing the facility a step closer…",
+          "date": "2026-09-16",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/fsru-docks-in-stade-as-lng-terminal-prepares-to-feed-gas-into-german-grid-from-november/",
+          "relevant": false
+        },
+        {
           "title": "Halliburton wins well services contract for Eni’s Cronos project",
           "summary": "Halliburton has been awarded a contract by Eni to provide a bundled package of well construction and completions services for the Cronos project offshore Cyprus.",
           "date": "2026-09-16",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/halliburton-well-services-contract-cronos-project/",
+          "relevant": false
+        },
+        {
+          "title": "Lithuania’s Klaipėda Port lands $115m EIB loan to bolster defence role",
+          "summary": "Lithuania’s Klaipėda State Seaport has secured a €100m ($115m) loan from the European Investment Bank (EIB) to upgrade its defence and energy infrastructure as security concerns rise in the Baltic region following…",
+          "date": "2026-09-16",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/lithuania-klaipeda-port-eib-loan/",
           "relevant": false
         },
         {
@@ -1150,6 +1166,14 @@
           "date": "2026-09-16",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/features/2026/09/pakistans-hangor-class-and-naval-strategic-souvereignty/",
+          "relevant": false
+        },
+        {
+          "title": "BKV Expands Barnett Shale Footprint",
+          "summary": "BKV said it had acquired upstream, midstream and carbon capture and storage assets in the Barnett Shale that grow its proven developed producing reserves by about 350 billion cubic feet equivalent.",
+          "date": "2026-09-16",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/bkv_expands_barnett_shale_footprint-16-sep-2026-184630-article/?rss=true",
           "relevant": false
         },
         {
