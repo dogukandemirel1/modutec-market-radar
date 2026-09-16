@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T06:00:59Z",
+  "last_updated": "2026-09-16T07:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -745,6 +745,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Maritime’s next digital leap is organisational",
+          "summary": "Shipping’s resistance to digital change is often blamed on age, regulation and risk aversion. It’s more nuanced than that as this latest from our new SplashTech magazine explains. The most revealing answer to a…",
+          "date": "2026-09-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/maritimes-next-digital-leap-is-organisational/",
+          "relevant": false
+        },
+        {
           "title": "Russia and Ukraine Press on With Energy Strikes Despite Trump",
           "summary": "Russia hit petrol stations in Kyiv on Tuesday and Ukraine struck a Russian oil refinery, as the warring sides carried on with strikes on each other's energy targets despite an announcement by U.S. President Donald Trump…",
           "date": "2026-09-15",
@@ -1312,6 +1320,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "China opens Pinglu Canal, carving a new southwest route to the sea",
+          "summary": "China has opened the 134.2 km Pinglu Canal, creating a new river-to-sea artery from the country’s southwest directly to the Beibu Gulf and potentially redrawing inland freight flows towards Southeast Asia. Built at a…",
+          "date": "2026-09-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/china-opens-pinglu-canal-carving-a-new-southwest-route-to-the-sea/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Arabian Drilling signs five-year deal for 8 land rigs with SLB",
           "summary": "Arabian Drilling signed a five-year contract with SLB Middle East for eight additional land rigs supporting gas lump-sum turnkey (LSTK) operations in Saudi Arabia. The rigs will be redeployed from Arabian Drilling’s…",
