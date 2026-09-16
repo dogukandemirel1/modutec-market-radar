@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T10:00:56Z",
+  "last_updated": "2026-09-16T11:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -793,6 +793,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Equinor Gets Clearance for Drilling Ops in North Sea",
+          "summary": "The Norwegian Offshore Directorate has granted Equinor a drilling permit for a wildcat well in the North Sea.The permit is for wellbore 25/9-5 S in production license 1042…",
+          "date": "2026-09-16",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542981-equinor-gets-clearance-for-drilling-ops-in-north-sea",
+          "relevant": false
+        },
+        {
           "title": "Maritime’s next digital leap is organisational",
           "summary": "Shipping’s resistance to digital change is often blamed on age, regulation and risk aversion. It’s more nuanced than that as this latest from our new SplashTech magazine explains. The most revealing answer to a…",
           "date": "2026-09-16",
@@ -1129,6 +1137,14 @@
           "relevant": false
         },
         {
+          "title": "EU Set to Restart Scrutiny of Subsea 7-Saipem Combination",
+          "summary": "The European Commission will likely comment within the next 24 hours on a reopening of its antitrust probe of the merger between Norway's Subsea 7 and Italy's Saipem…",
+          "date": "2026-09-16",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542983-eu-set-to-restart-scrutiny-of-subsea-7-saipem-combination",
+          "relevant": false
+        },
+        {
           "title": "Borr Drilling Reshapes Mexico Operations, Extends Rig Backlog",
           "summary": "Borr Drilling has agreed to sell its 51% stake in two Mexican joint ventures to its local partner, while retaining ownership of three jack-up rigs working for Pemex…",
           "date": "2026-09-16",
@@ -1393,11 +1409,11 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "China opens Pinglu Canal, carving a new southwest route to the sea",
-          "summary": "China has opened the 134.2 km Pinglu Canal, creating a new river-to-sea artery from the country’s southwest directly to the Beibu Gulf and potentially redrawing inland freight flows towards Southeast Asia. Built at a…",
+          "title": "First Turbine Stands Tall at Vietnam’s 128MW Offshore Wind Farm",
+          "summary": "Chinese supplier Envision Energy has installed the first turbine at the 128 MW Vinh Long nearshore wind project in Vietnam, marking the first turbine installation…",
           "date": "2026-09-16",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/china-opens-pinglu-canal-carving-a-new-southwest-route-to-the-sea/",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542982-first-turbine-stands-tall-at-vietnam-s-128mw-offshore-wind-farm",
           "relevant": false,
           "region": "SEA"
         },
@@ -1416,6 +1432,15 @@
           "date": "2026-09-16",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542978-valeura-finds-new-oil-near-manora-field-in-gulf-of-thailand",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "China opens Pinglu Canal, carving a new southwest route to the sea",
+          "summary": "China has opened the 134.2 km Pinglu Canal, creating a new river-to-sea artery from the country’s southwest directly to the Beibu Gulf and potentially redrawing inland freight flows towards Southeast Asia. Built at a…",
+          "date": "2026-09-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/china-opens-pinglu-canal-carving-a-new-southwest-route-to-the-sea/",
           "relevant": false,
           "region": "SEA"
         },
