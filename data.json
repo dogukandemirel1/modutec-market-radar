@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T07:01:01Z",
+  "last_updated": "2026-09-16T08:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -64,6 +64,46 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Transocean wins fresh Equatorial Guinea drillship contract",
+          "summary": "Swiss-based offshore drilling giant Transocean has won drillship work in Equatorial Guinea with an undisclosed operator. Transocean said it was awarded a two-well contract for its 2016-built drillship Deepwater…",
+          "date": "2026-09-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/transocean-lands-drillship-work-in-equatorial-guinea/",
+          "relevant": false
+        },
+        {
+          "title": "Borr lines up fresh work for jackup duo",
+          "summary": "The Oslo- and New York-listed offshore driller Borr Drilling has won a new contract and an extension for two of its rigs. The 2013-built jackup Idun won a contract with an undisclosed operator in Vietnam. The three-well…",
+          "date": "2026-09-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/borr-lines-up-fresh-work-for-jackup-duo/",
+          "relevant": false
+        },
+        {
+          "title": "TechnipFMC scores Petronas subsea contract",
+          "summary": "Offshore contracting giant TechnipFMC has been awarded an integrated engineering, procurement, construction, and installation (iEPCI) contract by Petronas Carigali for the Limbayong deepwater project offshore Malaysia…",
+          "date": "2026-09-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/technipfmc-scores-petronas-subsea-contract/",
+          "relevant": false
+        },
+        {
+          "title": "Hanwha Ocean to Conduct ROK Navy’s First Outsourced Destroyer Overhaul",
+          "summary": "Hanwha Ocean has won a contract to overhaul ROKS Sejong-the-Great, marking the ROK Navy's first outsourced depot-level maintenance for a surface combatant. The post Hanwha Ocean to Conduct ROK Navy’s First Outsourced…",
+          "date": "2026-09-16",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/hanwha-ocean-roks-sejong-the-great-overhaul/",
+          "relevant": false
+        },
+        {
+          "title": "Halliburton wins well services contract for Eni’s Cronos project",
+          "summary": "Halliburton has been awarded a contract by Eni to provide a bundled package of well construction and completions services for the Cronos project offshore Cyprus.",
+          "date": "2026-09-16",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/halliburton-well-services-contract-cronos-project/",
+          "relevant": false
+        },
         {
           "title": "Master Boat Builders Wins First Navy Prime Contract for Landing Craft",
           "summary": "Master Boat Builders has secured its first U.S. Navy defense shipbuilding contract as a prime shipyard, winning an agreement to build three new Landing Craft Utility vessels at its yard...",
@@ -1065,14 +1105,6 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
-          "title": "ADES wraps up purchase of Saipem’s Saudi drilling business",
-          "summary": "Saudi oil and gas driller ADES has completed its acquisition of Saipem’s Saudi shallow-water drilling business. The two entered into the transaction in late June. Under the deal, ADES’s indirectly owned subsidiary, ADES…",
-          "date": "2026-09-15",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/ades-wraps-up-purchase-of-saipems-saudi-drilling-business/",
-          "relevant": false
-        },
-        {
           "title": "Saipem hands Saudi jack-up fleet to ADES in strategic shallow-water exit",
           "summary": "Italy’s engineering, drilling, and construction services company Saipem has divested its shallow-water drilling business in Saudi Arabia to ADES Saudi Limited Company, an indirect subsidiary of Saudi…",
           "date": "2026-09-15",
@@ -1102,6 +1134,14 @@
           "date": "2026-09-15",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/kistos_completes_acquisition_of_stakes_in_omani_producing_blocks-15-sep-2026-184622-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "ADES wraps up purchase of Saipem’s Saudi drilling business",
+          "summary": "Saudi oil and gas driller ADES has completed its acquisition of Saipem’s Saudi shallow-water drilling business. The two entered into the transaction in late June. Under the deal, ADES’s indirectly owned subsidiary, ADES…",
+          "date": "2026-09-15",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/ades-wraps-up-purchase-of-saipems-saudi-drilling-business/",
           "relevant": false
         },
         {
