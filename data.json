@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T23:01:07Z",
+  "last_updated": "2026-09-16T00:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -64,6 +64,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Master Boat Builders Wins First Navy Prime Contract for Landing Craft",
+          "summary": "Master Boat Builders has secured its first U.S. Navy defense shipbuilding contract as a prime shipyard, winning an agreement to build three new Landing Craft Utility vessels at its yard...",
+          "date": "2026-09-15",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/master-boat-builders-wins-first-navy-prime-contract-for-landing-craft/",
+          "relevant": false
+        },
         {
           "title": "Oil Prices Surge as Saudi Red Sea Loadings Halt, Libya Shuts Fields",
           "summary": "Oil prices rose by over $3 on Tuesday after shipping industry sources said oil loadings at Saudi Arabia's Red Sea port of Yanbu had been suspended, and Libya halted operations at three oil fields, heightening concerns…",
