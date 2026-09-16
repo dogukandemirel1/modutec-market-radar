@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T17:01:00Z",
+  "last_updated": "2026-09-16T18:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -881,6 +881,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "South Korean Carrier Bets on 20-Day Arctic Route to Europe",
+          "summary": "South Korea’s PanStar Group plans to expand Arctic container voyages from next year after completing a trial run to Europe in about 20 days, betting that a seasonal service focused on high-value cargo can compete with…",
+          "date": "2026-09-16",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/south-korean-carrier-bets-on-20-day-arctic-route-to-europe/",
+          "relevant": false
+        },
+        {
           "title": "Equinor Gets Clearance for Drilling Ops in North Sea",
           "summary": "The Norwegian Offshore Directorate has granted Equinor a drilling permit for a wildcat well in the North Sea.The permit is for wellbore 25/9-5 S in production license 1042…",
           "date": "2026-09-16",
@@ -1528,6 +1536,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Saudis Pivot to Send More Oil Via Hormuz After Pipeline Shut",
+          "summary": "Saudi Arabia is ramping up prompt sales of crude from outside the Strait of Hormuz following the shutdown of the kingdom’s East-West pipeline, which halted cross-country flows to its Red Sea coast.",
+          "date": "2026-09-16",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/saudis-pivot-to-send-more-oil-via-hormuz-after-pipeline-shut/",
+          "relevant": true,
+          "region": "KSA"
+        },
         {
           "title": "Valeura completes Jasmine drilling campaign, announces Suraphi discovery",
           "summary": "Valeura Energy discovered a new oil field, named Suraphi, near its Manora field in the Gulf of Thailand, following the drilling of the Manora-9 exploration well and associated sidetracks. The D and E prospects each…",
