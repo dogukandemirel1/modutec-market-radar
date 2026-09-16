@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T11:00:57Z",
+  "last_updated": "2026-09-16T12:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -87,6 +87,14 @@
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/halliburton-well-services-contract-cronos-project/",
           "relevant": false
+        },
+        {
+          "title": "Saudi Export Disruptions Push Oil to Four-Month Highs",
+          "summary": "Oil prices settled $3 higher on Tuesday after shipping industry sources said crude loadings at Saudi Arabia's Red Sea export hub of Yanbu had been suspended and…",
+          "date": "2026-09-16",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542985-saudi-export-disruptions-push-oil-to-four-month-highs",
+          "relevant": true
         },
         {
           "title": "Transocean wins fresh Equatorial Guinea drillship contract",
@@ -1134,6 +1142,14 @@
           "date": "2026-09-16",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/features/2026/09/pakistans-hangor-class-and-naval-strategic-souvereignty/",
+          "relevant": false
+        },
+        {
+          "title": "Borr Drilling to sell 51% stake in Perfomex to Mexican partner",
+          "summary": "Borr Drilling has signed definitive agreements to sell its 51% equity interest in the Mexican well services joint venture (JV) Perfomex to its local partner.",
+          "date": "2026-09-16",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/borr-drilling-to-sell-51-stake-perfomex/",
           "relevant": false
         },
         {
