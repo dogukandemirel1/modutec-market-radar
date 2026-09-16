@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T14:01:01Z",
+  "last_updated": "2026-09-16T15:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8,6 +8,14 @@
       "short_title": "Day-Rates",
       "description": "Benchmark day-rate trends for jackups, floaters and offshore support vessels across key regions.",
       "items": [
+        {
+          "title": "Scarabeo 8 drills gas discovery for Aker BP in North Sea",
+          "summary": "Aker BP made a gas discovery in the Alpehumle prospect, about 25 km north of the Duva field in the North Sea, using Saipem’s Scarabeo 8 semisubmersible. Well 36/4-2, the first exploration well in production license…",
+          "date": "2026-09-16",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/scarabeo-8-drills-gas-discovery-for-aker-bp-in-north-sea-79959",
+          "relevant": false
+        },
         {
           "title": "Valaris Q2 2026: drillship dayrate repricing lifts rates to $416k-$433k",
           "summary": "Valaris reported Q2 2026 operating revenue of $539.2m (down from $615.2m a year earlier) and net income of $50.4m. Contract repricing lifted drillship dayrates to $416,000-$433,000/day even as idle rigs and Middle East conflict costs (~$38m negative operating income impact YTD) weighed on results ahead of its pending all-stock merger with Transocean.",
@@ -1161,6 +1169,14 @@
           "relevant": false
         },
         {
+          "title": "ADES completes acquisition of five Saipem jackups in Saudi Arabia",
+          "summary": "Saipem completed the sale of its entire shareholding in Saudi Arabian Saipem to ADES. The transaction, announced 24 June 2026, closed after Saipem obtained all applicable regulatory approvals and satisfied customary…",
+          "date": "2026-09-16",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/ades-completes-acquisition-of-five-saipem-jackups-in-saudi-arabia-79955",
+          "relevant": true
+        },
+        {
           "title": "Implications of the Hangor-class for Pakistan’s operational naval posture and strategic sovereignty",
           "summary": "This Naval News outline examines the importance of the Hangor-class submarines acquisition for the operational priorities of the Pakistan Navy, the industrial perspective for Islamabad and Beijing. The feature also…",
           "date": "2026-09-16",
@@ -1456,6 +1472,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Southeast Asia’s hydrocarbon push: Valeura hits oil pay, eyes new satellite development",
+          "summary": "Southeast Asia’s hydrocarbon sector has gained fresh momentum as Canadian oil and gas company Valeura Energy struck an oil discovery near its existing offshore field in the Gulf of Thailand, potentially supporting a new…",
+          "date": "2026-09-16",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/southeast-asias-hydrocarbon-push-valeura-hits-oil-pay-eyes-new-satellite-development/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "First Turbine Stands Tall at Vietnam’s 128MW Offshore Wind Farm",
           "summary": "Chinese supplier Envision Energy has installed the first turbine at the 128 MW Vinh Long nearshore wind project in Vietnam, marking the first turbine installation…",
