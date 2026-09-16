@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T22:01:34Z",
+  "last_updated": "2026-09-16T23:01:16Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -78,14 +78,6 @@
           "date": "2026-09-16",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/fox-news-iran-attack-hits-u-s-contracted-ship-carrying-american-personnel/",
-          "relevant": false
-        },
-        {
-          "title": "Eni adds Halliburton to Cronos contractor lineup",
-          "summary": "Houston-headquartered energy services giant Halliburton has won a bundled well construction and completions contract from Eni for the Cronos ultra-deepwater development off Cyprus. Under the contract, Halliburton will…",
-          "date": "2026-09-16",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/eni-adds-halliburton-to-cronos-contractor-lineup/",
           "relevant": false
         },
         {
@@ -175,6 +167,14 @@
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542985-saudi-export-disruptions-push-oil-to-four-month-highs",
           "relevant": true
+        },
+        {
+          "title": "Eni adds Halliburton to Cronos contractor lineup",
+          "summary": "Houston-headquartered energy services giant Halliburton has won a bundled well construction and completions contract from Eni for the Cronos ultra-deepwater development off Cyprus. Under the contract, Halliburton will…",
+          "date": "2026-09-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/eni-adds-halliburton-to-cronos-contractor-lineup/",
+          "relevant": false
         },
         {
           "title": "Transocean wins fresh Equatorial Guinea drillship contract",
@@ -1217,14 +1217,6 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
-          "title": "SGMF completes three-fuel lifecycle picture",
-          "summary": "Shipping’s alternative fuel debate has acquired a useful new reference point with an important fuel body completing lifecycle assessments of LNG, ammonia and now methanol — and the clearest conclusion is that the…",
-          "date": "2026-09-16",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/sgmf-completes-three-fuel-lifecycle-picture/",
-          "relevant": false
-        },
-        {
           "title": "ADES completes acquisition of five Saipem jackups in Saudi Arabia",
           "summary": "Saipem completed the sale of its entire shareholding in Saudi Arabian Saipem to ADES. The transaction, announced 24 June 2026, closed after Saipem obtained all applicable regulatory approvals and satisfied customary…",
           "date": "2026-09-16",
@@ -1278,6 +1270,14 @@
           "date": "2026-09-16",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542979-borr-drilling-reshapes-mexico-operations-extends-rig-backlog",
+          "relevant": false
+        },
+        {
+          "title": "SGMF completes three-fuel lifecycle picture",
+          "summary": "Shipping’s alternative fuel debate has acquired a useful new reference point with an important fuel body completing lifecycle assessments of LNG, ammonia and now methanol — and the clearest conclusion is that the…",
+          "date": "2026-09-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/sgmf-completes-three-fuel-lifecycle-picture/",
           "relevant": false
         },
         {
