@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T09:01:04Z",
+  "last_updated": "2026-09-16T09:15:28Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -73,14 +73,6 @@
           "relevant": false
         },
         {
-          "title": "Borr lines up fresh work for jackup duo",
-          "summary": "The Oslo- and New York-listed offshore driller Borr Drilling has won a new contract and an extension for two of its rigs. The 2013-built jackup Idun won a contract with an undisclosed operator in Vietnam. The three-well…",
-          "date": "2026-09-16",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/borr-lines-up-fresh-work-for-jackup-duo/",
-          "relevant": false
-        },
-        {
           "title": "Hanwha Ocean to Conduct ROK Navy’s First Outsourced Destroyer Overhaul",
           "summary": "Hanwha Ocean has won a contract to overhaul ROKS Sejong-the-Great, marking the ROK Navy's first outsourced depot-level maintenance for a surface combatant. The post Hanwha Ocean to Conduct ROK Navy’s First Outsourced…",
           "date": "2026-09-16",
@@ -94,6 +86,14 @@
           "date": "2026-09-16",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/halliburton-well-services-contract-cronos-project/",
+          "relevant": false
+        },
+        {
+          "title": "Borr lines up fresh work for jackup duo",
+          "summary": "The Oslo- and New York-listed offshore driller Borr Drilling has won a new contract and an extension for two of its rigs. The 2013-built jackup Idun won a contract with an undisclosed operator in Vietnam. The three-well…",
+          "date": "2026-09-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/borr-lines-up-fresh-work-for-jackup-duo/",
           "relevant": false
         },
         {
@@ -1382,6 +1382,15 @@
           "date": "2026-09-16",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/china-opens-pinglu-canal-carving-a-new-southwest-route-to-the-sea/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "PTTEP Gets Thai Approval for Offshore Stake Transfer to Valeura Energy",
+          "summary": "PTTEP has received Thai government approval to transfer a 40% working interest in two offshore Gulf of Thailand blocks to Valeura Energy under a strategic farm-in agreement between the companies…",
+          "date": "2026-09-16",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/542980-pttep-gets-thai-approval-for-offshore-stake-transfer-to-valeura-energy",
           "relevant": false,
           "region": "SEA"
         },
