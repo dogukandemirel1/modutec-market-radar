@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T09:24:02Z",
+  "last_updated": "2026-09-17T10:00:54Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -73,11 +73,27 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Exmar lands 10-year Abidjan FSRU deal",
+          "summary": "Belgium’s Exmar has secured a 10-year floating LNG infrastructure deal in Ivory Coast, reviving plans for an import terminal at Abidjan that have been on the drawing board for a decade. The Antwerp-based gas shipping…",
+          "date": "2026-09-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/exmar-lands-10-year-abidjan-fsru-deal/",
+          "relevant": false
+        },
+        {
           "title": "U.S. Navy Taps Three Shipyards in $280M Push to Accelerate LCU 1700 Production",
           "summary": "The U.S. Navy has awarded three prototype agreements to Conrad Shipyard, Master Boat Builders, and Saronic to accelerate LCU 1700 production. The post U.S. Navy Taps Three Shipyards in $280M Push to Accelerate LCU 1700…",
           "date": "2026-09-17",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/09/u-s-navy-taps-three-shipyards-in-280m-push-to-accelerate-lcu-1700-production/",
+          "relevant": false
+        },
+        {
+          "title": "Hornbeck Offshore wins multi-year decommissioning contract in North Sea",
+          "summary": "Hornbeck Offshore Services, which recently merged with Helix Energy Solutions, has secured a multi-year […] The post Hornbeck Offshore wins multi-year decommissioning contract in North Sea appeared first on Offshore…",
+          "date": "2026-09-17",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/hornbeck-offshore-wins-multi-year-decommissioning-contract-in-north-sea/",
           "relevant": false
         },
         {
@@ -137,6 +153,30 @@
           "relevant": false
         },
         {
+          "title": "Halliburton bags Eni’s deepwater bundle as Eastern Mediterranean gas buildout continues",
+          "summary": "U.S.-headquartered oilfield services player Halliburton has secured a multi-year contract with Italy’s energy giant Eni to provide bundled well construction and completions services for an ultra-deepwater development in…",
+          "date": "2026-09-16",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/halliburton-bags-enis-deepwater-bundle-as-eastern-mediterranean-gas-buildout-continues/",
+          "relevant": false
+        },
+        {
+          "title": "TechnipFMC picks up multimillion-dollar subsea scope for Petronas’ deepwater project",
+          "summary": "UK-headquartered energy technology provider TechnipFMC has been tasked with an integrated engineering, procurement, construction, and installation (iEPCI) assignment for the development of a long-delayed deepwater…",
+          "date": "2026-09-16",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/technipfmc-picks-up-multimillion-dollar-subsea-scope-for-petronas-deepwater-project/",
+          "relevant": false
+        },
+        {
+          "title": "FSRU docks in Stade as LNG terminal prepares to feed gas into German grid from November",
+          "summary": "A 294-meter floating storage and regasification unit (FSRU) has arrived at the new liquefied natural gas (LNG) terminal in Stade, marking the start of commissioning preparations and bringing the facility a step closer…",
+          "date": "2026-09-16",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/fsru-docks-in-stade-as-lng-terminal-prepares-to-feed-gas-into-german-grid-from-november/",
+          "relevant": false
+        },
+        {
           "title": "Halliburton wins well services contract for Eni’s Cronos project",
           "summary": "Halliburton has been awarded a contract by Eni to provide a bundled package of well construction and completions services for the Cronos project offshore Cyprus.",
           "date": "2026-09-16",
@@ -167,30 +207,6 @@
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542985-saudi-export-disruptions-push-oil-to-four-month-highs",
           "relevant": true
-        },
-        {
-          "title": "Halliburton bags Eni’s deepwater bundle as Eastern Mediterranean gas buildout continues",
-          "summary": "U.S.-headquartered oilfield services player Halliburton has secured a multi-year contract with Italy’s energy giant Eni to provide bundled well construction and completions services for an ultra-deepwater development in…",
-          "date": "2026-09-16",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/halliburton-bags-enis-deepwater-bundle-as-eastern-mediterranean-gas-buildout-continues/",
-          "relevant": false
-        },
-        {
-          "title": "TechnipFMC picks up multimillion-dollar subsea scope for Petronas’ deepwater project",
-          "summary": "UK-headquartered energy technology provider TechnipFMC has been tasked with an integrated engineering, procurement, construction, and installation (iEPCI) assignment for the development of a long-delayed deepwater…",
-          "date": "2026-09-16",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/technipfmc-picks-up-multimillion-dollar-subsea-scope-for-petronas-deepwater-project/",
-          "relevant": false
-        },
-        {
-          "title": "FSRU docks in Stade as LNG terminal prepares to feed gas into German grid from November",
-          "summary": "A 294-meter floating storage and regasification unit (FSRU) has arrived at the new liquefied natural gas (LNG) terminal in Stade, marking the start of commissioning preparations and bringing the facility a step closer…",
-          "date": "2026-09-16",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/fsru-docks-in-stade-as-lng-terminal-prepares-to-feed-gas-into-german-grid-from-november/",
-          "relevant": false
         },
         {
           "title": "Eni adds Halliburton to Cronos contractor lineup",
@@ -905,6 +921,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Philippines moves to slash shipyard red tape",
+          "summary": "The Philippines is moving to overhaul regulation of its shipbuilding and ship repair sector, targeting a one-stop shop and simplified approval process as Manila looks to make domestic yards more competitive. The…",
+          "date": "2026-09-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/philippines-moves-to-slash-shipyard-red-tape/",
+          "relevant": false
+        },
+        {
           "title": "America’s copper paradox sets up new seaborne trade flows",
           "summary": "Washington wants to bring the copper supply chain home, but the result could be record refined imports in one direction and US-mined concentrate heading back out to sea in the other. US copper policy is beginning to…",
           "date": "2026-09-17",
@@ -926,6 +950,14 @@
           "date": "2026-09-17",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/india_pushes_back_as_us_readies_new_russian_oil_sanctions-17-sep-2026-184636-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Cyber Security Regulations Drive Resilience Agenda for Offshore Energy Infrastructure",
+          "summary": "As offshore oil and gas platforms, offshore wind farms and maritime energy assets become increasingly connected, they are also becoming more exposed to sophisticated cyber threats…",
+          "date": "2026-09-17",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543028-cyber-security-regulations-drive-resilience-agenda-for-offshore-energy-infrastructure",
           "relevant": false
         },
         {
@@ -1645,6 +1677,15 @@
           "region": "SEA"
         },
         {
+          "title": "Southeast Asia’s hydrocarbon push: Valeura hits oil pay, eyes new satellite development",
+          "summary": "Southeast Asia’s hydrocarbon sector has gained fresh momentum as Canadian oil and gas company Valeura Energy struck an oil discovery near its existing offshore field in the Gulf of Thailand, potentially supporting a new…",
+          "date": "2026-09-16",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/southeast-asias-hydrocarbon-push-valeura-hits-oil-pay-eyes-new-satellite-development/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Oil Falls as Saudi Supply Outlook Improves",
           "summary": "Crude futures fell as Saudi and Libyan supply disruptions showed signs of easing.",
           "date": "2026-09-16",
@@ -1677,15 +1718,6 @@
           "date": "2026-09-16",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542978-valeura-finds-new-oil-near-manora-field-in-gulf-of-thailand",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Southeast Asia’s hydrocarbon push: Valeura hits oil pay, eyes new satellite development",
-          "summary": "Southeast Asia’s hydrocarbon sector has gained fresh momentum as Canadian oil and gas company Valeura Energy struck an oil discovery near its existing offshore field in the Gulf of Thailand, potentially supporting a new…",
-          "date": "2026-09-16",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/southeast-asias-hydrocarbon-push-valeura-hits-oil-pay-eyes-new-satellite-development/",
           "relevant": false,
           "region": "SEA"
         },
