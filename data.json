@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T16:01:04Z",
+  "last_updated": "2026-09-17T17:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1369,6 +1369,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Vitesse Completes Acquisition in Denver-Julesburg Basin",
+          "summary": "Vitesse consummated the purchase of a stake in Chevron-operated oil and gas assets in the Denver-Julesburg Basin for $26 million.",
+          "date": "2026-09-17",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/vitesse_completes_acquisition_in_denverjulesburg_basin-17-sep-2026-184645-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "SOCAR Enters Africa",
           "summary": "'The acquisition marks SOCAR's entry into Africa's upstream sector and underscores the company's long-term strategy to expand its global upstream footprint', the State Oil Company of the Azerbaijani Republic said.",
           "date": "2026-09-17",
@@ -1425,19 +1433,19 @@
           "relevant": false
         },
         {
-          "title": "Borr Drilling to sell 51% stake in Perfomex to Mexican partner",
-          "summary": "Borr Drilling has signed definitive agreements to sell its 51% equity interest in the Mexican well services joint venture (JV) Perfomex to its local partner.",
-          "date": "2026-09-16",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/borr-drilling-to-sell-51-stake-perfomex/",
-          "relevant": false
-        },
-        {
           "title": "EU Set to Restart Scrutiny of Subsea 7-Saipem Combination",
           "summary": "The European Commission will likely comment within the next 24 hours on a reopening of its antitrust probe of the merger between Norway's Subsea 7 and Italy's Saipem…",
           "date": "2026-09-16",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542983-eu-set-to-restart-scrutiny-of-subsea-7-saipem-combination",
+          "relevant": false
+        },
+        {
+          "title": "Borr Drilling to sell 51% stake in Perfomex to Mexican partner",
+          "summary": "Borr Drilling has signed definitive agreements to sell its 51% equity interest in the Mexican well services joint venture (JV) Perfomex to its local partner.",
+          "date": "2026-09-16",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/borr-drilling-to-sell-51-stake-perfomex/",
           "relevant": false
         },
         {
