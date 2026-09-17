@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T10:00:54Z",
+  "last_updated": "2026-09-17T11:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -72,6 +72,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Huelva awards 50-year concession for new logistics zone",
+          "summary": "The Port of Huelva has awarded a 50-year concession to ZAL Huelva for the construction and operation of a new logistics zone at Punta del Sebo, advancing a project the Spanish gateway has been working on for several…",
+          "date": "2026-09-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/huelva-awards-50-year-concession-for-new-logistics-zone/",
+          "relevant": false
+        },
         {
           "title": "Exmar lands 10-year Abidjan FSRU deal",
           "summary": "Belgium’s Exmar has secured a 10-year floating LNG infrastructure deal in Ivory Coast, reviving plans for an import terminal at Abidjan that have been on the drawing board for a decade. The Antwerp-based gas shipping…",
@@ -241,19 +249,19 @@
           "relevant": false
         },
         {
-          "title": "Wood secures $200m contract from ExxonMobil for PNG LNG project",
-          "summary": "Wood has secured a $200m contract from ExxonMobil PNG to deliver construction services for the PNG LNG Project in Papua New Guinea (PNG).",
-          "date": "2026-09-15",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/wood-200m-contract-exxonmobil-png-lng-project/",
-          "relevant": false
-        },
-        {
           "title": "Boeing wins $562m US Navy production contract for MQ-25A Stingray",
           "summary": "Boeing has been awarded a $562m fixed-price contract by the US Navy to begin production of the MQ-25A Stingray uncrewed aerial refueller. The post Boeing wins $562m US Navy production contract for MQ-25A Stingray…",
           "date": "2026-09-15",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/boeing-mq-25a-us-navy/",
+          "relevant": false
+        },
+        {
+          "title": "Wood secures $200m contract from ExxonMobil for PNG LNG project",
+          "summary": "Wood has secured a $200m contract from ExxonMobil PNG to deliver construction services for the PNG LNG Project in Papua New Guinea (PNG).",
+          "date": "2026-09-15",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/wood-200m-contract-exxonmobil-png-lng-project/",
           "relevant": false
         },
         {
@@ -937,14 +945,6 @@
           "relevant": false
         },
         {
-          "title": "Lawmakers vote to block California ship emissions rules",
-          "summary": "The US House has voted to overturn California’s stringent at-berth emissions regulations for oceangoing ships, setting up another federal clash over the state’s ability to impose tougher environmental standards than the…",
-          "date": "2026-09-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/lawmakers-vote-to-block-california-ship-emissions-rules/",
-          "relevant": false
-        },
-        {
           "title": "India Pushes Back as US Readies New Russian Oil Sanctions",
           "summary": "India warned a U.S. bill allowing President Donald Trump to impose tariffs of as much as 100 percent on top buyers of Russian oil could hurt ties between New Delhi and Washington and disrupt global energy markets.",
           "date": "2026-09-17",
@@ -953,11 +953,27 @@
           "relevant": false
         },
         {
+          "title": "Plains to buy Silver Creek’s Powder River crude assets for $585m",
+          "summary": "Plains All American Pipeline and Plains GP Holdings (together Plains) have signed an agreement to acquire Silver Creek Midstream’s crude oil midstream assets in the Powder River Basin, US for approximately $585m.",
+          "date": "2026-09-17",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/plains-buy-silver-creeks-crude-assets-585m/",
+          "relevant": false
+        },
+        {
           "title": "Cyber Security Regulations Drive Resilience Agenda for Offshore Energy Infrastructure",
           "summary": "As offshore oil and gas platforms, offshore wind farms and maritime energy assets become increasingly connected, they are also becoming more exposed to sophisticated cyber threats…",
           "date": "2026-09-17",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543028-cyber-security-regulations-drive-resilience-agenda-for-offshore-energy-infrastructure",
+          "relevant": false
+        },
+        {
+          "title": "Lawmakers vote to block California ship emissions rules",
+          "summary": "The US House has voted to overturn California’s stringent at-berth emissions regulations for oceangoing ships, setting up another federal clash over the state’s ability to impose tougher environmental standards than the…",
+          "date": "2026-09-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/lawmakers-vote-to-block-california-ship-emissions-rules/",
           "relevant": false
         },
         {
@@ -1304,6 +1320,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "Eni divests 10% stake in Côte d’Ivoire’s Baleine oilfield to SOCAR",
+          "summary": "Italian energy company Eni has completed the sale of a 10% interest in the Baleine offshore oil project in Côte d’Ivoire to the State Oil Company of Azerbaijan Republic (SOCAR).",
+          "date": "2026-09-17",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/eni-divests-stake-baleine-oil-field-socar/",
+          "relevant": false
+        },
         {
           "title": "Bower Offshore takes ownership of managed PSV",
           "summary": "Bower Offshore has bought the Songa Commander platform supply vessel from Blystad Group. The company, previously known as Remøy Shipping and rebranded after Saudi Arabia’s Zamil Offshore Services Company acquired it…",
