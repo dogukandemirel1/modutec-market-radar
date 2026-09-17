@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T13:01:00Z",
+  "last_updated": "2026-09-17T14:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -81,30 +81,6 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Transito launches combined sea and inland freight service",
-          "summary": "Dutch chartering company Transito has launched a new service combining sea freight and inland shipping under one contract, as low water levels and other disruptions put more pressure on cargo movements between European…",
-          "date": "2026-09-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/transito-launches-combined-sea-and-inland-freight-service/",
-          "relevant": false
-        },
-        {
-          "title": "Huelva awards 50-year concession for new logistics zone",
-          "summary": "The Port of Huelva has awarded a 50-year concession to ZAL Huelva for the construction and operation of a new logistics zone at Punta del Sebo, advancing a project the Spanish gateway has been working on for several…",
-          "date": "2026-09-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/huelva-awards-50-year-concession-for-new-logistics-zone/",
-          "relevant": false
-        },
-        {
-          "title": "Exmar lands 10-year Abidjan FSRU deal",
-          "summary": "Belgium’s Exmar has secured a 10-year floating LNG infrastructure deal in Ivory Coast, reviving plans for an import terminal at Abidjan that have been on the drawing board for a decade. The Antwerp-based gas shipping…",
-          "date": "2026-09-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/exmar-lands-10-year-abidjan-fsru-deal/",
-          "relevant": false
-        },
-        {
           "title": "Halliburton to deliver integrated well services for Eni’s Cronos project offshore Cyprus",
           "summary": "Halliburton secured a bundled well construction and completions contract from Eni for the Cronos ultra-deepwater gas development in Block 6 of the Cyprus Exclusive Economic Zone. The award covers exploration and…",
           "date": "2026-09-17",
@@ -153,11 +129,27 @@
           "relevant": false
         },
         {
-          "title": "Fox News: Iran Attack Hits U.S.-Contracted Ship Carrying American Personnel",
-          "summary": "A U.S.-contracted vessel carrying American personnel was struck in an Iranian drone and missile attack near the Strait of Hormuz earlier this week, Fox News reported Wednesday, citing two sources...",
-          "date": "2026-09-16",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/fox-news-iran-attack-hits-u-s-contracted-ship-carrying-american-personnel/",
+          "title": "Transito launches combined sea and inland freight service",
+          "summary": "Dutch chartering company Transito has launched a new service combining sea freight and inland shipping under one contract, as low water levels and other disruptions put more pressure on cargo movements between European…",
+          "date": "2026-09-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/transito-launches-combined-sea-and-inland-freight-service/",
+          "relevant": false
+        },
+        {
+          "title": "Huelva awards 50-year concession for new logistics zone",
+          "summary": "The Port of Huelva has awarded a 50-year concession to ZAL Huelva for the construction and operation of a new logistics zone at Punta del Sebo, advancing a project the Spanish gateway has been working on for several…",
+          "date": "2026-09-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/huelva-awards-50-year-concession-for-new-logistics-zone/",
+          "relevant": false
+        },
+        {
+          "title": "Exmar lands 10-year Abidjan FSRU deal",
+          "summary": "Belgium’s Exmar has secured a 10-year floating LNG infrastructure deal in Ivory Coast, reviving plans for an import terminal at Abidjan that have been on the drawing board for a decade. The Antwerp-based gas shipping…",
+          "date": "2026-09-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/exmar-lands-10-year-abidjan-fsru-deal/",
           "relevant": false
         },
         {
@@ -239,6 +231,14 @@
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542985-saudi-export-disruptions-push-oil-to-four-month-highs",
           "relevant": true
+        },
+        {
+          "title": "Fox News: Iran Attack Hits U.S.-Contracted Ship Carrying American Personnel",
+          "summary": "A U.S.-contracted vessel carrying American personnel was struck in an Iranian drone and missile attack near the Strait of Hormuz earlier this week, Fox News reported Wednesday, citing two sources...",
+          "date": "2026-09-16",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/fox-news-iran-attack-hits-u-s-contracted-ship-carrying-american-personnel/",
+          "relevant": false
         },
         {
           "title": "Halliburton wins well services contract for Eni’s Cronos project",
@@ -961,20 +961,12 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
-          "title": "Philippines moves to slash shipyard red tape",
-          "summary": "The Philippines is moving to overhaul regulation of its shipbuilding and ship repair sector, targeting a one-stop shop and simplified approval process as Manila looks to make domestic yards more competitive. The…",
+          "title": "China Presses Iran to Help Rein in Houthis After Saudi Appeal, Sources Say",
+          "summary": "China has privately asked Tehran to help rein in Yemen's Houthis after an appeal to Beijing by Saudi Arabia following the Iran-backed group's military blitz in the past week, according to three Iranian sources familiar…",
           "date": "2026-09-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/philippines-moves-to-slash-shipyard-red-tape/",
-          "relevant": false
-        },
-        {
-          "title": "America’s copper paradox sets up new seaborne trade flows",
-          "summary": "Washington wants to bring the copper supply chain home, but the result could be record refined imports in one direction and US-mined concentrate heading back out to sea in the other. US copper policy is beginning to…",
-          "date": "2026-09-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/americas-copper-paradox-sets-up-new-seaborne-trade-flows/",
-          "relevant": false
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/china-presses-iran-to-help-rein-in-houthis-after-saudi-appeal-sources-say/",
+          "relevant": true
         },
         {
           "title": "India Pushes Back as US Readies New Russian Oil Sanctions",
@@ -998,6 +990,22 @@
           "date": "2026-09-17",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543028-cyber-security-regulations-drive-resilience-agenda-for-offshore-energy-infrastructure",
+          "relevant": false
+        },
+        {
+          "title": "Philippines moves to slash shipyard red tape",
+          "summary": "The Philippines is moving to overhaul regulation of its shipbuilding and ship repair sector, targeting a one-stop shop and simplified approval process as Manila looks to make domestic yards more competitive. The…",
+          "date": "2026-09-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/philippines-moves-to-slash-shipyard-red-tape/",
+          "relevant": false
+        },
+        {
+          "title": "America’s copper paradox sets up new seaborne trade flows",
+          "summary": "Washington wants to bring the copper supply chain home, but the result could be record refined imports in one direction and US-mined concentrate heading back out to sea in the other. US copper policy is beginning to…",
+          "date": "2026-09-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/americas-copper-paradox-sets-up-new-seaborne-trade-flows/",
           "relevant": false
         },
         {
@@ -1697,11 +1705,11 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Bahri shifts funding model with $263m unsecured deal",
-          "summary": "Saudi Arabia’s Bahri has completed a SAR986.3m ($263m) refinancing with BNP Paribas and the National Bank of Greece, marking the shipping group’s first unsecured international bank financing. The National Shipping…",
+          "title": "Oil Extends Drop as Saudi Arabia Moves to Restore Vital Pipeline",
+          "summary": "Oil extended a decline on signs that supply disruptions in the Middle East are set to ease, with Saudi Arabia seeking to partially restore flows along a vital pipeline.",
           "date": "2026-09-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/bahri-shifts-funding-model-with-263m-unsecured-deal/",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/oil-extends-drop-as-saudi-arabia-moves-to-restore-vital-pipeline/",
           "relevant": true,
           "region": "KSA"
         },
@@ -1713,6 +1721,24 @@
           "source_url": "https://www.navalnews.com/naval-news/2026/09/indonesias-first-aircraft-carrier-former-italian-ship-garibaldi-reaches-domestic-waters/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Saudi Pipeline Outage Exposes Limits of Supply Optionality",
+          "summary": "The damage to Saudi Arabia's East-West pipeline 'exposes [the] limits of supply optionality', Emily Ashford, Standard Chartered Bank Energy Research Head, outlined.",
+          "date": "2026-09-17",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/saudi_pipeline_outage_exposes_limits_of_supply_optionality-17-sep-2026-184640-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "Bahri shifts funding model with $263m unsecured deal",
+          "summary": "Saudi Arabia’s Bahri has completed a SAR986.3m ($263m) refinancing with BNP Paribas and the National Bank of Greece, marking the shipping group’s first unsecured international bank financing. The National Shipping…",
+          "date": "2026-09-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/bahri-shifts-funding-model-with-263m-unsecured-deal/",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "One week to go until shipping leaders gather at Splash Singapore",
