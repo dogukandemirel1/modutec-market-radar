@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T14:00:59Z",
+  "last_updated": "2026-09-17T15:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -81,11 +81,43 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Transito launches combined sea and inland freight service",
+          "summary": "Dutch chartering company Transito has launched a new service combining sea freight and inland shipping under one contract, as low water levels and other disruptions put more pressure on cargo movements between European…",
+          "date": "2026-09-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/transito-launches-combined-sea-and-inland-freight-service/",
+          "relevant": false
+        },
+        {
+          "title": "Huelva awards 50-year concession for new logistics zone",
+          "summary": "The Port of Huelva has awarded a 50-year concession to ZAL Huelva for the construction and operation of a new logistics zone at Punta del Sebo, advancing a project the Spanish gateway has been working on for several…",
+          "date": "2026-09-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/huelva-awards-50-year-concession-for-new-logistics-zone/",
+          "relevant": false
+        },
+        {
+          "title": "Exmar lands 10-year Abidjan FSRU deal",
+          "summary": "Belgium’s Exmar has secured a 10-year floating LNG infrastructure deal in Ivory Coast, reviving plans for an import terminal at Abidjan that have been on the drawing board for a decade. The Antwerp-based gas shipping…",
+          "date": "2026-09-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/exmar-lands-10-year-abidjan-fsru-deal/",
+          "relevant": false
+        },
+        {
           "title": "Halliburton to deliver integrated well services for Eni’s Cronos project offshore Cyprus",
           "summary": "Halliburton secured a bundled well construction and completions contract from Eni for the Cronos ultra-deepwater gas development in Block 6 of the Cyprus Exclusive Economic Zone. The award covers exploration and…",
           "date": "2026-09-17",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/halliburton-to-deliver-integrated-well-services-for-enis-cronos-project-offshore-cyprus-80024",
+          "relevant": false
+        },
+        {
+          "title": "TKMS ATLAS UK Awarded UK MOD NGCM Torpedo Defence System Contract",
+          "summary": "TKMS ATLAS UK has been awarded a UK MOD contract to develop and supply the Next Generation Countermeasure (NGCM) system, enhancing torpedo defense for Royal Navy submarines. The post TKMS ATLAS UK Awarded UK MOD NGCM…",
+          "date": "2026-09-17",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/tkms-atlas-uk-awarded-uk-mod-ngcm-torpedo-defence-system-contract/",
           "relevant": false
         },
         {
@@ -129,30 +161,6 @@
           "relevant": false
         },
         {
-          "title": "Transito launches combined sea and inland freight service",
-          "summary": "Dutch chartering company Transito has launched a new service combining sea freight and inland shipping under one contract, as low water levels and other disruptions put more pressure on cargo movements between European…",
-          "date": "2026-09-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/transito-launches-combined-sea-and-inland-freight-service/",
-          "relevant": false
-        },
-        {
-          "title": "Huelva awards 50-year concession for new logistics zone",
-          "summary": "The Port of Huelva has awarded a 50-year concession to ZAL Huelva for the construction and operation of a new logistics zone at Punta del Sebo, advancing a project the Spanish gateway has been working on for several…",
-          "date": "2026-09-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/huelva-awards-50-year-concession-for-new-logistics-zone/",
-          "relevant": false
-        },
-        {
-          "title": "Exmar lands 10-year Abidjan FSRU deal",
-          "summary": "Belgium’s Exmar has secured a 10-year floating LNG infrastructure deal in Ivory Coast, reviving plans for an import terminal at Abidjan that have been on the drawing board for a decade. The Antwerp-based gas shipping…",
-          "date": "2026-09-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/exmar-lands-10-year-abidjan-fsru-deal/",
-          "relevant": false
-        },
-        {
           "title": "Transocean drillship lands new work offshore Equatorial Guinea",
           "summary": "Transocean secured a two-well contract for the ultra-deepwater drillship Deepwater Conqueror to work offshore Equatorial Guinea for an undisclosed operator. The estimated 170-day campaign is expected to begin in 2027…",
           "date": "2026-09-16",
@@ -177,14 +185,6 @@
           "relevant": false
         },
         {
-          "title": "Hanwha Ocean to Conduct ROK Navy’s First Outsourced Destroyer Overhaul",
-          "summary": "Hanwha Ocean has won a contract to overhaul ROKS Sejong-the-Great, marking the ROK Navy's first outsourced depot-level maintenance for a surface combatant. The post Hanwha Ocean to Conduct ROK Navy’s First Outsourced…",
-          "date": "2026-09-16",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/hanwha-ocean-roks-sejong-the-great-overhaul/",
-          "relevant": false
-        },
-        {
           "title": "Halliburton bags Eni’s deepwater bundle as Eastern Mediterranean gas buildout continues",
           "summary": "U.S.-headquartered oilfield services player Halliburton has secured a multi-year contract with Italy’s energy giant Eni to provide bundled well construction and completions services for an ultra-deepwater development in…",
           "date": "2026-09-16",
@@ -198,14 +198,6 @@
           "date": "2026-09-16",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/technipfmc-picks-up-multimillion-dollar-subsea-scope-for-petronas-deepwater-project/",
-          "relevant": false
-        },
-        {
-          "title": "FSRU docks in Stade as LNG terminal prepares to feed gas into German grid from November",
-          "summary": "A 294-meter floating storage and regasification unit (FSRU) has arrived at the new liquefied natural gas (LNG) terminal in Stade, marking the start of commissioning preparations and bringing the facility a step closer…",
-          "date": "2026-09-16",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/fsru-docks-in-stade-as-lng-terminal-prepares-to-feed-gas-into-german-grid-from-november/",
           "relevant": false
         },
         {
@@ -231,6 +223,22 @@
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542985-saudi-export-disruptions-push-oil-to-four-month-highs",
           "relevant": true
+        },
+        {
+          "title": "Hanwha Ocean to Conduct ROK Navy’s First Outsourced Destroyer Overhaul",
+          "summary": "Hanwha Ocean has won a contract to overhaul ROKS Sejong-the-Great, marking the ROK Navy's first outsourced depot-level maintenance for a surface combatant. The post Hanwha Ocean to Conduct ROK Navy’s First Outsourced…",
+          "date": "2026-09-16",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/hanwha-ocean-roks-sejong-the-great-overhaul/",
+          "relevant": false
+        },
+        {
+          "title": "FSRU docks in Stade as LNG terminal prepares to feed gas into German grid from November",
+          "summary": "A 294-meter floating storage and regasification unit (FSRU) has arrived at the new liquefied natural gas (LNG) terminal in Stade, marking the start of commissioning preparations and bringing the facility a step closer…",
+          "date": "2026-09-16",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/fsru-docks-in-stade-as-lng-terminal-prepares-to-feed-gas-into-german-grid-from-november/",
+          "relevant": false
         },
         {
           "title": "Fox News: Iran Attack Hits U.S.-Contracted Ship Carrying American Personnel",
@@ -969,6 +977,22 @@
           "relevant": true
         },
         {
+          "title": "Philippines moves to slash shipyard red tape",
+          "summary": "The Philippines is moving to overhaul regulation of its shipbuilding and ship repair sector, targeting a one-stop shop and simplified approval process as Manila looks to make domestic yards more competitive. The…",
+          "date": "2026-09-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/philippines-moves-to-slash-shipyard-red-tape/",
+          "relevant": false
+        },
+        {
+          "title": "America’s copper paradox sets up new seaborne trade flows",
+          "summary": "Washington wants to bring the copper supply chain home, but the result could be record refined imports in one direction and US-mined concentrate heading back out to sea in the other. US copper policy is beginning to…",
+          "date": "2026-09-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/americas-copper-paradox-sets-up-new-seaborne-trade-flows/",
+          "relevant": false
+        },
+        {
           "title": "India Pushes Back as US Readies New Russian Oil Sanctions",
           "summary": "India warned a U.S. bill allowing President Donald Trump to impose tariffs of as much as 100 percent on top buyers of Russian oil could hurt ties between New Delhi and Washington and disrupt global energy markets.",
           "date": "2026-09-17",
@@ -990,22 +1014,6 @@
           "date": "2026-09-17",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543028-cyber-security-regulations-drive-resilience-agenda-for-offshore-energy-infrastructure",
-          "relevant": false
-        },
-        {
-          "title": "Philippines moves to slash shipyard red tape",
-          "summary": "The Philippines is moving to overhaul regulation of its shipbuilding and ship repair sector, targeting a one-stop shop and simplified approval process as Manila looks to make domestic yards more competitive. The…",
-          "date": "2026-09-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/philippines-moves-to-slash-shipyard-red-tape/",
-          "relevant": false
-        },
-        {
-          "title": "America’s copper paradox sets up new seaborne trade flows",
-          "summary": "Washington wants to bring the copper supply chain home, but the result could be record refined imports in one direction and US-mined concentrate heading back out to sea in the other. US copper policy is beginning to…",
-          "date": "2026-09-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/americas-copper-paradox-sets-up-new-seaborne-trade-flows/",
           "relevant": false
         },
         {
@@ -1714,6 +1722,15 @@
           "region": "KSA"
         },
         {
+          "title": "Bahri shifts funding model with $263m unsecured deal",
+          "summary": "Saudi Arabia’s Bahri has completed a SAR986.3m ($263m) refinancing with BNP Paribas and the National Bank of Greece, marking the shipping group’s first unsecured international bank financing. The National Shipping…",
+          "date": "2026-09-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/bahri-shifts-funding-model-with-263m-unsecured-deal/",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
           "title": "Indonesia’s First Aircraft Carrier: Former Italian Ship ‘Garibaldi’ Reaches Domestic Waters",
           "summary": "The ex-Italian Navy carrier Garibaldi reaches Indonesia as the nation's first aircraft carrier, ahead of its formal welcome in Jakarta. The post Indonesia’s First Aircraft Carrier: Former Italian Ship ‘Garibaldi’…",
           "date": "2026-09-17",
@@ -1728,15 +1745,6 @@
           "date": "2026-09-17",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/saudi_pipeline_outage_exposes_limits_of_supply_optionality-17-sep-2026-184640-article/?rss=true",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
-          "title": "Bahri shifts funding model with $263m unsecured deal",
-          "summary": "Saudi Arabia’s Bahri has completed a SAR986.3m ($263m) refinancing with BNP Paribas and the National Bank of Greece, marking the shipping group’s first unsecured international bank financing. The National Shipping…",
-          "date": "2026-09-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/bahri-shifts-funding-model-with-263m-unsecured-deal/",
           "relevant": true,
           "region": "KSA"
         },
