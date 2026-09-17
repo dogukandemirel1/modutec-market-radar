@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T08:00:55Z",
+  "last_updated": "2026-09-17T09:01:08Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -72,6 +72,22 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Lamprell joins ‘major’ offshore EPCI project in UAE",
+          "summary": "A consortium of Lamprell and Larsen & Toubro (L&T) has secured a contract for […] The post Lamprell joins ‘major’ offshore EPCI project in UAE appeared first on Offshore Energy .",
+          "date": "2026-09-17",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/lamprell-joins-major-offshore-epci-project-in-uae/",
+          "relevant": true
+        },
+        {
+          "title": "Transocean’s 2016-built drillship wins multimillion-dollar job in Equatorial Guinea",
+          "summary": "Switzerland-based offshore drilling contractor Transocean has secured an estimated 170-day assignment for its ten-year-old ultra-deepwater drillship off the coast of Equatorial Guinea, adding approximately $80 million…",
+          "date": "2026-09-17",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/transoceans-2016-built-drillship-wins-multimillion-dollar-job-in-equatorial-guinea/",
+          "relevant": false
+        },
         {
           "title": "Fox News: Iran Attack Hits U.S.-Contracted Ship Carrying American Personnel",
           "summary": "A U.S.-contracted vessel carrying American personnel was struck in an Iranian drone and missile attack near the Strait of Hormuz earlier this week, Fox News reported Wednesday, citing two sources...",
@@ -209,14 +225,6 @@
           "relevant": false
         },
         {
-          "title": "Saipem wins $350m offshore contract from Azule Energy Angola",
-          "summary": "Saipem has secured an offshore contract in Angola valued at about $350m from Azule Energy Angola, a joint venture owned by Eni and bp.",
-          "date": "2026-09-15",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/saipem-350m-offshore-contract-azule-energy-angola/",
-          "relevant": false
-        },
-        {
           "title": "Boeing wins $562m US Navy production contract for MQ-25A Stingray",
           "summary": "Boeing has been awarded a $562m fixed-price contract by the US Navy to begin production of the MQ-25A Stingray uncrewed aerial refueller. The post Boeing wins $562m US Navy production contract for MQ-25A Stingray…",
           "date": "2026-09-15",
@@ -230,6 +238,14 @@
           "date": "2026-09-15",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542950-petrobras-taps-strohm-for-deepwater-pipe-supply",
+          "relevant": false
+        },
+        {
+          "title": "Saipem wins $350m offshore contract from Azule Energy Angola",
+          "summary": "Saipem has secured an offshore contract in Angola valued at about $350m from Azule Energy Angola, a joint venture owned by Eni and bp.",
+          "date": "2026-09-15",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/saipem-350m-offshore-contract-azule-energy-angola/",
           "relevant": false
         },
         {
@@ -1313,6 +1329,14 @@
           "relevant": false
         },
         {
+          "title": "Kistos Completes Acquisition of Stakes in Omani Producing Blocks",
+          "summary": "London-based Kistos consummated the purchase of Mitsui's stakes in Blocks 3 and 4 onshore Oman, marking its entry into the Middle East.",
+          "date": "2026-09-15",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/kistos_completes_acquisition_of_stakes_in_omani_producing_blocks-15-sep-2026-184622-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "Saipem hands Saudi jack-up fleet to ADES in strategic shallow-water exit",
           "summary": "Italy’s engineering, drilling, and construction services company Saipem has divested its shallow-water drilling business in Saudi Arabia to ADES Saudi Limited Company, an indirect subsidiary of Saudi…",
           "date": "2026-09-15",
@@ -1326,14 +1350,6 @@
           "date": "2026-09-15",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/valeura-advances-gulf-of-thailand-expansion-with-pttep-farm-in-approval/",
-          "relevant": false
-        },
-        {
-          "title": "Kistos Completes Acquisition of Stakes in Omani Producing Blocks",
-          "summary": "London-based Kistos consummated the purchase of Mitsui's stakes in Blocks 3 and 4 onshore Oman, marking its entry into the Middle East.",
-          "date": "2026-09-15",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/kistos_completes_acquisition_of_stakes_in_omani_producing_blocks-15-sep-2026-184622-article/?rss=true",
           "relevant": false
         },
         {
@@ -1569,14 +1585,6 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "China fills Gulf void as war redraws cement feedstock trade",
-          "summary": "China has emerged as an unlikely beneficiary of the disruption to Middle Eastern dry bulk trades, with soaring limestone exports helping fill a hole left by the collapse in Persian Gulf supply and providing fresh…",
-          "date": "2026-09-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/china-fills-gulf-void-as-war-redraws-cement-feedstock-trade/",
-          "relevant": false
-        },
-        {
           "title": "One week to go until shipping leaders gather at Splash Singapore",
           "summary": "With just seven days to go until the inaugural Splash Singapore, shipowners, managers, charterers, technology leaders and investors are preparing to gather at the Fairmont Singapore for a day built around one question…",
           "date": "2026-09-17",
@@ -1584,6 +1592,14 @@
           "source_url": "https://splash247.com/one-week-to-go-until-shipping-leaders-gather-at-splash-singapore/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "China fills Gulf void as war redraws cement feedstock trade",
+          "summary": "China has emerged as an unlikely beneficiary of the disruption to Middle Eastern dry bulk trades, with soaring limestone exports helping fill a hole left by the collapse in Persian Gulf supply and providing fresh…",
+          "date": "2026-09-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/china-fills-gulf-void-as-war-redraws-cement-feedstock-trade/",
+          "relevant": false
         },
         {
           "title": "Saudis Pivot to Send More Oil Via Hormuz After Pipeline Shut",
