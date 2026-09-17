@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T04:00:54Z",
+  "last_updated": "2026-09-17T05:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1544,6 +1544,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "One week to go until shipping leaders gather at Splash Singapore",
+          "summary": "With just seven days to go until the inaugural Splash Singapore, shipowners, managers, charterers, technology leaders and investors are preparing to gather at the Fairmont Singapore for a day built around one question…",
+          "date": "2026-09-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/one-week-to-go-until-shipping-leaders-gather-at-splash-singapore/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Saudis Pivot to Send More Oil Via Hormuz After Pipeline Shut",
           "summary": "Saudi Arabia is ramping up prompt sales of crude from outside the Strait of Hormuz following the shutdown of the kingdom’s East-West pipeline, which halted cross-country flows to its Red Sea coast.",
