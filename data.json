@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T15:00:59Z",
+  "last_updated": "2026-09-17T16:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1740,6 +1740,15 @@
           "region": "SEA"
         },
         {
+          "title": "Aramco Hunts for Fuel Supply in the Med",
+          "summary": "Oil giant Saudi Aramco has been looking to secure thousands of tons of diesel in the Mediterranean.",
+          "date": "2026-09-17",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/aramco_hunts_for_fuel_supply_in_the_med-17-sep-2026-184642-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
           "title": "Saudi Pipeline Outage Exposes Limits of Supply Optionality",
           "summary": "The damage to Saudi Arabia's East-West pipeline 'exposes [the] limits of supply optionality', Emily Ashford, Standard Chartered Bank Energy Research Head, outlined.",
           "date": "2026-09-17",
@@ -1784,15 +1793,6 @@
           "region": "SEA"
         },
         {
-          "title": "Southeast Asia’s hydrocarbon push: Valeura hits oil pay, eyes new satellite development",
-          "summary": "Southeast Asia’s hydrocarbon sector has gained fresh momentum as Canadian oil and gas company Valeura Energy struck an oil discovery near its existing offshore field in the Gulf of Thailand, potentially supporting a new…",
-          "date": "2026-09-16",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/southeast-asias-hydrocarbon-push-valeura-hits-oil-pay-eyes-new-satellite-development/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Oil Falls as Saudi Supply Outlook Improves",
           "summary": "Crude futures fell as Saudi and Libyan supply disruptions showed signs of easing.",
           "date": "2026-09-16",
@@ -1807,6 +1807,15 @@
           "date": "2026-09-16",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542982-first-turbine-stands-tall-at-vietnam-s-128mw-offshore-wind-farm",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Southeast Asia’s hydrocarbon push: Valeura hits oil pay, eyes new satellite development",
+          "summary": "Southeast Asia’s hydrocarbon sector has gained fresh momentum as Canadian oil and gas company Valeura Energy struck an oil discovery near its existing offshore field in the Gulf of Thailand, potentially supporting a new…",
+          "date": "2026-09-16",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/southeast-asias-hydrocarbon-push-valeura-hits-oil-pay-eyes-new-satellite-development/",
           "relevant": false,
           "region": "SEA"
         },
