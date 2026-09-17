@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T09:01:08Z",
+  "last_updated": "2026-09-17T09:24:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -73,6 +73,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "U.S. Navy Taps Three Shipyards in $280M Push to Accelerate LCU 1700 Production",
+          "summary": "The U.S. Navy has awarded three prototype agreements to Conrad Shipyard, Master Boat Builders, and Saronic to accelerate LCU 1700 production. The post U.S. Navy Taps Three Shipyards in $280M Push to Accelerate LCU 1700…",
+          "date": "2026-09-17",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/u-s-navy-taps-three-shipyards-in-280m-push-to-accelerate-lcu-1700-production/",
+          "relevant": false
+        },
+        {
           "title": "Lamprell joins ‘major’ offshore EPCI project in UAE",
           "summary": "A consortium of Lamprell and Larsen & Toubro (L&T) has secured a contract for […] The post Lamprell joins ‘major’ offshore EPCI project in UAE appeared first on Offshore Energy .",
           "date": "2026-09-17",
@@ -129,30 +137,6 @@
           "relevant": false
         },
         {
-          "title": "Halliburton bags Eni’s deepwater bundle as Eastern Mediterranean gas buildout continues",
-          "summary": "U.S.-headquartered oilfield services player Halliburton has secured a multi-year contract with Italy’s energy giant Eni to provide bundled well construction and completions services for an ultra-deepwater development in…",
-          "date": "2026-09-16",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/halliburton-bags-enis-deepwater-bundle-as-eastern-mediterranean-gas-buildout-continues/",
-          "relevant": false
-        },
-        {
-          "title": "TechnipFMC picks up multimillion-dollar subsea scope for Petronas’ deepwater project",
-          "summary": "UK-headquartered energy technology provider TechnipFMC has been tasked with an integrated engineering, procurement, construction, and installation (iEPCI) assignment for the development of a long-delayed deepwater…",
-          "date": "2026-09-16",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/technipfmc-picks-up-multimillion-dollar-subsea-scope-for-petronas-deepwater-project/",
-          "relevant": false
-        },
-        {
-          "title": "FSRU docks in Stade as LNG terminal prepares to feed gas into German grid from November",
-          "summary": "A 294-meter floating storage and regasification unit (FSRU) has arrived at the new liquefied natural gas (LNG) terminal in Stade, marking the start of commissioning preparations and bringing the facility a step closer…",
-          "date": "2026-09-16",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/fsru-docks-in-stade-as-lng-terminal-prepares-to-feed-gas-into-german-grid-from-november/",
-          "relevant": false
-        },
-        {
           "title": "Halliburton wins well services contract for Eni’s Cronos project",
           "summary": "Halliburton has been awarded a contract by Eni to provide a bundled package of well construction and completions services for the Cronos project offshore Cyprus.",
           "date": "2026-09-16",
@@ -183,6 +167,30 @@
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542985-saudi-export-disruptions-push-oil-to-four-month-highs",
           "relevant": true
+        },
+        {
+          "title": "Halliburton bags Eni’s deepwater bundle as Eastern Mediterranean gas buildout continues",
+          "summary": "U.S.-headquartered oilfield services player Halliburton has secured a multi-year contract with Italy’s energy giant Eni to provide bundled well construction and completions services for an ultra-deepwater development in…",
+          "date": "2026-09-16",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/halliburton-bags-enis-deepwater-bundle-as-eastern-mediterranean-gas-buildout-continues/",
+          "relevant": false
+        },
+        {
+          "title": "TechnipFMC picks up multimillion-dollar subsea scope for Petronas’ deepwater project",
+          "summary": "UK-headquartered energy technology provider TechnipFMC has been tasked with an integrated engineering, procurement, construction, and installation (iEPCI) assignment for the development of a long-delayed deepwater…",
+          "date": "2026-09-16",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/technipfmc-picks-up-multimillion-dollar-subsea-scope-for-petronas-deepwater-project/",
+          "relevant": false
+        },
+        {
+          "title": "FSRU docks in Stade as LNG terminal prepares to feed gas into German grid from November",
+          "summary": "A 294-meter floating storage and regasification unit (FSRU) has arrived at the new liquefied natural gas (LNG) terminal in Stade, marking the start of commissioning preparations and bringing the facility a step closer…",
+          "date": "2026-09-16",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/fsru-docks-in-stade-as-lng-terminal-prepares-to-feed-gas-into-german-grid-from-november/",
+          "relevant": false
         },
         {
           "title": "Eni adds Halliburton to Cronos contractor lineup",
@@ -913,6 +921,14 @@
           "relevant": false
         },
         {
+          "title": "India Pushes Back as US Readies New Russian Oil Sanctions",
+          "summary": "India warned a U.S. bill allowing President Donald Trump to impose tariffs of as much as 100 percent on top buyers of Russian oil could hurt ties between New Delhi and Washington and disrupt global energy markets.",
+          "date": "2026-09-17",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/india_pushes_back_as_us_readies_new_russian_oil_sanctions-17-sep-2026-184636-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "Exclusive: China Sends Key Arctic LNG 2 Modules to Russia to Complete Train 2",
           "summary": "Two U.S.-sanctioned heavy-lift vessels are carrying critical power-generation modules from China toward Russia’s Arctic LNG 2 project, according to satellite imagery and vessel-tracking data. The shipment is the latest…",
           "date": "2026-09-16",
@@ -1585,6 +1601,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Bahri shifts funding model with $263m unsecured deal",
+          "summary": "Saudi Arabia’s Bahri has completed a SAR986.3m ($263m) refinancing with BNP Paribas and the National Bank of Greece, marking the shipping group’s first unsecured international bank financing. The National Shipping…",
+          "date": "2026-09-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/bahri-shifts-funding-model-with-263m-unsecured-deal/",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
           "title": "One week to go until shipping leaders gather at Splash Singapore",
           "summary": "With just seven days to go until the inaugural Splash Singapore, shipowners, managers, charterers, technology leaders and investors are preparing to gather at the Fairmont Singapore for a day built around one question…",
           "date": "2026-09-17",
@@ -1616,15 +1641,6 @@
           "date": "2026-09-16",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/valeura-completes-jasmine-drilling-campaign-announces-suraphi-discovery-79961",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Southeast Asia’s hydrocarbon push: Valeura hits oil pay, eyes new satellite development",
-          "summary": "Southeast Asia’s hydrocarbon sector has gained fresh momentum as Canadian oil and gas company Valeura Energy struck an oil discovery near its existing offshore field in the Gulf of Thailand, potentially supporting a new…",
-          "date": "2026-09-16",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/southeast-asias-hydrocarbon-push-valeura-hits-oil-pay-eyes-new-satellite-development/",
           "relevant": false,
           "region": "SEA"
         },
@@ -1661,6 +1677,15 @@
           "date": "2026-09-16",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542978-valeura-finds-new-oil-near-manora-field-in-gulf-of-thailand",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Southeast Asia’s hydrocarbon push: Valeura hits oil pay, eyes new satellite development",
+          "summary": "Southeast Asia’s hydrocarbon sector has gained fresh momentum as Canadian oil and gas company Valeura Energy struck an oil discovery near its existing offshore field in the Gulf of Thailand, potentially supporting a new…",
+          "date": "2026-09-16",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/southeast-asias-hydrocarbon-push-valeura-hits-oil-pay-eyes-new-satellite-development/",
           "relevant": false,
           "region": "SEA"
         },
