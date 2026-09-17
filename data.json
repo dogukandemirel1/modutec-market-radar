@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T12:00:59Z",
+  "last_updated": "2026-09-17T13:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8,6 +8,14 @@
       "short_title": "Day-Rates",
       "description": "Benchmark day-rate trends for jackups, floaters and offshore support vessels across key regions.",
       "items": [
+        {
+          "title": "Odin begins US contract as Borr Drilling wins Idun deal in Vietnam",
+          "summary": "Borr Drilling provided operational and contracting updates across its jackup fleet, including the start of dayrate operations for the Odin in the US and a new contract award for the Idun offshore Vietnam. Following…",
+          "date": "2026-09-17",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/odin-begins-us-contract-as-borr-drilling-wins-idun-deal-in-vietnam-80027",
+          "relevant": false
+        },
         {
           "title": "Scarabeo 8 drills gas discovery for Aker BP in North Sea",
           "summary": "Aker BP made a gas discovery in the Alpehumle prospect, about 25 km north of the Duva field in the North Sea, using Saipem’s Scarabeo 8 semisubmersible. Well 36/4-2, the first exploration well in production license…",
@@ -73,6 +81,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Transito launches combined sea and inland freight service",
+          "summary": "Dutch chartering company Transito has launched a new service combining sea freight and inland shipping under one contract, as low water levels and other disruptions put more pressure on cargo movements between European…",
+          "date": "2026-09-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/transito-launches-combined-sea-and-inland-freight-service/",
+          "relevant": false
+        },
+        {
           "title": "Huelva awards 50-year concession for new logistics zone",
           "summary": "The Port of Huelva has awarded a 50-year concession to ZAL Huelva for the construction and operation of a new logistics zone at Punta del Sebo, advancing a project the Spanish gateway has been working on for several…",
           "date": "2026-09-17",
@@ -86,6 +102,14 @@
           "date": "2026-09-17",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/exmar-lands-10-year-abidjan-fsru-deal/",
+          "relevant": false
+        },
+        {
+          "title": "Halliburton to deliver integrated well services for Eni’s Cronos project offshore Cyprus",
+          "summary": "Halliburton secured a bundled well construction and completions contract from Eni for the Cronos ultra-deepwater gas development in Block 6 of the Cyprus Exclusive Economic Zone. The award covers exploration and…",
+          "date": "2026-09-17",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/halliburton-to-deliver-integrated-well-services-for-enis-cronos-project-offshore-cyprus-80024",
           "relevant": false
         },
         {
@@ -1329,6 +1353,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "SOCAR Enters Africa",
+          "summary": "'The acquisition marks SOCAR's entry into Africa's upstream sector and underscores the company's long-term strategy to expand its global upstream footprint', the State Oil Company of the Azerbaijani Republic said.",
+          "date": "2026-09-17",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/socar_enters_africa-17-sep-2026-184639-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "Eni divests 10% stake in Côte d’Ivoire’s Baleine oilfield to SOCAR",
           "summary": "Italian energy company Eni has completed the sale of a 10% interest in the Baleine offshore oil project in Côte d’Ivoire to the State Oil Company of Azerbaijan Republic (SOCAR).",
           "date": "2026-09-17",
@@ -1672,6 +1704,15 @@
           "source_url": "https://splash247.com/bahri-shifts-funding-model-with-263m-unsecured-deal/",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Indonesia’s First Aircraft Carrier: Former Italian Ship ‘Garibaldi’ Reaches Domestic Waters",
+          "summary": "The ex-Italian Navy carrier Garibaldi reaches Indonesia as the nation's first aircraft carrier, ahead of its formal welcome in Jakarta. The post Indonesia’s First Aircraft Carrier: Former Italian Ship ‘Garibaldi’…",
+          "date": "2026-09-17",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/indonesias-first-aircraft-carrier-former-italian-ship-garibaldi-reaches-domestic-waters/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "One week to go until shipping leaders gather at Splash Singapore",
