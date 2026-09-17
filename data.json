@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T19:00:57Z",
+  "last_updated": "2026-09-17T20:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -969,6 +969,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "IMO Sounds Alarm as Attacks on Merchant Ships Spread Across Global Trade Routes",
+          "summary": "The head of the International Maritime Organization is calling on governments to stop attacks on merchant shipping as conflicts increasingly spill into some of the world’s most important trade routes....",
+          "date": "2026-09-17",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/imo-sounds-alarm-as-attacks-on-merchant-ships-spread-across-global-trade-routes/",
+          "relevant": false
+        },
+        {
           "title": "China Presses Iran to Help Rein in Houthis After Saudi Appeal, Sources Say",
           "summary": "China has privately asked Tehran to help rein in Yemen's Houthis after an appeal to Beijing by Saudi Arabia following the Iran-backed group's military blitz in the past week, according to three Iranian sources familiar…",
           "date": "2026-09-17",
@@ -1033,19 +1041,19 @@
           "relevant": false
         },
         {
-          "title": "South Korean Carrier Bets on 20-Day Arctic Route to Europe",
-          "summary": "South Korea’s PanStar Group plans to expand Arctic container voyages from next year after completing a trial run to Europe in about 20 days, betting that a seasonal service focused on high-value cargo can compete with…",
-          "date": "2026-09-16",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/south-korean-carrier-bets-on-20-day-arctic-route-to-europe/",
-          "relevant": false
-        },
-        {
           "title": "Equinor Gets Clearance for Drilling Ops in North Sea",
           "summary": "The Norwegian Offshore Directorate has granted Equinor a drilling permit for a wildcat well in the North Sea.The permit is for wellbore 25/9-5 S in production license 1042…",
           "date": "2026-09-16",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542981-equinor-gets-clearance-for-drilling-ops-in-north-sea",
+          "relevant": false
+        },
+        {
+          "title": "South Korean Carrier Bets on 20-Day Arctic Route to Europe",
+          "summary": "South Korea’s PanStar Group plans to expand Arctic container voyages from next year after completing a trial run to Europe in about 20 days, betting that a seasonal service focused on high-value cargo can compete with…",
+          "date": "2026-09-16",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/south-korean-carrier-bets-on-20-day-arctic-route-to-europe/",
           "relevant": false
         },
         {
