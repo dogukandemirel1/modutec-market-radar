@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T20:00:57Z",
+  "last_updated": "2026-09-17T21:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1754,6 +1754,15 @@
           "source_url": "https://www.navalnews.com/naval-news/2026/09/indonesias-first-aircraft-carrier-former-italian-ship-garibaldi-reaches-domestic-waters/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Oil Falls as Mideast Flows Improve",
+          "summary": "Crude fell as Saudi pipeline flows improved while uncertainty over Iran and Hormuz persisted.",
+          "date": "2026-09-17",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/oil_falls_as_mideast_flows_improve-17-sep-2026-184646-article/?rss=true",
+          "relevant": false,
+          "region": "KSA"
         },
         {
           "title": "Aramco Hunts for Fuel Supply in the Med",
