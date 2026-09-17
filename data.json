@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T07:01:03Z",
+  "last_updated": "2026-09-17T08:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -78,14 +78,6 @@
           "date": "2026-09-16",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/fox-news-iran-attack-hits-u-s-contracted-ship-carrying-american-personnel/",
-          "relevant": false
-        },
-        {
-          "title": "Eni adds Halliburton to Cronos contractor lineup",
-          "summary": "Houston-headquartered energy services giant Halliburton has won a bundled well construction and completions contract from Eni for the Cronos ultra-deepwater development off Cyprus. Under the contract, Halliburton will…",
-          "date": "2026-09-16",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/eni-adds-halliburton-to-cronos-contractor-lineup/",
           "relevant": false
         },
         {
@@ -175,6 +167,14 @@
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542985-saudi-export-disruptions-push-oil-to-four-month-highs",
           "relevant": true
+        },
+        {
+          "title": "Eni adds Halliburton to Cronos contractor lineup",
+          "summary": "Houston-headquartered energy services giant Halliburton has won a bundled well construction and completions contract from Eni for the Cronos ultra-deepwater development off Cyprus. Under the contract, Halliburton will…",
+          "date": "2026-09-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/eni-adds-halliburton-to-cronos-contractor-lineup/",
+          "relevant": false
         },
         {
           "title": "Transocean wins fresh Equatorial Guinea drillship contract",
@@ -881,6 +881,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "America’s copper paradox sets up new seaborne trade flows",
+          "summary": "Washington wants to bring the copper supply chain home, but the result could be record refined imports in one direction and US-mined concentrate heading back out to sea in the other. US copper policy is beginning to…",
+          "date": "2026-09-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/americas-copper-paradox-sets-up-new-seaborne-trade-flows/",
+          "relevant": false
+        },
+        {
           "title": "Lawmakers vote to block California ship emissions rules",
           "summary": "The US House has voted to overturn California’s stringent at-berth emissions regulations for oceangoing ships, setting up another federal clash over the state’s ability to impose tougher environmental standards than the…",
           "date": "2026-09-17",
@@ -1241,14 +1249,6 @@
           "relevant": true
         },
         {
-          "title": "SGMF completes three-fuel lifecycle picture",
-          "summary": "Shipping’s alternative fuel debate has acquired a useful new reference point with an important fuel body completing lifecycle assessments of LNG, ammonia and now methanol — and the clearest conclusion is that the…",
-          "date": "2026-09-16",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/sgmf-completes-three-fuel-lifecycle-picture/",
-          "relevant": false
-        },
-        {
           "title": "ADES completes acquisition of five Saipem jackups in Saudi Arabia",
           "summary": "Saipem completed the sale of its entire shareholding in Saudi Arabian Saipem to ADES. The transaction, announced 24 June 2026, closed after Saipem obtained all applicable regulatory approvals and satisfied customary…",
           "date": "2026-09-16",
@@ -1302,6 +1302,14 @@
           "date": "2026-09-16",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542979-borr-drilling-reshapes-mexico-operations-extends-rig-backlog",
+          "relevant": false
+        },
+        {
+          "title": "SGMF completes three-fuel lifecycle picture",
+          "summary": "Shipping’s alternative fuel debate has acquired a useful new reference point with an important fuel body completing lifecycle assessments of LNG, ammonia and now methanol — and the clearest conclusion is that the…",
+          "date": "2026-09-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/sgmf-completes-three-fuel-lifecycle-picture/",
           "relevant": false
         },
         {
@@ -1560,6 +1568,14 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "China fills Gulf void as war redraws cement feedstock trade",
+          "summary": "China has emerged as an unlikely beneficiary of the disruption to Middle Eastern dry bulk trades, with soaring limestone exports helping fill a hole left by the collapse in Persian Gulf supply and providing fresh…",
+          "date": "2026-09-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/china-fills-gulf-void-as-war-redraws-cement-feedstock-trade/",
+          "relevant": false
+        },
         {
           "title": "One week to go until shipping leaders gather at Splash Singapore",
           "summary": "With just seven days to go until the inaugural Splash Singapore, shipowners, managers, charterers, technology leaders and investors are preparing to gather at the Fairmont Singapore for a day built around one question…",
