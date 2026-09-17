@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T06:01:00Z",
+  "last_updated": "2026-09-17T07:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -881,6 +881,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Lawmakers vote to block California ship emissions rules",
+          "summary": "The US House has voted to overturn California’s stringent at-berth emissions regulations for oceangoing ships, setting up another federal clash over the state’s ability to impose tougher environmental standards than the…",
+          "date": "2026-09-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/lawmakers-vote-to-block-california-ship-emissions-rules/",
+          "relevant": false
+        },
+        {
           "title": "Exclusive: China Sends Key Arctic LNG 2 Modules to Russia to Complete Train 2",
           "summary": "Two U.S.-sanctioned heavy-lift vessels are carrying critical power-generation modules from China toward Russia’s Arctic LNG 2 project, according to satellite imagery and vessel-tracking data. The shipment is the latest…",
           "date": "2026-09-16",
@@ -1224,6 +1232,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "Bower Offshore takes ownership of managed PSV",
+          "summary": "Bower Offshore has bought the Songa Commander platform supply vessel from Blystad Group. The company, previously known as Remøy Shipping and rebranded after Saudi Arabia’s Zamil Offshore Services Company acquired it…",
+          "date": "2026-09-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/bower-offshore-takes-ownership-of-managed-psv/",
+          "relevant": true
+        },
         {
           "title": "SGMF completes three-fuel lifecycle picture",
           "summary": "Shipping’s alternative fuel debate has acquired a useful new reference point with an important fuel body completing lifecycle assessments of LNG, ammonia and now methanol — and the clearest conclusion is that the…",
