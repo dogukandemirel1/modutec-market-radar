@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T11:00:59Z",
+  "last_updated": "2026-09-17T12:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -86,6 +86,14 @@
           "date": "2026-09-17",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/exmar-lands-10-year-abidjan-fsru-deal/",
+          "relevant": false
+        },
+        {
+          "title": "U.S. Navy Expands Hammerhead Anti-Submarine Mine Production with General Dynamics",
+          "summary": "General Dynamics Mission Systems has been awarded a contract modification by the U.S. Navy to continue development and delivery of the Hammerhead anti-submarine mine system. The post U.S. Navy Expands Hammerhead…",
+          "date": "2026-09-17",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/u-s-navy-expands-hammerhead-anti-submarine-mine-production-with-general-dynamics/",
           "relevant": false
         },
         {
@@ -185,14 +193,6 @@
           "relevant": false
         },
         {
-          "title": "Halliburton wins well services contract for Eni’s Cronos project",
-          "summary": "Halliburton has been awarded a contract by Eni to provide a bundled package of well construction and completions services for the Cronos project offshore Cyprus.",
-          "date": "2026-09-16",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/halliburton-well-services-contract-cronos-project/",
-          "relevant": false
-        },
-        {
           "title": "Northrop Grumman wins contract for Marine UH-1Y, AH-1Z Link 16 kits",
           "summary": "Northrop Grumman received a $34.39m contract to provide Link 16 upgrade kits and spares for the US Marine Corps’ UH-1Y and AH-1Z helicopters. The post Northrop Grumman wins contract for Marine UH-1Y, AH-1Z Link 16 kits…",
           "date": "2026-09-16",
@@ -215,6 +215,14 @@
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542985-saudi-export-disruptions-push-oil-to-four-month-highs",
           "relevant": true
+        },
+        {
+          "title": "Halliburton wins well services contract for Eni’s Cronos project",
+          "summary": "Halliburton has been awarded a contract by Eni to provide a bundled package of well construction and completions services for the Cronos project offshore Cyprus.",
+          "date": "2026-09-16",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/halliburton-well-services-contract-cronos-project/",
+          "relevant": false
         },
         {
           "title": "Eni adds Halliburton to Cronos contractor lineup",
