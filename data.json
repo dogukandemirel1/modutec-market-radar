@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T09:00:57Z",
+  "last_updated": "2026-09-18T10:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -89,11 +89,11 @@
           "relevant": false
         },
         {
-          "title": "50Hertz awards fresh North Sea converter platform contract",
-          "summary": "German transmission system operator 50Hertz and Neptun Smulders Offshore Renewables have signed a contract to build an offshore converter station for the LanWin3 offshore grid connection project in the North Sea. In…",
+          "title": "New contracts for Vallourec in Brazil and Greece for oil & gas and CO2 storage",
+          "summary": "French provider of tubular solutions Vallourec has won a contract with Subsea7 to supply carbon […] The post New contracts for Vallourec in Brazil and Greece for oil & gas and CO2 storage appeared first on Offshore…",
           "date": "2026-09-18",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/50hertz-awards-fresh-north-sea-converter-platform-contract/",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/new-contracts-for-vallourec-in-brazil-and-greece-for-oil-gas-and-co2-storage/",
           "relevant": false
         },
         {
@@ -110,6 +110,14 @@
           "date": "2026-09-18",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543073-indonesia-picks-winners-for-six-oil-and-gas-blocks-puts-eight-more-on-offer",
+          "relevant": false
+        },
+        {
+          "title": "50Hertz awards fresh North Sea converter platform contract",
+          "summary": "German transmission system operator 50Hertz and Neptun Smulders Offshore Renewables have signed a contract to build an offshore converter station for the LanWin3 offshore grid connection project in the North Sea. In…",
+          "date": "2026-09-18",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/50hertz-awards-fresh-north-sea-converter-platform-contract/",
           "relevant": false
         },
         {
@@ -169,19 +177,19 @@
           "relevant": true
         },
         {
-          "title": "Transocean’s 2016-built drillship wins multimillion-dollar job in Equatorial Guinea",
-          "summary": "Switzerland-based offshore drilling contractor Transocean has secured an estimated 170-day assignment for its ten-year-old ultra-deepwater drillship off the coast of Equatorial Guinea, adding approximately $80 million…",
-          "date": "2026-09-17",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/transoceans-2016-built-drillship-wins-multimillion-dollar-job-in-equatorial-guinea/",
-          "relevant": false
-        },
-        {
           "title": "GDEB wins $240m contracts for Virginia-class submarine parts",
           "summary": "General Dynamics Electric Boat (GDEB) has received three undefinitised orders worth a combined total of nearly $240m for Virginia-class submarines. The post GDEB wins $240m contracts for Virginia-class submarine parts…",
           "date": "2026-09-17",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/gdeb-virginia-submarines-contract/",
+          "relevant": false
+        },
+        {
+          "title": "Transocean’s 2016-built drillship wins multimillion-dollar job in Equatorial Guinea",
+          "summary": "Switzerland-based offshore drilling contractor Transocean has secured an estimated 170-day assignment for its ten-year-old ultra-deepwater drillship off the coast of Equatorial Guinea, adding approximately $80 million…",
+          "date": "2026-09-17",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/transoceans-2016-built-drillship-wins-multimillion-dollar-job-in-equatorial-guinea/",
           "relevant": false
         },
         {
@@ -233,14 +241,6 @@
           "relevant": false
         },
         {
-          "title": "Halliburton bags Eni’s deepwater bundle as Eastern Mediterranean gas buildout continues",
-          "summary": "U.S.-headquartered oilfield services player Halliburton has secured a multi-year contract with Italy’s energy giant Eni to provide bundled well construction and completions services for an ultra-deepwater development in…",
-          "date": "2026-09-16",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/halliburton-bags-enis-deepwater-bundle-as-eastern-mediterranean-gas-buildout-continues/",
-          "relevant": false
-        },
-        {
           "title": "Northrop Grumman wins contract for Marine UH-1Y, AH-1Z Link 16 kits",
           "summary": "Northrop Grumman received a $34.39m contract to provide Link 16 upgrade kits and spares for the US Marine Corps’ UH-1Y and AH-1Z helicopters. The post Northrop Grumman wins contract for Marine UH-1Y, AH-1Z Link 16 kits…",
           "date": "2026-09-16",
@@ -254,6 +254,14 @@
           "date": "2026-09-16",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/lithuania-klaipeda-port-eib-loan/",
+          "relevant": false
+        },
+        {
+          "title": "Halliburton bags Eni’s deepwater bundle as Eastern Mediterranean gas buildout continues",
+          "summary": "U.S.-headquartered oilfield services player Halliburton has secured a multi-year contract with Italy’s energy giant Eni to provide bundled well construction and completions services for an ultra-deepwater development in…",
+          "date": "2026-09-16",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/halliburton-bags-enis-deepwater-bundle-as-eastern-mediterranean-gas-buildout-continues/",
           "relevant": false
         },
         {
@@ -1433,6 +1441,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Turn Services takes over St. John Fleeting",
+          "summary": "US inland marine operator Turn Services has completed its acquisition of St. John Fleeting and its affiliated companies, expanding its barge operations on the Lower Mississippi River. The deal gives Turn Services…",
+          "date": "2026-09-18",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/turn-services-takes-over-st-john-fleeting/",
+          "relevant": false
+        },
+        {
           "title": "Turkish yard wins race for Croatia’s Uljanik",
           "summary": "Croatia has selected Turkey’s Kuzey Star Shipyard to take control of Uljanik Brodogradnja 1856, moving the historic Pula shipbuilding operation closer to private ownership after years of state-backed restructuring. The…",
           "date": "2026-09-18",
@@ -1800,6 +1816,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Oil Goes Down 2% as Saudi Supply Concerns Recede",
+          "summary": "Oil prices fell 2% on Friday, extending losses for a third straight session as easing concerns over Saudi supply disruptions outweighed anxiety about a widening of conflict across the Middle East…",
+          "date": "2026-09-18",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543076-oil-goes-down-2-as-saudi-supply-concerns-recede",
+          "relevant": false,
+          "region": "KSA"
+        },
         {
           "title": "Equinor Signs Long-Term LNG Supply Deal with PTTT",
           "summary": "Equinor has signed a long-term agreement to supply liquefied natural gas to Thailand's largest state-controlled oil and gas conglomerate PTTT, expanding its LNG business in Asia…",
