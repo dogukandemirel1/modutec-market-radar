@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T13:00:58Z",
+  "last_updated": "2026-09-18T14:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1096,6 +1096,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "Hanwha Ocean’s design solution allowing LNG carrier’s switch to ammonia gets ABS’ thumbs-up",
+          "summary": "The American Bureau of Shipping (ABS), a classification society, has handed out approval in principle (AIP) for a multi-purpose fuel tank and fuel gas supply system design that enables a liquefied natural gas (LNG)…",
+          "date": "2026-09-18",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/hanwha-oceans-design-solution-allowing-lng-carriers-switch-to-ammonia-gets-abs-thumbs-up/",
+          "relevant": false
+        },
         {
           "title": "TotalEnergies Secures $1.8B in Capital from GIP for African Assets",
           "summary": "In exchange TotalEnergies will pay BlackRock's GIP a throughput-based tariff for up to 15 years.",
