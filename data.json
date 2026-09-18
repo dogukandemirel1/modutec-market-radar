@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T18:00:58Z",
+  "last_updated": "2026-09-18T19:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -217,14 +217,6 @@
           "relevant": false
         },
         {
-          "title": "GDEB wins $240m contracts for Virginia-class submarine parts",
-          "summary": "General Dynamics Electric Boat (GDEB) has received three undefinitised orders worth a combined total of nearly $240m for Virginia-class submarines. The post GDEB wins $240m contracts for Virginia-class submarine parts…",
-          "date": "2026-09-17",
-          "source_name": "Naval Technology",
-          "source_url": "https://www.naval-technology.com/news/gdeb-virginia-submarines-contract/",
-          "relevant": false
-        },
-        {
           "title": "TKMS ATLAS UK Awarded UK MOD NGCM Torpedo Defence System Contract",
           "summary": "TKMS ATLAS UK has been awarded a UK MOD contract to develop and supply the Next Generation Countermeasure (NGCM) system, enhancing torpedo defense for Royal Navy submarines. The post TKMS ATLAS UK Awarded UK MOD NGCM…",
           "date": "2026-09-17",
@@ -246,6 +238,14 @@
           "date": "2026-09-17",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/09/u-s-navy-taps-three-shipyards-in-280m-push-to-accelerate-lcu-1700-production/",
+          "relevant": false
+        },
+        {
+          "title": "GDEB wins $240m contracts for Virginia-class submarine parts",
+          "summary": "General Dynamics Electric Boat (GDEB) has received three undefinitised orders worth a combined total of nearly $240m for Virginia-class submarines. The post GDEB wins $240m contracts for Virginia-class submarine parts…",
+          "date": "2026-09-17",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/gdeb-virginia-submarines-contract/",
           "relevant": false
         },
         {
@@ -305,22 +305,6 @@
           "relevant": false
         },
         {
-          "title": "Northrop Grumman wins contract for Marine UH-1Y, AH-1Z Link 16 kits",
-          "summary": "Northrop Grumman received a $34.39m contract to provide Link 16 upgrade kits and spares for the US Marine Corps’ UH-1Y and AH-1Z helicopters. The post Northrop Grumman wins contract for Marine UH-1Y, AH-1Z Link 16 kits…",
-          "date": "2026-09-16",
-          "source_name": "Naval Technology",
-          "source_url": "https://www.naval-technology.com/news/northrop-grumman-marines-helicopters/",
-          "relevant": false
-        },
-        {
-          "title": "Lithuania’s Klaipėda Port lands $115m EIB loan to bolster defence role",
-          "summary": "Lithuania’s Klaipėda State Seaport has secured a €100m ($115m) loan from the European Investment Bank (EIB) to upgrade its defence and energy infrastructure as security concerns rise in the Baltic region following…",
-          "date": "2026-09-16",
-          "source_name": "Naval Technology",
-          "source_url": "https://www.naval-technology.com/news/lithuania-klaipeda-port-eib-loan/",
-          "relevant": false
-        },
-        {
           "title": "First Virginia Payload Module (VPM) Spotted for U.S. Navy’s Block V Submarines",
           "summary": "General Dynamics Electric Boat has shared a photo showing the first completed Virginia Payload Module (VPM) for the U.S. Navy's Block V submarines, expanding strike capacity. The post First Virginia Payload Module (VPM)…",
           "date": "2026-09-16",
@@ -334,6 +318,22 @@
           "date": "2026-09-16",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/09/castelion-secures-u-s-navy-production-order-for-blackbeard-hypersonic-weapon/",
+          "relevant": false
+        },
+        {
+          "title": "Northrop Grumman wins contract for Marine UH-1Y, AH-1Z Link 16 kits",
+          "summary": "Northrop Grumman received a $34.39m contract to provide Link 16 upgrade kits and spares for the US Marine Corps’ UH-1Y and AH-1Z helicopters. The post Northrop Grumman wins contract for Marine UH-1Y, AH-1Z Link 16 kits…",
+          "date": "2026-09-16",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/northrop-grumman-marines-helicopters/",
+          "relevant": false
+        },
+        {
+          "title": "Lithuania’s Klaipėda Port lands $115m EIB loan to bolster defence role",
+          "summary": "Lithuania’s Klaipėda State Seaport has secured a €100m ($115m) loan from the European Investment Bank (EIB) to upgrade its defence and energy infrastructure as security concerns rise in the Baltic region following…",
+          "date": "2026-09-16",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/lithuania-klaipeda-port-eib-loan/",
           "relevant": false
         },
         {
@@ -1113,6 +1113,14 @@
           "relevant": false
         },
         {
+          "title": "Future USS Baltimore to Serve as U.S. Navy’s Elite Seabed Warfare Submarine",
+          "summary": "U.S. Navy and General Dynamics are converting the future USS Baltimore (SSN 812) into an elite seabed warfare submarine to succeed the USS Jimmy Carter. The post Future USS Baltimore to Serve as U.S. Navy’s Elite Seabed…",
+          "date": "2026-09-18",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/uss-baltimore-seabed-warfare-submarine/",
+          "relevant": false
+        },
+        {
           "title": "Hanwha Ocean’s design solution allowing LNG carrier’s switch to ammonia gets ABS’ thumbs-up",
           "summary": "The American Bureau of Shipping (ABS), a classification society, has handed out approval in principle (AIP) for a multi-purpose fuel tank and fuel gas supply system design that enables a liquefied natural gas (LNG)…",
           "date": "2026-09-18",
@@ -1126,14 +1134,6 @@
           "date": "2026-09-18",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/totalenergies_secures_18b_in_capital_from_gip_for_african_assets-18-sep-2026-184649-article/?rss=true",
-          "relevant": false
-        },
-        {
-          "title": "Future USS Baltimore to Serve as U.S. Navy’s Elite Seabed Warfare Submarine",
-          "summary": "U.S. Navy and General Dynamics are converting the future USS Baltimore (SSN 812) into an elite seabed warfare submarine to succeed the USS Jimmy Carter. The post Future USS Baltimore to Serve as U.S. Navy’s Elite Seabed…",
-          "date": "2026-09-18",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/uss-baltimore-seabed-warfare-submarine/",
           "relevant": false
         },
         {
@@ -1966,6 +1966,15 @@
           "region": "SEA"
         },
         {
+          "title": "Indonesia’s First Aircraft Carrier: Former Italian Ship ‘Garibaldi’ Reaches Domestic Waters",
+          "summary": "The ex-Italian Navy carrier Garibaldi reaches Indonesia as the nation's first aircraft carrier, ahead of its formal welcome in Jakarta. The post Indonesia’s First Aircraft Carrier: Former Italian Ship ‘Garibaldi’…",
+          "date": "2026-09-17",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/indonesias-first-aircraft-carrier-former-italian-ship-garibaldi-reaches-domestic-waters/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Oil Falls as Mideast Flows Improve",
           "summary": "Crude fell as Saudi pipeline flows improved while uncertainty over Iran and Hormuz persisted.",
           "date": "2026-09-17",
@@ -2000,15 +2009,6 @@
           "source_url": "https://gcaptain.com/oil-extends-drop-as-saudi-arabia-moves-to-restore-vital-pipeline/",
           "relevant": true,
           "region": "KSA"
-        },
-        {
-          "title": "Indonesia’s First Aircraft Carrier: Former Italian Ship ‘Garibaldi’ Reaches Domestic Waters",
-          "summary": "The ex-Italian Navy carrier Garibaldi reaches Indonesia as the nation's first aircraft carrier, ahead of its formal welcome in Jakarta. The post Indonesia’s First Aircraft Carrier: Former Italian Ship ‘Garibaldi’…",
-          "date": "2026-09-17",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/indonesias-first-aircraft-carrier-former-italian-ship-garibaldi-reaches-domestic-waters/",
-          "relevant": false,
-          "region": "SEA"
         },
         {
           "title": "Bahri shifts funding model with $263m unsecured deal",
