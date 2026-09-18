@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T16:00:59Z",
+  "last_updated": "2026-09-18T17:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -134,6 +134,14 @@
           "date": "2026-09-18",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/petrobras-eight-offshore-pscs-cote-divoire/",
+          "relevant": false
+        },
+        {
+          "title": "TKMS ATLAS UK secures Royal Navy NGCM torpedo defence contract",
+          "summary": "TKMS ATLAS UK has been awarded the contract for the UK Ministry of Defence’s (MoD) Next Generation Countermeasure (NGCM) programme, intended to equip the Royal Navy’s submarine fleet with updated defences against…",
+          "date": "2026-09-18",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/tkms-atlas-uk-ngcm-torpedo-defence/",
           "relevant": false
         },
         {
