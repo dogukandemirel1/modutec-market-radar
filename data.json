@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T06:00:54Z",
+  "last_updated": "2026-09-18T07:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -158,6 +158,14 @@
           "date": "2026-09-17",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/transoceans-2016-built-drillship-wins-multimillion-dollar-job-in-equatorial-guinea/",
+          "relevant": false
+        },
+        {
+          "title": "GDEB wins $240m contracts for Virginia-class submarine parts",
+          "summary": "General Dynamics Electric Boat (GDEB) has received three undefinitised orders worth a combined total of nearly $240m for Virginia-class submarines. The post GDEB wins $240m contracts for Virginia-class submarine parts…",
+          "date": "2026-09-17",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/gdeb-virginia-submarines-contract/",
           "relevant": false
         },
         {
@@ -1738,15 +1746,6 @@
           "region": "KSA"
         },
         {
-          "title": "Bahri shifts funding model with $263m unsecured deal",
-          "summary": "Saudi Arabia’s Bahri has completed a SAR986.3m ($263m) refinancing with BNP Paribas and the National Bank of Greece, marking the shipping group’s first unsecured international bank financing. The National Shipping…",
-          "date": "2026-09-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/bahri-shifts-funding-model-with-263m-unsecured-deal/",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
           "title": "Indonesia’s First Aircraft Carrier: Former Italian Ship ‘Garibaldi’ Reaches Domestic Waters",
           "summary": "The ex-Italian Navy carrier Garibaldi reaches Indonesia as the nation's first aircraft carrier, ahead of its formal welcome in Jakarta. The post Indonesia’s First Aircraft Carrier: Former Italian Ship ‘Garibaldi’…",
           "date": "2026-09-17",
@@ -1779,6 +1778,15 @@
           "date": "2026-09-17",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/saudi_pipeline_outage_exposes_limits_of_supply_optionality-17-sep-2026-184640-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "Bahri shifts funding model with $263m unsecured deal",
+          "summary": "Saudi Arabia’s Bahri has completed a SAR986.3m ($263m) refinancing with BNP Paribas and the National Bank of Greece, marking the shipping group’s first unsecured international bank financing. The National Shipping…",
+          "date": "2026-09-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/bahri-shifts-funding-model-with-263m-unsecured-deal/",
           "relevant": true,
           "region": "KSA"
         },
