@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T05:00:59Z",
+  "last_updated": "2026-09-18T06:00:54Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1001,14 +1001,6 @@
           "relevant": false
         },
         {
-          "title": "America’s copper paradox sets up new seaborne trade flows",
-          "summary": "Washington wants to bring the copper supply chain home, but the result could be record refined imports in one direction and US-mined concentrate heading back out to sea in the other. US copper policy is beginning to…",
-          "date": "2026-09-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/americas-copper-paradox-sets-up-new-seaborne-trade-flows/",
-          "relevant": false
-        },
-        {
           "title": "India Pushes Back as US Readies New Russian Oil Sanctions",
           "summary": "India warned a U.S. bill allowing President Donald Trump to impose tariffs of as much as 100 percent on top buyers of Russian oil could hurt ties between New Delhi and Washington and disrupt global energy markets.",
           "date": "2026-09-17",
@@ -1030,6 +1022,14 @@
           "date": "2026-09-17",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543028-cyber-security-regulations-drive-resilience-agenda-for-offshore-energy-infrastructure",
+          "relevant": false
+        },
+        {
+          "title": "America’s copper paradox sets up new seaborne trade flows",
+          "summary": "Washington wants to bring the copper supply chain home, but the result could be record refined imports in one direction and US-mined concentrate heading back out to sea in the other. US copper policy is beginning to…",
+          "date": "2026-09-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/americas-copper-paradox-sets-up-new-seaborne-trade-flows/",
           "relevant": false
         },
         {
