@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T12:00:58Z",
+  "last_updated": "2026-09-18T13:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -89,6 +89,30 @@
           "relevant": false
         },
         {
+          "title": "Hornbeck wins multi-year North Sea P&A contract",
+          "summary": "Hornbeck Offshore Services secured a multi-year contract for riserless plug and abandonment work in the North Sea through its subsidiary Helix Well Ops, with an undisclosed major operator. The contract is set to begin…",
+          "date": "2026-09-18",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/hornbeck-wins-multi-year-north-sea-pa-contract-80036",
+          "relevant": false
+        },
+        {
+          "title": "Rig mobilization begins for Lion Energy’s East Seram well",
+          "summary": "Lion Energy began mobilizing the SCD-20 rig to its Bula Karang-1 exploration well site on Seram Island, Indonesia, with drilling targeted for September. The SCD-20, a Schramm Rotadrill TXD200 hydraulic unit contracted…",
+          "date": "2026-09-18",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/rig-mobilization-begins-for-lion-energys-east-seram-well-80034",
+          "relevant": false
+        },
+        {
+          "title": "Exmar’s FLNG conversion earns Bureau Veritas’ seal of approval",
+          "summary": "An approval in principle (AiP) from Bureau Veritas Marine & Offshore (BV), part of Bureau Veritas Group, is paving the way for Belgian shipping company Exmar to breathe life into its floating liquefied natural gas…",
+          "date": "2026-09-18",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/exmars-flng-conversion-earns-bureau-veritas-seal-of-approval/",
+          "relevant": false
+        },
+        {
           "title": "New contracts for Vallourec in Brazil and Greece for oil & gas and CO2 storage",
           "summary": "French provider of tubular solutions Vallourec has won a contract with Subsea7 to supply carbon […] The post New contracts for Vallourec in Brazil and Greece for oil & gas and CO2 storage appeared first on Offshore…",
           "date": "2026-09-18",
@@ -113,11 +137,19 @@
           "relevant": false
         },
         {
-          "title": "Transocean Drillship Gets $80M Equatorial Guinea Job",
+          "title": "Exmar FLNG Conversion Concept Gets Bureau Veritas Approval",
+          "summary": "Exmar has received Approval in Principle (AiP) from Bureau Veritas Marine & Offshore for a concept to convert an existing membrane-type LNG carrier into a floating…",
+          "date": "2026-09-18",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543085-exmar-flng-conversion-concept-gets-bureau-veritas-approval",
+          "relevant": false
+        },
+        {
+          "title": "Transocean Drillship Secures $80M Equatorial Guinea Job",
           "summary": "Transocean has been awarded a two-well contract for its Deepwater Conqueror ultra-deepwater drillship in Equatorial Guinea, adding about $80 million to the offshore driller's backlog…",
           "date": "2026-09-18",
           "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/543080-transocean-drillship-gets-80m-equatorial-guinea-job",
+          "source_url": "https://www.oedigital.com/news/543080-transocean-drillship-secures-80m-equatorial-guinea-job",
           "relevant": false
         },
         {
@@ -145,6 +177,14 @@
           "relevant": false
         },
         {
+          "title": "Transocean Drillship Gets $80M Equatorial Guinea Job",
+          "summary": "Transocean has been awarded a two-well contract for its Deepwater Conqueror ultra-deepwater drillship in Equatorial Guinea, adding about $80 million to the offshore driller's backlog…",
+          "date": "2026-09-18",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543080-transocean-drillship-gets-80m-equatorial-guinea-job",
+          "relevant": false
+        },
+        {
           "title": "50Hertz awards fresh North Sea converter platform contract",
           "summary": "German transmission system operator 50Hertz and Neptun Smulders Offshore Renewables have signed a contract to build an offshore converter station for the LanWin3 offshore grid connection project in the North Sea. In…",
           "date": "2026-09-18",
@@ -169,6 +209,14 @@
           "relevant": false
         },
         {
+          "title": "GDEB wins $240m contracts for Virginia-class submarine parts",
+          "summary": "General Dynamics Electric Boat (GDEB) has received three undefinitised orders worth a combined total of nearly $240m for Virginia-class submarines. The post GDEB wins $240m contracts for Virginia-class submarine parts…",
+          "date": "2026-09-17",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/gdeb-virginia-submarines-contract/",
+          "relevant": false
+        },
+        {
           "title": "TKMS ATLAS UK Awarded UK MOD NGCM Torpedo Defence System Contract",
           "summary": "TKMS ATLAS UK has been awarded a UK MOD contract to develop and supply the Next Generation Countermeasure (NGCM) system, enhancing torpedo defense for Royal Navy submarines. The post TKMS ATLAS UK Awarded UK MOD NGCM…",
           "date": "2026-09-17",
@@ -190,14 +238,6 @@
           "date": "2026-09-17",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/09/u-s-navy-taps-three-shipyards-in-280m-push-to-accelerate-lcu-1700-production/",
-          "relevant": false
-        },
-        {
-          "title": "GDEB wins $240m contracts for Virginia-class submarine parts",
-          "summary": "General Dynamics Electric Boat (GDEB) has received three undefinitised orders worth a combined total of nearly $240m for Virginia-class submarines. The post GDEB wins $240m contracts for Virginia-class submarine parts…",
-          "date": "2026-09-17",
-          "source_name": "Naval Technology",
-          "source_url": "https://www.naval-technology.com/news/gdeb-virginia-submarines-contract/",
           "relevant": false
         },
         {
@@ -257,22 +297,6 @@
           "relevant": false
         },
         {
-          "title": "First Virginia Payload Module (VPM) Spotted for U.S. Navy’s Block V Submarines",
-          "summary": "General Dynamics Electric Boat has shared a photo showing the first completed Virginia Payload Module (VPM) for the U.S. Navy's Block V submarines, expanding strike capacity. The post First Virginia Payload Module (VPM)…",
-          "date": "2026-09-16",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/slug-first-virginia-payload-module-vpm-spotted-block-v-submarines/",
-          "relevant": false
-        },
-        {
-          "title": "Castelion Secures U.S. Navy Production Order for Blackbeard Hypersonic Weapon",
-          "summary": "U.S. Navy awards Castelion a production delivery order valued at up to $200 million to manufacture Blackbeard hypersonic strike weapons for carrier-based aviation. The post Castelion Secures U.S. Navy Production Order…",
-          "date": "2026-09-16",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/castelion-secures-u-s-navy-production-order-for-blackbeard-hypersonic-weapon/",
-          "relevant": false
-        },
-        {
           "title": "Northrop Grumman wins contract for Marine UH-1Y, AH-1Z Link 16 kits",
           "summary": "Northrop Grumman received a $34.39m contract to provide Link 16 upgrade kits and spares for the US Marine Corps’ UH-1Y and AH-1Z helicopters. The post Northrop Grumman wins contract for Marine UH-1Y, AH-1Z Link 16 kits…",
           "date": "2026-09-16",
@@ -286,6 +310,22 @@
           "date": "2026-09-16",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/lithuania-klaipeda-port-eib-loan/",
+          "relevant": false
+        },
+        {
+          "title": "First Virginia Payload Module (VPM) Spotted for U.S. Navy’s Block V Submarines",
+          "summary": "General Dynamics Electric Boat has shared a photo showing the first completed Virginia Payload Module (VPM) for the U.S. Navy's Block V submarines, expanding strike capacity. The post First Virginia Payload Module (VPM)…",
+          "date": "2026-09-16",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/slug-first-virginia-payload-module-vpm-spotted-block-v-submarines/",
+          "relevant": false
+        },
+        {
+          "title": "Castelion Secures U.S. Navy Production Order for Blackbeard Hypersonic Weapon",
+          "summary": "U.S. Navy awards Castelion a production delivery order valued at up to $200 million to manufacture Blackbeard hypersonic strike weapons for carrier-based aviation. The post Castelion Secures U.S. Navy Production Order…",
+          "date": "2026-09-16",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/castelion-secures-u-s-navy-production-order-for-blackbeard-hypersonic-weapon/",
           "relevant": false
         },
         {
@@ -1057,19 +1097,19 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
-          "title": "Future USS Baltimore to Serve as U.S. Navy’s Elite Seabed Warfare Submarine",
-          "summary": "U.S. Navy and General Dynamics are converting the future USS Baltimore (SSN 812) into an elite seabed warfare submarine to succeed the USS Jimmy Carter. The post Future USS Baltimore to Serve as U.S. Navy’s Elite Seabed…",
-          "date": "2026-09-18",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/uss-baltimore-seabed-warfare-submarine/",
-          "relevant": false
-        },
-        {
           "title": "TotalEnergies Secures $1.8B in Capital from GIP for African Assets",
           "summary": "In exchange TotalEnergies will pay BlackRock's GIP a throughput-based tariff for up to 15 years.",
           "date": "2026-09-18",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/totalenergies_secures_18b_in_capital_from_gip_for_african_assets-18-sep-2026-184649-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Future USS Baltimore to Serve as U.S. Navy’s Elite Seabed Warfare Submarine",
+          "summary": "U.S. Navy and General Dynamics are converting the future USS Baltimore (SSN 812) into an elite seabed warfare submarine to succeed the USS Jimmy Carter. The post Future USS Baltimore to Serve as U.S. Navy’s Elite Seabed…",
+          "date": "2026-09-18",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/uss-baltimore-seabed-warfare-submarine/",
           "relevant": false
         },
         {
@@ -1902,15 +1942,6 @@
           "region": "KSA"
         },
         {
-          "title": "Indonesia’s First Aircraft Carrier: Former Italian Ship ‘Garibaldi’ Reaches Domestic Waters",
-          "summary": "The ex-Italian Navy carrier Garibaldi reaches Indonesia as the nation's first aircraft carrier, ahead of its formal welcome in Jakarta. The post Indonesia’s First Aircraft Carrier: Former Italian Ship ‘Garibaldi’…",
-          "date": "2026-09-17",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/indonesias-first-aircraft-carrier-former-italian-ship-garibaldi-reaches-domestic-waters/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Oil Falls as Mideast Flows Improve",
           "summary": "Crude fell as Saudi pipeline flows improved while uncertainty over Iran and Hormuz persisted.",
           "date": "2026-09-17",
@@ -1936,6 +1967,15 @@
           "source_url": "https://www.rigzone.com/news/saudi_pipeline_outage_exposes_limits_of_supply_optionality-17-sep-2026-184640-article/?rss=true",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Indonesia’s First Aircraft Carrier: Former Italian Ship ‘Garibaldi’ Reaches Domestic Waters",
+          "summary": "The ex-Italian Navy carrier Garibaldi reaches Indonesia as the nation's first aircraft carrier, ahead of its formal welcome in Jakarta. The post Indonesia’s First Aircraft Carrier: Former Italian Ship ‘Garibaldi’…",
+          "date": "2026-09-17",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/indonesias-first-aircraft-carrier-former-italian-ship-garibaldi-reaches-domestic-waters/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Bahri shifts funding model with $263m unsecured deal",
