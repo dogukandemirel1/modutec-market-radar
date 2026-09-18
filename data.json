@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T08:00:55Z",
+  "last_updated": "2026-09-18T08:58:15Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -94,6 +94,22 @@
           "date": "2026-09-18",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/50hertz-awards-fresh-north-sea-converter-platform-contract/",
+          "relevant": false
+        },
+        {
+          "title": "Apollo Tests Buyer Interest in $3B-Plus FLNG Business",
+          "summary": "Apollo Global Management is exploring strategic options for Energos Infrastructure, in a deal that could value the floating liquefied natural gas infrastructure provider at more than $3 billion…",
+          "date": "2026-09-18",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543075-apollo-tests-buyer-interest-in-3b-plus-flng-business",
+          "relevant": false
+        },
+        {
+          "title": "Indonesia Picks Winners for Six Oil and Gas Blocks, Puts Eight More on Offer",
+          "summary": "Indonesia has awarded six oil and gas working areas to companies including Eni and Sinopec and opened a second 2026 tender round covering eight more areas as it seeks to expand upstream exploration…",
+          "date": "2026-09-18",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543073-indonesia-picks-winners-for-six-oil-and-gas-blocks-puts-eight-more-on-offer",
           "relevant": false
         },
         {
@@ -225,14 +241,6 @@
           "relevant": false
         },
         {
-          "title": "TechnipFMC picks up multimillion-dollar subsea scope for Petronas’ deepwater project",
-          "summary": "UK-headquartered energy technology provider TechnipFMC has been tasked with an integrated engineering, procurement, construction, and installation (iEPCI) assignment for the development of a long-delayed deepwater…",
-          "date": "2026-09-16",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/technipfmc-picks-up-multimillion-dollar-subsea-scope-for-petronas-deepwater-project/",
-          "relevant": false
-        },
-        {
           "title": "Northrop Grumman wins contract for Marine UH-1Y, AH-1Z Link 16 kits",
           "summary": "Northrop Grumman received a $34.39m contract to provide Link 16 upgrade kits and spares for the US Marine Corps’ UH-1Y and AH-1Z helicopters. The post Northrop Grumman wins contract for Marine UH-1Y, AH-1Z Link 16 kits…",
           "date": "2026-09-16",
@@ -255,6 +263,14 @@
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542985-saudi-export-disruptions-push-oil-to-four-month-highs",
           "relevant": true
+        },
+        {
+          "title": "TechnipFMC picks up multimillion-dollar subsea scope for Petronas’ deepwater project",
+          "summary": "UK-headquartered energy technology provider TechnipFMC has been tasked with an integrated engineering, procurement, construction, and installation (iEPCI) assignment for the development of a long-delayed deepwater…",
+          "date": "2026-09-16",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/technipfmc-picks-up-multimillion-dollar-subsea-scope-for-petronas-deepwater-project/",
+          "relevant": false
         },
         {
           "title": "Hanwha Ocean to Conduct ROK Navy’s First Outsourced Destroyer Overhaul",
@@ -1001,6 +1017,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Future USS Baltimore to Serve as U.S. Navy’s Elite Seabed Warfare Submarine",
+          "summary": "U.S. Navy and General Dynamics are converting the future USS Baltimore (SSN 812) into an elite seabed warfare submarine to succeed the USS Jimmy Carter. The post Future USS Baltimore to Serve as U.S. Navy’s Elite Seabed…",
+          "date": "2026-09-18",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/uss-baltimore-seabed-warfare-submarine/",
+          "relevant": false
+        },
+        {
           "title": "IMO Sounds Alarm as Attacks on Merchant Ships Spread Across Global Trade Routes",
           "summary": "The head of the International Maritime Organization is calling on governments to stop attacks on merchant shipping as conflicts increasingly spill into some of the world’s most important trade routes....",
           "date": "2026-09-17",
@@ -1409,19 +1433,19 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
-          "title": "Tallvine expands US marine platform with Crosby takeover",
-          "summary": "US infrastructure investor Tallvine Partners has completed the acquisition of substantially all of Crosby Enterprises’ assets, adding more than 150 tugboats, dredges and support vessels to its rapidly expanding North…",
-          "date": "2026-09-18",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/tallvine-expands-us-marine-platform-with-crosby-takeover/",
-          "relevant": false
-        },
-        {
           "title": "Turkish yard wins race for Croatia’s Uljanik",
           "summary": "Croatia has selected Turkey’s Kuzey Star Shipyard to take control of Uljanik Brodogradnja 1856, moving the historic Pula shipbuilding operation closer to private ownership after years of state-backed restructuring. The…",
           "date": "2026-09-18",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/turkish-yard-wins-race-for-croatias-uljanik/",
+          "relevant": false
+        },
+        {
+          "title": "Tallvine expands US marine platform with Crosby takeover",
+          "summary": "US infrastructure investor Tallvine Partners has completed the acquisition of substantially all of Crosby Enterprises’ assets, adding more than 150 tugboats, dredges and support vessels to its rapidly expanding North…",
+          "date": "2026-09-18",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/tallvine-expands-us-marine-platform-with-crosby-takeover/",
           "relevant": false
         },
         {
@@ -1465,14 +1489,6 @@
           "relevant": true
         },
         {
-          "title": "Implications of the Hangor-class for Pakistan’s operational naval posture and strategic sovereignty",
-          "summary": "This Naval News outline examines the importance of the Hangor-class submarines acquisition for the operational priorities of the Pakistan Navy, the industrial perspective for Islamabad and Beijing. The feature also…",
-          "date": "2026-09-16",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/features/2026/09/pakistans-hangor-class-and-naval-strategic-souvereignty/",
-          "relevant": false
-        },
-        {
           "title": "Kimmeridge, Mubadala to Nearly Double Commonwealth LNG Capacity",
           "summary": "Caturus, the joint venture of Kimmeridge and Mubadala, plans to add five liquefaction trains with a combined capacity of 7.75 million metric tons per annum to the Commonwealth LNG export project in Louisiana.",
           "date": "2026-09-16",
@@ -1486,6 +1502,14 @@
           "date": "2026-09-16",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/bkv_expands_barnett_shale_footprint-16-sep-2026-184630-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Implications of the Hangor-class for Pakistan’s operational naval posture and strategic sovereignty",
+          "summary": "This Naval News outline examines the importance of the Hangor-class submarines acquisition for the operational priorities of the Pakistan Navy, the industrial perspective for Islamabad and Beijing. The feature also…",
+          "date": "2026-09-16",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/features/2026/09/pakistans-hangor-class-and-naval-strategic-souvereignty/",
           "relevant": false
         },
         {
@@ -1776,6 +1800,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Equinor Signs Long-Term LNG Supply Deal with PTTT",
+          "summary": "Equinor has signed a long-term agreement to supply liquefied natural gas to Thailand's largest state-controlled oil and gas conglomerate PTTT, expanding its LNG business in Asia…",
+          "date": "2026-09-18",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543072-equinor-signs-long-term-lng-supply-deal-with-pttt",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Oil Extends Drop as Saudi Arabia Moves to Restore Vital Pipeline",
           "summary": "Oil extended a decline on signs that supply disruptions in the Middle East are set to ease, with Saudi Arabia seeking to partially restore flows along a vital pipeline.",
