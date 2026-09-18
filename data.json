@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T17:00:57Z",
+  "last_updated": "2026-09-18T18:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1105,6 +1105,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "U.S. Sanctions Crypto Exchange Tied to Iran’s Hormuz Transit Payments",
+          "summary": "The United States has sanctioned an Iranian cryptocurrency exchange that Treasury says was used to move payments collected from ships transiting the Strait of Hormuz into Iran’s financial system. The...",
+          "date": "2026-09-18",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/u-s-sanctions-crypto-exchange-tied-to-irans-hormuz-transit-payments/",
+          "relevant": false
+        },
+        {
           "title": "Hanwha Ocean’s design solution allowing LNG carrier’s switch to ammonia gets ABS’ thumbs-up",
           "summary": "The American Bureau of Shipping (ABS), a classification society, has handed out approval in principle (AIP) for a multi-purpose fuel tank and fuel gas supply system design that enables a liquefied natural gas (LNG)…",
           "date": "2026-09-18",
@@ -1137,22 +1145,6 @@
           "relevant": false
         },
         {
-          "title": "China Presses Iran to Help Rein in Houthis After Saudi Appeal, Sources Say",
-          "summary": "China has privately asked Tehran to help rein in Yemen's Houthis after an appeal to Beijing by Saudi Arabia following the Iran-backed group's military blitz in the past week, according to three Iranian sources familiar…",
-          "date": "2026-09-17",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/china-presses-iran-to-help-rein-in-houthis-after-saudi-appeal-sources-say/",
-          "relevant": true
-        },
-        {
-          "title": "Exclusive: Sanctioned Ships Carry Critical Chinese Equipment to Russia’s Arctic LNG 2",
-          "summary": "Two U.S.-sanctioned heavy-lift vessels are carrying critical power-generation modules from China toward Russia’s Arctic LNG 2 project, according to satellite imagery and vessel-tracking data. The shipment is the latest…",
-          "date": "2026-09-17",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/exclusive-china-sends-key-arctic-lng-2-modules-to-russia-to-complete-train-2/",
-          "relevant": false
-        },
-        {
           "title": "India Pushes Back as US Readies New Russian Oil Sanctions",
           "summary": "India warned a U.S. bill allowing President Donald Trump to impose tariffs of as much as 100 percent on top buyers of Russian oil could hurt ties between New Delhi and Washington and disrupt global energy markets.",
           "date": "2026-09-17",
@@ -1174,6 +1166,22 @@
           "date": "2026-09-17",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543028-cyber-security-regulations-drive-resilience-agenda-for-offshore-energy-infrastructure",
+          "relevant": false
+        },
+        {
+          "title": "China Presses Iran to Help Rein in Houthis After Saudi Appeal, Sources Say",
+          "summary": "China has privately asked Tehran to help rein in Yemen's Houthis after an appeal to Beijing by Saudi Arabia following the Iran-backed group's military blitz in the past week, according to three Iranian sources familiar…",
+          "date": "2026-09-17",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/china-presses-iran-to-help-rein-in-houthis-after-saudi-appeal-sources-say/",
+          "relevant": true
+        },
+        {
+          "title": "Exclusive: Sanctioned Ships Carry Critical Chinese Equipment to Russia’s Arctic LNG 2",
+          "summary": "Two U.S.-sanctioned heavy-lift vessels are carrying critical power-generation modules from China toward Russia’s Arctic LNG 2 project, according to satellite imagery and vessel-tracking data. The shipment is the latest…",
+          "date": "2026-09-17",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/exclusive-china-sends-key-arctic-lng-2-modules-to-russia-to-complete-train-2/",
           "relevant": false
         },
         {
@@ -1913,6 +1921,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Three Tanker Attacks Hit Hormuz as Saudi Oil Is Forced Back Toward Strait",
+          "summary": "A new burst of attacks on commercial shipping in the Strait of Hormuz is hitting just as Saudi Arabia is being forced to send more oil back through the waterway...",
+          "date": "2026-09-18",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/three-tanker-attacks-hit-hormuz-as-saudi-oil-is-forced-back-toward-strait/",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
           "title": "Vietnam-made cable layer enters into service in Taiwan",
           "summary": "A new cable-laying vessel (CLV) built in Vietnam for ATE Energy International has entered […] The post Vietnam-made cable layer enters into service in Taiwan appeared first on Offshore Energy .",
           "date": "2026-09-18",
@@ -1949,15 +1966,6 @@
           "region": "SEA"
         },
         {
-          "title": "Oil Extends Drop as Saudi Arabia Moves to Restore Vital Pipeline",
-          "summary": "Oil extended a decline on signs that supply disruptions in the Middle East are set to ease, with Saudi Arabia seeking to partially restore flows along a vital pipeline.",
-          "date": "2026-09-17",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/oil-extends-drop-as-saudi-arabia-moves-to-restore-vital-pipeline/",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
           "title": "Oil Falls as Mideast Flows Improve",
           "summary": "Crude fell as Saudi pipeline flows improved while uncertainty over Iran and Hormuz persisted.",
           "date": "2026-09-17",
@@ -1981,6 +1989,15 @@
           "date": "2026-09-17",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/saudi_pipeline_outage_exposes_limits_of_supply_optionality-17-sep-2026-184640-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "Oil Extends Drop as Saudi Arabia Moves to Restore Vital Pipeline",
+          "summary": "Oil extended a decline on signs that supply disruptions in the Middle East are set to ease, with Saudi Arabia seeking to partially restore flows along a vital pipeline.",
+          "date": "2026-09-17",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/oil-extends-drop-as-saudi-arabia-moves-to-restore-vital-pipeline/",
           "relevant": true,
           "region": "KSA"
         },
