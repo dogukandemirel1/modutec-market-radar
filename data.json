@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T10:00:55Z",
+  "last_updated": "2026-09-18T11:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -94,6 +94,30 @@
           "date": "2026-09-18",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/new-contracts-for-vallourec-in-brazil-and-greece-for-oil-gas-and-co2-storage/",
+          "relevant": false
+        },
+        {
+          "title": "Viridien wins five-year contract for UK North Sea monitoring",
+          "summary": "France-based Viridien has secured a five-year contract from Ithaca Energy to provide an integrated environmental monitoring and marine situational-awareness solution for the UK North Sea’s Greater Stella Area.",
+          "date": "2026-09-18",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/viridien-contract-uk-north-sea-monitoring/",
+          "relevant": false
+        },
+        {
+          "title": "Petrobras secures eight offshore PSCs in Côte d’Ivoire",
+          "summary": "Brazilian state oil company Petrobras has entered into eight production sharing contracts (PSCs) for offshore exploration blocks in Côte d’Ivoire.",
+          "date": "2026-09-18",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/petrobras-eight-offshore-pscs-cote-divoire/",
+          "relevant": false
+        },
+        {
+          "title": "Petrobras Signs Eight Production-Sharing Contracts in Côte d’Ivoire",
+          "summary": "Petrobras, through its wholly owned subsidiary Petrobras Netherlands (PNBV), the Republic of Côte d’Ivoire and PETROCI Holding signed Production Sharing Contracts…",
+          "date": "2026-09-18",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543078-petrobras-signs-eight-production-sharing-contracts-in-c-te-d-ivoire",
           "relevant": false
         },
         {
@@ -1817,6 +1841,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Crude prices drop amid reduced concerns over Saudi oil supplies",
+          "summary": "Oil prices fell by around 2% on Friday, 18 September, continuing a three-session losing streak, as concerns over potential supply disruptions from Saudi Arabia showed signs of easing, reported Reuters.",
+          "date": "2026-09-18",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/crude-prices-drop-saudi-oil-supplies/",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
           "title": "Oil Goes Down 2% as Saudi Supply Concerns Recede",
           "summary": "Oil prices fell 2% on Friday, extending losses for a third straight session as easing concerns over Saudi supply disruptions outweighed anxiety about a widening of conflict across the Middle East…",
           "date": "2026-09-18",
@@ -1827,7 +1860,7 @@
         },
         {
           "title": "Equinor Signs Long-Term LNG Supply Deal with PTTT",
-          "summary": "Equinor has signed a long-term agreement to supply liquefied natural gas to Thailand's largest state-controlled oil and gas conglomerate PTTT, expanding its LNG business in Asia…",
+          "summary": "Equinor has signed a long-term agreement to supply liquefied natural gas to Thailand's PTTT, expanding its LNG business in Asia.The company did not disclose the…",
           "date": "2026-09-18",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543072-equinor-signs-long-term-lng-supply-deal-with-pttt",
