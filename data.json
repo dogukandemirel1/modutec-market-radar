@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T09:00:57Z",
+  "last_updated": "2026-09-19T10:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -313,14 +313,6 @@
           "relevant": false
         },
         {
-          "title": "Castelion Secures U.S. Navy Production Order for Blackbeard Hypersonic Weapon",
-          "summary": "U.S. Navy awards Castelion a production delivery order valued at up to $200 million to manufacture Blackbeard hypersonic strike weapons for carrier-based aviation. The post Castelion Secures U.S. Navy Production Order…",
-          "date": "2026-09-16",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/castelion-secures-u-s-navy-production-order-for-blackbeard-hypersonic-weapon/",
-          "relevant": false
-        },
-        {
           "title": "Northrop Grumman wins contract for Marine UH-1Y, AH-1Z Link 16 kits",
           "summary": "Northrop Grumman received a $34.39m contract to provide Link 16 upgrade kits and spares for the US Marine Corps’ UH-1Y and AH-1Z helicopters. The post Northrop Grumman wins contract for Marine UH-1Y, AH-1Z Link 16 kits…",
           "date": "2026-09-16",
@@ -334,6 +326,14 @@
           "date": "2026-09-16",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/lithuania-klaipeda-port-eib-loan/",
+          "relevant": false
+        },
+        {
+          "title": "Castelion Secures U.S. Navy Production Order for Blackbeard Hypersonic Weapon",
+          "summary": "U.S. Navy awards Castelion a production delivery order valued at up to $200 million to manufacture Blackbeard hypersonic strike weapons for carrier-based aviation. The post Castelion Secures U.S. Navy Production Order…",
+          "date": "2026-09-16",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/castelion-secures-u-s-navy-production-order-for-blackbeard-hypersonic-weapon/",
           "relevant": false
         },
         {
