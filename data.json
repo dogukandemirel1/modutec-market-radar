@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T19:00:56Z",
+  "last_updated": "2026-09-20T20:00:50Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -86,6 +86,22 @@
           "date": "2026-09-20",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/us-tariffs-threaten-great-lakes-shipping-tied-to-canada-trade/",
+          "relevant": false
+        },
+        {
+          "title": "Bumi Armada joins Wison in FLNG lease-and-operate push",
+          "summary": "China’s Wison New Energies has teamed up with Malaysia’s Bumi Armada and FPSO Ventures to target floating LNG projects under an integrated lease-and-operate model. The three companies have signed a strategic cooperation…",
+          "date": "2026-09-20",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/bumi-armada-joins-wison-in-flng-lease-and-operate-push/",
+          "relevant": false
+        },
+        {
+          "title": "Kistos books rig and heavylifter for Dutch North Sea decom",
+          "summary": "UK-listed Kistos has contracted a rig and a lift vessel for the decommissioning of its Q10-A gas field in the Dutch North Sea, with offshore work scheduled to start in 2028. The company disclosed the two contracts in…",
+          "date": "2026-09-20",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/kistos-books-rig-and-heavylifter-for-dutch-north-sea-decom/",
           "relevant": false
         },
         {
