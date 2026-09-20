@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T08:00:53Z",
+  "last_updated": "2026-09-20T09:00:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -313,14 +313,6 @@
           "relevant": false
         },
         {
-          "title": "First Virginia Payload Module (VPM) Spotted for U.S. Navy’s Block V Submarines",
-          "summary": "General Dynamics Electric Boat has shared a photo showing the first completed Virginia Payload Module (VPM) for the U.S. Navy's Block V submarines, expanding strike capacity. The post First Virginia Payload Module (VPM)…",
-          "date": "2026-09-16",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/slug-first-virginia-payload-module-vpm-spotted-block-v-submarines/",
-          "relevant": false
-        },
-        {
           "title": "Northrop Grumman wins contract for Marine UH-1Y, AH-1Z Link 16 kits",
           "summary": "Northrop Grumman received a $34.39m contract to provide Link 16 upgrade kits and spares for the US Marine Corps’ UH-1Y and AH-1Z helicopters. The post Northrop Grumman wins contract for Marine UH-1Y, AH-1Z Link 16 kits…",
           "date": "2026-09-16",
@@ -334,6 +326,14 @@
           "date": "2026-09-16",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/lithuania-klaipeda-port-eib-loan/",
+          "relevant": false
+        },
+        {
+          "title": "First Virginia Payload Module (VPM) Spotted for U.S. Navy’s Block V Submarines",
+          "summary": "General Dynamics Electric Boat has shared a photo showing the first completed Virginia Payload Module (VPM) for the U.S. Navy's Block V submarines, expanding strike capacity. The post First Virginia Payload Module (VPM)…",
+          "date": "2026-09-16",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/slug-first-virginia-payload-module-vpm-spotted-block-v-submarines/",
           "relevant": false
         },
         {
