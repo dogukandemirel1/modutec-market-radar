@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T21:00:53Z",
+  "last_updated": "2026-09-20T22:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1608,6 +1608,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "Toro doubles MR fleet with $83m tanker pair",
+          "summary": "Nasdaq-listed Toro Corp has doubled its MR tanker fleet with the acquisition of two ships for a combined $83.4m, accelerating its return to the product tanker sector as it prepares to spin off its remaining LPG…",
+          "date": "2026-09-20",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/toro-doubles-mr-fleet-with-83m-tanker-pair/",
+          "relevant": false
+        },
         {
           "title": "Turn Services takes over St. John Fleeting",
           "summary": "US inland marine operator Turn Services has completed its acquisition of St. John Fleeting and its affiliated companies, expanding its barge operations on the Lower Mississippi River. The deal gives Turn Services…",
