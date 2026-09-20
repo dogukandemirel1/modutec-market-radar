@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T11:00:54Z",
+  "last_updated": "2026-09-20T12:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1161,14 +1161,6 @@
           "relevant": false
         },
         {
-          "title": "India Pushes Back as US Readies New Russian Oil Sanctions",
-          "summary": "India warned a U.S. bill allowing President Donald Trump to impose tariffs of as much as 100 percent on top buyers of Russian oil could hurt ties between New Delhi and Washington and disrupt global energy markets.",
-          "date": "2026-09-17",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/india_pushes_back_as_us_readies_new_russian_oil_sanctions-17-sep-2026-184636-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Plains to buy Silver Creek’s Powder River crude assets for $585m",
           "summary": "Plains All American Pipeline and Plains GP Holdings (together Plains) have signed an agreement to acquire Silver Creek Midstream’s crude oil midstream assets in the Powder River Basin, US for approximately $585m.",
           "date": "2026-09-17",
@@ -1182,6 +1174,14 @@
           "date": "2026-09-17",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543028-cyber-security-regulations-drive-resilience-agenda-for-offshore-energy-infrastructure",
+          "relevant": false
+        },
+        {
+          "title": "India Pushes Back as US Readies New Russian Oil Sanctions",
+          "summary": "India warned a U.S. bill allowing President Donald Trump to impose tariffs of as much as 100 percent on top buyers of Russian oil could hurt ties between New Delhi and Washington and disrupt global energy markets.",
+          "date": "2026-09-17",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/india_pushes_back_as_us_readies_new_russian_oil_sanctions-17-sep-2026-184636-article/?rss=true",
           "relevant": false
         },
         {
