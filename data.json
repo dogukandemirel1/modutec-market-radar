@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T03:01:03Z",
+  "last_updated": "2026-09-20T04:00:54Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -80,6 +80,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "US Tariffs Threaten Great Lakes Shipping Tied To Canada Trade",
+          "summary": "By Brendan Murray Sep 19, 2026 (Bloomberg) –The American Century often draws a crowd when the ship pulls into the Port of Duluth-Superior to load Minnesota iron ore. Kids cheer when the captain...",
+          "date": "2026-09-20",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/us-tariffs-threaten-great-lakes-shipping-tied-to-canada-trade/",
+          "relevant": false
+        },
         {
           "title": "Splash Wrap: When the boom spills over",
           "summary": "The most extraordinary numbers this week came from tankers, where the Baltic Exchange’s Middle East Gulf-China VLCC benchmark broke through the equivalent of $1m a day for the first time. VLCCs loading outside the Gulf…",
