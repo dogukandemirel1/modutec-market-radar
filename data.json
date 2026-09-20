@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T17:00:57Z",
+  "last_updated": "2026-09-20T18:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -113,22 +113,6 @@
           "relevant": false
         },
         {
-          "title": "Exmar’s FLNG conversion earns Bureau Veritas’ seal of approval",
-          "summary": "An approval in principle (AiP) from Bureau Veritas Marine & Offshore (BV), part of Bureau Veritas Group, is paving the way for Belgian shipping company Exmar to breathe life into its floating liquefied natural gas…",
-          "date": "2026-09-18",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/exmars-flng-conversion-earns-bureau-veritas-seal-of-approval/",
-          "relevant": false
-        },
-        {
-          "title": "New contracts for Vallourec in Brazil and Greece for oil & gas and CO2 storage",
-          "summary": "French provider of tubular solutions Vallourec has won a contract with Subsea7 to supply carbon […] The post New contracts for Vallourec in Brazil and Greece for oil & gas and CO2 storage appeared first on Offshore…",
-          "date": "2026-09-18",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/new-contracts-for-vallourec-in-brazil-and-greece-for-oil-gas-and-co2-storage/",
-          "relevant": false
-        },
-        {
           "title": "Viridien wins five-year contract for UK North Sea monitoring",
           "summary": "France-based Viridien has secured a five-year contract from Ithaca Energy to provide an integrated environmental monitoring and marine situational-awareness solution for the UK North Sea’s Greater Stella Area.",
           "date": "2026-09-18",
@@ -190,6 +174,22 @@
           "date": "2026-09-18",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543073-indonesia-picks-winners-for-six-oil-and-gas-blocks-puts-eight-more-on-offer",
+          "relevant": false
+        },
+        {
+          "title": "Exmar’s FLNG conversion earns Bureau Veritas’ seal of approval",
+          "summary": "An approval in principle (AiP) from Bureau Veritas Marine & Offshore (BV), part of Bureau Veritas Group, is paving the way for Belgian shipping company Exmar to breathe life into its floating liquefied natural gas…",
+          "date": "2026-09-18",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/exmars-flng-conversion-earns-bureau-veritas-seal-of-approval/",
+          "relevant": false
+        },
+        {
+          "title": "New contracts for Vallourec in Brazil and Greece for oil & gas and CO2 storage",
+          "summary": "French provider of tubular solutions Vallourec has won a contract with Subsea7 to supply carbon […] The post New contracts for Vallourec in Brazil and Greece for oil & gas and CO2 storage appeared first on Offshore…",
+          "date": "2026-09-18",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/new-contracts-for-vallourec-in-brazil-and-greece-for-oil-gas-and-co2-storage/",
           "relevant": false
         },
         {
@@ -1153,19 +1153,19 @@
           "relevant": false
         },
         {
-          "title": "Hanwha Ocean’s design solution allowing LNG carrier’s switch to ammonia gets ABS’ thumbs-up",
-          "summary": "The American Bureau of Shipping (ABS), a classification society, has handed out approval in principle (AIP) for a multi-purpose fuel tank and fuel gas supply system design that enables a liquefied natural gas (LNG)…",
-          "date": "2026-09-18",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/hanwha-oceans-design-solution-allowing-lng-carriers-switch-to-ammonia-gets-abs-thumbs-up/",
-          "relevant": false
-        },
-        {
           "title": "TotalEnergies Secures $1.8B in Capital from GIP for African Assets",
           "summary": "In exchange TotalEnergies will pay BlackRock's GIP a throughput-based tariff for up to 15 years.",
           "date": "2026-09-18",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/totalenergies_secures_18b_in_capital_from_gip_for_african_assets-18-sep-2026-184649-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Hanwha Ocean’s design solution allowing LNG carrier’s switch to ammonia gets ABS’ thumbs-up",
+          "summary": "The American Bureau of Shipping (ABS), a classification society, has handed out approval in principle (AIP) for a multi-purpose fuel tank and fuel gas supply system design that enables a liquefied natural gas (LNG)…",
+          "date": "2026-09-18",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/hanwha-oceans-design-solution-allowing-lng-carriers-switch-to-ammonia-gets-abs-thumbs-up/",
           "relevant": false
         },
         {
@@ -1961,15 +1961,6 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Vietnam-made cable layer enters into service in Taiwan",
-          "summary": "A new cable-laying vessel (CLV) built in Vietnam for ATE Energy International has entered […] The post Vietnam-made cable layer enters into service in Taiwan appeared first on Offshore Energy .",
-          "date": "2026-09-18",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/vietnam-made-cable-layer-enters-into-service-in-taiwan/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Oil Falls as Supply Fears Ease",
           "summary": "Oil fell for a third session as easing Saudi supply concerns outweighed lingering risks around the Strait of Hormuz.",
           "date": "2026-09-18",
@@ -2002,6 +1993,15 @@
           "date": "2026-09-18",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543072-equinor-signs-long-term-lng-supply-deal-with-pttt",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Vietnam-made cable layer enters into service in Taiwan",
+          "summary": "A new cable-laying vessel (CLV) built in Vietnam for ATE Energy International has entered […] The post Vietnam-made cable layer enters into service in Taiwan appeared first on Offshore Energy .",
+          "date": "2026-09-18",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/vietnam-made-cable-layer-enters-into-service-in-taiwan/",
           "relevant": false,
           "region": "SEA"
         },
