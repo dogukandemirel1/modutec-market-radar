@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T15:00:52Z",
+  "last_updated": "2026-09-20T16:00:54Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -86,14 +86,6 @@
           "date": "2026-09-20",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/us-tariffs-threaten-great-lakes-shipping-tied-to-canada-trade/",
-          "relevant": false
-        },
-        {
-          "title": "Splash Wrap: When the boom spills over",
-          "summary": "The most extraordinary numbers this week came from tankers, where the Baltic Exchange’s Middle East Gulf-China VLCC benchmark broke through the equivalent of $1m a day for the first time. VLCCs loading outside the Gulf…",
-          "date": "2026-09-18",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/splash-wrap-when-the-boom-spills-over/",
           "relevant": false
         },
         {
@@ -190,6 +182,14 @@
           "date": "2026-09-18",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543073-indonesia-picks-winners-for-six-oil-and-gas-blocks-puts-eight-more-on-offer",
+          "relevant": false
+        },
+        {
+          "title": "Splash Wrap: When the boom spills over",
+          "summary": "The most extraordinary numbers this week came from tankers, where the Baltic Exchange’s Middle East Gulf-China VLCC benchmark broke through the equivalent of $1m a day for the first time. VLCCs loading outside the Gulf…",
+          "date": "2026-09-18",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/splash-wrap-when-the-boom-spills-over/",
           "relevant": false
         },
         {
@@ -1113,6 +1113,22 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Indonesia Got A Free Aircraft Carrier; Fixes Will Cost Millions",
+          "summary": "By Chandra Asmara Sep 17, 2026 (Bloomberg) –A retired Italian aircraft carrier built to launch Harrier fighter jets arrived at Indonesia’s busiest port Friday with plans for a very different second...",
+          "date": "2026-09-20",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/indonesia-got-a-free-aircraft-carrier-fixes-will-cost-millions/",
+          "relevant": false
+        },
+        {
+          "title": "Denmark Speeds Up Ukraine Aid Package After Russian Warship Fires Flares At Helicopter",
+          "summary": "COPENHAGEN, Sept 18 (Reuters) – Denmark is speeding up a donation to Ukraine in response to a recent incident in which a Russian warship fired flares towards a Danish military helicopter, narrowly...",
+          "date": "2026-09-20",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/denmark-speeds-up-ukraine-aid-package-after-russian-warship-fires-flares-at-helicopter/",
+          "relevant": false
+        },
+        {
           "title": "Trump signs Russia sanctions law with shadow fleet in the crosshairs",
           "summary": "President Donald Trump signed sweeping new sanctions legislation on Friday targeting Moscow’s oil trade and the tanker fleet that supports it. The White House confirmed Trump had signed the Lindsey O. Graham Sanctioning…",
           "date": "2026-09-20",
@@ -1126,14 +1142,6 @@
           "date": "2026-09-18",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/ai-error-nearly-triggered-u-s-intercept-of-chinese-ship-cnn-reports/",
-          "relevant": false
-        },
-        {
-          "title": "U.S. Sanctions Crypto Exchange Tied to Iran’s Hormuz Transit Payments",
-          "summary": "The United States has sanctioned an Iranian cryptocurrency exchange that Treasury says was used to move payments collected from ships transiting the Strait of Hormuz into Iran’s financial system. The...",
-          "date": "2026-09-18",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/u-s-sanctions-crypto-exchange-tied-to-irans-hormuz-transit-payments/",
           "relevant": false
         },
         {
@@ -1158,6 +1166,14 @@
           "date": "2026-09-18",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/totalenergies_secures_18b_in_capital_from_gip_for_african_assets-18-sep-2026-184649-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "U.S. Sanctions Crypto Exchange Tied to Iran’s Hormuz Transit Payments",
+          "summary": "The United States has sanctioned an Iranian cryptocurrency exchange that Treasury says was used to move payments collected from ships transiting the Strait of Hormuz into Iran’s financial system. The...",
+          "date": "2026-09-18",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/u-s-sanctions-crypto-exchange-tied-to-irans-hormuz-transit-payments/",
           "relevant": false
         },
         {
@@ -1945,15 +1961,6 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Three Tanker Attacks Hit Hormuz as Saudi Oil Is Forced Back Toward Strait",
-          "summary": "A new burst of attacks on commercial shipping in the Strait of Hormuz is hitting just as Saudi Arabia is being forced to send more oil back through the waterway...",
-          "date": "2026-09-18",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/three-tanker-attacks-hit-hormuz-as-saudi-oil-is-forced-back-toward-strait/",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
           "title": "Vietnam-made cable layer enters into service in Taiwan",
           "summary": "A new cable-laying vessel (CLV) built in Vietnam for ATE Energy International has entered […] The post Vietnam-made cable layer enters into service in Taiwan appeared first on Offshore Energy .",
           "date": "2026-09-18",
@@ -1997,6 +2004,15 @@
           "source_url": "https://www.oedigital.com/news/543072-equinor-signs-long-term-lng-supply-deal-with-pttt",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Three Tanker Attacks Hit Hormuz as Saudi Oil Is Forced Back Toward Strait",
+          "summary": "A new burst of attacks on commercial shipping in the Strait of Hormuz is hitting just as Saudi Arabia is being forced to send more oil back through the waterway...",
+          "date": "2026-09-18",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/three-tanker-attacks-hit-hormuz-as-saudi-oil-is-forced-back-toward-strait/",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "Indonesia’s First Aircraft Carrier: Former Italian Ship ‘Garibaldi’ Reaches Domestic Waters",
