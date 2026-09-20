@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T20:00:50Z",
+  "last_updated": "2026-09-20T21:00:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -89,6 +89,14 @@
           "relevant": false
         },
         {
+          "title": "Paratus and Vantris JV clears Petrobras PLSV tender hurdle",
+          "summary": "Paratus Energy and Vantris Energy joint venture Seagems has moved closer to adding another pipelay support vessel to its Brazilian operation after Petrobras accepted its bid for an unidentified third-party vessel…",
+          "date": "2026-09-20",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/paratus-and-vantris-jv-clears-petrobras-plsv-tender-hurdle/",
+          "relevant": false
+        },
+        {
           "title": "Bumi Armada joins Wison in FLNG lease-and-operate push",
           "summary": "China’s Wison New Energies has teamed up with Malaysia’s Bumi Armada and FPSO Ventures to target floating LNG projects under an integrated lease-and-operate model. The three companies have signed a strategic cooperation…",
           "date": "2026-09-20",
@@ -102,14 +110,6 @@
           "date": "2026-09-20",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/kistos-books-rig-and-heavylifter-for-dutch-north-sea-decom/",
-          "relevant": false
-        },
-        {
-          "title": "Splash Wrap: When the boom spills over",
-          "summary": "The most extraordinary numbers this week came from tankers, where the Baltic Exchange’s Middle East Gulf-China VLCC benchmark broke through the equivalent of $1m a day for the first time. VLCCs loading outside the Gulf…",
-          "date": "2026-09-18",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/splash-wrap-when-the-boom-spills-over/",
           "relevant": false
         },
         {
@@ -206,6 +206,14 @@
           "date": "2026-09-18",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543073-indonesia-picks-winners-for-six-oil-and-gas-blocks-puts-eight-more-on-offer",
+          "relevant": false
+        },
+        {
+          "title": "Splash Wrap: When the boom spills over",
+          "summary": "The most extraordinary numbers this week came from tankers, where the Baltic Exchange’s Middle East Gulf-China VLCC benchmark broke through the equivalent of $1m a day for the first time. VLCCs loading outside the Gulf…",
+          "date": "2026-09-18",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/splash-wrap-when-the-boom-spills-over/",
           "relevant": false
         },
         {
