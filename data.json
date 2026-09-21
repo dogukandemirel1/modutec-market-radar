@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T09:52:31Z",
+  "last_updated": "2026-09-21T10:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -81,19 +81,19 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Kistos books rig and heavylifter for Dutch North Sea decom",
-          "summary": "UK-listed Kistos has contracted a rig and a lift vessel for the decommissioning of its Q10-A gas field in the Dutch North Sea, with offshore work scheduled to start in 2028. The company disclosed the two contracts in…",
-          "date": "2026-09-21",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/kistos-books-rig-and-heavylifter-for-dutch-north-sea-decom/",
-          "relevant": false
-        },
-        {
           "title": "U.S. Navy and Boeing Ink First Production Contract for MQ-25A Stingray",
           "summary": "The U.S. Navy and Boeing have officially launched production of the MQ-25A Stingray, advancing the carrier-based unmanned refueler toward 2029 fleet integration. The post U.S. Navy and Boeing Ink First Production…",
           "date": "2026-09-21",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/09/us-navy-boeing-mq-25a-stingray-production-contract/",
+          "relevant": false
+        },
+        {
+          "title": "Kistos books rig and heavylifter for Dutch North Sea decom",
+          "summary": "UK-listed Kistos has contracted a rig and a lift vessel for the decommissioning of its Q10-A gas field in the Dutch North Sea, with offshore work scheduled to start in 2028. The company disclosed the two contracts in…",
+          "date": "2026-09-21",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/kistos-books-rig-and-heavylifter-for-dutch-north-sea-decom/",
           "relevant": false
         },
         {
@@ -2033,6 +2033,14 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Hormuz Ship Traffic Slumps as Middle East Conflict Drags On",
+          "summary": "A total of 17 commodity vessels transited the Strait of Hormuz on the weekend, down from 37 a week earlier, shipping data showed on Monday, as tension in the Gulf…",
+          "date": "2026-09-21",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543112-hormuz-ship-traffic-slumps-as-middle-east-conflict-drags-on",
+          "relevant": false
+        },
+        {
           "title": "Trafigura rolls out VLCC venture Volare Shipping with Oslo IPO",
           "summary": "Commodity trading giant Trafigura is opening its growing VLCC fleet to outside investors, launching a $500m private placement ahead of a planned Oslo listing of newly created Volare Shipping. Singapore-incorporated…",
           "date": "2026-09-21",
@@ -2040,14 +2048,6 @@
           "source_url": "https://splash247.com/trafigura-rolls-out-vlcc-venture-volare-shipping-with-oslo-ipo/",
           "relevant": false,
           "region": "SEA"
-        },
-        {
-          "title": "Hormuz Ship Traffic Slumps as Middle East Conflict Drags On",
-          "summary": "A total of 17 commodity vessels transited the Strait of Hormuz on the weekend, down from 37 a week earlier, shipping data showed on Monday, as tension in the Gulf…",
-          "date": "2026-09-21",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/543112-hormuz-ship-traffic-slumps-as-middle-east-conflict-drags-on",
-          "relevant": false
         },
         {
           "title": "Indonesia Continues Search For Hundreds Missing In Capsized Ship",
