@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T20:00:53Z",
+  "last_updated": "2026-09-21T21:01:16Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -86,6 +86,22 @@
           "date": "2026-09-21",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/capesize-bulker-remains-aground-off-australia-after-refloating-attempts-fail/",
+          "relevant": false
+        },
+        {
+          "title": "LS Marine seals record $113m offshore wind cable contract",
+          "summary": "South Korean subsea cable contractor LS Marine Solution has converted its preferred-bidder position on the Shinan Ui offshore wind development into a KRW156.9bn ($113m) firm transport and installation contract with…",
+          "date": "2026-09-21",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/ls-marine-seals-record-113m-offshore-wind-cable-contract/",
+          "relevant": false
+        },
+        {
+          "title": "Turkey delays Black Sea FPU deployment",
+          "summary": "Turkey has pushed back the planned departure of the Osman Gazi floating production platform from Filyos Port to late October, delaying its deployment to the Sakarya gas field in the Black Sea. Energy and Natural…",
+          "date": "2026-09-21",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/turkey-delays-black-sea-fpu-deployment/",
           "relevant": false
         },
         {
@@ -1737,6 +1753,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Cadeler expands offshore wind maintenance push with Vattenfall partnership",
+          "summary": "Cadeler’s offshore wind services platform Nexra has signed a memorandum of understanding with Vattenfall to develop new methods for maintaining large offshore turbines. The companies will focus on major component…",
+          "date": "2026-09-21",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/cadeler-expands-offshore-wind-maintenance-push-with-vattenfall-partnership/",
+          "relevant": false
+        },
+        {
           "title": "WIND acquires stake in UK firm to strengthen cable lifecycle expertise",
           "summary": "WIND, a Dutch subsea cable logistics, cable recovery, and related services company, has acquired […] The post WIND acquires stake in UK firm to strengthen cable lifecycle expertise appeared first on Offshore Energy .",
           "date": "2026-09-21",
@@ -2145,6 +2169,15 @@
           "source_url": "https://splash247.com/trafigura-rolls-out-vlcc-venture-volare-shipping-with-oslo-ipo/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Crude Falls on Iran Diplomacy Hopes",
+          "summary": "Oil fell as Saudi exports through Hormuz increased and hopes grew for diplomatic progress in the Iran war.",
+          "date": "2026-09-21",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/crude_falls_on_iran_diplomacy_hopes-21-sep-2026-184667-article/?rss=true",
+          "relevant": false,
+          "region": "KSA"
         },
         {
           "title": "Hormuz Ship Traffic Slumps as Middle East Conflict Drags On",
