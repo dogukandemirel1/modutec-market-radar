@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T10:01:02Z",
+  "last_updated": "2026-09-21T11:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -145,14 +145,6 @@
           "relevant": false
         },
         {
-          "title": "New contracts for Vallourec in Brazil and Greece for oil & gas and CO2 storage",
-          "summary": "French provider of tubular solutions Vallourec has won a contract with Subsea7 to supply carbon […] The post New contracts for Vallourec in Brazil and Greece for oil & gas and CO2 storage appeared first on Offshore…",
-          "date": "2026-09-18",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/new-contracts-for-vallourec-in-brazil-and-greece-for-oil-gas-and-co2-storage/",
-          "relevant": false
-        },
-        {
           "title": "Viridien wins five-year contract for UK North Sea monitoring",
           "summary": "France-based Viridien has secured a five-year contract from Ithaca Energy to provide an integrated environmental monitoring and marine situational-awareness solution for the UK North Sea’s Greater Stella Area.",
           "date": "2026-09-18",
@@ -222,6 +214,14 @@
           "date": "2026-09-18",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543073-indonesia-picks-winners-for-six-oil-and-gas-blocks-puts-eight-more-on-offer",
+          "relevant": false
+        },
+        {
+          "title": "New contracts for Vallourec in Brazil and Greece for oil & gas and CO2 storage",
+          "summary": "French provider of tubular solutions Vallourec has won a contract with Subsea7 to supply carbon […] The post New contracts for Vallourec in Brazil and Greece for oil & gas and CO2 storage appeared first on Offshore…",
+          "date": "2026-09-18",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/new-contracts-for-vallourec-in-brazil-and-greece-for-oil-gas-and-co2-storage/",
           "relevant": false
         },
         {
@@ -1161,6 +1161,22 @@
           "relevant": false
         },
         {
+          "title": "TotalEnergies partners with GIP for African oil and gas assets",
+          "summary": "TotalEnergies has entered into a partnership agreement with Global Infrastructure Partners (GIP), part of BlackRock, involving its interests in certain oil and gas infrastructure assets in Africa.",
+          "date": "2026-09-21",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/totalenergies-partners-gip-african-oil-gas-assets/",
+          "relevant": false
+        },
+        {
+          "title": "Njord Survey Gets Multi-Year RWE’s Offshore Wind Services Deal",
+          "summary": "Njord Survey has secured a three-year framework agreement by RWE Offshore Wind to provide remotely operated vehicle services across offshore wind farms in U.K. and European waters…",
+          "date": "2026-09-21",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543120-njord-survey-gets-multi-year-rwe-s-offshore-wind-services-deal",
+          "relevant": false
+        },
+        {
           "title": "Indonesia Got A Free Aircraft Carrier; Fixes Will Cost Millions",
           "summary": "By Chandra Asmara Sep 17, 2026 (Bloomberg) –A retired Italian aircraft carrier built to launch Harrier fighter jets arrived at Indonesia’s busiest port Friday with plans for a very different second...",
           "date": "2026-09-20",
@@ -2033,14 +2049,6 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Hormuz Ship Traffic Slumps as Middle East Conflict Drags On",
-          "summary": "A total of 17 commodity vessels transited the Strait of Hormuz on the weekend, down from 37 a week earlier, shipping data showed on Monday, as tension in the Gulf…",
-          "date": "2026-09-21",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/543112-hormuz-ship-traffic-slumps-as-middle-east-conflict-drags-on",
-          "relevant": false
-        },
-        {
           "title": "Trafigura rolls out VLCC venture Volare Shipping with Oslo IPO",
           "summary": "Commodity trading giant Trafigura is opening its growing VLCC fleet to outside investors, launching a $500m private placement ahead of a planned Oslo listing of newly created Volare Shipping. Singapore-incorporated…",
           "date": "2026-09-21",
@@ -2048,6 +2056,14 @@
           "source_url": "https://splash247.com/trafigura-rolls-out-vlcc-venture-volare-shipping-with-oslo-ipo/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Hormuz Ship Traffic Slumps as Middle East Conflict Drags On",
+          "summary": "A total of 17 commodity vessels transited the Strait of Hormuz on the weekend, down from 37 a week earlier, shipping data showed on Monday, as tension in the Gulf…",
+          "date": "2026-09-21",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543112-hormuz-ship-traffic-slumps-as-middle-east-conflict-drags-on",
+          "relevant": false
         },
         {
           "title": "Indonesia Continues Search For Hundreds Missing In Capsized Ship",
