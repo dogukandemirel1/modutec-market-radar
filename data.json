@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T23:01:01Z",
+  "last_updated": "2026-09-21T00:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1992,6 +1992,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Indonesia Continues Search For Hundreds Missing In Capsized Ship",
+          "summary": "JAKARTA, Sept 20 (Reuters) – Indonesian authorities will continue searching on Monday for more than a hundred people still missing after a passenger ship sank in the Java Sea last week, with the confirmed death...",
+          "date": "2026-09-20",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/indonesia-continues-search-for-hundreds-missing-in-capsized-ship/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Vietnam-made cable layer enters into service in Taiwan",
           "summary": "A new cable-laying vessel (CLV) built in Vietnam for ATE Energy International has entered […] The post Vietnam-made cable layer enters into service in Taiwan appeared first on Offshore Energy .",
