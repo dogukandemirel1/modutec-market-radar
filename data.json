@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T08:00:58Z",
+  "last_updated": "2026-09-21T09:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1633,6 +1633,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "WIND acquires stake in UK firm to strengthen cable lifecycle expertise",
+          "summary": "WIND, a Dutch subsea cable logistics, cable recovery, and related services company, has acquired […] The post WIND acquires stake in UK firm to strengthen cable lifecycle expertise appeared first on Offshore Energy .",
+          "date": "2026-09-21",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/wind-acquires-stake-in-uk-firm-to-strengthen-cable-lifecycle-expertise/",
+          "relevant": false
+        },
+        {
           "title": "Toro doubles MR fleet with $83m tanker pair",
           "summary": "Nasdaq-listed Toro Corp has doubled its MR tanker fleet with the acquisition of two ships for a combined $83.4m, accelerating its return to the product tanker sector as it prepares to spin off its remaining LPG…",
           "date": "2026-09-21",
@@ -2024,6 +2032,14 @@
           "source_url": "https://splash247.com/trafigura-rolls-out-vlcc-venture-volare-shipping-with-oslo-ipo/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Hormuz Ship Traffic Slumps as Middle East Conflict Drags On",
+          "summary": "A total of 17 commodity vessels transited the Strait of Hormuz on the weekend, down from 37 a week earlier, shipping data showed on Monday, as tension in the Gulf…",
+          "date": "2026-09-21",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543112-hormuz-ship-traffic-slumps-as-middle-east-conflict-drags-on",
+          "relevant": false
         },
         {
           "title": "Indonesia Continues Search For Hundreds Missing In Capsized Ship",
