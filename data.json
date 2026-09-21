@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T19:00:59Z",
+  "last_updated": "2026-09-21T20:00:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -86,6 +86,14 @@
           "date": "2026-09-21",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/capesize-bulker-remains-aground-off-australia-after-refloating-attempts-fail/",
+          "relevant": false
+        },
+        {
+          "title": "Marfret orders boxship pair at Chinese newcomer yard",
+          "summary": "Marseille-based liner Marfret has signed for two feeder containerships at China’s Hubei Guangji Green Energy Shipbuilding, handing the recently commissioned Yangtze yard another overseas order. The contract covers two…",
+          "date": "2026-09-21",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/marfret-orders-boxship-pair-at-chinese-newcomer-yard/",
           "relevant": false
         },
         {
@@ -2120,6 +2128,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Global Diesel Prices Hit Record Highs",
+          "summary": "Diesel prices have rallied in Europe and the United States to record highs as wars in Iran and Ukraine sharply cut exports from some of the biggest producers such as Russia, Saudi Arabia and the United Arab Emirates…",
+          "date": "2026-09-21",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/global-diesel-prices-hit-record-highs/",
+          "relevant": true,
+          "region": "KSA"
+        },
         {
           "title": "Trafigura rolls out VLCC venture Volare Shipping with Oslo IPO",
           "summary": "Commodity trading giant Trafigura is opening its growing VLCC fleet to outside investors, launching a $500m private placement ahead of a planned Oslo listing of newly created Volare Shipping. Singapore-incorporated…",
