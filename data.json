@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T09:00:56Z",
+  "last_updated": "2026-09-21T09:52:31Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1152,6 +1152,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "U.S. Sanctions Law Puts Russia’s Arctic Yamal LNG Fleet in Crosshairs",
+          "summary": "A new U.S. sanctions law could put the specialized fleet that keeps Russia’s Yamal LNG project operating in the Arctic under unprecedented pressure, potentially forcing European shipping companies and service providers…",
+          "date": "2026-09-21",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/u-s-sanctions-law-puts-russias-arctic-yamal-lng-fleet-in-crosshairs/",
+          "relevant": false
+        },
         {
           "title": "Indonesia Got A Free Aircraft Carrier; Fixes Will Cost Millions",
           "summary": "By Chandra Asmara Sep 17, 2026 (Bloomberg) –A retired Italian aircraft carrier built to launch Harrier fighter jets arrived at Indonesia’s busiest port Friday with plans for a very different second...",
