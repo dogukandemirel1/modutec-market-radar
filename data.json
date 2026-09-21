@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T15:01:00Z",
+  "last_updated": "2026-09-21T16:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -81,11 +81,35 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "PDO taps Weatherford for 274-well drilling program in Oman",
+          "summary": "Petroleum Development Oman (PDO) signed a three-year integrated drilling services contract with Weatherford on 21 September 2026, covering 274 wells in Marmul and the Greater Saqar area. The contract supports PDO’s…",
+          "date": "2026-09-21",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/pdo-taps-weatherford-for-274-well-drilling-program-in-oman-80052",
+          "relevant": false
+        },
+        {
+          "title": "Predator begins 20-day MOU-6 well program in Morocco",
+          "summary": "Predator Oil & Gas began drilling the MOU-6 well in Morocco on 19 September 2026. Well operations are planned to last up to 20 days. Predator amended its rig contract with Intrepid Drilling in late July to cover Rig 101…",
+          "date": "2026-09-21",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/predator-begins-20-day-mou-6-well-program-in-morocco-80045",
+          "relevant": false
+        },
+        {
           "title": "After Equinor, Njord Survey inks three-year agreement with RWE",
           "summary": "RWE has awarded Swedish offshore survey company Njord Survey a three-year framework agreement for […] The post After Equinor, Njord Survey inks three-year agreement with RWE appeared first on Offshore Energy .",
           "date": "2026-09-21",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/after-equinor-njord-survey-inks-three-year-agreement-with-rwe/",
+          "relevant": false
+        },
+        {
+          "title": "Lockheed Martin wins US Navy awards for F-35 support, Trident II work",
+          "summary": "Lockheed Martin has been awarded a pair of contract modifications by the US Navy, collectively valued at nearly $948m, to enhance support for F-35 Lightning II operational sites and advance the Trident II (D5) Life…",
+          "date": "2026-09-21",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/lockheed-martin-us-navy-contracts/",
           "relevant": false
         },
         {
@@ -145,14 +169,6 @@
           "relevant": false
         },
         {
-          "title": "Exmar’s FLNG conversion earns Bureau Veritas’ seal of approval",
-          "summary": "An approval in principle (AiP) from Bureau Veritas Marine & Offshore (BV), part of Bureau Veritas Group, is paving the way for Belgian shipping company Exmar to breathe life into its floating liquefied natural gas…",
-          "date": "2026-09-18",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/exmars-flng-conversion-earns-bureau-veritas-seal-of-approval/",
-          "relevant": false
-        },
-        {
           "title": "Viridien wins five-year contract for UK North Sea monitoring",
           "summary": "France-based Viridien has secured a five-year contract from Ithaca Energy to provide an integrated environmental monitoring and marine situational-awareness solution for the UK North Sea’s Greater Stella Area.",
           "date": "2026-09-18",
@@ -206,6 +222,14 @@
           "date": "2026-09-18",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543078-petrobras-signs-eight-production-sharing-contracts-in-c-te-d-ivoire",
+          "relevant": false
+        },
+        {
+          "title": "Exmar’s FLNG conversion earns Bureau Veritas’ seal of approval",
+          "summary": "An approval in principle (AiP) from Bureau Veritas Marine & Offshore (BV), part of Bureau Veritas Group, is paving the way for Belgian shipping company Exmar to breathe life into its floating liquefied natural gas…",
+          "date": "2026-09-18",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/exmars-flng-conversion-earns-bureau-veritas-seal-of-approval/",
           "relevant": false
         },
         {
@@ -353,19 +377,19 @@
           "relevant": false
         },
         {
-          "title": "Transocean drillship lands new work offshore Equatorial Guinea",
-          "summary": "Transocean secured a two-well contract for the ultra-deepwater drillship Deepwater Conqueror to work offshore Equatorial Guinea for an undisclosed operator. The estimated 170-day campaign is expected to begin in 2027…",
-          "date": "2026-09-16",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/transocean-drillship-lands-new-work-offshore-equatorial-guinea-79964",
-          "relevant": false
-        },
-        {
           "title": "Northrop Grumman wins contract for Marine UH-1Y, AH-1Z Link 16 kits",
           "summary": "Northrop Grumman received a $34.39m contract to provide Link 16 upgrade kits and spares for the US Marine Corps’ UH-1Y and AH-1Z helicopters. The post Northrop Grumman wins contract for Marine UH-1Y, AH-1Z Link 16 kits…",
           "date": "2026-09-16",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/northrop-grumman-marines-helicopters/",
+          "relevant": false
+        },
+        {
+          "title": "Transocean drillship lands new work offshore Equatorial Guinea",
+          "summary": "Transocean secured a two-well contract for the ultra-deepwater drillship Deepwater Conqueror to work offshore Equatorial Guinea for an undisclosed operator. The estimated 170-day campaign is expected to begin in 2027…",
+          "date": "2026-09-16",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/transocean-drillship-lands-new-work-offshore-equatorial-guinea-79964",
           "relevant": false
         },
         {
@@ -1182,6 +1206,14 @@
           "date": "2026-09-21",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/legal-showdown-underway-as-cotemar-moves-to-freeze-almost-60m-in-american-bureau-of-shipping-subsidiarys-assets/",
+          "relevant": false
+        },
+        {
+          "title": "ABO Energy Exits Argentina",
+          "summary": "ABO Energy agreed to sell 3.17 gigawatts of under-development assets in Argentina to Singapore's Novva, in another country exit for the German renewable energy developer.",
+          "date": "2026-09-21",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/abo_energy_exits_argentina-21-sep-2026-184666-article/?rss=true",
           "relevant": false
         },
         {
