@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T07:01:01Z",
+  "last_updated": "2026-09-21T08:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -89,6 +89,14 @@
           "relevant": false
         },
         {
+          "title": "U.S. Navy and Boeing Ink First Production Contract for MQ-25A Stingray",
+          "summary": "The U.S. Navy and Boeing have officially launched production of the MQ-25A Stingray, advancing the carrier-based unmanned refueler toward 2029 fleet integration. The post U.S. Navy and Boeing Ink First Production…",
+          "date": "2026-09-21",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/us-navy-boeing-mq-25a-stingray-production-contract/",
+          "relevant": false
+        },
+        {
           "title": "US Tariffs Threaten Great Lakes Shipping Tied To Canada Trade",
           "summary": "By Brendan Murray Sep 19, 2026 (Bloomberg) –The American Century often draws a crowd when the ship pulls into the Port of Duluth-Superior to load Minnesota iron ore. Kids cheer when the captain...",
           "date": "2026-09-20",
@@ -158,6 +166,14 @@
           "date": "2026-09-18",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/petrobras-eight-offshore-pscs-cote-divoire/",
+          "relevant": false
+        },
+        {
+          "title": "Leonardo DRS to supply propulsion for South Korea’s KDDX vessels",
+          "summary": "Leonardo DRS has been awarded a contract by South Korea’s Doosan Enerbility to provide the electric propulsion system for the Republic of Korea Navy’s KDDX destroyer programme. The post Leonardo DRS to supply propulsion…",
+          "date": "2026-09-18",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/leonardo-drs-south-korea-kddx/",
           "relevant": false
         },
         {
@@ -1193,6 +1209,14 @@
           "relevant": false
         },
         {
+          "title": "The strategic metals behind modern military technology",
+          "summary": "Modern military technology requires strategic metals, with supply of critical important and a source of geopolitical tension. The post The strategic metals behind modern military technology appeared first on Naval…",
+          "date": "2026-09-18",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/features/the-strategic-metals-behind-modern-military-technology/",
+          "relevant": false
+        },
+        {
           "title": "U.S. Sanctions Crypto Exchange Tied to Iran’s Hormuz Transit Payments",
           "summary": "The United States has sanctioned an Iranian cryptocurrency exchange that Treasury says was used to move payments collected from ships transiting the Strait of Hormuz into Iran’s financial system. The...",
           "date": "2026-09-18",
@@ -1992,6 +2016,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Trafigura rolls out VLCC venture Volare Shipping with Oslo IPO",
+          "summary": "Commodity trading giant Trafigura is opening its growing VLCC fleet to outside investors, launching a $500m private placement ahead of a planned Oslo listing of newly created Volare Shipping. Singapore-incorporated…",
+          "date": "2026-09-21",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/trafigura-rolls-out-vlcc-venture-volare-shipping-with-oslo-ipo/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Indonesia Continues Search For Hundreds Missing In Capsized Ship",
           "summary": "JAKARTA, Sept 20 (Reuters) – Indonesian authorities will continue searching on Monday for more than a hundred people still missing after a passenger ship sank in the Java Sea last week, with the confirmed death...",
