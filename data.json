@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T06:00:57Z",
+  "last_updated": "2026-09-21T07:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -81,6 +81,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Kistos books rig and heavylifter for Dutch North Sea decom",
+          "summary": "UK-listed Kistos has contracted a rig and a lift vessel for the decommissioning of its Q10-A gas field in the Dutch North Sea, with offshore work scheduled to start in 2028. The company disclosed the two contracts in…",
+          "date": "2026-09-21",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/kistos-books-rig-and-heavylifter-for-dutch-north-sea-decom/",
+          "relevant": false
+        },
+        {
           "title": "US Tariffs Threaten Great Lakes Shipping Tied To Canada Trade",
           "summary": "By Brendan Murray Sep 19, 2026 (Bloomberg) –The American Century often draws a crowd when the ship pulls into the Port of Duluth-Superior to load Minnesota iron ore. Kids cheer when the captain...",
           "date": "2026-09-20",
@@ -102,14 +110,6 @@
           "date": "2026-09-20",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/bumi-armada-joins-wison-in-flng-lease-and-operate-push/",
-          "relevant": false
-        },
-        {
-          "title": "Kistos books rig and heavylifter for Dutch North Sea decom",
-          "summary": "UK-listed Kistos has contracted a rig and a lift vessel for the decommissioning of its Q10-A gas field in the Dutch North Sea, with offshore work scheduled to start in 2028. The company disclosed the two contracts in…",
-          "date": "2026-09-20",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/kistos-books-rig-and-heavylifter-for-dutch-north-sea-decom/",
           "relevant": false
         },
         {
@@ -1611,7 +1611,7 @@
         {
           "title": "Toro doubles MR fleet with $83m tanker pair",
           "summary": "Nasdaq-listed Toro Corp has doubled its MR tanker fleet with the acquisition of two ships for a combined $83.4m, accelerating its return to the product tanker sector as it prepares to spin off its remaining LPG…",
-          "date": "2026-09-20",
+          "date": "2026-09-21",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/toro-doubles-mr-fleet-with-83m-tanker-pair/",
           "relevant": false
