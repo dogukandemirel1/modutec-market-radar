@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T22:01:03Z",
+  "last_updated": "2026-09-21T23:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -129,19 +129,19 @@
           "relevant": false
         },
         {
-          "title": "Lockheed Martin wins US Navy awards for F-35 support, Trident II work",
-          "summary": "Lockheed Martin has been awarded a pair of contract modifications by the US Navy, collectively valued at nearly $948m, to enhance support for F-35 Lightning II operational sites and advance the Trident II (D5) Life…",
-          "date": "2026-09-21",
-          "source_name": "Naval Technology",
-          "source_url": "https://www.naval-technology.com/news/lockheed-martin-us-navy-contracts/",
-          "relevant": false
-        },
-        {
           "title": "After Equinor, Njord Survey inks three-year agreement with RWE",
           "summary": "RWE has awarded Swedish offshore survey company Njord Survey a three-year framework agreement for […] The post After Equinor, Njord Survey inks three-year agreement with RWE appeared first on Offshore Energy .",
           "date": "2026-09-21",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/after-equinor-njord-survey-inks-three-year-agreement-with-rwe/",
+          "relevant": false
+        },
+        {
+          "title": "Lockheed Martin wins US Navy awards for F-35 support, Trident II work",
+          "summary": "Lockheed Martin has been awarded a pair of contract modifications by the US Navy, collectively valued at nearly $948m, to enhance support for F-35 Lightning II operational sites and advance the Trident II (D5) Life…",
+          "date": "2026-09-21",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/lockheed-martin-us-navy-contracts/",
           "relevant": false
         },
         {
@@ -1233,6 +1233,14 @@
           "relevant": false
         },
         {
+          "title": "Legal showdown underway as Cotemar moves to freeze almost $60M in American Bureau of Shipping subsidiary’s assets",
+          "summary": "The long-running financial standoff between Mexico’s offshore specialist Cotemar and ABSG Consulting, a subsidiary of American Bureau of Shipping (ABS), has intensified, with the former now turning to the New York State…",
+          "date": "2026-09-21",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/legal-showdown-underway-as-cotemar-moves-to-freeze-almost-60m-in-american-bureau-of-shipping-subsidiarys-assets/",
+          "relevant": false
+        },
+        {
           "title": "ABO Energy Exits Argentina",
           "summary": "ABO Energy agreed to sell 3.17 gigawatts of under-development assets in Argentina to Singapore's Novva, in another country exit for the German renewable energy developer.",
           "date": "2026-09-21",
@@ -1265,14 +1273,6 @@
           "relevant": false
         },
         {
-          "title": "Legal showdown underway as Cotemar moves to freeze almost $60M in American Bureau of Shipping subsidiary’s assets",
-          "summary": "The long-running financial standoff between Mexico’s offshore specialist Cotemar and ABSG Consulting, a subsidiary of American Bureau of Shipping (ABS), has intensified, with the former now turning to the New York State…",
-          "date": "2026-09-21",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/legal-showdown-underway-as-cotemar-moves-to-freeze-almost-60m-in-american-bureau-of-shipping-subsidiarys-assets/",
-          "relevant": false
-        },
-        {
           "title": "Indonesia Got A Free Aircraft Carrier; Fixes Will Cost Millions",
           "summary": "By Chandra Asmara Sep 17, 2026 (Bloomberg) –A retired Italian aircraft carrier built to launch Harrier fighter jets arrived at Indonesia’s busiest port Friday with plans for a very different second...",
           "date": "2026-09-20",
@@ -1297,6 +1297,14 @@
           "relevant": false
         },
         {
+          "title": "Hanwha Ocean’s design solution allowing LNG carrier’s switch to ammonia gets ABS’ thumbs-up",
+          "summary": "The American Bureau of Shipping (ABS), a classification society, has handed out approval in principle (AIP) for a multi-purpose fuel tank and fuel gas supply system design that enables a liquefied natural gas (LNG)…",
+          "date": "2026-09-18",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/hanwha-oceans-design-solution-allowing-lng-carriers-switch-to-ammonia-gets-abs-thumbs-up/",
+          "relevant": false
+        },
+        {
           "title": "TotalEnergies Secures $1.8B in Capital from GIP for African Assets",
           "summary": "In exchange TotalEnergies will pay BlackRock's GIP a throughput-based tariff for up to 15 years.",
           "date": "2026-09-18",
@@ -1310,14 +1318,6 @@
           "date": "2026-09-18",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/features/the-strategic-metals-behind-modern-military-technology/",
-          "relevant": false
-        },
-        {
-          "title": "Hanwha Ocean’s design solution allowing LNG carrier’s switch to ammonia gets ABS’ thumbs-up",
-          "summary": "The American Bureau of Shipping (ABS), a classification society, has handed out approval in principle (AIP) for a multi-purpose fuel tank and fuel gas supply system design that enables a liquefied natural gas (LNG)…",
-          "date": "2026-09-18",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/hanwha-oceans-design-solution-allowing-lng-carriers-switch-to-ammonia-gets-abs-thumbs-up/",
           "relevant": false
         },
         {
