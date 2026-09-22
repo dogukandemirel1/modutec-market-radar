@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T13:01:04Z",
+  "last_updated": "2026-09-22T14:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -105,6 +105,14 @@
           "relevant": false
         },
         {
+          "title": "Raytheon, Bell Boeing win $64m US Navy contracts for V-22 fleet support",
+          "summary": "The US Department of War (DoW) has announced the award of two contracts totalling nearly $64m for ongoing support of the V-22 Osprey. The post Raytheon, Bell Boeing win $64m US Navy contracts for V-22 fleet support…",
+          "date": "2026-09-22",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/raytheon-bell-boeing-v22-fleet/",
+          "relevant": false
+        },
+        {
           "title": "PTTEP, Valeura Greenlight Bussabong Gas Development off Thailand",
           "summary": "Thai’s state oil firm PTTEP and Valeura Energy have taken a final investment decision on the first phase of the Bussabong gas development in the Gulf of Thailand…",
           "date": "2026-09-22",
@@ -153,19 +161,19 @@
           "relevant": false
         },
         {
-          "title": "U.S. Navy and Boeing Ink First Production Contract for MQ-25A Stingray",
-          "summary": "The U.S. Navy and Boeing have officially launched production of the MQ-25A Stingray, advancing the carrier-based unmanned refueler toward 2029 fleet integration. The post U.S. Navy and Boeing Ink First Production…",
-          "date": "2026-09-21",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/us-navy-boeing-mq-25a-stingray-production-contract/",
-          "relevant": false
-        },
-        {
           "title": "Lockheed Martin wins US Navy awards for F-35 support, Trident II work",
           "summary": "Lockheed Martin has been awarded a pair of contract modifications by the US Navy, collectively valued at nearly $948m, to enhance support for F-35 Lightning II operational sites and advance the Trident II (D5) Life…",
           "date": "2026-09-21",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/lockheed-martin-us-navy-contracts/",
+          "relevant": false
+        },
+        {
+          "title": "U.S. Navy and Boeing Ink First Production Contract for MQ-25A Stingray",
+          "summary": "The U.S. Navy and Boeing have officially launched production of the MQ-25A Stingray, advancing the carrier-based unmanned refueler toward 2029 fleet integration. The post U.S. Navy and Boeing Ink First Production…",
+          "date": "2026-09-21",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/us-navy-boeing-mq-25a-stingray-production-contract/",
           "relevant": false
         },
         {
@@ -1257,22 +1265,6 @@
           "relevant": false
         },
         {
-          "title": "U.S. Sanctions Law Puts Russia’s Arctic Yamal LNG Fleet in Crosshairs",
-          "summary": "A new U.S. sanctions law could put the specialized fleet that keeps Russia’s Yamal LNG project operating in the Arctic under unprecedented pressure, potentially forcing European shipping companies and service providers…",
-          "date": "2026-09-21",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/u-s-sanctions-law-puts-russias-arctic-yamal-lng-fleet-in-crosshairs/",
-          "relevant": false
-        },
-        {
-          "title": "Legal showdown underway as Cotemar moves to freeze almost $60M in American Bureau of Shipping subsidiary’s assets",
-          "summary": "The long-running financial standoff between Mexico’s offshore specialist Cotemar and ABSG Consulting, a subsidiary of American Bureau of Shipping (ABS), has intensified, with the former now turning to the New York State…",
-          "date": "2026-09-21",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/legal-showdown-underway-as-cotemar-moves-to-freeze-almost-60m-in-american-bureau-of-shipping-subsidiarys-assets/",
-          "relevant": false
-        },
-        {
           "title": "ABO Energy Exits Argentina",
           "summary": "ABO Energy agreed to sell 3.17 gigawatts of under-development assets in Argentina to Singapore's Novva, in another country exit for the German renewable energy developer.",
           "date": "2026-09-21",
@@ -1302,6 +1294,22 @@
           "date": "2026-09-21",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543120-njord-survey-gets-multi-year-rwe-s-offshore-wind-services-deal",
+          "relevant": false
+        },
+        {
+          "title": "U.S. Sanctions Law Puts Russia’s Arctic Yamal LNG Fleet in Crosshairs",
+          "summary": "A new U.S. sanctions law could put the specialized fleet that keeps Russia’s Yamal LNG project operating in the Arctic under unprecedented pressure, potentially forcing European shipping companies and service providers…",
+          "date": "2026-09-21",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/u-s-sanctions-law-puts-russias-arctic-yamal-lng-fleet-in-crosshairs/",
+          "relevant": false
+        },
+        {
+          "title": "Legal showdown underway as Cotemar moves to freeze almost $60M in American Bureau of Shipping subsidiary’s assets",
+          "summary": "The long-running financial standoff between Mexico’s offshore specialist Cotemar and ABSG Consulting, a subsidiary of American Bureau of Shipping (ABS), has intensified, with the former now turning to the New York State…",
+          "date": "2026-09-21",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/legal-showdown-underway-as-cotemar-moves-to-freeze-almost-60m-in-american-bureau-of-shipping-subsidiarys-assets/",
           "relevant": false
         },
         {
@@ -2225,6 +2233,15 @@
           "source_url": "https://splash247.com/emirates-shipping-line-bans-plastic-waste-cargoes/",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "Remote operations center for unmanned survey operations opens in Singapore",
+          "summary": "OMS Group has opened a new remote operations center (ROC) in Singapore, dedicated to […] The post Remote operations center for unmanned survey operations opens in Singapore appeared first on Offshore Energy .",
+          "date": "2026-09-22",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/remote-operations-center-for-unmanned-survey-operations-opens-in-singapore/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Aramco Poised to Resume Oil Exports at Red Sea Port",
