@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T07:01:00Z",
+  "last_updated": "2026-09-22T08:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -209,14 +209,6 @@
           "relevant": false
         },
         {
-          "title": "Petrobras secures eight offshore PSCs in Côte d’Ivoire",
-          "summary": "Brazilian state oil company Petrobras has entered into eight production sharing contracts (PSCs) for offshore exploration blocks in Côte d’Ivoire.",
-          "date": "2026-09-18",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/petrobras-eight-offshore-pscs-cote-divoire/",
-          "relevant": false
-        },
-        {
           "title": "Leonardo DRS to supply propulsion for South Korea’s KDDX vessels",
           "summary": "Leonardo DRS has been awarded a contract by South Korea’s Doosan Enerbility to provide the electric propulsion system for the Republic of Korea Navy’s KDDX destroyer programme. The post Leonardo DRS to supply propulsion…",
           "date": "2026-09-18",
@@ -246,6 +238,14 @@
           "date": "2026-09-18",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543080-transocean-drillship-secures-80m-equatorial-guinea-job",
+          "relevant": false
+        },
+        {
+          "title": "Petrobras secures eight offshore PSCs in Côte d’Ivoire",
+          "summary": "Brazilian state oil company Petrobras has entered into eight production sharing contracts (PSCs) for offshore exploration blocks in Côte d’Ivoire.",
+          "date": "2026-09-18",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/petrobras-eight-offshore-pscs-cote-divoire/",
           "relevant": false
         },
         {
@@ -1217,6 +1217,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Ultra large ethane carrier project gets underway",
+          "summary": "HD Hyundai Heavy Industries, GTT and Lloyd’s Register have launched a project to develop what would be the largest vessel concept yet for the ethane carrier market. The three companies have signed a joint development…",
+          "date": "2026-09-22",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/ultra-large-ethane-carrier-project-gets-underway/",
+          "relevant": false
+        },
+        {
           "title": "US Watching Chinese Marine Presence Off Alaska, Arctic Coast Guard Chief Says",
           "summary": "The United States is watching China's presence in its Arctic zone \"very closely\" amid concerns regarding the security of the US homeland, a senior US Arctic military official said.",
           "date": "2026-09-21",
@@ -2153,15 +2161,6 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Emirates Shipping Line bans plastic waste cargoes",
-          "summary": "Emirates Shipping Line (ESL) will stop accepting plastic waste shipments from October 1, becoming only the second ocean carrier to impose a blanket ban on the trade. The Dubai-based carrier said it would no longer take…",
-          "date": "2026-09-22",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/emirates-shipping-line-bans-plastic-waste-cargoes/",
-          "relevant": true,
-          "region": "UAE"
-        },
-        {
           "title": "How three wars are crowding out the challenges that will actually define the next decade",
           "summary": "Punit Oza from Maritime NXT on risks that come from crisis distraction, a big topic up for discussion at Thursday’s Splash Singapore conference. Since early 2026 the world’s attention — and its risk desks, insurance…",
           "date": "2026-09-22",
@@ -2169,6 +2168,15 @@
           "source_url": "https://splash247.com/how-three-wars-are-crowding-out-the-challenges-that-will-actually-define-the-next-decade/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Emirates Shipping Line bans plastic waste cargoes",
+          "summary": "Emirates Shipping Line (ESL) will stop accepting plastic waste shipments from October 1, becoming only the second ocean carrier to impose a blanket ban on the trade. The Dubai-based carrier said it would no longer take…",
+          "date": "2026-09-22",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/emirates-shipping-line-bans-plastic-waste-cargoes/",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Global Diesel Prices Hit Record Highs",
