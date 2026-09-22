@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T08:01:05Z",
+  "last_updated": "2026-09-22T09:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -94,6 +94,14 @@
           "date": "2026-09-22",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/ls-marine-seals-record-113m-offshore-wind-cable-contract/",
+          "relevant": false
+        },
+        {
+          "title": "TotalEnergies Secures Namibia Bulk Fuel Supply Contract",
+          "summary": "Namibia has selected TotalEnergies bidding group to supply the country's bulk diesel and petrol needs for a three-month period from November to January, energy minister…",
+          "date": "2026-09-22",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543139-totalenergies-secures-namibia-bulk-fuel-supply-contract",
           "relevant": false
         },
         {
@@ -329,19 +337,19 @@
           "relevant": false
         },
         {
-          "title": "TKMS ATLAS UK Awarded UK MOD NGCM Torpedo Defence System Contract",
-          "summary": "TKMS ATLAS UK has been awarded a UK MOD contract to develop and supply the Next Generation Countermeasure (NGCM) system, enhancing torpedo defense for Royal Navy submarines. The post TKMS ATLAS UK Awarded UK MOD NGCM…",
-          "date": "2026-09-17",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/tkms-atlas-uk-awarded-uk-mod-ngcm-torpedo-defence-system-contract/",
-          "relevant": false
-        },
-        {
           "title": "GDEB wins $240m contracts for Virginia-class submarine parts",
           "summary": "General Dynamics Electric Boat (GDEB) has received three undefinitised orders worth a combined total of nearly $240m for Virginia-class submarines. The post GDEB wins $240m contracts for Virginia-class submarine parts…",
           "date": "2026-09-17",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/gdeb-virginia-submarines-contract/",
+          "relevant": false
+        },
+        {
+          "title": "TKMS ATLAS UK Awarded UK MOD NGCM Torpedo Defence System Contract",
+          "summary": "TKMS ATLAS UK has been awarded a UK MOD contract to develop and supply the Next Generation Countermeasure (NGCM) system, enhancing torpedo defense for Royal Navy submarines. The post TKMS ATLAS UK Awarded UK MOD NGCM…",
+          "date": "2026-09-17",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/tkms-atlas-uk-awarded-uk-mod-ngcm-torpedo-defence-system-contract/",
           "relevant": false
         },
         {
@@ -1313,14 +1321,6 @@
           "relevant": false
         },
         {
-          "title": "Hanwha Ocean’s design solution allowing LNG carrier’s switch to ammonia gets ABS’ thumbs-up",
-          "summary": "The American Bureau of Shipping (ABS), a classification society, has handed out approval in principle (AIP) for a multi-purpose fuel tank and fuel gas supply system design that enables a liquefied natural gas (LNG)…",
-          "date": "2026-09-18",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/hanwha-oceans-design-solution-allowing-lng-carriers-switch-to-ammonia-gets-abs-thumbs-up/",
-          "relevant": false
-        },
-        {
           "title": "TotalEnergies Secures $1.8B in Capital from GIP for African Assets",
           "summary": "In exchange TotalEnergies will pay BlackRock's GIP a throughput-based tariff for up to 15 years.",
           "date": "2026-09-18",
@@ -1334,6 +1334,14 @@
           "date": "2026-09-18",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/features/the-strategic-metals-behind-modern-military-technology/",
+          "relevant": false
+        },
+        {
+          "title": "Hanwha Ocean’s design solution allowing LNG carrier’s switch to ammonia gets ABS’ thumbs-up",
+          "summary": "The American Bureau of Shipping (ABS), a classification society, has handed out approval in principle (AIP) for a multi-purpose fuel tank and fuel gas supply system design that enables a liquefied natural gas (LNG)…",
+          "date": "2026-09-18",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/hanwha-oceans-design-solution-allowing-lng-carriers-switch-to-ammonia-gets-abs-thumbs-up/",
           "relevant": false
         },
         {
