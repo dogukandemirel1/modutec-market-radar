@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T21:00:56Z",
+  "last_updated": "2026-09-22T22:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -97,14 +97,6 @@
           "relevant": false
         },
         {
-          "title": "LS Marine seals record $113m offshore wind cable contract",
-          "summary": "South Korean subsea cable contractor LS Marine Solution has converted its preferred-bidder position on the Shinan Ui offshore wind development into a KRW156.9bn ($113m) firm transport and installation contract with…",
-          "date": "2026-09-22",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/ls-marine-seals-record-113m-offshore-wind-cable-contract/",
-          "relevant": false
-        },
-        {
           "title": "SLB to extend leak detection system across Johan Sverdrup Phase 3",
           "summary": "Equinor awarded SLB a contract to expand real-time leak detection, virtual flow metering and digital production monitoring across the Johan Sverdrup Phase 3 development in the North Sea. The award extends monitoring…",
           "date": "2026-09-22",
@@ -134,6 +126,14 @@
           "date": "2026-09-22",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/pttep-valeura-take-fid-on-bussabong-gas-field-development-80059",
+          "relevant": false
+        },
+        {
+          "title": "Southeast Asian offshore project crosses FID threshold in fast-track move to first gas",
+          "summary": "PTTEP Energy Development Company, a subsidiary of PTT Exploration and Production Public Company (PTTEP), and Canada-headquartered Valeura Energy have taken a final investment decision (FID) to move forward with an…",
+          "date": "2026-09-22",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/southeast-asian-offshore-project-crosses-fid-threshold-in-fast-track-move-to-first-gas/",
           "relevant": false
         },
         {
@@ -177,11 +177,11 @@
           "relevant": false
         },
         {
-          "title": "Southeast Asian offshore project crosses FID threshold in fast-track move to first gas",
-          "summary": "PTTEP Energy Development Company, a subsidiary of PTT Exploration and Production Public Company (PTTEP), and Canada-headquartered Valeura Energy have taken a final investment decision (FID) to move forward with an…",
+          "title": "LS Marine seals record $113m offshore wind cable contract",
+          "summary": "South Korean subsea cable contractor LS Marine Solution has converted its preferred-bidder position on the Shinan Ui offshore wind development into a KRW156.9bn ($113m) firm transport and installation contract with…",
           "date": "2026-09-22",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/southeast-asian-offshore-project-crosses-fid-threshold-in-fast-track-move-to-first-gas/",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/ls-marine-seals-record-113m-offshore-wind-cable-contract/",
           "relevant": false
         },
         {
@@ -209,19 +209,19 @@
           "relevant": false
         },
         {
-          "title": "U.S. Navy and Boeing Ink First Production Contract for MQ-25A Stingray",
-          "summary": "The U.S. Navy and Boeing have officially launched production of the MQ-25A Stingray, advancing the carrier-based unmanned refueler toward 2029 fleet integration. The post U.S. Navy and Boeing Ink First Production…",
-          "date": "2026-09-21",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/us-navy-boeing-mq-25a-stingray-production-contract/",
-          "relevant": false
-        },
-        {
           "title": "Lockheed Martin wins US Navy awards for F-35 support, Trident II work",
           "summary": "Lockheed Martin has been awarded a pair of contract modifications by the US Navy, collectively valued at nearly $948m, to enhance support for F-35 Lightning II operational sites and advance the Trident II (D5) Life…",
           "date": "2026-09-21",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/lockheed-martin-us-navy-contracts/",
+          "relevant": false
+        },
+        {
+          "title": "U.S. Navy and Boeing Ink First Production Contract for MQ-25A Stingray",
+          "summary": "The U.S. Navy and Boeing have officially launched production of the MQ-25A Stingray, advancing the carrier-based unmanned refueler toward 2029 fleet integration. The post U.S. Navy and Boeing Ink First Production…",
+          "date": "2026-09-21",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/us-navy-boeing-mq-25a-stingray-production-contract/",
           "relevant": false
         },
         {
@@ -1857,22 +1857,6 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
-          "title": "Global Upstream M&A Activity Set to Exceed 2025 Total",
-          "summary": "Global upstream mergers and acquisitions activity is on course to exceed last year's $175 billion total, Rystad Energy announced.",
-          "date": "2026-09-22",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/global_upstream_ma_activity_set_to_exceed_2025_total-22-sep-2026-184676-article/?rss=true",
-          "relevant": false
-        },
-        {
-          "title": "TC Energy to divest Guadalajara-Manzanillo Pipeline for $400m",
-          "summary": "TC Energy has signed an agreement to divest Energía Occidente de México, the owner of the Guadalajara-Manzanillo Pipeline in Mexico, to affiliates of ESENTIA Energy Development for a total consideration of C$560m…",
-          "date": "2026-09-22",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/tc-energy-divest-guadalajara-manzanillo-400m/",
-          "relevant": false
-        },
-        {
           "title": "Brazilian subsea services provider changes hands",
           "summary": "Norwegian engineering company CoreMarine has completed the acquisition of Brazil’s BravOcean, a provider of […] The post Brazilian subsea services provider changes hands appeared first on Offshore Energy .",
           "date": "2026-09-22",
@@ -1886,6 +1870,22 @@
           "date": "2026-09-22",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/navitas-forges-ahead-in-south-africa-as-it-wraps-up-offshore-acquisition/",
+          "relevant": false
+        },
+        {
+          "title": "Global Upstream M&A Activity Set to Exceed 2025 Total",
+          "summary": "Global upstream mergers and acquisitions activity is on course to exceed last year's $175 billion total, Rystad Energy announced.",
+          "date": "2026-09-22",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/global_upstream_ma_activity_set_to_exceed_2025_total-22-sep-2026-184676-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "TC Energy to divest Guadalajara-Manzanillo Pipeline for $400m",
+          "summary": "TC Energy has signed an agreement to divest Energía Occidente de México, the owner of the Guadalajara-Manzanillo Pipeline in Mexico, to affiliates of ESENTIA Energy Development for a total consideration of C$560m…",
+          "date": "2026-09-22",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/tc-energy-divest-guadalajara-manzanillo-400m/",
           "relevant": false
         },
         {
@@ -2316,6 +2316,15 @@
           "region": "UAE"
         },
         {
+          "title": "Remote operations center for unmanned survey operations opens in Singapore",
+          "summary": "OMS Group has opened a new remote operations center (ROC) in Singapore, dedicated to […] The post Remote operations center for unmanned survey operations opens in Singapore appeared first on Offshore Energy .",
+          "date": "2026-09-22",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/remote-operations-center-for-unmanned-survey-operations-opens-in-singapore/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Oil Dips as Saudi Pipeline Restarts",
           "summary": "Oil slipped as Saudi Arabia moved to restart its East-West pipeline and traders weighed US-Iran diplomacy.",
           "date": "2026-09-22",
@@ -2343,13 +2352,13 @@
           "region": "KSA"
         },
         {
-          "title": "Remote operations center for unmanned survey operations opens in Singapore",
-          "summary": "OMS Group has opened a new remote operations center (ROC) in Singapore, dedicated to […] The post Remote operations center for unmanned survey operations opens in Singapore appeared first on Offshore Energy .",
-          "date": "2026-09-22",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/remote-operations-center-for-unmanned-survey-operations-opens-in-singapore/",
+          "title": "Crude Falls on Iran Diplomacy Hopes",
+          "summary": "Oil fell as Saudi exports through Hormuz increased and hopes grew for diplomatic progress in the Iran war.",
+          "date": "2026-09-21",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/crude_falls_on_iran_diplomacy_hopes-21-sep-2026-184667-article/?rss=true",
           "relevant": false,
-          "region": "SEA"
+          "region": "KSA"
         },
         {
           "title": "Global Diesel Prices Hit Record Highs",
@@ -2358,15 +2367,6 @@
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/global-diesel-prices-hit-record-highs/",
           "relevant": true,
-          "region": "KSA"
-        },
-        {
-          "title": "Crude Falls on Iran Diplomacy Hopes",
-          "summary": "Oil fell as Saudi exports through Hormuz increased and hopes grew for diplomatic progress in the Iran war.",
-          "date": "2026-09-21",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/crude_falls_on_iran_diplomacy_hopes-21-sep-2026-184667-article/?rss=true",
-          "relevant": false,
           "region": "KSA"
         },
         {
