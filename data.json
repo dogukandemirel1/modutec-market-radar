@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T22:00:56Z",
+  "last_updated": "2026-09-22T23:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -209,19 +209,19 @@
           "relevant": false
         },
         {
-          "title": "Lockheed Martin wins US Navy awards for F-35 support, Trident II work",
-          "summary": "Lockheed Martin has been awarded a pair of contract modifications by the US Navy, collectively valued at nearly $948m, to enhance support for F-35 Lightning II operational sites and advance the Trident II (D5) Life…",
-          "date": "2026-09-21",
-          "source_name": "Naval Technology",
-          "source_url": "https://www.naval-technology.com/news/lockheed-martin-us-navy-contracts/",
-          "relevant": false
-        },
-        {
           "title": "U.S. Navy and Boeing Ink First Production Contract for MQ-25A Stingray",
           "summary": "The U.S. Navy and Boeing have officially launched production of the MQ-25A Stingray, advancing the carrier-based unmanned refueler toward 2029 fleet integration. The post U.S. Navy and Boeing Ink First Production…",
           "date": "2026-09-21",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/09/us-navy-boeing-mq-25a-stingray-production-contract/",
+          "relevant": false
+        },
+        {
+          "title": "Lockheed Martin wins US Navy awards for F-35 support, Trident II work",
+          "summary": "Lockheed Martin has been awarded a pair of contract modifications by the US Navy, collectively valued at nearly $948m, to enhance support for F-35 Lightning II operational sites and advance the Trident II (D5) Life…",
+          "date": "2026-09-21",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/lockheed-martin-us-navy-contracts/",
           "relevant": false
         },
         {
