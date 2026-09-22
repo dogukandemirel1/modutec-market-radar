@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T06:01:01Z",
+  "last_updated": "2026-09-22T07:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -81,17 +81,17 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Capesize Bulker Remains Aground Off Australia After Refloating Attempts Fail",
-          "summary": "Australian authorities have launched an investigation after the 182,066-dwt bulk carrier Cape Falcon ran aground off the Port of Gladstone, Queensland, with efforts to refloat the vessel so far unsuccessful. The…",
-          "date": "2026-09-21",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/capesize-bulker-remains-aground-off-australia-after-refloating-attempts-fail/",
+          "title": "Marfret orders boxship pair at Chinese newcomer yard",
+          "summary": "Marseille-based liner Marfret has signed for two feeder containerships at China’s Hubei Guangji Green Energy Shipbuilding, handing the recently commissioned Yangtze yard another overseas order. The contract covers two…",
+          "date": "2026-09-22",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/marfret-orders-boxship-pair-at-chinese-newcomer-yard/",
           "relevant": false
         },
         {
           "title": "LS Marine seals record $113m offshore wind cable contract",
           "summary": "South Korean subsea cable contractor LS Marine Solution has converted its preferred-bidder position on the Shinan Ui offshore wind development into a KRW156.9bn ($113m) firm transport and installation contract with…",
-          "date": "2026-09-21",
+          "date": "2026-09-22",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/ls-marine-seals-record-113m-offshore-wind-cable-contract/",
           "relevant": false
@@ -99,17 +99,17 @@
         {
           "title": "Turkey delays Black Sea FPU deployment",
           "summary": "Turkey has pushed back the planned departure of the Osman Gazi floating production platform from Filyos Port to late October, delaying its deployment to the Sakarya gas field in the Black Sea. Energy and Natural…",
-          "date": "2026-09-21",
+          "date": "2026-09-22",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/turkey-delays-black-sea-fpu-deployment/",
           "relevant": false
         },
         {
-          "title": "Marfret orders boxship pair at Chinese newcomer yard",
-          "summary": "Marseille-based liner Marfret has signed for two feeder containerships at China’s Hubei Guangji Green Energy Shipbuilding, handing the recently commissioned Yangtze yard another overseas order. The contract covers two…",
+          "title": "Capesize Bulker Remains Aground Off Australia After Refloating Attempts Fail",
+          "summary": "Australian authorities have launched an investigation after the 182,066-dwt bulk carrier Cape Falcon ran aground off the Port of Gladstone, Queensland, with efforts to refloat the vessel so far unsuccessful. The…",
           "date": "2026-09-21",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/marfret-orders-boxship-pair-at-chinese-newcomer-yard/",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/capesize-bulker-remains-aground-off-australia-after-refloating-attempts-fail/",
           "relevant": false
         },
         {
@@ -1755,7 +1755,7 @@
         {
           "title": "Cadeler expands offshore wind maintenance push with Vattenfall partnership",
           "summary": "Cadeler’s offshore wind services platform Nexra has signed a memorandum of understanding with Vattenfall to develop new methods for maintaining large offshore turbines. The companies will focus on major component…",
-          "date": "2026-09-21",
+          "date": "2026-09-22",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/cadeler-expands-offshore-wind-maintenance-push-with-vattenfall-partnership/",
           "relevant": false
@@ -2153,6 +2153,24 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Emirates Shipping Line bans plastic waste cargoes",
+          "summary": "Emirates Shipping Line (ESL) will stop accepting plastic waste shipments from October 1, becoming only the second ocean carrier to impose a blanket ban on the trade. The Dubai-based carrier said it would no longer take…",
+          "date": "2026-09-22",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/emirates-shipping-line-bans-plastic-waste-cargoes/",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
+          "title": "How three wars are crowding out the challenges that will actually define the next decade",
+          "summary": "Punit Oza from Maritime NXT on risks that come from crisis distraction, a big topic up for discussion at Thursday’s Splash Singapore conference. Since early 2026 the world’s attention — and its risk desks, insurance…",
+          "date": "2026-09-22",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/how-three-wars-are-crowding-out-the-challenges-that-will-actually-define-the-next-decade/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Global Diesel Prices Hit Record Highs",
           "summary": "Diesel prices have rallied in Europe and the United States to record highs as wars in Iran and Ukraine sharply cut exports from some of the biggest producers such as Russia, Saudi Arabia and the United Arab Emirates…",
           "date": "2026-09-21",
@@ -2160,24 +2178,6 @@
           "source_url": "https://gcaptain.com/global-diesel-prices-hit-record-highs/",
           "relevant": true,
           "region": "KSA"
-        },
-        {
-          "title": "How three wars are crowding out the challenges that will actually define the next decade",
-          "summary": "Punit Oza from Maritime NXT on risks that come from crisis distraction, a big topic up for discussion at Thursday’s Splash Singapore conference. Since early 2026 the world’s attention — and its risk desks, insurance…",
-          "date": "2026-09-21",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/how-three-wars-are-crowding-out-the-challenges-that-will-actually-define-the-next-decade/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Trafigura rolls out VLCC venture Volare Shipping with Oslo IPO",
-          "summary": "Commodity trading giant Trafigura is opening its growing VLCC fleet to outside investors, launching a $500m private placement ahead of a planned Oslo listing of newly created Volare Shipping. Singapore-incorporated…",
-          "date": "2026-09-21",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/trafigura-rolls-out-vlcc-venture-volare-shipping-with-oslo-ipo/",
-          "relevant": false,
-          "region": "SEA"
         },
         {
           "title": "Crude Falls on Iran Diplomacy Hopes",
@@ -2195,6 +2195,15 @@
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543112-hormuz-ship-traffic-slumps-as-middle-east-conflict-drags-on",
           "relevant": false
+        },
+        {
+          "title": "Trafigura rolls out VLCC venture Volare Shipping with Oslo IPO",
+          "summary": "Commodity trading giant Trafigura is opening its growing VLCC fleet to outside investors, launching a $500m private placement ahead of a planned Oslo listing of newly created Volare Shipping. Singapore-incorporated…",
+          "date": "2026-09-21",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/trafigura-rolls-out-vlcc-venture-volare-shipping-with-oslo-ipo/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Indonesia Continues Search For Hundreds Missing In Capsized Ship",
