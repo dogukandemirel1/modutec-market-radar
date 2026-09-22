@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T09:01:02Z",
+  "last_updated": "2026-09-22T09:15:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -94,6 +94,14 @@
           "date": "2026-09-22",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/ls-marine-seals-record-113m-offshore-wind-cable-contract/",
+          "relevant": false
+        },
+        {
+          "title": "Southeast Asian offshore project crosses FID threshold in fast-track move to first gas",
+          "summary": "PTTEP Energy Development Company, a subsidiary of PTT Exploration and Production Public Company (PTTEP), and Canada-headquartered Valeura Energy have taken a final investment decision (FID) to move forward with an…",
+          "date": "2026-09-22",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/southeast-asian-offshore-project-crosses-fid-threshold-in-fast-track-move-to-first-gas/",
           "relevant": false
         },
         {
