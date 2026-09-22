@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T19:00:58Z",
+  "last_updated": "2026-09-22T20:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -80,6 +80,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Russia’s Arctic Port Murmansk to Use Fertilizer Equipment to Start Shipping Grain",
+          "summary": "Russia's Arctic port of Murmansk will use equipment typically used to load fertilizer when it ships its first grain from southern Russia for export as early as next month, as the Black Sea route remains closed due to…",
+          "date": "2026-09-22",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/russias-arctic-port-murmansk-to-use-fertilizer-equipment-to-start-shipping-grain/",
+          "relevant": false
+        },
         {
           "title": "Marfret orders boxship pair at Chinese newcomer yard",
           "summary": "Marseille-based liner Marfret has signed for two feeder containerships at China’s Hubei Guangji Green Energy Shipbuilding, handing the recently commissioned Yangtze yard another overseas order. The contract covers two…",
