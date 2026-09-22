@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T09:15:58Z",
+  "last_updated": "2026-09-22T10:01:11Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -217,14 +217,6 @@
           "relevant": false
         },
         {
-          "title": "Viridien wins five-year contract for UK North Sea monitoring",
-          "summary": "France-based Viridien has secured a five-year contract from Ithaca Energy to provide an integrated environmental monitoring and marine situational-awareness solution for the UK North Sea’s Greater Stella Area.",
-          "date": "2026-09-18",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/viridien-contract-uk-north-sea-monitoring/",
-          "relevant": false
-        },
-        {
           "title": "Leonardo DRS to supply propulsion for South Korea’s KDDX vessels",
           "summary": "Leonardo DRS has been awarded a contract by South Korea’s Doosan Enerbility to provide the electric propulsion system for the Republic of Korea Navy’s KDDX destroyer programme. The post Leonardo DRS to supply propulsion…",
           "date": "2026-09-18",
@@ -238,6 +230,14 @@
           "date": "2026-09-18",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/tkms-atlas-uk-ngcm-torpedo-defence/",
+          "relevant": false
+        },
+        {
+          "title": "Viridien wins five-year contract for UK North Sea monitoring",
+          "summary": "France-based Viridien has secured a five-year contract from Ithaca Energy to provide an integrated environmental monitoring and marine situational-awareness solution for the UK North Sea’s Greater Stella Area.",
+          "date": "2026-09-18",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/viridien-contract-uk-north-sea-monitoring/",
           "relevant": false
         },
         {
@@ -1777,6 +1777,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "TC Energy to divest Guadalajara-Manzanillo Pipeline for $400m",
+          "summary": "TC Energy has signed an agreement to divest Energía Occidente de México, the owner of the Guadalajara-Manzanillo Pipeline in Mexico, to affiliates of ESENTIA Energy Development for a total consideration of C$560m…",
+          "date": "2026-09-22",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/tc-energy-divest-guadalajara-manzanillo-400m/",
+          "relevant": false
+        },
+        {
           "title": "Cadeler expands offshore wind maintenance push with Vattenfall partnership",
           "summary": "Cadeler’s offshore wind services platform Nexra has signed a memorandum of understanding with Vattenfall to develop new methods for maintaining large offshore turbines. The companies will focus on major component…",
           "date": "2026-09-22",
@@ -2193,6 +2201,15 @@
           "source_url": "https://splash247.com/emirates-shipping-line-bans-plastic-waste-cargoes/",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "Aramco Poised to Resume Oil Exports at Red Sea Port",
+          "summary": "Several Asian refiners have been told informally by Saudi Aramco they will soon be able to pick up oil from the Red Sea port of Yanbu, according to traders familiar with the matter.",
+          "date": "2026-09-22",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/aramco_poised_to_resume_oil_exports_at_red_sea_port-22-sep-2026-184668-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "Global Diesel Prices Hit Record Highs",
