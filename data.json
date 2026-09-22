@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T17:00:56Z",
+  "last_updated": "2026-09-22T18:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -185,14 +185,6 @@
           "relevant": false
         },
         {
-          "title": "Capesize Bulker Remains Aground Off Australia After Refloating Attempts Fail",
-          "summary": "Australian authorities have launched an investigation after the 182,066-dwt bulk carrier Cape Falcon ran aground off the Port of Gladstone, Queensland, with efforts to refloat the vessel so far unsuccessful. The…",
-          "date": "2026-09-21",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/capesize-bulker-remains-aground-off-australia-after-refloating-attempts-fail/",
-          "relevant": false
-        },
-        {
           "title": "PDO taps Weatherford for 274-well drilling program in Oman",
           "summary": "Petroleum Development Oman (PDO) signed a three-year integrated drilling services contract with Weatherford on 21 September 2026, covering 274 wells in Marmul and the Greater Saqar area. The contract supports PDO’s…",
           "date": "2026-09-21",
@@ -214,6 +206,14 @@
           "date": "2026-09-21",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/lockheed-martin-us-navy-contracts/",
+          "relevant": false
+        },
+        {
+          "title": "Capesize Bulker Remains Aground Off Australia After Refloating Attempts Fail",
+          "summary": "Australian authorities have launched an investigation after the 182,066-dwt bulk carrier Cape Falcon ran aground off the Port of Gladstone, Queensland, with efforts to refloat the vessel so far unsuccessful. The…",
+          "date": "2026-09-21",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/capesize-bulker-remains-aground-off-australia-after-refloating-attempts-fail/",
           "relevant": false
         },
         {
@@ -1297,19 +1297,19 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "FMC Change Could Revive Older Detention and Demurrage Claims",
+          "summary": "A potentially significant change at the US Federal Maritime Commission (FMC) has gone largely under the radar, after the regulator confirmed there is no three-year statute of limitations on charge complaints relating to…",
+          "date": "2026-09-22",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/fmc-change-could-revive-older-detention-and-demurrage-claims/",
+          "relevant": false
+        },
+        {
           "title": "Ultra large ethane carrier project gets underway",
           "summary": "HD Hyundai Heavy Industries, GTT and Lloyd’s Register have launched a project to develop what would be the largest vessel concept yet for the ethane carrier market. The three companies have signed a joint development…",
           "date": "2026-09-22",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/ultra-large-ethane-carrier-project-gets-underway/",
-          "relevant": false
-        },
-        {
-          "title": "US Watching Chinese Marine Presence Off Alaska, Arctic Coast Guard Chief Says",
-          "summary": "The United States is watching China's presence in its Arctic zone \"very closely\" amid concerns regarding the security of the US homeland, a senior US Arctic military official said.",
-          "date": "2026-09-21",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/us-watching-chinese-marine-presence-off-alaska-arctic-coast-guard-chief-says/",
           "relevant": false
         },
         {
@@ -1342,6 +1342,14 @@
           "date": "2026-09-21",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543120-njord-survey-gets-multi-year-rwe-s-offshore-wind-services-deal",
+          "relevant": false
+        },
+        {
+          "title": "US Watching Chinese Marine Presence Off Alaska, Arctic Coast Guard Chief Says",
+          "summary": "The United States is watching China's presence in its Arctic zone \"very closely\" amid concerns regarding the security of the US homeland, a senior US Arctic military official said.",
+          "date": "2026-09-21",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/us-watching-chinese-marine-presence-off-alaska-arctic-coast-guard-chief-says/",
           "relevant": false
         },
         {
@@ -2272,6 +2280,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "The Other Hormuz: Black Sea Blockade Threatens a Food Supply Shock",
+          "summary": "Tue Vuong had secured four cargoes of wheat harvested from fertile lands around the Black Sea, roughly a fifth of what his milling company 5,000 miles away in Vietnam uses annually. Then he was told it wouldn’t get…",
+          "date": "2026-09-22",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/the-other-hormuz-black-sea-blockade-threatens-a-food-supply-shock/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "How three wars are crowding out the challenges that will actually define the next decade",
           "summary": "Punit Oza from Maritime NXT on risks that come from crisis distraction, a big topic up for discussion at Thursday’s Splash Singapore conference. Since early 2026 the world’s attention — and its risk desks, insurance…",
