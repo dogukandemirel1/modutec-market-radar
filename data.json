@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T15:01:08Z",
+  "last_updated": "2026-09-22T16:01:20Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -97,6 +97,22 @@
           "relevant": false
         },
         {
+          "title": "SLB to extend leak detection system across Johan Sverdrup Phase 3",
+          "summary": "Equinor awarded SLB a contract to expand real-time leak detection, virtual flow metering and digital production monitoring across the Johan Sverdrup Phase 3 development in the North Sea. The award extends monitoring…",
+          "date": "2026-09-22",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/slb-to-extend-leak-detection-system-across-johan-sverdrup-phase-3-80068",
+          "relevant": false
+        },
+        {
+          "title": "Invictus taps SLB for well services on Musuma-1 exploration well",
+          "summary": "Invictus Energy handed SLB a drilling and well services contract for the Musuma-1 exploration well at the Cabora Bassa project in Zimbabwe. SLB will provide specialized services, technology and operational resources for…",
+          "date": "2026-09-22",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/invictus-taps-slb-for-well-services-on-musuma-1-exploration-well-80066",
+          "relevant": false
+        },
+        {
           "title": "Vallourec wins tubular contract for Prinos CO₂ storage project",
           "summary": "Vallourec secured a contract from EnEarth, a subsidiary of Energean, to supply premium tubular solutions for the first phase of the Prinos CO₂ storage project in Greece. The contract covers about 3,000 tonnes of casing…",
           "date": "2026-09-22",
@@ -118,6 +134,14 @@
           "date": "2026-09-22",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/southeast-asian-offshore-project-crosses-fid-threshold-in-fast-track-move-to-first-gas/",
+          "relevant": false
+        },
+        {
+          "title": "US DOE to Award $99MM to Geothermal Innovation, Exploration Projects",
+          "summary": "'Five projects will conduct field-scale enhanced geothermal systems tests to validate technologies under real-world conditions, while 16 additional projects will conduct exploration drilling'.",
+          "date": "2026-09-22",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/us_doe_to_award_99mm_to_geothermal_innovation_exploration_projects-22-sep-2026-184677-article/?rss=true",
           "relevant": false
         },
         {
@@ -241,14 +265,6 @@
           "relevant": false
         },
         {
-          "title": "Hornbeck wins multi-year North Sea P&A contract",
-          "summary": "Hornbeck Offshore Services secured a multi-year contract for riserless plug and abandonment work in the North Sea through its subsidiary Helix Well Ops, with an undisclosed major operator. The contract is set to begin…",
-          "date": "2026-09-18",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/hornbeck-wins-multi-year-north-sea-pa-contract-80036",
-          "relevant": false
-        },
-        {
           "title": "Leonardo DRS to supply propulsion for South Korea’s KDDX vessels",
           "summary": "Leonardo DRS has been awarded a contract by South Korea’s Doosan Enerbility to provide the electric propulsion system for the Republic of Korea Navy’s KDDX destroyer programme. The post Leonardo DRS to supply propulsion…",
           "date": "2026-09-18",
@@ -262,6 +278,14 @@
           "date": "2026-09-18",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/tkms-atlas-uk-ngcm-torpedo-defence/",
+          "relevant": false
+        },
+        {
+          "title": "Hornbeck wins multi-year North Sea P&A contract",
+          "summary": "Hornbeck Offshore Services secured a multi-year contract for riserless plug and abandonment work in the North Sea through its subsidiary Helix Well Ops, with an undisclosed major operator. The contract is set to begin…",
+          "date": "2026-09-18",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/hornbeck-wins-multi-year-north-sea-pa-contract-80036",
           "relevant": false
         },
         {
@@ -1830,6 +1854,14 @@
           "date": "2026-09-22",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/navitas-forges-ahead-in-south-africa-as-it-wraps-up-offshore-acquisition/",
+          "relevant": false
+        },
+        {
+          "title": "Global Upstream M&A Activity Set to Exceed 2025 Total",
+          "summary": "Global upstream mergers and acquisitions activity is on course to exceed last year's $175 billion total, Rystad Energy announced.",
+          "date": "2026-09-22",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/global_upstream_ma_activity_set_to_exceed_2025_total-22-sep-2026-184676-article/?rss=true",
           "relevant": false
         },
         {
