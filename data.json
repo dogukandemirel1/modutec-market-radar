@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T04:00:56Z",
+  "last_updated": "2026-09-23T05:01:32Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -81,6 +81,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "MSC ship abandoned and adrift in South China Sea",
+          "summary": "The troubled MSC Hermes III remains afloat and drifting unmanned in the South China Sea after all 25 crew abandoned the vessel yesterday. A fresh HYDROPAC navigational warning describes the 20-year-old containership as…",
+          "date": "2026-09-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/msc-ship-abandoned-and-adrift-in-south-china-sea/",
+          "relevant": false
+        },
+        {
           "title": "Jan De Nul doubles up on subsea cable trenchers",
           "summary": "Belgian marine contractor Jan De Nul has ordered another trenching vessel at China Merchants Heavy Industry (CMHI) to support subsea cable installation and protection. In March, the company announced the order of the…",
           "date": "2026-09-23",
@@ -94,14 +102,6 @@
           "date": "2026-09-23",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/pttep-hands-two-jackup-deals-to-foresight-offshore-drilling/",
-          "relevant": false
-        },
-        {
-          "title": "MSC ship abandoned and adrift in South China Sea",
-          "summary": "The troubled MSC Hermes III remains afloat and drifting unmanned in the South China Sea after all 25 crew abandoned the vessel yesterday. A fresh HYDROPAC navigational warning describes the 20-year-old containership as…",
-          "date": "2026-09-23",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/msc-ship-abandoned-and-adrift-in-south-china-sea/",
           "relevant": false
         },
         {
@@ -1337,6 +1337,14 @@
           "relevant": false
         },
         {
+          "title": "Boxship orderbook points to looming capacity showdown",
+          "summary": "Container shipping’s extraordinary newbuilding binge has reached a point where several carriers now have more ships on order than they have in their entire existing fleets. Shipping analyst Lars Jensen, who runs…",
+          "date": "2026-09-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/boxship-orderbook-points-to-looming-capacity-showdown/",
+          "relevant": false
+        },
+        {
           "title": "Fujian Guohang plots $370m move into tankers and heavylift",
           "summary": "Fujian Guohang Ocean Shipping is lining up six newbuildings worth RMB2.49bn ($372m) as the Chinese dry bulk owner sets out plans to move into both LR2 tankers and large multipurpose heavylift tonnage. The Beijing Stock…",
           "date": "2026-09-23",
@@ -1350,14 +1358,6 @@
           "date": "2026-09-22",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/fmc-change-could-revive-older-detention-and-demurrage-claims/",
-          "relevant": false
-        },
-        {
-          "title": "Boxship orderbook points to looming capacity showdown",
-          "summary": "Container shipping’s extraordinary newbuilding binge has reached a point where several carriers now have more ships on order than they have in their entire existing fleets. Shipping analyst Lars Jensen, who runs…",
-          "date": "2026-09-22",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/boxship-orderbook-points-to-looming-capacity-showdown/",
           "relevant": false
         },
         {
