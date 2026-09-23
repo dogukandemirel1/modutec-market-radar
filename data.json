@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T17:01:10Z",
+  "last_updated": "2026-09-23T18:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1425,14 +1425,6 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
-          "title": "Trump Takes Aim at IMO Shipping Carbon Plan at UN",
-          "summary": "President Donald Trump used his address to the United Nations General Assembly on Tuesday to renew his attack on the International Maritime Organization’s Net-Zero Framework, accusing the UN shipping agency...",
-          "date": "2026-09-23",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/trump-takes-aim-at-imo-shipping-carbon-plan-at-un/",
-          "relevant": false
-        },
-        {
           "title": "IMO Uncertainty Puts Shipping’s 2030 Fuel Target at Risk",
           "summary": "Shipping is running out of time to meet a key 2030 target for zero-emission fuels, even as methanol infrastructure and alternative-fuel vessel capacity continue to expand. A new assessment from...",
           "date": "2026-09-23",
@@ -1454,6 +1446,14 @@
           "date": "2026-09-23",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/us-denmark-mh-60r-seahawk/",
+          "relevant": false
+        },
+        {
+          "title": "Trump Takes Aim at IMO Shipping Carbon Plan at UN",
+          "summary": "President Donald Trump used his address to the United Nations General Assembly on Tuesday to renew his attack on the International Maritime Organization’s Net-Zero Framework, accusing the UN shipping agency...",
+          "date": "2026-09-23",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/trump-takes-aim-at-imo-shipping-carbon-plan-at-un/",
           "relevant": false
         },
         {
@@ -2526,15 +2526,6 @@
           "region": "SEA"
         },
         {
-          "title": "The Other Hormuz: Black Sea Blockade Threatens a Food Supply Shock",
-          "summary": "Tue Vuong had secured four cargoes of wheat harvested from fertile lands around the Black Sea, roughly a fifth of what his milling company 5,000 miles away in Vietnam uses annually. Then he was told it wouldn’t get…",
-          "date": "2026-09-22",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/the-other-hormuz-black-sea-blockade-threatens-a-food-supply-shock/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Oil Dips as Saudi Pipeline Restarts",
           "summary": "Oil slipped as Saudi Arabia moved to restart its East-West pipeline and traders weighed US-Iran diplomacy.",
           "date": "2026-09-22",
@@ -2560,6 +2551,15 @@
           "source_url": "https://www.rigzone.com/news/wire/aramco_poised_to_resume_oil_exports_at_red_sea_port-22-sep-2026-184668-article/?rss=true",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "The Other Hormuz: Black Sea Blockade Threatens a Food Supply Shock",
+          "summary": "Tue Vuong had secured four cargoes of wheat harvested from fertile lands around the Black Sea, roughly a fifth of what his milling company 5,000 miles away in Vietnam uses annually. Then he was told it wouldn’t get…",
+          "date": "2026-09-22",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/the-other-hormuz-black-sea-blockade-threatens-a-food-supply-shock/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Remote operations center for unmanned survey operations opens in Singapore",
