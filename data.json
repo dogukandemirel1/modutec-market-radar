@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T01:00:56Z",
+  "last_updated": "2026-09-23T02:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1312,6 +1312,22 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "IMO Uncertainty Puts Shipping’s 2030 Fuel Target at Risk",
+          "summary": "Shipping is running out of time to meet a key 2030 target for zero-emission fuels, even as methanol infrastructure and alternative-fuel vessel capacity continue to expand. A new assessment from...",
+          "date": "2026-09-23",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/imo-uncertainty-puts-shippings-2030-fuel-target-at-risk/",
+          "relevant": false
+        },
+        {
+          "title": "Fujian Guohang plots $370m move into tankers and heavylift",
+          "summary": "Fujian Guohang Ocean Shipping is lining up six newbuildings worth RMB2.49bn ($372m) as the Chinese dry bulk owner sets out plans to move into both LR2 tankers and large multipurpose heavylift tonnage. The Beijing Stock…",
+          "date": "2026-09-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/fujian-guohang-plots-370m-move-into-tankers-and-heavylift/",
+          "relevant": false
+        },
         {
           "title": "FMC Change Could Revive Older Detention and Demurrage Claims",
           "summary": "A potentially significant change at the US Federal Maritime Commission (FMC) has gone largely under the radar, after the regulator confirmed there is no three-year statute of limitations on charge complaints relating to…",
