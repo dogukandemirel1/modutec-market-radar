@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T21:00:58Z",
+  "last_updated": "2026-09-23T22:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -193,14 +193,6 @@
           "relevant": false
         },
         {
-          "title": "Russia’s Arctic Port Murmansk to Use Fertilizer Equipment to Start Shipping Grain",
-          "summary": "Russia's Arctic port of Murmansk will use equipment typically used to load fertilizer when it ships its first grain from southern Russia for export as early as next month, as the Black Sea route remains closed due to…",
-          "date": "2026-09-22",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/russias-arctic-port-murmansk-to-use-fertilizer-equipment-to-start-shipping-grain/",
-          "relevant": false
-        },
-        {
           "title": "SLB to extend leak detection system across Johan Sverdrup Phase 3",
           "summary": "Equinor awarded SLB a contract to expand real-time leak detection, virtual flow metering and digital production monitoring across the Johan Sverdrup Phase 3 development in the North Sea. The award extends monitoring…",
           "date": "2026-09-22",
@@ -262,6 +254,14 @@
           "date": "2026-09-22",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/raytheon-bell-boeing-v22-fleet/",
+          "relevant": false
+        },
+        {
+          "title": "Russia’s Arctic Port Murmansk to Use Fertilizer Equipment to Start Shipping Grain",
+          "summary": "Russia's Arctic port of Murmansk will use equipment typically used to load fertilizer when it ships its first grain from southern Russia for export as early as next month, as the Black Sea route remains closed due to…",
+          "date": "2026-09-22",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/russias-arctic-port-murmansk-to-use-fertilizer-equipment-to-start-shipping-grain/",
           "relevant": false
         },
         {
