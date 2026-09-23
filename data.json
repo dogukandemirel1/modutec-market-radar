@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T09:00:56Z",
+  "last_updated": "2026-09-23T09:16:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1936,6 +1936,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "DeepOcean and TFKable plan JV for inter-array cable projects with dedicated vessel",
+          "summary": "DeepOcean and the controlling entity of TFKable Group are planning to establish a joint venture […] The post DeepOcean and TFKable plan JV for inter-array cable projects with dedicated vessel appeared first on Offshore…",
+          "date": "2026-09-23",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/deepocean-and-tfkable-plan-jv-for-inter-array-cable-projects-with-dedicated-vessel/",
+          "relevant": false
+        },
         {
           "title": "Shell done with US Gulf oil asset sale set to realize $1.7 billion total deal value",
           "summary": "Shell Offshore, a subsidiary of the UK-headquartered energy giant Shell, has brought to a close the divestment of non-operated working interests in certain oil assets in the Gulf of America (U.S. Gulf of Mexico). The…",
