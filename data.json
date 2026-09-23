@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T10:00:57Z",
+  "last_updated": "2026-09-23T11:00:54Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -81,11 +81,35 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "China Merchants tanker arm lines up LR2 quartet",
+          "summary": "China Merchants-controlled Nanjing Tanker has launched a tender for four additional LR2 tankers, potentially tripling its newbuilding exposure in the segment from two ships to six. The Shanghai-listed owner is inviting…",
+          "date": "2026-09-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/china-merchants-tanker-arm-lines-up-lr2-quartet/",
+          "relevant": false
+        },
+        {
           "title": "MSC ship abandoned and adrift in South China Sea",
           "summary": "The troubled MSC Hermes III remains afloat and drifting unmanned in the South China Sea after all 25 crew abandoned the vessel yesterday. A fresh HYDROPAC navigational warning describes the 20-year-old containership as…",
           "date": "2026-09-23",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/msc-ship-abandoned-and-adrift-in-south-china-sea/",
+          "relevant": false
+        },
+        {
+          "title": "Allseas books ABL for 60,000-ton topside single-lift ops in next North Sea decom chapter",
+          "summary": "Energy and marine consultancy ABL, part of Oslo-listed global consultancy group Aqualis, has been hired by Switzerland-based offshore contractor Allseas to support the lifting of a massive 60,000-ton topside in a single…",
+          "date": "2026-09-23",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/allseas-books-abl-for-60000-ton-topside-single-lift-ops-in-next-north-sea-decom-chapter/",
+          "relevant": false
+        },
+        {
+          "title": "PTTEP and Valeura reach FID on Bussabong gas project phase one",
+          "summary": "Thailand’s PTT Exploration and Production (PTTEP) and its partner Valeura Energy have agreed to proceed with the Phase 1 of gas development at the Bussabong gas field, located within Block G3/65 offshore Gulf of…",
+          "date": "2026-09-23",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/pttep-valeura-fid-bussabong-gas-phase-1/",
           "relevant": false
         },
         {
@@ -169,14 +193,6 @@
           "relevant": false
         },
         {
-          "title": "Southeast Asian offshore project crosses FID threshold in fast-track move to first gas",
-          "summary": "PTTEP Energy Development Company, a subsidiary of PTT Exploration and Production Public Company (PTTEP), and Canada-headquartered Valeura Energy have taken a final investment decision (FID) to move forward with an…",
-          "date": "2026-09-22",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/southeast-asian-offshore-project-crosses-fid-threshold-in-fast-track-move-to-first-gas/",
-          "relevant": false
-        },
-        {
           "title": "US DOE to Award $99MM to Geothermal Innovation, Exploration Projects",
           "summary": "'Five projects will conduct field-scale enhanced geothermal systems tests to validate technologies under real-world conditions, while 16 additional projects will conduct exploration drilling'.",
           "date": "2026-09-22",
@@ -222,6 +238,14 @@
           "date": "2026-09-22",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543139-totalenergies-secures-namibia-bulk-fuel-supply-contract",
+          "relevant": false
+        },
+        {
+          "title": "Southeast Asian offshore project crosses FID threshold in fast-track move to first gas",
+          "summary": "PTTEP Energy Development Company, a subsidiary of PTT Exploration and Production Public Company (PTTEP), and Canada-headquartered Valeura Energy have taken a final investment decision (FID) to move forward with an…",
+          "date": "2026-09-22",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/southeast-asian-offshore-project-crosses-fid-threshold-in-fast-track-move-to-first-gas/",
           "relevant": false
         },
         {
