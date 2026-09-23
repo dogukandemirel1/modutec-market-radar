@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T11:00:54Z",
+  "last_updated": "2026-09-23T12:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -94,6 +94,14 @@
           "date": "2026-09-23",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/msc-ship-abandoned-and-adrift-in-south-china-sea/",
+          "relevant": false
+        },
+        {
+          "title": "Subsea Cable Assets wins first contract with Saipem, worth $20 million",
+          "summary": "Netherlands-headquartered Subsea Cable Assets (SCA) has won its first contract with Saipem for cable […] The post Subsea Cable Assets wins first contract with Saipem, worth $20 million appeared first on Offshore Energy .",
+          "date": "2026-09-23",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/subsea-cable-assets-wins-first-contract-with-saipem-worth-20-million/",
           "relevant": false
         },
         {
@@ -2426,11 +2434,11 @@
           "region": "SEA"
         },
         {
-          "title": "Lars Kastrup stands down as PIL boss with Temasek exec lined up",
-          "summary": "Pacific International Lines (PIL) chief executive Lars Kastrup will step down next April, bringing to a close a tenure that has coincided with one of the most dramatic turnarounds in the Singapore liner’s history. Wan…",
+          "title": "Synergy links up with Cochin across newbuilds and conversions",
+          "summary": "Singapore shipmanager Synergy Marine Group has joined forces with Cochin Shipyard to pursue shipbuilding, repair and conversion work in India, adding another international partner to the state-controlled yard’s…",
           "date": "2026-09-23",
           "source_name": "Splash247",
-          "source_url": "https://splash247.com/lars-kastrup-stands-down-as-pil-boss-with-temasek-exec-lined-up/",
+          "source_url": "https://splash247.com/synergy-links-up-with-cochin-across-newbuilds-and-conversions/",
           "relevant": false,
           "region": "SEA"
         },
@@ -2442,6 +2450,15 @@
           "source_url": "https://www.oedigital.com/news/543195-saudi-aramco-plans-standalone-gas-division-in-major-reorganization",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Lars Kastrup stands down as PIL boss with Temasek exec lined up",
+          "summary": "Pacific International Lines (PIL) chief executive Lars Kastrup will step down next April, bringing to a close a tenure that has coincided with one of the most dramatic turnarounds in the Singapore liner’s history. Wan…",
+          "date": "2026-09-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/lars-kastrup-stands-down-as-pil-boss-with-temasek-exec-lined-up/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "The Other Hormuz: Black Sea Blockade Threatens a Food Supply Shock",
