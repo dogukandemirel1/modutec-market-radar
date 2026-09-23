@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T23:00:58Z",
+  "last_updated": "2026-09-23T00:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -89,14 +89,6 @@
           "relevant": false
         },
         {
-          "title": "Marfret orders boxship pair at Chinese newcomer yard",
-          "summary": "Marseille-based liner Marfret has signed for two feeder containerships at China’s Hubei Guangji Green Energy Shipbuilding, handing the recently commissioned Yangtze yard another overseas order. The contract covers two…",
-          "date": "2026-09-22",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/marfret-orders-boxship-pair-at-chinese-newcomer-yard/",
-          "relevant": false
-        },
-        {
           "title": "SLB to extend leak detection system across Johan Sverdrup Phase 3",
           "summary": "Equinor awarded SLB a contract to expand real-time leak detection, virtual flow metering and digital production monitoring across the Johan Sverdrup Phase 3 development in the North Sea. The award extends monitoring…",
           "date": "2026-09-22",
@@ -174,6 +166,14 @@
           "date": "2026-09-22",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543139-totalenergies-secures-namibia-bulk-fuel-supply-contract",
+          "relevant": false
+        },
+        {
+          "title": "Marfret orders boxship pair at Chinese newcomer yard",
+          "summary": "Marseille-based liner Marfret has signed for two feeder containerships at China’s Hubei Guangji Green Energy Shipbuilding, handing the recently commissioned Yangtze yard another overseas order. The contract covers two…",
+          "date": "2026-09-22",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/marfret-orders-boxship-pair-at-chinese-newcomer-yard/",
           "relevant": false
         },
         {
@@ -1313,6 +1313,14 @@
           "relevant": false
         },
         {
+          "title": "Boxship orderbook points to looming capacity showdown",
+          "summary": "Container shipping’s extraordinary newbuilding binge has reached a point where several carriers now have more ships on order than they have in their entire existing fleets. Shipping analyst Lars Jensen, who runs…",
+          "date": "2026-09-22",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/boxship-orderbook-points-to-looming-capacity-showdown/",
+          "relevant": false
+        },
+        {
           "title": "Ultra large ethane carrier project gets underway",
           "summary": "HD Hyundai Heavy Industries, GTT and Lloyd’s Register have launched a project to develop what would be the largest vessel concept yet for the ethane carrier market. The three companies have signed a joint development…",
           "date": "2026-09-22",
@@ -2307,15 +2315,6 @@
           "region": "SEA"
         },
         {
-          "title": "Emirates Shipping Line bans plastic waste cargoes",
-          "summary": "Emirates Shipping Line (ESL) will stop accepting plastic waste shipments from October 1, becoming only the second ocean carrier to impose a blanket ban on the trade. The Dubai-based carrier said it would no longer take…",
-          "date": "2026-09-22",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/emirates-shipping-line-bans-plastic-waste-cargoes/",
-          "relevant": true,
-          "region": "UAE"
-        },
-        {
           "title": "Remote operations center for unmanned survey operations opens in Singapore",
           "summary": "OMS Group has opened a new remote operations center (ROC) in Singapore, dedicated to […] The post Remote operations center for unmanned survey operations opens in Singapore appeared first on Offshore Energy .",
           "date": "2026-09-22",
@@ -2350,6 +2349,15 @@
           "source_url": "https://www.rigzone.com/news/wire/aramco_poised_to_resume_oil_exports_at_red_sea_port-22-sep-2026-184668-article/?rss=true",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Emirates Shipping Line bans plastic waste cargoes",
+          "summary": "Emirates Shipping Line (ESL) will stop accepting plastic waste shipments from October 1, becoming only the second ocean carrier to impose a blanket ban on the trade. The Dubai-based carrier said it would no longer take…",
+          "date": "2026-09-22",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/emirates-shipping-line-bans-plastic-waste-cargoes/",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Crude Falls on Iran Diplomacy Hopes",
