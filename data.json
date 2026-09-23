@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T00:01:00Z",
+  "last_updated": "2026-09-23T01:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -80,6 +80,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "MSC ship abandoned and adrift in South China Sea",
+          "summary": "The troubled MSC Hermes III remains afloat and drifting unmanned in the South China Sea after all 25 crew abandoned the vessel yesterday. A fresh HYDROPAC navigational warning describes the 20-year-old containership as…",
+          "date": "2026-09-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/msc-ship-abandoned-and-adrift-in-south-china-sea/",
+          "relevant": false
+        },
         {
           "title": "Russia’s Arctic Port Murmansk to Use Fertilizer Equipment to Start Shipping Grain",
           "summary": "Russia's Arctic port of Murmansk will use equipment typically used to load fertilizer when it ships its first grain from southern Russia for export as early as next month, as the Black Sea route remains closed due to…",
@@ -2297,20 +2305,20 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Lars Kastrup stands down as PIL boss with Temasek exec lined up",
+          "summary": "Pacific International Lines (PIL) chief executive Lars Kastrup will step down next April, bringing to a close a tenure that has coincided with one of the most dramatic turnarounds in the Singapore liner’s history. Wan…",
+          "date": "2026-09-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/lars-kastrup-stands-down-as-pil-boss-with-temasek-exec-lined-up/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "The Other Hormuz: Black Sea Blockade Threatens a Food Supply Shock",
           "summary": "Tue Vuong had secured four cargoes of wheat harvested from fertile lands around the Black Sea, roughly a fifth of what his milling company 5,000 miles away in Vietnam uses annually. Then he was told it wouldn’t get…",
           "date": "2026-09-22",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/the-other-hormuz-black-sea-blockade-threatens-a-food-supply-shock/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "How three wars are crowding out the challenges that will actually define the next decade",
-          "summary": "Punit Oza from Maritime NXT on risks that come from crisis distraction, a big topic up for discussion at Thursday’s Splash Singapore conference. Since early 2026 the world’s attention — and its risk desks, insurance…",
-          "date": "2026-09-22",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/how-three-wars-are-crowding-out-the-challenges-that-will-actually-define-the-next-decade/",
           "relevant": false,
           "region": "SEA"
         },
@@ -2349,6 +2357,15 @@
           "source_url": "https://www.rigzone.com/news/wire/aramco_poised_to_resume_oil_exports_at_red_sea_port-22-sep-2026-184668-article/?rss=true",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "How three wars are crowding out the challenges that will actually define the next decade",
+          "summary": "Punit Oza from Maritime NXT on risks that come from crisis distraction, a big topic up for discussion at Thursday’s Splash Singapore conference. Since early 2026 the world’s attention — and its risk desks, insurance…",
+          "date": "2026-09-22",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/how-three-wars-are-crowding-out-the-challenges-that-will-actually-define-the-next-decade/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Emirates Shipping Line bans plastic waste cargoes",
