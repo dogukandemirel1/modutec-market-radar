@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T12:01:03Z",
+  "last_updated": "2026-09-23T13:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -89,14 +89,6 @@
           "relevant": false
         },
         {
-          "title": "MSC ship abandoned and adrift in South China Sea",
-          "summary": "The troubled MSC Hermes III remains afloat and drifting unmanned in the South China Sea after all 25 crew abandoned the vessel yesterday. A fresh HYDROPAC navigational warning describes the 20-year-old containership as…",
-          "date": "2026-09-23",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/msc-ship-abandoned-and-adrift-in-south-china-sea/",
-          "relevant": false
-        },
-        {
           "title": "Subsea Cable Assets wins first contract with Saipem, worth $20 million",
           "summary": "Netherlands-headquartered Subsea Cable Assets (SCA) has won its first contract with Saipem for cable […] The post Subsea Cable Assets wins first contract with Saipem, worth $20 million appeared first on Offshore Energy .",
           "date": "2026-09-23",
@@ -129,11 +121,35 @@
           "relevant": false
         },
         {
+          "title": "SLPE Takes Foundation Design Role at EnBW's German Offshore Wind Farm",
+          "summary": "SLPE, part of Smulders, has secured a contract by EnBW to provide wind turbine foundation engineering for the planned 1 GW Dreekant offshore wind farm in the German North Sea…",
+          "date": "2026-09-23",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543205-slpe-takes-foundation-design-role-at-enbw-s-german-offshore-wind-farm",
+          "relevant": false
+        },
+        {
+          "title": "Saipem Taps Subsea Cable Assets for $20M Cable Campaign",
+          "summary": "Subsea Cable Assets (SCA) has secured its first contract, a roughly $20 million award from Saipem Contracting Netherlands for cable transportation and handling work…",
+          "date": "2026-09-23",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543203-saipem-taps-subsea-cable-assets-for-20m-cable-campaign",
+          "relevant": false
+        },
+        {
           "title": "TotalEnergies, AMNI Take FID on Nigeria's Ima Gas Project",
           "summary": "TotalEnergies and AMNI have taken a final investment decision on the Ima gas development offshore Nigeria, targeting production of 350 million cubic feet per day…",
           "date": "2026-09-23",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543191-totalenergies-amni-take-fid-on-nigeria-s-ima-gas-project",
+          "relevant": false
+        },
+        {
+          "title": "MSC ship abandoned and adrift in South China Sea",
+          "summary": "The troubled MSC Hermes III remains afloat and drifting unmanned in the South China Sea after all 25 crew abandoned the vessel yesterday. A fresh HYDROPAC navigational warning describes the 20-year-old containership as…",
+          "date": "2026-09-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/msc-ship-abandoned-and-adrift-in-south-china-sea/",
           "relevant": false
         },
         {
@@ -2001,14 +2017,6 @@
           "relevant": false
         },
         {
-          "title": "Navitas forges ahead in South Africa as it wraps up offshore acquisition",
-          "summary": "Israel’s Navitas Petroleum has brought into its fold a stake in a block off the coast of South Africa through a deal with Eco (Atlantic) Oil & Gas, an AIM-listed and Canada-headquartered oil and gas company focused on…",
-          "date": "2026-09-22",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/navitas-forges-ahead-in-south-africa-as-it-wraps-up-offshore-acquisition/",
-          "relevant": false
-        },
-        {
           "title": "Global Upstream M&A Activity Set to Exceed 2025 Total",
           "summary": "Global upstream mergers and acquisitions activity is on course to exceed last year's $175 billion total, Rystad Energy announced.",
           "date": "2026-09-22",
@@ -2022,6 +2030,14 @@
           "date": "2026-09-22",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/tc-energy-divest-guadalajara-manzanillo-400m/",
+          "relevant": false
+        },
+        {
+          "title": "Navitas forges ahead in South Africa as it wraps up offshore acquisition",
+          "summary": "Israel’s Navitas Petroleum has brought into its fold a stake in a block off the coast of South Africa through a deal with Eco (Atlantic) Oil & Gas, an AIM-listed and Canada-headquartered oil and gas company focused on…",
+          "date": "2026-09-22",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/navitas-forges-ahead-in-south-africa-as-it-wraps-up-offshore-acquisition/",
           "relevant": false
         },
         {
