@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T15:00:57Z",
+  "last_updated": "2026-09-23T16:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1425,6 +1425,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Trump Takes Aim at IMO Shipping Carbon Plan at UN",
+          "summary": "President Donald Trump used his address to the United Nations General Assembly on Tuesday to renew his attack on the International Maritime Organization’s Net-Zero Framework, accusing the UN shipping agency...",
+          "date": "2026-09-23",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/trump-takes-aim-at-imo-shipping-carbon-plan-at-un/",
+          "relevant": false
+        },
+        {
           "title": "IMO Uncertainty Puts Shipping’s 2030 Fuel Target at Risk",
           "summary": "Shipping is running out of time to meet a key 2030 target for zero-emission fuels, even as methanol infrastructure and alternative-fuel vessel capacity continue to expand. A new assessment from...",
           "date": "2026-09-23",
@@ -2519,15 +2527,6 @@
           "region": "SEA"
         },
         {
-          "title": "Remote operations center for unmanned survey operations opens in Singapore",
-          "summary": "OMS Group has opened a new remote operations center (ROC) in Singapore, dedicated to […] The post Remote operations center for unmanned survey operations opens in Singapore appeared first on Offshore Energy .",
-          "date": "2026-09-22",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/remote-operations-center-for-unmanned-survey-operations-opens-in-singapore/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Oil Dips as Saudi Pipeline Restarts",
           "summary": "Oil slipped as Saudi Arabia moved to restart its East-West pipeline and traders weighed US-Iran diplomacy.",
           "date": "2026-09-22",
@@ -2553,6 +2552,15 @@
           "source_url": "https://www.rigzone.com/news/wire/aramco_poised_to_resume_oil_exports_at_red_sea_port-22-sep-2026-184668-article/?rss=true",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Remote operations center for unmanned survey operations opens in Singapore",
+          "summary": "OMS Group has opened a new remote operations center (ROC) in Singapore, dedicated to […] The post Remote operations center for unmanned survey operations opens in Singapore appeared first on Offshore Energy .",
+          "date": "2026-09-22",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/remote-operations-center-for-unmanned-survey-operations-opens-in-singapore/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "How three wars are crowding out the challenges that will actually define the next decade",
