@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T14:00:58Z",
+  "last_updated": "2026-09-23T15:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -321,19 +321,19 @@
           "relevant": false
         },
         {
-          "title": "Predator begins 20-day MOU-6 well program in Morocco",
-          "summary": "Predator Oil & Gas began drilling the MOU-6 well in Morocco on 19 September 2026. Well operations are planned to last up to 20 days. Predator amended its rig contract with Intrepid Drilling in late July to cover Rig 101…",
-          "date": "2026-09-21",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/predator-begins-20-day-mou-6-well-program-in-morocco-80045",
-          "relevant": false
-        },
-        {
           "title": "Lockheed Martin wins US Navy awards for F-35 support, Trident II work",
           "summary": "Lockheed Martin has been awarded a pair of contract modifications by the US Navy, collectively valued at nearly $948m, to enhance support for F-35 Lightning II operational sites and advance the Trident II (D5) Life…",
           "date": "2026-09-21",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/lockheed-martin-us-navy-contracts/",
+          "relevant": false
+        },
+        {
+          "title": "Predator begins 20-day MOU-6 well program in Morocco",
+          "summary": "Predator Oil & Gas began drilling the MOU-6 well in Morocco on 19 September 2026. Well operations are planned to last up to 20 days. Predator amended its rig contract with Intrepid Drilling in late July to cover Rig 101…",
+          "date": "2026-09-21",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/predator-begins-20-day-mou-6-well-program-in-morocco-80045",
           "relevant": false
         },
         {
@@ -1465,19 +1465,19 @@
           "relevant": false
         },
         {
-          "title": "ABO Energy Exits Argentina",
-          "summary": "ABO Energy agreed to sell 3.17 gigawatts of under-development assets in Argentina to Singapore's Novva, in another country exit for the German renewable energy developer.",
-          "date": "2026-09-21",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/abo_energy_exits_argentina-21-sep-2026-184666-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Forecasts: Global body armour market (2026-2036)",
           "summary": "Body armour is split into three distinct market areas, including hard protection, soft protection, and ballistic helmets. The post Forecasts: Global body armour market (2026-2036) appeared first on Naval Technology .",
           "date": "2026-09-21",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/features/forecasts-global-body-armour-market-2026-2036/",
+          "relevant": false
+        },
+        {
+          "title": "ABO Energy Exits Argentina",
+          "summary": "ABO Energy agreed to sell 3.17 gigawatts of under-development assets in Argentina to Singapore's Novva, in another country exit for the German renewable energy developer.",
+          "date": "2026-09-21",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/abo_energy_exits_argentina-21-sep-2026-184666-article/?rss=true",
           "relevant": false
         },
         {
@@ -2000,6 +2000,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "Superior targets intervention growth with Welltec acquisition",
+          "summary": "Superior Energy Services entered into a definitive agreement to acquire Welltec International, the Denmark-based provider of robotic wireline-conveyed well intervention and metal expandable packer technologies…",
+          "date": "2026-09-23",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/superior-targets-intervention-growth-with-welltec-acquisition-80072",
+          "relevant": false
+        },
         {
           "title": "DeepOcean and TFKable plan JV for inter-array cable projects with dedicated vessel",
           "summary": "DeepOcean and the controlling entity of TFKable Group are planning to establish a joint venture […] The post DeepOcean and TFKable plan JV for inter-array cable projects with dedicated vessel appeared first on Offshore…",
