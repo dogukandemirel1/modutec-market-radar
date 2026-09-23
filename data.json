@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T13:01:01Z",
+  "last_updated": "2026-09-23T14:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -105,6 +105,14 @@
           "relevant": false
         },
         {
+          "title": "TotalEnergies, AMNI take FID on Nigeria’s Ima gas field",
+          "summary": "TotalEnergies and its Nigerian partner AMNI have taken the FID for the Ima gas field, an offshore development intended to supply a liquefaction plant of the NLNG project.",
+          "date": "2026-09-23",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/totalenergies-amni-fid-ima-gas-field/",
+          "relevant": false
+        },
+        {
           "title": "PTTEP and Valeura reach FID on Bussabong gas project phase one",
           "summary": "Thailand’s PTT Exploration and Production (PTTEP) and its partner Valeura Energy have agreed to proceed with the Phase 1 of gas development at the Bussabong gas field, located within Block G3/65 offshore Gulf of…",
           "date": "2026-09-23",
@@ -118,6 +126,14 @@
           "date": "2026-09-23",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/eil-450m-epcm-dangotes-refinery-kenya/",
+          "relevant": false
+        },
+        {
+          "title": "Fugro Nets Australian Subsea Asset Integrity Contract",
+          "summary": "Fugro has secured a marine asset integrity contract in Australia covering the replacement of critical subsea infrastructure and survey and inspection work, with…",
+          "date": "2026-09-23",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543207-fugro-nets-australian-subsea-asset-integrity-contract",
           "relevant": false
         },
         {
@@ -2009,14 +2025,6 @@
           "relevant": false
         },
         {
-          "title": "Brazilian subsea services provider changes hands",
-          "summary": "Norwegian engineering company CoreMarine has completed the acquisition of Brazil’s BravOcean, a provider of […] The post Brazilian subsea services provider changes hands appeared first on Offshore Energy .",
-          "date": "2026-09-22",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/brazilian-subsea-services-provider-changes-hands/",
-          "relevant": false
-        },
-        {
           "title": "Global Upstream M&A Activity Set to Exceed 2025 Total",
           "summary": "Global upstream mergers and acquisitions activity is on course to exceed last year's $175 billion total, Rystad Energy announced.",
           "date": "2026-09-22",
@@ -2030,6 +2038,14 @@
           "date": "2026-09-22",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/tc-energy-divest-guadalajara-manzanillo-400m/",
+          "relevant": false
+        },
+        {
+          "title": "Brazilian subsea services provider changes hands",
+          "summary": "Norwegian engineering company CoreMarine has completed the acquisition of Brazil’s BravOcean, a provider of […] The post Brazilian subsea services provider changes hands appeared first on Offshore Energy .",
+          "date": "2026-09-22",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/brazilian-subsea-services-provider-changes-hands/",
           "relevant": false
         },
         {
@@ -2457,6 +2473,15 @@
           "source_url": "https://splash247.com/synergy-links-up-with-cochin-across-newbuilds-and-conversions/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Sponsored: ADIPEC 2026 to Mobilise Investment in Energy Systems Powering Global Growth",
+          "summary": "ADIPEC 2026 will take place in Abu Dhabi from 2–5 November under the patronage of His Highness Sheikh Mohamed bin Zayed Al Nahyan, President of the UAE, in his…",
+          "date": "2026-09-23",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543103-sponsored-adipec-2026-to-mobilise-investment-in-energy-systems-powering-global-growth",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Saudi Aramco Plans Standalone Gas Division in Major Reorganization",
