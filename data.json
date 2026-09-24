@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T14:00:59Z",
+  "last_updated": "2026-09-24T15:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -89,6 +89,22 @@
           "relevant": false
         },
         {
+          "title": "Expro wins integrated well services contract for 14-well Newfoundland campaign",
+          "summary": "Expro secured a multi-product line contract with an undisclosed Canadian operator to support a life-extension campaign offshore Newfoundland, Canada. The scope covers 14 wells with options for additional wells, and work…",
+          "date": "2026-09-24",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/expro-wins-integrated-well-services-contract-for-14-well-newfoundland-campaign-80081",
+          "relevant": false
+        },
+        {
+          "title": "Last FSRU in seven-vessel conversion program boosts Karpowership’s LNG-to-power value chain",
+          "summary": "Karpowership, Türkiye’s floating power solutions provider and owner and operator of powerships, has finished its multi-vessel liquefied natural gas (LNG) carrier-to-floating storage and regasification unit (FSRU)…",
+          "date": "2026-09-24",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/last-fsru-in-seven-vessel-conversion-program-boosts-karpowerships-lng-to-power-value-chain/",
+          "relevant": false
+        },
+        {
           "title": "Go-ahead for DNO’s North Sea drilling ops with Odfjell Drilling-managed rig",
           "summary": "Norway’s oil and gas player DNO has secured the thumbs-up from the country’s authorities for drilling activities in the North Sea with a semi-submersible rig managed by Odfjell Drilling, an offshore drilling contractor…",
           "date": "2026-09-24",
@@ -105,11 +121,11 @@
           "relevant": false
         },
         {
-          "title": "Subsea7’s scope at Türkiye’s largest natural gas field extended once again",
-          "summary": "Subsea7 has secured yet another contract extension with Turkish Petroleum Offshore Technology Center (TP-OTC) […] The post Subsea7’s scope at Türkiye’s largest natural gas field extended once again appeared first on…",
+          "title": "ProPetro to Supply 230 MW to Targa",
+          "summary": "ProPetro secured new contracts to supply about 230 megawatts of power to support Targa Resources' operations in the Permian Basin.",
           "date": "2026-09-24",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/subsea7s-scope-at-turkiyes-largest-natural-gas-field-extended-once-again/",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/propetro_to_supply_230_mw_to_targa-24-sep-2026-184697-article/?rss=true",
           "relevant": false
         },
         {
@@ -158,6 +174,14 @@
           "date": "2026-09-24",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543232-subsea7-takes-more-work-on-sakarya-gas-project-offshore-t-rkiye",
+          "relevant": false
+        },
+        {
+          "title": "Subsea7’s scope at Türkiye’s largest natural gas field extended once again",
+          "summary": "Subsea7 has secured yet another contract extension with Turkish Petroleum Offshore Technology Center (TP-OTC) […] The post Subsea7’s scope at Türkiye’s largest natural gas field extended once again appeared first on…",
+          "date": "2026-09-24",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/subsea7s-scope-at-turkiyes-largest-natural-gas-field-extended-once-again/",
           "relevant": false
         },
         {
@@ -329,22 +353,6 @@
           "relevant": false
         },
         {
-          "title": "PTTEP, Valeura take FID on Bussabong gas field development",
-          "summary": "PTTEP and partner Valeura Energy sanctioned the first phase of the Bussabong gas field development in Block G3/65, offshore Gulf of Thailand. Phase 1 calls for two gas wellhead platforms with 24 well slots each, tied…",
-          "date": "2026-09-22",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/pttep-valeura-take-fid-on-bussabong-gas-field-development-80059",
-          "relevant": false
-        },
-        {
-          "title": "US DOE to Award $99MM to Geothermal Innovation, Exploration Projects",
-          "summary": "'Five projects will conduct field-scale enhanced geothermal systems tests to validate technologies under real-world conditions, while 16 additional projects will conduct exploration drilling'.",
-          "date": "2026-09-22",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/us_doe_to_award_99mm_to_geothermal_innovation_exploration_projects-22-sep-2026-184677-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "L3Harris wins US Navy deals for submarine masts and missile components",
           "summary": "L3Harris Technologies has secured two new contracts from the US Navy, covering submarine mast systems and missile propulsion components. The post L3Harris wins US Navy deals for submarine masts and missile components…",
           "date": "2026-09-22",
@@ -358,6 +366,22 @@
           "date": "2026-09-22",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/raytheon-bell-boeing-v22-fleet/",
+          "relevant": false
+        },
+        {
+          "title": "PTTEP, Valeura take FID on Bussabong gas field development",
+          "summary": "PTTEP and partner Valeura Energy sanctioned the first phase of the Bussabong gas field development in Block G3/65, offshore Gulf of Thailand. Phase 1 calls for two gas wellhead platforms with 24 well slots each, tied…",
+          "date": "2026-09-22",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/pttep-valeura-take-fid-on-bussabong-gas-field-development-80059",
+          "relevant": false
+        },
+        {
+          "title": "US DOE to Award $99MM to Geothermal Innovation, Exploration Projects",
+          "summary": "'Five projects will conduct field-scale enhanced geothermal systems tests to validate technologies under real-world conditions, while 16 additional projects will conduct exploration drilling'.",
+          "date": "2026-09-22",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/us_doe_to_award_99mm_to_geothermal_innovation_exploration_projects-22-sep-2026-184677-article/?rss=true",
           "relevant": false
         },
         {
@@ -425,19 +449,19 @@
           "relevant": false
         },
         {
-          "title": "PDO taps Weatherford for 274-well drilling program in Oman",
-          "summary": "Petroleum Development Oman (PDO) signed a three-year integrated drilling services contract with Weatherford on 21 September 2026, covering 274 wells in Marmul and the Greater Saqar area. The contract supports PDO’s…",
-          "date": "2026-09-21",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/pdo-taps-weatherford-for-274-well-drilling-program-in-oman-80052",
-          "relevant": false
-        },
-        {
           "title": "Lockheed Martin wins US Navy awards for F-35 support, Trident II work",
           "summary": "Lockheed Martin has been awarded a pair of contract modifications by the US Navy, collectively valued at nearly $948m, to enhance support for F-35 Lightning II operational sites and advance the Trident II (D5) Life…",
           "date": "2026-09-21",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/lockheed-martin-us-navy-contracts/",
+          "relevant": false
+        },
+        {
+          "title": "PDO taps Weatherford for 274-well drilling program in Oman",
+          "summary": "Petroleum Development Oman (PDO) signed a three-year integrated drilling services contract with Weatherford on 21 September 2026, covering 274 wells in Marmul and the Greater Saqar area. The contract supports PDO’s…",
+          "date": "2026-09-21",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/pdo-taps-weatherford-for-274-well-drilling-program-in-oman-80052",
           "relevant": false
         },
         {
@@ -1545,6 +1569,14 @@
           "relevant": false
         },
         {
+          "title": "FortisBC Gets BC Environmental Clearance for Tilbury LNG Expansion",
+          "summary": "'The Tilbury Phase 2 LNG expansion has been prioritized by the province as part of BC's Look West strategy for jobs and prosperity', British Columbia's government said.",
+          "date": "2026-09-24",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/fortisbc_gets_bc_environmental_clearance_for_tilbury_lng_expansion-24-sep-2026-184694-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "Iran crisis throws new challenges for global energy security, as per GlobalData poll",
           "summary": "Since early 2026, the weaponisation of Middle Eastern energy systems has sent shockwaves through international markets.",
           "date": "2026-09-24",
@@ -2626,6 +2658,24 @@
           "region": "UAE"
         },
         {
+          "title": "SLB takes on 450+ well program for Aramco in Saudi Arabia",
+          "summary": "Aramco selected SLB to deliver more than 450 wells across Saudi Arabia under four integrated well construction contracts supporting oil and gas development in the kingdom. Each contract has a three-year term with an…",
+          "date": "2026-09-24",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/slb-takes-on-450-well-program-for-aramco-in-saudi-arabia-80083",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "Ventura Offshore rig staying longer with Eni and Petronas’ Searah in Southeast Asia",
+          "summary": "Brazilian deepwater offshore drilling contractor Ventura Offshore has secured more action time for its semi-submersible rig off the coast of Indonesia with subsidiaries of Searah, a joint venture between Italy’s Eni and…",
+          "date": "2026-09-24",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/ventura-offshore-rig-staying-longer-with-eni-and-petronas-searah-in-southeast-asia/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "SLB’s grand slam with Aramco puts over 450 oil & gas wells on its plate",
           "summary": "U.S.-headquartered technology player SLB has added more than 450 wells to its job list in one fell swoop by locking down a four-contract quadfecta with Saudi Arabia’s energy giant Aramco. The post SLB’s grand slam with…",
           "date": "2026-09-24",
@@ -2642,6 +2692,15 @@
           "source_url": "https://www.offshore-energy.biz/petronas-expands-fleet-with-delivery-of-newbuilt-lng-carrier/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Saudis Ease Asia Oil Crunch",
+          "summary": "Saudi Arabia has sold almost 100 million barrels of oil to Asian buyers since the middle of last week, according to traders familiar with the matter.",
+          "date": "2026-09-24",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/saudis_ease_asia_oil_crunch-24-sep-2026-184695-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "Southeast Asia Plans 100 GW-Plus Gas Power Expansion Despite LNG Risks",
