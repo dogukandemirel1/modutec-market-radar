@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T17:00:58Z",
+  "last_updated": "2026-09-24T18:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1561,6 +1561,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "World Maritime Day 2026: IMO Warns Shipping Rules Are Under Strain as Seafarers Face Deadly Attacks",
+          "summary": "The global maritime industry is marking World Maritime Day on Thursday with an unusually immediate backdrop: merchant ships under attack, seafarers being killed and some of the world’s most important...",
+          "date": "2026-09-24",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/world-maritime-day-2026-imo-warns-shipping-rules-are-under-strain-as-seafarers-face-deadly-attacks/",
+          "relevant": false
+        },
+        {
           "title": "The charts that explain shipping’s extraordinary decade",
           "summary": "Shipping has spent the 2020s lurching from one earnings boom to another, with successive crises repeatedly rescuing markets that conventional supply-demand analysis suggested should be weakening. Two new charts capture…",
           "date": "2026-09-24",
@@ -2712,15 +2720,6 @@
           "region": "SEA"
         },
         {
-          "title": "Death Toll from Capsized Ship in Indonesia Rises to 20 as Search Continues for 115 Missing Passengers",
-          "summary": "The official death toll from a passenger ship that capsized and sank in Indonesia's Java Sea rose to 20 on Wednesday, up from the previous 10, with rescuers expecting to find more bodies as the ongoing underwater search…",
-          "date": "2026-09-23",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/death-toll-from-capsized-ship-in-indonesia-rises-to-20-as-search-continues-for-115-missing-passengers/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Sponsored: ADIPEC 2026 to Mobilise Investment in Energy Systems Powering Global Growth",
           "summary": "ADIPEC 2026 will take place in Abu Dhabi from 2–5 November under the patronage of His Highness Sheikh Mohamed bin Zayed Al Nahyan, President of the UAE, in his…",
           "date": "2026-09-23",
@@ -2728,6 +2727,15 @@
           "source_url": "https://www.oedigital.com/news/543103-sponsored-adipec-2026-to-mobilise-investment-in-energy-systems-powering-global-growth",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "Death Toll from Capsized Ship in Indonesia Rises to 20 as Search Continues for 115 Missing Passengers",
+          "summary": "The official death toll from a passenger ship that capsized and sank in Indonesia's Java Sea rose to 20 on Wednesday, up from the previous 10, with rescuers expecting to find more bodies as the ongoing underwater search…",
+          "date": "2026-09-23",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/death-toll-from-capsized-ship-in-indonesia-rises-to-20-as-search-continues-for-115-missing-passengers/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Saudi Aramco Plans Standalone Gas Division in Major Reorganization",
