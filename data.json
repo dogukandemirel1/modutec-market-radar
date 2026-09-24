@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T21:00:58Z",
+  "last_updated": "2026-09-24T22:00:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -89,14 +89,6 @@
           "relevant": false
         },
         {
-          "title": "DeepOcean and TFKable plan new offshore wind cable vessel",
-          "summary": "Norwegian ocean services contractor DeepOcean and TFKable Group are planning a purpose-built cable-laying vessel for the offshore wind market as part of a proposed joint venture targeting inter-array cable projects. The…",
-          "date": "2026-09-24",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/deepocean-and-tfkable-plan-dedicated-offshore-wind-cable-vessel/",
-          "relevant": false
-        },
-        {
           "title": "Expro wins integrated well services contract for 14-well Newfoundland campaign",
           "summary": "Expro secured a multi-product line contract with an undisclosed Canadian operator to support a life-extension campaign offshore Newfoundland, Canada. The scope covers 14 wells with options for additional wells, and work…",
           "date": "2026-09-24",
@@ -182,6 +174,14 @@
           "date": "2026-09-24",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543232-subsea7-takes-more-work-on-sakarya-gas-project-offshore-t-rkiye",
+          "relevant": false
+        },
+        {
+          "title": "DeepOcean and TFKable plan new offshore wind cable vessel",
+          "summary": "Norwegian ocean services contractor DeepOcean and TFKable Group are planning a purpose-built cable-laying vessel for the offshore wind market as part of a proposed joint venture targeting inter-array cable projects. The…",
+          "date": "2026-09-24",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/deepocean-and-tfkable-plan-dedicated-offshore-wind-cable-vessel/",
           "relevant": false
         },
         {
