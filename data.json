@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T12:01:00Z",
+  "last_updated": "2026-09-24T13:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -89,22 +89,6 @@
           "relevant": false
         },
         {
-          "title": "Royal IHC and Naval Group sign first order for the new Orka-class submarines",
-          "summary": "On 15th September 2026, Royal IHC and Naval Group signed an initial contract covering the on-board accommodation module for the Royal Netherlands Navy’s new Orka-class submarines in the framework of the Replacement of…",
-          "date": "2026-09-24",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/royal-ihc-and-naval-group-sign-first-order-for-the-new-orka-class-submarines/",
-          "relevant": false
-        },
-        {
-          "title": "Belgium Procures TRIDENT Mine Warfare Systems for Ukraine via Exail",
-          "summary": "Belgium has awarded Exail a nearly €9.9 million contract to supply TRIDENT mine countermeasure platforms and K-STER C systems to Ukraine. The post Belgium Procures TRIDENT Mine Warfare Systems for Ukraine via Exail…",
-          "date": "2026-09-24",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/belgium-trident-mine-warfare-systems-ukraine-exail/",
-          "relevant": false
-        },
-        {
           "title": "Go-ahead for DNO’s North Sea drilling ops with Odfjell Drilling-managed rig",
           "summary": "Norway’s oil and gas player DNO has secured the thumbs-up from the country’s authorities for drilling activities in the North Sea with a semi-submersible rig managed by Odfjell Drilling, an offshore drilling contractor…",
           "date": "2026-09-24",
@@ -134,6 +118,14 @@
           "date": "2026-09-24",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/slb-contract-oqeps-bisat-b-oman/",
+          "relevant": false
+        },
+        {
+          "title": "Dong Fang Offshore Orders Another CSOV from Vard",
+          "summary": "Fincantieri's Norwegian subsidiary Vard has signed a contract, worth between $76 million and $86 million, to build a commissioning service operation vessel (CSOV) for Dong Fang Offshore…",
+          "date": "2026-09-24",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543241-dong-fang-offshore-orders-another-csov-from-vard",
           "relevant": false
         },
         {
@@ -169,6 +161,22 @@
           "relevant": false
         },
         {
+          "title": "Royal IHC and Naval Group sign first order for the new Orka-class submarines",
+          "summary": "On 15th September 2026, Royal IHC and Naval Group signed an initial contract covering the on-board accommodation module for the Royal Netherlands Navy’s new Orka-class submarines in the framework of the Replacement of…",
+          "date": "2026-09-24",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/royal-ihc-and-naval-group-sign-first-order-for-the-new-orka-class-submarines/",
+          "relevant": false
+        },
+        {
+          "title": "Belgium Procures TRIDENT Mine Warfare Systems for Ukraine via Exail",
+          "summary": "Belgium has awarded Exail a nearly €9.9 million contract to supply TRIDENT mine countermeasure platforms and K-STER C systems to Ukraine. The post Belgium Procures TRIDENT Mine Warfare Systems for Ukraine via Exail…",
+          "date": "2026-09-24",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/belgium-trident-mine-warfare-systems-ukraine-exail/",
+          "relevant": false
+        },
+        {
           "title": "Fugro wins survey and inspection work offshore Australia",
           "summary": "Dutch surveyor Fugro has secured a marine asset integrity contract with an undisclosed client in Australia. Fugro will replace critical subsea infrastructure to support the long-term reliability and performance of our…",
           "date": "2026-09-24",
@@ -182,14 +190,6 @@
           "date": "2026-09-23",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/coast-guard-awards-315-million-kodiak-pier-contract-to-support-arctic-fleet-expansion/",
-          "relevant": false
-        },
-        {
-          "title": "Lockheed Martin Wins $1.2B PrSM Increment 2 Contract Following Second Maritime Test",
-          "summary": "Lockheed Martin has received an indefinite-delivery, indefinite-quantity contract worth up to $1.2 billion to produce the U.S. Army’s Precision Strike Missile (PrSM) Increment 2, following a second flight test of the…",
-          "date": "2026-09-23",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/lockheed-martin-wins-1-2b-prsm-increment-2-contract-following-second-maritime-test/",
           "relevant": false
         },
         {
@@ -222,6 +222,14 @@
           "date": "2026-09-23",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543207-fugro-nets-australian-subsea-asset-integrity-contract",
+          "relevant": false
+        },
+        {
+          "title": "Lockheed Martin Wins $1.2B PrSM Increment 2 Contract Following Second Maritime Test",
+          "summary": "Lockheed Martin has received an indefinite-delivery, indefinite-quantity contract worth up to $1.2 billion to produce the U.S. Army’s Precision Strike Missile (PrSM) Increment 2, following a second flight test of the…",
+          "date": "2026-09-23",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/lockheed-martin-wins-1-2b-prsm-increment-2-contract-following-second-maritime-test/",
           "relevant": false
         },
         {
@@ -1534,6 +1542,14 @@
           "date": "2026-09-24",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/the-charts-that-explain-shippings-extraordinary-decade/",
+          "relevant": false
+        },
+        {
+          "title": "Iran crisis throws new challenges for global energy security, as per GlobalData poll",
+          "summary": "Since early 2026, the weaponisation of Middle Eastern energy systems has sent shockwaves through international markets.",
+          "date": "2026-09-24",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/analyst-comment/iran-crisis-challenges-global-energy-security/",
           "relevant": false
         },
         {
