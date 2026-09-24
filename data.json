@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T10:00:56Z",
+  "last_updated": "2026-09-24T11:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -113,6 +113,22 @@
           "relevant": false
         },
         {
+          "title": "SLB wins contract to expand OQEP’s Bisat-B facility in Oman",
+          "summary": "SLB has received a contract from OQ Exploration & Production (OQEP) for the expansion of the Bisat-B production facility at the Bisat oil field in Oman.",
+          "date": "2026-09-24",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/slb-contract-oqeps-bisat-b-oman/",
+          "relevant": false
+        },
+        {
+          "title": "Fugro Adds More Survey Work off Timor-Leste",
+          "summary": "Fugro has secured two additional survey contracts from Timor-Leste's Ministry of Petroleum and Mineral Resources for proposed pipeline routes supporting the Greater…",
+          "date": "2026-09-24",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543235-fugro-adds-more-survey-work-off-timor-leste",
+          "relevant": false
+        },
+        {
           "title": "Expro Picks Up 14-Well Life-Extension Campaign off Canada",
           "summary": "Expro has secured a major integrated well services contract from an undisclosed Canadian operator for a 14-well life-extension campaign offshore Newfoundland, with…",
           "date": "2026-09-24",
@@ -161,14 +177,6 @@
           "relevant": false
         },
         {
-          "title": "Allseas books ABL for 60,000-ton topside single-lift ops in next North Sea decom chapter",
-          "summary": "Energy and marine consultancy ABL, part of Oslo-listed global consultancy group Aqualis, has been hired by Switzerland-based offshore contractor Allseas to support the lifting of a massive 60,000-ton topside in a single…",
-          "date": "2026-09-23",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/allseas-books-abl-for-60000-ton-topside-single-lift-ops-in-next-north-sea-decom-chapter/",
-          "relevant": false
-        },
-        {
           "title": "TotalEnergies, AMNI take FID on Nigeria’s Ima gas field",
           "summary": "TotalEnergies and its Nigerian partner AMNI have taken the FID for the Ima gas field, an offshore development intended to supply a liquefaction plant of the NLNG project.",
           "date": "2026-09-23",
@@ -214,6 +222,14 @@
           "date": "2026-09-23",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543203-saipem-taps-subsea-cable-assets-for-20m-cable-campaign",
+          "relevant": false
+        },
+        {
+          "title": "Allseas books ABL for 60,000-ton topside single-lift ops in next North Sea decom chapter",
+          "summary": "Energy and marine consultancy ABL, part of Oslo-listed global consultancy group Aqualis, has been hired by Switzerland-based offshore contractor Allseas to support the lifting of a massive 60,000-ton topside in a single…",
+          "date": "2026-09-23",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/allseas-books-abl-for-60000-ton-topside-single-lift-ops-in-next-north-sea-decom-chapter/",
           "relevant": false
         },
         {
@@ -2568,6 +2584,15 @@
           "source_url": "https://splash247.com/onex-vlcc-buying-spree-takes-shape/",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "Petronas expands fleet with delivery of newbuilt LNG carrier",
+          "summary": "Petronas LNG Ltd. (PLL), a subsidiary of Malaysia’s energy giant Petronas, has added a new vessel to its liquefied natural gas (LNG) fleet with the delivery of the newly built LNG carrier (LNGC), which was built at…",
+          "date": "2026-09-24",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/petronas-expands-fleet-with-delivery-of-newbuilt-lng-carrier/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Southeast Asia Plans 100 GW-Plus Gas Power Expansion Despite LNG Risks",
