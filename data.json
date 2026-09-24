@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T02:00:51Z",
+  "last_updated": "2026-09-24T03:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -80,6 +80,22 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "DeepOcean and TFKable plan new offshore wind cable vessel",
+          "summary": "Norwegian ocean services contractor DeepOcean and TFKable Group are planning a purpose-built cable-laying vessel for the offshore wind market as part of a proposed joint venture targeting inter-array cable projects. The…",
+          "date": "2026-09-24",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/deepocean-and-tfkable-plan-dedicated-offshore-wind-cable-vessel/",
+          "relevant": false
+        },
+        {
+          "title": "Fugro wins survey and inspection work offshore Australia",
+          "summary": "Dutch surveyor Fugro has secured a marine asset integrity contract with an undisclosed client in Australia. Fugro will replace critical subsea infrastructure to support the long-term reliability and performance of our…",
+          "date": "2026-09-24",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/fugro-wins-survey-and-inspection-work-offshore-australia/",
+          "relevant": false
+        },
         {
           "title": "Coast Guard Awards $315 Million Kodiak Pier Contract to Support Arctic Fleet Expansion",
           "summary": "The U.S. Coast Guard has awarded a $315 million contract to Tutor Perini Corp. to build a new fuel pier and major cutter mooring at Base Kodiak, Alaska, as the service prepares...",
@@ -2515,15 +2531,6 @@
           "region": "UAE"
         },
         {
-          "title": "Synergy links up with Cochin across newbuilds and conversions",
-          "summary": "Singapore shipmanager Synergy Marine Group has joined forces with Cochin Shipyard to pursue shipbuilding, repair and conversion work in India, adding another international partner to the state-controlled yard’s…",
-          "date": "2026-09-23",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/synergy-links-up-with-cochin-across-newbuilds-and-conversions/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Sponsored: ADIPEC 2026 to Mobilise Investment in Energy Systems Powering Global Growth",
           "summary": "ADIPEC 2026 will take place in Abu Dhabi from 2–5 November under the patronage of His Highness Sheikh Mohamed bin Zayed Al Nahyan, President of the UAE, in his…",
           "date": "2026-09-23",
@@ -2540,6 +2547,15 @@
           "source_url": "https://www.oedigital.com/news/543195-saudi-aramco-plans-standalone-gas-division-in-major-reorganization",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Synergy links up with Cochin across newbuilds and conversions",
+          "summary": "Singapore shipmanager Synergy Marine Group has joined forces with Cochin Shipyard to pursue shipbuilding, repair and conversion work in India, adding another international partner to the state-controlled yard’s…",
+          "date": "2026-09-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/synergy-links-up-with-cochin-across-newbuilds-and-conversions/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Lars Kastrup stands down as PIL boss with Temasek exec lined up",
