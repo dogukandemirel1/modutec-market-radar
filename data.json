@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T13:00:57Z",
+  "last_updated": "2026-09-24T14:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1561,19 +1561,19 @@
           "relevant": false
         },
         {
-          "title": "IMO Uncertainty Puts Shipping’s 2030 Fuel Target at Risk",
-          "summary": "Shipping is running out of time to meet a key 2030 target for zero-emission fuels, even as methanol infrastructure and alternative-fuel vessel capacity continue to expand. A new assessment from...",
-          "date": "2026-09-23",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/imo-uncertainty-puts-shippings-2030-fuel-target-at-risk/",
-          "relevant": false
-        },
-        {
           "title": "US clears $425m MH-60R Seahawk helicopter deal for Denmark",
           "summary": "The US Department of State has given its approval for a possible Foreign Military Sale (FMS) of three MH-60R multi-mission helicopters and related equipment to Denmark, in a deal estimated at $425m. The post US clears…",
           "date": "2026-09-23",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/us-denmark-mh-60r-seahawk/",
+          "relevant": false
+        },
+        {
+          "title": "IMO Uncertainty Puts Shipping’s 2030 Fuel Target at Risk",
+          "summary": "Shipping is running out of time to meet a key 2030 target for zero-emission fuels, even as methanol infrastructure and alternative-fuel vessel capacity continue to expand. A new assessment from...",
+          "date": "2026-09-23",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/imo-uncertainty-puts-shippings-2030-fuel-target-at-risk/",
           "relevant": false
         },
         {
@@ -2624,6 +2624,15 @@
           "source_url": "https://splash247.com/onex-vlcc-buying-spree-takes-shape/",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "SLB’s grand slam with Aramco puts over 450 oil & gas wells on its plate",
+          "summary": "U.S.-headquartered technology player SLB has added more than 450 wells to its job list in one fell swoop by locking down a four-contract quadfecta with Saudi Arabia’s energy giant Aramco. The post SLB’s grand slam with…",
+          "date": "2026-09-24",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/slbs-grand-slam-with-aramco-puts-over-450-oil-gas-wells-on-its-plate/",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "Petronas expands fleet with delivery of newbuilt LNG carrier",
