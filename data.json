@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T08:01:02Z",
+  "last_updated": "2026-09-24T09:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -89,6 +89,22 @@
           "relevant": false
         },
         {
+          "title": "Belgium Procures TRIDENT Mine Warfare Systems for Ukraine via Exail",
+          "summary": "Belgium has awarded Exail a nearly €9.9 million contract to supply TRIDENT mine countermeasure platforms and K-STER C systems to Ukraine. The post Belgium Procures TRIDENT Mine Warfare Systems for Ukraine via Exail…",
+          "date": "2026-09-24",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/belgium-trident-mine-warfare-systems-ukraine-exail/",
+          "relevant": false
+        },
+        {
+          "title": "Subsea7’s scope at Türkiye’s largest natural gas field extended once again",
+          "summary": "Subsea7 has secured yet another contract extension with Turkish Petroleum Offshore Technology Center (TP-OTC) […] The post Subsea7’s scope at Türkiye’s largest natural gas field extended once again appeared first on…",
+          "date": "2026-09-24",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/subsea7s-scope-at-turkiyes-largest-natural-gas-field-extended-once-again/",
+          "relevant": false
+        },
+        {
           "title": "Fugro wins survey and inspection work offshore Australia",
           "summary": "Dutch surveyor Fugro has secured a marine asset integrity contract with an undisclosed client in Australia. Fugro will replace critical subsea infrastructure to support the long-term reliability and performance of our…",
           "date": "2026-09-24",
@@ -110,6 +126,22 @@
           "date": "2026-09-23",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/09/lockheed-martin-wins-1-2b-prsm-increment-2-contract-following-second-maritime-test/",
+          "relevant": false
+        },
+        {
+          "title": "Subsea Cable Assets wins first contract with Saipem, worth $20 million",
+          "summary": "Netherlands-headquartered Subsea Cable Assets (SCA) has won its first contract with Saipem for cable […] The post Subsea Cable Assets wins first contract with Saipem, worth $20 million appeared first on Offshore Energy .",
+          "date": "2026-09-23",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/subsea-cable-assets-wins-first-contract-with-saipem-worth-20-million/",
+          "relevant": false
+        },
+        {
+          "title": "Allseas books ABL for 60,000-ton topside single-lift ops in next North Sea decom chapter",
+          "summary": "Energy and marine consultancy ABL, part of Oslo-listed global consultancy group Aqualis, has been hired by Switzerland-based offshore contractor Allseas to support the lifting of a massive 60,000-ton topside in a single…",
+          "date": "2026-09-23",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/allseas-books-abl-for-60000-ton-topside-single-lift-ops-in-next-north-sea-decom-chapter/",
           "relevant": false
         },
         {
@@ -158,22 +190,6 @@
           "date": "2026-09-23",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543203-saipem-taps-subsea-cable-assets-for-20m-cable-campaign",
-          "relevant": false
-        },
-        {
-          "title": "Subsea Cable Assets wins first contract with Saipem, worth $20 million",
-          "summary": "Netherlands-headquartered Subsea Cable Assets (SCA) has won its first contract with Saipem for cable […] The post Subsea Cable Assets wins first contract with Saipem, worth $20 million appeared first on Offshore Energy .",
-          "date": "2026-09-23",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/subsea-cable-assets-wins-first-contract-with-saipem-worth-20-million/",
-          "relevant": false
-        },
-        {
-          "title": "Allseas books ABL for 60,000-ton topside single-lift ops in next North Sea decom chapter",
-          "summary": "Energy and marine consultancy ABL, part of Oslo-listed global consultancy group Aqualis, has been hired by Switzerland-based offshore contractor Allseas to support the lifting of a massive 60,000-ton topside in a single…",
-          "date": "2026-09-23",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/allseas-books-abl-for-60000-ton-topside-single-lift-ops-in-next-north-sea-decom-chapter/",
           "relevant": false
         },
         {
@@ -1457,6 +1473,14 @@
           "relevant": false
         },
         {
+          "title": "Ashtead gets revised $661m buyout offer from Ember Infrastructure",
+          "summary": "Ashtead Technology said that it is reviewing a fresh non-binding takeover proposal from US-based private equity firm Ember Infrastructure Management.",
+          "date": "2026-09-24",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/ashtead-revised-661m-buyout-ember/",
+          "relevant": false
+        },
+        {
           "title": "IMO Uncertainty Puts Shipping’s 2030 Fuel Target at Risk",
           "summary": "Shipping is running out of time to meet a key 2030 target for zero-emission fuels, even as methanol infrastructure and alternative-fuel vessel capacity continue to expand. A new assessment from...",
           "date": "2026-09-23",
@@ -2057,19 +2081,19 @@
           "relevant": false
         },
         {
-          "title": "DeepOcean, TFKable Outline Plans for Cable Joint Venture with New CLV",
-          "summary": "DeepOcean and the controlling entity of TFKable Group plan to establish a joint venture offering integrated inter-array cable services for offshore wind projects…",
-          "date": "2026-09-23",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/543198-deepocean-tfkable-outline-plans-for-cable-joint-venture-with-new-clv",
-          "relevant": false
-        },
-        {
           "title": "DeepOcean and TFKable plan JV for inter-array cable projects with dedicated vessel",
           "summary": "DeepOcean and the controlling entity of TFKable Group are planning to establish a joint venture […] The post DeepOcean and TFKable plan JV for inter-array cable projects with dedicated vessel appeared first on Offshore…",
           "date": "2026-09-23",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/deepocean-and-tfkable-plan-jv-for-inter-array-cable-projects-with-dedicated-vessel/",
+          "relevant": false
+        },
+        {
+          "title": "DeepOcean, TFKable Outline Plans for Cable Joint Venture with New CLV",
+          "summary": "DeepOcean and the controlling entity of TFKable Group plan to establish a joint venture offering integrated inter-array cable services for offshore wind projects…",
+          "date": "2026-09-23",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543198-deepocean-tfkable-outline-plans-for-cable-joint-venture-with-new-clv",
           "relevant": false
         },
         {
@@ -2520,6 +2544,15 @@
           "source_url": "https://splash247.com/onex-vlcc-buying-spree-takes-shape/",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "Southeast Asia Plans 100 GW-Plus Gas Power Expansion Despite LNG Risks",
+          "summary": "Southeast Asia is developing more than 100 gigawatts of gas-fired power generating capacity and 70 million tons per annum of LNG import capacity, despite growing…",
+          "date": "2026-09-24",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543229-southeast-asia-plans-100-gw-plus-gas-power-expansion-despite-lng-risks",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Death Toll from Capsized Ship in Indonesia Rises to 20 as Search Continues for 115 Missing Passengers",
