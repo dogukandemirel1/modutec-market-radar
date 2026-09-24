@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T06:00:56Z",
+  "last_updated": "2026-09-24T07:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1449,19 +1449,19 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "The charts that explain shipping’s extraordinary decade",
+          "summary": "Shipping has spent the 2020s lurching from one earnings boom to another, with successive crises repeatedly rescuing markets that conventional supply-demand analysis suggested should be weakening. Two new charts capture…",
+          "date": "2026-09-24",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/the-charts-that-explain-shippings-extraordinary-decade/",
+          "relevant": false
+        },
+        {
           "title": "IMO Uncertainty Puts Shipping’s 2030 Fuel Target at Risk",
           "summary": "Shipping is running out of time to meet a key 2030 target for zero-emission fuels, even as methanol infrastructure and alternative-fuel vessel capacity continue to expand. A new assessment from...",
           "date": "2026-09-23",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/imo-uncertainty-puts-shippings-2030-fuel-target-at-risk/",
-          "relevant": false
-        },
-        {
-          "title": "The charts that explain shipping’s extraordinary decade",
-          "summary": "Shipping has spent the 2020s lurching from one earnings boom to another, with successive crises repeatedly rescuing markets that conventional supply-demand analysis suggested should be weakening. Two new charts capture…",
-          "date": "2026-09-23",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/the-charts-that-explain-shippings-extraordinary-decade/",
           "relevant": false
         },
         {
@@ -2513,6 +2513,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Onex VLCC buying spree takes shape",
+          "summary": "Onex DMCC has emerged as one of the tanker market’s most aggressive VLCC buyers, with at least five supertankers now linked to the Dubai trading house through broker reports and sales registers. Splash reported on…",
+          "date": "2026-09-24",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/onex-vlcc-buying-spree-takes-shape/",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
           "title": "Death Toll from Capsized Ship in Indonesia Rises to 20 as Search Continues for 115 Missing Passengers",
           "summary": "The official death toll from a passenger ship that capsized and sank in Indonesia's Java Sea rose to 20 on Wednesday, up from the previous 10, with rescuers expecting to find more bodies as the ongoing underwater search…",
           "date": "2026-09-23",
@@ -2520,15 +2529,6 @@
           "source_url": "https://gcaptain.com/death-toll-from-capsized-ship-in-indonesia-rises-to-20-as-search-continues-for-115-missing-passengers/",
           "relevant": false,
           "region": "SEA"
-        },
-        {
-          "title": "Onex VLCC buying spree takes shape",
-          "summary": "Onex DMCC has emerged as one of the tanker market’s most aggressive VLCC buyers, with at least five supertankers now linked to the Dubai trading house through broker reports and sales registers. Splash reported on…",
-          "date": "2026-09-23",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/onex-vlcc-buying-spree-takes-shape/",
-          "relevant": true,
-          "region": "UAE"
         },
         {
           "title": "Sponsored: ADIPEC 2026 to Mobilise Investment in Energy Systems Powering Global Growth",
