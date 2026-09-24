@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T19:00:56Z",
+  "last_updated": "2026-09-24T20:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -80,6 +80,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Venezuela Spot Oil Sales Snarled by Surging Freight Costs",
+          "summary": "Sales of Venezuelan oil for loading in October stalled after a surge in shipping costs muddled negotiations between the country’s state oil company and buyers of its oil.",
+          "date": "2026-09-24",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/venezuela-spot-oil-sales-snarled-by-surging-freight-costs/",
+          "relevant": false
+        },
         {
           "title": "DeepOcean and TFKable plan new offshore wind cable vessel",
           "summary": "Norwegian ocean services contractor DeepOcean and TFKable Group are planning a purpose-built cable-laying vessel for the offshore wind market as part of a proposed joint venture targeting inter-array cable projects. The…",
@@ -1560,6 +1568,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "DNV: Shipping’s Fuel Future Hinges on What Regulators Do Next",
+          "summary": "Regulatory uncertainty is becoming a major factor in shipowners’ investment decisions as the industry weighs vessels and fuel systems that will remain in service for decades, according to DNV’s latest Maritime...",
+          "date": "2026-09-24",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/dnv-shippings-fuel-future-hinges-on-what-regulators-do-next/",
+          "relevant": false
+        },
         {
           "title": "World Maritime Day 2026: IMO Warns Shipping Rules Are Under Strain as Seafarers Face Deadly Attacks",
           "summary": "The global maritime industry is marking World Maritime Day on Thursday with an unusually immediate backdrop: merchant ships under attack, seafarers being killed and some of the world’s most important...",
