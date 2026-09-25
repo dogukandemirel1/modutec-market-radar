@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T03:00:54Z",
+  "last_updated": "2026-09-25T04:00:51Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -2728,6 +2728,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Volare hits $1.2bn valuation after $500m raise",
+          "summary": "Trafigura-backed Volare Shipping has completed a $500m equity raise ahead of its planned Oslo listing, putting a post-money value of around NOK11.5bn ($1.2bn) on the newly created VLCC owner. The Singapore-incorporated…",
+          "date": "2026-09-25",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/volare-hits-1-2bn-valuation-after-500m-raise/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "SLB takes on 450+ well program for Aramco in Saudi Arabia",
           "summary": "Aramco selected SLB to deliver more than 450 wells across Saudi Arabia under four integrated well construction contracts supporting oil and gas development in the kingdom. Each contract has a three-year term with an…",
