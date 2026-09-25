@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T12:00:55Z",
+  "last_updated": "2026-09-25T13:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -185,6 +185,14 @@
           "relevant": false
         },
         {
+          "title": "Last FSRU in seven-vessel conversion program boosts Karpowership’s LNG-to-power value chain",
+          "summary": "Karpowership, Türkiye’s floating power solutions provider and owner and operator of powerships, has finished its multi-vessel liquefied natural gas (LNG) carrier-to-floating storage and regasification unit (FSRU)…",
+          "date": "2026-09-24",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/last-fsru-in-seven-vessel-conversion-program-boosts-karpowerships-lng-to-power-value-chain/",
+          "relevant": false
+        },
+        {
           "title": "ProPetro to Supply 230 MW to Targa",
           "summary": "ProPetro secured new contracts to supply about 230 megawatts of power to support Targa Resources' operations in the Permian Basin.",
           "date": "2026-09-24",
@@ -230,14 +238,6 @@
           "date": "2026-09-24",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543235-fugro-adds-more-survey-work-off-timor-leste",
-          "relevant": false
-        },
-        {
-          "title": "Last FSRU in seven-vessel conversion program boosts Karpowership’s LNG-to-power value chain",
-          "summary": "Karpowership, Türkiye’s floating power solutions provider and owner and operator of powerships, has finished its multi-vessel liquefied natural gas (LNG) carrier-to-floating storage and regasification unit (FSRU)…",
-          "date": "2026-09-24",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/last-fsru-in-seven-vessel-conversion-program-boosts-karpowerships-lng-to-power-value-chain/",
           "relevant": false
         },
         {
@@ -1673,6 +1673,14 @@
           "relevant": false
         },
         {
+          "title": "CNOOC keeping Worley busy on its North Sea assets for five more years",
+          "summary": "Australia’s engineering firm Worley has picked up a multi-year renewal of its assignment in the North Sea with CNOOC International, a subsidiary of China’s CNOOC, supporting the operator’s offshore operations on the UK…",
+          "date": "2026-09-25",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/cnooc-keeping-worley-busy-on-its-north-sea-assets-for-five-more-years/",
+          "relevant": false
+        },
+        {
           "title": "Dutch to Ask EU to End Mandatory Gas Storage Targets",
           "summary": "The Netherlands wants to scrap mandatory gas storage targets under a revamp of the European Union's energy supply security rules after spending nearly EUR 1 billion this year to fill the country's reserves.",
           "date": "2026-09-25",
@@ -2811,6 +2819,15 @@
           "region": "SEA"
         },
         {
+          "title": "Eni broadens its exploration horizons in Southeast Asia with another offshore block",
+          "summary": "Italian energy giant Eni has expanded its Asian portfolio with the addition of a new exploration license in the prolific Kutei Basin off the coast of Indonesia, Southeast Asia. The post Eni broadens its exploration…",
+          "date": "2026-09-25",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/eni-broadens-its-exploration-horizons-in-southeast-asia-with-another-offshore-block/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Vietnam’s BSR inks crude oil supply agreement with ExxonMobil",
           "summary": "Petrovietnam Refining and Petrochemical Corporation (BSR) has entered into a framework agreement to purchase crude oil from ExxonMobil Asia Pacific, an affiliate of ExxonMobil.",
           "date": "2026-09-25",
@@ -2829,29 +2846,11 @@
           "region": "KSA"
         },
         {
-          "title": "Eni broadens its exploration horizons in Southeast Asia with another offshore block",
-          "summary": "Italian energy giant Eni has expanded its Asian portfolio with the addition of a new exploration license in the prolific Kutei Basin off the coast of Indonesia, Southeast Asia. The post Eni broadens its exploration…",
-          "date": "2026-09-25",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/eni-broadens-its-exploration-horizons-in-southeast-asia-with-another-offshore-block/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "SLB takes on 450+ well program for Aramco in Saudi Arabia",
           "summary": "Aramco selected SLB to deliver more than 450 wells across Saudi Arabia under four integrated well construction contracts supporting oil and gas development in the kingdom. Each contract has a three-year term with an…",
           "date": "2026-09-24",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/slb-takes-on-450-well-program-for-aramco-in-saudi-arabia-80083",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
-          "title": "Saudis Ease Asia Oil Crunch",
-          "summary": "Saudi Arabia has sold almost 100 million barrels of oil to Asian buyers since the middle of last week, according to traders familiar with the matter.",
-          "date": "2026-09-24",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/saudis_ease_asia_oil_crunch-24-sep-2026-184695-article/?rss=true",
           "relevant": true,
           "region": "KSA"
         },
@@ -2863,6 +2862,15 @@
           "source_url": "https://www.offshore-energy.biz/ventura-offshore-rig-staying-longer-with-eni-and-petronas-searah-in-southeast-asia/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Saudis Ease Asia Oil Crunch",
+          "summary": "Saudi Arabia has sold almost 100 million barrels of oil to Asian buyers since the middle of last week, according to traders familiar with the matter.",
+          "date": "2026-09-24",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/saudis_ease_asia_oil_crunch-24-sep-2026-184695-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "SLB’s grand slam with Aramco puts over 450 oil & gas wells on its plate",
