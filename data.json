@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T21:00:53Z",
+  "last_updated": "2026-09-25T22:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -185,30 +185,6 @@
           "relevant": false
         },
         {
-          "title": "Italy Signs €3.7B Contract for New DDX Destroyers",
-          "summary": "OCCAR and OSN sign a €3.7 billion contract for two next-generation DDX destroyers for the Italian Navy, set for delivery in 2033 and 2035. The post Italy Signs €3.7B Contract for New DDX Destroyers appeared first on…",
-          "date": "2026-09-24",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/italy-signs-e3-7b-contract-for-new-ddx-destroyers/",
-          "relevant": false
-        },
-        {
-          "title": "Royal IHC and Naval Group sign first order for the new Orka-class submarines",
-          "summary": "On 15th September 2026, Royal IHC and Naval Group signed an initial contract covering the on-board accommodation module for the Royal Netherlands Navy’s new Orka-class submarines in the framework of the Replacement of…",
-          "date": "2026-09-24",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/royal-ihc-and-naval-group-sign-first-order-for-the-new-orka-class-submarines/",
-          "relevant": false
-        },
-        {
-          "title": "Belgium Procures TRIDENT Mine Warfare Systems for Ukraine via Exail",
-          "summary": "Belgium has awarded Exail a nearly €9.9 million contract to supply TRIDENT mine countermeasure platforms and K-STER C systems to Ukraine. The post Belgium Procures TRIDENT Mine Warfare Systems for Ukraine via Exail…",
-          "date": "2026-09-24",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/belgium-trident-mine-warfare-systems-ukraine-exail/",
-          "relevant": false
-        },
-        {
           "title": "ProPetro to Supply 230 MW to Targa",
           "summary": "ProPetro secured new contracts to supply about 230 megawatts of power to support Targa Resources' operations in the Permian Basin.",
           "date": "2026-09-24",
@@ -246,6 +222,30 @@
           "date": "2026-09-24",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543239-eni-confirms-sapukala-deepwater-block-award-in-indonesia",
+          "relevant": false
+        },
+        {
+          "title": "Italy Signs €3.7B Contract for New DDX Destroyers",
+          "summary": "OCCAR and OSN sign a €3.7 billion contract for two next-generation DDX destroyers for the Italian Navy, set for delivery in 2033 and 2035. The post Italy Signs €3.7B Contract for New DDX Destroyers appeared first on…",
+          "date": "2026-09-24",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/italy-signs-e3-7b-contract-for-new-ddx-destroyers/",
+          "relevant": false
+        },
+        {
+          "title": "Royal IHC and Naval Group sign first order for the new Orka-class submarines",
+          "summary": "On 15th September 2026, Royal IHC and Naval Group signed an initial contract covering the on-board accommodation module for the Royal Netherlands Navy’s new Orka-class submarines in the framework of the Replacement of…",
+          "date": "2026-09-24",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/royal-ihc-and-naval-group-sign-first-order-for-the-new-orka-class-submarines/",
+          "relevant": false
+        },
+        {
+          "title": "Belgium Procures TRIDENT Mine Warfare Systems for Ukraine via Exail",
+          "summary": "Belgium has awarded Exail a nearly €9.9 million contract to supply TRIDENT mine countermeasure platforms and K-STER C systems to Ukraine. The post Belgium Procures TRIDENT Mine Warfare Systems for Ukraine via Exail…",
+          "date": "2026-09-24",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/belgium-trident-mine-warfare-systems-ukraine-exail/",
           "relevant": false
         },
         {
