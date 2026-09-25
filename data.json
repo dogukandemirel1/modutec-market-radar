@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T15:00:56Z",
+  "last_updated": "2026-09-25T16:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8,6 +8,22 @@
       "short_title": "Day-Rates",
       "description": "Benchmark day-rate trends for jackups, floaters and offshore support vessels across key regions.",
       "items": [
+        {
+          "title": "SSV Catarina work extends into December with extra Indonesia well",
+          "summary": "Ventura Offshore signed a contract amendment adding the JKNE Upside-1 Dir well to the drilling program for its SSV Catarina semisubmersible in Indonesia. The customers are Searah West Ganal and Searah Ganal Deepwater…",
+          "date": "2026-09-25",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/ssv-catarina-work-extends-into-december-with-extra-indonesia-well-80093",
+          "relevant": false
+        },
+        {
+          "title": "COSL Innovator cleared for Equinor well on Grane prospect",
+          "summary": "Norway’s Ocean Industry Authority (Havtil) granted Equinor consent on 24 September to drill exploration well 25/9-5 S in the North Sea using the COSL Innovator semisubmersible. The well will target the Grane prospect in…",
+          "date": "2026-09-25",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/cosl-innovator-cleared-for-equinor-well-on-grane-prospect-80091",
+          "relevant": false
+        },
         {
           "title": "Ventura Offshore adds Indonesia drilling work for semisub",
           "summary": "Offshore driller Ventura Offshore has won another contract extension for one of its semisubmersible rigs. Ventura Offshore said Searah West Ganal Limited and Searah Ganal Deepwater Limited, subsidiaries of Searah, a JV…",
@@ -102,6 +118,14 @@
           "date": "2026-09-25",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/eni-sapukala-exploration-indonesias-kutei-basin/",
+          "relevant": false
+        },
+        {
+          "title": "Fincantieri-Leonardo JV sign Italian Navy DDX destroyer deal",
+          "summary": "Fincantieri-Leonardo joint venture Orizzonte Sistemi Navali has signed a contract with OCCAR for two DDX destroyers for the Italian Navy. The post Fincantieri-Leonardo JV sign Italian Navy DDX destroyer deal appeared…",
+          "date": "2026-09-25",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/italian-navy-ddx-destroyers/",
           "relevant": false
         },
         {
@@ -417,6 +441,22 @@
           "relevant": false
         },
         {
+          "title": "L3Harris wins US Navy deals for submarine masts and missile components",
+          "summary": "L3Harris Technologies has secured two new contracts from the US Navy, covering submarine mast systems and missile propulsion components. The post L3Harris wins US Navy deals for submarine masts and missile components…",
+          "date": "2026-09-22",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/l3harris-navy-submarines-missiles/",
+          "relevant": false
+        },
+        {
+          "title": "Raytheon, Bell Boeing win $64m US Navy contracts for V-22 fleet support",
+          "summary": "The US Department of War (DoW) has announced the award of two contracts totalling nearly $64m for ongoing support of the V-22 Osprey. The post Raytheon, Bell Boeing win $64m US Navy contracts for V-22 fleet support…",
+          "date": "2026-09-22",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/raytheon-bell-boeing-v22-fleet/",
+          "relevant": false
+        },
+        {
           "title": "SLB to extend leak detection system across Johan Sverdrup Phase 3",
           "summary": "Equinor awarded SLB a contract to expand real-time leak detection, virtual flow metering and digital production monitoring across the Johan Sverdrup Phase 3 development in the North Sea. The award extends monitoring…",
           "date": "2026-09-22",
@@ -438,22 +478,6 @@
           "date": "2026-09-22",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/vallourec-wins-tubular-contract-for-prinos-co%e2%82%82-storage-project-80064",
-          "relevant": false
-        },
-        {
-          "title": "L3Harris wins US Navy deals for submarine masts and missile components",
-          "summary": "L3Harris Technologies has secured two new contracts from the US Navy, covering submarine mast systems and missile propulsion components. The post L3Harris wins US Navy deals for submarine masts and missile components…",
-          "date": "2026-09-22",
-          "source_name": "Naval Technology",
-          "source_url": "https://www.naval-technology.com/news/l3harris-navy-submarines-missiles/",
-          "relevant": false
-        },
-        {
-          "title": "Raytheon, Bell Boeing win $64m US Navy contracts for V-22 fleet support",
-          "summary": "The US Department of War (DoW) has announced the award of two contracts totalling nearly $64m for ongoing support of the V-22 Osprey. The post Raytheon, Bell Boeing win $64m US Navy contracts for V-22 fleet support…",
-          "date": "2026-09-22",
-          "source_name": "Naval Technology",
-          "source_url": "https://www.naval-technology.com/news/raytheon-bell-boeing-v22-fleet/",
           "relevant": false
         },
         {
@@ -1681,6 +1705,14 @@
           "relevant": false
         },
         {
+          "title": "Ukraine Says 2 Russian Refineries Ablaze after Strikes",
+          "summary": "Ukraine said it hit two more Russian oil refineries as the warring countries continue strikes against each other despite both sides earlier this week holding talks with the U.S., which wants targeting of energy assets…",
+          "date": "2026-09-25",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/ukraine_says_2_russian_refineries_ablaze_after_strikes-25-sep-2026-184706-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "Dutch to Ask EU to End Mandatory Gas Storage Targets",
           "summary": "The Netherlands wants to scrap mandatory gas storage targets under a revamp of the European Union's energy supply security rules after spending nearly EUR 1 billion this year to fill the country's reserves.",
           "date": "2026-09-25",
@@ -2336,6 +2368,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "WhiteHawk Completes Acquisition of Appalachia, Haynesville Gas Assets",
+          "summary": "WhiteHawk completed acquisitions worth a total of $111.8 million including mineral and royalty natural gas assets in the Haynesville shale and the Appalachian Basin's Marcellus and Utica formations.",
+          "date": "2026-09-25",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/whitehawk_completes_acquisition_of_appalachia_haynesville_gas_assets-25-sep-2026-184705-article/?rss=true",
+          "relevant": false
+        },
         {
           "title": "Superior targets intervention growth with Welltec acquisition",
           "summary": "Superior Energy Services entered into a definitive agreement to acquire Welltec International, the Denmark-based provider of robotic wireline-conveyed well intervention and metal expandable packer technologies…",
