@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T17:00:58Z",
+  "last_updated": "2026-09-25T18:01:31Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -321,14 +321,6 @@
           "relevant": false
         },
         {
-          "title": "Coast Guard Awards $315 Million Kodiak Pier Contract to Support Arctic Fleet Expansion",
-          "summary": "The U.S. Coast Guard has awarded a $315 million contract to Tutor Perini Corp. to build a new fuel pier and major cutter mooring at Base Kodiak, Alaska, as the service prepares...",
-          "date": "2026-09-23",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/coast-guard-awards-315-million-kodiak-pier-contract-to-support-arctic-fleet-expansion/",
-          "relevant": false
-        },
-        {
           "title": "Lockheed Martin Wins $1.2B PrSM Increment 2 Contract Following Second Maritime Test",
           "summary": "Lockheed Martin has received an indefinite-delivery, indefinite-quantity contract worth up to $1.2 billion to produce the U.S. Army’s Precision Strike Missile (PrSM) Increment 2, following a second flight test of the…",
           "date": "2026-09-23",
@@ -342,6 +334,14 @@
           "date": "2026-09-23",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/totalenergies-amni-fid-ima-gas-field/",
+          "relevant": false
+        },
+        {
+          "title": "Coast Guard Awards $315 Million Kodiak Pier Contract to Support Arctic Fleet Expansion",
+          "summary": "The U.S. Coast Guard has awarded a $315 million contract to Tutor Perini Corp. to build a new fuel pier and major cutter mooring at Base Kodiak, Alaska, as the service prepares...",
+          "date": "2026-09-23",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/coast-guard-awards-315-million-kodiak-pier-contract-to-support-arctic-fleet-expansion/",
           "relevant": false
         },
         {
@@ -2840,6 +2840,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Gulf of Oman Ship-to-ship Oil Transfers Reach Limit as Saudi Exports Surge",
+          "summary": "Ship-to-ship transfers in the Gulf of Oman for Middle Eastern oil from inside the Strait of Hormuz have reached their limits after Saudi Arabia diverted exports from the Red Sea, adding to shipments from other…",
+          "date": "2026-09-25",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/gulf-of-oman-ship-to-ship-oil-transfers-reach-limit-as-saudi-exports-surge/",
+          "relevant": true,
+          "region": "KSA"
+        },
         {
           "title": "Precious seals fresh ultramax fixture",
           "summary": "Thailand’s Precious Shipping has lined up another index-linked ultramax charter, fixing the Sunisa Naree to Singapore’s PACC Line for up to 13 months. The Bangkok-listed owner told the stock exchange that the charter…",
