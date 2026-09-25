@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T02:00:54Z",
+  "last_updated": "2026-09-25T03:00:54Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8,6 +8,14 @@
       "short_title": "Day-Rates",
       "description": "Benchmark day-rate trends for jackups, floaters and offshore support vessels across key regions.",
       "items": [
+        {
+          "title": "Ventura Offshore adds Indonesia drilling work for semisub",
+          "summary": "Offshore driller Ventura Offshore has won another contract extension for one of its semisubmersible rigs. Ventura Offshore said Searah West Ganal Limited and Searah Ganal Deepwater Limited, subsidiaries of Searah, a JV…",
+          "date": "2026-09-25",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/ventura-offshore-adds-indonesia-drilling-work-for-semisub/",
+          "relevant": false
+        },
         {
           "title": "Odin begins US contract as Borr Drilling wins Idun deal in Vietnam",
           "summary": "Borr Drilling provided operational and contracting updates across its jackup fleet, including the start of dayrate operations for the Odin in the US and a new contract award for the Idun offshore Vietnam. Following…",
@@ -80,6 +88,30 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Rosetti Marino secures Danish North Sea platform project",
+          "summary": "Italian fabricator and shipyard Rosetti Marino has been awarded a new contract for offshore operations in the North Sea, valued at between €250m and €300 million by Ineos. The project involves an EPC contract to build a…",
+          "date": "2026-09-25",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/rosetti-marino-secures-danish-north-sea-platform-project/",
+          "relevant": false
+        },
+        {
+          "title": "TotalEnergies gives go-ahead for Nigerian offshore gas project",
+          "summary": "French energy major TotalEnergies and its partner AMNI have made the final investment decision (FID) to develop the Ima gas field, straddling the OML 112 and 117 offshore licenses in Nigeria. Located in shallow waters…",
+          "date": "2026-09-25",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/totalenergies-gives-go-ahead-for-nigerian-offshore-gas-project/",
+          "relevant": false
+        },
+        {
+          "title": "Fugro to survey deepwater pipeline routes off Timor-Leste",
+          "summary": "Dutch surveyor Fugro has signed a contract for the Greater Sunrise and Bayu Undan pipeline survey programme in Timor-Leste The survey programme will support the planning and development of critical offshore energy…",
+          "date": "2026-09-25",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/fugro-to-survey-deepwater-pipeline-routes-off-timor-leste/",
+          "relevant": false
+        },
         {
           "title": "Venezuela Spot Oil Sales Snarled by Surging Freight Costs",
           "summary": "Sales of Venezuelan oil for loading in October stalled after a surge in shipping costs muddled negotiations between the country’s state oil company and buyers of its oil.",
@@ -1609,14 +1641,6 @@
           "relevant": false
         },
         {
-          "title": "The charts that explain shipping’s extraordinary decade",
-          "summary": "Shipping has spent the 2020s lurching from one earnings boom to another, with successive crises repeatedly rescuing markets that conventional supply-demand analysis suggested should be weakening. Two new charts capture…",
-          "date": "2026-09-24",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/the-charts-that-explain-shippings-extraordinary-decade/",
-          "relevant": false
-        },
-        {
           "title": "FortisBC Gets BC Environmental Clearance for Tilbury LNG Expansion",
           "summary": "'The Tilbury Phase 2 LNG expansion has been prioritized by the province as part of BC's Look West strategy for jobs and prosperity', British Columbia's government said.",
           "date": "2026-09-24",
@@ -1638,6 +1662,14 @@
           "date": "2026-09-24",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/ashtead-revised-661m-buyout-ember/",
+          "relevant": false
+        },
+        {
+          "title": "The charts that explain shipping’s extraordinary decade",
+          "summary": "Shipping has spent the 2020s lurching from one earnings boom to another, with successive crises repeatedly rescuing markets that conventional supply-demand analysis suggested should be weakening. Two new charts capture…",
+          "date": "2026-09-24",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/the-charts-that-explain-shippings-extraordinary-decade/",
           "relevant": false
         },
         {
@@ -2697,15 +2729,6 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Onex VLCC buying spree takes shape",
-          "summary": "Onex DMCC has emerged as one of the tanker market’s most aggressive VLCC buyers, with at least five supertankers now linked to the Dubai trading house through broker reports and sales registers. Splash reported on…",
-          "date": "2026-09-24",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/onex-vlcc-buying-spree-takes-shape/",
-          "relevant": true,
-          "region": "UAE"
-        },
-        {
           "title": "SLB takes on 450+ well program for Aramco in Saudi Arabia",
           "summary": "Aramco selected SLB to deliver more than 450 wells across Saudi Arabia under four integrated well construction contracts supporting oil and gas development in the kingdom. Each contract has a three-year term with an…",
           "date": "2026-09-24",
@@ -2758,6 +2781,15 @@
           "source_url": "https://www.oedigital.com/news/543229-southeast-asia-plans-100-gw-plus-gas-power-expansion-despite-lng-risks",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Onex VLCC buying spree takes shape",
+          "summary": "Onex DMCC has emerged as one of the tanker market’s most aggressive VLCC buyers, with at least five supertankers now linked to the Dubai trading house through broker reports and sales registers. Splash reported on…",
+          "date": "2026-09-24",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/onex-vlcc-buying-spree-takes-shape/",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Sponsored: ADIPEC 2026 to Mobilise Investment in Energy Systems Powering Global Growth",
