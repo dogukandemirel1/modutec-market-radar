@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T01:00:53Z",
+  "last_updated": "2026-09-25T02:00:54Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1576,6 +1576,22 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "How the resilience premium is reshaping shipping",
+          "summary": "Shipping companies have been forced to rethink how they plan, invest and manage risk as the industry moves deeper into an era of overlapping geopolitical, technological and regulatory disruption, senior executives told…",
+          "date": "2026-09-25",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/how-the-resilience-premium-is-reshaping-shipping/",
+          "relevant": false
+        },
+        {
+          "title": "Global green shipping corridor alliance launches in Beijing",
+          "summary": "A new international body has been launched in Beijing to coordinate the development of green shipping corridors and accelerate cooperation across shipping, ports, fuels and regulation. The International Green Shipping…",
+          "date": "2026-09-25",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/global-green-shipping-corridor-alliance-launches-in-beijing/",
+          "relevant": false
+        },
         {
           "title": "DNV: Shipping’s Fuel Future Hinges on What Regulators Do Next",
           "summary": "Regulatory uncertainty is becoming a major factor in shipowners’ investment decisions as the industry weighs vessels and fuel systems that will remain in service for decades, according to DNV’s latest Maritime...",
