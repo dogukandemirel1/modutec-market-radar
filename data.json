@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T14:00:57Z",
+  "last_updated": "2026-09-25T15:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -2819,6 +2819,15 @@
           "region": "SEA"
         },
         {
+          "title": "Vantris Energy rakes in $441.8 million for Petronas and PTTEP offshore works in Malaysia",
+          "summary": "Offshore engineering specialist Vantris Energy has fortified its financial pipeline after clinching two major transportation and installation (T&I) deals worth a combined RM1.8 billion ($441.8 million) from Petronas…",
+          "date": "2026-09-25",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/vantris-energy-rakes-in-441-8-million-for-petronas-and-pttep-offshore-works-in-malaysia/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Eni broadens its exploration horizons in Southeast Asia with another offshore block",
           "summary": "Italian energy giant Eni has expanded its Asian portfolio with the addition of a new exploration license in the prolific Kutei Basin off the coast of Indonesia, Southeast Asia. The post Eni broadens its exploration…",
           "date": "2026-09-25",
@@ -2855,15 +2864,6 @@
           "region": "KSA"
         },
         {
-          "title": "Ventura Offshore rig staying longer with Eni and Petronas’ Searah in Southeast Asia",
-          "summary": "Brazilian deepwater offshore drilling contractor Ventura Offshore has secured more action time for its semi-submersible rig off the coast of Indonesia with subsidiaries of Searah, a joint venture between Italy’s Eni and…",
-          "date": "2026-09-24",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/ventura-offshore-rig-staying-longer-with-eni-and-petronas-searah-in-southeast-asia/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Saudis Ease Asia Oil Crunch",
           "summary": "Saudi Arabia has sold almost 100 million barrels of oil to Asian buyers since the middle of last week, according to traders familiar with the matter.",
           "date": "2026-09-24",
@@ -2871,6 +2871,15 @@
           "source_url": "https://www.rigzone.com/news/wire/saudis_ease_asia_oil_crunch-24-sep-2026-184695-article/?rss=true",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Ventura Offshore rig staying longer with Eni and Petronas’ Searah in Southeast Asia",
+          "summary": "Brazilian deepwater offshore drilling contractor Ventura Offshore has secured more action time for its semi-submersible rig off the coast of Indonesia with subsidiaries of Searah, a joint venture between Italy’s Eni and…",
+          "date": "2026-09-24",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/ventura-offshore-rig-staying-longer-with-eni-and-petronas-searah-in-southeast-asia/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "SLB’s grand slam with Aramco puts over 450 oil & gas wells on its plate",
