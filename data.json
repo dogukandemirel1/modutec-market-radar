@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T07:00:53Z",
+  "last_updated": "2026-09-25T08:00:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -97,6 +97,14 @@
           "relevant": false
         },
         {
+          "title": "Eni and Petronas JV Extend Drilling Backlog for Ventura Offshore’s Semi-Sub Rig",
+          "summary": "Ventura Offshore has agreed a contract amendment with two subsidiaries of Eni and Petronas joint venture Searah for an additional well offshore Indonesia, adding about $21…",
+          "date": "2026-09-25",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543260-eni-and-petronas-jv-extend-drilling-backlog-for-ventura-offshore-s-semi-sub-rig",
+          "relevant": false
+        },
+        {
           "title": "TotalEnergies gives go-ahead for Nigerian offshore gas project",
           "summary": "French energy major TotalEnergies and its partner AMNI have made the final investment decision (FID) to develop the Ima gas field, straddling the OML 112 and 117 offshore licenses in Nigeria. Located in shallow waters…",
           "date": "2026-09-25",
@@ -190,6 +198,14 @@
           "date": "2026-09-24",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/slb-contract-oqeps-bisat-b-oman/",
+          "relevant": false
+        },
+        {
+          "title": "CBG Systems wins $83m contract for Hunter-class frigates insulation work",
+          "summary": "Tasmania’s CBG Systems has secured an $83m contract with BAE Systems Maritime Australia for Hunter-class frigates. The post CBG Systems wins $83m contract for Hunter-class frigates insulation work appeared first on…",
+          "date": "2026-09-24",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/cbg-systems-hunter-class-frigates-australia/",
           "relevant": false
         },
         {
@@ -2736,6 +2752,15 @@
           "source_url": "https://splash247.com/volare-hits-1-2bn-valuation-after-500m-raise/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Saudi Oil Surge Pushes Gulf of Oman Transfers to Capacity",
+          "summary": "Ship-to-ship transfers in the Gulf of Oman for Middle Eastern oil from inside the Strait of Hormuz have reached their limits after Saudi Arabia diverted exports from the Red Sea…",
+          "date": "2026-09-25",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543259-saudi-oil-surge-pushes-gulf-of-oman-transfers-to-capacity",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "SLB takes on 450+ well program for Aramco in Saudi Arabia",
