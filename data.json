@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T09:01:01Z",
+  "last_updated": "2026-09-25T09:34:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -89,11 +89,11 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Rosetti Marino secures Danish North Sea platform project",
-          "summary": "Italian fabricator and shipyard Rosetti Marino has been awarded a new contract for offshore operations in the North Sea, valued at between €250m and €300 million by Ineos. The project involves an EPC contract to build a…",
+          "title": "Rio Tinto offloads final newcastlemax pair to Yasa",
+          "summary": "Rio Tinto has offloaded the final two ships from its eight-strong owned newcastlemax fleet, with Turkey’s Yasa Shipping taking the 2013-built RTM Drake and RTM Tasman. Yasa’s own fleet records now list the ships as the…",
           "date": "2026-09-25",
           "source_name": "Splash247",
-          "source_url": "https://splash247.com/rosetti-marino-secures-danish-north-sea-platform-project/",
+          "source_url": "https://splash247.com/rio-tinto-offloads-final-newcastlemax-pair-to-yasa/",
           "relevant": false
         },
         {
@@ -102,6 +102,14 @@
           "date": "2026-09-25",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543260-eni-and-petronas-jv-extend-drilling-backlog-for-ventura-offshore-s-semi-sub-rig",
+          "relevant": false
+        },
+        {
+          "title": "Rosetti Marino secures Danish North Sea platform project",
+          "summary": "Italian fabricator and shipyard Rosetti Marino has been awarded a new contract for offshore operations in the North Sea, valued at between €250m and €300 million by Ineos. The project involves an EPC contract to build a…",
+          "date": "2026-09-25",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/rosetti-marino-secures-danish-north-sea-platform-project/",
           "relevant": false
         },
         {
@@ -2745,6 +2753,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Precious seals fresh ultramax fixture",
+          "summary": "Thailand’s Precious Shipping has lined up another index-linked ultramax charter, fixing the Sunisa Naree to Singapore’s PACC Line for up to 13 months. The Bangkok-listed owner told the stock exchange that the charter…",
+          "date": "2026-09-25",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/precious-seals-fresh-ultramax-fixture/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Volare hits $1.2bn valuation after $500m raise",
           "summary": "Trafigura-backed Volare Shipping has completed a $500m equity raise ahead of its planned Oslo listing, putting a post-money value of around NOK11.5bn ($1.2bn) on the newly created VLCC owner. The Singapore-incorporated…",
           "date": "2026-09-25",
@@ -2790,15 +2807,6 @@
           "region": "KSA"
         },
         {
-          "title": "Petronas expands fleet with delivery of newbuilt LNG carrier",
-          "summary": "Petronas LNG Ltd. (PLL), a subsidiary of Malaysia’s energy giant Petronas, has added a new vessel to its liquefied natural gas (LNG) fleet with the delivery of the newly built LNG carrier (LNGC), which was built at…",
-          "date": "2026-09-24",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/petronas-expands-fleet-with-delivery-of-newbuilt-lng-carrier/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Saudis Ease Asia Oil Crunch",
           "summary": "Saudi Arabia has sold almost 100 million barrels of oil to Asian buyers since the middle of last week, according to traders familiar with the matter.",
           "date": "2026-09-24",
@@ -2806,6 +2814,15 @@
           "source_url": "https://www.rigzone.com/news/wire/saudis_ease_asia_oil_crunch-24-sep-2026-184695-article/?rss=true",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Petronas expands fleet with delivery of newbuilt LNG carrier",
+          "summary": "Petronas LNG Ltd. (PLL), a subsidiary of Malaysia’s energy giant Petronas, has added a new vessel to its liquefied natural gas (LNG) fleet with the delivery of the newly built LNG carrier (LNGC), which was built at…",
+          "date": "2026-09-24",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/petronas-expands-fleet-with-delivery-of-newbuilt-lng-carrier/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Southeast Asia Plans 100 GW-Plus Gas Power Expansion Despite LNG Risks",
