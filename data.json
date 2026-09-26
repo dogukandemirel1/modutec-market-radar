@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T08:00:52Z",
+  "last_updated": "2026-09-26T09:00:51Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -105,6 +105,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Rio Tinto offloads final newcastlemax pair to Yasa",
+          "summary": "Rio Tinto has offloaded the final two ships from its eight-strong owned newcastlemax fleet, with Turkey’s Yasa Shipping taking the 2013-built RTM Drake and RTM Tasman. Yasa’s own fleet records now list the ships as the…",
+          "date": "2026-09-25",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/rio-tinto-offloads-final-newcastlemax-pair-to-yasa/",
+          "relevant": false
+        },
+        {
           "title": "Eni wins Sapukala exploration block in Indonesia’s Kutei Basin",
           "summary": "Italian energy company Eni has secured a new deepwater exploration licence in Indonesia's Kutei Basin after being awarded the Sapukala block with a 100% participating interest.",
           "date": "2026-09-25",
@@ -134,14 +142,6 @@
           "date": "2026-09-25",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543260-eni-and-petronas-jv-extend-drilling-backlog-for-ventura-offshore-s-semi-sub-rig",
-          "relevant": false
-        },
-        {
-          "title": "Rio Tinto offloads final newcastlemax pair to Yasa",
-          "summary": "Rio Tinto has offloaded the final two ships from its eight-strong owned newcastlemax fleet, with Turkey’s Yasa Shipping taking the 2013-built RTM Drake and RTM Tasman. Yasa’s own fleet records now list the ships as the…",
-          "date": "2026-09-25",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/rio-tinto-offloads-final-newcastlemax-pair-to-yasa/",
           "relevant": false
         },
         {
@@ -1681,6 +1681,22 @@
           "relevant": false
         },
         {
+          "title": "NYK orders new offshore wind SOV from PaxOcean",
+          "summary": "NYK has ordered an offshore wind service operation vessel from PaxOcean Group for deployment in Taiwan and other Asia-Pacific markets from around 2029. The 89.6 m vessel will provide accommodation, logistics and…",
+          "date": "2026-09-25",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/nyk-orders-new-offshore-wind-sov-from-paxocean/",
+          "relevant": false
+        },
+        {
+          "title": "How the resilience premium is reshaping shipping",
+          "summary": "Shipping companies have been forced to rethink how they plan, invest and manage risk as the industry moves deeper into an era of overlapping geopolitical, technological and regulatory disruption, senior executives told…",
+          "date": "2026-09-25",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/how-the-resilience-premium-is-reshaping-shipping/",
+          "relevant": false
+        },
+        {
           "title": "CNOOC keeping Worley busy on its North Sea assets for five more years",
           "summary": "Australia’s engineering firm Worley has picked up a multi-year renewal of its assignment in the North Sea with CNOOC International, a subsidiary of China’s CNOOC, supporting the operator’s offshore operations on the UK…",
           "date": "2026-09-25",
@@ -1702,22 +1718,6 @@
           "date": "2026-09-25",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/dutch_to_ask_eu_to_end_mandatory_gas_storage_targets-25-sep-2026-184701-article/?rss=true",
-          "relevant": false
-        },
-        {
-          "title": "NYK orders new offshore wind SOV from PaxOcean",
-          "summary": "NYK has ordered an offshore wind service operation vessel from PaxOcean Group for deployment in Taiwan and other Asia-Pacific markets from around 2029. The 89.6 m vessel will provide accommodation, logistics and…",
-          "date": "2026-09-25",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/nyk-orders-new-offshore-wind-sov-from-paxocean/",
-          "relevant": false
-        },
-        {
-          "title": "How the resilience premium is reshaping shipping",
-          "summary": "Shipping companies have been forced to rethink how they plan, invest and manage risk as the industry moves deeper into an era of overlapping geopolitical, technological and regulatory disruption, senior executives told…",
-          "date": "2026-09-25",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/how-the-resilience-premium-is-reshaping-shipping/",
           "relevant": false
         },
         {
@@ -2859,6 +2859,24 @@
           "region": "KSA"
         },
         {
+          "title": "Precious seals fresh ultramax fixture",
+          "summary": "Thailand’s Precious Shipping has lined up another index-linked ultramax charter, fixing the Sunisa Naree to Singapore’s PACC Line for up to 13 months. The Bangkok-listed owner told the stock exchange that the charter…",
+          "date": "2026-09-25",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/precious-seals-fresh-ultramax-fixture/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Volare hits $1.2bn valuation after $500m raise",
+          "summary": "Trafigura-backed Volare Shipping has completed a $500m equity raise ahead of its planned Oslo listing, putting a post-money value of around NOK11.5bn ($1.2bn) on the newly created VLCC owner. The Singapore-incorporated…",
+          "date": "2026-09-25",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/volare-hits-1-2bn-valuation-after-500m-raise/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Vantris Energy rakes in $441.8 million for Petronas and PTTEP offshore works in Malaysia",
           "summary": "Offshore engineering specialist Vantris Energy has fortified its financial pipeline after clinching two major transportation and installation (T&I) deals worth a combined RM1.8 billion ($441.8 million) from Petronas…",
           "date": "2026-09-25",
@@ -2893,24 +2911,6 @@
           "source_url": "https://www.oedigital.com/news/543259-saudi-oil-surge-pushes-gulf-of-oman-transfers-to-capacity",
           "relevant": true,
           "region": "KSA"
-        },
-        {
-          "title": "Precious seals fresh ultramax fixture",
-          "summary": "Thailand’s Precious Shipping has lined up another index-linked ultramax charter, fixing the Sunisa Naree to Singapore’s PACC Line for up to 13 months. The Bangkok-listed owner told the stock exchange that the charter…",
-          "date": "2026-09-25",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/precious-seals-fresh-ultramax-fixture/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Volare hits $1.2bn valuation after $500m raise",
-          "summary": "Trafigura-backed Volare Shipping has completed a $500m equity raise ahead of its planned Oslo listing, putting a post-money value of around NOK11.5bn ($1.2bn) on the newly created VLCC owner. The Singapore-incorporated…",
-          "date": "2026-09-25",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/volare-hits-1-2bn-valuation-after-500m-raise/",
-          "relevant": false,
-          "region": "SEA"
         },
         {
           "title": "SLB takes on 450+ well program for Aramco in Saudi Arabia",
