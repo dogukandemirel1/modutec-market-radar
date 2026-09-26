@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T19:00:53Z",
+  "last_updated": "2026-09-26T20:00:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -169,14 +169,6 @@
           "relevant": false
         },
         {
-          "title": "Venezuela Spot Oil Sales Snarled by Surging Freight Costs",
-          "summary": "Sales of Venezuelan oil for loading in October stalled after a surge in shipping costs muddled negotiations between the country’s state oil company and buyers of its oil.",
-          "date": "2026-09-24",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/venezuela-spot-oil-sales-snarled-by-surging-freight-costs/",
-          "relevant": false
-        },
-        {
           "title": "Expro wins integrated well services contract for 14-well Newfoundland campaign",
           "summary": "Expro secured a multi-product line contract with an undisclosed Canadian operator to support a life-extension campaign offshore Newfoundland, Canada. The scope covers 14 wells with options for additional wells, and work…",
           "date": "2026-09-24",
@@ -246,6 +238,14 @@
           "date": "2026-09-24",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543239-eni-confirms-sapukala-deepwater-block-award-in-indonesia",
+          "relevant": false
+        },
+        {
+          "title": "Venezuela Spot Oil Sales Snarled by Surging Freight Costs",
+          "summary": "Sales of Venezuelan oil for loading in October stalled after a surge in shipping costs muddled negotiations between the country’s state oil company and buyers of its oil.",
+          "date": "2026-09-24",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/venezuela-spot-oil-sales-snarled-by-surging-freight-costs/",
           "relevant": false
         },
         {
@@ -1673,6 +1673,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "How Europe’s Intensifying Marine Heatwaves Threaten Its Fisheries",
+          "summary": "By Ben Welsh, Simon Jessop and Kate Abnett LONDON, Sept 26 (Reuters) – As drought spread and wildfires raged across Europe this summer, the extraordinary heat didn’t stop at the shoreline. European...",
+          "date": "2026-09-26",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/how-europes-intensifying-marine-heatwaves-threaten-its-fisheries/",
+          "relevant": false
+        },
+        {
           "title": "US-Sanctioned Oil Tanker ‘Sibu 1’ Rescued from Somali Pirates",
           "summary": "A US-sanctioned oil tanker, Sibu 1, has been freed after being hijacked by Somali pirates in August, the maritime police force in Somalia's semi-autonomous Puntland region said on Friday.",
           "date": "2026-09-25",
@@ -1737,14 +1745,6 @@
           "relevant": false
         },
         {
-          "title": "World Maritime Day 2026: IMO Warns Shipping Rules Are Under Strain as Seafarers Face Deadly Attacks",
-          "summary": "The global maritime industry is marking World Maritime Day on Thursday with an unusually immediate backdrop: merchant ships under attack, seafarers being killed and some of the world’s most important...",
-          "date": "2026-09-24",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/world-maritime-day-2026-imo-warns-shipping-rules-are-under-strain-as-seafarers-face-deadly-attacks/",
-          "relevant": false
-        },
-        {
           "title": "FortisBC Gets BC Environmental Clearance for Tilbury LNG Expansion",
           "summary": "'The Tilbury Phase 2 LNG expansion has been prioritized by the province as part of BC's Look West strategy for jobs and prosperity', British Columbia's government said.",
           "date": "2026-09-24",
@@ -1766,6 +1766,14 @@
           "date": "2026-09-24",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/ashtead-revised-661m-buyout-ember/",
+          "relevant": false
+        },
+        {
+          "title": "World Maritime Day 2026: IMO Warns Shipping Rules Are Under Strain as Seafarers Face Deadly Attacks",
+          "summary": "The global maritime industry is marking World Maritime Day on Thursday with an unusually immediate backdrop: merchant ships under attack, seafarers being killed and some of the world’s most important...",
+          "date": "2026-09-24",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/world-maritime-day-2026-imo-warns-shipping-rules-are-under-strain-as-seafarers-face-deadly-attacks/",
           "relevant": false
         },
         {
@@ -2840,6 +2848,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Trump Rejects Iran Proposal On Hormuz As Houthis Target Riyadh",
+          "summary": "By Courtney Subramanian Sep 26, 2026 (Bloomberg) –President Donald Trump said Saturday he rejected a deal from Iran to reopen the Strait of Hormuz as Saudi Arabia’s capital came under attack...",
+          "date": "2026-09-26",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/trump-rejects-iran-proposal-on-hormuz-as-houthis-target-riyadh/",
+          "relevant": true,
+          "region": "KSA"
+        },
         {
           "title": "TKMS and EDGE Explore Collaboration on Underwater Protection and Surveillance Capability",
           "summary": "TKMS and EDGE Group have signed a Memorandum of Understanding (MoU) within the framework of the state visit of the United Arab Emirates (UAE) to Germany. The MoU is a part of an initiative agreed by the German…",
