@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T04:00:53Z",
+  "last_updated": "2026-09-26T05:00:50Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -185,6 +185,30 @@
           "relevant": false
         },
         {
+          "title": "Italy Signs €3.7B Contract for New DDX Destroyers",
+          "summary": "OCCAR and OSN sign a €3.7 billion contract for two next-generation DDX destroyers for the Italian Navy, set for delivery in 2033 and 2035. The post Italy Signs €3.7B Contract for New DDX Destroyers appeared first on…",
+          "date": "2026-09-24",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/italy-signs-e3-7b-contract-for-new-ddx-destroyers/",
+          "relevant": false
+        },
+        {
+          "title": "Royal IHC and Naval Group sign first order for the new Orka-class submarines",
+          "summary": "On 15th September 2026, Royal IHC and Naval Group signed an initial contract covering the on-board accommodation module for the Royal Netherlands Navy’s new Orka-class submarines in the framework of the Replacement of…",
+          "date": "2026-09-24",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/royal-ihc-and-naval-group-sign-first-order-for-the-new-orka-class-submarines/",
+          "relevant": false
+        },
+        {
+          "title": "Belgium Procures TRIDENT Mine Warfare Systems for Ukraine via Exail",
+          "summary": "Belgium has awarded Exail a nearly €9.9 million contract to supply TRIDENT mine countermeasure platforms and K-STER C systems to Ukraine. The post Belgium Procures TRIDENT Mine Warfare Systems for Ukraine via Exail…",
+          "date": "2026-09-24",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/belgium-trident-mine-warfare-systems-ukraine-exail/",
+          "relevant": false
+        },
+        {
           "title": "ProPetro to Supply 230 MW to Targa",
           "summary": "ProPetro secured new contracts to supply about 230 megawatts of power to support Targa Resources' operations in the Permian Basin.",
           "date": "2026-09-24",
@@ -222,30 +246,6 @@
           "date": "2026-09-24",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543239-eni-confirms-sapukala-deepwater-block-award-in-indonesia",
-          "relevant": false
-        },
-        {
-          "title": "Italy Signs €3.7B Contract for New DDX Destroyers",
-          "summary": "OCCAR and OSN sign a €3.7 billion contract for two next-generation DDX destroyers for the Italian Navy, set for delivery in 2033 and 2035. The post Italy Signs €3.7B Contract for New DDX Destroyers appeared first on…",
-          "date": "2026-09-24",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/italy-signs-e3-7b-contract-for-new-ddx-destroyers/",
-          "relevant": false
-        },
-        {
-          "title": "Royal IHC and Naval Group sign first order for the new Orka-class submarines",
-          "summary": "On 15th September 2026, Royal IHC and Naval Group signed an initial contract covering the on-board accommodation module for the Royal Netherlands Navy’s new Orka-class submarines in the framework of the Replacement of…",
-          "date": "2026-09-24",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/royal-ihc-and-naval-group-sign-first-order-for-the-new-orka-class-submarines/",
-          "relevant": false
-        },
-        {
-          "title": "Belgium Procures TRIDENT Mine Warfare Systems for Ukraine via Exail",
-          "summary": "Belgium has awarded Exail a nearly €9.9 million contract to supply TRIDENT mine countermeasure platforms and K-STER C systems to Ukraine. The post Belgium Procures TRIDENT Mine Warfare Systems for Ukraine via Exail…",
-          "date": "2026-09-24",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/belgium-trident-mine-warfare-systems-ukraine-exail/",
           "relevant": false
         },
         {
@@ -1697,6 +1697,14 @@
           "relevant": false
         },
         {
+          "title": "CNOOC keeping Worley busy on its North Sea assets for five more years",
+          "summary": "Australia’s engineering firm Worley has picked up a multi-year renewal of its assignment in the North Sea with CNOOC International, a subsidiary of China’s CNOOC, supporting the operator’s offshore operations on the UK…",
+          "date": "2026-09-25",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/cnooc-keeping-worley-busy-on-its-north-sea-assets-for-five-more-years/",
+          "relevant": false
+        },
+        {
           "title": "Ukraine Says 2 Russian Refineries Ablaze after Strikes",
           "summary": "Ukraine said it hit two more Russian oil refineries as the warring countries continue strikes against each other despite both sides earlier this week holding talks with the U.S., which wants targeting of energy assets…",
           "date": "2026-09-25",
@@ -1710,14 +1718,6 @@
           "date": "2026-09-25",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/dutch_to_ask_eu_to_end_mandatory_gas_storage_targets-25-sep-2026-184701-article/?rss=true",
-          "relevant": false
-        },
-        {
-          "title": "CNOOC keeping Worley busy on its North Sea assets for five more years",
-          "summary": "Australia’s engineering firm Worley has picked up a multi-year renewal of its assignment in the North Sea with CNOOC International, a subsidiary of China’s CNOOC, supporting the operator’s offshore operations on the UK…",
-          "date": "2026-09-25",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/cnooc-keeping-worley-busy-on-its-north-sea-assets-for-five-more-years/",
           "relevant": false
         },
         {
@@ -2868,24 +2868,6 @@
           "region": "SEA"
         },
         {
-          "title": "Vietnam’s BSR inks crude oil supply agreement with ExxonMobil",
-          "summary": "Petrovietnam Refining and Petrochemical Corporation (BSR) has entered into a framework agreement to purchase crude oil from ExxonMobil Asia Pacific, an affiliate of ExxonMobil.",
-          "date": "2026-09-25",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/bsr-crude-supply-agreement-exxonmobil/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Saudi Oil Surge Pushes Gulf of Oman Transfers to Capacity",
-          "summary": "Ship-to-ship transfers in the Gulf of Oman for Middle Eastern oil from inside the Strait of Hormuz have reached their limits after Saudi Arabia diverted exports from the Red Sea…",
-          "date": "2026-09-25",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/543259-saudi-oil-surge-pushes-gulf-of-oman-transfers-to-capacity",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
           "title": "Vantris Energy rakes in $441.8 million for Petronas and PTTEP offshore works in Malaysia",
           "summary": "Offshore engineering specialist Vantris Energy has fortified its financial pipeline after clinching two major transportation and installation (T&I) deals worth a combined RM1.8 billion ($441.8 million) from Petronas…",
           "date": "2026-09-25",
@@ -2902,6 +2884,24 @@
           "source_url": "https://www.offshore-energy.biz/eni-broadens-its-exploration-horizons-in-southeast-asia-with-another-offshore-block/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Vietnam’s BSR inks crude oil supply agreement with ExxonMobil",
+          "summary": "Petrovietnam Refining and Petrochemical Corporation (BSR) has entered into a framework agreement to purchase crude oil from ExxonMobil Asia Pacific, an affiliate of ExxonMobil.",
+          "date": "2026-09-25",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/bsr-crude-supply-agreement-exxonmobil/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Saudi Oil Surge Pushes Gulf of Oman Transfers to Capacity",
+          "summary": "Ship-to-ship transfers in the Gulf of Oman for Middle Eastern oil from inside the Strait of Hormuz have reached their limits after Saudi Arabia diverted exports from the Red Sea…",
+          "date": "2026-09-25",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543259-saudi-oil-surge-pushes-gulf-of-oman-transfers-to-capacity",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "SLB takes on 450+ well program for Aramco in Saudi Arabia",
