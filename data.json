@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T23:00:52Z",
+  "last_updated": "2026-09-27T00:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1737,14 +1737,6 @@
           "relevant": false
         },
         {
-          "title": "DNV: Shipping’s Fuel Future Hinges on What Regulators Do Next",
-          "summary": "Regulatory uncertainty is becoming a major factor in shipowners’ investment decisions as the industry weighs vessels and fuel systems that will remain in service for decades, according to DNV’s latest Maritime...",
-          "date": "2026-09-24",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/dnv-shippings-fuel-future-hinges-on-what-regulators-do-next/",
-          "relevant": false
-        },
-        {
           "title": "FortisBC Gets BC Environmental Clearance for Tilbury LNG Expansion",
           "summary": "'The Tilbury Phase 2 LNG expansion has been prioritized by the province as part of BC's Look West strategy for jobs and prosperity', British Columbia's government said.",
           "date": "2026-09-24",
@@ -1766,6 +1758,14 @@
           "date": "2026-09-24",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/ashtead-revised-661m-buyout-ember/",
+          "relevant": false
+        },
+        {
+          "title": "DNV: Shipping’s Fuel Future Hinges on What Regulators Do Next",
+          "summary": "Regulatory uncertainty is becoming a major factor in shipowners’ investment decisions as the industry weighs vessels and fuel systems that will remain in service for decades, according to DNV’s latest Maritime...",
+          "date": "2026-09-24",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/dnv-shippings-fuel-future-hinges-on-what-regulators-do-next/",
           "relevant": false
         },
         {
