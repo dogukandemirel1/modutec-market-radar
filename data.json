@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T07:00:52Z",
+  "last_updated": "2026-09-27T08:00:49Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -2848,6 +2848,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Royal Saudi Navy Prepares to Deploy AKINCI UCAV Following Crew Graduation",
+          "summary": "Royal Saudi Naval Forces personnel have completed Bayraktar AKINCI training in Turkey, paving the way for maritime UCAV surveillance and stand-off strike operations. The post Royal Saudi Navy Prepares to Deploy AKINCI…",
+          "date": "2026-09-27",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/royal-saudi-navy-akinci-ucav-deployment/",
+          "relevant": false,
+          "region": "KSA"
+        },
         {
           "title": "Trump Rejects Iran Proposal On Hormuz As Houthis Target Riyadh",
           "summary": "By Courtney Subramanian Sep 26, 2026 (Bloomberg) –President Donald Trump said Saturday he rejected a deal from Iran to reopen the Strait of Hormuz as Saudi Arabia’s capital came under attack...",
