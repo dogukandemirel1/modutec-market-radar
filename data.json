@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T15:00:55Z",
+  "last_updated": "2026-09-27T16:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1673,19 +1673,19 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Philippines Says China Blocked Sea Mission, First Since 2024",
+          "summary": "By Cliff Venzon Sep 27, 2026 (Bloomberg) –The Philippines said Chinese ships hindered a resupply mission to Manila’s military outpost in a disputed South China Sea shoal, in what could be...",
+          "date": "2026-09-27",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/philippines-says-china-blocked-sea-mission-first-since-2024/",
+          "relevant": false
+        },
+        {
           "title": "How Europe’s Intensifying Marine Heatwaves Threaten Its Fisheries",
           "summary": "By Ben Welsh, Simon Jessop and Kate Abnett LONDON, Sept 26 (Reuters) – As drought spread and wildfires raged across Europe this summer, the extraordinary heat didn’t stop at the shoreline. European...",
           "date": "2026-09-26",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/how-europes-intensifying-marine-heatwaves-threaten-its-fisheries/",
-          "relevant": false
-        },
-        {
-          "title": "US-Sanctioned Oil Tanker ‘Sibu 1’ Rescued from Somali Pirates",
-          "summary": "A US-sanctioned oil tanker, Sibu 1, has been freed after being hijacked by Somali pirates in August, the maritime police force in Somalia's semi-autonomous Puntland region said on Friday.",
-          "date": "2026-09-25",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/us-sanctioned-oil-tanker-sibu-1-rescued-from-somali-pirates/",
           "relevant": false
         },
         {
@@ -1726,6 +1726,14 @@
           "date": "2026-09-25",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/dutch_to_ask_eu_to_end_mandatory_gas_storage_targets-25-sep-2026-184701-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "US-Sanctioned Oil Tanker ‘Sibu 1’ Rescued from Somali Pirates",
+          "summary": "A US-sanctioned oil tanker, Sibu 1, has been freed after being hijacked by Somali pirates in August, the maritime police force in Somalia's semi-autonomous Puntland region said on Friday.",
+          "date": "2026-09-25",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/us-sanctioned-oil-tanker-sibu-1-rescued-from-somali-pirates/",
           "relevant": false
         },
         {
