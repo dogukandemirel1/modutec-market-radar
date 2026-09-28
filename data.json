@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T12:01:01Z",
+  "last_updated": "2026-09-28T13:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -104,6 +104,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Tullow books Noble drillship for Ghana campaign",
+          "summary": "Offshore drilling giant Noble Corporation has been awarded a contract by Tullow Oil for one of its drillships. The London-based oil and gas player hired the 2013-built drillship Noble Faye Kozack for work offshore…",
+          "date": "2026-09-28",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/tullow-books-noble-drillship-for-ghana-campaign/",
+          "relevant": false
+        },
         {
           "title": "Fugro survey supports Petronas fields off Malaysia",
           "summary": "Dutch surveyor Fugro has executed a geohazard site survey contract for Petronas Carigali for the Megah and Limbayong fields off the coast of Sabah, offshore East Malaysia. The development supports ongoing efforts to…",
@@ -257,22 +265,6 @@
           "relevant": false
         },
         {
-          "title": "Italy Signs €3.7B Contract for New DDX Destroyers",
-          "summary": "OCCAR and OSN sign a €3.7 billion contract for two next-generation DDX destroyers for the Italian Navy, set for delivery in 2033 and 2035. The post Italy Signs €3.7B Contract for New DDX Destroyers appeared first on…",
-          "date": "2026-09-24",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/italy-signs-e3-7b-contract-for-new-ddx-destroyers/",
-          "relevant": false
-        },
-        {
-          "title": "Royal IHC and Naval Group sign first order for the new Orka-class submarines",
-          "summary": "On 15th September 2026, Royal IHC and Naval Group signed an initial contract covering the on-board accommodation module for the Royal Netherlands Navy’s new Orka-class submarines in the framework of the Replacement of…",
-          "date": "2026-09-24",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/royal-ihc-and-naval-group-sign-first-order-for-the-new-orka-class-submarines/",
-          "relevant": false
-        },
-        {
           "title": "Last FSRU in seven-vessel conversion program boosts Karpowership’s LNG-to-power value chain",
           "summary": "Karpowership, Türkiye’s floating power solutions provider and owner and operator of powerships, has finished its multi-vessel liquefied natural gas (LNG) carrier-to-floating storage and regasification unit (FSRU)…",
           "date": "2026-09-24",
@@ -313,19 +305,35 @@
           "relevant": false
         },
         {
-          "title": "SLB wins contract to expand OQEP’s Bisat-B facility in Oman",
-          "summary": "SLB has received a contract from OQ Exploration & Production (OQEP) for the expansion of the Bisat-B production facility at the Bisat oil field in Oman.",
-          "date": "2026-09-24",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/slb-contract-oqeps-bisat-b-oman/",
-          "relevant": false
-        },
-        {
           "title": "CBG Systems wins $83m contract for Hunter-class frigates insulation work",
           "summary": "Tasmania’s CBG Systems has secured an $83m contract with BAE Systems Maritime Australia for Hunter-class frigates. The post CBG Systems wins $83m contract for Hunter-class frigates insulation work appeared first on…",
           "date": "2026-09-24",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/cbg-systems-hunter-class-frigates-australia/",
+          "relevant": false
+        },
+        {
+          "title": "Italy Signs €3.7B Contract for New DDX Destroyers",
+          "summary": "OCCAR and OSN sign a €3.7 billion contract for two next-generation DDX destroyers for the Italian Navy, set for delivery in 2033 and 2035. The post Italy Signs €3.7B Contract for New DDX Destroyers appeared first on…",
+          "date": "2026-09-24",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/italy-signs-e3-7b-contract-for-new-ddx-destroyers/",
+          "relevant": false
+        },
+        {
+          "title": "Royal IHC and Naval Group sign first order for the new Orka-class submarines",
+          "summary": "On 15th September 2026, Royal IHC and Naval Group signed an initial contract covering the on-board accommodation module for the Royal Netherlands Navy’s new Orka-class submarines in the framework of the Replacement of…",
+          "date": "2026-09-24",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/royal-ihc-and-naval-group-sign-first-order-for-the-new-orka-class-submarines/",
+          "relevant": false
+        },
+        {
+          "title": "SLB wins contract to expand OQEP’s Bisat-B facility in Oman",
+          "summary": "SLB has received a contract from OQ Exploration & Production (OQEP) for the expansion of the Bisat-B production facility at the Bisat oil field in Oman.",
+          "date": "2026-09-24",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/slb-contract-oqeps-bisat-b-oman/",
           "relevant": false
         },
         {
@@ -2608,6 +2616,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "Shearwater wins seabed node survey contract in South America",
+          "summary": "Shearwater Geoservices has landed a three-year ocean bottom node (OBN) seismic acquisition contract in South American waters.",
+          "date": "2026-09-28",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/shearwater-seabed-node-survey-south-america/",
+          "relevant": false
+        },
         {
           "title": "Mermaid Maritime Forms Nigerian Subsea Joint Venture",
           "summary": "Mermaid Maritime has established a joint venture with Nigerian oilfield services company Marine Platforms Limited to pursue subsea work for TotalEnergies Nigeria…",
