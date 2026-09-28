@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T09:01:00Z",
+  "last_updated": "2026-09-28T10:00:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -105,11 +105,11 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "TotalEnergies advances another major offshore gas project",
-          "summary": "French giant TotalEnergies, along with its partners SOCAR and XRG, has made the final investment decision to fully develop the Absheron gas and condensate field in the Caspian Sea. Located 100 km southeast of Baku, the…",
+          "title": "‘Major’ oil & gas player awards Shearwater with three-year contract off South America",
+          "summary": "Norway’s Shearwater Geoservices has won a three-year ocean bottom node (OBN) seismic acquisition contract offshore South America, with what it...",
           "date": "2026-09-28",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/totalenergies-advances-another-major-offshore-gas-project/",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/28/major-oil-and-gas-player-awards-shearwater-with-three-year-contract-off-south-america",
           "relevant": false
         },
         {
@@ -142,6 +142,14 @@
           "date": "2026-09-28",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543285-totalenergies-socar-xrg-greenlight-absheron-field-expansion-in-caspian-sea",
+          "relevant": false
+        },
+        {
+          "title": "TotalEnergies advances another major offshore gas project",
+          "summary": "French giant TotalEnergies, along with its partners SOCAR and XRG, has made the final investment decision to fully develop the Absheron gas and condensate field in the Caspian Sea. Located 100 km southeast of Baku, the…",
+          "date": "2026-09-28",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/totalenergies-advances-another-major-offshore-gas-project/",
           "relevant": false
         },
         {
@@ -1801,6 +1809,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Brazil puts container demurrage rules under review",
+          "summary": "Brazil has opened a formal review of its container demurrage rules, putting one of the country’s more contentious liner charging issues back on the regulatory agenda. Waterway regulator ANTAQ has launched a public call…",
+          "date": "2026-09-28",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/brazil-puts-container-demurrage-rules-under-review/",
+          "relevant": false
+        },
+        {
           "title": "Enjoy the tanker party, but watch the hangover",
           "summary": "Tanker markets may be producing extraordinary returns, but the message from last week’s Splash Singapore tanker panel was far from euphoric: enjoy the money, lock in cashflow where possible and be very careful about…",
           "date": "2026-09-28",
@@ -1809,11 +1825,11 @@
           "relevant": false
         },
         {
-          "title": "Sanctioned ships retreat under the Russian flag",
-          "summary": "Russia has increasingly become the flag of last resort for sanctioned shipping as Western pressure closes down the network of open and fraudulent registries that helped keep Moscow’s energy exports moving. A new study…",
+          "title": "Finder Energy Clears Environmental Hurdle for Timor-Leste Oil Project",
+          "summary": "Finder Energy has secured the principal environmental approval for its Kuda Tasi and Jahal (KTJ) oil development in Timor-Leste, clearing a key regulatory hurdle…",
           "date": "2026-09-28",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/sanctioned-ships-retreat-under-the-russian-flag/",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543289-finder-energy-clears-environmental-hurdle-for-timor-leste-oil-project",
           "relevant": false
         },
         {
@@ -1822,6 +1838,14 @@
           "date": "2026-09-28",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543284-big-oil-faces-strategy-rethink-as-iran-war-reshapes-energy-markets",
+          "relevant": false
+        },
+        {
+          "title": "Sanctioned ships retreat under the Russian flag",
+          "summary": "Russia has increasingly become the flag of last resort for sanctioned shipping as Western pressure closes down the network of open and fraudulent registries that helped keep Moscow’s energy exports moving. A new study…",
+          "date": "2026-09-28",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/sanctioned-ships-retreat-under-the-russian-flag/",
           "relevant": false
         },
         {
