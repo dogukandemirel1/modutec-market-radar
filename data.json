@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T15:00:59Z",
+  "last_updated": "2026-09-28T16:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -118,6 +118,22 @@
           "date": "2026-09-28",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/fugro-survey-supports-petronas-fields-off-malaysia/",
+          "relevant": false
+        },
+        {
+          "title": "Noble Faye Kozack lines up Tullow work offshore Ghana",
+          "summary": "Noble Corp won a drilling contract with Tullow Oil for the drillship Noble Faye Kozack, covering up to 10 wells offshore Ghana. The work is expected to begin in mid-2027. The 2013-built Noble Faye Kozack is a Samsung…",
+          "date": "2026-09-28",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/noble-faye-kozack-lines-up-tullow-work-offshore-ghana-80144",
+          "relevant": false
+        },
+        {
+          "title": "TotalEnergies, partners approve full-field development of Absheron gas field",
+          "summary": "TotalEnergies and its partners took a final investment decision to develop the Absheron gas and condensate field in the Caspian Sea, about 100 km southeast of Baku. TotalEnergies operates the field with a 35% interest…",
+          "date": "2026-09-28",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/totalenergies-partners-approve-full-field-development-of-absheron-gas-field-80138",
           "relevant": false
         },
         {
@@ -265,30 +281,6 @@
           "relevant": false
         },
         {
-          "title": "Expro wins integrated well services contract for 14-well Newfoundland campaign",
-          "summary": "Expro secured a multi-product line contract with an undisclosed Canadian operator to support a life-extension campaign offshore Newfoundland, Canada. The scope covers 14 wells with options for additional wells, and work…",
-          "date": "2026-09-24",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/expro-wins-integrated-well-services-contract-for-14-well-newfoundland-campaign-80081",
-          "relevant": false
-        },
-        {
-          "title": "Italy Signs €3.7B Contract for New DDX Destroyers",
-          "summary": "OCCAR and OSN sign a €3.7 billion contract for two next-generation DDX destroyers for the Italian Navy, set for delivery in 2033 and 2035. The post Italy Signs €3.7B Contract for New DDX Destroyers appeared first on…",
-          "date": "2026-09-24",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/italy-signs-e3-7b-contract-for-new-ddx-destroyers/",
-          "relevant": false
-        },
-        {
-          "title": "Royal IHC and Naval Group sign first order for the new Orka-class submarines",
-          "summary": "On 15th September 2026, Royal IHC and Naval Group signed an initial contract covering the on-board accommodation module for the Royal Netherlands Navy’s new Orka-class submarines in the framework of the Replacement of…",
-          "date": "2026-09-24",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/royal-ihc-and-naval-group-sign-first-order-for-the-new-orka-class-submarines/",
-          "relevant": false
-        },
-        {
           "title": "Last FSRU in seven-vessel conversion program boosts Karpowership’s LNG-to-power value chain",
           "summary": "Karpowership, Türkiye’s floating power solutions provider and owner and operator of powerships, has finished its multi-vessel liquefied natural gas (LNG) carrier-to-floating storage and regasification unit (FSRU)…",
           "date": "2026-09-24",
@@ -326,6 +318,30 @@
           "date": "2026-09-24",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/cbg-systems-hunter-class-frigates-australia/",
+          "relevant": false
+        },
+        {
+          "title": "Expro wins integrated well services contract for 14-well Newfoundland campaign",
+          "summary": "Expro secured a multi-product line contract with an undisclosed Canadian operator to support a life-extension campaign offshore Newfoundland, Canada. The scope covers 14 wells with options for additional wells, and work…",
+          "date": "2026-09-24",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/expro-wins-integrated-well-services-contract-for-14-well-newfoundland-campaign-80081",
+          "relevant": false
+        },
+        {
+          "title": "Italy Signs €3.7B Contract for New DDX Destroyers",
+          "summary": "OCCAR and OSN sign a €3.7 billion contract for two next-generation DDX destroyers for the Italian Navy, set for delivery in 2033 and 2035. The post Italy Signs €3.7B Contract for New DDX Destroyers appeared first on…",
+          "date": "2026-09-24",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/italy-signs-e3-7b-contract-for-new-ddx-destroyers/",
+          "relevant": false
+        },
+        {
+          "title": "Royal IHC and Naval Group sign first order for the new Orka-class submarines",
+          "summary": "On 15th September 2026, Royal IHC and Naval Group signed an initial contract covering the on-board accommodation module for the Royal Netherlands Navy’s new Orka-class submarines in the framework of the Replacement of…",
+          "date": "2026-09-24",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/royal-ihc-and-naval-group-sign-first-order-for-the-new-orka-class-submarines/",
           "relevant": false
         },
         {
@@ -1841,6 +1857,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Hilcorp gets go-ahead for two Paxton Pad wells on Kenai Peninsula",
+          "summary": "Alaska’s Division of Oil and Gas approved a Hilcorp Alaska plan to drill two grassroots wells at the Paxton Pad in the Ninilchik unit on the southern Kenai Peninsula. The wells are Paxton 16 and Paxton 17. Work also…",
+          "date": "2026-09-28",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/hilcorp-gets-go-ahead-for-two-paxton-pad-wells-on-kenai-peninsula-80135",
+          "relevant": false
+        },
+        {
           "title": "TotalEnergies Targets 3 Percent Yearly Production Growth",
           "summary": "Nonetheless, TotalEnergies said it is targeting a 50 percent reduction in Scope 1 and 2 emissions from oil and gas upstream and downstream activities, excluding gas electricity generation, by the end of the decade…",
           "date": "2026-09-28",
@@ -3164,6 +3188,24 @@
           "region": "SEA"
         },
         {
+          "title": "Eni Wins New Block offshore Indonesia",
+          "summary": "'The acreage is adjacent to Eni's existing operated and participated blocks and close to the future North Hub developments'.",
+          "date": "2026-09-28",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/eni_wins_new_block_offshore_indonesia-28-sep-2026-184717-article/?rss=true",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Saudi Arabia's Key Oil Pipeline Starts Exports",
+          "summary": "The pipeline has a total capacity of about seven million a day, with about five million typically earmarked for exports.",
+          "date": "2026-09-28",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/saudi_arabias_key_oil_pipeline_starts_exports-28-sep-2026-184718-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
           "title": "PTTEP Approves Bussabong Gas Project",
           "summary": "State-owned PTTEP expects to start production 2028 to help meet Thailand's growing energy demand.",
           "date": "2026-09-28",
@@ -3198,24 +3240,6 @@
           "source_url": "https://www.oedigital.com/news/543292-fugro-completes-ultra-deepwater-survey-for-petronas",
           "relevant": false,
           "region": "SEA"
-        },
-        {
-          "title": "Eni Wins New Block offshore Indonesia",
-          "summary": "'The acreage is adjacent to Eni's existing operated and participated blocks and close to the future North Hub developments'.",
-          "date": "2026-09-28",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/eni_wins_new_block_offshore_indonesia-28-sep-2026-184717-article/?rss=true",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Saudi Arabia's Key Oil Pipeline Starts Exports",
-          "summary": "The pipeline has a total capacity of about seven million a day, with about five million typically earmarked for exports.",
-          "date": "2026-09-28",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/saudi_arabias_key_oil_pipeline_starts_exports-28-sep-2026-184718-article/?rss=true",
-          "relevant": true,
-          "region": "KSA"
         },
         {
           "title": "Vantris Energy lands $440m offshore work in Malaysia",
@@ -3335,15 +3359,6 @@
           "region": "SEA"
         },
         {
-          "title": "SLB takes on 450+ well program for Aramco in Saudi Arabia",
-          "summary": "Aramco selected SLB to deliver more than 450 wells across Saudi Arabia under four integrated well construction contracts supporting oil and gas development in the kingdom. Each contract has a three-year term with an…",
-          "date": "2026-09-24",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/slb-takes-on-450-well-program-for-aramco-in-saudi-arabia-80083",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
           "title": "Ventura Offshore rig staying longer with Eni and Petronas’ Searah in Southeast Asia",
           "summary": "Brazilian deepwater offshore drilling contractor Ventura Offshore has secured more action time for its semi-submersible rig off the coast of Indonesia with subsidiaries of Searah, a joint venture between Italy’s Eni and…",
           "date": "2026-09-24",
@@ -3369,6 +3384,15 @@
           "source_url": "https://offshore-energy.biz/2026/09/24/petronas-expands-fleet-with-delivery-of-newbuilt-lng-carrier",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "SLB takes on 450+ well program for Aramco in Saudi Arabia",
+          "summary": "Aramco selected SLB to deliver more than 450 wells across Saudi Arabia under four integrated well construction contracts supporting oil and gas development in the kingdom. Each contract has a three-year term with an…",
+          "date": "2026-09-24",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/slb-takes-on-450-well-program-for-aramco-in-saudi-arabia-80083",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "Saudis Ease Asia Oil Crunch",
