@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T14:00:58Z",
+  "last_updated": "2026-09-28T15:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -145,6 +145,14 @@
           "relevant": false
         },
         {
+          "title": "UK confirms British shipyards to build floating naval docks",
+          "summary": "The government has confirmed that new floating docks for the Royal Navy’s submarine base at Faslane will be constructed by British shipyards. The post UK confirms British shipyards to build floating naval docks appeared…",
+          "date": "2026-09-28",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/uk-confirms-british-shipyards-to-build-floating-naval-docks/",
+          "relevant": false
+        },
+        {
           "title": "Shearwater Lines Up Three-Year South America OBN Campaign",
           "summary": "Shearwater Geoservices has been awarded a three-year ocean bottom node (OBN) seismic acquisition contract by an undisclosed oil and gas company for work offshore South America…",
           "date": "2026-09-28",
@@ -265,6 +273,22 @@
           "relevant": false
         },
         {
+          "title": "Italy Signs €3.7B Contract for New DDX Destroyers",
+          "summary": "OCCAR and OSN sign a €3.7 billion contract for two next-generation DDX destroyers for the Italian Navy, set for delivery in 2033 and 2035. The post Italy Signs €3.7B Contract for New DDX Destroyers appeared first on…",
+          "date": "2026-09-24",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/italy-signs-e3-7b-contract-for-new-ddx-destroyers/",
+          "relevant": false
+        },
+        {
+          "title": "Royal IHC and Naval Group sign first order for the new Orka-class submarines",
+          "summary": "On 15th September 2026, Royal IHC and Naval Group signed an initial contract covering the on-board accommodation module for the Royal Netherlands Navy’s new Orka-class submarines in the framework of the Replacement of…",
+          "date": "2026-09-24",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/royal-ihc-and-naval-group-sign-first-order-for-the-new-orka-class-submarines/",
+          "relevant": false
+        },
+        {
           "title": "Last FSRU in seven-vessel conversion program boosts Karpowership’s LNG-to-power value chain",
           "summary": "Karpowership, Türkiye’s floating power solutions provider and owner and operator of powerships, has finished its multi-vessel liquefied natural gas (LNG) carrier-to-floating storage and regasification unit (FSRU)…",
           "date": "2026-09-24",
@@ -310,22 +334,6 @@
           "date": "2026-09-24",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/propetro_to_supply_230_mw_to_targa-24-sep-2026-184697-article/?rss=true",
-          "relevant": false
-        },
-        {
-          "title": "Italy Signs €3.7B Contract for New DDX Destroyers",
-          "summary": "OCCAR and OSN sign a €3.7 billion contract for two next-generation DDX destroyers for the Italian Navy, set for delivery in 2033 and 2035. The post Italy Signs €3.7B Contract for New DDX Destroyers appeared first on…",
-          "date": "2026-09-24",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/italy-signs-e3-7b-contract-for-new-ddx-destroyers/",
-          "relevant": false
-        },
-        {
-          "title": "Royal IHC and Naval Group sign first order for the new Orka-class submarines",
-          "summary": "On 15th September 2026, Royal IHC and Naval Group signed an initial contract covering the on-board accommodation module for the Royal Netherlands Navy’s new Orka-class submarines in the framework of the Replacement of…",
-          "date": "2026-09-24",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/royal-ihc-and-naval-group-sign-first-order-for-the-new-orka-class-submarines/",
           "relevant": false
         },
         {
@@ -3156,24 +3164,6 @@
           "region": "SEA"
         },
         {
-          "title": "Eni Wins New Block offshore Indonesia",
-          "summary": "'The acreage is adjacent to Eni's existing operated and participated blocks and close to the future North Hub developments'.",
-          "date": "2026-09-28",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/eni_wins_new_block_offshore_indonesia-28-sep-2026-184717-article/?rss=true",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Saudi Arabia's Key Oil Pipeline Starts Exports",
-          "summary": "The pipeline has a total capacity of about seven million a day, with about five million typically earmarked for exports.",
-          "date": "2026-09-28",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/saudi_arabias_key_oil_pipeline_starts_exports-28-sep-2026-184718-article/?rss=true",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
           "title": "PTTEP Approves Bussabong Gas Project",
           "summary": "State-owned PTTEP expects to start production 2028 to help meet Thailand's growing energy demand.",
           "date": "2026-09-28",
@@ -3192,6 +3182,15 @@
           "region": "SEA"
         },
         {
+          "title": "TKMS and EDGE sign MoU to explore underwater security capabilities",
+          "summary": "TKMS and UAE defence group EDGE have signed a memorandum of understanding (MoU) to explore the joint development of underwater surveillance and protection capabilities. The post TKMS and EDGE sign MoU to explore…",
+          "date": "2026-09-28",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/tkms-edge-underwater-capabilities/",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
           "title": "Fugro Completes Ultra-Deepwater Survey for Petronas",
           "summary": "Fugro has completed an ultra-deepwater geohazard site survey for Petronas Carigali's Megah and Limbayong fields off Sabah, East Malaysia, using autonomous underwater vehicle (AUV) technology…",
           "date": "2026-09-28",
@@ -3199,6 +3198,24 @@
           "source_url": "https://www.oedigital.com/news/543292-fugro-completes-ultra-deepwater-survey-for-petronas",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Eni Wins New Block offshore Indonesia",
+          "summary": "'The acreage is adjacent to Eni's existing operated and participated blocks and close to the future North Hub developments'.",
+          "date": "2026-09-28",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/eni_wins_new_block_offshore_indonesia-28-sep-2026-184717-article/?rss=true",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Saudi Arabia's Key Oil Pipeline Starts Exports",
+          "summary": "The pipeline has a total capacity of about seven million a day, with about five million typically earmarked for exports.",
+          "date": "2026-09-28",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/saudi_arabias_key_oil_pipeline_starts_exports-28-sep-2026-184718-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "Vantris Energy lands $440m offshore work in Malaysia",
