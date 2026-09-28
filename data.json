@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T20:00:55Z",
+  "last_updated": "2026-09-28T21:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3166,6 +3166,15 @@
           "date": "2026-09-28",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/philippines-accuses-chinese-vessel-of-spoofing-location-in-northern-waters/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Maritime tech’s scale problem comes under the spotlight at Splash Singapore",
+          "summary": "Maritime technology may be attracting more money, more founders and more attention than ever, but last week’s SplashTech Digital Leaders Forum in Singapore repeatedly returned to an uncomfortable question: can the…",
+          "date": "2026-09-28",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/maritime-techs-scale-problem-comes-under-the-spotlight-at-splash-singapore/",
           "relevant": false,
           "region": "SEA"
         },
