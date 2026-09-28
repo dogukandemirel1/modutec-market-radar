@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T06:00:56Z",
+  "last_updated": "2026-09-28T07:00:54Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -113,14 +113,6 @@
           "relevant": false
         },
         {
-          "title": "Rio Tinto offloads final newcastlemax pair to Yasa",
-          "summary": "Rio Tinto has offloaded the final two ships from its eight-strong owned newcastlemax fleet, with Turkey’s Yasa Shipping taking the 2013-built RTM Drake and RTM Tasman. Yasa’s own fleet records now list the ships as the…",
-          "date": "2026-09-25",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/rio-tinto-offloads-final-newcastlemax-pair-to-yasa/",
-          "relevant": false
-        },
-        {
           "title": "Eni wins Sapukala exploration block in Indonesia’s Kutei Basin",
           "summary": "Italian energy company Eni has secured a new deepwater exploration licence in Indonesia's Kutei Basin after being awarded the Sapukala block with a 100% participating interest.",
           "date": "2026-09-25",
@@ -150,6 +142,14 @@
           "date": "2026-09-25",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543260-eni-and-petronas-jv-extend-drilling-backlog-for-ventura-offshore-s-semi-sub-rig",
+          "relevant": false
+        },
+        {
+          "title": "Rio Tinto offloads final newcastlemax pair to Yasa",
+          "summary": "Rio Tinto has offloaded the final two ships from its eight-strong owned newcastlemax fleet, with Turkey’s Yasa Shipping taking the 2013-built RTM Drake and RTM Tasman. Yasa’s own fleet records now list the ships as the…",
+          "date": "2026-09-25",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/rio-tinto-offloads-final-newcastlemax-pair-to-yasa/",
           "relevant": false
         },
         {
@@ -1673,6 +1673,22 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Enjoy the tanker party, but watch the hangover",
+          "summary": "Tanker markets may be producing extraordinary returns, but the message from last week’s Splash Singapore tanker panel was far from euphoric: enjoy the money, lock in cashflow where possible and be very careful about…",
+          "date": "2026-09-28",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/enjoy-the-tanker-party-but-watch-the-hangover/",
+          "relevant": false
+        },
+        {
+          "title": "Sanctioned ships retreat under the Russian flag",
+          "summary": "Russia has increasingly become the flag of last resort for sanctioned shipping as Western pressure closes down the network of open and fraudulent registries that helped keep Moscow’s energy exports moving. A new study…",
+          "date": "2026-09-28",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/sanctioned-ships-retreat-under-the-russian-flag/",
+          "relevant": false
+        },
+        {
           "title": "Philippines Says China Blocked Sea Mission, First Since 2024",
           "summary": "By Cliff Venzon Sep 27, 2026 (Bloomberg) –The Philippines said Chinese ships hindered a resupply mission to Manila’s military outpost in a disputed South China Sea shoal, in what could be...",
           "date": "2026-09-27",
@@ -1689,22 +1705,6 @@
           "relevant": false
         },
         {
-          "title": "NYK orders new offshore wind SOV from PaxOcean",
-          "summary": "NYK has ordered an offshore wind service operation vessel from PaxOcean Group for deployment in Taiwan and other Asia-Pacific markets from around 2029. The 89.6 m vessel will provide accommodation, logistics and…",
-          "date": "2026-09-25",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/nyk-orders-new-offshore-wind-sov-from-paxocean/",
-          "relevant": false
-        },
-        {
-          "title": "How the resilience premium is reshaping shipping",
-          "summary": "Shipping companies have been forced to rethink how they plan, invest and manage risk as the industry moves deeper into an era of overlapping geopolitical, technological and regulatory disruption, senior executives told…",
-          "date": "2026-09-25",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/how-the-resilience-premium-is-reshaping-shipping/",
-          "relevant": false
-        },
-        {
           "title": "Ukraine Says 2 Russian Refineries Ablaze after Strikes",
           "summary": "Ukraine said it hit two more Russian oil refineries as the warring countries continue strikes against each other despite both sides earlier this week holding talks with the U.S., which wants targeting of energy assets…",
           "date": "2026-09-25",
@@ -1718,6 +1718,22 @@
           "date": "2026-09-25",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/dutch_to_ask_eu_to_end_mandatory_gas_storage_targets-25-sep-2026-184701-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "NYK orders new offshore wind SOV from PaxOcean",
+          "summary": "NYK has ordered an offshore wind service operation vessel from PaxOcean Group for deployment in Taiwan and other Asia-Pacific markets from around 2029. The 89.6 m vessel will provide accommodation, logistics and…",
+          "date": "2026-09-25",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/nyk-orders-new-offshore-wind-sov-from-paxocean/",
+          "relevant": false
+        },
+        {
+          "title": "How the resilience premium is reshaping shipping",
+          "summary": "Shipping companies have been forced to rethink how they plan, invest and manage risk as the industry moves deeper into an era of overlapping geopolitical, technological and regulatory disruption, senior executives told…",
+          "date": "2026-09-25",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/how-the-resilience-premium-is-reshaping-shipping/",
           "relevant": false
         },
         {
@@ -2885,15 +2901,6 @@
           "region": "KSA"
         },
         {
-          "title": "Precious seals fresh ultramax fixture",
-          "summary": "Thailand’s Precious Shipping has lined up another index-linked ultramax charter, fixing the Sunisa Naree to Singapore’s PACC Line for up to 13 months. The Bangkok-listed owner told the stock exchange that the charter…",
-          "date": "2026-09-25",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/precious-seals-fresh-ultramax-fixture/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Vietnam’s BSR inks crude oil supply agreement with ExxonMobil",
           "summary": "Petrovietnam Refining and Petrochemical Corporation (BSR) has entered into a framework agreement to purchase crude oil from ExxonMobil Asia Pacific, an affiliate of ExxonMobil.",
           "date": "2026-09-25",
@@ -2910,6 +2917,15 @@
           "source_url": "https://www.oedigital.com/news/543259-saudi-oil-surge-pushes-gulf-of-oman-transfers-to-capacity",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Precious seals fresh ultramax fixture",
+          "summary": "Thailand’s Precious Shipping has lined up another index-linked ultramax charter, fixing the Sunisa Naree to Singapore’s PACC Line for up to 13 months. The Bangkok-listed owner told the stock exchange that the charter…",
+          "date": "2026-09-25",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/precious-seals-fresh-ultramax-fixture/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Volare hits $1.2bn valuation after $500m raise",
