@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T16:01:02Z",
+  "last_updated": "2026-09-28T17:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -281,6 +281,14 @@
           "relevant": false
         },
         {
+          "title": "Italy Signs €3.7B Contract for New DDX Destroyers",
+          "summary": "OCCAR and OSN sign a €3.7 billion contract for two next-generation DDX destroyers for the Italian Navy, set for delivery in 2033 and 2035. The post Italy Signs €3.7B Contract for New DDX Destroyers appeared first on…",
+          "date": "2026-09-24",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/italy-signs-e3-7b-contract-for-new-ddx-destroyers/",
+          "relevant": false
+        },
+        {
           "title": "Last FSRU in seven-vessel conversion program boosts Karpowership’s LNG-to-power value chain",
           "summary": "Karpowership, Türkiye’s floating power solutions provider and owner and operator of powerships, has finished its multi-vessel liquefied natural gas (LNG) carrier-to-floating storage and regasification unit (FSRU)…",
           "date": "2026-09-24",
@@ -326,14 +334,6 @@
           "date": "2026-09-24",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/expro-wins-integrated-well-services-contract-for-14-well-newfoundland-campaign-80081",
-          "relevant": false
-        },
-        {
-          "title": "Italy Signs €3.7B Contract for New DDX Destroyers",
-          "summary": "OCCAR and OSN sign a €3.7 billion contract for two next-generation DDX destroyers for the Italian Navy, set for delivery in 2033 and 2035. The post Italy Signs €3.7B Contract for New DDX Destroyers appeared first on…",
-          "date": "2026-09-24",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/italy-signs-e3-7b-contract-for-new-ddx-destroyers/",
           "relevant": false
         },
         {
@@ -3175,6 +3175,15 @@
           "date": "2026-09-28",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/rcl-signs-third-huangpu-wenchong-boxship-series/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Fincantieri and PT PAL Indonesia sign agreement for the modernization of ex-Giuseppe Garibaldi",
+          "summary": "Fincantieri, one of the world’s leading shipbuilding groups, and PT PAL Indonesia, the country’s leading state-owned shipbuilder, signed a Memorandum of Understanding (MoU) establishing a framework for cooperation on…",
+          "date": "2026-09-28",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/fincantieri-and-pt-pal-indonesia-sign-agreement-for-the-modernization-of-ex-giuseppe-garibaldi/",
           "relevant": false,
           "region": "SEA"
         },
