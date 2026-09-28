@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T08:00:54Z",
+  "last_updated": "2026-09-28T09:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -105,11 +105,11 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "SAIC Anji goes supersized with fresh car carrier tender",
-          "summary": "China’s SAIC Anji Logistics is preparing another major step up in car carrier size, launching an international tender for two 11,000 ceu LNG dual-fuel newbuilds. The logistics arm of state-owned automaker SAIC Motor…",
+          "title": "TotalEnergies advances another major offshore gas project",
+          "summary": "French giant TotalEnergies, along with its partners SOCAR and XRG, has made the final investment decision to fully develop the Absheron gas and condensate field in the Caspian Sea. Located 100 km southeast of Baku, the…",
           "date": "2026-09-28",
           "source_name": "Splash247",
-          "source_url": "https://splash247.com/saic-anji-goes-supersized-with-fresh-car-carrier-tender/",
+          "source_url": "https://splash247.com/totalenergies-advances-another-major-offshore-gas-project/",
           "relevant": false
         },
         {
@@ -118,6 +118,38 @@
           "date": "2026-09-28",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/totalenergies-partners-absheron-gas-fid/",
+          "relevant": false
+        },
+        {
+          "title": "Shearwater Lines Up Three-Year South America OBN Campaign",
+          "summary": "Shearwater Geoservices has been awarded a three-year ocean bottom node (OBN) seismic acquisition contract by an undisclosed oil and gas company for work offshore South America…",
+          "date": "2026-09-28",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543287-shearwater-lines-up-three-year-south-america-obn-campaign",
+          "relevant": false
+        },
+        {
+          "title": "Tullow Oil Books Noble Corporation’s Drillship for Work Offshore Ghana",
+          "summary": "Noble Corporation has secured a contract by Tullow Oil for the Noble Faye Kozack drillship for a drilling campaign offshore Ghana.The work will include up to 10 wells off Ghana…",
+          "date": "2026-09-28",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543286-tullow-oil-books-noble-corporation-s-drillship-for-work-offshore-ghana",
+          "relevant": false
+        },
+        {
+          "title": "TotalEnergies, SOCAR, XRG Greenlight Absheron Field Expansion in Caspian Sea",
+          "summary": "TotalEnergies, SOCAR and XRG have taken a final investment decision (FID) on the full-field development of Azerbaijan's Absheron gas and condensate field, targeting…",
+          "date": "2026-09-28",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543285-totalenergies-socar-xrg-greenlight-absheron-field-expansion-in-caspian-sea",
+          "relevant": false
+        },
+        {
+          "title": "SAIC Anji goes supersized with fresh car carrier tender",
+          "summary": "China’s SAIC Anji Logistics is preparing another major step up in car carrier size, launching an international tender for two 11,000 ceu LNG dual-fuel newbuilds. The logistics arm of state-owned automaker SAIC Motor…",
+          "date": "2026-09-28",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/saic-anji-goes-supersized-with-fresh-car-carrier-tender/",
           "relevant": false
         },
         {
@@ -217,14 +249,6 @@
           "relevant": false
         },
         {
-          "title": "Belgium Procures TRIDENT Mine Warfare Systems for Ukraine via Exail",
-          "summary": "Belgium has awarded Exail a nearly €9.9 million contract to supply TRIDENT mine countermeasure platforms and K-STER C systems to Ukraine. The post Belgium Procures TRIDENT Mine Warfare Systems for Ukraine via Exail…",
-          "date": "2026-09-24",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/belgium-trident-mine-warfare-systems-ukraine-exail/",
-          "relevant": false
-        },
-        {
           "title": "Last FSRU in seven-vessel conversion program boosts Karpowership’s LNG-to-power value chain",
           "summary": "Karpowership, Türkiye’s floating power solutions provider and owner and operator of powerships, has finished its multi-vessel liquefied natural gas (LNG) carrier-to-floating storage and regasification unit (FSRU)…",
           "date": "2026-09-24",
@@ -278,6 +302,14 @@
           "date": "2026-09-24",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/cbg-systems-hunter-class-frigates-australia/",
+          "relevant": false
+        },
+        {
+          "title": "Belgium Procures TRIDENT Mine Warfare Systems for Ukraine via Exail",
+          "summary": "Belgium has awarded Exail a nearly €9.9 million contract to supply TRIDENT mine countermeasure platforms and K-STER C systems to Ukraine. The post Belgium Procures TRIDENT Mine Warfare Systems for Ukraine via Exail…",
+          "date": "2026-09-24",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/belgium-trident-mine-warfare-systems-ukraine-exail/",
           "relevant": false
         },
         {
@@ -3024,6 +3056,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Vantris Energy lands $440m offshore work in Malaysia",
+          "summary": "Malaysian offshore services company Vantris Energy, formerly known as Sapura Energy, has secured two work orders from Petronas Carigali and two PTTEP subsidiaries to provide offshore transportation and installation…",
+          "date": "2026-09-28",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/vantris-energy-lands-440m-offshore-work-in-malaysia/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Royal Saudi Navy Prepares to Deploy AKINCI UCAV Following Crew Graduation",
           "summary": "Royal Saudi Naval Forces personnel have completed Bayraktar AKINCI training in Turkey, paving the way for maritime UCAV surveillance and stand-off strike operations. The post Royal Saudi Navy Prepares to Deploy AKINCI…",
