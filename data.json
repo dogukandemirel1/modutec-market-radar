@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T18:00:57Z",
+  "last_updated": "2026-09-28T19:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -281,6 +281,14 @@
           "relevant": false
         },
         {
+          "title": "Italy Signs €3.7B Contract for New DDX Destroyers",
+          "summary": "OCCAR and OSN sign a €3.7 billion contract for two next-generation DDX destroyers for the Italian Navy, set for delivery in 2033 and 2035. The post Italy Signs €3.7B Contract for New DDX Destroyers appeared first on…",
+          "date": "2026-09-24",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/italy-signs-e3-7b-contract-for-new-ddx-destroyers/",
+          "relevant": false
+        },
+        {
           "title": "Last FSRU in seven-vessel conversion program boosts Karpowership’s LNG-to-power value chain",
           "summary": "Karpowership, Türkiye’s floating power solutions provider and owner and operator of powerships, has finished its multi-vessel liquefied natural gas (LNG) carrier-to-floating storage and regasification unit (FSRU)…",
           "date": "2026-09-24",
@@ -318,14 +326,6 @@
           "date": "2026-09-24",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/cbg-systems-hunter-class-frigates-australia/",
-          "relevant": false
-        },
-        {
-          "title": "Italy Signs €3.7B Contract for New DDX Destroyers",
-          "summary": "OCCAR and OSN sign a €3.7 billion contract for two next-generation DDX destroyers for the Italian Navy, set for delivery in 2033 and 2035. The post Italy Signs €3.7B Contract for New DDX Destroyers appeared first on…",
-          "date": "2026-09-24",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/italy-signs-e3-7b-contract-for-new-ddx-destroyers/",
           "relevant": false
         },
         {
@@ -3179,6 +3179,15 @@
           "region": "SEA"
         },
         {
+          "title": "Fincantieri and PT PAL Indonesia sign agreement for the modernization of ex-Giuseppe Garibaldi",
+          "summary": "Fincantieri, one of the world’s leading shipbuilding groups, and PT PAL Indonesia, the country’s leading state-owned shipbuilder, signed a Memorandum of Understanding (MoU) establishing a framework for cooperation on…",
+          "date": "2026-09-28",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/fincantieri-and-pt-pal-indonesia-sign-agreement-for-the-modernization-of-ex-giuseppe-garibaldi/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Fugro performs ultra-deepwater AUV survey off East Malaysia",
           "summary": "Fugro has completed an ultra-deepwater geohazard site survey offshore East Malaysia, on behalf of Petronas Carigali, the primary upstream...",
           "date": "2026-09-28",
@@ -3242,15 +3251,6 @@
           "region": "SEA"
         },
         {
-          "title": "Fincantieri and PT PAL Indonesia sign agreement for the modernization of ex-Giuseppe Garibaldi",
-          "summary": "Fincantieri, one of the world’s leading shipbuilding groups, and PT PAL Indonesia, the country’s leading state-owned shipbuilder, signed a Memorandum of Understanding (MoU) establishing a framework for cooperation on…",
-          "date": "2026-09-28",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/fincantieri-and-pt-pal-indonesia-sign-agreement-for-the-modernization-of-ex-giuseppe-garibaldi/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Vantris Energy lands $440m offshore work in Malaysia",
           "summary": "Malaysian offshore services company Vantris Energy, formerly known as Sapura Energy, has secured two work orders from Petronas Carigali and two PTTEP subsidiaries to provide offshore transportation and installation…",
           "date": "2026-09-28",
@@ -3269,15 +3269,6 @@
           "region": "KSA"
         },
         {
-          "title": "Trump Rejects Iran Proposal On Hormuz As Houthis Target Riyadh",
-          "summary": "By Courtney Subramanian Sep 26, 2026 (Bloomberg) –President Donald Trump said Saturday he rejected a deal from Iran to reopen the Strait of Hormuz as Saudi Arabia’s capital came under attack...",
-          "date": "2026-09-26",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/trump-rejects-iran-proposal-on-hormuz-as-houthis-target-riyadh/",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
           "title": "TKMS and EDGE Explore Collaboration on Underwater Protection and Surveillance Capability",
           "summary": "TKMS and EDGE Group have signed a Memorandum of Understanding (MoU) within the framework of the state visit of the United Arab Emirates (UAE) to Germany. The MoU is a part of an initiative agreed by the German…",
           "date": "2026-09-26",
@@ -3285,6 +3276,15 @@
           "source_url": "https://www.navalnews.com/naval-news/2026/09/tkms-and-edge-explore-collaboration-on-underwater-protection-and-surveillance-capability/",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "Trump Rejects Iran Proposal On Hormuz As Houthis Target Riyadh",
+          "summary": "By Courtney Subramanian Sep 26, 2026 (Bloomberg) –President Donald Trump said Saturday he rejected a deal from Iran to reopen the Strait of Hormuz as Saudi Arabia’s capital came under attack...",
+          "date": "2026-09-26",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/trump-rejects-iran-proposal-on-hormuz-as-houthis-target-riyadh/",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "Vantris Energy rakes in $441.8 million for Petronas and PTTEP offshore works in Malaysia",
