@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T19:00:56Z",
+  "last_updated": "2026-09-28T20:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -281,14 +281,6 @@
           "relevant": false
         },
         {
-          "title": "Italy Signs €3.7B Contract for New DDX Destroyers",
-          "summary": "OCCAR and OSN sign a €3.7 billion contract for two next-generation DDX destroyers for the Italian Navy, set for delivery in 2033 and 2035. The post Italy Signs €3.7B Contract for New DDX Destroyers appeared first on…",
-          "date": "2026-09-24",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/italy-signs-e3-7b-contract-for-new-ddx-destroyers/",
-          "relevant": false
-        },
-        {
           "title": "Last FSRU in seven-vessel conversion program boosts Karpowership’s LNG-to-power value chain",
           "summary": "Karpowership, Türkiye’s floating power solutions provider and owner and operator of powerships, has finished its multi-vessel liquefied natural gas (LNG) carrier-to-floating storage and regasification unit (FSRU)…",
           "date": "2026-09-24",
@@ -326,6 +318,14 @@
           "date": "2026-09-24",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/cbg-systems-hunter-class-frigates-australia/",
+          "relevant": false
+        },
+        {
+          "title": "Italy Signs €3.7B Contract for New DDX Destroyers",
+          "summary": "OCCAR and OSN sign a €3.7 billion contract for two next-generation DDX destroyers for the Italian Navy, set for delivery in 2033 and 2035. The post Italy Signs €3.7B Contract for New DDX Destroyers appeared first on…",
+          "date": "2026-09-24",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/italy-signs-e3-7b-contract-for-new-ddx-destroyers/",
           "relevant": false
         },
         {
