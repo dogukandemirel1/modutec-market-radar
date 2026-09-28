@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T10:49:30Z",
+  "last_updated": "2026-09-28T11:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3096,6 +3096,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "RCL signs third Huangpu Wenchong boxship series",
+          "summary": "Thailand’s Regional Container Lines has returned to CSSC Huangpu Wenchong for another four containerships, adding a new 3,100 teu class to its rapidly expanding orderbook at the Guangzhou-based builder. RCL signed for…",
+          "date": "2026-09-28",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/rcl-signs-third-huangpu-wenchong-boxship-series/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Fugro performs ultra-deepwater AUV survey off East Malaysia",
           "summary": "Fugro has completed an ultra-deepwater geohazard site survey offshore East Malaysia, on behalf of Petronas Carigali, the primary upstream...",
