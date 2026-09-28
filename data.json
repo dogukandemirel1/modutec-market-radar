@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T10:00:53Z",
+  "last_updated": "2026-09-28T10:49:30Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -104,6 +104,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Southeast Asian oil field development clears key environmental hurdle to move toward FID",
+          "summary": "Finder Energy is edging closer to a final investment decision (FID) for the development of its offshore oil field in Timor-Leste.",
+          "date": "2026-09-28",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/28/southeast-asian-oil-field-development-clears-key-environmental-hurdle-to-move-toward-fid",
+          "relevant": false
+        },
         {
           "title": "‘Major’ oil & gas player awards Shearwater with three-year contract off South America",
           "summary": "Norway’s Shearwater Geoservices has won a three-year ocean bottom node (OBN) seismic acquisition contract offshore South America, with what it...",
@@ -1825,6 +1833,14 @@
           "relevant": false
         },
         {
+          "title": "TotalEnergies Targets 3 Percent Yearly Production Growth",
+          "summary": "Nonetheless, TotalEnergies said it is targeting a 50 percent reduction in Scope 1 and 2 emissions from oil and gas upstream and downstream activities, excluding gas electricity generation, by the end of the decade…",
+          "date": "2026-09-28",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/totalenergies_targets_3_percent_yearly_production_growth-28-sep-2026-184712-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "Finder Energy Clears Environmental Hurdle for Timor-Leste Oil Project",
           "summary": "Finder Energy has secured the principal environmental approval for its Kuda Tasi and Jahal (KTJ) oil development in Timor-Leste, clearing a key regulatory hurdle…",
           "date": "2026-09-28",
@@ -3080,6 +3096,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Fugro performs ultra-deepwater AUV survey off East Malaysia",
+          "summary": "Fugro has completed an ultra-deepwater geohazard site survey offshore East Malaysia, on behalf of Petronas Carigali, the primary upstream...",
+          "date": "2026-09-28",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/28/fugro-performs-ultra-deepwater-auv-survey-off-east-malaysia",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Vantris Energy lands $440m offshore work in Malaysia",
           "summary": "Malaysian offshore services company Vantris Energy, formerly known as Sapura Energy, has secured two work orders from Petronas Carigali and two PTTEP subsidiaries to provide offshore transportation and installation…",
