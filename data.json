@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T05:00:52Z",
+  "last_updated": "2026-09-28T06:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -104,6 +104,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "SAIC Anji goes supersized with fresh car carrier tender",
+          "summary": "China’s SAIC Anji Logistics is preparing another major step up in car carrier size, launching an international tender for two 11,000 ceu LNG dual-fuel newbuilds. The logistics arm of state-owned automaker SAIC Motor…",
+          "date": "2026-09-28",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/saic-anji-goes-supersized-with-fresh-car-carrier-tender/",
+          "relevant": false
+        },
         {
           "title": "Rio Tinto offloads final newcastlemax pair to Yasa",
           "summary": "Rio Tinto has offloaded the final two ships from its eight-strong owned newcastlemax fleet, with Turkey’s Yasa Shipping taking the 2013-built RTM Drake and RTM Tasman. Yasa’s own fleet records now list the ships as the…",
@@ -1697,14 +1705,6 @@
           "relevant": false
         },
         {
-          "title": "CNOOC keeping Worley busy on its North Sea assets for five more years",
-          "summary": "Australia’s engineering firm Worley has picked up a multi-year renewal of its assignment in the North Sea with CNOOC International, a subsidiary of China’s CNOOC, supporting the operator’s offshore operations on the UK…",
-          "date": "2026-09-25",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/cnooc-keeping-worley-busy-on-its-north-sea-assets-for-five-more-years/",
-          "relevant": false
-        },
-        {
           "title": "Ukraine Says 2 Russian Refineries Ablaze after Strikes",
           "summary": "Ukraine said it hit two more Russian oil refineries as the warring countries continue strikes against each other despite both sides earlier this week holding talks with the U.S., which wants targeting of energy assets…",
           "date": "2026-09-25",
@@ -1718,6 +1718,14 @@
           "date": "2026-09-25",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/dutch_to_ask_eu_to_end_mandatory_gas_storage_targets-25-sep-2026-184701-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "CNOOC keeping Worley busy on its North Sea assets for five more years",
+          "summary": "Australia’s engineering firm Worley has picked up a multi-year renewal of its assignment in the North Sea with CNOOC International, a subsidiary of China’s CNOOC, supporting the operator’s offshore operations on the UK…",
+          "date": "2026-09-25",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/cnooc-keeping-worley-busy-on-its-north-sea-assets-for-five-more-years/",
           "relevant": false
         },
         {
@@ -2886,6 +2894,24 @@
           "region": "SEA"
         },
         {
+          "title": "Vietnam’s BSR inks crude oil supply agreement with ExxonMobil",
+          "summary": "Petrovietnam Refining and Petrochemical Corporation (BSR) has entered into a framework agreement to purchase crude oil from ExxonMobil Asia Pacific, an affiliate of ExxonMobil.",
+          "date": "2026-09-25",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/bsr-crude-supply-agreement-exxonmobil/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Saudi Oil Surge Pushes Gulf of Oman Transfers to Capacity",
+          "summary": "Ship-to-ship transfers in the Gulf of Oman for Middle Eastern oil from inside the Strait of Hormuz have reached their limits after Saudi Arabia diverted exports from the Red Sea…",
+          "date": "2026-09-25",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543259-saudi-oil-surge-pushes-gulf-of-oman-transfers-to-capacity",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
           "title": "Volare hits $1.2bn valuation after $500m raise",
           "summary": "Trafigura-backed Volare Shipping has completed a $500m equity raise ahead of its planned Oslo listing, putting a post-money value of around NOK11.5bn ($1.2bn) on the newly created VLCC owner. The Singapore-incorporated…",
           "date": "2026-09-25",
@@ -2911,24 +2937,6 @@
           "source_url": "https://www.offshore-energy.biz/eni-broadens-its-exploration-horizons-in-southeast-asia-with-another-offshore-block/",
           "relevant": false,
           "region": "SEA"
-        },
-        {
-          "title": "Vietnam’s BSR inks crude oil supply agreement with ExxonMobil",
-          "summary": "Petrovietnam Refining and Petrochemical Corporation (BSR) has entered into a framework agreement to purchase crude oil from ExxonMobil Asia Pacific, an affiliate of ExxonMobil.",
-          "date": "2026-09-25",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/bsr-crude-supply-agreement-exxonmobil/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Saudi Oil Surge Pushes Gulf of Oman Transfers to Capacity",
-          "summary": "Ship-to-ship transfers in the Gulf of Oman for Middle Eastern oil from inside the Strait of Hormuz have reached their limits after Saudi Arabia diverted exports from the Red Sea…",
-          "date": "2026-09-25",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/543259-saudi-oil-surge-pushes-gulf-of-oman-transfers-to-capacity",
-          "relevant": true,
-          "region": "KSA"
         },
         {
           "title": "SLB takes on 450+ well program for Aramco in Saudi Arabia",
