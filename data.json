@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T11:01:03Z",
+  "last_updated": "2026-09-28T12:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -104,6 +104,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Fugro survey supports Petronas fields off Malaysia",
+          "summary": "Dutch surveyor Fugro has executed a geohazard site survey contract for Petronas Carigali for the Megah and Limbayong fields off the coast of Sabah, offshore East Malaysia. The development supports ongoing efforts to…",
+          "date": "2026-09-28",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/fugro-survey-supports-petronas-fields-off-malaysia/",
+          "relevant": false
+        },
         {
           "title": "Southeast Asian oil field development clears key environmental hurdle to move toward FID",
           "summary": "Finder Energy is edging closer to a final investment decision (FID) for the development of its offshore oil field in Timor-Leste.",
@@ -1825,14 +1833,6 @@
           "relevant": false
         },
         {
-          "title": "Enjoy the tanker party, but watch the hangover",
-          "summary": "Tanker markets may be producing extraordinary returns, but the message from last week’s Splash Singapore tanker panel was far from euphoric: enjoy the money, lock in cashflow where possible and be very careful about…",
-          "date": "2026-09-28",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/enjoy-the-tanker-party-but-watch-the-hangover/",
-          "relevant": false
-        },
-        {
           "title": "TotalEnergies Targets 3 Percent Yearly Production Growth",
           "summary": "Nonetheless, TotalEnergies said it is targeting a 50 percent reduction in Scope 1 and 2 emissions from oil and gas upstream and downstream activities, excluding gas electricity generation, by the end of the decade…",
           "date": "2026-09-28",
@@ -1854,6 +1854,14 @@
           "date": "2026-09-28",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543284-big-oil-faces-strategy-rethink-as-iran-war-reshapes-energy-markets",
+          "relevant": false
+        },
+        {
+          "title": "Enjoy the tanker party, but watch the hangover",
+          "summary": "Tanker markets may be producing extraordinary returns, but the message from last week’s Splash Singapore tanker panel was far from euphoric: enjoy the money, lock in cashflow where possible and be very careful about…",
+          "date": "2026-09-28",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/enjoy-the-tanker-party-but-watch-the-hangover/",
           "relevant": false
         },
         {
@@ -2601,6 +2609,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Mermaid Maritime Forms Nigerian Subsea Joint Venture",
+          "summary": "Mermaid Maritime has established a joint venture with Nigerian oilfield services company Marine Platforms Limited to pursue subsea work for TotalEnergies Nigeria…",
+          "date": "2026-09-28",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543291-mermaid-maritime-forms-nigerian-subsea-joint-venture",
+          "relevant": false
+        },
+        {
           "title": "WhiteHawk Completes Acquisition of Appalachia, Haynesville Gas Assets",
           "summary": "WhiteHawk completed acquisitions worth a total of $111.8 million including mineral and royalty natural gas assets in the Haynesville shale and the Appalachian Basin's Marcellus and Utica formations.",
           "date": "2026-09-25",
@@ -3111,6 +3127,15 @@
           "date": "2026-09-28",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/09/28/fugro-performs-ultra-deepwater-auv-survey-off-east-malaysia",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Fugro Completes Ultra-Deepwater Survey for Petronas",
+          "summary": "Fugro has completed an ultra-deepwater geohazard site survey for Petronas Carigali's Megah and Limbayong fields off Sabah, East Malaysia, using autonomous underwater vehicle (AUV) technology…",
+          "date": "2026-09-28",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543292-fugro-completes-ultra-deepwater-survey-for-petronas",
           "relevant": false,
           "region": "SEA"
         },
