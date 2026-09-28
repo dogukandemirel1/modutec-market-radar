@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T13:00:58Z",
+  "last_updated": "2026-09-28T14:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -297,19 +297,19 @@
           "relevant": false
         },
         {
-          "title": "ProPetro to Supply 230 MW to Targa",
-          "summary": "ProPetro secured new contracts to supply about 230 megawatts of power to support Targa Resources' operations in the Permian Basin.",
-          "date": "2026-09-24",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/propetro_to_supply_230_mw_to_targa-24-sep-2026-184697-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "CBG Systems wins $83m contract for Hunter-class frigates insulation work",
           "summary": "Tasmania’s CBG Systems has secured an $83m contract with BAE Systems Maritime Australia for Hunter-class frigates. The post CBG Systems wins $83m contract for Hunter-class frigates insulation work appeared first on…",
           "date": "2026-09-24",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/cbg-systems-hunter-class-frigates-australia/",
+          "relevant": false
+        },
+        {
+          "title": "ProPetro to Supply 230 MW to Targa",
+          "summary": "ProPetro secured new contracts to supply about 230 megawatts of power to support Targa Resources' operations in the Permian Basin.",
+          "date": "2026-09-24",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/propetro_to_supply_230_mw_to_targa-24-sep-2026-184697-article/?rss=true",
           "relevant": false
         },
         {
@@ -1833,14 +1833,6 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
-          "title": "Brazil puts container demurrage rules under review",
-          "summary": "Brazil has opened a formal review of its container demurrage rules, putting one of the country’s more contentious liner charging issues back on the regulatory agenda. Waterway regulator ANTAQ has launched a public call…",
-          "date": "2026-09-28",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/brazil-puts-container-demurrage-rules-under-review/",
-          "relevant": false
-        },
-        {
           "title": "TotalEnergies Targets 3 Percent Yearly Production Growth",
           "summary": "Nonetheless, TotalEnergies said it is targeting a 50 percent reduction in Scope 1 and 2 emissions from oil and gas upstream and downstream activities, excluding gas electricity generation, by the end of the decade…",
           "date": "2026-09-28",
@@ -1862,6 +1854,14 @@
           "date": "2026-09-28",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543284-big-oil-faces-strategy-rethink-as-iran-war-reshapes-energy-markets",
+          "relevant": false
+        },
+        {
+          "title": "Brazil puts container demurrage rules under review",
+          "summary": "Brazil has opened a formal review of its container demurrage rules, putting one of the country’s more contentious liner charging issues back on the regulatory agenda. Waterway regulator ANTAQ has launched a public call…",
+          "date": "2026-09-28",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/brazil-puts-container-demurrage-rules-under-review/",
           "relevant": false
         },
         {
@@ -3129,6 +3129,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Philippines Accuses Chinese Vessel of Spoofing Location in Northern Waters",
+          "summary": "The Philippine Coast Guard accused a Chinese research vessel on Monday of spoofing its location while loitering off Batanes, the country's northernmost island group near Taiwan, saying its movements were consistent with…",
+          "date": "2026-09-28",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/philippines-accuses-chinese-vessel-of-spoofing-location-in-northern-waters/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "RCL signs third Huangpu Wenchong boxship series",
           "summary": "Thailand’s Regional Container Lines has returned to CSSC Huangpu Wenchong for another four containerships, adding a new 3,100 teu class to its rapidly expanding orderbook at the Guangzhou-based builder. RCL signed for…",
           "date": "2026-09-28",
@@ -3143,6 +3152,42 @@
           "date": "2026-09-28",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/09/28/fugro-performs-ultra-deepwater-auv-survey-off-east-malaysia",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Eni Wins New Block offshore Indonesia",
+          "summary": "'The acreage is adjacent to Eni's existing operated and participated blocks and close to the future North Hub developments'.",
+          "date": "2026-09-28",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/eni_wins_new_block_offshore_indonesia-28-sep-2026-184717-article/?rss=true",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Saudi Arabia's Key Oil Pipeline Starts Exports",
+          "summary": "The pipeline has a total capacity of about seven million a day, with about five million typically earmarked for exports.",
+          "date": "2026-09-28",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/saudi_arabias_key_oil_pipeline_starts_exports-28-sep-2026-184718-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "PTTEP Approves Bussabong Gas Project",
+          "summary": "State-owned PTTEP expects to start production 2028 to help meet Thailand's growing energy demand.",
+          "date": "2026-09-28",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/pttep_approves_bussabong_gas_project-28-sep-2026-184716-article/?rss=true",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Chevron, ExxonMobil Agree Potential Crude Supply to Vietnam",
+          "summary": "State-owned PVN said its agreement with Chevron could also secure liquefied natural gas and liquefied petroleum gas for Vietnam.",
+          "date": "2026-09-28",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/chevron_exxonmobil_agree_potential_crude_supply_to_vietnam-28-sep-2026-184715-article/?rss=true",
           "relevant": false,
           "region": "SEA"
         },
@@ -3192,15 +3237,6 @@
           "region": "UAE"
         },
         {
-          "title": "Gulf of Oman Ship-to-ship Oil Transfers Reach Limit as Saudi Exports Surge",
-          "summary": "Ship-to-ship transfers in the Gulf of Oman for Middle Eastern oil from inside the Strait of Hormuz have reached their limits after Saudi Arabia diverted exports from the Red Sea, adding to shipments from other…",
-          "date": "2026-09-25",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/gulf-of-oman-ship-to-ship-oil-transfers-reach-limit-as-saudi-exports-surge/",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
           "title": "Vantris Energy rakes in $441.8 million for Petronas and PTTEP offshore works in Malaysia",
           "summary": "Offshore engineering specialist Vantris Energy has fortified its financial pipeline after clinching two major transportation and installation (T&I) deals worth a combined RM1.8 billion ($441.8 million) from Petronas…",
           "date": "2026-09-25",
@@ -3226,6 +3262,15 @@
           "source_url": "https://www.offshore-technology.com/news/bsr-crude-supply-agreement-exxonmobil/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Gulf of Oman Ship-to-ship Oil Transfers Reach Limit as Saudi Exports Surge",
+          "summary": "Ship-to-ship transfers in the Gulf of Oman for Middle Eastern oil from inside the Strait of Hormuz have reached their limits after Saudi Arabia diverted exports from the Red Sea, adding to shipments from other…",
+          "date": "2026-09-25",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/gulf-of-oman-ship-to-ship-oil-transfers-reach-limit-as-saudi-exports-surge/",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "Saudi Oil Surge Pushes Gulf of Oman Transfers to Capacity",
