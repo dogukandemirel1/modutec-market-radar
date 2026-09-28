@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T07:00:54Z",
+  "last_updated": "2026-09-28T08:00:54Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -113,6 +113,22 @@
           "relevant": false
         },
         {
+          "title": "TotalEnergies and partners approve Absheron gas project FID",
+          "summary": "TotalEnergies and its partners State Oil Company of the Republic of Azerbaijan (SOCAR) and XRG have made a final investment decision (FID) to move ahead with the full field development of the Absheron gas and condensate…",
+          "date": "2026-09-28",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/totalenergies-partners-absheron-gas-fid/",
+          "relevant": false
+        },
+        {
+          "title": "Omega Subsea to mobilize ROV systems on two NKT cable layers",
+          "summary": "Omega Subsea has secured a five-year agreement with NKT to provide a remotely operated vehicle (ROV) system for the newbuild cable-laying vessel (CLV) NKT Eleonora, following the contract for NKT Victoria reported last…",
+          "date": "2026-09-25",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/25/omega-subsea-to-mobilize-rov-systems-on-two-nkt-cable-layers",
+          "relevant": false
+        },
+        {
           "title": "Eni wins Sapukala exploration block in Indonesia’s Kutei Basin",
           "summary": "Italian energy company Eni has secured a new deepwater exploration licence in Indonesia's Kutei Basin after being awarded the Sapukala block with a 100% participating interest.",
           "date": "2026-09-25",
@@ -206,6 +222,38 @@
           "date": "2026-09-24",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/09/belgium-trident-mine-warfare-systems-ukraine-exail/",
+          "relevant": false
+        },
+        {
+          "title": "Last FSRU in seven-vessel conversion program boosts Karpowership’s LNG-to-power value chain",
+          "summary": "Karpowership, Türkiye’s floating power solutions provider and owner and operator of powerships, has finished its multi-vessel liquefied natural gas (LNG) carrier-to-floating storage and regasification unit (FSRU)…",
+          "date": "2026-09-24",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/24/last-fsru-in-seven-vessel-conversion-program-boosts-karpowerships-lng-to-power-value-chain",
+          "relevant": false
+        },
+        {
+          "title": "Go-ahead for DNO’s North Sea drilling ops with Odfjell Drilling-managed rig",
+          "summary": "Norway’s oil and gas player DNO has secured the thumbs-up from the country’s authorities for drilling activities in the North Sea with a semi-submersible rig managed by Odfjell Drilling, an offshore drilling contractor.",
+          "date": "2026-09-24",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/24/go-ahead-for-dnos-north-sea-drilling-ops-with-odfjell-drilling-managed-rig",
+          "relevant": false
+        },
+        {
+          "title": "Fugro secures more work in Timor-Leste alongside new contract in Australia",
+          "summary": "Dutch Fugro has secured additional survey contracts offshore Timor-Leste that will support the planning and development of critical offshore energy infrastructure associated with two gas developments. In addition to the…",
+          "date": "2026-09-24",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/24/fugro-secures-more-work-in-timor-leste-alongside-new-contract-in-australia",
+          "relevant": false
+        },
+        {
+          "title": "Subsea7’s scope at Türkiye’s largest natural gas field extended once again",
+          "summary": "Subsea7 has secured yet another contract extension with Turkish Petroleum Offshore Technology Center (TP-OTC) for the third development phase of Türkiye’s largest natural gas field. Turkish Petroleum hired a consortium…",
+          "date": "2026-09-24",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/24/subsea7s-scope-at-turkiyes-largest-natural-gas-field-extended-once-again",
           "relevant": false
         },
         {
@@ -329,6 +377,30 @@
           "relevant": false
         },
         {
+          "title": "Subsea Cable Assets wins first contract with Saipem, worth $20 million",
+          "summary": "Netherlands-headquartered Subsea Cable Assets (SCA) has won its first contract with Saipem for cable transportation and transpooling services in the Caspian region, valued at approximately $20 million. Under the…",
+          "date": "2026-09-23",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/23/subsea-cable-assets-wins-first-contract-with-saipem-worth-20-million",
+          "relevant": false
+        },
+        {
+          "title": "Allseas books ABL for 60,000-ton topside single-lift ops in next North Sea decom chapter",
+          "summary": "Energy and marine consultancy ABL, part of Oslo-listed global consultancy group Aqualis, has been hired by Switzerland-based offshore contractor Allseas to support the lifting of a massive 60,000-ton topside in a single…",
+          "date": "2026-09-23",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/23/allseas-books-abl-for-60000-ton-topside-single-lift-ops-in-next-north-sea-decom-chapter",
+          "relevant": false
+        },
+        {
+          "title": "DeepOcean and TFKable plan JV for inter-array cable projects with dedicated vessel",
+          "summary": "DeepOcean and the controlling entity of TFKable Group are planning to establish a joint venture (JV) that will provide integrated engineering, procurement, construction and installation (EPCI) services for inter-array…",
+          "date": "2026-09-23",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/23/deepocean-and-tfkable-plan-jv-for-inter-array-cable-projects-with-dedicated-vessel",
+          "relevant": false
+        },
+        {
           "title": "TotalEnergies, AMNI take FID on Nigeria’s Ima gas field",
           "summary": "TotalEnergies and its Nigerian partner AMNI have taken the FID for the Ima gas field, an offshore development intended to supply a liquefaction plant of the NLNG project.",
           "date": "2026-09-23",
@@ -446,6 +518,14 @@
           "date": "2026-09-23",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/pttep-hands-two-jackup-deals-to-foresight-offshore-drilling/",
+          "relevant": false
+        },
+        {
+          "title": "Southeast Asian offshore project crosses FID threshold in fast-track move to first gas",
+          "summary": "PTTEP Energy Development Company, a subsidiary of PTT Exploration and Production Public Company (PTTEP), and Canada-headquartered Valeura Energy have taken a final investment decision (FID) to move forward with an…",
+          "date": "2026-09-22",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/22/southeast-asian-offshore-project-crosses-fid-threshold-in-fast-track-move-to-first-gas",
           "relevant": false
         },
         {
@@ -569,6 +649,14 @@
           "relevant": false
         },
         {
+          "title": "After Equinor, Njord Survey inks three-year agreement with RWE",
+          "summary": "RWE has awarded Swedish offshore survey company Njord Survey a three-year framework agreement for surveys using remotely operated vehicles (ROVs) across its offshore wind farms in the UK and European waters. “We are…",
+          "date": "2026-09-21",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/21/after-equinor-njord-survey-inks-three-year-agreement-with-rwe",
+          "relevant": false
+        },
+        {
           "title": "Lockheed Martin wins US Navy awards for F-35 support, Trident II work",
           "summary": "Lockheed Martin has been awarded a pair of contract modifications by the US Navy, collectively valued at nearly $948m, to enhance support for F-35 Lightning II operational sites and advance the Trident II (D5) Life…",
           "date": "2026-09-21",
@@ -646,6 +734,14 @@
           "date": "2026-09-20",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/bumi-armada-joins-wison-in-flng-lease-and-operate-push/",
+          "relevant": false
+        },
+        {
+          "title": "Exmar’s FLNG conversion earns Bureau Veritas’ seal of approval",
+          "summary": "An approval in principle (AiP) from Bureau Veritas Marine & Offshore (BV), part of Bureau Veritas Group, is paving the way for Belgian shipping company Exmar to breathe life into its floating liquefied natural gas…",
+          "date": "2026-09-18",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/18/exmars-flng-conversion-earns-bureau-veritas-seal-of-approval",
           "relevant": false
         },
         {
@@ -1689,6 +1785,14 @@
           "relevant": false
         },
         {
+          "title": "Big Oil Faces Strategy Rethink as Iran War Reshapes Energy Markets",
+          "summary": "The world's biggest energy companies are poised to deliver another quarter of bumper profits, fuelled by record refining margins. Flush with cash, Big Oil now needs…",
+          "date": "2026-09-28",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543284-big-oil-faces-strategy-rethink-as-iran-war-reshapes-energy-markets",
+          "relevant": false
+        },
+        {
           "title": "Philippines Says China Blocked Sea Mission, First Since 2024",
           "summary": "By Cliff Venzon Sep 27, 2026 (Bloomberg) –The Philippines said Chinese ships hindered a resupply mission to Manila’s military outpost in a disputed South China Sea shoal, in what could be...",
           "date": "2026-09-27",
@@ -1702,6 +1806,14 @@
           "date": "2026-09-26",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/how-europes-intensifying-marine-heatwaves-threaten-its-fisheries/",
+          "relevant": false
+        },
+        {
+          "title": "CNOOC keeping Worley busy on its North Sea assets for five more years",
+          "summary": "Australia’s engineering firm Worley has picked up a multi-year renewal of its assignment in the North Sea with CNOOC International, a subsidiary of China’s CNOOC, supporting the operator’s offshore operations on the UK…",
+          "date": "2026-09-25",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/25/cnooc-keeping-worley-busy-on-its-north-sea-assets-for-five-more-years",
           "relevant": false
         },
         {
@@ -1865,6 +1977,14 @@
           "relevant": false
         },
         {
+          "title": "Legal showdown underway as Cotemar moves to freeze almost $60M in American Bureau of Shipping subsidiary’s assets",
+          "summary": "The long-running financial standoff between Mexico’s offshore specialist Cotemar and ABSG Consulting, a subsidiary of American Bureau of Shipping (ABS), has intensified, with the former now turning to the New York State…",
+          "date": "2026-09-21",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/21/legal-showdown-underway-as-cotemar-moves-to-freeze-almost-60m-in-american-bureau-of-shipping-subsidiarys-assets",
+          "relevant": false
+        },
+        {
           "title": "Forecasts: Global body armour market (2026-2036)",
           "summary": "Body armour is split into three distinct market areas, including hard protection, soft protection, and ballistic helmets. The post Forecasts: Global body armour market (2026-2036) appeared first on Naval Technology .",
           "date": "2026-09-21",
@@ -1942,6 +2062,14 @@
           "date": "2026-09-20",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/trump-signs-russia-sanctions-law-with-shadow-fleet-in-the-crosshairs/",
+          "relevant": false
+        },
+        {
+          "title": "Hanwha Ocean’s design solution allowing LNG carrier’s switch to ammonia gets ABS’ thumbs-up",
+          "summary": "The American Bureau of Shipping (ABS), a classification society, has handed out approval in principle (AIP) for a multi-purpose fuel tank and fuel gas supply system design that enables a liquefied natural gas (LNG)…",
+          "date": "2026-09-18",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/18/hanwha-oceans-design-solution-allowing-lng-carriers-switch-to-ammonia-gets-abs-thumbs-up",
           "relevant": false
         },
         {
@@ -2409,6 +2537,14 @@
           "relevant": false
         },
         {
+          "title": "Shell done with US Gulf oil asset sale set to realize $1.7 billion total deal value",
+          "summary": "Shell Offshore, a subsidiary of the UK-headquartered energy giant Shell, has brought to a close the divestment of non-operated working interests in certain oil assets in the Gulf of America (U.S. Gulf of Mexico).",
+          "date": "2026-09-23",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/23/shell-done-with-us-gulf-oil-asset-sale-set-to-realize-1-7-billion-total-deal-value",
+          "relevant": false
+        },
+        {
           "title": "Superior targets intervention growth with Welltec acquisition",
           "summary": "Superior Energy Services entered into a definitive agreement to acquire Welltec International, the Denmark-based provider of robotic wireline-conveyed well intervention and metal expandable packer technologies…",
           "date": "2026-09-23",
@@ -2438,6 +2574,22 @@
           "date": "2026-09-23",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/shell-done-with-us-gulf-oil-asset-sale-set-to-realize-1-7-billion-total-deal-value/",
+          "relevant": false
+        },
+        {
+          "title": "Brazilian subsea services provider changes hands",
+          "summary": "Norwegian engineering company CoreMarine has completed the acquisition of Brazil’s BravOcean, a provider of subsea installation support, project management services, and specialist personnel for deepwater subsea…",
+          "date": "2026-09-22",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/22/brazilian-subsea-services-provider-changes-hands",
+          "relevant": false
+        },
+        {
+          "title": "Navitas forges ahead in South Africa as it wraps up offshore acquisition",
+          "summary": "Israel’s Navitas Petroleum has brought into its fold a stake in a block off the coast of South Africa through a deal with Eco (Atlantic) Oil & Gas, an AIM-listed and Canada-headquartered oil and gas company focused on…",
+          "date": "2026-09-22",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/22/navitas-forges-ahead-in-south-africa-as-it-wraps-up-offshore-acquisition",
           "relevant": false
         },
         {
@@ -2478,6 +2630,14 @@
           "date": "2026-09-22",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/cadeler-expands-offshore-wind-maintenance-push-with-vattenfall-partnership/",
+          "relevant": false
+        },
+        {
+          "title": "WIND acquires stake in UK firm to strengthen cable lifecycle expertise",
+          "summary": "WIND, a Dutch subsea cable logistics, cable recovery, and related services company, has acquired a stake in a UK-based firm providing cable testing and termination, fault-finding and repair, among other things, for the…",
+          "date": "2026-09-21",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/21/wind-acquires-stake-in-uk-firm-to-strengthen-cable-lifecycle-expertise",
           "relevant": false
         },
         {
@@ -2901,6 +3061,24 @@
           "region": "KSA"
         },
         {
+          "title": "Vantris Energy rakes in $441.8 million for Petronas and PTTEP offshore works in Malaysia",
+          "summary": "Offshore engineering specialist Vantris Energy has fortified its financial pipeline after clinching two major transportation and installation (T&I) deals worth a combined RM1.8 billion ($441.8 million) from Petronas…",
+          "date": "2026-09-25",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/25/vantris-energy-rakes-in-441-8-million-for-petronas-and-pttep-offshore-works-in-malaysia",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Eni broadens its exploration horizons in Southeast Asia with another offshore block",
+          "summary": "Italian energy giant Eni has expanded its Asian portfolio with the addition of a new exploration license in the prolific Kutei Basin off the coast of Indonesia, Southeast Asia.",
+          "date": "2026-09-25",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/25/eni-broadens-its-exploration-horizons-in-southeast-asia-with-another-offshore-block",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Vietnam’s BSR inks crude oil supply agreement with ExxonMobil",
           "summary": "Petrovietnam Refining and Petrochemical Corporation (BSR) has entered into a framework agreement to purchase crude oil from ExxonMobil Asia Pacific, an affiliate of ExxonMobil.",
           "date": "2026-09-25",
@@ -2962,6 +3140,33 @@
           "source_url": "https://drillingcontractor.org/slb-takes-on-450-well-program-for-aramco-in-saudi-arabia-80083",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Ventura Offshore rig staying longer with Eni and Petronas’ Searah in Southeast Asia",
+          "summary": "Brazilian deepwater offshore drilling contractor Ventura Offshore has secured more action time for its semi-submersible rig off the coast of Indonesia with subsidiaries of Searah, a joint venture between Italy’s Eni and…",
+          "date": "2026-09-24",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/24/ventura-offshore-rig-staying-longer-with-eni-and-petronas-searah-in-southeast-asia",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "SLB’s grand slam with Aramco puts over 450 oil & gas wells on its plate",
+          "summary": "U.S.-headquartered technology player SLB has added more than 450 wells to its job list in one fell swoop by locking down a four-contract quadfecta with Saudi Arabia’s energy giant Aramco.",
+          "date": "2026-09-24",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/24/slbs-grand-slam-with-aramco-puts-over-450-oil-gas-wells-on-its-plate",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "Petronas expands fleet with delivery of newbuilt LNG carrier",
+          "summary": "Petronas LNG Ltd. (PLL), a subsidiary of Malaysia’s energy giant Petronas, has added a new vessel to its liquefied natural gas (LNG) fleet with the delivery of the newly built LNG carrier (LNGC), which was built at…",
+          "date": "2026-09-24",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/24/petronas-expands-fleet-with-delivery-of-newbuilt-lng-carrier",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Saudis Ease Asia Oil Crunch",
@@ -3059,6 +3264,15 @@
           "date": "2026-09-23",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/lars-kastrup-stands-down-as-pil-boss-with-temasek-exec-lined-up/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Remote operations center for unmanned survey operations opens in Singapore",
+          "summary": "OMS Group has opened a new remote operations center (ROC) in Singapore, dedicated to remote supervision of unmanned surface vessel (USV) operations, real-time monitoring and validation of survey data, and coordinated…",
+          "date": "2026-09-22",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/22/remote-operations-center-for-unmanned-survey-operations-opens-in-singapore",
           "relevant": false,
           "region": "SEA"
         },
