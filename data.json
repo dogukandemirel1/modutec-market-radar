@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T10:37:30Z",
+  "last_updated": "2026-09-29T11:00:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -2721,6 +2721,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Mermaid teams with Marine Platforms for Nigeria subsea push",
+          "summary": "Thailand’s Mermaid Maritime has teamed up with Nigerian offshore services player Marine Platforms to establish a local subsea joint venture targeting work with TotalEnergies and other oil and gas majors. The…",
+          "date": "2026-09-29",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/mermaid-teams-with-marine-platforms-for-nigeria-subsea-push/",
+          "relevant": false
+        },
+        {
           "title": "New JV set up in Nigeria for work with TotalEnergies and other oil & gas majors",
           "summary": "Thailand-headquartered subsea and offshore drilling services company Mermaid Maritime Public Company Limited has established a joint venture (JV)...",
           "date": "2026-09-29",
@@ -3259,6 +3267,15 @@
           "region": "SEA"
         },
         {
+          "title": "Fincantieri and PT PAL Indonesia sign agreement for the modernization of ex-Giuseppe Garibaldi",
+          "summary": "Fincantieri, one of the world’s leading shipbuilding groups, and PT PAL Indonesia, the country’s leading state-owned shipbuilder, signed a Memorandum of Understanding (MoU) establishing a framework for cooperation on…",
+          "date": "2026-09-28",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/fincantieri-and-pt-pal-indonesia-sign-agreement-for-the-modernization-of-ex-giuseppe-garibaldi/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Fugro performs ultra-deepwater AUV survey off East Malaysia",
           "summary": "Fugro has completed an ultra-deepwater geohazard site survey offshore East Malaysia, on behalf of Petronas Carigali, the primary upstream...",
           "date": "2026-09-28",
@@ -3318,15 +3335,6 @@
           "date": "2026-09-28",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543292-fugro-completes-ultra-deepwater-survey-for-petronas",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Fincantieri and PT PAL Indonesia sign agreement for the modernization of ex-Giuseppe Garibaldi",
-          "summary": "Fincantieri, one of the world’s leading shipbuilding groups, and PT PAL Indonesia, the country’s leading state-owned shipbuilder, signed a Memorandum of Understanding (MoU) establishing a framework for cooperation on…",
-          "date": "2026-09-28",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/fincantieri-and-pt-pal-indonesia-sign-agreement-for-the-modernization-of-ex-giuseppe-garibaldi/",
           "relevant": false,
           "region": "SEA"
         },
