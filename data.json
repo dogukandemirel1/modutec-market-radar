@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T13:00:58Z",
+  "last_updated": "2026-09-29T14:00:54Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -134,6 +134,22 @@
           "date": "2026-09-29",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/google-microsoft-and-dsv-join-green-shipping-buyers-alliance/",
+          "relevant": false
+        },
+        {
+          "title": "Next chapter of Shell’s Canadian LNG project brings Fluor-JGC JV multibillion-dollar award",
+          "summary": "This contract is structured primarily on a lump-sum turnkey basis, with certain portions to be executed on a cost-plus basis.",
+          "date": "2026-09-29",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/29/next-chapter-of-shells-canadian-lng-project-brings-fluor-jgc-jv-multibillion-dollar-award",
+          "relevant": false
+        },
+        {
+          "title": "Subsea production systems for Mozambique’s deepwater LNG project ordered from OneSubsea",
+          "summary": "OneSubsea, a joint venture backed by SLB, Aker Solutions and Subsea7, has secured a contract with ExxonMobil for a liquefied natural gas (LNG)...",
+          "date": "2026-09-29",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/29/subsea-production-systems-for-mozambiques-deepwater-lng-project-ordered-from-onesubsea",
           "relevant": false
         },
         {
@@ -3321,6 +3337,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Fincantieri, PAL Indonesia set KRI Sriwijaya modernisation framework",
+          "summary": "Fincantieri and state-owned shipbuilder PAL Indonesia have formalised a partnership to modernise the Indonesian Navy’s new flagship. The post Fincantieri, PAL Indonesia set KRI Sriwijaya modernisation framework appeared…",
+          "date": "2026-09-29",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/fincantieri-pal-indonesia-kri-sriwijaya/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Maritime tech’s scale problem comes under the spotlight at Splash Singapore",
           "summary": "Maritime technology may be attracting more money, more founders and more attention than ever, but last week’s SplashTech Digital Leaders Forum in Singapore repeatedly returned to an uncomfortable question: can the…",
           "date": "2026-09-29",
@@ -3357,11 +3382,11 @@
           "region": "SEA"
         },
         {
-          "title": "Saudi Arabia's Key Oil Pipeline Starts Exports",
-          "summary": "The pipeline has a total capacity of about seven million a day, with about five million typically earmarked for exports.",
+          "title": "Saudi Arabia Restores Key Pipeline to Half Its Capacity",
+          "summary": "Saudi Arabia has restored about half the flows through its cross-country oil pipeline bypassing the Strait of Hormuz.",
           "date": "2026-09-28",
           "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/saudi_arabias_key_oil_pipeline_starts_exports-28-sep-2026-184718-article/?rss=true",
+          "source_url": "https://www.rigzone.com/news/wire/saudi_arabia_restores_key_pipeline_to_half_its_capacity-28-sep-2026-184718-article/?rss=true",
           "relevant": true,
           "region": "KSA"
         },
@@ -3400,6 +3425,15 @@
           "source_url": "https://www.oedigital.com/news/543292-fugro-completes-ultra-deepwater-survey-for-petronas",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Saudi Arabia's Key Oil Pipeline Starts Exports",
+          "summary": "The pipeline has a total capacity of about seven million a day, with about five million typically earmarked for exports.",
+          "date": "2026-09-28",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/saudi_arabias_key_oil_pipeline_starts_exports-28-sep-2026-184718-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "Fincantieri and PT PAL Indonesia sign agreement for the modernization of ex-Giuseppe Garibaldi",
