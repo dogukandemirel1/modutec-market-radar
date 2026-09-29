@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T12:01:01Z",
+  "last_updated": "2026-09-29T13:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -142,6 +142,14 @@
           "date": "2026-09-29",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/09/29/tekmar-nets-euro6-million-contract-extension-in-offshore-wind",
+          "relevant": false
+        },
+        {
+          "title": "ExxonMobil Turns to OneSubsea’s for Rovuma LNG Subsea Production Systems",
+          "summary": "OneSubsea, a joint venture formed by SLB, Aker Solutions and Subsea7, has been secured a contract by ExxonMobil to supply subsea production systems for the first…",
+          "date": "2026-09-29",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543331-exxonmobil-turns-to-onesubsea-s-for-rovuma-lng-subsea-production-systems",
           "relevant": false
         },
         {
@@ -1929,11 +1937,11 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
-          "title": "Jefferson to buy Port Arthur terminal in $255m logistics deal",
-          "summary": "FTAI Infrastructure subsidiary Jefferson has agreed to acquire the Port Arthur Terminal in Texas and a 50% interest in a diluent recovery unit in Hardisty, Alberta, from USD Group in a $255m deal. The assets form an…",
+          "title": "Tufton scores 81% uplift on MR charter",
+          "summary": "London-listed Tufton Assets has capitalised on the strong tanker market, fixing one of its MR product tankers at $39,000 per day, an 81% increase on the vessel’s existing employment. The Mia Grace has been fixed for 12…",
           "date": "2026-09-29",
           "source_name": "Splash247",
-          "source_url": "https://splash247.com/jefferson-to-buy-port-arthur-terminal-in-255m-logistics-deal/",
+          "source_url": "https://splash247.com/tufton-scores-81-uplift-on-mr-charter/",
           "relevant": false
         },
         {
@@ -1942,6 +1950,14 @@
           "date": "2026-09-29",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/09/29/shell-bets-big-on-canada-with-go-ahead-for-lng-project-expansion-doubling-capacity-to-28-mtpa",
+          "relevant": false
+        },
+        {
+          "title": "Texas Oil Regulator Urges Operators to Report Theft",
+          "summary": "Texas Railroad Commissioner Wayne Christian has urged oilfield operators to report theft, a statement posted on the Texas Railroad Commission's (RRC) website recently highlighted.",
+          "date": "2026-09-29",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/texas_oil_regulator_urges_operators_to_report_theft-29-sep-2026-184725-article/?rss=true",
           "relevant": false
         },
         {
@@ -1966,6 +1982,14 @@
           "date": "2026-09-29",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543328-hammerfest-lng-probe-highlights-working-environment-challenges",
+          "relevant": false
+        },
+        {
+          "title": "Jefferson to buy Port Arthur terminal in $255m logistics deal",
+          "summary": "FTAI Infrastructure subsidiary Jefferson has agreed to acquire the Port Arthur Terminal in Texas and a 50% interest in a diluent recovery unit in Hardisty, Alberta, from USD Group in a $255m deal. The assets form an…",
+          "date": "2026-09-29",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/jefferson-to-buy-port-arthur-terminal-in-255m-logistics-deal/",
           "relevant": false
         },
         {
