@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T10:00:57Z",
+  "last_updated": "2026-09-29T10:37:30Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -104,6 +104,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Google, Microsoft and DSV join green shipping buyers alliance",
+          "summary": "Google, Microsoft and logistics giant DSV have joined the Zero Emission Maritime Buyers Alliance (ZEMBA). ZEMBA pools demand from cargo owners before tendering for shipping services powered by low- and zero-emission…",
+          "date": "2026-09-29",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/google-microsoft-and-dsv-join-green-shipping-buyers-alliance/",
+          "relevant": false
+        },
         {
           "title": "SBM Offshore Taps Chinese Contractor for FPSO Topside Modules",
           "summary": "China-based BOMESC Offshore Engineering's wholly owned subsidiary Tianjin BOMESC has signed a contract with SBM Offshore for the design, procurement and construction…",
@@ -249,19 +257,19 @@
           "relevant": false
         },
         {
-          "title": "Eni wins Sapukala exploration block in Indonesia’s Kutei Basin",
-          "summary": "Italian energy company Eni has secured a new deepwater exploration licence in Indonesia's Kutei Basin after being awarded the Sapukala block with a 100% participating interest.",
-          "date": "2026-09-25",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/eni-sapukala-exploration-indonesias-kutei-basin/",
-          "relevant": false
-        },
-        {
           "title": "Fincantieri-Leonardo JV sign Italian Navy DDX destroyer deal",
           "summary": "Fincantieri-Leonardo joint venture Orizzonte Sistemi Navali has signed a contract with OCCAR for two DDX destroyers for the Italian Navy. The post Fincantieri-Leonardo JV sign Italian Navy DDX destroyer deal appeared…",
           "date": "2026-09-25",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/italian-navy-ddx-destroyers/",
+          "relevant": false
+        },
+        {
+          "title": "Eni wins Sapukala exploration block in Indonesia’s Kutei Basin",
+          "summary": "Italian energy company Eni has secured a new deepwater exploration licence in Indonesia's Kutei Basin after being awarded the Sapukala block with a 100% participating interest.",
+          "date": "2026-09-25",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/eni-sapukala-exploration-indonesias-kutei-basin/",
           "relevant": false
         },
         {
@@ -1889,11 +1897,27 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Jefferson to buy Port Arthur terminal in $255m logistics deal",
+          "summary": "FTAI Infrastructure subsidiary Jefferson has agreed to acquire the Port Arthur Terminal in Texas and a 50% interest in a diluent recovery unit in Hardisty, Alberta, from USD Group in a $255m deal. The assets form an…",
+          "date": "2026-09-29",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/jefferson-to-buy-port-arthur-terminal-in-255m-logistics-deal/",
+          "relevant": false
+        },
+        {
           "title": "Shell bets big on Canada with go-ahead for LNG project expansion, doubling capacity to 28 mtpa",
           "summary": "With this expansion move, production capacity at Shell's facility is set to jump to 28 million tons per annum (mtpa) by the early 2030s.",
           "date": "2026-09-29",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/09/29/shell-bets-big-on-canada-with-go-ahead-for-lng-project-expansion-doubling-capacity-to-28-mtpa",
+          "relevant": false
+        },
+        {
+          "title": "Comstock and SOCAR formalise $1.6bn Haynesville Shale partnership",
+          "summary": "Comstock Resources and the State Oil Company of the Azerbaijan Republic (SOCAR) have signed a framework agreement advancing the latter’s investment of $1.65bn in the US-based firm’s Haynesville Shale assets.",
+          "date": "2026-09-29",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/comstock-socar-1-6bn-haynesville-shale/",
           "relevant": false
         },
         {
