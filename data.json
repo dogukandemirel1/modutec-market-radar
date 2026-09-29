@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T07:00:56Z",
+  "last_updated": "2026-09-29T08:00:54Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -105,11 +105,19 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Tullow books Noble drillship for Ghana campaign",
-          "summary": "Offshore drilling giant Noble Corporation has been awarded a contract by Tullow Oil for one of its drillships. The London-based oil and gas player hired the 2013-built drillship Noble Faye Kozack for work offshore…",
-          "date": "2026-09-28",
+          "title": "China lines up centralised offshore wind grid project off Fujian",
+          "summary": "Chinese renewable energy developer Zhongmin Energy has signed a RMB 4.165bn ($585m) EPC contract for a major offshore wind transmission project off Fujian province. The Shanghai-listed company said its subsidiary…",
+          "date": "2026-09-29",
           "source_name": "Splash247",
-          "source_url": "https://splash247.com/tullow-books-noble-drillship-for-ghana-campaign/",
+          "source_url": "https://splash247.com/china-lines-up-centralised-offshore-wind-grid-project-off-fujian/",
+          "relevant": false
+        },
+        {
+          "title": "Shell Takes FID to Double LNG Canada Capacity",
+          "summary": "Shell Canada Energy has taken a final investment decision (FID) on LNG Canada Phase 2, an expansion that will double the Kitimat facility's production capacity to 28 million tonnes per annum…",
+          "date": "2026-09-29",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543318-shell-takes-fid-to-double-lng-canada-capacity",
           "relevant": false
         },
         {
@@ -182,6 +190,14 @@
           "date": "2026-09-28",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543285-totalenergies-socar-xrg-greenlight-absheron-field-expansion-in-caspian-sea",
+          "relevant": false
+        },
+        {
+          "title": "Tullow books Noble drillship for Ghana campaign",
+          "summary": "Offshore drilling giant Noble Corporation has been awarded a contract by Tullow Oil for one of its drillships. The London-based oil and gas player hired the 2013-built drillship Noble Faye Kozack for work offshore…",
+          "date": "2026-09-28",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/tullow-books-noble-drillship-for-ghana-campaign/",
           "relevant": false
         },
         {
@@ -1857,6 +1873,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "FTAI unit to acquire USDG crude oil logistics assets for $255m",
+          "summary": "FTAI Energy Partners (Jefferson Energy), a subsidiary of Nasdaq-listed FTAI Infrastructure, has agreed through one of its subsidiaries to acquire a portfolio of crude oil logistics assets from a subsidiary of USD Group…",
+          "date": "2026-09-29",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/ftai-acquire-usdg-crude-oil-logistics-255m/",
+          "relevant": false
+        },
+        {
           "title": "Hilcorp gets go-ahead for two Paxton Pad wells on Kenai Peninsula",
           "summary": "Alaska’s Division of Oil and Gas approved a Hilcorp Alaska plan to drill two grassroots wells at the Paxton Pad in the Ninilchik unit on the southern Kenai Peninsula. The wells are Paxton 16 and Paxton 17. Work also…",
           "date": "2026-09-28",
@@ -3161,20 +3185,20 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Maritime tech’s scale problem comes under the spotlight at Splash Singapore",
+          "summary": "Maritime technology may be attracting more money, more founders and more attention than ever, but last week’s SplashTech Digital Leaders Forum in Singapore repeatedly returned to an uncomfortable question: can the…",
+          "date": "2026-09-29",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/maritime-techs-scale-problem-comes-under-the-spotlight-at-splash-singapore/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Philippines Accuses Chinese Vessel of Spoofing Location in Northern Waters",
           "summary": "The Philippine Coast Guard accused a Chinese research vessel on Monday of spoofing its location while loitering off Batanes, the country's northernmost island group near Taiwan, saying its movements were consistent with…",
           "date": "2026-09-28",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/philippines-accuses-chinese-vessel-of-spoofing-location-in-northern-waters/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Maritime tech’s scale problem comes under the spotlight at Splash Singapore",
-          "summary": "Maritime technology may be attracting more money, more founders and more attention than ever, but last week’s SplashTech Digital Leaders Forum in Singapore repeatedly returned to an uncomfortable question: can the…",
-          "date": "2026-09-28",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/maritime-techs-scale-problem-comes-under-the-spotlight-at-splash-singapore/",
           "relevant": false,
           "region": "SEA"
         },
