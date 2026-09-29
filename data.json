@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T06:00:53Z",
+  "last_updated": "2026-09-29T07:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -113,14 +113,6 @@
           "relevant": false
         },
         {
-          "title": "Fugro survey supports Petronas fields off Malaysia",
-          "summary": "Dutch surveyor Fugro has executed a geohazard site survey contract for Petronas Carigali for the Megah and Limbayong fields off the coast of Sabah, offshore East Malaysia. The development supports ongoing efforts to…",
-          "date": "2026-09-28",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/fugro-survey-supports-petronas-fields-off-malaysia/",
-          "relevant": false
-        },
-        {
           "title": "Noble Faye Kozack lines up Tullow work offshore Ghana",
           "summary": "Noble Corp won a drilling contract with Tullow Oil for the drillship Noble Faye Kozack, covering up to 10 wells offshore Ghana. The work is expected to begin in mid-2027. The 2013-built Noble Faye Kozack is a Samsung…",
           "date": "2026-09-28",
@@ -190,6 +182,14 @@
           "date": "2026-09-28",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543285-totalenergies-socar-xrg-greenlight-absheron-field-expansion-in-caspian-sea",
+          "relevant": false
+        },
+        {
+          "title": "Fugro survey supports Petronas fields off Malaysia",
+          "summary": "Dutch surveyor Fugro has executed a geohazard site survey contract for Petronas Carigali for the Megah and Limbayong fields off the coast of Sabah, offshore East Malaysia. The development supports ongoing efforts to…",
+          "date": "2026-09-28",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/fugro-survey-supports-petronas-fields-off-malaysia/",
           "relevant": false
         },
         {
