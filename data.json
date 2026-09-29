@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T14:00:54Z",
+  "last_updated": "2026-09-29T15:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -134,6 +134,14 @@
           "date": "2026-09-29",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/google-microsoft-and-dsv-join-green-shipping-buyers-alliance/",
+          "relevant": false
+        },
+        {
+          "title": "Arabian Drilling wins four-jackup offshore contract from KJO",
+          "summary": "Arabian Drilling signed a four-year contract with Khafji Joint Operations (KJO) on 28 September 2026 to provide four jackup rigs for offshore drilling. The award is worth approximately SAR 2 billion and is the largest…",
+          "date": "2026-09-29",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/arabian-drilling-wins-four-jackup-offshore-contract-from-kjo-80162",
           "relevant": false
         },
         {
@@ -1993,6 +2001,14 @@
           "relevant": false
         },
         {
+          "title": "TDI-Brooks Selected for Geotechnical Survey Offshore Timor-Leste",
+          "summary": "TDI-Brooks, in partnership with Taka Hydrocore Indonesia (THI), has been selected by the Ministry of Petroleum and Mineral Resources (MPRM) to execute a light geotechnical…",
+          "date": "2026-09-29",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543335-tdi-brooks-selected-for-geotechnical-survey-offshore-timor-leste",
+          "relevant": false
+        },
+        {
           "title": "Hammerfest LNG Probe Highlights Working Environment Challenges",
           "summary": "Norwegian offshore safety regulator Havtil has identified four non-conformities at Equinor's Hammerfest LNG facility following an investigation into chemical exposure incidents…",
           "date": "2026-09-29",
@@ -3364,6 +3380,15 @@
           "region": "SEA"
         },
         {
+          "title": "Fincantieri and PT PAL Indonesia sign agreement for the modernization of ex-Giuseppe Garibaldi",
+          "summary": "Fincantieri, one of the world’s leading shipbuilding groups, and PT PAL Indonesia, the country’s leading state-owned shipbuilder, signed a Memorandum of Understanding (MoU) establishing a framework for cooperation on…",
+          "date": "2026-09-28",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/fincantieri-and-pt-pal-indonesia-sign-agreement-for-the-modernization-of-ex-giuseppe-garibaldi/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Fugro performs ultra-deepwater AUV survey off East Malaysia",
           "summary": "Fugro has completed an ultra-deepwater geohazard site survey offshore East Malaysia, on behalf of Petronas Carigali, the primary upstream...",
           "date": "2026-09-28",
@@ -3434,15 +3459,6 @@
           "source_url": "https://www.rigzone.com/news/wire/saudi_arabias_key_oil_pipeline_starts_exports-28-sep-2026-184718-article/?rss=true",
           "relevant": true,
           "region": "KSA"
-        },
-        {
-          "title": "Fincantieri and PT PAL Indonesia sign agreement for the modernization of ex-Giuseppe Garibaldi",
-          "summary": "Fincantieri, one of the world’s leading shipbuilding groups, and PT PAL Indonesia, the country’s leading state-owned shipbuilder, signed a Memorandum of Understanding (MoU) establishing a framework for cooperation on…",
-          "date": "2026-09-28",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/fincantieri-and-pt-pal-indonesia-sign-agreement-for-the-modernization-of-ex-giuseppe-garibaldi/",
-          "relevant": false,
-          "region": "SEA"
         },
         {
           "title": "RCL signs third Huangpu Wenchong boxship series",
