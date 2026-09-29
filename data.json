@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T09:00:53Z",
+  "last_updated": "2026-09-29T10:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -105,11 +105,11 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "China lines up centralised offshore wind grid project off Fujian",
-          "summary": "Chinese renewable energy developer Zhongmin Energy has signed a RMB 4.165bn ($585m) EPC contract for a major offshore wind transmission project off Fujian province. The Shanghai-listed company said its subsidiary…",
+          "title": "SBM Offshore Taps Chinese Contractor for FPSO Topside Modules",
+          "summary": "China-based BOMESC Offshore Engineering's wholly owned subsidiary Tianjin BOMESC has signed a contract with SBM Offshore for the design, procurement and construction…",
           "date": "2026-09-29",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/china-lines-up-centralised-offshore-wind-grid-project-off-fujian/",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543321-sbm-offshore-taps-chinese-contractor-for-fpso-topside-modules",
           "relevant": false
         },
         {
@@ -126,6 +126,14 @@
           "date": "2026-09-29",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543318-shell-takes-fid-to-double-lng-canada-capacity",
+          "relevant": false
+        },
+        {
+          "title": "China lines up centralised offshore wind grid project off Fujian",
+          "summary": "Chinese renewable energy developer Zhongmin Energy has signed a RMB 4.165bn ($585m) EPC contract for a major offshore wind transmission project off Fujian province. The Shanghai-listed company said its subsidiary…",
+          "date": "2026-09-29",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/china-lines-up-centralised-offshore-wind-grid-project-off-fujian/",
           "relevant": false
         },
         {
@@ -1881,6 +1889,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Shell bets big on Canada with go-ahead for LNG project expansion, doubling capacity to 28 mtpa",
+          "summary": "With this expansion move, production capacity at Shell's facility is set to jump to 28 million tons per annum (mtpa) by the early 2030s.",
+          "date": "2026-09-29",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/29/shell-bets-big-on-canada-with-go-ahead-for-lng-project-expansion-doubling-capacity-to-28-mtpa",
+          "relevant": false
+        },
+        {
           "title": "FTAI unit to acquire USDG crude oil logistics assets for $255m",
           "summary": "FTAI Energy Partners (Jefferson Energy), a subsidiary of Nasdaq-listed FTAI Infrastructure, has agreed through one of its subsidiaries to acquire a portfolio of crude oil logistics assets from a subsidiary of USD Group…",
           "date": "2026-09-29",
@@ -3219,15 +3235,6 @@
           "region": "SEA"
         },
         {
-          "title": "Fincantieri and PT PAL Indonesia sign agreement for the modernization of ex-Giuseppe Garibaldi",
-          "summary": "Fincantieri, one of the world’s leading shipbuilding groups, and PT PAL Indonesia, the country’s leading state-owned shipbuilder, signed a Memorandum of Understanding (MoU) establishing a framework for cooperation on…",
-          "date": "2026-09-28",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/fincantieri-and-pt-pal-indonesia-sign-agreement-for-the-modernization-of-ex-giuseppe-garibaldi/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Fugro performs ultra-deepwater AUV survey off East Malaysia",
           "summary": "Fugro has completed an ultra-deepwater geohazard site survey offshore East Malaysia, on behalf of Petronas Carigali, the primary upstream...",
           "date": "2026-09-28",
@@ -3287,6 +3294,15 @@
           "date": "2026-09-28",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543292-fugro-completes-ultra-deepwater-survey-for-petronas",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Fincantieri and PT PAL Indonesia sign agreement for the modernization of ex-Giuseppe Garibaldi",
+          "summary": "Fincantieri, one of the world’s leading shipbuilding groups, and PT PAL Indonesia, the country’s leading state-owned shipbuilder, signed a Memorandum of Understanding (MoU) establishing a framework for cooperation on…",
+          "date": "2026-09-28",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/fincantieri-and-pt-pal-indonesia-sign-agreement-for-the-modernization-of-ex-giuseppe-garibaldi/",
           "relevant": false,
           "region": "SEA"
         },
