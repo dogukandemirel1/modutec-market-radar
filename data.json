@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T11:00:53Z",
+  "last_updated": "2026-09-29T12:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -105,11 +105,43 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Great Eastern adds newbuild suezmax to fleet renewal drive",
+          "summary": "India’s Great Eastern Shipping has contracted to acquire a 157,000 dwt newbuilding suezmax, adding a yard-built ship to a fleet renewal drive that has so far been dominated by secondhand transactions. The Mumbai-listed…",
+          "date": "2026-09-29",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/great-eastern-adds-newbuild-suezmax-to-fleet-renewal-drive/",
+          "relevant": false
+        },
+        {
+          "title": "Hoa Phat goes local for latest bulker newbuild",
+          "summary": "Vietnamese steelmaker Hoa Phat has turned to a domestic yard for its latest fleet expansion, contracting Nam Trieu Shipbuilding to build an ultramax bulk carrier. Hoa Phat Shipping signed the contract for the 65,000 dwt…",
+          "date": "2026-09-29",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/hoa-phat-goes-local-for-latest-bulker-newbuild/",
+          "relevant": false
+        },
+        {
+          "title": "KKB unit bags Shell deal for Malaysian offshore developments",
+          "summary": "Malaysian fabricator OceanMight has secured an engineering, procurement, and construction contract from Shell for fixed offshore structures linked to several field developments off Malaysia. Parent company KKB…",
+          "date": "2026-09-29",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/kkb-unit-bags-shell-deal-for-malaysian-offshore-developments/",
+          "relevant": false
+        },
+        {
           "title": "Google, Microsoft and DSV join green shipping buyers alliance",
           "summary": "Google, Microsoft and logistics giant DSV have joined the Zero Emission Maritime Buyers Alliance (ZEMBA). ZEMBA pools demand from cargo owners before tendering for shipping services powered by low- and zero-emission…",
           "date": "2026-09-29",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/google-microsoft-and-dsv-join-green-shipping-buyers-alliance/",
+          "relevant": false
+        },
+        {
+          "title": "Tekmar nets €6 million contract extension in offshore wind",
+          "summary": "Tekmar Group has secured a €6 million contract extension for an offshore wind project in Europe, the company said in a trading update on...",
+          "date": "2026-09-29",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/29/tekmar-nets-euro6-million-contract-extension-in-offshore-wind",
           "relevant": false
         },
         {
@@ -649,19 +681,19 @@
           "relevant": false
         },
         {
-          "title": "Southeast Asian offshore project crosses FID threshold in fast-track move to first gas",
-          "summary": "PTTEP Energy Development Company, a subsidiary of PTT Exploration and Production Public Company (PTTEP), and Canada-headquartered Valeura Energy have taken a final investment decision (FID) to move forward with an…",
-          "date": "2026-09-22",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/09/22/southeast-asian-offshore-project-crosses-fid-threshold-in-fast-track-move-to-first-gas",
-          "relevant": false
-        },
-        {
           "title": "L3Harris wins US Navy deals for submarine masts and missile components",
           "summary": "L3Harris Technologies has secured two new contracts from the US Navy, covering submarine mast systems and missile propulsion components. The post L3Harris wins US Navy deals for submarine masts and missile components…",
           "date": "2026-09-22",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/l3harris-navy-submarines-missiles/",
+          "relevant": false
+        },
+        {
+          "title": "Southeast Asian offshore project crosses FID threshold in fast-track move to first gas",
+          "summary": "PTTEP Energy Development Company, a subsidiary of PTT Exploration and Production Public Company (PTTEP), and Canada-headquartered Valeura Energy have taken a final investment decision (FID) to move forward with an…",
+          "date": "2026-09-22",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/22/southeast-asian-offshore-project-crosses-fid-threshold-in-fast-track-move-to-first-gas",
           "relevant": false
         },
         {
@@ -1929,6 +1961,14 @@
           "relevant": false
         },
         {
+          "title": "Hammerfest LNG Probe Highlights Working Environment Challenges",
+          "summary": "Norwegian offshore safety regulator Havtil has identified four non-conformities at Equinor's Hammerfest LNG facility following an investigation into chemical exposure incidents…",
+          "date": "2026-09-29",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543328-hammerfest-lng-probe-highlights-working-environment-challenges",
+          "relevant": false
+        },
+        {
           "title": "Hilcorp gets go-ahead for two Paxton Pad wells on Kenai Peninsula",
           "summary": "Alaska’s Division of Oil and Gas approved a Hilcorp Alaska plan to drill two grassroots wells at the Paxton Pad in the Ninilchik unit on the southern Kenai Peninsula. The wells are Paxton 16 and Paxton 17. Work also…",
           "date": "2026-09-28",
@@ -2737,6 +2777,14 @@
           "relevant": false
         },
         {
+          "title": "SOCAR Expands International Partnerships",
+          "summary": "The State Oil Company of the Azerbaijani Republic signed several collaboration agreements with international companies including ExxonMobil at the Azerbaijan International Investment Forum.",
+          "date": "2026-09-29",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/socar_expands_international_partnerships-29-sep-2026-184724-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "Shearwater wins seabed node survey contract in South America",
           "summary": "Shearwater Geoservices has landed a three-year ocean bottom node (OBN) seismic acquisition contract in South American waters.",
           "date": "2026-09-28",
@@ -3267,15 +3315,6 @@
           "region": "SEA"
         },
         {
-          "title": "Fincantieri and PT PAL Indonesia sign agreement for the modernization of ex-Giuseppe Garibaldi",
-          "summary": "Fincantieri, one of the world’s leading shipbuilding groups, and PT PAL Indonesia, the country’s leading state-owned shipbuilder, signed a Memorandum of Understanding (MoU) establishing a framework for cooperation on…",
-          "date": "2026-09-28",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/fincantieri-and-pt-pal-indonesia-sign-agreement-for-the-modernization-of-ex-giuseppe-garibaldi/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Fugro performs ultra-deepwater AUV survey off East Malaysia",
           "summary": "Fugro has completed an ultra-deepwater geohazard site survey offshore East Malaysia, on behalf of Petronas Carigali, the primary upstream...",
           "date": "2026-09-28",
@@ -3335,6 +3374,15 @@
           "date": "2026-09-28",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543292-fugro-completes-ultra-deepwater-survey-for-petronas",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Fincantieri and PT PAL Indonesia sign agreement for the modernization of ex-Giuseppe Garibaldi",
+          "summary": "Fincantieri, one of the world’s leading shipbuilding groups, and PT PAL Indonesia, the country’s leading state-owned shipbuilder, signed a Memorandum of Understanding (MoU) establishing a framework for cooperation on…",
+          "date": "2026-09-28",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/fincantieri-and-pt-pal-indonesia-sign-agreement-for-the-modernization-of-ex-giuseppe-garibaldi/",
           "relevant": false,
           "region": "SEA"
         },
