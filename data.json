@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T08:00:54Z",
+  "last_updated": "2026-09-29T09:00:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -111,6 +111,14 @@
           "source_name": "Splash247",
           "source_url": "https://splash247.com/china-lines-up-centralised-offshore-wind-grid-project-off-fujian/",
           "relevant": false
+        },
+        {
+          "title": "Arabian Drilling Inks $533M Deal for Four Jack-Up Drilling Rigs",
+          "summary": "Saudi Arabia’s drilling contractor Arabian Drilling has signed a four-year contract worth about $533 million (SAR 2 billion) with Khafji Joint Operations (KJO) to…",
+          "date": "2026-09-29",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543319-arabian-drilling-inks-533m-deal-for-four-jack-up-drilling-rigs",
+          "relevant": true
         },
         {
           "title": "Shell Takes FID to Double LNG Canada Capacity",
@@ -2672,6 +2680,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "New JV set up in Nigeria for work with TotalEnergies and other oil & gas majors",
+          "summary": "Thailand-headquartered subsea and offshore drilling services company Mermaid Maritime Public Company Limited has established a joint venture (JV)...",
+          "date": "2026-09-29",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/29/new-jv-set-up-in-nigeria-for-work-with-totalenergies-and-other-oil-and-gas-majors",
+          "relevant": false
+        },
         {
           "title": "Shearwater wins seabed node survey contract in South America",
           "summary": "Shearwater Geoservices has landed a three-year ocean bottom node (OBN) seismic acquisition contract in South American waters.",
