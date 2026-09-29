@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T16:00:54Z",
+  "last_updated": "2026-09-29T17:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -134,6 +134,14 @@
           "date": "2026-09-29",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/google-microsoft-and-dsv-join-green-shipping-buyers-alliance/",
+          "relevant": false
+        },
+        {
+          "title": "MPD integration into rig operating system reduces drilling contractor reliance on OEMs",
+          "summary": "By integrating automated managed pressure drilling (MPD) controls into its SmartROS rig operating system, Nabors is allowing drilling contractors to take greater ownership of MPD performance, rather than relying solely…",
+          "date": "2026-09-29",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/mpd-integration-into-rig-operating-system-reduces-drilling-contractor-reliance-on-oems-80154",
           "relevant": false
         },
         {
