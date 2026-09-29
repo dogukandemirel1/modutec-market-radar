@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T21:00:58Z",
+  "last_updated": "2026-09-29T22:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3376,6 +3376,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Oil Slides on Saudi Supply Relief",
+          "summary": "Crude prices declined as improving Saudi supply flows eased fears of further shortages.",
+          "date": "2026-09-29",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/oil_slides_on_saudi_supply_relief-29-sep-2026-184732-article/?rss=true",
+          "relevant": false,
+          "region": "KSA"
+        },
         {
           "title": "Fincantieri, PAL Indonesia set KRI Sriwijaya modernisation framework",
           "summary": "Fincantieri and state-owned shipbuilder PAL Indonesia have formalised a partnership to modernise the Indonesian Navy’s new flagship. The post Fincantieri, PAL Indonesia set KRI Sriwijaya modernisation framework appeared…",
