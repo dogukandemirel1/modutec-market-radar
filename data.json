@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T19:00:56Z",
+  "last_updated": "2026-09-29T20:00:54Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -129,14 +129,6 @@
           "relevant": false
         },
         {
-          "title": "Google, Microsoft and DSV join green shipping buyers alliance",
-          "summary": "Google, Microsoft and logistics giant DSV have joined the Zero Emission Maritime Buyers Alliance (ZEMBA). ZEMBA pools demand from cargo owners before tendering for shipping services powered by low- and zero-emission…",
-          "date": "2026-09-29",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/google-microsoft-and-dsv-join-green-shipping-buyers-alliance/",
-          "relevant": false
-        },
-        {
           "title": "MPD integration into rig operating system reduces drilling contractor reliance on OEMs",
           "summary": "By integrating automated managed pressure drilling (MPD) controls into its SmartROS rig operating system, Nabors is allowing drilling contractors to take greater ownership of MPD performance, rather than relying solely…",
           "date": "2026-09-29",
@@ -214,6 +206,14 @@
           "date": "2026-09-29",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543318-shell-takes-fid-to-double-lng-canada-capacity",
+          "relevant": false
+        },
+        {
+          "title": "Google, Microsoft and DSV join green shipping buyers alliance",
+          "summary": "Google, Microsoft and logistics giant DSV have joined the Zero Emission Maritime Buyers Alliance (ZEMBA). ZEMBA pools demand from cargo owners before tendering for shipping services powered by low- and zero-emission…",
+          "date": "2026-09-29",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/google-microsoft-and-dsv-join-green-shipping-buyers-alliance/",
           "relevant": false
         },
         {
@@ -3395,6 +3395,15 @@
           "region": "SEA"
         },
         {
+          "title": "Fincantieri and PT PAL Indonesia sign agreement for the modernization of ex-Giuseppe Garibaldi",
+          "summary": "Fincantieri, one of the world’s leading shipbuilding groups, and PT PAL Indonesia, the country’s leading state-owned shipbuilder, signed a Memorandum of Understanding (MoU) establishing a framework for cooperation on…",
+          "date": "2026-09-28",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/fincantieri-and-pt-pal-indonesia-sign-agreement-for-the-modernization-of-ex-giuseppe-garibaldi/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Fugro performs ultra-deepwater AUV survey off East Malaysia",
           "summary": "Fugro has completed an ultra-deepwater geohazard site survey offshore East Malaysia, on behalf of Petronas Carigali, the primary upstream...",
           "date": "2026-09-28",
@@ -3463,15 +3472,6 @@
           "date": "2026-09-28",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/philippines-accuses-chinese-vessel-of-spoofing-location-in-northern-waters/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Fincantieri and PT PAL Indonesia sign agreement for the modernization of ex-Giuseppe Garibaldi",
-          "summary": "Fincantieri, one of the world’s leading shipbuilding groups, and PT PAL Indonesia, the country’s leading state-owned shipbuilder, signed a Memorandum of Understanding (MoU) establishing a framework for cooperation on…",
-          "date": "2026-09-28",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/fincantieri-and-pt-pal-indonesia-sign-agreement-for-the-modernization-of-ex-giuseppe-garibaldi/",
           "relevant": false,
           "region": "SEA"
         },
