@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T20:00:54Z",
+  "last_updated": "2026-09-29T21:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3382,6 +3382,15 @@
           "date": "2026-09-29",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/fincantieri-pal-indonesia-kri-sriwijaya/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Sponsored: ADIPEC 2026 set to Welcome record Asian Participation",
+          "summary": "Senior leaders from China, India, Japan, Malaysia and across Asia among more than 1,800 confirmed speakers 353 Asian companies and six country pavilions confirmed across ADIPEC’s 2…",
+          "date": "2026-09-29",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543336-sponsored-adipec-2026-set-to-welcome-record-asian-participation",
           "relevant": false,
           "region": "SEA"
         },
