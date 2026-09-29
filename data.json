@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T17:00:59Z",
+  "last_updated": "2026-09-29T18:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -1977,6 +1977,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Trump Denies Offering Iran Sanctions Relief, Tehran Says it is Ready for Talks",
+          "summary": "US President Donald Trump said he has offered Iran nothing to end the war, rejecting media reports that cited US officials saying he was willing to ease sanctions and release frozen funds for \"concrete\" steps regarding…",
+          "date": "2026-09-29",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/trump-denies-offering-iran-sanctions-relief-tehran-says-it-is-ready-for-talks/",
+          "relevant": false
+        },
+        {
           "title": "Tufton scores 81% uplift on MR charter",
           "summary": "London-listed Tufton Assets has capitalised on the strong tanker market, fixing one of its MR product tankers at $39,000 per day, an 81% increase on the vessel’s existing employment. The Mia Grace has been fixed for 12…",
           "date": "2026-09-29",
@@ -3387,15 +3395,6 @@
           "region": "SEA"
         },
         {
-          "title": "Philippines Accuses Chinese Vessel of Spoofing Location in Northern Waters",
-          "summary": "The Philippine Coast Guard accused a Chinese research vessel on Monday of spoofing its location while loitering off Batanes, the country's northernmost island group near Taiwan, saying its movements were consistent with…",
-          "date": "2026-09-28",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/philippines-accuses-chinese-vessel-of-spoofing-location-in-northern-waters/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Fugro performs ultra-deepwater AUV survey off East Malaysia",
           "summary": "Fugro has completed an ultra-deepwater geohazard site survey offshore East Malaysia, on behalf of Petronas Carigali, the primary upstream...",
           "date": "2026-09-28",
@@ -3455,6 +3454,15 @@
           "date": "2026-09-28",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543292-fugro-completes-ultra-deepwater-survey-for-petronas",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Philippines Accuses Chinese Vessel of Spoofing Location in Northern Waters",
+          "summary": "The Philippine Coast Guard accused a Chinese research vessel on Monday of spoofing its location while loitering off Batanes, the country's northernmost island group near Taiwan, saying its movements were consistent with…",
+          "date": "2026-09-28",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/philippines-accuses-chinese-vessel-of-spoofing-location-in-northern-waters/",
           "relevant": false,
           "region": "SEA"
         },
