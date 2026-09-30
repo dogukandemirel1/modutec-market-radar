@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T20:00:55Z",
+  "last_updated": "2026-09-30T21:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -105,6 +105,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "China Merchants locks in $2.8bn Simandou VLOC contract",
+          "summary": "China Merchants Energy Shipping has locked in a major piece of the emerging Simandou iron ore trade, signing a 25-year transport agreement worth at least $2.8bn. Shanghai-listed CMES said that its dry bulk arm, Hong…",
+          "date": "2026-09-30",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/china-merchants-locks-in-2-8bn-simandou-vloc-contract/",
+          "relevant": false
+        },
+        {
           "title": "BOMESC wins FPSO topsides deal from SBM Offshore",
           "summary": "Chinese offshore engineering contractor BOMESC has secured a contract worth between RMB1.6bn and RMB2.1bn ($225m and $295m) from SBM Offshore for work on an FPSO destined for South America. BOMESC said its wholly owned…",
           "date": "2026-09-30",
@@ -126,6 +134,30 @@
           "date": "2026-09-30",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/amplitude-takes-fid-on-otway-ecsp-development-sanctions-nestor-well-80185",
+          "relevant": false
+        },
+        {
+          "title": "Saronic Awarded Production Contract for Marauder Under U.S. Navy’s MUSV Marketplace",
+          "summary": "Saronic Technologies has been awarded a production Other Transaction (OT) under the U.S. Navy’s Medium Unmanned Surface Vessel (MUSV) Marketplace for Marauder, the company’s dual-use 180-foot autonomous ship. Saronic…",
+          "date": "2026-09-30",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/saronic-awarded-production-contract-for-marauder-under-u-s-navys-musv-marketplace/",
+          "relevant": false
+        },
+        {
+          "title": "HII Wins U.S. Navy Contract for 10 ROMULUS USVs",
+          "summary": "HII was awarded a contract by the U.S. Navy to build 10 ROMULUS unmanned surface vessels (USVs) for the Medium Unmanned Surface Vessel (MUSV) program. HII press release The award marks a major advancement in the U.S…",
+          "date": "2026-09-30",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/hii-wins-u-s-navy-contract-for-10-romulus-usvs/",
+          "relevant": false
+        },
+        {
+          "title": "Boeing Wins U.S. Navy’s F/A-XX Next Generation Fighter Contract",
+          "summary": "The U.S. Navy announced its selection of Boeing to build the next-generation Navy fighter late on September 29th, with the reveal arriving after an over 18-month-long pause in news about the program and its progress…",
+          "date": "2026-09-30",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/boeing-wins-u-s-navys-f-a-xx-next-generation-fighter-contract/",
           "relevant": false
         },
         {
@@ -214,22 +246,6 @@
           "date": "2026-09-30",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543354-amplitude-energy-takes-fid-on-otway-gas-project-sanctions-nestor-well",
-          "relevant": false
-        },
-        {
-          "title": "HII Wins U.S. Navy Contract for 10 ROMULUS USVs",
-          "summary": "HII was awarded a contract by the U.S. Navy to build 10 ROMULUS unmanned surface vessels (USVs) for the Medium Unmanned Surface Vessel (MUSV) program. HII press release The award marks a major advancement in the U.S…",
-          "date": "2026-09-30",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/hii-wins-u-s-navy-contract-for-10-romulus-usvs/",
-          "relevant": false
-        },
-        {
-          "title": "Boeing Wins U.S. Navy’s F/A-XX Next Generation Fighter Contract",
-          "summary": "The U.S. Navy announced its selection of Boeing to build the next-generation Navy fighter late on September 29th, with the reveal arriving after an over 18-month-long pause in news about the program and its progress…",
-          "date": "2026-09-30",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/boeing-wins-u-s-navys-f-a-xx-next-generation-fighter-contract/",
           "relevant": false
         },
         {
@@ -3623,6 +3639,15 @@
           "region": "SEA"
         },
         {
+          "title": "Fincantieri and PT PAL Indonesia sign agreement for the modernization of ex-Giuseppe Garibaldi",
+          "summary": "Fincantieri, one of the world’s leading shipbuilding groups, and PT PAL Indonesia, the country’s leading state-owned shipbuilder, signed a Memorandum of Understanding (MoU) establishing a framework for cooperation on…",
+          "date": "2026-09-28",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/fincantieri-and-pt-pal-indonesia-sign-agreement-for-the-modernization-of-ex-giuseppe-garibaldi/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Fugro performs ultra-deepwater AUV survey off East Malaysia",
           "summary": "Fugro has completed an ultra-deepwater geohazard site survey offshore East Malaysia, on behalf of Petronas Carigali, the primary upstream...",
           "date": "2026-09-28",
@@ -3657,15 +3682,6 @@
           "source_url": "https://www.rigzone.com/news/wire/saudi_arabia_restores_key_pipeline_to_half_its_capacity-28-sep-2026-184718-article/?rss=true",
           "relevant": true,
           "region": "KSA"
-        },
-        {
-          "title": "Fincantieri and PT PAL Indonesia sign agreement for the modernization of ex-Giuseppe Garibaldi",
-          "summary": "Fincantieri, one of the world’s leading shipbuilding groups, and PT PAL Indonesia, the country’s leading state-owned shipbuilder, signed a Memorandum of Understanding (MoU) establishing a framework for cooperation on…",
-          "date": "2026-09-28",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/fincantieri-and-pt-pal-indonesia-sign-agreement-for-the-modernization-of-ex-giuseppe-garibaldi/",
-          "relevant": false,
-          "region": "SEA"
         },
         {
           "title": "PTTEP Approves Bussabong Gas Project",
