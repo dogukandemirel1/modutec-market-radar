@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T19:00:59Z",
+  "last_updated": "2026-09-30T20:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -2136,6 +2136,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "Chartering’s AI revolution brings competitive edge back to people",
+          "summary": "The paradox confronting modern chartering desks is becoming increasingly clear: the more data and technology everybody gets, the harder it becomes to differentiate. That was one of the central themes to emerge from the…",
+          "date": "2026-09-30",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/charterings-ai-revolution-brings-competitive-edge-back-to-people/",
+          "relevant": false
+        },
         {
           "title": "After Fugro, TDI-Brooks selected for surveys offshore Timor-Leste",
           "summary": "Timor-Leste's Ministry of Petroleum and Mineral Resources (MPRM) has selected TDI-Brooks, in partnership with Taka Hydrocore Indonesia (THI), to...",
