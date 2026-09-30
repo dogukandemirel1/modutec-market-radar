@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T15:01:03Z",
+  "last_updated": "2026-09-30T16:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -121,11 +121,27 @@
           "relevant": false
         },
         {
+          "title": "Amplitude takes FID on Otway ECSP development, sanctions Nestor well",
+          "summary": "Amplitude Energy took a final investment decision (FID) on the development phase of its East Coast Supply Project (ECSP) in the offshore Otway Basin, Victoria, and agreed with partner O.G. Energy to drill the Nestor…",
+          "date": "2026-09-30",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/amplitude-takes-fid-on-otway-ecsp-development-sanctions-nestor-well-80185",
+          "relevant": false
+        },
+        {
           "title": "LNG-to-FSRU conversion widening Karpowership-backed Kinetics’ gas infrastructure fleet",
           "summary": "Kinetics is expanding its fleet by converting a vessel into a floating storage and regasification unit (FSRU).",
           "date": "2026-09-30",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/09/30/lng-to-fsru-conversion-widening-karpowership-backed-kinetics-gas-infrastructure-fleet",
+          "relevant": false
+        },
+        {
+          "title": "Cheniere Notches 22-Year LNG Contract to Supply Petrobras",
+          "summary": "Earlier Sempra announced a 20-year agreement to also supply about 0.8 MMtpa of LNG to the Brazilian state-owned company.",
+          "date": "2026-09-30",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/cheniere_notches_22year_lng_contract_to_supply_petrobras-30-sep-2026-184741-article/?rss=true",
           "relevant": false
         },
         {
@@ -369,14 +385,6 @@
           "relevant": false
         },
         {
-          "title": "TotalEnergies, partners approve full-field development of Absheron gas field",
-          "summary": "TotalEnergies and its partners took a final investment decision to develop the Absheron gas and condensate field in the Caspian Sea, about 100 km southeast of Baku. TotalEnergies operates the field with a 35% interest…",
-          "date": "2026-09-28",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/totalenergies-partners-approve-full-field-development-of-absheron-gas-field-80138",
-          "relevant": false
-        },
-        {
           "title": "Southeast Asian oil field development clears key environmental hurdle to move toward FID",
           "summary": "Finder Energy is edging closer to a final investment decision (FID) for the development of its offshore oil field in Timor-Leste.",
           "date": "2026-09-28",
@@ -398,6 +406,14 @@
           "date": "2026-09-28",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/uk-confirms-british-shipyards-to-build-floating-naval-docks/",
+          "relevant": false
+        },
+        {
+          "title": "TotalEnergies, partners approve full-field development of Absheron gas field",
+          "summary": "TotalEnergies and its partners took a final investment decision to develop the Absheron gas and condensate field in the Caspian Sea, about 100 km southeast of Baku. TotalEnergies operates the field with a 35% interest…",
+          "date": "2026-09-28",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/totalenergies-partners-approve-full-field-development-of-absheron-gas-field-80138",
           "relevant": false
         },
         {
