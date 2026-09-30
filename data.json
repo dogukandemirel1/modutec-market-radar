@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T10:26:18Z",
+  "last_updated": "2026-09-30T11:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -105,6 +105,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Precious returns to Taizhou Sanfu with $142m ultramax quartet",
+          "summary": "Thailand’s Precious Shipping has returned to China’s Taizhou Sanfu Ship Engineering for another four ultramax newbuilds in a deal worth $141.8m. The Khalid Hashim-led owner has signed contracts for four 64,500 dwt…",
+          "date": "2026-09-30",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/precious-returns-to-taizhou-sanfu-with-142m-ultramax-quartet/",
+          "relevant": false
+        },
+        {
           "title": "Boeing Wins U.S. Navy’s F/A-XX Next Generation Fighter Contract",
           "summary": "The U.S. Navy announced its selection of Boeing to build the next-generation Navy fighter late on September 29th, with the reveal arriving after an over 18-month-long pause in news about the program and its progress…",
           "date": "2026-09-30",
@@ -126,6 +134,14 @@
           "date": "2026-09-30",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/slb-onesubsea-rovuma-lng-contract/",
+          "relevant": false
+        },
+        {
+          "title": "Solstad Maritime Secures APAC Drilling Support Work for AHTS Pair",
+          "summary": "Solstad Maritime has been awarded contracts for two anchor handling tug supply vessels (AHTS) for drilling support work in the Asia-Pacific region.The combined firm…",
+          "date": "2026-09-30",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543358-solstad-maritime-secures-apac-drilling-support-work-for-ahts-pair",
           "relevant": false
         },
         {
