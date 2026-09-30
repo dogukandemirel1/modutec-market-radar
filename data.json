@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T21:00:59Z",
+  "last_updated": "2026-09-30T22:00:54Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -166,6 +166,14 @@
           "date": "2026-09-30",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/09/30/lng-to-fsru-conversion-widening-karpowership-backed-kinetics-gas-infrastructure-fleet",
+          "relevant": false
+        },
+        {
+          "title": "Iraq Deepens October Crude Price Discounts",
+          "summary": "Iraq's state oil marketer offered buyers contractual crude supplies for October at discounts of as much as $37 a barrel to regional benchmarks, according to a document obtained by Bloomberg.",
+          "date": "2026-09-30",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/iraq_deepens_october_crude_price_discounts-30-sep-2026-184740-article/?rss=true",
           "relevant": false
         },
         {
@@ -2153,6 +2161,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Norden: The capital shift from tankers to dry cargo",
+          "summary": "Jan Rindbo says today’s fragmented shipping markets demand flexibility, with tanker exposure being reduced as dry bulk offers a more attractive balance of risk and reward. Shipping’s fragmented markets are moving…",
+          "date": "2026-09-30",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/norden-the-capital-shift-from-tankers-to-dry-cargo/",
+          "relevant": false
+        },
+        {
           "title": "Chartering’s AI revolution brings competitive edge back to people",
           "summary": "The paradox confronting modern chartering desks is becoming increasingly clear: the more data and technology everybody gets, the harder it becomes to differentiate. That was one of the central themes to emerge from the…",
           "date": "2026-09-30",
@@ -2174,14 +2190,6 @@
           "date": "2026-09-30",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/09/30/the-25x-gamble-nuclear-powered-lng-carriers-could-upend-maritime-shipping",
-          "relevant": false
-        },
-        {
-          "title": "Trump Denies Offering Iran Sanctions Relief, Tehran Says it is Ready for Talks",
-          "summary": "US President Donald Trump said he has offered Iran nothing to end the war, rejecting media reports that cited US officials saying he was willing to ease sanctions and release frozen funds for \"concrete\" steps regarding…",
-          "date": "2026-09-29",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/trump-denies-offering-iran-sanctions-relief-tehran-says-it-is-ready-for-talks/",
           "relevant": false
         },
         {
@@ -2222,6 +2230,14 @@
           "date": "2026-09-29",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543335-tdi-brooks-selected-for-geotechnical-survey-offshore-timor-leste",
+          "relevant": false
+        },
+        {
+          "title": "Trump Denies Offering Iran Sanctions Relief, Tehran Says it is Ready for Talks",
+          "summary": "US President Donald Trump said he has offered Iran nothing to end the war, rejecting media reports that cited US officials saying he was willing to ease sanctions and release frozen funds for \"concrete\" steps regarding…",
+          "date": "2026-09-29",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/trump-denies-offering-iran-sanctions-relief-tehran-says-it-is-ready-for-talks/",
           "relevant": false
         },
         {
