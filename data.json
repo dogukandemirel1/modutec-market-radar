@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T23:00:52Z",
+  "last_updated": "2026-09-30T00:00:54Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -104,6 +104,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Saronic Wins Navy Production Contract for 180-Foot Autonomous Surface Vessel",
+          "summary": "Saronic Technologies has won a U.S. Navy production contract for its 180-foot Marauder autonomous surface vessel after completing an at-sea evaluation that put the ship through more than 140 scenarios over eight...",
+          "date": "2026-09-29",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/saronic-wins-navy-production-contract-for-180-foot-autonomous-surface-vessel/",
+          "relevant": false
+        },
         {
           "title": "Great Eastern adds newbuild suezmax to fleet renewal drive",
           "summary": "India’s Great Eastern Shipping has contracted to acquire a 157,000 dwt newbuilding suezmax, adding a yard-built ship to a fleet renewal drive that has so far been dominated by secondhand transactions. The Mumbai-listed…",
