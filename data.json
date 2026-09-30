@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T06:01:00Z",
+  "last_updated": "2026-09-30T07:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -105,35 +105,19 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Boeing Wins U.S. Navy’s F/A-XX Next Generation Fighter Contract",
+          "summary": "The U.S. Navy announced its selection of Boeing to build the next-generation Navy fighter late on September 29th, with the reveal arriving after an over 18-month-long pause in news about the program and its progress…",
+          "date": "2026-09-30",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/boeing-wins-u-s-navys-f-a-xx-next-generation-fighter-contract/",
+          "relevant": false
+        },
+        {
           "title": "Saronic Wins Navy Production Contract for 180-Foot Autonomous Surface Vessel",
           "summary": "Saronic Technologies has won a U.S. Navy production contract for its 180-foot Marauder autonomous surface vessel after completing an at-sea evaluation that put the ship through more than 140 scenarios over eight...",
           "date": "2026-09-29",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/saronic-wins-navy-production-contract-for-180-foot-autonomous-surface-vessel/",
-          "relevant": false
-        },
-        {
-          "title": "Great Eastern adds newbuild suezmax to fleet renewal drive",
-          "summary": "India’s Great Eastern Shipping has contracted to acquire a 157,000 dwt newbuilding suezmax, adding a yard-built ship to a fleet renewal drive that has so far been dominated by secondhand transactions. The Mumbai-listed…",
-          "date": "2026-09-29",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/great-eastern-adds-newbuild-suezmax-to-fleet-renewal-drive/",
-          "relevant": false
-        },
-        {
-          "title": "Hoa Phat goes local for latest bulker newbuild",
-          "summary": "Vietnamese steelmaker Hoa Phat has turned to a domestic yard for its latest fleet expansion, contracting Nam Trieu Shipbuilding to build an ultramax bulk carrier. Hoa Phat Shipping signed the contract for the 65,000 dwt…",
-          "date": "2026-09-29",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/hoa-phat-goes-local-for-latest-bulker-newbuild/",
-          "relevant": false
-        },
-        {
-          "title": "KKB unit bags Shell deal for Malaysian offshore developments",
-          "summary": "Malaysian fabricator OceanMight has secured an engineering, procurement, and construction contract from Shell for fixed offshore structures linked to several field developments off Malaysia. Parent company KKB…",
-          "date": "2026-09-29",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/kkb-unit-bags-shell-deal-for-malaysian-offshore-developments/",
           "relevant": false
         },
         {
@@ -214,6 +198,30 @@
           "date": "2026-09-29",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543318-shell-takes-fid-to-double-lng-canada-capacity",
+          "relevant": false
+        },
+        {
+          "title": "Great Eastern adds newbuild suezmax to fleet renewal drive",
+          "summary": "India’s Great Eastern Shipping has contracted to acquire a 157,000 dwt newbuilding suezmax, adding a yard-built ship to a fleet renewal drive that has so far been dominated by secondhand transactions. The Mumbai-listed…",
+          "date": "2026-09-29",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/great-eastern-adds-newbuild-suezmax-to-fleet-renewal-drive/",
+          "relevant": false
+        },
+        {
+          "title": "Hoa Phat goes local for latest bulker newbuild",
+          "summary": "Vietnamese steelmaker Hoa Phat has turned to a domestic yard for its latest fleet expansion, contracting Nam Trieu Shipbuilding to build an ultramax bulk carrier. Hoa Phat Shipping signed the contract for the 65,000 dwt…",
+          "date": "2026-09-29",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/hoa-phat-goes-local-for-latest-bulker-newbuild/",
+          "relevant": false
+        },
+        {
+          "title": "KKB unit bags Shell deal for Malaysian offshore developments",
+          "summary": "Malaysian fabricator OceanMight has secured an engineering, procurement, and construction contract from Shell for fixed offshore structures linked to several field developments off Malaysia. Parent company KKB…",
+          "date": "2026-09-29",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/kkb-unit-bags-shell-deal-for-malaysian-offshore-developments/",
           "relevant": false
         },
         {
