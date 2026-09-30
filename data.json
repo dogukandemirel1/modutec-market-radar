@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T02:00:55Z",
+  "last_updated": "2026-09-30T03:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -113,30 +113,6 @@
           "relevant": false
         },
         {
-          "title": "Great Eastern adds newbuild suezmax to fleet renewal drive",
-          "summary": "India’s Great Eastern Shipping has contracted to acquire a 157,000 dwt newbuilding suezmax, adding a yard-built ship to a fleet renewal drive that has so far been dominated by secondhand transactions. The Mumbai-listed…",
-          "date": "2026-09-29",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/great-eastern-adds-newbuild-suezmax-to-fleet-renewal-drive/",
-          "relevant": false
-        },
-        {
-          "title": "Hoa Phat goes local for latest bulker newbuild",
-          "summary": "Vietnamese steelmaker Hoa Phat has turned to a domestic yard for its latest fleet expansion, contracting Nam Trieu Shipbuilding to build an ultramax bulk carrier. Hoa Phat Shipping signed the contract for the 65,000 dwt…",
-          "date": "2026-09-29",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/hoa-phat-goes-local-for-latest-bulker-newbuild/",
-          "relevant": false
-        },
-        {
-          "title": "KKB unit bags Shell deal for Malaysian offshore developments",
-          "summary": "Malaysian fabricator OceanMight has secured an engineering, procurement, and construction contract from Shell for fixed offshore structures linked to several field developments off Malaysia. Parent company KKB…",
-          "date": "2026-09-29",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/kkb-unit-bags-shell-deal-for-malaysian-offshore-developments/",
-          "relevant": false
-        },
-        {
           "title": "MPD integration into rig operating system reduces drilling contractor reliance on OEMs",
           "summary": "By integrating automated managed pressure drilling (MPD) controls into its SmartROS rig operating system, Nabors is allowing drilling contractors to take greater ownership of MPD performance, rather than relying solely…",
           "date": "2026-09-29",
@@ -214,6 +190,30 @@
           "date": "2026-09-29",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543318-shell-takes-fid-to-double-lng-canada-capacity",
+          "relevant": false
+        },
+        {
+          "title": "Great Eastern adds newbuild suezmax to fleet renewal drive",
+          "summary": "India’s Great Eastern Shipping has contracted to acquire a 157,000 dwt newbuilding suezmax, adding a yard-built ship to a fleet renewal drive that has so far been dominated by secondhand transactions. The Mumbai-listed…",
+          "date": "2026-09-29",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/great-eastern-adds-newbuild-suezmax-to-fleet-renewal-drive/",
+          "relevant": false
+        },
+        {
+          "title": "Hoa Phat goes local for latest bulker newbuild",
+          "summary": "Vietnamese steelmaker Hoa Phat has turned to a domestic yard for its latest fleet expansion, contracting Nam Trieu Shipbuilding to build an ultramax bulk carrier. Hoa Phat Shipping signed the contract for the 65,000 dwt…",
+          "date": "2026-09-29",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/hoa-phat-goes-local-for-latest-bulker-newbuild/",
+          "relevant": false
+        },
+        {
+          "title": "KKB unit bags Shell deal for Malaysian offshore developments",
+          "summary": "Malaysian fabricator OceanMight has secured an engineering, procurement, and construction contract from Shell for fixed offshore structures linked to several field developments off Malaysia. Parent company KKB…",
+          "date": "2026-09-29",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/kkb-unit-bags-shell-deal-for-malaysian-offshore-developments/",
           "relevant": false
         },
         {
@@ -1993,14 +1993,6 @@
           "relevant": false
         },
         {
-          "title": "Tufton scores 81% uplift on MR charter",
-          "summary": "London-listed Tufton Assets has capitalised on the strong tanker market, fixing one of its MR product tankers at $39,000 per day, an 81% increase on the vessel’s existing employment. The Mia Grace has been fixed for 12…",
-          "date": "2026-09-29",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/tufton-scores-81-uplift-on-mr-charter/",
-          "relevant": false
-        },
-        {
           "title": "Shell bets big on Canada with go-ahead for LNG project expansion, doubling capacity to 28 mtpa",
           "summary": "With this expansion move, production capacity at Shell's facility is set to jump to 28 million tons per annum (mtpa) by the early 2030s.",
           "date": "2026-09-29",
@@ -2046,6 +2038,14 @@
           "date": "2026-09-29",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543328-hammerfest-lng-probe-highlights-working-environment-challenges",
+          "relevant": false
+        },
+        {
+          "title": "Tufton scores 81% uplift on MR charter",
+          "summary": "London-listed Tufton Assets has capitalised on the strong tanker market, fixing one of its MR product tankers at $39,000 per day, an 81% increase on the vessel’s existing employment. The Mia Grace has been fixed for 12…",
+          "date": "2026-09-29",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/tufton-scores-81-uplift-on-mr-charter/",
           "relevant": false
         },
         {
@@ -2849,14 +2849,6 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
-          "title": "Mermaid teams with Marine Platforms for Nigeria subsea push",
-          "summary": "Thailand’s Mermaid Maritime has teamed up with Nigerian offshore services player Marine Platforms to establish a local subsea joint venture targeting work with TotalEnergies and other oil and gas majors. The…",
-          "date": "2026-09-29",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/mermaid-teams-with-marine-platforms-for-nigeria-subsea-push/",
-          "relevant": false
-        },
-        {
           "title": "New JV set up in Nigeria for work with TotalEnergies and other oil & gas majors",
           "summary": "Thailand-headquartered subsea and offshore drilling services company Mermaid Maritime Public Company Limited has established a joint venture (JV)...",
           "date": "2026-09-29",
@@ -2870,6 +2862,14 @@
           "date": "2026-09-29",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/socar_expands_international_partnerships-29-sep-2026-184724-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Mermaid teams with Marine Platforms for Nigeria subsea push",
+          "summary": "Thailand’s Mermaid Maritime has teamed up with Nigerian offshore services player Marine Platforms to establish a local subsea joint venture targeting work with TotalEnergies and other oil and gas majors. The…",
+          "date": "2026-09-29",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/mermaid-teams-with-marine-platforms-for-nigeria-subsea-push/",
           "relevant": false
         },
         {
