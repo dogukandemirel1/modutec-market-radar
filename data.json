@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T08:00:58Z",
+  "last_updated": "2026-09-30T09:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -104,6 +104,22 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Solstad lands APAC drilling support work for two AHTS vessels",
+          "summary": "Norwegian offshore vessel owner Solstad Maritime has been awarded firm contracts for two of its anchor-handling tug supply vessels by an unnamed client. The contracts were awarded to the 2009-built Normand Scorpion and…",
+          "date": "2026-09-30",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/solstad-lands-apac-drilling-support-work-for-two-ahts-vessels/",
+          "relevant": false
+        },
+        {
+          "title": "Arabian Drilling scores four-rig offshore deal",
+          "summary": "Arabian Drilling, Saudi Arabia’s largest drilling contractor by fleet size, has signed four-year contracts with Khafji Joint Operations (KJO) to provide four high-specification offshore jackup drilling rigs. The…",
+          "date": "2026-09-30",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/arabian-drilling-scores-four-rig-offshore-deal/",
+          "relevant": true
+        },
         {
           "title": "Boeing Wins U.S. Navy’s F/A-XX Next Generation Fighter Contract",
           "summary": "The U.S. Navy announced its selection of Boeing to build the next-generation Navy fighter late on September 29th, with the reveal arriving after an over 18-month-long pause in news about the program and its progress…",
