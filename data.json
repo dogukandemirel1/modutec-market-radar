@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T05:00:52Z",
+  "last_updated": "2026-09-30T06:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -2849,14 +2849,6 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
-          "title": "Mermaid teams with Marine Platforms for Nigeria subsea push",
-          "summary": "Thailand’s Mermaid Maritime has teamed up with Nigerian offshore services player Marine Platforms to establish a local subsea joint venture targeting work with TotalEnergies and other oil and gas majors. The…",
-          "date": "2026-09-29",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/mermaid-teams-with-marine-platforms-for-nigeria-subsea-push/",
-          "relevant": false
-        },
-        {
           "title": "New JV set up in Nigeria for work with TotalEnergies and other oil & gas majors",
           "summary": "Thailand-headquartered subsea and offshore drilling services company Mermaid Maritime Public Company Limited has established a joint venture (JV)...",
           "date": "2026-09-29",
@@ -2870,6 +2862,14 @@
           "date": "2026-09-29",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/socar_expands_international_partnerships-29-sep-2026-184724-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Mermaid teams with Marine Platforms for Nigeria subsea push",
+          "summary": "Thailand’s Mermaid Maritime has teamed up with Nigerian offshore services player Marine Platforms to establish a local subsea joint venture targeting work with TotalEnergies and other oil and gas majors. The…",
+          "date": "2026-09-29",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/mermaid-teams-with-marine-platforms-for-nigeria-subsea-push/",
           "relevant": false
         },
         {
