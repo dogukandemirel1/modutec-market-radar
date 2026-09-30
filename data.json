@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T14:00:59Z",
+  "last_updated": "2026-09-30T15:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -233,7 +233,7 @@
           "relevant": false
         },
         {
-          "title": "MPD integration into rig operating system reduces drilling contractor reliance on OEMs",
+          "title": "MPD integration into rig operating system reduces contractor reliance on OEMs",
           "summary": "By integrating automated managed pressure drilling (MPD) controls into its SmartROS rig operating system, Nabors is allowing drilling contractors to take greater ownership of MPD performance, rather than relying solely…",
           "date": "2026-09-29",
           "source_name": "Drilling Contractor",
@@ -241,8 +241,8 @@
           "relevant": false
         },
         {
-          "title": "Arabian Drilling wins four-jackup offshore contract from KJO",
-          "summary": "Arabian Drilling signed a four-year contract with Khafji Joint Operations (KJO) on 28 September 2026 to provide four jackup rigs for offshore drilling. The award is worth approximately SAR 2 billion and is the largest…",
+          "title": "Arabian Drilling wins four-jackup contract from KJO",
+          "summary": "Arabian Drilling signed a four-year contract with Khafji Joint Operations (KJO) on 28 September 2026 to provide four jackup rigs. Arabian Drilling says the contract is valued at approximately SAR 2 billion and is the…",
           "date": "2026-09-29",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/arabian-drilling-wins-four-jackup-offshore-contract-from-kjo-80162",
@@ -3600,6 +3600,15 @@
           "region": "SEA"
         },
         {
+          "title": "TKMS and EDGE sign MoU to explore underwater security capabilities",
+          "summary": "TKMS and UAE defence group EDGE have signed a memorandum of understanding (MoU) to explore the joint development of underwater surveillance and protection capabilities. The post TKMS and EDGE sign MoU to explore…",
+          "date": "2026-09-28",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/tkms-edge-underwater-capabilities/",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
           "title": "Eni Wins New Block offshore Indonesia",
           "summary": "'The acreage is adjacent to Eni's existing operated and participated blocks and close to the future North Hub developments'.",
           "date": "2026-09-28",
@@ -3616,15 +3625,6 @@
           "source_url": "https://www.rigzone.com/news/wire/saudi_arabia_restores_key_pipeline_to_half_its_capacity-28-sep-2026-184718-article/?rss=true",
           "relevant": true,
           "region": "KSA"
-        },
-        {
-          "title": "TKMS and EDGE sign MoU to explore underwater security capabilities",
-          "summary": "TKMS and UAE defence group EDGE have signed a memorandum of understanding (MoU) to explore the joint development of underwater surveillance and protection capabilities. The post TKMS and EDGE sign MoU to explore…",
-          "date": "2026-09-28",
-          "source_name": "Naval Technology",
-          "source_url": "https://www.naval-technology.com/news/tkms-edge-underwater-capabilities/",
-          "relevant": true,
-          "region": "UAE"
         },
         {
           "title": "Fincantieri and PT PAL Indonesia sign agreement for the modernization of ex-Giuseppe Garibaldi",
