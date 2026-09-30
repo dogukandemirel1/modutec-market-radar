@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T10:00:55Z",
+  "last_updated": "2026-09-30T10:26:18Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -113,11 +113,27 @@
           "relevant": false
         },
         {
+          "title": "Fluor-JGC JV receives NTP for LNG Canada phase two expansion",
+          "summary": "Fluor and JGC’s joint venture (JV) has received notice to proceed (NTP) on LNG Canada’s Phase 2 expansion after the project partners made a final investment decision (FID) on the expansion programme.",
+          "date": "2026-09-30",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/fluor-jgc-jv-ntp-lng-canada-phase-2/",
+          "relevant": false
+        },
+        {
           "title": "SLB OneSubsea wins Rovuma LNG subsea systems contract",
           "summary": "SLB OneSubsea has won a contract to provide subsea production systems for the first phase of the Rovuma LNG project in Mozambique’s offshore Rovuma Basin.",
           "date": "2026-09-30",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/slb-onesubsea-rovuma-lng-contract/",
+          "relevant": false
+        },
+        {
+          "title": "Aker Solutions Widens Work Scope for BP into Central North Sea",
+          "summary": "Aker Solutions has been awarded a three-year frame agreement to provide engineering and integrity services across BP's North Sea assets, expanding its existing work for the energy company…",
+          "date": "2026-09-30",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543357-aker-solutions-widens-work-scope-for-bp-into-central-north-sea",
           "relevant": false
         },
         {
