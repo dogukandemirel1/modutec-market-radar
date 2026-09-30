@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T12:01:00Z",
+  "last_updated": "2026-09-30T13:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -105,6 +105,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "BOMESC wins FPSO topsides deal from SBM Offshore",
+          "summary": "Chinese offshore engineering contractor BOMESC has secured a contract worth between RMB1.6bn and RMB2.1bn ($225m and $295m) from SBM Offshore for work on an FPSO destined for South America. BOMESC said its wholly owned…",
+          "date": "2026-09-30",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/bomesc-wins-fpso-topsides-deal-from-sbm-offshore/",
+          "relevant": false
+        },
+        {
           "title": "Precious returns to Taizhou Sanfu with $142m ultramax quartet",
           "summary": "Thailand’s Precious Shipping has returned to China’s Taizhou Sanfu Ship Engineering for another four ultramax newbuilds in a deal worth $141.8m. The Khalid Hashim-led owner has signed contracts for four 64,500 dwt…",
           "date": "2026-09-30",
@@ -113,27 +121,19 @@
           "relevant": false
         },
         {
-          "title": "HII Wins U.S. Navy Contract for 10 ROMULUS USVs",
-          "summary": "HII was awarded a contract by the U.S. Navy to build 10 ROMULUS unmanned surface vessels (USVs) for the Medium Unmanned Surface Vessel (MUSV) program. HII press release The award marks a major advancement in the U.S…",
-          "date": "2026-09-30",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/hii-wins-u-s-navy-contract-for-10-romulus-usvs/",
-          "relevant": false
-        },
-        {
-          "title": "Boeing Wins U.S. Navy’s F/A-XX Next Generation Fighter Contract",
-          "summary": "The U.S. Navy announced its selection of Boeing to build the next-generation Navy fighter late on September 29th, with the reveal arriving after an over 18-month-long pause in news about the program and its progress…",
-          "date": "2026-09-30",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/boeing-wins-u-s-navys-f-a-xx-next-generation-fighter-contract/",
-          "relevant": false
-        },
-        {
           "title": "LNG-to-FSRU conversion widening Karpowership-backed Kinetics’ gas infrastructure fleet",
           "summary": "Kinetics is expanding its fleet by converting a vessel into a floating storage and regasification unit (FSRU).",
           "date": "2026-09-30",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/09/30/lng-to-fsru-conversion-widening-karpowership-backed-kinetics-gas-infrastructure-fleet",
+          "relevant": false
+        },
+        {
+          "title": "Leviathan's Israeli Owners Cancel $6.7B Domestic Supply Deal",
+          "summary": "Chevron's local partners in Israel's Leviathan gas and condensate field binned a potential contract to supply natural gas from the Mediterranean project to two planned domestic power plants.",
+          "date": "2026-09-30",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/leviathans_israeli_owners_cancel_67b_domestic_supply_deal-30-sep-2026-184735-article/?rss=true",
           "relevant": false
         },
         {
@@ -182,6 +182,22 @@
           "date": "2026-09-30",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543354-amplitude-energy-takes-fid-on-otway-gas-project-sanctions-nestor-well",
+          "relevant": false
+        },
+        {
+          "title": "HII Wins U.S. Navy Contract for 10 ROMULUS USVs",
+          "summary": "HII was awarded a contract by the U.S. Navy to build 10 ROMULUS unmanned surface vessels (USVs) for the Medium Unmanned Surface Vessel (MUSV) program. HII press release The award marks a major advancement in the U.S…",
+          "date": "2026-09-30",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/hii-wins-u-s-navy-contract-for-10-romulus-usvs/",
+          "relevant": false
+        },
+        {
+          "title": "Boeing Wins U.S. Navy’s F/A-XX Next Generation Fighter Contract",
+          "summary": "The U.S. Navy announced its selection of Boeing to build the next-generation Navy fighter late on September 29th, with the reveal arriving after an over 18-month-long pause in news about the program and its progress…",
+          "date": "2026-09-30",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/boeing-wins-u-s-navys-f-a-xx-next-generation-fighter-contract/",
           "relevant": false
         },
         {
@@ -2969,6 +2985,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Vår Energi Completes Acquisition of Pandion Energy’s Assets",
+          "summary": "Vår Energi has completed the acquisition of selected assets and licenses from Pandion Energy, adding stakes in the producing Nova field, the Ofelia development and the Sierra Solberg discovery…",
+          "date": "2026-09-30",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543363-v-r-energi-completes-acquisition-of-pandion-energy-s-assets",
+          "relevant": false
+        },
+        {
           "title": "New JV set up in Nigeria for work with TotalEnergies and other oil & gas majors",
           "summary": "Thailand-headquartered subsea and offshore drilling services company Mermaid Maritime Public Company Limited has established a joint venture (JV)...",
           "date": "2026-09-29",
@@ -3559,15 +3583,6 @@
           "region": "SEA"
         },
         {
-          "title": "Fincantieri and PT PAL Indonesia sign agreement for the modernization of ex-Giuseppe Garibaldi",
-          "summary": "Fincantieri, one of the world’s leading shipbuilding groups, and PT PAL Indonesia, the country’s leading state-owned shipbuilder, signed a Memorandum of Understanding (MoU) establishing a framework for cooperation on…",
-          "date": "2026-09-28",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/fincantieri-and-pt-pal-indonesia-sign-agreement-for-the-modernization-of-ex-giuseppe-garibaldi/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Fugro performs ultra-deepwater AUV survey off East Malaysia",
           "summary": "Fugro has completed an ultra-deepwater geohazard site survey offshore East Malaysia, on behalf of Petronas Carigali, the primary upstream...",
           "date": "2026-09-28",
@@ -3595,6 +3610,24 @@
           "region": "KSA"
         },
         {
+          "title": "TKMS and EDGE sign MoU to explore underwater security capabilities",
+          "summary": "TKMS and UAE defence group EDGE have signed a memorandum of understanding (MoU) to explore the joint development of underwater surveillance and protection capabilities. The post TKMS and EDGE sign MoU to explore…",
+          "date": "2026-09-28",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/tkms-edge-underwater-capabilities/",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
+          "title": "Fincantieri and PT PAL Indonesia sign agreement for the modernization of ex-Giuseppe Garibaldi",
+          "summary": "Fincantieri, one of the world’s leading shipbuilding groups, and PT PAL Indonesia, the country’s leading state-owned shipbuilder, signed a Memorandum of Understanding (MoU) establishing a framework for cooperation on…",
+          "date": "2026-09-28",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/fincantieri-and-pt-pal-indonesia-sign-agreement-for-the-modernization-of-ex-giuseppe-garibaldi/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "PTTEP Approves Bussabong Gas Project",
           "summary": "State-owned PTTEP expects to start production 2028 to help meet Thailand's growing energy demand.",
           "date": "2026-09-28",
@@ -3611,15 +3644,6 @@
           "source_url": "https://www.rigzone.com/news/chevron_exxonmobil_agree_potential_crude_supply_to_vietnam-28-sep-2026-184715-article/?rss=true",
           "relevant": false,
           "region": "SEA"
-        },
-        {
-          "title": "TKMS and EDGE sign MoU to explore underwater security capabilities",
-          "summary": "TKMS and UAE defence group EDGE have signed a memorandum of understanding (MoU) to explore the joint development of underwater surveillance and protection capabilities. The post TKMS and EDGE sign MoU to explore…",
-          "date": "2026-09-28",
-          "source_name": "Naval Technology",
-          "source_url": "https://www.naval-technology.com/news/tkms-edge-underwater-capabilities/",
-          "relevant": true,
-          "region": "UAE"
         },
         {
           "title": "Fugro Completes Ultra-Deepwater Survey for Petronas",
