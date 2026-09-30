@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T07:00:57Z",
+  "last_updated": "2026-09-30T08:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -113,6 +113,14 @@
           "relevant": false
         },
         {
+          "title": "SLB OneSubsea wins Rovuma LNG subsea systems contract",
+          "summary": "SLB OneSubsea has won a contract to provide subsea production systems for the first phase of the Rovuma LNG project in Mozambique’s offshore Rovuma Basin.",
+          "date": "2026-09-30",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/slb-onesubsea-rovuma-lng-contract/",
+          "relevant": false
+        },
+        {
           "title": "Saronic Wins Navy Production Contract for 180-Foot Autonomous Surface Vessel",
           "summary": "Saronic Technologies has won a U.S. Navy production contract for its 180-foot Marauder autonomous surface vessel after completing an at-sea evaluation that put the ship through more than 140 scenarios over eight...",
           "date": "2026-09-29",
@@ -158,6 +166,14 @@
           "date": "2026-09-29",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/09/29/tekmar-nets-euro6-million-contract-extension-in-offshore-wind",
+          "relevant": false
+        },
+        {
+          "title": "Shell advances LNG Canada phase two project with FID",
+          "summary": "Shell Canada Energy, an affiliate of Shell, has taken a FID on Phase 2 of the LNG Canada project in Kitimat, British Columbia.",
+          "date": "2026-09-29",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/shell-lng-canada-phase-2-project-fid/",
           "relevant": false
         },
         {
@@ -273,19 +289,19 @@
           "relevant": false
         },
         {
-          "title": "TotalEnergies and partners approve Absheron gas project FID",
-          "summary": "TotalEnergies and its partners State Oil Company of the Republic of Azerbaijan (SOCAR) and XRG have made a final investment decision (FID) to move ahead with the full field development of the Absheron gas and condensate…",
-          "date": "2026-09-28",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/totalenergies-partners-absheron-gas-fid/",
-          "relevant": false
-        },
-        {
           "title": "UK confirms British shipyards to build floating naval docks",
           "summary": "The government has confirmed that new floating docks for the Royal Navy’s submarine base at Faslane will be constructed by British shipyards. The post UK confirms British shipyards to build floating naval docks appeared…",
           "date": "2026-09-28",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/uk-confirms-british-shipyards-to-build-floating-naval-docks/",
+          "relevant": false
+        },
+        {
+          "title": "TotalEnergies and partners approve Absheron gas project FID",
+          "summary": "TotalEnergies and its partners State Oil Company of the Republic of Azerbaijan (SOCAR) and XRG have made a final investment decision (FID) to move ahead with the full field development of the Absheron gas and condensate…",
+          "date": "2026-09-28",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/totalenergies-partners-absheron-gas-fid/",
           "relevant": false
         },
         {
@@ -1993,19 +2009,19 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "The 2.5X gamble: Nuclear-powered LNG carriers could upend maritime shipping",
+          "summary": "A new study shows nuclear ship propulsion can cut costs and regulatory risks and examines the possibility of treating reactors as reusable assets.",
+          "date": "2026-09-30",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/09/30/the-25x-gamble-nuclear-powered-lng-carriers-could-upend-maritime-shipping",
+          "relevant": false
+        },
+        {
           "title": "Trump Denies Offering Iran Sanctions Relief, Tehran Says it is Ready for Talks",
           "summary": "US President Donald Trump said he has offered Iran nothing to end the war, rejecting media reports that cited US officials saying he was willing to ease sanctions and release frozen funds for \"concrete\" steps regarding…",
           "date": "2026-09-29",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/trump-denies-offering-iran-sanctions-relief-tehran-says-it-is-ready-for-talks/",
-          "relevant": false
-        },
-        {
-          "title": "Tufton scores 81% uplift on MR charter",
-          "summary": "London-listed Tufton Assets has capitalised on the strong tanker market, fixing one of its MR product tankers at $39,000 per day, an 81% increase on the vessel’s existing employment. The Mia Grace has been fixed for 12…",
-          "date": "2026-09-29",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/tufton-scores-81-uplift-on-mr-charter/",
           "relevant": false
         },
         {
@@ -2054,6 +2070,14 @@
           "date": "2026-09-29",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543328-hammerfest-lng-probe-highlights-working-environment-challenges",
+          "relevant": false
+        },
+        {
+          "title": "Tufton scores 81% uplift on MR charter",
+          "summary": "London-listed Tufton Assets has capitalised on the strong tanker market, fixing one of its MR product tankers at $39,000 per day, an 81% increase on the vessel’s existing employment. The Mia Grace has been fixed for 12…",
+          "date": "2026-09-29",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/tufton-scores-81-uplift-on-mr-charter/",
           "relevant": false
         },
         {
