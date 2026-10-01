@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T15:01:04Z",
+  "last_updated": "2026-10-01T16:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -217,30 +217,6 @@
           "relevant": false
         },
         {
-          "title": "Saronic Awarded Production Contract for Marauder Under U.S. Navy’s MUSV Marketplace",
-          "summary": "Saronic Technologies has been awarded a production Other Transaction (OT) under the U.S. Navy’s Medium Unmanned Surface Vessel (MUSV) Marketplace for Marauder, the company’s dual-use 180-foot autonomous ship. Saronic…",
-          "date": "2026-09-30",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/saronic-awarded-production-contract-for-marauder-under-u-s-navys-musv-marketplace/",
-          "relevant": false
-        },
-        {
-          "title": "HII Wins U.S. Navy Contract for 10 ROMULUS USVs",
-          "summary": "HII was awarded a contract by the U.S. Navy to build 10 ROMULUS unmanned surface vessels (USVs) for the Medium Unmanned Surface Vessel (MUSV) program. HII press release The award marks a major advancement in the U.S…",
-          "date": "2026-09-30",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/hii-wins-u-s-navy-contract-for-10-romulus-usvs/",
-          "relevant": false
-        },
-        {
-          "title": "Boeing Wins U.S. Navy’s F/A-XX Next Generation Fighter Contract",
-          "summary": "The U.S. Navy announced its selection of Boeing to build the next-generation Navy fighter late on September 29th, with the reveal arriving after an over 18-month-long pause in news about the program and its progress…",
-          "date": "2026-09-30",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/boeing-wins-u-s-navys-f-a-xx-next-generation-fighter-contract/",
-          "relevant": false
-        },
-        {
           "title": "LNG-to-FSRU conversion widening Karpowership-backed Kinetics’ gas infrastructure fleet",
           "summary": "Kinetics is expanding its fleet by converting a vessel into a floating storage and regasification unit (FSRU).",
           "date": "2026-09-30",
@@ -318,6 +294,30 @@
           "date": "2026-09-30",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/boeing-us-navy-fa-xx/",
+          "relevant": false
+        },
+        {
+          "title": "Saronic Awarded Production Contract for Marauder Under U.S. Navy’s MUSV Marketplace",
+          "summary": "Saronic Technologies has been awarded a production Other Transaction (OT) under the U.S. Navy’s Medium Unmanned Surface Vessel (MUSV) Marketplace for Marauder, the company’s dual-use 180-foot autonomous ship. Saronic…",
+          "date": "2026-09-30",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/saronic-awarded-production-contract-for-marauder-under-u-s-navys-musv-marketplace/",
+          "relevant": false
+        },
+        {
+          "title": "HII Wins U.S. Navy Contract for 10 ROMULUS USVs",
+          "summary": "HII was awarded a contract by the U.S. Navy to build 10 ROMULUS unmanned surface vessels (USVs) for the Medium Unmanned Surface Vessel (MUSV) program. HII press release The award marks a major advancement in the U.S…",
+          "date": "2026-09-30",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/hii-wins-u-s-navy-contract-for-10-romulus-usvs/",
+          "relevant": false
+        },
+        {
+          "title": "Boeing Wins U.S. Navy’s F/A-XX Next Generation Fighter Contract",
+          "summary": "The U.S. Navy announced its selection of Boeing to build the next-generation Navy fighter late on September 29th, with the reveal arriving after an over 18-month-long pause in news about the program and its progress…",
+          "date": "2026-09-30",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/boeing-wins-u-s-navys-f-a-xx-next-generation-fighter-contract/",
           "relevant": false
         },
         {
