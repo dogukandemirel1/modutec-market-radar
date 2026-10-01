@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T12:01:02Z",
+  "last_updated": "2026-10-01T13:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -105,12 +105,28 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Transpetrol trims aframax fleet in $73m deal",
+          "summary": "Belgian tanker owner Transpetrol Maritime Services has offloaded its 2016-built aframax in a $73m deal with Turkish buyers. VesselsValue data identified Transpetrol as the seller of the Hyundai Samho-built 114,070 dwt…",
+          "date": "2026-10-01",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/transpetrol-trims-aframax-fleet-in-73m-deal/",
+          "relevant": false
+        },
+        {
           "title": "Boskalis scores Dutch North Sea cabling job",
           "summary": "Dutch marine contractor Boskalis has secured a contract worth between €50m and €150m ($57m-$170m) for inter-array cable installation on the first phase of the Zeevonk offshore wind farm in the Dutch North Sea. The…",
           "date": "2026-10-01",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/boskalis-scores-dutch-north-sea-cabling-job/",
           "relevant": false
+        },
+        {
+          "title": "EnerMech stays with Chevron in Australia until end of 2031",
+          "summary": "Aberdeen-headquartered integrated solutions specialist EnerMech has secured a five-year extension to its non-destructive testing (NDT) contract...",
+          "date": "2026-10-01",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/01/enermech-stays-with-chevron-in-australia-until-end-of-2031",
+          "relevant": true
         },
         {
           "title": "Boskalis to install inter-array cables at 1 GW Dutch offshore wind farm",
@@ -2257,6 +2273,14 @@
           "relevant": false
         },
         {
+          "title": "Eni's Renewables Arm Gets Capital Raise under New Shareholding Structure",
+          "summary": "Eni and Ares completed a transaction to inject new capital into the business that holds the Italian oil and gas major's renewable energy assets.",
+          "date": "2026-10-01",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/enis_renewables_arm_gets_capital_raise_under_new_shareholding_structure-01-oct-2026-184746-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "China Fuel Exporters Cancel Some Cargoes",
           "summary": "Chinese fuel exporters have canceled some oil-product cargoes slated for export in October, as Asia's top consumer prioritizes domestic supply during an extended period of upheaval in global energy markets.",
           "date": "2026-10-01",
@@ -3842,15 +3866,6 @@
           "region": "SEA"
         },
         {
-          "title": "Fincantieri and PT PAL Indonesia sign agreement for the modernization of ex-Giuseppe Garibaldi",
-          "summary": "Fincantieri, one of the world’s leading shipbuilding groups, and PT PAL Indonesia, the country’s leading state-owned shipbuilder, signed a Memorandum of Understanding (MoU) establishing a framework for cooperation on…",
-          "date": "2026-09-28",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/fincantieri-and-pt-pal-indonesia-sign-agreement-for-the-modernization-of-ex-giuseppe-garibaldi/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Fugro performs ultra-deepwater AUV survey off East Malaysia",
           "summary": "Fugro has completed an ultra-deepwater geohazard site survey offshore East Malaysia, on behalf of Petronas Carigali, the primary upstream...",
           "date": "2026-09-28",
@@ -3867,6 +3882,15 @@
           "source_url": "https://www.naval-technology.com/news/tkms-edge-underwater-capabilities/",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "Fincantieri and PT PAL Indonesia sign agreement for the modernization of ex-Giuseppe Garibaldi",
+          "summary": "Fincantieri, one of the world’s leading shipbuilding groups, and PT PAL Indonesia, the country’s leading state-owned shipbuilder, signed a Memorandum of Understanding (MoU) establishing a framework for cooperation on…",
+          "date": "2026-09-28",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/fincantieri-and-pt-pal-indonesia-sign-agreement-for-the-modernization-of-ex-giuseppe-garibaldi/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Eni Wins New Block offshore Indonesia",
