@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T10:53:56Z",
+  "last_updated": "2026-10-01T11:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -2224,6 +2224,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "Eurotankers gets $60m for vintage LR2",
+          "summary": "Greek owner Eurotankers has reportedly sold its 2009-built LR2 for $60m, continuing to cash in older tanker tonnage as secondhand values remain elevated. S&P sources list the Hyundai Heavy Industries-built 105,291 dwt…",
+          "date": "2026-10-01",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/eurotankers-gets-60m-for-vintage-lr2/",
+          "relevant": false
+        },
         {
           "title": "APM Terminals boss urges ports to sweat existing assets harder",
           "summary": "Sister title Splash Ports today carries an exclusive interview with APM Terminals chief executive Keith Svendsen who argues that the next phase of terminal growth will depend less on simply adding cranes and quay length…",
