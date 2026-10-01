@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T16:01:01Z",
+  "last_updated": "2026-10-01T17:00:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -105,22 +105,6 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Transpetrol trims aframax fleet in $73m deal",
-          "summary": "Belgian tanker owner Transpetrol Maritime Services has offloaded its 2016-built aframax in a $73m deal with Turkish buyers. VesselsValue data identified Transpetrol as the seller of the Hyundai Samho-built 114,070 dwt…",
-          "date": "2026-10-01",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/transpetrol-trims-aframax-fleet-in-73m-deal/",
-          "relevant": false
-        },
-        {
-          "title": "Boskalis scores Dutch North Sea cabling job",
-          "summary": "Dutch marine contractor Boskalis has secured a contract worth between €50m and €150m ($57m-$170m) for inter-array cable installation on the first phase of the Zeevonk offshore wind farm in the Dutch North Sea. The…",
-          "date": "2026-10-01",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/boskalis-scores-dutch-north-sea-cabling-job/",
-          "relevant": false
-        },
-        {
           "title": "Borr Drilling lands West Africa award for Norve jackup, Shell option for Natt",
           "summary": "Borr Drilling secured a binding letter of award for the jackup Norve in West Africa and a customer option exercise for the Natt in Nigeria. The award from an undisclosed operator covers a firm scope of three wells with…",
           "date": "2026-10-01",
@@ -161,6 +145,14 @@
           "relevant": false
         },
         {
+          "title": "RTX wins $511m US Navy contract for SPY-6 hardware",
+          "summary": "RTX won US Navy contract modification to produce hardware and purchase spares for the AN/SPY-6(V) family of radars. The post RTX wins $511m US Navy contract for SPY-6 hardware appeared first on Naval Technology .",
+          "date": "2026-10-01",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/rtx-511m-us-navy-contract-spy-6/",
+          "relevant": false
+        },
+        {
           "title": "Siemens Energy Picks EST-Floattech for Marco Polo's CSOV Battery System",
           "summary": "Siemens Energy has contracted EST-Floattech to supply a battery system of more than 1 MWh for Marco Polo Marine's new CSOV Plus, a vessel designed to work in both…",
           "date": "2026-10-01",
@@ -182,6 +174,22 @@
           "date": "2026-10-01",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543386-boskalis-set-to-install-inter-array-cables-at-zeevonk-offshore-wind-farm",
+          "relevant": false
+        },
+        {
+          "title": "Transpetrol trims aframax fleet in $73m deal",
+          "summary": "Belgian tanker owner Transpetrol Maritime Services has offloaded its 2016-built aframax in a $73m deal with Turkish buyers. VesselsValue data identified Transpetrol as the seller of the Hyundai Samho-built 114,070 dwt…",
+          "date": "2026-10-01",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/transpetrol-trims-aframax-fleet-in-73m-deal/",
+          "relevant": false
+        },
+        {
+          "title": "Boskalis scores Dutch North Sea cabling job",
+          "summary": "Dutch marine contractor Boskalis has secured a contract worth between €50m and €150m ($57m-$170m) for inter-array cable installation on the first phase of the Zeevonk offshore wind farm in the Dutch North Sea. The…",
+          "date": "2026-10-01",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/boskalis-scores-dutch-north-sea-cabling-job/",
           "relevant": false
         },
         {
@@ -214,6 +222,30 @@
           "date": "2026-09-30",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/amplitude-takes-fid-on-otway-ecsp-development-sanctions-nestor-well-80185",
+          "relevant": false
+        },
+        {
+          "title": "Saronic Awarded Production Contract for Marauder Under U.S. Navy’s MUSV Marketplace",
+          "summary": "Saronic Technologies has been awarded a production Other Transaction (OT) under the U.S. Navy’s Medium Unmanned Surface Vessel (MUSV) Marketplace for Marauder, the company’s dual-use 180-foot autonomous ship. Saronic…",
+          "date": "2026-09-30",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/saronic-awarded-production-contract-for-marauder-under-u-s-navys-musv-marketplace/",
+          "relevant": false
+        },
+        {
+          "title": "HII Wins U.S. Navy Contract for 10 ROMULUS USVs",
+          "summary": "HII was awarded a contract by the U.S. Navy to build 10 ROMULUS unmanned surface vessels (USVs) for the Medium Unmanned Surface Vessel (MUSV) program. HII press release The award marks a major advancement in the U.S…",
+          "date": "2026-09-30",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/hii-wins-u-s-navy-contract-for-10-romulus-usvs/",
+          "relevant": false
+        },
+        {
+          "title": "Boeing Wins U.S. Navy’s F/A-XX Next Generation Fighter Contract",
+          "summary": "The U.S. Navy announced its selection of Boeing to build the next-generation Navy fighter late on September 29th, with the reveal arriving after an over 18-month-long pause in news about the program and its progress…",
+          "date": "2026-09-30",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/boeing-wins-u-s-navys-f-a-xx-next-generation-fighter-contract/",
           "relevant": false
         },
         {
@@ -294,30 +326,6 @@
           "date": "2026-09-30",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/boeing-us-navy-fa-xx/",
-          "relevant": false
-        },
-        {
-          "title": "Saronic Awarded Production Contract for Marauder Under U.S. Navy’s MUSV Marketplace",
-          "summary": "Saronic Technologies has been awarded a production Other Transaction (OT) under the U.S. Navy’s Medium Unmanned Surface Vessel (MUSV) Marketplace for Marauder, the company’s dual-use 180-foot autonomous ship. Saronic…",
-          "date": "2026-09-30",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/saronic-awarded-production-contract-for-marauder-under-u-s-navys-musv-marketplace/",
-          "relevant": false
-        },
-        {
-          "title": "HII Wins U.S. Navy Contract for 10 ROMULUS USVs",
-          "summary": "HII was awarded a contract by the U.S. Navy to build 10 ROMULUS unmanned surface vessels (USVs) for the Medium Unmanned Surface Vessel (MUSV) program. HII press release The award marks a major advancement in the U.S…",
-          "date": "2026-09-30",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/hii-wins-u-s-navy-contract-for-10-romulus-usvs/",
-          "relevant": false
-        },
-        {
-          "title": "Boeing Wins U.S. Navy’s F/A-XX Next Generation Fighter Contract",
-          "summary": "The U.S. Navy announced its selection of Boeing to build the next-generation Navy fighter late on September 29th, with the reveal arriving after an over 18-month-long pause in news about the program and its progress…",
-          "date": "2026-09-30",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/boeing-wins-u-s-navys-f-a-xx-next-generation-fighter-contract/",
           "relevant": false
         },
         {
@@ -2281,14 +2289,6 @@
           "relevant": false
         },
         {
-          "title": "Eurotankers gets $60m for vintage LR2",
-          "summary": "Greek owner Eurotankers has reportedly sold its 2009-built LR2 for $60m, continuing to cash in older tanker tonnage as secondhand values remain elevated. S&P sources list the Hyundai Heavy Industries-built 105,291 dwt…",
-          "date": "2026-10-01",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/eurotankers-gets-60m-for-vintage-lr2/",
-          "relevant": false
-        },
-        {
           "title": "Emperor Energy clears regulatory hurdle for Judith-2 well, Gippsland Basin",
           "summary": "Emperor Energy secured approval from the National Offshore Petroleum Safety and Environmental Management Authority (NOPSEMA) for the Environment Plan covering drilling of the Judith-2 appraisal well in the offshore…",
           "date": "2026-10-01",
@@ -2318,6 +2318,14 @@
           "date": "2026-10-01",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/china_fuel_exporters_cancel_some_cargoes-01-oct-2026-184744-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Eurotankers gets $60m for vintage LR2",
+          "summary": "Greek owner Eurotankers has reportedly sold its 2009-built LR2 for $60m, continuing to cash in older tanker tonnage as secondhand values remain elevated. S&P sources list the Hyundai Heavy Industries-built 105,291 dwt…",
+          "date": "2026-10-01",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/eurotankers-gets-60m-for-vintage-lr2/",
           "relevant": false
         },
         {
@@ -3833,15 +3841,6 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Yangzijiang Maritime tanker spree builds with Haifeng LR2 series",
-          "summary": "Singapore-listed Yangzijiang Maritime Development has built up a sizeable LR2 programme at China’s Jiangsu Haifeng Shipbuilding as the Ren Yuanlin-led group continues one of this year’s most aggressive tanker investment…",
-          "date": "2026-10-01",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/yangzijiang-maritime-tanker-spree-builds-with-haifeng-lr2-series/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "TGS to Reprocesses Seismic Data for Petronas’ Megah Discovery",
           "summary": "TGS has launched a 3D seismic reprocessing project covering about 514 square kilometers over Petronas’ Megah discovery in Block SB-3K offshore Sabah, Malaysia, with…",
           "date": "2026-10-01",
@@ -3865,6 +3864,15 @@
           "date": "2026-10-01",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543383-thailand-malaysia-gas-pipeline-temporarily-shut-over-inspection-issue",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Yangzijiang Maritime tanker spree builds with Haifeng LR2 series",
+          "summary": "Singapore-listed Yangzijiang Maritime Development has built up a sizeable LR2 programme at China’s Jiangsu Haifeng Shipbuilding as the Ren Yuanlin-led group continues one of this year’s most aggressive tanker investment…",
+          "date": "2026-10-01",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/yangzijiang-maritime-tanker-spree-builds-with-haifeng-lr2-series/",
           "relevant": false,
           "region": "SEA"
         },
