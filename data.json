@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T09:00:58Z",
+  "last_updated": "2026-10-01T10:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -105,6 +105,22 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Boskalis to install inter-array cables at 1 GW Dutch offshore wind farm",
+          "summary": "Boskalis has secured what the company calls a “sizeable” contract to transport and install the inter-array cables for the first phase of the 2 GW...",
+          "date": "2026-10-01",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/01/boskalis-to-install-inter-array-cables-at-1-gw-dutch-offshore-wind-farm",
+          "relevant": false
+        },
+        {
+          "title": "Boskalis Set to Install Inter-Array Cables at Zeevonk Offshore Wind Farm",
+          "summary": "Boskalis has secured a contract to transport and install inter-array cables for the first phase of the Zeevonk Offshore Wind Farm in the Dutch North Sea.The contract…",
+          "date": "2026-10-01",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543386-boskalis-set-to-install-inter-array-cables-at-zeevonk-offshore-wind-farm",
+          "relevant": false
+        },
+        {
           "title": "China Merchants locks in $2.8bn Simandou VLOC contract",
           "summary": "China Merchants Energy Shipping has locked in a major piece of the emerging Simandou iron ore trade, signing a 25-year transport agreement worth at least $2.8bn. Shanghai-listed CMES said that its dry bulk arm, Hong…",
           "date": "2026-10-01",
@@ -118,14 +134,6 @@
           "date": "2026-10-01",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/fresh-drilling-and-accommodation-work-boosts-borr-backlog/",
-          "relevant": false
-        },
-        {
-          "title": "Boskalis Set to Install Inter-Array Cables at Zeevonk Offshore Wind Farm",
-          "summary": "Boskalis has been awarded a contract to transport and install inter-array cables for the first phase of the Zeevonk Offshore Wind Farm in the Dutch North Sea.The contract…",
-          "date": "2026-10-01",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/543386-boskalis-set-to-install-inter-array-cables-at-zeevonk-offshore-wind-farm",
           "relevant": false
         },
         {
@@ -2233,19 +2241,27 @@
           "relevant": false
         },
         {
-          "title": "Transocean-Valaris $5.8bn megadeal clears US antitrust review",
-          "summary": "Transocean’s $5.8bn takeover of offshore driller Valaris has cleared a key regulatory hurdle in the US, and the companies now expect to complete the transaction in the final quarter of the year. Valaris and Transocean…",
-          "date": "2026-10-01",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/transocean-valaris-5-8bn-megadeal-clears-us-antitrust-review/",
-          "relevant": false
-        },
-        {
           "title": "Norway's CO2 transport and storage project gets second Swedish customer",
           "summary": "Northern Lights, a joint venture (JV) encompassing Equinor, Shell and TotalEnergies, has signed an agreement with Öresundskraft Kraft & Värme,...",
           "date": "2026-10-01",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/01/norways-co2-transport-and-storage-project-gets-second-swedish-customer",
+          "relevant": false
+        },
+        {
+          "title": "China Fuel Exporters Cancel Some Cargoes",
+          "summary": "Chinese fuel exporters have canceled some oil-product cargoes slated for export in October, as Asia's top consumer prioritizes domestic supply during an extended period of upheaval in global energy markets.",
+          "date": "2026-10-01",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/china_fuel_exporters_cancel_some_cargoes-01-oct-2026-184744-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Transocean-Valaris $5.8bn megadeal clears US antitrust review",
+          "summary": "Transocean’s $5.8bn takeover of offshore driller Valaris has cleared a key regulatory hurdle in the US, and the companies now expect to complete the transaction in the final quarter of the year. Valaris and Transocean…",
+          "date": "2026-10-01",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/transocean-valaris-5-8bn-megadeal-clears-us-antitrust-review/",
           "relevant": false
         },
         {
@@ -3136,6 +3152,30 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "Serica’s UK gas footprint widens as it brings Spirit Energy's North Sea assets into its fold",
+          "summary": "Serica Energy's acquisition of a major Southern North Sea gas portfolio boosts its production by 10,000 boepd and establishes a new operational hub.",
+          "date": "2026-10-01",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/01/sericas-uk-gas-footprint-widens-as-it-brings-spirit-energys-north-sea-assets-into-its-fold",
+          "relevant": false
+        },
+        {
+          "title": "Inpex Buys Into Two BP-Operated Indonesian Offshore Blocks",
+          "summary": "Inpex, Japan’s largest exploration and production (E&P) company, has acquired 50% participating interests in the Agung I and Agung II exploration blocks offshore Eastern Java…",
+          "date": "2026-10-01",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543389-inpex-buys-into-two-bp-operated-indonesian-offshore-blocks",
+          "relevant": false
+        },
+        {
+          "title": "Serica Expands North Sea Oil and Gas Portfolio with Spirit Energy’s Assets",
+          "summary": "Serica Energy has completed the acquisition of a portfolio of Southern North Sea assets from Spirit Energy, adding around 10,000 barrels of oil equivalent per day of production and 18…",
+          "date": "2026-10-01",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543388-serica-expands-north-sea-oil-and-gas-portfolio-with-spirit-energy-s-assets",
+          "relevant": false
+        },
         {
           "title": "Vår Energi Completes Acquisition of Pandion Energy’s Assets",
           "summary": "Vår Energi has completed the acquisition of selected assets and licenses from Pandion Energy, adding stakes in the producing Nova field, the Ofelia development and the Sierra Solberg discovery…",
