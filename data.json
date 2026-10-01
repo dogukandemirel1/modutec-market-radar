@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T11:00:55Z",
+  "last_updated": "2026-10-01T12:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -337,14 +337,6 @@
           "relevant": true
         },
         {
-          "title": "Saronic Wins Navy Production Contract for 180-Foot Autonomous Surface Vessel",
-          "summary": "Saronic Technologies has won a U.S. Navy production contract for its 180-foot Marauder autonomous surface vessel after completing an at-sea evaluation that put the ship through more than 140 scenarios over eight...",
-          "date": "2026-09-29",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/saronic-wins-navy-production-contract-for-180-foot-autonomous-surface-vessel/",
-          "relevant": false
-        },
-        {
           "title": "MPD integration into rig operating system reduces contractor reliance on OEMs",
           "summary": "By integrating automated managed pressure drilling (MPD) controls into its SmartROS rig operating system, Nabors is allowing drilling contractors to take greater ownership of MPD performance, rather than relying solely…",
           "date": "2026-09-29",
@@ -398,6 +390,14 @@
           "date": "2026-09-29",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/kongsberg-naval-strike-missile-us/",
+          "relevant": false
+        },
+        {
+          "title": "Saronic Wins Navy Production Contract for 180-Foot Autonomous Surface Vessel",
+          "summary": "Saronic Technologies has won a U.S. Navy production contract for its 180-foot Marauder autonomous surface vessel after completing an at-sea evaluation that put the ship through more than 140 scenarios over eight...",
+          "date": "2026-09-29",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/saronic-wins-navy-production-contract-for-180-foot-autonomous-surface-vessel/",
           "relevant": false
         },
         {
@@ -2225,6 +2225,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "UK Sanctions Five LNG Carriers in New Russia Package",
+          "summary": "The United Kingdom has sanctioned five liquefied natural gas carriers as part of a new package of measures targeting Russia's efforts to expand a maritime \"shadow fleet\" for LNG exports, including three Russian-built…",
+          "date": "2026-10-01",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/uk-sanctions-five-lng-carriers-in-new-russia-package/",
+          "relevant": false
+        },
+        {
           "title": "Eurotankers gets $60m for vintage LR2",
           "summary": "Greek owner Eurotankers has reportedly sold its 2009-built LR2 for $60m, continuing to cash in older tanker tonnage as secondhand values remain elevated. S&P sources list the Hyundai Heavy Industries-built 105,291 dwt…",
           "date": "2026-10-01",
@@ -2241,22 +2249,6 @@
           "relevant": false
         },
         {
-          "title": "Norden: The capital shift from tankers to dry cargo",
-          "summary": "Jan Rindbo says today’s fragmented shipping markets demand flexibility, with tanker exposure being reduced as dry bulk offers a more attractive balance of risk and reward. Shipping’s fragmented markets are moving…",
-          "date": "2026-10-01",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/norden-the-capital-shift-from-tankers-to-dry-cargo/",
-          "relevant": false
-        },
-        {
-          "title": "Chartering’s AI revolution brings competitive edge back to people",
-          "summary": "The paradox confronting modern chartering desks is becoming increasingly clear: the more data and technology everybody gets, the harder it becomes to differentiate. That was one of the central themes to emerge from the…",
-          "date": "2026-10-01",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/charterings-ai-revolution-brings-competitive-edge-back-to-people/",
-          "relevant": false
-        },
-        {
           "title": "Norway's CO2 transport and storage project gets second Swedish customer",
           "summary": "Northern Lights, a joint venture (JV) encompassing Equinor, Shell and TotalEnergies, has signed an agreement with Öresundskraft Kraft & Värme,...",
           "date": "2026-10-01",
@@ -2270,6 +2262,22 @@
           "date": "2026-10-01",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/china_fuel_exporters_cancel_some_cargoes-01-oct-2026-184744-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Norden: The capital shift from tankers to dry cargo",
+          "summary": "Jan Rindbo says today’s fragmented shipping markets demand flexibility, with tanker exposure being reduced as dry bulk offers a more attractive balance of risk and reward. Shipping’s fragmented markets are moving…",
+          "date": "2026-10-01",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/norden-the-capital-shift-from-tankers-to-dry-cargo/",
+          "relevant": false
+        },
+        {
+          "title": "Chartering’s AI revolution brings competitive edge back to people",
+          "summary": "The paradox confronting modern chartering desks is becoming increasingly clear: the more data and technology everybody gets, the harder it becomes to differentiate. That was one of the central themes to emerge from the…",
+          "date": "2026-10-01",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/charterings-ai-revolution-brings-competitive-edge-back-to-people/",
           "relevant": false
         },
         {
