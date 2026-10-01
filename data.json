@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T04:00:53Z",
+  "last_updated": "2026-10-01T05:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -105,6 +105,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "China Merchants locks in $2.8bn Simandou VLOC contract",
+          "summary": "China Merchants Energy Shipping has locked in a major piece of the emerging Simandou iron ore trade, signing a 25-year transport agreement worth at least $2.8bn. Shanghai-listed CMES said that its dry bulk arm, Hong…",
+          "date": "2026-10-01",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/china-merchants-locks-in-2-8bn-simandou-vloc-contract/",
+          "relevant": false
+        },
+        {
           "title": "Fresh drilling and accommodation work boosts Borr backlog",
           "summary": "Offshore jackup rig player Borr Drilling has won new work for three of its rigs. In West Africa, the 2011-built Norve rig has received a binding letter of award from an undisclosed operator. The commitment is expected…",
           "date": "2026-10-01",
@@ -118,14 +126,6 @@
           "date": "2026-10-01",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/bp-hands-aker-solutions-broader-engineering-and-integrity-deal/",
-          "relevant": false
-        },
-        {
-          "title": "China Merchants locks in $2.8bn Simandou VLOC contract",
-          "summary": "China Merchants Energy Shipping has locked in a major piece of the emerging Simandou iron ore trade, signing a 25-year transport agreement worth at least $2.8bn. Shanghai-listed CMES said that its dry bulk arm, Hong…",
-          "date": "2026-09-30",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/china-merchants-locks-in-2-8bn-simandou-vloc-contract/",
           "relevant": false
         },
         {
@@ -2177,6 +2177,22 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Norden: The capital shift from tankers to dry cargo",
+          "summary": "Jan Rindbo says today’s fragmented shipping markets demand flexibility, with tanker exposure being reduced as dry bulk offers a more attractive balance of risk and reward. Shipping’s fragmented markets are moving…",
+          "date": "2026-10-01",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/norden-the-capital-shift-from-tankers-to-dry-cargo/",
+          "relevant": false
+        },
+        {
+          "title": "Chartering’s AI revolution brings competitive edge back to people",
+          "summary": "The paradox confronting modern chartering desks is becoming increasingly clear: the more data and technology everybody gets, the harder it becomes to differentiate. That was one of the central themes to emerge from the…",
+          "date": "2026-10-01",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/charterings-ai-revolution-brings-competitive-edge-back-to-people/",
+          "relevant": false
+        },
+        {
           "title": "Transocean-Valaris $5.8bn megadeal clears US antitrust review",
           "summary": "Transocean’s $5.8bn takeover of offshore driller Valaris has cleared a key regulatory hurdle in the US, and the companies now expect to complete the transaction in the final quarter of the year. Valaris and Transocean…",
           "date": "2026-10-01",
@@ -2190,22 +2206,6 @@
           "date": "2026-10-01",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/tdi-brooks-adds-timor-leste-offshore-survey-to-2027-schedule/",
-          "relevant": false
-        },
-        {
-          "title": "Norden: The capital shift from tankers to dry cargo",
-          "summary": "Jan Rindbo says today’s fragmented shipping markets demand flexibility, with tanker exposure being reduced as dry bulk offers a more attractive balance of risk and reward. Shipping’s fragmented markets are moving…",
-          "date": "2026-09-30",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/norden-the-capital-shift-from-tankers-to-dry-cargo/",
-          "relevant": false
-        },
-        {
-          "title": "Chartering’s AI revolution brings competitive edge back to people",
-          "summary": "The paradox confronting modern chartering desks is becoming increasingly clear: the more data and technology everybody gets, the harder it becomes to differentiate. That was one of the central themes to emerge from the…",
-          "date": "2026-09-30",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/charterings-ai-revolution-brings-competitive-edge-back-to-people/",
           "relevant": false
         },
         {
