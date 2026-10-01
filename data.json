@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T19:00:55Z",
+  "last_updated": "2026-10-01T20:00:50Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -2304,6 +2304,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "Resilience Doesn’t Equal Security- Lloyd’s List",
+          "summary": "Strait of Hormuz transit data for the month of September reveals how the oil and container markets are tactically adjusting to the U.S./Israel war on Iran.",
+          "date": "2026-10-01",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/resilience-doesnt-equal-security-lloyds-list/",
+          "relevant": false
+        },
         {
           "title": "UK Sanctions Five LNG Carriers in New Russia Package",
           "summary": "The United Kingdom has sanctioned five liquefied natural gas carriers as part of a new package of measures targeting Russia's efforts to expand a maritime \"shadow fleet\" for LNG exports, including three Russian-built…",
