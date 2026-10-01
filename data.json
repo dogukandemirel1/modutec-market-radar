@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T20:00:50Z",
+  "last_updated": "2026-10-01T21:00:54Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3872,6 +3872,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Fragmented trade drives dry bulk tonne-mile demand",
+          "summary": "Dry bulk shipping has entered the final quarter of 2026 in considerably better shape than most owners expected, with industry leaders at last week’s Splash Singapore conference arguing that increasingly fragmented trade…",
+          "date": "2026-10-01",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/fragmented-trade-drives-dry-bulk-tonne-mile-demand/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Yangzijiang Maritime tanker spree builds with Haifeng LR2 series",
           "summary": "Singapore-listed Yangzijiang Maritime Development has built up a sizeable LR2 programme at China’s Jiangsu Haifeng Shipbuilding as the Ren Yuanlin-led group continues one of this year’s most aggressive tanker investment…",
