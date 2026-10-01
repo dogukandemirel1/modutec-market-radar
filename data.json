@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T10:00:55Z",
+  "last_updated": "2026-10-01T10:53:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -105,11 +105,27 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Boskalis scores Dutch North Sea cabling job",
+          "summary": "Dutch marine contractor Boskalis has secured a contract worth between €50m and €150m ($57m-$170m) for inter-array cable installation on the first phase of the Zeevonk offshore wind farm in the Dutch North Sea. The…",
+          "date": "2026-10-01",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/boskalis-scores-dutch-north-sea-cabling-job/",
+          "relevant": false
+        },
+        {
           "title": "Boskalis to install inter-array cables at 1 GW Dutch offshore wind farm",
           "summary": "Boskalis has secured what the company calls a “sizeable” contract to transport and install the inter-array cables for the first phase of the 2 GW...",
           "date": "2026-10-01",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/01/boskalis-to-install-inter-array-cables-at-1-gw-dutch-offshore-wind-farm",
+          "relevant": false
+        },
+        {
+          "title": "Borr Drilling Lines Up New Work for Jack-Up Rig Trio",
+          "summary": "Borr Drilling has announced new commitments for three premium jack-up rigs, including a three-well award in West Africa, an exercised Shell option in Nigeria and an accommodation contract in the UK…",
+          "date": "2026-10-01",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543391-borr-drilling-lines-up-new-work-for-jack-up-rig-trio",
           "relevant": false
         },
         {
@@ -2233,14 +2249,6 @@
           "relevant": false
         },
         {
-          "title": "Nobu Su targets mid-2028 return to shipowning",
-          "summary": "Nobu Su is plotting a return to shipowning, with the former TMT boss in final negotiations for an experimental newbuilding that could be delivered as early as May or June 2028. A new 33-page white paper from Su’s Morizo…",
-          "date": "2026-10-01",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/nobu-su-targets-mid-2028-return-to-shipowning/",
-          "relevant": false
-        },
-        {
           "title": "Norway's CO2 transport and storage project gets second Swedish customer",
           "summary": "Northern Lights, a joint venture (JV) encompassing Equinor, Shell and TotalEnergies, has signed an agreement with Öresundskraft Kraft & Värme,...",
           "date": "2026-10-01",
@@ -2254,6 +2262,14 @@
           "date": "2026-10-01",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/china_fuel_exporters_cancel_some_cargoes-01-oct-2026-184744-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Nobu Su targets mid-2028 return to shipowning",
+          "summary": "Nobu Su is plotting a return to shipowning, with the former TMT boss in final negotiations for an experimental newbuilding that could be delivered as early as May or June 2028. A new 33-page white paper from Su’s Morizo…",
+          "date": "2026-10-01",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/nobu-su-targets-mid-2028-return-to-shipowning/",
           "relevant": false
         },
         {
@@ -3154,10 +3170,18 @@
       "items": [
         {
           "title": "Serica’s UK gas footprint widens as it brings Spirit Energy's North Sea assets into its fold",
-          "summary": "Serica Energy's acquisition of a major Southern North Sea gas portfolio boosts its production by 10,000 boepd and establishes a new operational hub.",
+          "summary": "This Southern North Sea gas portfolio acquisition boosts Serica's production by 10,000 barrels of oil equivalent per day (boepd).",
           "date": "2026-10-01",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/01/sericas-uk-gas-footprint-widens-as-it-brings-spirit-energys-north-sea-assets-into-its-fold",
+          "relevant": false
+        },
+        {
+          "title": "Northern Lights Signs Up Second Swedish CCS Customer",
+          "summary": "Northern Lights joint venture and Swedish energy company Öresundskraft Kraft & Värme have signed an agreement for the transport and permanent storage of up to 200…",
+          "date": "2026-10-01",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543390-northern-lights-signs-up-second-swedish-ccs-customer",
           "relevant": false
         },
         {
