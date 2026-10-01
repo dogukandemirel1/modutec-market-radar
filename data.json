@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T13:00:57Z",
+  "last_updated": "2026-10-01T14:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -121,6 +121,14 @@
           "relevant": false
         },
         {
+          "title": "Borr Drilling lands West Africa award for Norve jackup, Shell option for Natt",
+          "summary": "Borr Drilling secured a binding letter of award for the jackup Norve in West Africa and a customer option exercise for the Natt in Nigeria. The award from an undisclosed operator covers a firm scope of three wells with…",
+          "date": "2026-10-01",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/borr-drilling-lands-west-africa-award-for-norve-jackup-shell-option-for-natt-80192",
+          "relevant": false
+        },
+        {
           "title": "EnerMech stays with Chevron in Australia until end of 2031",
           "summary": "Aberdeen-headquartered integrated solutions specialist EnerMech has secured a five-year extension to its non-destructive testing (NDT) contract...",
           "date": "2026-10-01",
@@ -134,6 +142,14 @@
           "date": "2026-10-01",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/01/boskalis-to-install-inter-array-cables-at-1-gw-dutch-offshore-wind-farm",
+          "relevant": false
+        },
+        {
+          "title": "Siemens Energy Picks EST-Floattech for Marco Polo's CSOV Battery System",
+          "summary": "Siemens Energy has contracted EST-Floattech to supply a battery system of more than 1 MWh for Marco Polo Marine's new CSOV Plus, a vessel designed to work in both…",
+          "date": "2026-10-01",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543398-siemens-energy-picks-est-floattech-for-marco-polo-s-csov-battery-system",
           "relevant": false
         },
         {
@@ -182,30 +198,6 @@
           "date": "2026-09-30",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/amplitude-takes-fid-on-otway-ecsp-development-sanctions-nestor-well-80185",
-          "relevant": false
-        },
-        {
-          "title": "Saronic Awarded Production Contract for Marauder Under U.S. Navy’s MUSV Marketplace",
-          "summary": "Saronic Technologies has been awarded a production Other Transaction (OT) under the U.S. Navy’s Medium Unmanned Surface Vessel (MUSV) Marketplace for Marauder, the company’s dual-use 180-foot autonomous ship. Saronic…",
-          "date": "2026-09-30",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/saronic-awarded-production-contract-for-marauder-under-u-s-navys-musv-marketplace/",
-          "relevant": false
-        },
-        {
-          "title": "HII Wins U.S. Navy Contract for 10 ROMULUS USVs",
-          "summary": "HII was awarded a contract by the U.S. Navy to build 10 ROMULUS unmanned surface vessels (USVs) for the Medium Unmanned Surface Vessel (MUSV) program. HII press release The award marks a major advancement in the U.S…",
-          "date": "2026-09-30",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/hii-wins-u-s-navy-contract-for-10-romulus-usvs/",
-          "relevant": false
-        },
-        {
-          "title": "Boeing Wins U.S. Navy’s F/A-XX Next Generation Fighter Contract",
-          "summary": "The U.S. Navy announced its selection of Boeing to build the next-generation Navy fighter late on September 29th, with the reveal arriving after an over 18-month-long pause in news about the program and its progress…",
-          "date": "2026-09-30",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/boeing-wins-u-s-navys-f-a-xx-next-generation-fighter-contract/",
           "relevant": false
         },
         {
@@ -286,6 +278,30 @@
           "date": "2026-09-30",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/boeing-us-navy-fa-xx/",
+          "relevant": false
+        },
+        {
+          "title": "Saronic Awarded Production Contract for Marauder Under U.S. Navy’s MUSV Marketplace",
+          "summary": "Saronic Technologies has been awarded a production Other Transaction (OT) under the U.S. Navy’s Medium Unmanned Surface Vessel (MUSV) Marketplace for Marauder, the company’s dual-use 180-foot autonomous ship. Saronic…",
+          "date": "2026-09-30",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/saronic-awarded-production-contract-for-marauder-under-u-s-navys-musv-marketplace/",
+          "relevant": false
+        },
+        {
+          "title": "HII Wins U.S. Navy Contract for 10 ROMULUS USVs",
+          "summary": "HII was awarded a contract by the U.S. Navy to build 10 ROMULUS unmanned surface vessels (USVs) for the Medium Unmanned Surface Vessel (MUSV) program. HII press release The award marks a major advancement in the U.S…",
+          "date": "2026-09-30",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/hii-wins-u-s-navy-contract-for-10-romulus-usvs/",
+          "relevant": false
+        },
+        {
+          "title": "Boeing Wins U.S. Navy’s F/A-XX Next Generation Fighter Contract",
+          "summary": "The U.S. Navy announced its selection of Boeing to build the next-generation Navy fighter late on September 29th, with the reveal arriving after an over 18-month-long pause in news about the program and its progress…",
+          "date": "2026-09-30",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/boeing-wins-u-s-navys-f-a-xx-next-generation-fighter-contract/",
           "relevant": false
         },
         {
@@ -2257,14 +2273,6 @@
           "relevant": false
         },
         {
-          "title": "APM Terminals boss urges ports to sweat existing assets harder",
-          "summary": "Sister title Splash Ports today carries an exclusive interview with APM Terminals chief executive Keith Svendsen who argues that the next phase of terminal growth will depend less on simply adding cranes and quay length…",
-          "date": "2026-10-01",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/apm-terminals-boss-urges-ports-to-sweat-existing-assets-harder/",
-          "relevant": false
-        },
-        {
           "title": "Norway's CO2 transport and storage project gets second Swedish customer",
           "summary": "Northern Lights, a joint venture (JV) encompassing Equinor, Shell and TotalEnergies, has signed an agreement with Öresundskraft Kraft & Värme,...",
           "date": "2026-10-01",
@@ -2286,6 +2294,14 @@
           "date": "2026-10-01",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/china_fuel_exporters_cancel_some_cargoes-01-oct-2026-184744-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "APM Terminals boss urges ports to sweat existing assets harder",
+          "summary": "Sister title Splash Ports today carries an exclusive interview with APM Terminals chief executive Keith Svendsen who argues that the next phase of terminal growth will depend less on simply adding cranes and quay length…",
+          "date": "2026-10-01",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/apm-terminals-boss-urges-ports-to-sweat-existing-assets-harder/",
           "relevant": false
         },
         {
