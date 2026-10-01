@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T08:00:53Z",
+  "last_updated": "2026-10-01T09:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -121,6 +121,14 @@
           "relevant": false
         },
         {
+          "title": "Boskalis Set to Install Inter-Array Cables at Zeevonk Offshore Wind Farm",
+          "summary": "Boskalis has been awarded a contract to transport and install inter-array cables for the first phase of the Zeevonk Offshore Wind Farm in the Dutch North Sea.The contract…",
+          "date": "2026-10-01",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543386-boskalis-set-to-install-inter-array-cables-at-zeevonk-offshore-wind-farm",
+          "relevant": false
+        },
+        {
           "title": "BP hands Aker Solutions broader engineering and integrity deal",
           "summary": "Norway’s Aker Solutions has been awarded a frame agreement with supermajor BP to provide engineering and integrity services across the company’s North Sea assets. Aker Solutions will provide engineering, integrity…",
           "date": "2026-10-01",
@@ -214,6 +222,22 @@
           "date": "2026-09-30",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/slb-onesubsea-rovuma-lng-contract/",
+          "relevant": false
+        },
+        {
+          "title": "US industry urged to ‘build fast, build on time’ after MUSV award",
+          "summary": "The US Navy has selected three contractors to build 30 Medium Unmanned Surface Vessels, following the completion of Phase I at-sea testing. The post US industry urged to ‘build fast, build on time’ after MUSV award…",
+          "date": "2026-09-30",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/us-navy-musv-production/",
+          "relevant": false
+        },
+        {
+          "title": "HII tasked to perform USS Harry S. Truman refuelling",
+          "summary": "HII’s Newport News Shipbuilding received a $5.1bn contract for the refuelling and overhaul of the US Navy carrier USS Harry S. Truman. The post HII tasked to perform USS Harry S. Truman refuelling appeared first on…",
+          "date": "2026-09-30",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/hii-uss-harry-s-truman/",
           "relevant": false
         },
         {
@@ -2185,14 +2209,6 @@
           "relevant": false
         },
         {
-          "title": "Nobu Su targets mid-2028 return to shipowning",
-          "summary": "Nobu Su is plotting a return to shipowning, with the former TMT boss in final negotiations for an experimental newbuilding that could be delivered as early as May or June 2028. A new 33-page white paper from Su’s Morizo…",
-          "date": "2026-10-01",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/nobu-su-targets-mid-2028-return-to-shipowning/",
-          "relevant": false
-        },
-        {
           "title": "Norden: The capital shift from tankers to dry cargo",
           "summary": "Jan Rindbo says today’s fragmented shipping markets demand flexibility, with tanker exposure being reduced as dry bulk offers a more attractive balance of risk and reward. Shipping’s fragmented markets are moving…",
           "date": "2026-10-01",
@@ -2209,11 +2225,27 @@
           "relevant": false
         },
         {
+          "title": "Nobu Su targets mid-2028 return to shipowning",
+          "summary": "Nobu Su is plotting a return to shipowning, with the former TMT boss in final negotiations for an experimental newbuilding that could be delivered as early as May or June 2028. A new 33-page white paper from Su’s Morizo…",
+          "date": "2026-10-01",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/nobu-su-targets-mid-2028-return-to-shipowning/",
+          "relevant": false
+        },
+        {
           "title": "Transocean-Valaris $5.8bn megadeal clears US antitrust review",
           "summary": "Transocean’s $5.8bn takeover of offshore driller Valaris has cleared a key regulatory hurdle in the US, and the companies now expect to complete the transaction in the final quarter of the year. Valaris and Transocean…",
           "date": "2026-10-01",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/transocean-valaris-5-8bn-megadeal-clears-us-antitrust-review/",
+          "relevant": false
+        },
+        {
+          "title": "Norway's CO2 transport and storage project gets second Swedish customer",
+          "summary": "Northern Lights, a joint venture (JV) encompassing Equinor, Shell and TotalEnergies, has signed an agreement with Öresundskraft Kraft & Värme,...",
+          "date": "2026-10-01",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/01/norways-co2-transport-and-storage-project-gets-second-swedish-customer",
           "relevant": false
         },
         {
@@ -3648,6 +3680,24 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "TGS to Reprocesses Seismic Data for Petronas’ Megah Discovery",
+          "summary": "TGS has launched a 3D seismic reprocessing project covering about 514 square kilometers over Petronas’ Megah discovery in Block SB-3K offshore Sabah, Malaysia, with…",
+          "date": "2026-10-01",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543385-tgs-to-reprocesses-seismic-data-for-petronas-megah-discovery",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Höegh Evi, PETROS to Develop Kuching LNG Terminal in Malaysia",
+          "summary": "Höegh Evi and Petroleum Sarawak (PETROS) have agreed to jointly develop, own and operate a proposed LNG import terminal in Kuching, Malaysia, targeting first gas by the end of 2029…",
+          "date": "2026-10-01",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543384-h-egh-evi-petros-to-develop-kuching-lng-terminal-in-malaysia",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Thailand-Malaysia Gas Pipeline Temporarily Shut Over Inspection Issue",
           "summary": "Malaysia's state energy firm PETRONAS said on Thursday that Trans Thai-Malaysia (Thailand), its joint venture with Thailand's, had temporarily shut the Songkhla…",
