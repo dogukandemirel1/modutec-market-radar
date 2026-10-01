@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T18:00:57Z",
+  "last_updated": "2026-10-01T19:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -121,14 +121,6 @@
           "relevant": false
         },
         {
-          "title": "Boskalis scores Dutch North Sea cabling job",
-          "summary": "Dutch marine contractor Boskalis has secured a contract worth between €50m and €150m ($57m-$170m) for inter-array cable installation on the first phase of the Zeevonk offshore wind farm in the Dutch North Sea. The…",
-          "date": "2026-10-01",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/boskalis-scores-dutch-north-sea-cabling-job/",
-          "relevant": false
-        },
-        {
           "title": "Borr Drilling lands West Africa award for Norve jackup, Shell option for Natt",
           "summary": "Borr Drilling secured a binding letter of award for the jackup Norve in West Africa and a customer option exercise for the Natt in Nigeria. The award from an undisclosed operator covers a firm scope of three wells with…",
           "date": "2026-10-01",
@@ -214,6 +206,14 @@
           "date": "2026-10-01",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543386-boskalis-set-to-install-inter-array-cables-at-zeevonk-offshore-wind-farm",
+          "relevant": false
+        },
+        {
+          "title": "Boskalis scores Dutch North Sea cabling job",
+          "summary": "Dutch marine contractor Boskalis has secured a contract worth between €50m and €150m ($57m-$170m) for inter-array cable installation on the first phase of the Zeevonk offshore wind farm in the Dutch North Sea. The…",
+          "date": "2026-10-01",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/boskalis-scores-dutch-north-sea-cabling-job/",
           "relevant": false
         },
         {
