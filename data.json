@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T07:00:55Z",
+  "last_updated": "2026-10-01T08:00:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3648,6 +3648,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Thailand-Malaysia Gas Pipeline Temporarily Shut Over Inspection Issue",
+          "summary": "Malaysia's state energy firm PETRONAS said on Thursday that Trans Thai-Malaysia (Thailand), its joint venture with Thailand's, had temporarily shut the Songkhla…",
+          "date": "2026-10-01",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543383-thailand-malaysia-gas-pipeline-temporarily-shut-over-inspection-issue",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Why trust still beats technology in chartering",
           "summary": "AI is taking over more of the science behind fixing ships, but the art of knowing who and what to believe still rests with people. Willem Vermaat reflects on his time on stage last week at Splash Singapore. Last week I…",
