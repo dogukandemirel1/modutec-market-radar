@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T17:00:53Z",
+  "last_updated": "2026-10-01T18:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -105,11 +105,43 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Salvage Work Begins on WWII ‘Time Bomb’ Wreck in Thames Estuary",
+          "summary": "More than 80 years after the SS Richard Montgomery sank in the Thames Estuary with roughly 1,400 tons of explosives still aboard, marine contractors have begun one of the most delicate interventions...",
+          "date": "2026-10-01",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/salvage-work-begins-on-wwii-time-bomb-wreck-in-thames-estuary/",
+          "relevant": false
+        },
+        {
+          "title": "Transpetrol trims aframax fleet in $73m deal",
+          "summary": "Belgian tanker owner Transpetrol Maritime Services has offloaded its 2016-built aframax in a $73m deal with Turkish buyers. VesselsValue data identified Transpetrol as the seller of the Hyundai Samho-built 114,070 dwt…",
+          "date": "2026-10-01",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/transpetrol-trims-aframax-fleet-in-73m-deal/",
+          "relevant": false
+        },
+        {
+          "title": "Boskalis scores Dutch North Sea cabling job",
+          "summary": "Dutch marine contractor Boskalis has secured a contract worth between €50m and €150m ($57m-$170m) for inter-array cable installation on the first phase of the Zeevonk offshore wind farm in the Dutch North Sea. The…",
+          "date": "2026-10-01",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/boskalis-scores-dutch-north-sea-cabling-job/",
+          "relevant": false
+        },
+        {
           "title": "Borr Drilling lands West Africa award for Norve jackup, Shell option for Natt",
           "summary": "Borr Drilling secured a binding letter of award for the jackup Norve in West Africa and a customer option exercise for the Natt in Nigeria. The award from an undisclosed operator covers a firm scope of three wells with…",
           "date": "2026-10-01",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/borr-drilling-lands-west-africa-award-for-norve-jackup-shell-option-for-natt-80192",
+          "relevant": false
+        },
+        {
+          "title": "Naval Group Begins Production of Sweden’s First FDI Frigate Just One Month After Contract Signing",
+          "summary": "Naval Group begins production on the Royal Swedish Navy’s first FDI frigate, the FDI Luleå, in Lorient just one month after the contract was signed. Naval Group press release On 1st October 2026, the steel-cutting…",
+          "date": "2026-10-01",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/naval-group-begins-production-of-swedens-first-fdi-frigate-just-one-month-after-contract-signing/",
           "relevant": false
         },
         {
@@ -134,6 +166,14 @@
           "date": "2026-10-01",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/01/boskalis-to-install-inter-array-cables-at-1-gw-dutch-offshore-wind-farm",
+          "relevant": false
+        },
+        {
+          "title": "OneSubsea to Deliver Production Systems for Rovuma LNG",
+          "summary": "The SLB joint venture received a contract from ExxonMobil to deliver subsea production systems for phase 1 of the planned Rovuma LNG project in Mozambique.",
+          "date": "2026-10-01",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/onesubsea_to_deliver_production_systems_for_rovuma_lng-01-oct-2026-184753-article/?rss=true",
           "relevant": false
         },
         {
@@ -174,22 +214,6 @@
           "date": "2026-10-01",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543386-boskalis-set-to-install-inter-array-cables-at-zeevonk-offshore-wind-farm",
-          "relevant": false
-        },
-        {
-          "title": "Transpetrol trims aframax fleet in $73m deal",
-          "summary": "Belgian tanker owner Transpetrol Maritime Services has offloaded its 2016-built aframax in a $73m deal with Turkish buyers. VesselsValue data identified Transpetrol as the seller of the Hyundai Samho-built 114,070 dwt…",
-          "date": "2026-10-01",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/transpetrol-trims-aframax-fleet-in-73m-deal/",
-          "relevant": false
-        },
-        {
-          "title": "Boskalis scores Dutch North Sea cabling job",
-          "summary": "Dutch marine contractor Boskalis has secured a contract worth between €50m and €150m ($57m-$170m) for inter-array cable installation on the first phase of the Zeevonk offshore wind farm in the Dutch North Sea. The…",
-          "date": "2026-10-01",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/boskalis-scores-dutch-north-sea-cabling-job/",
           "relevant": false
         },
         {
@@ -2289,6 +2313,14 @@
           "relevant": false
         },
         {
+          "title": "Eurotankers gets $60m for vintage LR2",
+          "summary": "Greek owner Eurotankers has reportedly sold its 2009-built LR2 for $60m, continuing to cash in older tanker tonnage as secondhand values remain elevated. S&P sources list the Hyundai Heavy Industries-built 105,291 dwt…",
+          "date": "2026-10-01",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/eurotankers-gets-60m-for-vintage-lr2/",
+          "relevant": false
+        },
+        {
           "title": "Emperor Energy clears regulatory hurdle for Judith-2 well, Gippsland Basin",
           "summary": "Emperor Energy secured approval from the National Offshore Petroleum Safety and Environmental Management Authority (NOPSEMA) for the Environment Plan covering drilling of the Judith-2 appraisal well in the offshore…",
           "date": "2026-10-01",
@@ -2318,14 +2350,6 @@
           "date": "2026-10-01",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/china_fuel_exporters_cancel_some_cargoes-01-oct-2026-184744-article/?rss=true",
-          "relevant": false
-        },
-        {
-          "title": "Eurotankers gets $60m for vintage LR2",
-          "summary": "Greek owner Eurotankers has reportedly sold its 2009-built LR2 for $60m, continuing to cash in older tanker tonnage as secondhand values remain elevated. S&P sources list the Hyundai Heavy Industries-built 105,291 dwt…",
-          "date": "2026-10-01",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/eurotankers-gets-60m-for-vintage-lr2/",
           "relevant": false
         },
         {
@@ -3841,6 +3865,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Yangzijiang Maritime tanker spree builds with Haifeng LR2 series",
+          "summary": "Singapore-listed Yangzijiang Maritime Development has built up a sizeable LR2 programme at China’s Jiangsu Haifeng Shipbuilding as the Ren Yuanlin-led group continues one of this year’s most aggressive tanker investment…",
+          "date": "2026-10-01",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/yangzijiang-maritime-tanker-spree-builds-with-haifeng-lr2-series/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "TGS to Reprocesses Seismic Data for Petronas’ Megah Discovery",
           "summary": "TGS has launched a 3D seismic reprocessing project covering about 514 square kilometers over Petronas’ Megah discovery in Block SB-3K offshore Sabah, Malaysia, with…",
           "date": "2026-10-01",
@@ -3868,15 +3901,6 @@
           "region": "SEA"
         },
         {
-          "title": "Yangzijiang Maritime tanker spree builds with Haifeng LR2 series",
-          "summary": "Singapore-listed Yangzijiang Maritime Development has built up a sizeable LR2 programme at China’s Jiangsu Haifeng Shipbuilding as the Ren Yuanlin-led group continues one of this year’s most aggressive tanker investment…",
-          "date": "2026-10-01",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/yangzijiang-maritime-tanker-spree-builds-with-haifeng-lr2-series/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Why trust still beats technology in chartering",
           "summary": "AI is taking over more of the science behind fixing ships, but the art of knowing who and what to believe still rests with people. Willem Vermaat reflects on his time on stage last week at Splash Singapore. Last week I…",
           "date": "2026-09-30",
@@ -3895,15 +3919,6 @@
           "region": "KSA"
         },
         {
-          "title": "Oil Slides on Saudi Supply Relief",
-          "summary": "Crude prices declined as improving Saudi supply flows eased fears of further shortages.",
-          "date": "2026-09-29",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/oil_slides_on_saudi_supply_relief-29-sep-2026-184732-article/?rss=true",
-          "relevant": false,
-          "region": "KSA"
-        },
-        {
           "title": "Fincantieri, PAL Indonesia set KRI Sriwijaya modernisation framework",
           "summary": "Fincantieri and state-owned shipbuilder PAL Indonesia have formalised a partnership to modernise the Indonesian Navy’s new flagship. The post Fincantieri, PAL Indonesia set KRI Sriwijaya modernisation framework appeared…",
           "date": "2026-09-29",
@@ -3911,6 +3926,15 @@
           "source_url": "https://www.naval-technology.com/news/fincantieri-pal-indonesia-kri-sriwijaya/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Oil Slides on Saudi Supply Relief",
+          "summary": "Crude prices declined as improving Saudi supply flows eased fears of further shortages.",
+          "date": "2026-09-29",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/oil_slides_on_saudi_supply_relief-29-sep-2026-184732-article/?rss=true",
+          "relevant": false,
+          "region": "KSA"
         },
         {
           "title": "Sponsored: ADIPEC 2026 set to Welcome record Asian Participation",
