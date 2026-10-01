@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T06:00:57Z",
+  "last_updated": "2026-10-01T07:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -129,14 +129,6 @@
           "relevant": false
         },
         {
-          "title": "BOMESC wins FPSO topsides deal from SBM Offshore",
-          "summary": "Chinese offshore engineering contractor BOMESC has secured a contract worth between RMB1.6bn and RMB2.1bn ($225m and $295m) from SBM Offshore for work on an FPSO destined for South America. BOMESC said its wholly owned…",
-          "date": "2026-09-30",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/bomesc-wins-fpso-topsides-deal-from-sbm-offshore/",
-          "relevant": false
-        },
-        {
           "title": "Amplitude takes FID on Otway ECSP development, sanctions Nestor well",
           "summary": "Amplitude Energy took a final investment decision (FID) on the development phase of its East Coast Supply Project (ECSP) in the offshore Otway Basin, Victoria, and agreed with partner O.G. Energy to drill the Nestor…",
           "date": "2026-09-30",
@@ -262,6 +254,14 @@
           "date": "2026-09-30",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543354-amplitude-energy-takes-fid-on-otway-gas-project-sanctions-nestor-well",
+          "relevant": false
+        },
+        {
+          "title": "BOMESC wins FPSO topsides deal from SBM Offshore",
+          "summary": "Chinese offshore engineering contractor BOMESC has secured a contract worth between RMB1.6bn and RMB2.1bn ($225m and $295m) from SBM Offshore for work on an FPSO destined for South America. BOMESC said its wholly owned…",
+          "date": "2026-09-30",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/bomesc-wins-fpso-topsides-deal-from-sbm-offshore/",
           "relevant": false
         },
         {
@@ -2176,6 +2176,22 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "APM Terminals boss urges ports to sweat existing assets harder",
+          "summary": "Sister title Splash Ports today carries an exclusive interview with APM Terminals chief executive Keith Svendsen who argues that the next phase of terminal growth will depend less on simply adding cranes and quay length…",
+          "date": "2026-10-01",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/apm-terminals-boss-urges-ports-to-sweat-existing-assets-harder/",
+          "relevant": false
+        },
+        {
+          "title": "Nobu Su targets mid-2028 return to shipowning",
+          "summary": "Nobu Su is plotting a return to shipowning, with the former TMT boss in final negotiations for an experimental newbuilding that could be delivered as early as May or June 2028. A new 33-page white paper from Su’s Morizo…",
+          "date": "2026-10-01",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/nobu-su-targets-mid-2028-return-to-shipowning/",
+          "relevant": false
+        },
         {
           "title": "Norden: The capital shift from tankers to dry cargo",
           "summary": "Jan Rindbo says today’s fragmented shipping markets demand flexibility, with tanker exposure being reduced as dry bulk offers a more attractive balance of risk and reward. Shipping’s fragmented markets are moving…",
