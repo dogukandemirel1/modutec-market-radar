@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T05:00:50Z",
+  "last_updated": "2026-10-02T06:01:28Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -2337,14 +2337,6 @@
           "relevant": false
         },
         {
-          "title": "Eurotankers gets $60m for vintage LR2",
-          "summary": "Greek owner Eurotankers has reportedly sold its 2009-built LR2 for $60m, continuing to cash in older tanker tonnage as secondhand values remain elevated. S&P sources list the Hyundai Heavy Industries-built 105,291 dwt…",
-          "date": "2026-10-01",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/eurotankers-gets-60m-for-vintage-lr2/",
-          "relevant": false
-        },
-        {
           "title": "Emperor Energy clears regulatory hurdle for Judith-2 well, Gippsland Basin",
           "summary": "Emperor Energy secured approval from the National Offshore Petroleum Safety and Environmental Management Authority (NOPSEMA) for the Environment Plan covering drilling of the Judith-2 appraisal well in the offshore…",
           "date": "2026-10-01",
@@ -2374,6 +2366,14 @@
           "date": "2026-10-01",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/china_fuel_exporters_cancel_some_cargoes-01-oct-2026-184744-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Eurotankers gets $60m for vintage LR2",
+          "summary": "Greek owner Eurotankers has reportedly sold its 2009-built LR2 for $60m, continuing to cash in older tanker tonnage as secondhand values remain elevated. S&P sources list the Hyundai Heavy Industries-built 105,291 dwt…",
+          "date": "2026-10-01",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/eurotankers-gets-60m-for-vintage-lr2/",
           "relevant": false
         },
         {
@@ -3304,6 +3304,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "South Africa advances landmark ports shake-up",
+          "summary": "South Africa is pressing ahead with one of the most significant restructurings of its troubled ports sector in decades, with cabinet backing the separation of Transnet National Ports Authority (TNPA) from Transnet and…",
+          "date": "2026-10-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/south-africa-advances-landmark-ports-shake-up/",
+          "relevant": false
+        },
         {
           "title": "Inpex broadens its Southeast Asian horizons with two offshore blocks",
           "summary": "The acquisition contributes to the expansion of Inpex’s natural gas and LNG business in Southeast Asia.",
