@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T09:00:58Z",
+  "last_updated": "2026-10-02T10:00:50Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -105,6 +105,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Carlova returns to Japan with Imabari aframax pair",
+          "summary": "Anthony Inglessis-led Carlova Maritime has ordered two 114,000 dwt aframax tankers at Imabari Shipbuilding, marking the Greek owner’s first newbuilding contracts in Japan since emerging from the break-up of Samos…",
+          "date": "2026-10-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/carlova-returns-to-japan-with-imabari-aframax-pair/",
+          "relevant": false
+        },
+        {
           "title": "Fresh attacks hit Hormuz tanker and Saudi oil gateway",
           "summary": "Kuwait Oil Tanker Company has suffered its second VLCC strike in four days, while a separate projectile attack at Saudi Arabia’s Yanbu port briefly disrupted loading operations, piling fresh security pressure on two of…",
           "date": "2026-10-02",
@@ -121,8 +129,16 @@
           "relevant": false
         },
         {
+          "title": "RTX’s Raytheon awarded multi-year contract for SM-6 interceptors",
+          "summary": "The US Department of War is seeking to build up stockpiles of key munitions, such as the US Navy's SM-6 multi-role missile. The post RTX’s Raytheon awarded multi-year contract for SM-6 interceptors appeared first on…",
+          "date": "2026-10-02",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/rtxs-raytheon-awarded-multi-year-contract-for-sm-6-interceptors/",
+          "relevant": false
+        },
+        {
           "title": "DNV Backs Blue Ammonia FPSO Concept from BW Offshore and McDermott",
-          "summary": "BW Offshore's blue ammonia floating production, storage and offloading (FPSO) concept, jointly developed with McDermott International, has received Approval in Principle (AiP9 from DNV…",
+          "summary": "BW Offshore's blue ammonia floating production, storage and offloading (FPSO) concept, jointly developed with McDermott, has received Approval in Principle (AiP) from DNV…",
           "date": "2026-10-02",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543425-dnv-backs-blue-ammonia-fpso-concept-from-bw-offshore-and-mcdermott",
@@ -2345,11 +2361,11 @@
           "relevant": false
         },
         {
-          "title": "ConocoPhillips reviews sale of Norway business",
-          "summary": "ConocoPhillips is considering selling its Norwegian operations and the Teesside terminal in the UK after receiving an unsolicited offer for the linked North Sea assets. The US producer has informed employees, partners…",
+          "title": "DOF gets ‘large’ booking for its vessel to undertake undisclosed subsea campaign",
+          "summary": "DOF bags a new letter of intent (LoI) for an undisclosed subsea campaign, locking in I-class vessel work for 2028.",
           "date": "2026-10-02",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/conocophillips-reviews-sale-of-norway-business/",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/02/dof-gets-large-booking-for-its-vessel-to-undertake-undisclosed-subsea-campaign",
           "relevant": false
         },
         {
@@ -2358,6 +2374,14 @@
           "date": "2026-10-02",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/iran_wants_sanctions_eased_to_allow_back_nuclear_inspectors-02-oct-2026-184755-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "ConocoPhillips reviews sale of Norway business",
+          "summary": "ConocoPhillips is considering selling its Norwegian operations and the Teesside terminal in the UK after receiving an unsolicited offer for the linked North Sea assets. The US producer has informed employees, partners…",
+          "date": "2026-10-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/conocophillips-reviews-sale-of-norway-business/",
           "relevant": false
         },
         {
@@ -3960,6 +3984,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "ONE folds Hong Kong regional HQ into Singapore",
+          "summary": "Ocean Network Express is consolidating its Asian regional management in Singapore, folding its Hong Kong-based East Asia headquarters into a new Asia Pacific operation from April 1, 2027. The Japanese containerline said…",
+          "date": "2026-10-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/one-folds-hong-kong-regional-hq-into-singapore/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Fragmented trade drives dry bulk tonne-mile demand",
           "summary": "Dry bulk shipping has entered the final quarter of 2026 in considerably better shape than most owners expected, with industry leaders at last week’s Splash Singapore conference arguing that increasingly fragmented trade…",
