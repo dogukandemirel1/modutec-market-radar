@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T16:00:58Z",
+  "last_updated": "2026-10-02T17:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -513,14 +513,6 @@
           "relevant": false
         },
         {
-          "title": "Arabian Drilling wins four-jackup contract from KJO",
-          "summary": "Arabian Drilling signed a four-year contract with Khafji Joint Operations (KJO) on 28 September 2026 to provide four jackup rigs. Arabian Drilling says the contract is valued at approximately SAR 2 billion and is the…",
-          "date": "2026-09-29",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/arabian-drilling-wins-four-jackup-offshore-contract-from-kjo-80162",
-          "relevant": false
-        },
-        {
           "title": "Next chapter of Shell’s Canadian LNG project brings Fluor-JGC JV multibillion-dollar award",
           "summary": "This contract is structured primarily on a lump-sum turnkey basis, with certain portions to be executed on a cost-plus basis.",
           "date": "2026-09-29",
@@ -550,6 +542,14 @@
           "date": "2026-09-29",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/kongsberg-naval-strike-missile-us/",
+          "relevant": false
+        },
+        {
+          "title": "Arabian Drilling wins four-jackup contract from KJO",
+          "summary": "Arabian Drilling signed a four-year contract with Khafji Joint Operations (KJO) on 28 September 2026 to provide four jackup rigs. Arabian Drilling says the contract is valued at approximately SAR 2 billion and is the…",
+          "date": "2026-09-29",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/arabian-drilling-wins-four-jackup-offshore-contract-from-kjo-80162",
           "relevant": false
         },
         {
