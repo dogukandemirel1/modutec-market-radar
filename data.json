@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T14:00:58Z",
+  "last_updated": "2026-10-02T15:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4047,6 +4047,15 @@
           "date": "2026-10-02",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/10/singapore-launches-first-sentinel-class-offshore-patrol-vessel-in-germany/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "TGS on 3D imaging mission to unlock new insights into Malaysia's offshore discovery",
+          "summary": "TGS is in charge of 3D seismic reprocessing for Petronas’ Malaysian hydrocarbon discovery offshore Sabah, targeting reduced subsurface risk.",
+          "date": "2026-10-02",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/02/tgs-on-3d-imaging-mission-to-unlock-new-insights-into-malaysias-offshore-discovery",
           "relevant": false,
           "region": "SEA"
         },
