@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T19:00:56Z",
+  "last_updated": "2026-10-02T20:00:50Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -2449,14 +2449,6 @@
           "relevant": false
         },
         {
-          "title": "Resilience Doesn’t Equal Security- Lloyd’s List",
-          "summary": "Strait of Hormuz transit data for the month of September reveals how the oil and container markets are tactically adjusting to the U.S./Israel war on Iran.",
-          "date": "2026-10-01",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/resilience-doesnt-equal-security-lloyds-list/",
-          "relevant": false
-        },
-        {
           "title": "Emperor Energy clears regulatory hurdle for Judith-2 well, Gippsland Basin",
           "summary": "Emperor Energy secured approval from the National Offshore Petroleum Safety and Environmental Management Authority (NOPSEMA) for the Environment Plan covering drilling of the Judith-2 appraisal well in the offshore…",
           "date": "2026-10-01",
@@ -2486,6 +2478,14 @@
           "date": "2026-10-01",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/china_fuel_exporters_cancel_some_cargoes-01-oct-2026-184744-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Resilience Doesn’t Equal Security- Lloyd’s List",
+          "summary": "Strait of Hormuz transit data for the month of September reveals how the oil and container markets are tactically adjusting to the U.S./Israel war on Iran.",
+          "date": "2026-10-01",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/resilience-doesnt-equal-security-lloyds-list/",
           "relevant": false
         },
         {
