@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T20:00:50Z",
+  "last_updated": "2026-10-02T21:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -361,14 +361,6 @@
           "relevant": false
         },
         {
-          "title": "Iraq Deepens October Crude Price Discounts",
-          "summary": "Iraq's state oil marketer offered buyers contractual crude supplies for October at discounts of as much as $37 a barrel to regional benchmarks, according to a document obtained by Bloomberg.",
-          "date": "2026-09-30",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/iraq_deepens_october_crude_price_discounts-30-sep-2026-184740-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Amplitude Energy takes FID on ECSP development offshore Australia",
           "summary": "Amplitude Energy has taken FID on the development phase of its ECSP in Victoria, Australia, with first gas still targeted for calendar year 2028.",
           "date": "2026-09-30",
@@ -414,6 +406,14 @@
           "date": "2026-09-30",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/boeing-us-navy-fa-xx/",
+          "relevant": false
+        },
+        {
+          "title": "Iraq Deepens October Crude Price Discounts",
+          "summary": "Iraq's state oil marketer offered buyers contractual crude supplies for October at discounts of as much as $37 a barrel to regional benchmarks, according to a document obtained by Bloomberg.",
+          "date": "2026-09-30",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/iraq_deepens_october_crude_price_discounts-30-sep-2026-184740-article/?rss=true",
           "relevant": false
         },
         {
@@ -2414,6 +2414,14 @@
           "date": "2026-10-02",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/02/dof-gets-large-booking-for-its-vessel-to-undertake-undisclosed-subsea-campaign",
+          "relevant": false
+        },
+        {
+          "title": "Canada PM Invokes New Powers to Fast-Track Oil Pipeline",
+          "summary": "Prime Minister Mark Carney is expediting regulatory approval for a new, high-capacity oil pipeline to expand Canada's access to Asian markets.",
+          "date": "2026-10-02",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/canada_pm_invokes_new_powers_to_fasttrack_oil_pipeline-02-oct-2026-184763-article/?rss=true",
           "relevant": false
         },
         {
