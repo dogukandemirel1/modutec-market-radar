@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T12:00:54Z",
+  "last_updated": "2026-10-02T13:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -2390,6 +2390,14 @@
           "date": "2026-10-02",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/mitsubishi-puts-635m-behind-shipyard-expansion/",
+          "relevant": false
+        },
+        {
+          "title": "MidOcean gets hold of $4 billion in major capital raise to fuel global LNG push",
+          "summary": "Backed by global institutional and sovereign investors, MidOcean Energy has banked $4 billion to expand its international LNG portfolio.",
+          "date": "2026-10-02",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/02/midocean-gets-hold-of-dollar4-billion-in-major-capital-raise-to-fuel-global-lng-push",
           "relevant": false
         },
         {
