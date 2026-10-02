@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T10:00:50Z",
+  "last_updated": "2026-10-02T10:27:27Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -104,6 +104,30 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "DOF secures preliminary award for 2028 project",
+          "summary": "Norwegian offshore vessel owner DOF has received a letter of intent to hire an I-class vessel in 2028. The scope of work includes DOF’s in-house project management and engineering, procurement, and logistics support…",
+          "date": "2026-10-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/dof-secures-preliminary-award-for-2028-project/",
+          "relevant": false
+        },
+        {
+          "title": "Chevron extends Australia asset-integrity deal with EnerMech",
+          "summary": "UK oilfield services specialist EnerMech has secured a five-year extension to its non-destructive testing contract with Chevron Australia, retaining the inspection and asset-integrity work until the end of 2031. The…",
+          "date": "2026-10-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/chevron-extends-australia-asset-integrity-deal-with-enermech/",
+          "relevant": false
+        },
+        {
+          "title": "MOL lands Vale charter for two tri-fuel ore carriers",
+          "summary": "Japanese shipping giant Mitsui OSK Lines (MOL) will operate two 210,000-dwt ore carriers for Vale under a 25-year contract, introducing tri-fuel propulsion to the long-haul iron ore trade. MOL Ocean Bulk, the group’s…",
+          "date": "2026-10-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/mol-lands-vale-charter-for-two-tri-fuel-ore-carriers/",
+          "relevant": false
+        },
         {
           "title": "Carlova returns to Japan with Imabari aframax pair",
           "summary": "Anthony Inglessis-led Carlova Maritime has ordered two 114,000 dwt aframax tankers at Imabari Shipbuilding, marking the Greek owner’s first newbuilding contracts in Japan since emerging from the break-up of Samos…",
