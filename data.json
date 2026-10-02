@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T06:01:28Z",
+  "last_updated": "2026-10-02T07:00:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -113,14 +113,6 @@
           "relevant": false
         },
         {
-          "title": "Transpetrol trims aframax fleet in $73m deal",
-          "summary": "Belgian tanker owner Transpetrol Maritime Services has offloaded its 2016-built aframax in a $73m deal with Turkish buyers. VesselsValue data identified Transpetrol as the seller of the Hyundai Samho-built 114,070 dwt…",
-          "date": "2026-10-01",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/transpetrol-trims-aframax-fleet-in-73m-deal/",
-          "relevant": false
-        },
-        {
           "title": "Borr Drilling lands West Africa award for Norve jackup, Shell option for Natt",
           "summary": "Borr Drilling secured a binding letter of award for the jackup Norve in West Africa and a customer option exercise for the Natt in Nigeria. The award from an undisclosed operator covers a firm scope of three wells with…",
           "date": "2026-10-01",
@@ -206,6 +198,14 @@
           "date": "2026-10-01",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543386-boskalis-set-to-install-inter-array-cables-at-zeevonk-offshore-wind-farm",
+          "relevant": false
+        },
+        {
+          "title": "Transpetrol trims aframax fleet in $73m deal",
+          "summary": "Belgian tanker owner Transpetrol Maritime Services has offloaded its 2016-built aframax in a $73m deal with Turkish buyers. VesselsValue data identified Transpetrol as the seller of the Hyundai Samho-built 114,070 dwt…",
+          "date": "2026-10-01",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/transpetrol-trims-aframax-fleet-in-73m-deal/",
           "relevant": false
         },
         {
@@ -457,19 +457,19 @@
           "relevant": false
         },
         {
-          "title": "Shell advances LNG Canada phase two project with FID",
-          "summary": "Shell Canada Energy, an affiliate of Shell, has taken a FID on Phase 2 of the LNG Canada project in Kitimat, British Columbia.",
-          "date": "2026-09-29",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/shell-lng-canada-phase-2-project-fid/",
-          "relevant": false
-        },
-        {
           "title": "Kongsberg wins up to $404m US contract for Naval Strike Missile",
           "summary": "Kongsberg has signed a framework agreement with the US Marine Corps covering production and sustainment for the Naval Strike Missile (NSM) launcher unit used in the service’s Navy/Marine Expeditionary Ship Interdiction…",
           "date": "2026-09-29",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/kongsberg-naval-strike-missile-us/",
+          "relevant": false
+        },
+        {
+          "title": "Shell advances LNG Canada phase two project with FID",
+          "summary": "Shell Canada Energy, an affiliate of Shell, has taken a FID on Phase 2 of the LNG Canada project in Kitimat, British Columbia.",
+          "date": "2026-09-29",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/shell-lng-canada-phase-2-project-fid/",
           "relevant": false
         },
         {
@@ -3899,9 +3899,18 @@
         {
           "title": "Fragmented trade drives dry bulk tonne-mile demand",
           "summary": "Dry bulk shipping has entered the final quarter of 2026 in considerably better shape than most owners expected, with industry leaders at last week’s Splash Singapore conference arguing that increasingly fragmented trade…",
-          "date": "2026-10-01",
+          "date": "2026-10-02",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/fragmented-trade-drives-dry-bulk-tonne-mile-demand/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "TGS advances seismic work in Malaysia and Gabon",
+          "summary": "Energy data group TGS is advancing offshore exploration work in Asia and Africa through a seismic reprocessing project over Petronas’s Megah discovery offshore Malaysia and a new 10-year data partnership with Gabon’s…",
+          "date": "2026-10-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/tgs-advances-seismic-work-in-malaysia-and-gabon/",
           "relevant": false,
           "region": "SEA"
         },
