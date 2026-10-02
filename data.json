@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T15:00:55Z",
+  "last_updated": "2026-10-02T16:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -143,6 +143,14 @@
           "source_name": "Splash247",
           "source_url": "https://splash247.com/fresh-attacks-hit-hormuz-tanker-and-saudi-oil-gateway/",
           "relevant": true
+        },
+        {
+          "title": "IRIS-T SLM for the German Navy: agreement on adaptation development for the F125 frigates",
+          "summary": "Diehl Defence and the Federal Office of Bundeswehr Equipment, Information Technology, and In-Service Support (BAAINBw) have signed a contract for the adaptation development of IRIS-T SLM. The aim is to make the system…",
+          "date": "2026-10-02",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/iris-t-slm-for-the-german-navy-agreement-on-adaptation-development-for-the-f125-frigates/",
+          "relevant": false
         },
         {
           "title": "BlueNewables and Naturgy testing Spanish waters as 1MW floating solar project kicks off in Valencia",
@@ -345,14 +353,6 @@
           "relevant": false
         },
         {
-          "title": "Boeing Wins U.S. Navy’s F/A-XX Next Generation Fighter Contract",
-          "summary": "The U.S. Navy announced its selection of Boeing to build the next-generation Navy fighter late on September 29th, with the reveal arriving after an over 18-month-long pause in news about the program and its progress…",
-          "date": "2026-09-30",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/boeing-wins-u-s-navys-f-a-xx-next-generation-fighter-contract/",
-          "relevant": false
-        },
-        {
           "title": "LNG-to-FSRU conversion widening Karpowership-backed Kinetics’ gas infrastructure fleet",
           "summary": "Kinetics is expanding its fleet by converting a vessel into a floating storage and regasification unit (FSRU).",
           "date": "2026-09-30",
@@ -414,6 +414,14 @@
           "date": "2026-09-30",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/boeing-us-navy-fa-xx/",
+          "relevant": false
+        },
+        {
+          "title": "Boeing Wins U.S. Navy’s F/A-XX Next Generation Fighter Contract",
+          "summary": "The U.S. Navy announced its selection of Boeing to build the next-generation Navy fighter late on September 29th, with the reveal arriving after an over 18-month-long pause in news about the program and its progress…",
+          "date": "2026-09-30",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/boeing-wins-u-s-navys-f-a-xx-next-generation-fighter-contract/",
           "relevant": false
         },
         {
@@ -3424,6 +3432,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "Matador adds 156 net Delaware Basin locations as Paloma deal closes",
+          "summary": "Matador Resources completed its acquisition of Paloma Permian for $1.255 billion in cash, subject to customary post-closing adjustments. The purchase adds approximately 16,500 net primarily undeveloped acres in Eddy and…",
+          "date": "2026-10-02",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/matador-adds-156-net-delaware-basin-locations-as-paloma-deal-closes-80201",
+          "relevant": false
+        },
         {
           "title": "BP taking the wheel of Namibian license trio as farm-in deal clear final regulatory gate",
           "summary": "Namibia approves Eco Atlantic's farm-down to BP across three offshore licenses, bringing the partial divestment to the homestretch.",
