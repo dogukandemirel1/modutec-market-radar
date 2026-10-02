@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T23:00:50Z",
+  "last_updated": "2026-10-02T00:00:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -2304,6 +2304,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "UK Hits Eight Russian Ships in New Sanctions Package",
+          "summary": "The United Kingdom has imposed sanctions on eight ships as part of a broader package targeting Russian energy revenues, maritime logistics and individuals accused of supporting Moscow’s war in Ukraine....",
+          "date": "2026-10-01",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/uk-hits-eight-russian-ships-in-new-sanctions-package/",
+          "relevant": false
+        },
         {
           "title": "U.S. Targets Iran’s Rail and Shadow Banking Networks as Maritime Blockade Tightens",
           "summary": "The Trump administration expanded its economic campaign against Iran on Thursday, targeting the country’s rail system, major industrial companies and a Russia-linked shadow banking network that U.S. officials say has...",
