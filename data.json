@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T08:00:51Z",
+  "last_updated": "2026-10-02T09:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -118,6 +118,22 @@
           "date": "2026-10-02",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/02/bluenewables-and-naturgy-testing-spanish-waters-as-1mw-floating-solar-project-kicks-off-in-valencia",
+          "relevant": false
+        },
+        {
+          "title": "DNV Backs Blue Ammonia FPSO Concept from BW Offshore and McDermott",
+          "summary": "BW Offshore's blue ammonia floating production, storage and offloading (FPSO) concept, jointly developed with McDermott International, has received Approval in Principle (AiP9 from DNV…",
+          "date": "2026-10-02",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543425-dnv-backs-blue-ammonia-fpso-concept-from-bw-offshore-and-mcdermott",
+          "relevant": false
+        },
+        {
+          "title": "Golden Energy’s PSV Gets Two New Charters",
+          "summary": "Golden Energy Offshore Services (GEOS) has secured two new charter contracts for its large platform supply vessel (PSV) Energy Swan with a combined estimated firm value of about $8…",
+          "date": "2026-10-02",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543424-golden-energy-s-psv-gets-two-new-charters",
           "relevant": false
         },
         {
@@ -2320,6 +2336,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "Mitsubishi puts $635m behind shipyard expansion",
+          "summary": "Mitsubishi Heavy Industries is putting around ¥100bn ($635m) into expanding shipbuilding capacity at Shimonoseki, sealing a land deal with the city for a new production base on the artificial island of Choshu Dejima…",
+          "date": "2026-10-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/mitsubishi-puts-635m-behind-shipyard-expansion/",
+          "relevant": false
+        },
         {
           "title": "ConocoPhillips reviews sale of Norway business",
           "summary": "ConocoPhillips is considering selling its Norwegian operations and the Teesside terminal in the UK after receiving an unsolicited offer for the linked North Sea assets. The US producer has informed employees, partners…",
