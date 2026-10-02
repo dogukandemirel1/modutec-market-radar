@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T07:00:53Z",
+  "last_updated": "2026-10-02T08:00:51Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -104,6 +104,22 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Fresh attacks hit Hormuz tanker and Saudi oil gateway",
+          "summary": "Kuwait Oil Tanker Company has suffered its second VLCC strike in four days, while a separate projectile attack at Saudi Arabia’s Yanbu port briefly disrupted loading operations, piling fresh security pressure on two of…",
+          "date": "2026-10-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/fresh-attacks-hit-hormuz-tanker-and-saudi-oil-gateway/",
+          "relevant": true
+        },
+        {
+          "title": "BlueNewables and Naturgy testing Spanish waters as 1MW floating solar project kicks off in Valencia",
+          "summary": "BlueNewables and Naturgy have broken ground on Spain’s first major offshore test, deploying a 1MW floating solar project off the coast of Valencia.",
+          "date": "2026-10-02",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/02/bluenewables-and-naturgy-testing-spanish-waters-as-1mw-floating-solar-project-kicks-off-in-valencia",
+          "relevant": false
+        },
         {
           "title": "Salvage Work Begins on WWII ‘Time Bomb’ Wreck in Thames Estuary",
           "summary": "More than 80 years after the SS Richard Montgomery sank in the Thames Estuary with roughly 1,400 tons of explosives still aboard, marine contractors have begun one of the most delicate interventions...",
@@ -297,14 +313,6 @@
           "relevant": false
         },
         {
-          "title": "Leviathan's Israeli Owners Cancel $6.7B Domestic Supply Deal",
-          "summary": "Chevron's local partners in Israel's Leviathan gas and condensate field binned a potential contract to supply natural gas from the Mediterranean project to two planned domestic power plants.",
-          "date": "2026-09-30",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/leviathans_israeli_owners_cancel_67b_domestic_supply_deal-30-sep-2026-184735-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Amplitude Energy takes FID on ECSP development offshore Australia",
           "summary": "Amplitude Energy has taken FID on the development phase of its ECSP in Victoria, Australia, with first gas still targeted for calendar year 2028.",
           "date": "2026-09-30",
@@ -350,6 +358,14 @@
           "date": "2026-09-30",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/boeing-us-navy-fa-xx/",
+          "relevant": false
+        },
+        {
+          "title": "Leviathan's Israeli Owners Cancel $6.7B Domestic Supply Deal",
+          "summary": "Chevron's local partners in Israel's Leviathan gas and condensate field binned a potential contract to supply natural gas from the Mediterranean project to two planned domestic power plants.",
+          "date": "2026-09-30",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/leviathans_israeli_owners_cancel_67b_domestic_supply_deal-30-sep-2026-184735-article/?rss=true",
           "relevant": false
         },
         {
@@ -2305,6 +2321,22 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "ConocoPhillips reviews sale of Norway business",
+          "summary": "ConocoPhillips is considering selling its Norwegian operations and the Teesside terminal in the UK after receiving an unsolicited offer for the linked North Sea assets. The US producer has informed employees, partners…",
+          "date": "2026-10-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/conocophillips-reviews-sale-of-norway-business/",
+          "relevant": false
+        },
+        {
+          "title": "Iran Wants Sanctions Eased to Allow Back Nuclear Inspectors",
+          "summary": "The concession could help break deadlocked peace talks with the U.S.",
+          "date": "2026-10-02",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/iran_wants_sanctions_eased_to_allow_back_nuclear_inspectors-02-oct-2026-184755-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "UK Hits Eight Russian Ships in New Sanctions Package",
           "summary": "The United Kingdom has imposed sanctions on eight ships as part of a broader package targeting Russian energy revenues, maritime logistics and individuals accused of supporting Moscow’s war in Ukraine....",
           "date": "2026-10-01",
@@ -3313,6 +3345,14 @@
           "relevant": false
         },
         {
+          "title": "Kotug takes majority stake in Vortex Offshore",
+          "summary": "Offshore towage specialist Kotug International has acquired a majority interest in Dubai-based Vortex Offshore. Financial terms and the exact size of the stake were not disclosed. Vortex will retain its existing brand…",
+          "date": "2026-10-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/kotug-takes-majority-stake-in-vortex-offshore/",
+          "relevant": true
+        },
+        {
           "title": "Inpex broadens its Southeast Asian horizons with two offshore blocks",
           "summary": "The acquisition contributes to the expansion of Inpex’s natural gas and LNG business in Southeast Asia.",
           "date": "2026-10-01",
@@ -3915,15 +3955,6 @@
           "region": "SEA"
         },
         {
-          "title": "Yangzijiang Maritime tanker spree builds with Haifeng LR2 series",
-          "summary": "Singapore-listed Yangzijiang Maritime Development has built up a sizeable LR2 programme at China’s Jiangsu Haifeng Shipbuilding as the Ren Yuanlin-led group continues one of this year’s most aggressive tanker investment…",
-          "date": "2026-10-01",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/yangzijiang-maritime-tanker-spree-builds-with-haifeng-lr2-series/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "TGS to Reprocesses Seismic Data for Petronas’ Megah Discovery",
           "summary": "TGS has launched a 3D seismic reprocessing project covering about 514 square kilometers over Petronas’ Megah discovery in Block SB-3K offshore Sabah, Malaysia, with…",
           "date": "2026-10-01",
@@ -3947,6 +3978,15 @@
           "date": "2026-10-01",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543383-thailand-malaysia-gas-pipeline-temporarily-shut-over-inspection-issue",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Yangzijiang Maritime tanker spree builds with Haifeng LR2 series",
+          "summary": "Singapore-listed Yangzijiang Maritime Development has built up a sizeable LR2 programme at China’s Jiangsu Haifeng Shipbuilding as the Ren Yuanlin-led group continues one of this year’s most aggressive tanker investment…",
+          "date": "2026-10-01",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/yangzijiang-maritime-tanker-spree-builds-with-haifeng-lr2-series/",
           "relevant": false,
           "region": "SEA"
         },
