@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T13:00:56Z",
+  "last_updated": "2026-10-02T14:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -369,14 +369,6 @@
           "relevant": false
         },
         {
-          "title": "Cheniere Notches 22-Year LNG Contract to Supply Petrobras",
-          "summary": "Earlier Sempra announced a 20-year agreement to also supply about 0.8 MMtpa of LNG to the Brazilian state-owned company.",
-          "date": "2026-09-30",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/cheniere_notches_22year_lng_contract_to_supply_petrobras-30-sep-2026-184741-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Amplitude Energy takes FID on ECSP development offshore Australia",
           "summary": "Amplitude Energy has taken FID on the development phase of its ECSP in Victoria, Australia, with first gas still targeted for calendar year 2028.",
           "date": "2026-09-30",
@@ -422,6 +414,14 @@
           "date": "2026-09-30",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/boeing-us-navy-fa-xx/",
+          "relevant": false
+        },
+        {
+          "title": "Cheniere Notches 22-Year LNG Contract to Supply Petrobras",
+          "summary": "Earlier Sempra announced a 20-year agreement to also supply about 0.8 MMtpa of LNG to the Brazilian state-owned company.",
+          "date": "2026-09-30",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/cheniere_notches_22year_lng_contract_to_supply_petrobras-30-sep-2026-184741-article/?rss=true",
           "relevant": false
         },
         {
@@ -4038,6 +4038,15 @@
           "date": "2026-10-02",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/one-folds-hong-kong-regional-hq-into-singapore/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Singapore Launches First Sentinel-class Offshore Patrol Vessel in Germany",
+          "summary": "On October 1, 2026, the Republic of Singapore Navy (RSN) has launched its first new Sentinel-class Offshore Patrol Vessel (OPV), Sentinel, in Germany. The launch ceremony was attended by Singapore’s Minister for…",
+          "date": "2026-10-02",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/singapore-launches-first-sentinel-class-offshore-patrol-vessel-in-germany/",
           "relevant": false,
           "region": "SEA"
         },
