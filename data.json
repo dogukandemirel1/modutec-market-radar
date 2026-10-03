@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T08:00:54Z",
+  "last_updated": "2026-10-03T09:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -104,6 +104,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Metal Shark Awarded Contract for 13 Patrol Boats for Vietnam",
+          "summary": "Louisiana-based boatbuilder Metal Shark has been awarded a U.S. Government contract to build 13 patrol boats for Vietnam, with options for additional vessels. Metal Shark press release The contract expands Metal Shark’s…",
+          "date": "2026-10-03",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/metal-shark-awarded-contract-for-13-patrol-boats-for-vietnam/",
+          "relevant": false
+        },
         {
           "title": "DOF secures preliminary award for 2028 project",
           "summary": "Norwegian offshore vessel owner DOF has received a letter of intent to hire an I-class vessel in 2028. The scope of work includes DOF’s in-house project management and engineering, procurement, and logistics support…",
@@ -345,14 +353,6 @@
           "relevant": false
         },
         {
-          "title": "HII Wins U.S. Navy Contract for 10 ROMULUS USVs",
-          "summary": "HII was awarded a contract by the U.S. Navy to build 10 ROMULUS unmanned surface vessels (USVs) for the Medium Unmanned Surface Vessel (MUSV) program. HII press release The award marks a major advancement in the U.S…",
-          "date": "2026-09-30",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/hii-wins-u-s-navy-contract-for-10-romulus-usvs/",
-          "relevant": false
-        },
-        {
           "title": "LNG-to-FSRU conversion widening Karpowership-backed Kinetics’ gas infrastructure fleet",
           "summary": "Kinetics is expanding its fleet by converting a vessel into a floating storage and regasification unit (FSRU).",
           "date": "2026-09-30",
@@ -406,6 +406,14 @@
           "date": "2026-09-30",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/boeing-us-navy-fa-xx/",
+          "relevant": false
+        },
+        {
+          "title": "HII Wins U.S. Navy Contract for 10 ROMULUS USVs",
+          "summary": "HII was awarded a contract by the U.S. Navy to build 10 ROMULUS unmanned surface vessels (USVs) for the Medium Unmanned Surface Vessel (MUSV) program. HII press release The award marks a major advancement in the U.S…",
+          "date": "2026-09-30",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/hii-wins-u-s-navy-contract-for-10-romulus-usvs/",
           "relevant": false
         },
         {
