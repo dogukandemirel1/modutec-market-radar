@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T14:00:53Z",
+  "last_updated": "2026-10-03T15:00:54Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4064,6 +4064,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Desan Shipyard Launches First MPMS for Malaysian Coast Guard in Istanbul",
+          "summary": "The Malaysian Maritime Agency (Maritim Malaysia) has achieved another significant milestone through the launch of the Multi Purpose Mission Ship (MPMS 1) at the Desan Shipyard in Türkiye yesterday. Malaysian Maritime…",
+          "date": "2026-10-03",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/desan-shipyard-launches-first-mpms-for-malaysian-coast-guard-in-istanbul/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Saudis Plan Assault on Houthis to Break Red Sea Chokehold",
           "summary": "Saudi Arabia is planning an offensive against Iran-backed Houthi militants in Yemen, with options being considered including a coastal push to secure the Red Sea shipping route or an assault on multiple fronts, regional…",
