@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T17:00:49Z",
+  "last_updated": "2026-10-03T18:00:49Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -2409,6 +2409,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Trump Says He Did Not ‘Jump The Gun’ On South Korea Alaska LNG Investment Announcement",
+          "summary": "By Nandita Bose and Timothy Gardner Oct 2 (Reuters) – US President Donald Trump said on Friday he did not “jump the gun” on announcing a South Korean investment in Alaska LNG, a liquefied...",
+          "date": "2026-10-03",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/trump-says-he-did-not-jump-the-gun-on-south-korea-alaska-lng-investment-announcement/",
+          "relevant": false
+        },
+        {
           "title": "Mitsubishi puts $635m behind shipyard expansion",
           "summary": "Mitsubishi Heavy Industries is putting around ¥100bn ($635m) into expanding shipbuilding capacity at Shimonoseki, sealing a land deal with the city for a new production base on the artificial island of Choshu Dejima…",
           "date": "2026-10-02",
@@ -2465,14 +2473,6 @@
           "relevant": false
         },
         {
-          "title": "U.S. Targets Iran’s Rail and Shadow Banking Networks as Maritime Blockade Tightens",
-          "summary": "The Trump administration expanded its economic campaign against Iran on Thursday, targeting the country’s rail system, major industrial companies and a Russia-linked shadow banking network that U.S. officials say has...",
-          "date": "2026-10-01",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/u-s-targets-irans-rail-and-shadow-banking-networks-as-maritime-blockade-tightens/",
-          "relevant": false
-        },
-        {
           "title": "Emperor Energy clears regulatory hurdle for Judith-2 well, Gippsland Basin",
           "summary": "Emperor Energy secured approval from the National Offshore Petroleum Safety and Environmental Management Authority (NOPSEMA) for the Environment Plan covering drilling of the Judith-2 appraisal well in the offshore…",
           "date": "2026-10-01",
@@ -2494,6 +2494,14 @@
           "date": "2026-10-01",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/enis_renewables_arm_gets_capital_raise_under_new_shareholding_structure-01-oct-2026-184746-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "U.S. Targets Iran’s Rail and Shadow Banking Networks as Maritime Blockade Tightens",
+          "summary": "The Trump administration expanded its economic campaign against Iran on Thursday, targeting the country’s rail system, major industrial companies and a Russia-linked shadow banking network that U.S. officials say has...",
+          "date": "2026-10-01",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/u-s-targets-irans-rail-and-shadow-banking-networks-as-maritime-blockade-tightens/",
           "relevant": false
         },
         {
