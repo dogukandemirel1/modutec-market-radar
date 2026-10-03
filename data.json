@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T16:00:57Z",
+  "last_updated": "2026-10-03T17:00:49Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -104,6 +104,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Raytheon awarded $24.4 billion multi-year contract for SM-6 interceptors",
+          "summary": "Raytheon has secured a five-year contract, with two additional option years, valued up to $24.4 billion for Standard Missile-6 (SM-6) interceptors, significantly increasing the availability of a critical munition able…",
+          "date": "2026-10-03",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/raytheon-awarded-24-4-billion-multi-year-contract-for-sm-6-interceptors/",
+          "relevant": false
+        },
         {
           "title": "Metal Shark Awarded Contract for 13 Patrol Boats for Vietnam",
           "summary": "Louisiana-based boatbuilder Metal Shark has been awarded a U.S. Government contract to build 13 patrol boats for Vietnam, with options for additional vessels. Metal Shark press release The contract expands Metal Shark’s…",
@@ -345,14 +353,6 @@
           "relevant": false
         },
         {
-          "title": "Saronic Awarded Production Contract for Marauder Under U.S. Navy’s MUSV Marketplace",
-          "summary": "Saronic Technologies has been awarded a production Other Transaction (OT) under the U.S. Navy’s Medium Unmanned Surface Vessel (MUSV) Marketplace for Marauder, the company’s dual-use 180-foot autonomous ship. Saronic…",
-          "date": "2026-09-30",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/saronic-awarded-production-contract-for-marauder-under-u-s-navys-musv-marketplace/",
-          "relevant": false
-        },
-        {
           "title": "LNG-to-FSRU conversion widening Karpowership-backed Kinetics’ gas infrastructure fleet",
           "summary": "Kinetics is expanding its fleet by converting a vessel into a floating storage and regasification unit (FSRU).",
           "date": "2026-09-30",
@@ -406,6 +406,14 @@
           "date": "2026-09-30",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/boeing-us-navy-fa-xx/",
+          "relevant": false
+        },
+        {
+          "title": "Saronic Awarded Production Contract for Marauder Under U.S. Navy’s MUSV Marketplace",
+          "summary": "Saronic Technologies has been awarded a production Other Transaction (OT) under the U.S. Navy’s Medium Unmanned Surface Vessel (MUSV) Marketplace for Marauder, the company’s dual-use 180-foot autonomous ship. Saronic…",
+          "date": "2026-09-30",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/saronic-awarded-production-contract-for-marauder-under-u-s-navys-musv-marketplace/",
           "relevant": false
         },
         {
