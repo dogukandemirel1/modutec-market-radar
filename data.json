@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T08:00:48Z",
+  "last_updated": "2026-10-04T09:00:51Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4098,6 +4098,23 @@
           "region": "SEA"
         },
         {
+          "title": "Saudis Plan Assault on Houthis to Break Red Sea Chokehold",
+          "summary": "Saudi Arabia is planning an offensive against Iran-backed Houthi militants in Yemen, with options being considered including a coastal push to secure the Red Sea shipping route or an assault on multiple fronts, regional…",
+          "date": "2026-10-02",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/saudis-plan-assault-on-houthis-to-break-red-sea-chokehold/",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "U.S. Adds Carrier and 10,000 Troops to Middle East",
+          "summary": "The Pentagon is deploying an additional aircraft carrier and 10,000 sailors and Marines to the Persian Gulf, according to a US official, a move that gives American commanders more options if President Donald Trump…",
+          "date": "2026-10-02",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/us-adds-carrier-and-10000-troops-to-middle-east/",
+          "relevant": false
+        },
+        {
           "title": "ONE folds Hong Kong regional HQ into Singapore",
           "summary": "Ocean Network Express is consolidating its Asian regional management in Singapore, folding its Hong Kong-based East Asia headquarters into a new Asia Pacific operation from April 1, 2027. The Japanese containerline said…",
           "date": "2026-10-02",
@@ -4123,23 +4140,6 @@
           "source_url": "https://offshore-energy.biz/2026/10/02/tgs-on-3d-imaging-mission-to-unlock-new-insights-into-malaysias-offshore-discovery",
           "relevant": false,
           "region": "SEA"
-        },
-        {
-          "title": "Saudis Plan Assault on Houthis to Break Red Sea Chokehold",
-          "summary": "Saudi Arabia is planning an offensive against Iran-backed Houthi militants in Yemen, with options being considered including a coastal push to secure the Red Sea shipping route or an assault on multiple fronts, regional…",
-          "date": "2026-10-02",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/saudis-plan-assault-on-houthis-to-break-red-sea-chokehold/",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
-          "title": "U.S. Adds Carrier and 10,000 Troops to Middle East",
-          "summary": "The Pentagon is deploying an additional aircraft carrier and 10,000 sailors and Marines to the Persian Gulf, according to a US official, a move that gives American commanders more options if President Donald Trump…",
-          "date": "2026-10-02",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/us-adds-carrier-and-10000-troops-to-middle-east/",
-          "relevant": false
         },
         {
           "title": "Fragmented trade drives dry bulk tonne-mile demand",
