@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T20:00:54Z",
+  "last_updated": "2026-10-04T21:00:54Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -137,30 +137,6 @@
           "relevant": false
         },
         {
-          "title": "Chevron extends Australia asset-integrity deal with EnerMech",
-          "summary": "UK oilfield services specialist EnerMech has secured a five-year extension to its non-destructive testing contract with Chevron Australia, retaining the inspection and asset-integrity work until the end of 2031. The…",
-          "date": "2026-10-02",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/chevron-extends-australia-asset-integrity-deal-with-enermech/",
-          "relevant": false
-        },
-        {
-          "title": "MOL lands Vale charter for two tri-fuel ore carriers",
-          "summary": "Japanese shipping giant Mitsui OSK Lines (MOL) will operate two 210,000-dwt ore carriers for Vale under a 25-year contract, introducing tri-fuel propulsion to the long-haul iron ore trade. MOL Ocean Bulk, the group’s…",
-          "date": "2026-10-02",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/mol-lands-vale-charter-for-two-tri-fuel-ore-carriers/",
-          "relevant": false
-        },
-        {
-          "title": "Carlova returns to Japan with Imabari aframax pair",
-          "summary": "Anthony Inglessis-led Carlova Maritime has ordered two 114,000 dwt aframax tankers at Imabari Shipbuilding, marking the Greek owner’s first newbuilding contracts in Japan since emerging from the break-up of Samos…",
-          "date": "2026-10-02",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/carlova-returns-to-japan-with-imabari-aframax-pair/",
-          "relevant": false
-        },
-        {
           "title": "IRIS-T SLM for the German Navy: agreement on adaptation development for the F125 frigates",
           "summary": "Diehl Defence and the Federal Office of Bundeswehr Equipment, Information Technology, and In-Service Support (BAAINBw) have signed a contract for the adaptation development of IRIS-T SLM. The aim is to make the system…",
           "date": "2026-10-02",
@@ -206,6 +182,30 @@
           "date": "2026-10-02",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543424-golden-energy-s-psv-gets-two-new-charters",
+          "relevant": false
+        },
+        {
+          "title": "Chevron extends Australia asset-integrity deal with EnerMech",
+          "summary": "UK oilfield services specialist EnerMech has secured a five-year extension to its non-destructive testing contract with Chevron Australia, retaining the inspection and asset-integrity work until the end of 2031. The…",
+          "date": "2026-10-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/chevron-extends-australia-asset-integrity-deal-with-enermech/",
+          "relevant": false
+        },
+        {
+          "title": "MOL lands Vale charter for two tri-fuel ore carriers",
+          "summary": "Japanese shipping giant Mitsui OSK Lines (MOL) will operate two 210,000-dwt ore carriers for Vale under a 25-year contract, introducing tri-fuel propulsion to the long-haul iron ore trade. MOL Ocean Bulk, the group’s…",
+          "date": "2026-10-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/mol-lands-vale-charter-for-two-tri-fuel-ore-carriers/",
+          "relevant": false
+        },
+        {
+          "title": "Carlova returns to Japan with Imabari aframax pair",
+          "summary": "Anthony Inglessis-led Carlova Maritime has ordered two 114,000 dwt aframax tankers at Imabari Shipbuilding, marking the Greek owner’s first newbuilding contracts in Japan since emerging from the break-up of Samos…",
+          "date": "2026-10-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/carlova-returns-to-japan-with-imabari-aframax-pair/",
           "relevant": false
         },
         {
@@ -4104,6 +4104,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Singapore puts ship registration on AI fast track",
+          "summary": "Singapore is preparing an AI-powered overhaul of its ship registry that will cut standard registration processing times from as much as three working days to a matter of minutes. The Maritime and Port Authority of…",
+          "date": "2026-10-04",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/singapore-puts-ship-registration-on-ai-fast-track/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Desan Shipyard Launches First MPMS for Malaysian Coast Guard in Istanbul",
           "summary": "The Malaysian Maritime Agency (Maritim Malaysia) has achieved another significant milestone through the launch of the Multi Purpose Mission Ship (MPMS 1) at the Desan Shipyard in Türkiye yesterday. Malaysian Maritime…",
