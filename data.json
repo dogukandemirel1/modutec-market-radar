@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T10:32:20Z",
+  "last_updated": "2026-10-04T11:00:49Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -2414,6 +2414,14 @@
           "date": "2026-10-04",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/shipping-markets-hit-new-highs-across-multiple-sectors/",
+          "relevant": false
+        },
+        {
+          "title": "Uniper, Biotrend Plan to Produce Biogas in Turkiye for Europe",
+          "summary": "'The cooperation with Biotrend could open up a new source of renewable gas for European markets while further diversifying Uniper's portfolio'.",
+          "date": "2026-10-04",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/uniper_biotrend_plan_to_produce_biogas_in_turkiye_for_europe-04-oct-2026-184764-article/?rss=true",
           "relevant": false
         },
         {
