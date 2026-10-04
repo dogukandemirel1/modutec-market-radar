@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T21:00:54Z",
+  "last_updated": "2026-10-04T22:00:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -129,14 +129,6 @@
           "relevant": false
         },
         {
-          "title": "DOF secures preliminary award for 2028 project",
-          "summary": "Norwegian offshore vessel owner DOF has received a letter of intent to hire an I-class vessel in 2028. The scope of work includes DOF’s in-house project management and engineering, procurement, and logistics support…",
-          "date": "2026-10-02",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/dof-secures-preliminary-award-for-2028-project/",
-          "relevant": false
-        },
-        {
           "title": "IRIS-T SLM for the German Navy: agreement on adaptation development for the F125 frigates",
           "summary": "Diehl Defence and the Federal Office of Bundeswehr Equipment, Information Technology, and In-Service Support (BAAINBw) have signed a contract for the adaptation development of IRIS-T SLM. The aim is to make the system…",
           "date": "2026-10-02",
@@ -182,6 +174,14 @@
           "date": "2026-10-02",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543424-golden-energy-s-psv-gets-two-new-charters",
+          "relevant": false
+        },
+        {
+          "title": "DOF secures preliminary award for 2028 project",
+          "summary": "Norwegian offshore vessel owner DOF has received a letter of intent to hire an I-class vessel in 2028. The scope of work includes DOF’s in-house project management and engineering, procurement, and logistics support…",
+          "date": "2026-10-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/dof-secures-preliminary-award-for-2028-project/",
           "relevant": false
         },
         {
@@ -2417,19 +2417,19 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
-          "title": "Shipping markets hit new highs across multiple sectors",
-          "summary": "Shipping’s extraordinary earnings boom powered further into uncharted territory on Friday, with Clarksons Research’s cross-sector ClarkSea Index jumping another 14% to $75,658 a day, its fourth consecutive all-time…",
-          "date": "2026-10-04",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/shipping-markets-hit-new-highs-across-multiple-sectors/",
-          "relevant": false
-        },
-        {
           "title": "Uniper, Biotrend Plan to Produce Biogas in Turkiye for Europe",
           "summary": "'The cooperation with Biotrend could open up a new source of renewable gas for European markets while further diversifying Uniper's portfolio'.",
           "date": "2026-10-04",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/uniper_biotrend_plan_to_produce_biogas_in_turkiye_for_europe-04-oct-2026-184764-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Shipping markets hit new highs across multiple sectors",
+          "summary": "Shipping’s extraordinary earnings boom powered further into uncharted territory on Friday, with Clarksons Research’s cross-sector ClarkSea Index jumping another 14% to $75,658 a day, its fourth consecutive all-time…",
+          "date": "2026-10-04",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/shipping-markets-hit-new-highs-across-multiple-sectors/",
           "relevant": false
         },
         {
@@ -4104,6 +4104,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Gunvor rebrands as Centalion and heads for Singapore",
+          "summary": "Commodity trading giant Gunvor is changing its name to Centalion and moving its corporate base to Singapore less than a year after completing a management buyout. The employee partnership that owns the business has…",
+          "date": "2026-10-04",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/gunvor-rebrands-as-centalion-and-heads-for-singapore/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Singapore puts ship registration on AI fast track",
           "summary": "Singapore is preparing an AI-powered overhaul of its ship registry that will cut standard registration processing times from as much as three working days to a matter of minutes. The Maritime and Port Authority of…",
