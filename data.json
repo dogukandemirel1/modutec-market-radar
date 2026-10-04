@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T17:00:52Z",
+  "last_updated": "2026-10-04T18:00:50Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -161,6 +161,14 @@
           "relevant": true
         },
         {
+          "title": "IRIS-T SLM for the German Navy: agreement on adaptation development for the F125 frigates",
+          "summary": "Diehl Defence and the Federal Office of Bundeswehr Equipment, Information Technology, and In-Service Support (BAAINBw) have signed a contract for the adaptation development of IRIS-T SLM. The aim is to make the system…",
+          "date": "2026-10-02",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/iris-t-slm-for-the-german-navy-agreement-on-adaptation-development-for-the-f125-frigates/",
+          "relevant": false
+        },
+        {
           "title": "BlueNewables and Naturgy testing Spanish waters as 1MW floating solar project kicks off in Valencia",
           "summary": "BlueNewables and Naturgy have broken ground on Spain’s first major offshore test, deploying a 1MW floating solar project off the coast of Valencia.",
           "date": "2026-10-02",
@@ -201,19 +209,19 @@
           "relevant": false
         },
         {
-          "title": "IRIS-T SLM for the German Navy: agreement on adaptation development for the F125 frigates",
-          "summary": "Diehl Defence and the Federal Office of Bundeswehr Equipment, Information Technology, and In-Service Support (BAAINBw) have signed a contract for the adaptation development of IRIS-T SLM. The aim is to make the system…",
-          "date": "2026-10-02",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/iris-t-slm-for-the-german-navy-agreement-on-adaptation-development-for-the-f125-frigates/",
-          "relevant": false
-        },
-        {
           "title": "Borr Drilling lands West Africa award for Norve jackup, Shell option for Natt",
           "summary": "Borr Drilling secured a binding letter of award for the jackup Norve in West Africa and a customer option exercise for the Natt in Nigeria. The award from an undisclosed operator covers a firm scope of three wells with…",
           "date": "2026-10-01",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/borr-drilling-lands-west-africa-award-for-norve-jackup-shell-option-for-natt-80192",
+          "relevant": false
+        },
+        {
+          "title": "Naval Group Begins Production of Sweden’s First FDI Frigate Just One Month After Contract Signing",
+          "summary": "Naval Group begins production on the Royal Swedish Navy’s first FDI frigate, the FDI Luleå, in Lorient just one month after the contract was signed. Naval Group press release On 1st October 2026, the steel-cutting…",
+          "date": "2026-10-01",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/naval-group-begins-production-of-swedens-first-fdi-frigate-just-one-month-after-contract-signing/",
           "relevant": false
         },
         {
@@ -278,14 +286,6 @@
           "date": "2026-10-01",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543391-borr-drilling-lines-up-new-work-for-jack-up-rig-trio",
-          "relevant": false
-        },
-        {
-          "title": "Naval Group Begins Production of Sweden’s First FDI Frigate Just One Month After Contract Signing",
-          "summary": "Naval Group begins production on the Royal Swedish Navy’s first FDI frigate, the FDI Luleå, in Lorient just one month after the contract was signed. Naval Group press release On 1st October 2026, the steel-cutting…",
-          "date": "2026-10-01",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/naval-group-begins-production-of-swedens-first-fdi-frigate-just-one-month-after-contract-signing/",
           "relevant": false
         },
         {
@@ -4132,20 +4132,20 @@
           "region": "SEA"
         },
         {
-          "title": "TGS on 3D imaging mission to unlock new insights into Malaysia's offshore discovery",
-          "summary": "TGS is in charge of 3D seismic reprocessing for Petronas’ Malaysian hydrocarbon discovery offshore Sabah, targeting reduced subsurface risk.",
-          "date": "2026-10-02",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/02/tgs-on-3d-imaging-mission-to-unlock-new-insights-into-malaysias-offshore-discovery",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Singapore Launches First Sentinel-class Offshore Patrol Vessel in Germany",
           "summary": "On October 1, 2026, the Republic of Singapore Navy (RSN) has launched its first new Sentinel-class Offshore Patrol Vessel (OPV), Sentinel, in Germany. The launch ceremony was attended by Singapore’s Minister for…",
           "date": "2026-10-02",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/10/singapore-launches-first-sentinel-class-offshore-patrol-vessel-in-germany/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "TGS on 3D imaging mission to unlock new insights into Malaysia's offshore discovery",
+          "summary": "TGS is in charge of 3D seismic reprocessing for Petronas’ Malaysian hydrocarbon discovery offshore Sabah, targeting reduced subsurface risk.",
+          "date": "2026-10-02",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/02/tgs-on-3d-imaging-mission-to-unlock-new-insights-into-malaysias-offshore-discovery",
           "relevant": false,
           "region": "SEA"
         },
