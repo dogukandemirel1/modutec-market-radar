@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T05:00:48Z",
+  "last_updated": "2026-10-04T06:00:51Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -2409,19 +2409,19 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Shipping markets hit new highs across multiple sectors",
+          "summary": "Shipping’s extraordinary earnings boom powered further into uncharted territory on Friday, with Clarksons Research’s cross-sector ClarkSea Index jumping another 14% to $75,658 a day, its fourth consecutive all-time…",
+          "date": "2026-10-04",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/shipping-markets-hit-new-highs-across-multiple-sectors/",
+          "relevant": false
+        },
+        {
           "title": "Trump Says He Did Not ‘Jump The Gun’ On South Korea Alaska LNG Investment Announcement",
           "summary": "By Nandita Bose and Timothy Gardner Oct 2 (Reuters) – US President Donald Trump said on Friday he did not “jump the gun” on announcing a South Korean investment in Alaska LNG, a liquefied...",
           "date": "2026-10-03",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/trump-says-he-did-not-jump-the-gun-on-south-korea-alaska-lng-investment-announcement/",
-          "relevant": false
-        },
-        {
-          "title": "Mitsubishi puts $635m behind shipyard expansion",
-          "summary": "Mitsubishi Heavy Industries is putting around ¥100bn ($635m) into expanding shipbuilding capacity at Shimonoseki, sealing a land deal with the city for a new production base on the artificial island of Choshu Dejima…",
-          "date": "2026-10-02",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/mitsubishi-puts-635m-behind-shipyard-expansion/",
           "relevant": false
         },
         {
@@ -2454,6 +2454,14 @@
           "date": "2026-10-02",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/iran_wants_sanctions_eased_to_allow_back_nuclear_inspectors-02-oct-2026-184755-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Mitsubishi puts $635m behind shipyard expansion",
+          "summary": "Mitsubishi Heavy Industries is putting around ¥100bn ($635m) into expanding shipbuilding capacity at Shimonoseki, sealing a land deal with the city for a new production base on the artificial island of Choshu Dejima…",
+          "date": "2026-10-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/mitsubishi-puts-635m-behind-shipyard-expansion/",
           "relevant": false
         },
         {
