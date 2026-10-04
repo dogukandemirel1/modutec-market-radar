@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T18:00:50Z",
+  "last_updated": "2026-10-04T19:00:52Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -153,14 +153,6 @@
           "relevant": false
         },
         {
-          "title": "Fresh attacks hit Hormuz tanker and Saudi oil gateway",
-          "summary": "Kuwait Oil Tanker Company has suffered its second VLCC strike in four days, while a separate projectile attack at Saudi Arabia’s Yanbu port briefly disrupted loading operations, piling fresh security pressure on two of…",
-          "date": "2026-10-02",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/fresh-attacks-hit-hormuz-tanker-and-saudi-oil-gateway/",
-          "relevant": true
-        },
-        {
           "title": "IRIS-T SLM for the German Navy: agreement on adaptation development for the F125 frigates",
           "summary": "Diehl Defence and the Federal Office of Bundeswehr Equipment, Information Technology, and In-Service Support (BAAINBw) have signed a contract for the adaptation development of IRIS-T SLM. The aim is to make the system…",
           "date": "2026-10-02",
@@ -207,6 +199,14 @@
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543424-golden-energy-s-psv-gets-two-new-charters",
           "relevant": false
+        },
+        {
+          "title": "Fresh attacks hit Hormuz tanker and Saudi oil gateway",
+          "summary": "Kuwait Oil Tanker Company has suffered its second VLCC strike in four days, while a separate projectile attack at Saudi Arabia’s Yanbu port briefly disrupted loading operations, piling fresh security pressure on two of…",
+          "date": "2026-10-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/fresh-attacks-hit-hormuz-tanker-and-saudi-oil-gateway/",
+          "relevant": true
         },
         {
           "title": "Borr Drilling lands West Africa award for Norve jackup, Shell option for Natt",
