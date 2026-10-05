@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T06:00:52Z",
+  "last_updated": "2026-10-05T07:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4104,6 +4104,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "US Carrier George H.W. Bush Visits Thailand After Six-Month Middle East Deployment",
+          "summary": "PHUKET, Thailand, Oct 4 (Reuters) – The US aircraft carrier George H.W. Bush arrived in Thailand’s resort island of Phuket on Sunday with about 4,800 personnel aboard for a rest-and-recreation break after...",
+          "date": "2026-10-05",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/us-carrier-george-h-w-bush-visits-thailand-after-six-month-middle-east-deployment/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Middle East Crude Oil Exports Exceed Pre-War Levels But Attacks Increase",
           "summary": "By Florence Tan SINGAPORE, Oct 5 (Reuters) – Crude oil exports from the Middle East rose above pre-war levels in four of the seven days of the final week of September, shipping data showed...",
