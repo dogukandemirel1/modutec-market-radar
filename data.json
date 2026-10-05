@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T07:00:56Z",
+  "last_updated": "2026-10-05T08:00:54Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -104,6 +104,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Golden Energy Offshore wins back-to-back PSV charter deals",
+          "summary": "Norwegian offshore vessel owner Golden Energy Offshore Services (GEOS) has won two new charter deals for one of its PSVs with two unnamed international charterers. The first contract for the PSV, revealed to be the…",
+          "date": "2026-10-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/golden-energy-offshore-wins-back-to-back-psv-charter-deals/",
+          "relevant": false
+        },
         {
           "title": "Pan Ocean and Korea Line secure fresh POSCO Flow cover",
           "summary": "South Korea’s Pan Ocean and Korea Line have secured separate long-term contracts from POSCO Flow worth a combined KRW167.75bn ($123.6m) to move steelmaking raw materials into the country. Harim-controlled Pan Ocean has…",
