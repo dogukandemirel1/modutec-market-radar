@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T09:00:55Z",
+  "last_updated": "2026-10-05T10:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -104,6 +104,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "COOEC lands EPCI work on QatarEnergy field redevelopment",
+          "summary": "China’s CNOOC Engineering (COOEC) has won an EPCI contract for QatarEnergy’s Maydan Mahzam offshore redevelopment project, taking the value of its Middle East contracts secured over the past three years above RMB 50bn…",
+          "date": "2026-10-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/cooec-lands-epci-work-on-qatarenergy-field-redevelopment/",
+          "relevant": false
+        },
         {
           "title": "Golden Energy Offshore wins back-to-back PSV charter deals",
           "summary": "Norwegian offshore vessel owner Golden Energy Offshore Services (GEOS) has won two new charter deals for one of its PSVs with two unnamed international charterers. The first contract for the PSV, revealed to be the…",
@@ -2454,6 +2462,14 @@
           "date": "2026-10-05",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/suncor-east-coast-offshore-assets-ithaca/",
+          "relevant": false
+        },
+        {
+          "title": "Ithaca Energy Buys Suncor Energy’s Canadian Oil Assets for $860M",
+          "summary": "Ithaca Energy has agreed to acquire Suncor Energy's interests in the Terra Nova and White Rose oil assets offshore eastern Canada for $860 million in cash, marking…",
+          "date": "2026-10-05",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543443-ithaca-energy-buys-suncor-energy-s-canadian-oil-assets-for-860m",
           "relevant": false
         },
         {
