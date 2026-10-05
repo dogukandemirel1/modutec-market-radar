@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T11:00:54Z",
+  "last_updated": "2026-10-05T11:23:39Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4211,6 +4211,24 @@
           "date": "2026-10-05",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/05/vard-opens-new-office-in-vietnam-plans-to-grow-to-40-engineers",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "OPEC+ 7 Reveal Production Plan for November",
+          "summary": "A statement posted on OPEC's website revealed Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria, and Oman's production plan for next month.",
+          "date": "2026-10-05",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/opec_7_reveal_production_plan_for_november-05-oct-2026-184768-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "Vard Expands Ship Design Operations in Vietnam",
+          "summary": "Norwegian shipbuilder Vard, part of Fincantieri, has opened a new design and engineering office in Ho Chi Minh City, Vietnam, and plans to grow its workforce there…",
+          "date": "2026-10-05",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543448-vard-expands-ship-design-operations-in-vietnam",
           "relevant": false,
           "region": "SEA"
         },
