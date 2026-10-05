@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T11:23:39Z",
+  "last_updated": "2026-10-05T12:00:54Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -110,6 +110,22 @@
           "date": "2026-10-05",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/cooec-lands-epci-work-on-qatarenergy-field-redevelopment/",
+          "relevant": false
+        },
+        {
+          "title": "Seatrium picks up 9th FSRU conversion job with Karpowership",
+          "summary": "Seatrium and Karpowership are pooling resources for another LNG-to-FSRU conversion project to strengthen the global floating energy infrastructure.",
+          "date": "2026-10-05",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/05/seatrium-picks-up-9th-fsru-conversion-job-with-karpowership",
+          "relevant": false
+        },
+        {
+          "title": "Seatrium Takes Ninth FSRU Conversion from Karpowership",
+          "summary": "Seatrium has been awarded the conversion of Karpowership's LNGT Akdeniz into a floating storage and regasification unit (FSRU), marking the ninth FSRU conversion project between the companies…",
+          "date": "2026-10-05",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543449-seatrium-takes-ninth-fsru-conversion-from-karpowership",
           "relevant": false
         },
         {
@@ -2441,14 +2457,6 @@
           "relevant": false
         },
         {
-          "title": "Japan targets 35 shadow fleet ships in first vessel sanctions",
-          "summary": "Japan has imposed sanctions directly on individual vessels for the first time, targeting 35 ships linked to Russia’s shadow fleet as Tokyo steps up efforts to restrict Moscow’s oil-export network. The measures took…",
-          "date": "2026-10-05",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/japan-targets-35-shadow-fleet-ships-in-first-vessel-sanctions/",
-          "relevant": false
-        },
-        {
           "title": "$860M play for offshore oil assets powers Ithaca’s entry into Canadian energy game",
           "summary": "Ithaca Energy is breaking into the Canadian market by buying Suncor's oil assets in shallow waters off the East Coast of Newfoundland and Labrador.",
           "date": "2026-10-05",
@@ -2478,6 +2486,14 @@
           "date": "2026-10-05",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543442-apache-workers-back-strike-that-could-disrupt-north-sea-pipeline",
+          "relevant": false
+        },
+        {
+          "title": "Japan targets 35 shadow fleet ships in first vessel sanctions",
+          "summary": "Japan has imposed sanctions directly on individual vessels for the first time, targeting 35 ships linked to Russia’s shadow fleet as Tokyo steps up efforts to restrict Moscow’s oil-export network. The measures took…",
+          "date": "2026-10-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/japan-targets-35-shadow-fleet-ships-in-first-vessel-sanctions/",
           "relevant": false
         },
         {
@@ -3545,6 +3561,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Grace Energy nearly doubles money on ex-Dynacom suezmax",
+          "summary": "Dubai-based Grace Energy Shipping-linked interests are cashing in on the surge in tanker asset values, with brokers reporting the sale of the 2011-built suezmax Vendavel for $94.5m, close to double its acquisition price…",
+          "date": "2026-10-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/grace-energy-nearly-doubles-money-on-ex-dynacom-suezmax/",
+          "relevant": true
+        },
+        {
           "title": "Matador adds 156 net Delaware Basin locations as Paloma deal closes",
           "summary": "Matador Resources completed its acquisition of Paloma Permian for $1.255 billion in cash, subject to customary post-closing adjustments. The purchase adds approximately 16,500 net primarily undeveloped acres in Eddy and…",
           "date": "2026-10-02",
@@ -4188,15 +4212,6 @@
           "region": "KSA"
         },
         {
-          "title": "Gunvor rebrands as Centalion and heads for Singapore",
-          "summary": "Commodity trading giant Gunvor is changing its name to Centalion and moving its corporate base to Singapore less than a year after completing a management buyout. The employee partnership that owns the business has…",
-          "date": "2026-10-05",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/gunvor-rebrands-as-centalion-and-heads-for-singapore/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Philippines: The Coastal Defense Regiment 2026 BrahMos Update",
           "summary": "The Philippine Marine Corps is working to fully operationalize its BrahMos supersonic anti-ship missiles amid tensions with China in the SCS. The post Philippines: The Coastal Defense Regiment 2026 BrahMos Update…",
           "date": "2026-10-05",
@@ -4229,6 +4244,15 @@
           "date": "2026-10-05",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543448-vard-expands-ship-design-operations-in-vietnam",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Gunvor rebrands as Centalion and heads for Singapore",
+          "summary": "Commodity trading giant Gunvor is changing its name to Centalion and moving its corporate base to Singapore less than a year after completing a management buyout. The employee partnership that owns the business has…",
+          "date": "2026-10-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/gunvor-rebrands-as-centalion-and-heads-for-singapore/",
           "relevant": false,
           "region": "SEA"
         },
