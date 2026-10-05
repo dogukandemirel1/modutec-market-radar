@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T13:00:56Z",
+  "last_updated": "2026-10-05T14:00:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8,6 +8,14 @@
       "short_title": "Day-Rates",
       "description": "Benchmark day-rate trends for jackups, floaters and offshore support vessels across key regions.",
       "items": [
+        {
+          "title": "Northern Ocean books Deepsea Mira for Shell Caribbean campaign",
+          "summary": "Northern Ocean signed a contract with a Shell subsidiary for the semisubmersible Deepsea Mira, with operations expected to begin in April 2027. The firm term covers a drilling program in Trinidad and Tobago and the…",
+          "date": "2026-10-05",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/northern-ocean-books-deepsea-mira-for-shell-caribbean-campaign-80215",
+          "relevant": false
+        },
         {
           "title": "SSV Catarina work extends into December with extra Indonesia well",
           "summary": "Ventura Offshore signed a contract amendment adding the JKNE Upside-1 Dir well to the drilling program for its SSV Catarina semisubmersible in Indonesia. The customers are Searah West Ganal and Searah Ganal Deepwater…",
@@ -121,11 +129,27 @@
           "relevant": false
         },
         {
+          "title": "Sea Lion project on the hunt for new contractors amid Argentine sanction threats",
+          "summary": "Developers race to keep the Sea Lion oil project afloat after the contractor exits, pushing ahead despite mounting Argentine pressure.",
+          "date": "2026-10-05",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/05/sea-lion-project-on-the-hunt-for-new-contractors-amid-argentine-sanction-threats",
+          "relevant": false
+        },
+        {
           "title": "Seatrium picks up 9th FSRU conversion job with Karpowership",
           "summary": "Seatrium and Karpowership are pooling resources for another LNG-to-FSRU conversion project to strengthen the global floating energy infrastructure.",
           "date": "2026-10-05",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/05/seatrium-picks-up-9th-fsru-conversion-job-with-karpowership",
+          "relevant": false
+        },
+        {
+          "title": "Eni Taps Yinson Production for Major Ghana FPSO Gas Upgrade",
+          "summary": "Yinson Production has signed a contract amendment with Eni for a major gas capacity upgrade of the John Agyekum Kufuor floating production, storage and offloading (FPSO) unit offshore Ghana…",
+          "date": "2026-10-05",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543454-eni-taps-yinson-production-for-major-ghana-fpso-gas-upgrade",
           "relevant": false
         },
         {
@@ -169,14 +193,6 @@
           "relevant": false
         },
         {
-          "title": "IRIS-T SLM for the German Navy: agreement on adaptation development for the F125 frigates",
-          "summary": "Diehl Defence and the Federal Office of Bundeswehr Equipment, Information Technology, and In-Service Support (BAAINBw) have signed a contract for the adaptation development of IRIS-T SLM. The aim is to make the system…",
-          "date": "2026-10-02",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/iris-t-slm-for-the-german-navy-agreement-on-adaptation-development-for-the-f125-frigates/",
-          "relevant": false
-        },
-        {
           "title": "BlueNewables and Naturgy testing Spanish waters as 1MW floating solar project kicks off in Valencia",
           "summary": "BlueNewables and Naturgy have broken ground on Spain’s first major offshore test, deploying a 1MW floating solar project off the coast of Valencia.",
           "date": "2026-10-02",
@@ -198,6 +214,14 @@
           "date": "2026-10-02",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543428-dof-nears-large-contract-for-i-class-vessel",
+          "relevant": false
+        },
+        {
+          "title": "IRIS-T SLM for the German Navy: agreement on adaptation development for the F125 frigates",
+          "summary": "Diehl Defence and the Federal Office of Bundeswehr Equipment, Information Technology, and In-Service Support (BAAINBw) have signed a contract for the adaptation development of IRIS-T SLM. The aim is to make the system…",
+          "date": "2026-10-02",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/iris-t-slm-for-the-german-navy-agreement-on-adaptation-development-for-the-f125-frigates/",
           "relevant": false
         },
         {
@@ -265,14 +289,6 @@
           "relevant": false
         },
         {
-          "title": "Naval Group Begins Production of Sweden’s First FDI Frigate Just One Month After Contract Signing",
-          "summary": "Naval Group begins production on the Royal Swedish Navy’s first FDI frigate, the FDI Luleå, in Lorient just one month after the contract was signed. Naval Group press release On 1st October 2026, the steel-cutting…",
-          "date": "2026-10-01",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/naval-group-begins-production-of-swedens-first-fdi-frigate-just-one-month-after-contract-signing/",
-          "relevant": false
-        },
-        {
           "title": "Borr Drilling’s rig trio lines up jobs in Africa and Europe",
           "summary": "Three rigs from Borr Drilling's fleet have picked up new awards off the coasts of West Africa, Nigeria, and the United Kingdom (UK).",
           "date": "2026-10-01",
@@ -318,6 +334,14 @@
           "date": "2026-10-01",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/rtx-511m-us-navy-contract-spy-6/",
+          "relevant": false
+        },
+        {
+          "title": "Naval Group Begins Production of Sweden’s First FDI Frigate Just One Month After Contract Signing",
+          "summary": "Naval Group begins production on the Royal Swedish Navy’s first FDI frigate, the FDI Luleå, in Lorient just one month after the contract was signed. Naval Group press release On 1st October 2026, the steel-cutting…",
+          "date": "2026-10-01",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/naval-group-begins-production-of-swedens-first-fdi-frigate-just-one-month-after-contract-signing/",
           "relevant": false
         },
         {
@@ -417,14 +441,6 @@
           "relevant": false
         },
         {
-          "title": "Fluor-JGC JV receives NTP for LNG Canada phase two expansion",
-          "summary": "Fluor and JGC’s joint venture (JV) has received notice to proceed (NTP) on LNG Canada’s Phase 2 expansion after the project partners made a final investment decision (FID) on the expansion programme.",
-          "date": "2026-09-30",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/fluor-jgc-jv-ntp-lng-canada-phase-2/",
-          "relevant": false
-        },
-        {
           "title": "US industry urged to ‘build fast, build on time’ after MUSV award",
           "summary": "The US Navy has selected three contractors to build 30 Medium Unmanned Surface Vessels, following the completion of Phase I at-sea testing. The post US industry urged to ‘build fast, build on time’ after MUSV award…",
           "date": "2026-09-30",
@@ -446,6 +462,14 @@
           "date": "2026-09-30",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/boeing-us-navy-fa-xx/",
+          "relevant": false
+        },
+        {
+          "title": "Fluor-JGC JV receives NTP for LNG Canada phase two expansion",
+          "summary": "Fluor and JGC’s joint venture (JV) has received notice to proceed (NTP) on LNG Canada’s Phase 2 expansion after the project partners made a final investment decision (FID) on the expansion programme.",
+          "date": "2026-09-30",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/fluor-jgc-jv-ntp-lng-canada-phase-2/",
           "relevant": false
         },
         {
@@ -569,14 +593,6 @@
           "relevant": true
         },
         {
-          "title": "MPD integration into rig operating system reduces contractor reliance on OEMs",
-          "summary": "By integrating automated managed pressure drilling (MPD) controls into its SmartROS rig operating system, Nabors is allowing drilling contractors to take greater ownership of MPD performance, rather than relying solely…",
-          "date": "2026-09-29",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/mpd-integration-into-rig-operating-system-reduces-drilling-contractor-reliance-on-oems-80154",
-          "relevant": false
-        },
-        {
           "title": "Next chapter of Shell’s Canadian LNG project brings Fluor-JGC JV multibillion-dollar award",
           "summary": "This contract is structured primarily on a lump-sum turnkey basis, with certain portions to be executed on a cost-plus basis.",
           "date": "2026-09-29",
@@ -606,6 +622,14 @@
           "date": "2026-09-29",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/kongsberg-naval-strike-missile-us/",
+          "relevant": false
+        },
+        {
+          "title": "MPD integration into rig operating system reduces contractor reliance on OEMs",
+          "summary": "By integrating automated managed pressure drilling (MPD) controls into its SmartROS rig operating system, Nabors is allowing drilling contractors to take greater ownership of MPD performance, rather than relying solely…",
+          "date": "2026-09-29",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/mpd-integration-into-rig-operating-system-reduces-drilling-contractor-reliance-on-oems-80154",
           "relevant": false
         },
         {
@@ -2489,6 +2513,14 @@
           "relevant": false
         },
         {
+          "title": "Namibia approves Eco’s farm-down of three offshore licences to bp",
+          "summary": "Offshore exploration company Eco (Atlantic) Oil & Gas has obtained the final regulatory clearance needed to complete its farm-down of a 60% stake in three Namibian exploration licences to BP.",
+          "date": "2026-10-05",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/namibia-ecos-farm-down-licences-bp/",
+          "relevant": false
+        },
+        {
           "title": "Suncor to sell east coast offshore stakes in Canada to Ithaca for $860m",
           "summary": "Suncor Energy has agreed to divest its stakes in three East Coast offshore assets in Canada to Ithaca Energy for C$1.2bn ($860m) in upfront cash.",
           "date": "2026-10-05",
@@ -4236,15 +4268,6 @@
           "region": "KSA"
         },
         {
-          "title": "Philippines: The Coastal Defense Regiment 2026 BrahMos Update",
-          "summary": "The Philippine Marine Corps is working to fully operationalize its BrahMos supersonic anti-ship missiles amid tensions with China in the SCS. The post Philippines: The Coastal Defense Regiment 2026 BrahMos Update…",
-          "date": "2026-10-05",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/philippines-the-coastal-defense-regiment-2026-brahmos-update/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "VARD opens new office in Vietnam, plans to grow to 40+ engineers",
           "summary": "Norwegian ship designer and shipbuilder VARD, a subsidiary of Italy’s Fincantieri Group, has opened a new office in Vietnam, covering several key...",
           "date": "2026-10-05",
@@ -4281,6 +4304,15 @@
           "region": "SEA"
         },
         {
+          "title": "Philippines: The Coastal Defense Regiment 2026 BrahMos Update",
+          "summary": "The Philippine Marine Corps is working to fully operationalize its BrahMos supersonic anti-ship missiles amid tensions with China in the SCS. The post Philippines: The Coastal Defense Regiment 2026 BrahMos Update…",
+          "date": "2026-10-05",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/philippines-the-coastal-defense-regiment-2026-brahmos-update/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Gunvor rebrands as Centalion and heads for Singapore",
           "summary": "Commodity trading giant Gunvor is changing its name to Centalion and moving its corporate base to Singapore less than a year after completing a management buyout. The employee partnership that owns the business has…",
           "date": "2026-10-05",
@@ -4308,20 +4340,20 @@
           "region": "SEA"
         },
         {
-          "title": "Singapore Launches First Sentinel-class Offshore Patrol Vessel in Germany",
-          "summary": "On October 1, 2026, the Republic of Singapore Navy (RSN) has launched its first new Sentinel-class Offshore Patrol Vessel (OPV), Sentinel, in Germany. The launch ceremony was attended by Singapore’s Minister for…",
-          "date": "2026-10-02",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/singapore-launches-first-sentinel-class-offshore-patrol-vessel-in-germany/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "TGS on 3D imaging mission to unlock new insights into Malaysia's offshore discovery",
           "summary": "TGS is in charge of 3D seismic reprocessing for Petronas’ Malaysian hydrocarbon discovery offshore Sabah, targeting reduced subsurface risk.",
           "date": "2026-10-02",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/02/tgs-on-3d-imaging-mission-to-unlock-new-insights-into-malaysias-offshore-discovery",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Singapore Launches First Sentinel-class Offshore Patrol Vessel in Germany",
+          "summary": "On October 1, 2026, the Republic of Singapore Navy (RSN) has launched its first new Sentinel-class Offshore Patrol Vessel (OPV), Sentinel, in Germany. The launch ceremony was attended by Singapore’s Minister for…",
+          "date": "2026-10-02",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/singapore-launches-first-sentinel-class-offshore-patrol-vessel-in-germany/",
           "relevant": false,
           "region": "SEA"
         },
