@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T12:00:54Z",
+  "last_updated": "2026-10-05T13:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -104,6 +104,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Seatrium bags ninth Karpowership FSRU conversion",
+          "summary": "Singapore shipyard group Seatrium has secured a contract from Karpowership to convert an LNG carrier into the FSRU LNGT Akdeniz, extending a partnership that has produced seven delivered units since 2018. The work is…",
+          "date": "2026-10-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/seatrium-bags-ninth-karpowership-fsru-conversion/",
+          "relevant": false
+        },
         {
           "title": "COOEC lands EPCI work on QatarEnergy field redevelopment",
           "summary": "China’s CNOOC Engineering (COOEC) has won an EPCI contract for QatarEnergy’s Maydan Mahzam offshore redevelopment project, taking the value of its Middle East contracts secured over the past three years above RMB 50bn…",
@@ -2465,6 +2473,22 @@
           "relevant": false
         },
         {
+          "title": "Suncor Sells Assets off Canadian East Coast to Ithaca",
+          "summary": "Ithaca Energy agreed to buy Suncor Energy's stakes in oil projects offshore Newfoundland and Labrador for up to $1.11 billion.",
+          "date": "2026-10-05",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/suncor_sells_assets_off_canadian_east_coast_to_ithaca-05-oct-2026-184771-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "USA Continues Strategic Petroleum Reserve Release",
+          "summary": "'The United States continues to lead the coordinated efforts to stabilize oil markets for the benefit of Americans and people around the world', U.S. Secretary of Energy Chris Wright said.",
+          "date": "2026-10-05",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/usa_continues_strategic_petroleum_reserve_release-05-oct-2026-184770-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "Suncor to sell east coast offshore stakes in Canada to Ithaca for $860m",
           "summary": "Suncor Energy has agreed to divest its stakes in three East Coast offshore assets in Canada to Ithaca Energy for C$1.2bn ($860m) in upfront cash.",
           "date": "2026-10-05",
@@ -4237,6 +4261,15 @@
           "source_url": "https://www.rigzone.com/news/opec_7_reveal_production_plan_for_november-05-oct-2026-184768-article/?rss=true",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "ADNOC Signs Multi-Year LNG Supply Deal with Thailand’s Gulf Group",
+          "summary": "Abu Dhabi National Oil Company (ADNOC) has signed a multi-year agreement to supply about 2 million tonnes of liquefied natural gas (LNG) to Thailand's Gulf Group starting in 2027…",
+          "date": "2026-10-05",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543451-adnoc-signs-multi-year-lng-supply-deal-with-thailand-s-gulf-group",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Vard Expands Ship Design Operations in Vietnam",
