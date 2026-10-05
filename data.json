@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T08:00:54Z",
+  "last_updated": "2026-10-05T09:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -393,14 +393,6 @@
           "relevant": false
         },
         {
-          "title": "SLB OneSubsea wins Rovuma LNG subsea systems contract",
-          "summary": "SLB OneSubsea has won a contract to provide subsea production systems for the first phase of the Rovuma LNG project in Mozambique’s offshore Rovuma Basin.",
-          "date": "2026-09-30",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/slb-onesubsea-rovuma-lng-contract/",
-          "relevant": false
-        },
-        {
           "title": "US industry urged to ‘build fast, build on time’ after MUSV award",
           "summary": "The US Navy has selected three contractors to build 30 Medium Unmanned Surface Vessels, following the completion of Phase I at-sea testing. The post US industry urged to ‘build fast, build on time’ after MUSV award…",
           "date": "2026-09-30",
@@ -422,6 +414,14 @@
           "date": "2026-09-30",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/boeing-us-navy-fa-xx/",
+          "relevant": false
+        },
+        {
+          "title": "SLB OneSubsea wins Rovuma LNG subsea systems contract",
+          "summary": "SLB OneSubsea has won a contract to provide subsea production systems for the first phase of the Rovuma LNG project in Mozambique’s offshore Rovuma Basin.",
+          "date": "2026-09-30",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/slb-onesubsea-rovuma-lng-contract/",
           "relevant": false
         },
         {
@@ -2433,6 +2433,38 @@
           "relevant": false
         },
         {
+          "title": "Japan targets 35 shadow fleet ships in first vessel sanctions",
+          "summary": "Japan has imposed sanctions directly on individual vessels for the first time, targeting 35 ships linked to Russia’s shadow fleet as Tokyo steps up efforts to restrict Moscow’s oil-export network. The measures took…",
+          "date": "2026-10-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/japan-targets-35-shadow-fleet-ships-in-first-vessel-sanctions/",
+          "relevant": false
+        },
+        {
+          "title": "$860M play for offshore oil assets powers Ithaca’s entry into Canadian energy game",
+          "summary": "Ithaca Energy is breaking into the Canadian market by buying Suncor's oil assets in shallow waters off the East Coast of Newfoundland and Labrador.",
+          "date": "2026-10-05",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/05/dollar860m-play-for-offshore-oil-assets-powers-ithacas-entry-into-canadian-energy-game",
+          "relevant": false
+        },
+        {
+          "title": "Suncor to sell east coast offshore stakes in Canada to Ithaca for $860m",
+          "summary": "Suncor Energy has agreed to divest its stakes in three East Coast offshore assets in Canada to Ithaca Energy for C$1.2bn ($860m) in upfront cash.",
+          "date": "2026-10-05",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/suncor-east-coast-offshore-assets-ithaca/",
+          "relevant": false
+        },
+        {
+          "title": "Apache Workers Back Strike That Could Disrupt North Sea Pipeline",
+          "summary": "More than 160 offshore workers at Apache have backed strike action in a pay dispute that could disrupt operations at seven North Sea assets and potentially affect the Forties Pipeline System…",
+          "date": "2026-10-05",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543442-apache-workers-back-strike-that-could-disrupt-north-sea-pipeline",
+          "relevant": false
+        },
+        {
           "title": "Uniper, Biotrend Plan to Produce Biogas in Turkiye for Europe",
           "summary": "'The cooperation with Biotrend could open up a new source of renewable gas for European markets while further diversifying Uniper's portfolio'.",
           "date": "2026-10-04",
@@ -4142,9 +4174,27 @@
         {
           "title": "Gunvor rebrands as Centalion and heads for Singapore",
           "summary": "Commodity trading giant Gunvor is changing its name to Centalion and moving its corporate base to Singapore less than a year after completing a management buyout. The employee partnership that owns the business has…",
-          "date": "2026-10-04",
+          "date": "2026-10-05",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/gunvor-rebrands-as-centalion-and-heads-for-singapore/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Philippines: The Coastal Defense Regiment 2026 BrahMos Update",
+          "summary": "The Philippine Marine Corps is working to fully operationalize its BrahMos supersonic anti-ship missiles amid tensions with China in the SCS. The post Philippines: The Coastal Defense Regiment 2026 BrahMos Update…",
+          "date": "2026-10-05",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/philippines-the-coastal-defense-regiment-2026-brahmos-update/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "VARD opens new office in Vietnam, plans to grow to 40+ engineers",
+          "summary": "Norwegian ship designer and shipbuilder VARD, a subsidiary of Italy’s Fincantieri Group, has opened a new office in Vietnam, covering several key...",
+          "date": "2026-10-05",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/05/vard-opens-new-office-in-vietnam-plans-to-grow-to-40-engineers",
           "relevant": false,
           "region": "SEA"
         },
@@ -4167,15 +4217,6 @@
           "region": "SEA"
         },
         {
-          "title": "Saudis Plan Assault on Houthis to Break Red Sea Chokehold",
-          "summary": "Saudi Arabia is planning an offensive against Iran-backed Houthi militants in Yemen, with options being considered including a coastal push to secure the Red Sea shipping route or an assault on multiple fronts, regional…",
-          "date": "2026-10-02",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/saudis-plan-assault-on-houthis-to-break-red-sea-chokehold/",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
           "title": "Singapore Launches First Sentinel-class Offshore Patrol Vessel in Germany",
           "summary": "On October 1, 2026, the Republic of Singapore Navy (RSN) has launched its first new Sentinel-class Offshore Patrol Vessel (OPV), Sentinel, in Germany. The launch ceremony was attended by Singapore’s Minister for…",
           "date": "2026-10-02",
@@ -4192,6 +4233,15 @@
           "source_url": "https://offshore-energy.biz/2026/10/02/tgs-on-3d-imaging-mission-to-unlock-new-insights-into-malaysias-offshore-discovery",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Saudis Plan Assault on Houthis to Break Red Sea Chokehold",
+          "summary": "Saudi Arabia is planning an offensive against Iran-backed Houthi militants in Yemen, with options being considered including a coastal push to secure the Red Sea shipping route or an assault on multiple fronts, regional…",
+          "date": "2026-10-02",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/saudis-plan-assault-on-houthis-to-break-red-sea-chokehold/",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "U.S. Adds Carrier and 10,000 Troops to Middle East",
