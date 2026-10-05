@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T01:00:51Z",
+  "last_updated": "2026-10-05T02:00:50Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -2417,19 +2417,19 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Shipping markets hit new highs across multiple sectors",
+          "summary": "Shipping’s extraordinary earnings boom powered further into uncharted territory on Friday, with Clarksons Research’s cross-sector ClarkSea Index jumping another 14% to $75,658 a day, its fourth consecutive all-time…",
+          "date": "2026-10-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/shipping-markets-hit-new-highs-across-multiple-sectors/",
+          "relevant": false
+        },
+        {
           "title": "Uniper, Biotrend Plan to Produce Biogas in Turkiye for Europe",
           "summary": "'The cooperation with Biotrend could open up a new source of renewable gas for European markets while further diversifying Uniper's portfolio'.",
           "date": "2026-10-04",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/uniper_biotrend_plan_to_produce_biogas_in_turkiye_for_europe-04-oct-2026-184764-article/?rss=true",
-          "relevant": false
-        },
-        {
-          "title": "Shipping markets hit new highs across multiple sectors",
-          "summary": "Shipping’s extraordinary earnings boom powered further into uncharted territory on Friday, with Clarksons Research’s cross-sector ClarkSea Index jumping another 14% to $75,658 a day, its fourth consecutive all-time…",
-          "date": "2026-10-04",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/shipping-markets-hit-new-highs-across-multiple-sectors/",
           "relevant": false
         },
         {
