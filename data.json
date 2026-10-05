@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T14:00:53Z",
+  "last_updated": "2026-10-05T15:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -129,6 +129,14 @@
           "relevant": false
         },
         {
+          "title": "Yinson Production and Eni amplifying African FPSO’s gas capacity",
+          "summary": "Yinson Production has locked in a $600 million backlog boost after signing a contract amendment with Eni to overhaul an FPSO offshore Ghana.",
+          "date": "2026-10-05",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/05/yinson-production-and-eni-amplifying-african-fpsos-gas-capacity",
+          "relevant": false
+        },
+        {
           "title": "Sea Lion project on the hunt for new contractors amid Argentine sanction threats",
           "summary": "Developers race to keep the Sea Lion oil project afloat after the contractor exits, pushing ahead despite mounting Argentine pressure.",
           "date": "2026-10-05",
@@ -143,6 +151,14 @@
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/05/seatrium-picks-up-9th-fsru-conversion-job-with-karpowership",
           "relevant": false
+        },
+        {
+          "title": "Aramco CEO Says Oil Supply Buffer Is 'Scarily Thin'",
+          "summary": "'Until Hormuz fully re-opens and confidence returns, the crude reality is that pressure at both ends of the barrel will intensify', Aramco Chief Executive Amin Nasser said.",
+          "date": "2026-10-05",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/aramco_ceo_says_oil_supply_buffer_is_scarily_thin-05-oct-2026-184773-article/?rss=true",
+          "relevant": true
         },
         {
           "title": "Eni Taps Yinson Production for Major Ghana FPSO Gas Upgrade",
@@ -193,6 +209,14 @@
           "relevant": false
         },
         {
+          "title": "IRIS-T SLM for the German Navy: agreement on adaptation development for the F125 frigates",
+          "summary": "Diehl Defence and the Federal Office of Bundeswehr Equipment, Information Technology, and In-Service Support (BAAINBw) have signed a contract for the adaptation development of IRIS-T SLM. The aim is to make the system…",
+          "date": "2026-10-02",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/iris-t-slm-for-the-german-navy-agreement-on-adaptation-development-for-the-f125-frigates/",
+          "relevant": false
+        },
+        {
           "title": "BlueNewables and Naturgy testing Spanish waters as 1MW floating solar project kicks off in Valencia",
           "summary": "BlueNewables and Naturgy have broken ground on Spain’s first major offshore test, deploying a 1MW floating solar project off the coast of Valencia.",
           "date": "2026-10-02",
@@ -214,14 +238,6 @@
           "date": "2026-10-02",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543428-dof-nears-large-contract-for-i-class-vessel",
-          "relevant": false
-        },
-        {
-          "title": "IRIS-T SLM for the German Navy: agreement on adaptation development for the F125 frigates",
-          "summary": "Diehl Defence and the Federal Office of Bundeswehr Equipment, Information Technology, and In-Service Support (BAAINBw) have signed a contract for the adaptation development of IRIS-T SLM. The aim is to make the system…",
-          "date": "2026-10-02",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/iris-t-slm-for-the-german-navy-agreement-on-adaptation-development-for-the-f125-frigates/",
           "relevant": false
         },
         {
@@ -313,14 +329,6 @@
           "relevant": false
         },
         {
-          "title": "OneSubsea to Deliver Production Systems for Rovuma LNG",
-          "summary": "The SLB joint venture received a contract from ExxonMobil to deliver subsea production systems for phase 1 of the planned Rovuma LNG project in Mozambique.",
-          "date": "2026-10-01",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/onesubsea_to_deliver_production_systems_for_rovuma_lng-01-oct-2026-184753-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Glenfarne secures $50bn in Korean backing for Alaska LNG",
           "summary": "Glenfarne Group has welcomed an investment commitment exceeding $50bn from South Korea to advance the Alaska LNG project towards construction and a FID.",
           "date": "2026-10-01",
@@ -334,6 +342,14 @@
           "date": "2026-10-01",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/rtx-511m-us-navy-contract-spy-6/",
+          "relevant": false
+        },
+        {
+          "title": "OneSubsea to Deliver Production Systems for Rovuma LNG",
+          "summary": "The SLB joint venture received a contract from ExxonMobil to deliver subsea production systems for phase 1 of the planned Rovuma LNG project in Mozambique.",
+          "date": "2026-10-01",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/onesubsea_to_deliver_production_systems_for_rovuma_lng-01-oct-2026-184753-article/?rss=true",
           "relevant": false
         },
         {
@@ -3625,6 +3641,14 @@
           "relevant": true
         },
         {
+          "title": "Matador Seals Acquisition of EnCap Delaware Basin Assets",
+          "summary": "'We believe the Paloma assets hold some of the highest hydrocarbon resources per acre in the Lower 48'.",
+          "date": "2026-10-05",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/matador_seals_acquisition_of_encap_delaware_basin_assets-05-oct-2026-184772-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "Matador adds 156 net Delaware Basin locations as Paloma deal closes",
           "summary": "Matador Resources completed its acquisition of Paloma Permian for $1.255 billion in cash, subject to customary post-closing adjustments. The purchase adds approximately 16,500 net primarily undeveloped acres in Eddy and…",
           "date": "2026-10-02",
@@ -4241,6 +4265,14 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Middle East Oil Exports Top Pre-War Levels for Part of September But Tanker Attacks Increase",
+          "summary": "Gulf oil exporters topped pre-war levels for about half of September, shipping data showed on Monday, though attacks on tankers and logistical constraints cloud the outlook for sustained higher flows.",
+          "date": "2026-10-05",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/middle-east-oil-exports-top-pre-war-levels-for-part-of-september-but-tanker-attacks-increase/",
+          "relevant": false
+        },
+        {
           "title": "US Carrier George H.W. Bush Visits Thailand After Six-Month Middle East Deployment",
           "summary": "PHUKET, Thailand, Oct 4 (Reuters) – The US aircraft carrier George H.W. Bush arrived in Thailand’s resort island of Phuket on Sunday with about 4,800 personnel aboard for a rest-and-recreation break after...",
           "date": "2026-10-05",
@@ -4266,6 +4298,15 @@
           "source_url": "https://gcaptain.com/saudi-arabia-unexpectedly-cuts-oil-prices-to-asia/",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Philippines: The Coastal Defense Regiment 2026 BrahMos Update",
+          "summary": "The Philippine Marine Corps is working to fully operationalize its BrahMos supersonic anti-ship missiles amid tensions with China in the SCS. The post Philippines: The Coastal Defense Regiment 2026 BrahMos Update…",
+          "date": "2026-10-05",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/philippines-the-coastal-defense-regiment-2026-brahmos-update/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "VARD opens new office in Vietnam, plans to grow to 40+ engineers",
@@ -4304,15 +4345,6 @@
           "region": "SEA"
         },
         {
-          "title": "Philippines: The Coastal Defense Regiment 2026 BrahMos Update",
-          "summary": "The Philippine Marine Corps is working to fully operationalize its BrahMos supersonic anti-ship missiles amid tensions with China in the SCS. The post Philippines: The Coastal Defense Regiment 2026 BrahMos Update…",
-          "date": "2026-10-05",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/philippines-the-coastal-defense-regiment-2026-brahmos-update/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Gunvor rebrands as Centalion and heads for Singapore",
           "summary": "Commodity trading giant Gunvor is changing its name to Centalion and moving its corporate base to Singapore less than a year after completing a management buyout. The employee partnership that owns the business has…",
           "date": "2026-10-05",
@@ -4340,20 +4372,20 @@
           "region": "SEA"
         },
         {
-          "title": "TGS on 3D imaging mission to unlock new insights into Malaysia's offshore discovery",
-          "summary": "TGS is in charge of 3D seismic reprocessing for Petronas’ Malaysian hydrocarbon discovery offshore Sabah, targeting reduced subsurface risk.",
-          "date": "2026-10-02",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/02/tgs-on-3d-imaging-mission-to-unlock-new-insights-into-malaysias-offshore-discovery",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Singapore Launches First Sentinel-class Offshore Patrol Vessel in Germany",
           "summary": "On October 1, 2026, the Republic of Singapore Navy (RSN) has launched its first new Sentinel-class Offshore Patrol Vessel (OPV), Sentinel, in Germany. The launch ceremony was attended by Singapore’s Minister for…",
           "date": "2026-10-02",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/10/singapore-launches-first-sentinel-class-offshore-patrol-vessel-in-germany/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "TGS on 3D imaging mission to unlock new insights into Malaysia's offshore discovery",
+          "summary": "TGS is in charge of 3D seismic reprocessing for Petronas’ Malaysian hydrocarbon discovery offshore Sabah, targeting reduced subsurface risk.",
+          "date": "2026-10-02",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/02/tgs-on-3d-imaging-mission-to-unlock-new-insights-into-malaysias-offshore-discovery",
           "relevant": false,
           "region": "SEA"
         },
