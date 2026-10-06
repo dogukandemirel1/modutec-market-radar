@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T00:00:52Z",
+  "last_updated": "2026-10-06T01:00:52Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -225,6 +225,14 @@
           "relevant": false
         },
         {
+          "title": "IRIS-T SLM for the German Navy: agreement on adaptation development for the F125 frigates",
+          "summary": "Diehl Defence and the Federal Office of Bundeswehr Equipment, Information Technology, and In-Service Support (BAAINBw) have signed a contract for the adaptation development of IRIS-T SLM. The aim is to make the system…",
+          "date": "2026-10-02",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/iris-t-slm-for-the-german-navy-agreement-on-adaptation-development-for-the-f125-frigates/",
+          "relevant": false
+        },
+        {
           "title": "BlueNewables and Naturgy testing Spanish waters as 1MW floating solar project kicks off in Valencia",
           "summary": "BlueNewables and Naturgy have broken ground on Spain’s first major offshore test, deploying a 1MW floating solar project off the coast of Valencia.",
           "date": "2026-10-02",
@@ -246,14 +254,6 @@
           "date": "2026-10-02",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543428-dof-nears-large-contract-for-i-class-vessel",
-          "relevant": false
-        },
-        {
-          "title": "IRIS-T SLM for the German Navy: agreement on adaptation development for the F125 frigates",
-          "summary": "Diehl Defence and the Federal Office of Bundeswehr Equipment, Information Technology, and In-Service Support (BAAINBw) have signed a contract for the adaptation development of IRIS-T SLM. The aim is to make the system…",
-          "date": "2026-10-02",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/iris-t-slm-for-the-german-navy-agreement-on-adaptation-development-for-the-f125-frigates/",
           "relevant": false
         },
         {
@@ -4322,6 +4322,15 @@
           "relevant": false
         },
         {
+          "title": "Philippines: The Coastal Defense Regiment 2026 BrahMos Update",
+          "summary": "The Philippine Marine Corps is working to fully operationalize its BrahMos supersonic anti-ship missiles amid tensions with China in the SCS. The post Philippines: The Coastal Defense Regiment 2026 BrahMos Update…",
+          "date": "2026-10-05",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/philippines-the-coastal-defense-regiment-2026-brahmos-update/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "VARD opens new office in Vietnam, plans to grow to 40+ engineers",
           "summary": "Norwegian ship designer and shipbuilder VARD, a subsidiary of Italy’s Fincantieri Group, has opened a new office in Vietnam, covering several key...",
           "date": "2026-10-05",
@@ -4363,15 +4372,6 @@
           "date": "2026-10-05",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543448-vard-expands-ship-design-operations-in-vietnam",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Philippines: The Coastal Defense Regiment 2026 BrahMos Update",
-          "summary": "The Philippine Marine Corps is working to fully operationalize its BrahMos supersonic anti-ship missiles amid tensions with China in the SCS. The post Philippines: The Coastal Defense Regiment 2026 BrahMos Update…",
-          "date": "2026-10-05",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/philippines-the-coastal-defense-regiment-2026-brahmos-update/",
           "relevant": false,
           "region": "SEA"
         },
@@ -4430,20 +4430,20 @@
           "region": "SEA"
         },
         {
-          "title": "TGS on 3D imaging mission to unlock new insights into Malaysia's offshore discovery",
-          "summary": "TGS is in charge of 3D seismic reprocessing for Petronas’ Malaysian hydrocarbon discovery offshore Sabah, targeting reduced subsurface risk.",
-          "date": "2026-10-02",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/02/tgs-on-3d-imaging-mission-to-unlock-new-insights-into-malaysias-offshore-discovery",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Singapore Launches First Sentinel-class Offshore Patrol Vessel in Germany",
           "summary": "On October 1, 2026, the Republic of Singapore Navy (RSN) has launched its first new Sentinel-class Offshore Patrol Vessel (OPV), Sentinel, in Germany. The launch ceremony was attended by Singapore’s Minister for…",
           "date": "2026-10-02",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/10/singapore-launches-first-sentinel-class-offshore-patrol-vessel-in-germany/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "TGS on 3D imaging mission to unlock new insights into Malaysia's offshore discovery",
+          "summary": "TGS is in charge of 3D seismic reprocessing for Petronas’ Malaysian hydrocarbon discovery offshore Sabah, targeting reduced subsurface risk.",
+          "date": "2026-10-02",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/02/tgs-on-3d-imaging-mission-to-unlock-new-insights-into-malaysias-offshore-discovery",
           "relevant": false,
           "region": "SEA"
         },
