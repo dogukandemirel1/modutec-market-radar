@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T20:00:53Z",
+  "last_updated": "2026-10-06T21:00:54Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -409,14 +409,6 @@
           "relevant": true
         },
         {
-          "title": "Borr Drilling lands West Africa award for Norve jackup, Shell option for Natt",
-          "summary": "Borr Drilling secured a binding letter of award for the jackup Norve in West Africa and a customer option exercise for the Natt in Nigeria. The award from an undisclosed operator covers a firm scope of three wells with…",
-          "date": "2026-10-01",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/borr-drilling-lands-west-africa-award-for-norve-jackup-shell-option-for-natt-80192",
-          "relevant": false
-        },
-        {
           "title": "Borr Drilling’s rig trio lines up jobs in Africa and Europe",
           "summary": "Three rigs from Borr Drilling's fleet have picked up new awards off the coasts of West Africa, Nigeria, and the United Kingdom (UK).",
           "date": "2026-10-01",
@@ -454,6 +446,14 @@
           "date": "2026-10-01",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/rtx-511m-us-navy-contract-spy-6/",
+          "relevant": false
+        },
+        {
+          "title": "Borr Drilling lands West Africa award for Norve jackup, Shell option for Natt",
+          "summary": "Borr Drilling secured a binding letter of award for the jackup Norve in West Africa and a customer option exercise for the Natt in Nigeria. The award from an undisclosed operator covers a firm scope of three wells with…",
+          "date": "2026-10-01",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/borr-drilling-lands-west-africa-award-for-norve-jackup-shell-option-for-natt-80192",
           "relevant": false
         },
         {
@@ -2617,6 +2617,22 @@
           "relevant": false
         },
         {
+          "title": "Shipping rewinds the future",
+          "summary": "Rather than forecasting from today, backcasting starts with possible futures and works backwards — an approach gaining traction as shipping’s long-term bets become harder to call. Splash’s Europe Editor Bojan Lepic…",
+          "date": "2026-10-06",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/shipping-rewinds-the-future/",
+          "relevant": false
+        },
+        {
+          "title": "ShipGod AI: Why every vessel needs its own digital memory",
+          "summary": "After four decades at sea and ashore, Bing Hou has reached a simple conclusion about shipmanagement: too much of what keeps vessels safe still depends on paper, spreadsheets and what individual seafarers happen to…",
+          "date": "2026-10-06",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/shipgod-ai-why-every-vessel-needs-its-own-digital-memory/",
+          "relevant": false
+        },
+        {
           "title": "How close is shipping to the top?",
           "summary": "Shipping markets rarely announce the top with any clarity. More often, the argument about whether the peak has arrived only really starts when freight rates are still climbing, asset values are making less and less…",
           "date": "2026-10-06",
@@ -2785,19 +2801,19 @@
           "relevant": false
         },
         {
-          "title": "Emperor Energy clears regulatory hurdle for Judith-2 well, Gippsland Basin",
-          "summary": "Emperor Energy secured approval from the National Offshore Petroleum Safety and Environmental Management Authority (NOPSEMA) for the Environment Plan covering drilling of the Judith-2 appraisal well in the offshore…",
-          "date": "2026-10-01",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/emperor-energy-clears-regulatory-hurdle-for-judith-2-well-gippsland-basin-80196",
-          "relevant": false
-        },
-        {
           "title": "Norway's CO2 transport and storage project gets second Swedish customer",
           "summary": "Northern Lights, a joint venture (JV) encompassing Equinor, Shell and TotalEnergies, has signed an agreement with Öresundskraft Kraft & Värme,...",
           "date": "2026-10-01",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/01/norways-co2-transport-and-storage-project-gets-second-swedish-customer",
+          "relevant": false
+        },
+        {
+          "title": "Emperor Energy clears regulatory hurdle for Judith-2 well, Gippsland Basin",
+          "summary": "Emperor Energy secured approval from the National Offshore Petroleum Safety and Environmental Management Authority (NOPSEMA) for the Environment Plan covering drilling of the Judith-2 appraisal well in the offshore…",
+          "date": "2026-10-01",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/emperor-energy-clears-regulatory-hurdle-for-judith-2-well-gippsland-basin-80196",
           "relevant": false
         },
         {
@@ -4457,6 +4473,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Iran’s Offshore Oil Stockpile Nears Exhaustion as Blockade Chokes New Supply",
+          "summary": "Iran’s offshore crude stockpile in Southeast Asia is being rapidly depleted as the U.S. maritime blockade prevents fresh barrels from leaving the Persian Gulf, according to new tracking data from...",
+          "date": "2026-10-06",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/irans-offshore-oil-stockpile-nears-exhaustion-as-blockade-chokes-new-supply/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Gulf Oil Flows Rise to Average 81% of Pre-war Rate in September",
           "summary": "Gulf oil flows excluding Iran surged to over 81% of pre-war levels in September, data showed, led by a recovery in Saudi exports despite attacks on the kingdom's oil infrastructure and escalating Iranian attacks on…",
           "date": "2026-10-06",
@@ -4480,6 +4505,15 @@
           "date": "2026-10-06",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/adnoc-ls-lines-up-three-more-vlgcs-for-324m/",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
+          "title": "IADC Drilling Middle East Conference & Exhibition 2026, 29–30 September, Abu Dhabi, UAE",
+          "summary": "Although the Middle East market has remained resilient through the downturn, the region still faces hurdles in workforce development, drilling efficiency, safety and security, and equipment maintenance. The IADC…",
+          "date": "2026-10-06",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/iadc-drilling-middle-east-conference-exhibition-2026-29-30-september-abu-dhabi-uae-80227",
           "relevant": true,
           "region": "UAE"
         },
@@ -4509,6 +4543,14 @@
           "source_url": "https://offshore-energy.biz/2026/10/06/rina-and-thailands-ptt-sign-two-innovation-and-decarbonization-focused-mous",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Oil Steady as Middle East Exports Rise",
+          "summary": "Crude prices stabilized as stronger Gulf exports competed with mounting concerns over attacks on tankers and tight global supplies.",
+          "date": "2026-10-06",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/oil_steady_as_middle_east_exports_rise-06-oct-2026-184788-article/?rss=true",
+          "relevant": false
         },
         {
           "title": "ADNOC to Continue Supplying LNG to Thai Power Developer",
@@ -4547,15 +4589,6 @@
           "region": "KSA"
         },
         {
-          "title": "OPEC+ 7 Reveal Production Plan for November",
-          "summary": "A statement posted on OPEC's website revealed Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria, and Oman's production plan for next month.",
-          "date": "2026-10-05",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/opec_7_reveal_production_plan_for_november-05-oct-2026-184768-article/?rss=true",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
           "title": "ADNOC Signs Multi-Year LNG Supply Deal with Thailand’s Gulf Group",
           "summary": "Abu Dhabi National Oil Company (ADNOC) has signed a multi-year agreement to supply about 2 million tonnes of liquefied natural gas (LNG) to Thailand's Gulf Group starting in 2027…",
           "date": "2026-10-05",
@@ -4563,6 +4596,15 @@
           "source_url": "https://www.oedigital.com/news/543451-adnoc-signs-multi-year-lng-supply-deal-with-thailand-s-gulf-group",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "OPEC+ 7 Reveal Production Plan for November",
+          "summary": "A statement posted on OPEC's website revealed Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria, and Oman's production plan for next month.",
+          "date": "2026-10-05",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/opec_7_reveal_production_plan_for_november-05-oct-2026-184768-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "Opinion: Oil’s New Problem Isn’t Supply. It’s Logistics",
