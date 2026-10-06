@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T12:00:57Z",
+  "last_updated": "2026-10-06T13:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -118,6 +118,14 @@
           "date": "2026-10-06",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/damico-brings-last-leased-tanker-back-in-house/",
+          "relevant": false
+        },
+        {
+          "title": "TWMA Takes Multi-Million-Dollar North Sea Drilling Services Job",
+          "summary": "Drilling waste management specialist TWMA has secured a multi-million-dollar contract from an unnamed North Sea operator to provide offshore drilling waste management…",
+          "date": "2026-10-06",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543492-twma-takes-multi-million-dollar-north-sea-drilling-services-job",
           "relevant": false
         },
         {
@@ -3745,6 +3753,22 @@
           "relevant": false
         },
         {
+          "title": "Normand Maximus CSV Set for $125M Ownership Transfer",
+          "summary": "Solstad Offshore has exercised an option to purchase the construction support vessel (CSV) Normand Maximus for $125 million via its subsidiary, with the acquisition…",
+          "date": "2026-10-06",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543494-normand-maximus-csv-set-for-125m-ownership-transfer",
+          "relevant": false
+        },
+        {
+          "title": "Equinor Warns Rosebank, Jackdaw Rejection Could Deter UK Investment",
+          "summary": "Failure to secure approval for the Rosebank and Jackdaw projects would be a major setback for Equinor's Adura joint venture with Shell in the North Sea, Equinor CEO Anders Opedal said on Tuesday…",
+          "date": "2026-10-06",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543493-equinor-warns-rosebank-jackdaw-rejection-could-deter-uk-investment",
+          "relevant": false
+        },
+        {
           "title": "Matador Seals Acquisition of EnCap Delaware Basin Assets",
           "summary": "'We believe the Paloma assets hold some of the highest hydrocarbon resources per acre in the Lower 48'.",
           "date": "2026-10-05",
@@ -4393,6 +4417,15 @@
           "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/mbda-offers-sm39-block-2-mod-2-for-indonesias-scorpene-submarines/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Aramco hires KBR for work on oil & gas project in Arabian Gulf",
+          "summary": "This offshore engineering contract enables KBR to support Aramco’s field development program off the coast of Saudi Arabia.",
+          "date": "2026-10-06",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/06/aramco-hires-kbr-for-work-on-oil-and-gas-project-in-arabian-gulf",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "RINA and Thailand's PTT sign two innovation and decarbonization-focused MoUs",
