@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T11:12:59Z",
+  "last_updated": "2026-10-06T12:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -119,6 +119,14 @@
           "source_name": "Splash247",
           "source_url": "https://splash247.com/damico-brings-last-leased-tanker-back-in-house/",
           "relevant": false
+        },
+        {
+          "title": "KBR to Support Aramco’s Marjan Offshore Field Upgrade",
+          "summary": "KBR has been awarded a contract by Saudi Aramco to provide engineering and project execution services for upgrades to offshore facilities at the Marjan oil and gas field in the Arabian Gulf…",
+          "date": "2026-10-06",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543490-kbr-to-support-aramco-s-marjan-offshore-field-upgrade",
+          "relevant": true
         },
         {
           "title": "Lloyd’s Register Clears GasEntec’s High-Capacity FSRU Concept",
@@ -4394,6 +4402,15 @@
           "source_url": "https://offshore-energy.biz/2026/10/06/rina-and-thailands-ptt-sign-two-innovation-and-decarbonization-focused-mous",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "ADNOC to Continue Supplying LNG to Thai Power Developer",
+          "summary": "ADNOC signed a new 'multi-year' agreement to supply about two million metric tons per annum of liquefied natural gas to Thai gas-focused electricity developer Gulf starting 2027.",
+          "date": "2026-10-06",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/adnoc_to_continue_supplying_lng_to_thai_power_developer-06-oct-2026-184780-article/?rss=true",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Opinion: Oil’s New Problem Isn’t Supply. It’s Logistics",
