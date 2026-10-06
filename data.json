@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T18:00:52Z",
+  "last_updated": "2026-10-06T19:00:52Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -121,6 +121,14 @@
           "relevant": false
         },
         {
+          "title": "Textron Systems to Provide Two Additional SSC Craft to US Navy",
+          "summary": "Textron Systems Corporation announced it was awarded a $230M contract modification from the U.S. Navy to produce two Ship-to-Shore Connector (SSC) craft. Textron Systems press release The SSCs are designed to deliver…",
+          "date": "2026-10-06",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/textron-systems-to-provide-two-additional-ssc-craft-to-us-navy/",
+          "relevant": false
+        },
+        {
           "title": "Vistra Gets Conditional $4.2B DOE Loan for PJM Nuclear Fleet",
           "summary": "The facilities have agreements to power Big Tech.",
           "date": "2026-10-06",
@@ -142,6 +150,14 @@
           "date": "2026-10-06",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/ursa-major-rocket-motors-contract/",
+          "relevant": false
+        },
+        {
+          "title": "Sumitomo Corporation Global Metals, TFI Marine Introduce Mooring Solutions to Floating Offshore Wind",
+          "summary": "Sumitomo Corporation Global Metals Co., Ltd. (SCGM) and TFI Marine Limited have formed a partnership to introduce innovation into mooring solutions for floating…",
+          "date": "2026-10-06",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543507-sumitomo-corporation-global-metals-tfi-marine-introduce-mooring-solutions-to-floating-offshore-wind",
           "relevant": false
         },
         {
@@ -3769,6 +3785,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "South Korean Operator Emerges as New Force in Arctic LNG Shipping",
+          "summary": "New company takes on four Arc4 LNG carriers as Seoul looks to expand Busan’s role in Arctic shipping. A newly established South Korean ship manager is emerging as a potential new player in Arctic LNG shipping, taking…",
+          "date": "2026-10-06",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/south-korean-operator-emerges-as-new-force-in-arctic-lng-shipping/",
+          "relevant": false
+        },
+        {
           "title": "Lila Global exits VLCC segment in style",
           "summary": "On April 20, Splash reported that a 20-year-old VLCC had fetched $60.5m in a sale by Mitsui OSK Lines to Lila Global. The vessel, then known as Kasagisan, was renamed Lila Vadinar in March after Lila Global acquired it…",
           "date": "2026-10-06",
@@ -4433,6 +4457,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Gulf Oil Flows Rise to Average 81% of Pre-war Rate in September",
+          "summary": "Gulf oil flows excluding Iran surged to over 81% of pre-war levels in September, data showed, led by a recovery in Saudi exports despite attacks on the kingdom's oil infrastructure and escalating Iranian attacks on…",
+          "date": "2026-10-06",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/gulf-oil-flows-rise-to-average-81-of-pre-war-rate-in-september/",
+          "relevant": false,
+          "region": "KSA"
+        },
+        {
           "title": "ADNOC L&S lines up three more VLGCs for $324m",
           "summary": "Abu Dhabi-listed ADNOC Logistics & Services is investing AED1.19bn ($324m) in three 90,000 cu m VLGC newbuildings as it continues one of shipping’s more aggressive fleet expansion programmes. The three ships are…",
           "date": "2026-10-06",
@@ -4478,23 +4511,6 @@
           "region": "UAE"
         },
         {
-          "title": "Opinion: Oil’s New Problem Isn’t Supply. It’s Logistics",
-          "summary": "Middle East crude exports recently climbed to their highest levels since the start of the Iran war as more Gulf producers resume transit through the Strait of Hormuz – despite the continued threat of Iranian attacks…",
-          "date": "2026-10-05",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/opinion-oils-new-problem-isnt-supply-its-logistics/",
-          "relevant": false
-        },
-        {
-          "title": "Saudi-Backed Forces Claim Control of Bab el-Mandeb Strait",
-          "summary": "Saudi-backed Yemeni government forces have secured effective control of the Bab el-Mandeb Strait, Yemen's Information Minister Moammar al-Eryani told Reuters on Monday, though fighting continues with Houthi forces in…",
-          "date": "2026-10-05",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/saudi-backed-forces-claim-control-of-bab-el-mandeb-strait/",
-          "relevant": false,
-          "region": "KSA"
-        },
-        {
           "title": "Philippines: The Coastal Defense Regiment 2026 BrahMos Update",
           "summary": "The Philippine Marine Corps is working to fully operationalize its BrahMos supersonic anti-ship missiles amid tensions with China in the SCS. The post Philippines: The Coastal Defense Regiment 2026 BrahMos Update…",
           "date": "2026-10-05",
@@ -4538,6 +4554,23 @@
           "source_url": "https://www.oedigital.com/news/543451-adnoc-signs-multi-year-lng-supply-deal-with-thailand-s-gulf-group",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "Opinion: Oil’s New Problem Isn’t Supply. It’s Logistics",
+          "summary": "Middle East crude exports recently climbed to their highest levels since the start of the Iran war as more Gulf producers resume transit through the Strait of Hormuz – despite the continued threat of Iranian attacks…",
+          "date": "2026-10-05",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/opinion-oils-new-problem-isnt-supply-its-logistics/",
+          "relevant": false
+        },
+        {
+          "title": "Saudi-Backed Forces Claim Control of Bab el-Mandeb Strait",
+          "summary": "Saudi-backed Yemeni government forces have secured effective control of the Bab el-Mandeb Strait, Yemen's Information Minister Moammar al-Eryani told Reuters on Monday, though fighting continues with Houthi forces in…",
+          "date": "2026-10-05",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/saudi-backed-forces-claim-control-of-bab-el-mandeb-strait/",
+          "relevant": false,
+          "region": "KSA"
         },
         {
           "title": "Vard Expands Ship Design Operations in Vietnam",
