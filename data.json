@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T10:01:11Z",
+  "last_updated": "2026-10-06T11:00:51Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -118,6 +118,14 @@
           "date": "2026-10-06",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/damico-brings-last-leased-tanker-back-in-house/",
+          "relevant": false
+        },
+        {
+          "title": "Lloyd’s Register Clears GasEntec’s High-Capacity FSRU Concept",
+          "summary": "Lloyd's Register (LR) has awarded Approval in Principle (AiP) to GasEntec for a floating storage and regasification unit (FSRU) concept capable of delivering up to 1 billion cubic feet of gas per day…",
+          "date": "2026-10-06",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543486-lloyd-s-register-clears-gasentec-s-high-capacity-fsru-concept",
           "relevant": false
         },
         {
@@ -4353,11 +4361,29 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "ADNOC L&S lines up three more VLGCs for $324m",
+          "summary": "Abu Dhabi-listed ADNOC Logistics & Services is investing AED1.19bn ($324m) in three 90,000 cu m VLGC newbuildings as it continues one of shipping’s more aggressive fleet expansion programmes. The three ships are…",
+          "date": "2026-10-06",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/adnoc-ls-lines-up-three-more-vlgcs-for-324m/",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
           "title": "MBDA Offers SM39 Block 2 Mod 2 for Indonesia’s Scorpène Submarines",
           "summary": "MBDA confirmed that the company is offering its submarine-launched SM39 Exocet anti-ship missile for Indonesia’s future Scorpène Evolved submarines The post MBDA Offers SM39 Block 2 Mod 2 for Indonesia’s Scorpène…",
           "date": "2026-10-06",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/mbda-offers-sm39-block-2-mod-2-for-indonesias-scorpene-submarines/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "RINA and Thailand's PTT sign two innovation and decarbonization-focused MoUs",
+          "summary": "Certification and engineering company RINA and PTT Public Company Limited (PTT), Thailand’s national energy company, through the PTT Innovation...",
+          "date": "2026-10-06",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/06/rina-and-thailands-ptt-sign-two-innovation-and-decarbonization-focused-mous",
           "relevant": false,
           "region": "SEA"
         },
