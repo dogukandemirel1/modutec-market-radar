@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T19:00:52Z",
+  "last_updated": "2026-10-06T20:00:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3793,14 +3793,6 @@
           "relevant": false
         },
         {
-          "title": "Lila Global exits VLCC segment in style",
-          "summary": "On April 20, Splash reported that a 20-year-old VLCC had fetched $60.5m in a sale by Mitsui OSK Lines to Lila Global. The vessel, then known as Kasagisan, was renamed Lila Vadinar in March after Lila Global acquired it…",
-          "date": "2026-10-06",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/lila-global-exits-vlcc-segment-in-style/",
-          "relevant": false
-        },
-        {
           "title": "Centalion buys Silver Hill’s Haynesville natural gas assets",
           "summary": "Centalion, formerly known as Gunvor, has acquired a portfolio of upstream and midstream natural gas assets in Texas and Louisiana from US-based private energy company Silver Hill Energy Partners.",
           "date": "2026-10-06",
@@ -3822,6 +3814,14 @@
           "date": "2026-10-06",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543493-equinor-warns-rosebank-jackdaw-rejection-could-deter-uk-investment",
+          "relevant": false
+        },
+        {
+          "title": "Lila Global exits VLCC segment in style",
+          "summary": "On April 20, Splash reported that a 20-year-old VLCC had fetched $60.5m in a sale by Mitsui OSK Lines to Lila Global. The vessel, then known as Kasagisan, was renamed Lila Vadinar in March after Lila Global acquired it…",
+          "date": "2026-10-06",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/lila-global-exits-vlcc-segment-in-style/",
           "relevant": false
         },
         {
@@ -4464,6 +4464,15 @@
           "source_url": "https://gcaptain.com/gulf-oil-flows-rise-to-average-81-of-pre-war-rate-in-september/",
           "relevant": false,
           "region": "KSA"
+        },
+        {
+          "title": "Bunker prices jump by three-quarters since Iran war began",
+          "summary": "The cost of fuelling ships has risen by roughly three-quarters since the US-Iran war erupted on February 28. In Singapore, the world’s largest bunkering hub, VLSFO was assessed by ENGINE at $509 per tonne on February…",
+          "date": "2026-10-06",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/bunker-prices-jump-by-three-quarters-since-iran-war-began/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "ADNOC L&S lines up three more VLGCs for $324m",
