@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T05:00:55Z",
+  "last_updated": "2026-10-06T06:00:51Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -159,6 +159,14 @@
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/aramco_ceo_says_oil_supply_buffer_is_scarily_thin-05-oct-2026-184773-article/?rss=true",
           "relevant": true
+        },
+        {
+          "title": "Seatrium wins ninth FSRU conversion project from Karpowership",
+          "summary": "Seatrium has secured a contract from Karpowership to convert a LNG carrier into the FSRU LNGT Akdeniz, marking the ninth FSRU conversion project between the companies.",
+          "date": "2026-10-05",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/seatrium-ninth-fsru-conversion-project-karpowership/",
+          "relevant": false
         },
         {
           "title": "Diehl Defence to adapt IRIS-T SLM for German Navy frigates",
@@ -465,14 +473,6 @@
           "relevant": false
         },
         {
-          "title": "Amplitude Energy takes FID on ECSP development offshore Australia",
-          "summary": "Amplitude Energy has taken FID on the development phase of its ECSP in Victoria, Australia, with first gas still targeted for calendar year 2028.",
-          "date": "2026-09-30",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/amplitude-energy-fid-ecsp-offshore-australia/",
-          "relevant": false
-        },
-        {
           "title": "US industry urged to ‘build fast, build on time’ after MUSV award",
           "summary": "The US Navy has selected three contractors to build 30 Medium Unmanned Surface Vessels, following the completion of Phase I at-sea testing. The post US industry urged to ‘build fast, build on time’ after MUSV award…",
           "date": "2026-09-30",
@@ -494,6 +494,14 @@
           "date": "2026-09-30",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/boeing-us-navy-fa-xx/",
+          "relevant": false
+        },
+        {
+          "title": "Amplitude Energy takes FID on ECSP development offshore Australia",
+          "summary": "Amplitude Energy has taken FID on the development phase of its ECSP in Victoria, Australia, with first gas still targeted for calendar year 2028.",
+          "date": "2026-09-30",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/amplitude-energy-fid-ecsp-offshore-australia/",
           "relevant": false
         },
         {
@@ -2513,19 +2521,19 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "How close is shipping to the top?",
+          "summary": "Shipping markets rarely announce the top with any clarity. More often, the argument about whether the peak has arrived only really starts when freight rates are still climbing, asset values are making less and less…",
+          "date": "2026-10-06",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/how-close-is-shipping-to-the-top/",
+          "relevant": false
+        },
+        {
           "title": "Strong Freight Markets Keep Aging Ships Out of Recycling Yards",
           "summary": "Strong freight markets kept aging vessels trading through the third quarter despite rising scrap prices and strong demand from ship recyclers, according to a new market review from GMS, the...",
           "date": "2026-10-05",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/strong-freight-markets-keep-aging-ships-out-of-recycling-yards/",
-          "relevant": false
-        },
-        {
-          "title": "How close is shipping to the top?",
-          "summary": "Shipping markets rarely announce the top with any clarity. More often, the argument about whether the peak has arrived only really starts when freight rates are still climbing, asset values are making less and less…",
-          "date": "2026-10-05",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/how-close-is-shipping-to-the-top/",
           "relevant": false
         },
         {
@@ -4297,6 +4305,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "MBDA Offers SM39 Block 2 Mod 2 for Indonesia’s Scorpène Submarines",
+          "summary": "MBDA confirmed that the company is offering its submarine-launched SM39 Exocet anti-ship missile for Indonesia’s future Scorpène Evolved submarines The post MBDA Offers SM39 Block 2 Mod 2 for Indonesia’s Scorpène…",
+          "date": "2026-10-06",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/mbda-offers-sm39-block-2-mod-2-for-indonesias-scorpene-submarines/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Opinion: Oil’s New Problem Isn’t Supply. It’s Logistics",
           "summary": "Middle East crude exports recently climbed to their highest levels since the start of the Iran war as more Gulf producers resume transit through the Strait of Hormuz – despite the continued threat of Iranian attacks…",
           "date": "2026-10-05",
@@ -4430,20 +4447,20 @@
           "region": "SEA"
         },
         {
-          "title": "Singapore Launches First Sentinel-class Offshore Patrol Vessel in Germany",
-          "summary": "On October 1, 2026, the Republic of Singapore Navy (RSN) has launched its first new Sentinel-class Offshore Patrol Vessel (OPV), Sentinel, in Germany. The launch ceremony was attended by Singapore’s Minister for…",
-          "date": "2026-10-02",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/singapore-launches-first-sentinel-class-offshore-patrol-vessel-in-germany/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "TGS on 3D imaging mission to unlock new insights into Malaysia's offshore discovery",
           "summary": "TGS is in charge of 3D seismic reprocessing for Petronas’ Malaysian hydrocarbon discovery offshore Sabah, targeting reduced subsurface risk.",
           "date": "2026-10-02",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/02/tgs-on-3d-imaging-mission-to-unlock-new-insights-into-malaysias-offshore-discovery",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Singapore Launches First Sentinel-class Offshore Patrol Vessel in Germany",
+          "summary": "On October 1, 2026, the Republic of Singapore Navy (RSN) has launched its first new Sentinel-class Offshore Patrol Vessel (OPV), Sentinel, in Germany. The launch ceremony was attended by Singapore’s Minister for…",
+          "date": "2026-10-02",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/singapore-launches-first-sentinel-class-offshore-patrol-vessel-in-germany/",
           "relevant": false,
           "region": "SEA"
         },
