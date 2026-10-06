@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T11:00:51Z",
+  "last_updated": "2026-10-06T11:12:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3726,6 +3726,14 @@
           "date": "2026-10-06",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/lila-global-exits-vlcc-segment-in-style/",
+          "relevant": false
+        },
+        {
+          "title": "Centalion buys Silver Hill’s Haynesville natural gas assets",
+          "summary": "Centalion, formerly known as Gunvor, has acquired a portfolio of upstream and midstream natural gas assets in Texas and Louisiana from US-based private energy company Silver Hill Energy Partners.",
+          "date": "2026-10-06",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/centalion-buys-silver-hills-haynesville-assets/",
           "relevant": false
         },
         {
