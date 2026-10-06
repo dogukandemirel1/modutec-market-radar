@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T13:00:55Z",
+  "last_updated": "2026-10-06T14:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -281,14 +281,6 @@
           "relevant": false
         },
         {
-          "title": "IRIS-T SLM for the German Navy: agreement on adaptation development for the F125 frigates",
-          "summary": "Diehl Defence and the Federal Office of Bundeswehr Equipment, Information Technology, and In-Service Support (BAAINBw) have signed a contract for the adaptation development of IRIS-T SLM. The aim is to make the system…",
-          "date": "2026-10-02",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/iris-t-slm-for-the-german-navy-agreement-on-adaptation-development-for-the-f125-frigates/",
-          "relevant": false
-        },
-        {
           "title": "BlueNewables and Naturgy testing Spanish waters as 1MW floating solar project kicks off in Valencia",
           "summary": "BlueNewables and Naturgy have broken ground on Spain’s first major offshore test, deploying a 1MW floating solar project off the coast of Valencia.",
           "date": "2026-10-02",
@@ -302,6 +294,14 @@
           "date": "2026-10-02",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/rtxs-raytheon-awarded-multi-year-contract-for-sm-6-interceptors/",
+          "relevant": false
+        },
+        {
+          "title": "IRIS-T SLM for the German Navy: agreement on adaptation development for the F125 frigates",
+          "summary": "Diehl Defence and the Federal Office of Bundeswehr Equipment, Information Technology, and In-Service Support (BAAINBw) have signed a contract for the adaptation development of IRIS-T SLM. The aim is to make the system…",
+          "date": "2026-10-02",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/iris-t-slm-for-the-german-navy-agreement-on-adaptation-development-for-the-f125-frigates/",
           "relevant": false
         },
         {
