@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T16:01:00Z",
+  "last_updated": "2026-10-06T17:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -121,11 +121,27 @@
           "relevant": false
         },
         {
+          "title": "Vistra Gets Conditional $4.2B DOE Loan for PJM Nuclear Fleet",
+          "summary": "The facilities have agreements to power Big Tech.",
+          "date": "2026-10-06",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/vistra_gets_conditional_42b_doe_loan_for_pjm_nuclear_fleet-06-oct-2026-184787-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "JERA Forms Oil Stockpiling Unit",
           "summary": "JERA Oil Storage will oversee the integrated power utility's four stockpiling facilities in Tomakomai-Tobu, Akita, Fukui and Shibushi under a joint contracting deal with the government's JOGMEC.",
           "date": "2026-10-06",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/jera_forms_oil_stockpiling_unit-06-oct-2026-184783-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Ursa Major wins $137m US contract for CAAM and NMM rocket motors",
+          "summary": "The US Navy has awarded Ursa Major two contracts worth a combined $137m to develop and qualify solid rocket motors for the Compact Air-to-Air Missile (CAAM) and Naval Modular Missile (NMM) programmes. The post Ursa…",
+          "date": "2026-10-06",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/ursa-major-rocket-motors-contract/",
           "relevant": false
         },
         {
@@ -2577,6 +2593,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "IMO Chief Decries Rising Toll on Seafarers Caught in Conflict",
+          "summary": "Five seafarers were killed during the rescue of a hijacked ship off Somalia last week, prompting International Maritime Organization Secretary-General Arsenio Dominguez to issue yet another statement mourning merchant…",
+          "date": "2026-10-06",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/imo-chief-decries-rising-toll-on-seafarers-caught-in-conflict/",
+          "relevant": false
+        },
+        {
           "title": "How close is shipping to the top?",
           "summary": "Shipping markets rarely announce the top with any clarity. More often, the argument about whether the peak has arrived only really starts when freight rates are still climbing, asset values are making less and less…",
           "date": "2026-10-06",
@@ -2590,14 +2614,6 @@
           "date": "2026-10-06",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/brazil-expands-offshore-exploration-map-with-501-new-blocks/",
-          "relevant": false
-        },
-        {
-          "title": "Strong Freight Markets Keep Aging Ships Out of Recycling Yards",
-          "summary": "Strong freight markets kept aging vessels trading through the third quarter despite rising scrap prices and strong demand from ship recyclers, according to a new market review from GMS, the...",
-          "date": "2026-10-05",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/strong-freight-markets-keep-aging-ships-out-of-recycling-yards/",
           "relevant": false
         },
         {
@@ -2646,6 +2662,14 @@
           "date": "2026-10-05",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/features/forecasts-global-military-ammunition-market-2026-2036/",
+          "relevant": false
+        },
+        {
+          "title": "Strong Freight Markets Keep Aging Ships Out of Recycling Yards",
+          "summary": "Strong freight markets kept aging vessels trading through the third quarter despite rising scrap prices and strong demand from ship recyclers, according to a new market review from GMS, the...",
+          "date": "2026-10-05",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/strong-freight-markets-keep-aging-ships-out-of-recycling-yards/",
           "relevant": false
         },
         {
@@ -4418,6 +4442,15 @@
           "region": "UAE"
         },
         {
+          "title": "MBDA Offers SM39 Block 2 Mod 2 for Indonesia’s Scorpène Submarines",
+          "summary": "MBDA confirmed that the company is offering its submarine-launched SM39 Exocet anti-ship missile for Indonesia’s future Scorpène Evolved submarines The post MBDA Offers SM39 Block 2 Mod 2 for Indonesia’s Scorpène…",
+          "date": "2026-10-06",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/mbda-offers-sm39-block-2-mod-2-for-indonesias-scorpene-submarines/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Aramco hires KBR for work on oil & gas project in Arabian Gulf",
           "summary": "This offshore engineering contract enables KBR to support Aramco’s field development program off the coast of Saudi Arabia.",
           "date": "2026-10-06",
@@ -4445,15 +4478,6 @@
           "region": "UAE"
         },
         {
-          "title": "MBDA Offers SM39 Block 2 Mod 2 for Indonesia’s Scorpène Submarines",
-          "summary": "MBDA confirmed that the company is offering its submarine-launched SM39 Exocet anti-ship missile for Indonesia’s future Scorpène Evolved submarines The post MBDA Offers SM39 Block 2 Mod 2 for Indonesia’s Scorpène…",
-          "date": "2026-10-06",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/mbda-offers-sm39-block-2-mod-2-for-indonesias-scorpene-submarines/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Opinion: Oil’s New Problem Isn’t Supply. It’s Logistics",
           "summary": "Middle East crude exports recently climbed to their highest levels since the start of the Iran war as more Gulf producers resume transit through the Strait of Hormuz – despite the continued threat of Iranian attacks…",
           "date": "2026-10-05",
@@ -4469,6 +4493,15 @@
           "source_url": "https://gcaptain.com/saudi-backed-forces-claim-control-of-bab-el-mandeb-strait/",
           "relevant": false,
           "region": "KSA"
+        },
+        {
+          "title": "Philippines: The Coastal Defense Regiment 2026 BrahMos Update",
+          "summary": "The Philippine Marine Corps is working to fully operationalize its BrahMos supersonic anti-ship missiles amid tensions with China in the SCS. The post Philippines: The Coastal Defense Regiment 2026 BrahMos Update…",
+          "date": "2026-10-05",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/philippines-the-coastal-defense-regiment-2026-brahmos-update/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "VARD opens new office in Vietnam, plans to grow to 40+ engineers",
@@ -4505,15 +4538,6 @@
           "source_url": "https://www.oedigital.com/news/543451-adnoc-signs-multi-year-lng-supply-deal-with-thailand-s-gulf-group",
           "relevant": true,
           "region": "UAE"
-        },
-        {
-          "title": "Philippines: The Coastal Defense Regiment 2026 BrahMos Update",
-          "summary": "The Philippine Marine Corps is working to fully operationalize its BrahMos supersonic anti-ship missiles amid tensions with China in the SCS. The post Philippines: The Coastal Defense Regiment 2026 BrahMos Update…",
-          "date": "2026-10-05",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/philippines-the-coastal-defense-regiment-2026-brahmos-update/",
-          "relevant": false,
-          "region": "SEA"
         },
         {
           "title": "Vard Expands Ship Design Operations in Vietnam",
