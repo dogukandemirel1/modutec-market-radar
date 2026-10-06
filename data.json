@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T07:01:04Z",
+  "last_updated": "2026-10-06T08:00:52Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -113,19 +113,27 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Yinson Productions wins topside modification work on Eni FPSO",
+          "summary": "Singapore-based floater owner and operator Yinson Productions has signed a contract with Italian major Eni for a modification project on the FPSO John Agyekum Kufuor operating offshore Ghana. The modification project…",
+          "date": "2026-10-06",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/yinson-productions-wins-topside-modification-work-on-eni-fpso/",
+          "relevant": false
+        },
+        {
+          "title": "Aker Solutions consultancy enters Canadian offshore wind market",
+          "summary": "Aker Solutions’ consultancy arm, Entr, has been awarded a contract by Net Zero Atlantic to deliver an offshore wind transmission routing and technology study in Canada under the Atlantic Canada Offshore Wind Readiness…",
+          "date": "2026-10-06",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/aker-solutions-consultancy-enters-canadian-offshore-wind-market/",
+          "relevant": false
+        },
+        {
           "title": "Seatrium bags ninth Karpowership FSRU conversion",
           "summary": "Singapore shipyard group Seatrium has secured a contract from Karpowership to convert an LNG carrier into the FSRU LNGT Akdeniz, extending a partnership that has produced seven delivered units since 2018. The work is…",
           "date": "2026-10-05",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/seatrium-bags-ninth-karpowership-fsru-conversion/",
-          "relevant": false
-        },
-        {
-          "title": "COOEC lands EPCI work on QatarEnergy field redevelopment",
-          "summary": "China’s CNOOC Engineering (COOEC) has won an EPCI contract for QatarEnergy’s Maydan Mahzam offshore redevelopment project, taking the value of its Middle East contracts secured over the past three years above RMB 50bn…",
-          "date": "2026-10-05",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/cooec-lands-epci-work-on-qatarenergy-field-redevelopment/",
           "relevant": false
         },
         {
@@ -198,6 +206,14 @@
           "date": "2026-10-05",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543449-seatrium-takes-ninth-fsru-conversion-from-karpowership",
+          "relevant": false
+        },
+        {
+          "title": "COOEC lands EPCI work on QatarEnergy field redevelopment",
+          "summary": "China’s CNOOC Engineering (COOEC) has won an EPCI contract for QatarEnergy’s Maydan Mahzam offshore redevelopment project, taking the value of its Middle East contracts secured over the past three years above RMB 50bn…",
+          "date": "2026-10-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/cooec-lands-epci-work-on-qatarenergy-field-redevelopment/",
           "relevant": false
         },
         {
@@ -2529,6 +2545,14 @@
           "relevant": false
         },
         {
+          "title": "Brazil expands offshore exploration map with 501 new blocks",
+          "summary": "Brazil has significantly expanded the area available for potential future oil and gas exploration along its Equatorial Margin, with regulator ANP defining 501 new offshore blocks covering around 380,000 sq km. The…",
+          "date": "2026-10-06",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/brazil-expands-offshore-exploration-map-with-501-new-blocks/",
+          "relevant": false
+        },
+        {
           "title": "Strong Freight Markets Keep Aging Ships Out of Recycling Yards",
           "summary": "Strong freight markets kept aging vessels trading through the third quarter despite rising scrap prices and strong demand from ship recyclers, according to a new market review from GMS, the...",
           "date": "2026-10-05",
@@ -2574,6 +2598,14 @@
           "date": "2026-10-05",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/suncor-east-coast-offshore-assets-ithaca/",
+          "relevant": false
+        },
+        {
+          "title": "Forecasts: Global military ammunition market (2026–2036)",
+          "summary": "The global military ammunition market is forecast to grow significantly over the next decade, led by North America, Europe, and Asia-Pacific. The post Forecasts: Global military ammunition market (2026–2036) appeared…",
+          "date": "2026-10-05",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/features/forecasts-global-military-ammunition-market-2026-2036/",
           "relevant": false
         },
         {
@@ -3673,20 +3705,20 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
-          "title": "Grace Energy nearly doubles money on ex-Dynacom suezmax",
-          "summary": "Dubai-based Grace Energy Shipping-linked interests are cashing in on the surge in tanker asset values, with brokers reporting the sale of the 2011-built suezmax Vendavel for $94.5m, close to double its acquisition price…",
-          "date": "2026-10-05",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/grace-energy-nearly-doubles-money-on-ex-dynacom-suezmax/",
-          "relevant": true
-        },
-        {
           "title": "Matador Seals Acquisition of EnCap Delaware Basin Assets",
           "summary": "'We believe the Paloma assets hold some of the highest hydrocarbon resources per acre in the Lower 48'.",
           "date": "2026-10-05",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/matador_seals_acquisition_of_encap_delaware_basin_assets-05-oct-2026-184772-article/?rss=true",
           "relevant": false
+        },
+        {
+          "title": "Grace Energy nearly doubles money on ex-Dynacom suezmax",
+          "summary": "Dubai-based Grace Energy Shipping-linked interests are cashing in on the surge in tanker asset values, with brokers reporting the sale of the 2011-built suezmax Vendavel for $94.5m, close to double its acquisition price…",
+          "date": "2026-10-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/grace-energy-nearly-doubles-money-on-ex-dynacom-suezmax/",
+          "relevant": true
         },
         {
           "title": "Matador adds 156 net Delaware Basin locations as Paloma deal closes",
