@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T08:00:52Z",
+  "last_updated": "2026-10-06T09:00:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -129,14 +129,6 @@
           "relevant": false
         },
         {
-          "title": "Seatrium bags ninth Karpowership FSRU conversion",
-          "summary": "Singapore shipyard group Seatrium has secured a contract from Karpowership to convert an LNG carrier into the FSRU LNGT Akdeniz, extending a partnership that has produced seven delivered units since 2018. The work is…",
-          "date": "2026-10-05",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/seatrium-bags-ninth-karpowership-fsru-conversion/",
-          "relevant": false
-        },
-        {
           "title": "Yinson Production and Eni amplifying African FPSO’s gas capacity",
           "summary": "Yinson Production has locked in a $600 million backlog boost after signing a contract amendment with Eni to overhaul an FPSO offshore Ghana.",
           "date": "2026-10-05",
@@ -206,6 +198,14 @@
           "date": "2026-10-05",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543449-seatrium-takes-ninth-fsru-conversion-from-karpowership",
+          "relevant": false
+        },
+        {
+          "title": "Seatrium bags ninth Karpowership FSRU conversion",
+          "summary": "Singapore shipyard group Seatrium has secured a contract from Karpowership to convert an LNG carrier into the FSRU LNGT Akdeniz, extending a partnership that has produced seven delivered units since 2018. The work is…",
+          "date": "2026-10-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/seatrium-bags-ninth-karpowership-fsru-conversion/",
           "relevant": false
         },
         {
@@ -3705,6 +3705,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Lila Global exits VLCC segment in style",
+          "summary": "On April 20, Splash reported that a 20-year-old VLCC had fetched $60.5m in a sale by Mitsui OSK Lines to Lila Global. The vessel, then known as Kasagisan, was renamed Lila Vadinar in March after Lila Global acquired it…",
+          "date": "2026-10-06",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/lila-global-exits-vlcc-segment-in-style/",
+          "relevant": false
+        },
+        {
           "title": "Matador Seals Acquisition of EnCap Delaware Basin Assets",
           "summary": "'We believe the Paloma assets hold some of the highest hydrocarbon resources per acre in the Lower 48'.",
           "date": "2026-10-05",
@@ -4363,14 +4371,6 @@
           "region": "KSA"
         },
         {
-          "title": "Middle East Oil Exports Top Pre-War Levels for Part of September But Tanker Attacks Increase",
-          "summary": "Gulf oil exporters topped pre-war levels for about half of September, shipping data showed on Monday, though attacks on tankers and logistical constraints cloud the outlook for sustained higher flows.",
-          "date": "2026-10-05",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/middle-east-oil-exports-top-pre-war-levels-for-part-of-september-but-tanker-attacks-increase/",
-          "relevant": false
-        },
-        {
           "title": "Philippines: The Coastal Defense Regiment 2026 BrahMos Update",
           "summary": "The Philippine Marine Corps is working to fully operationalize its BrahMos supersonic anti-ship missiles amid tensions with China in the SCS. The post Philippines: The Coastal Defense Regiment 2026 BrahMos Update…",
           "date": "2026-10-05",
@@ -4423,6 +4423,14 @@
           "source_url": "https://www.oedigital.com/news/543448-vard-expands-ship-design-operations-in-vietnam",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Middle East Oil Exports Top Pre-War Levels for Part of September But Tanker Attacks Increase",
+          "summary": "Gulf oil exporters topped pre-war levels for about half of September, shipping data showed on Monday, though attacks on tankers and logistical constraints cloud the outlook for sustained higher flows.",
+          "date": "2026-10-05",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/middle-east-oil-exports-top-pre-war-levels-for-part-of-september-but-tanker-attacks-increase/",
+          "relevant": false
         },
         {
           "title": "US Carrier George H.W. Bush Visits Thailand After Six-Month Middle East Deployment",
