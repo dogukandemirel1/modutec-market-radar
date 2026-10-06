@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T14:00:57Z",
+  "last_updated": "2026-10-06T15:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -118,6 +118,14 @@
           "date": "2026-10-06",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/damico-brings-last-leased-tanker-back-in-house/",
+          "relevant": false
+        },
+        {
+          "title": "JERA Forms Oil Stockpiling Unit",
+          "summary": "JERA Oil Storage will oversee the integrated power utility's four stockpiling facilities in Tomakomai-Tobu, Akita, Fukui and Shibushi under a joint contracting deal with the government's JOGMEC.",
+          "date": "2026-10-06",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/jera_forms_oil_stockpiling_unit-06-oct-2026-184783-article/?rss=true",
           "relevant": false
         },
         {
@@ -505,14 +513,6 @@
           "relevant": false
         },
         {
-          "title": "Amplitude takes FID on Otway ECSP development, sanctions Nestor well",
-          "summary": "Amplitude Energy took a final investment decision (FID) on the development phase of its East Coast Supply Project (ECSP) in the offshore Otway Basin, Victoria, and agreed with partner O.G. Energy to drill the Nestor…",
-          "date": "2026-09-30",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/amplitude-takes-fid-on-otway-ecsp-development-sanctions-nestor-well-80185",
-          "relevant": false
-        },
-        {
           "title": "LNG-to-FSRU conversion widening Karpowership-backed Kinetics’ gas infrastructure fleet",
           "summary": "Kinetics is expanding its fleet by converting a vessel into a floating storage and regasification unit (FSRU).",
           "date": "2026-09-30",
@@ -542,6 +542,14 @@
           "date": "2026-09-30",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/boeing-us-navy-fa-xx/",
+          "relevant": false
+        },
+        {
+          "title": "Amplitude takes FID on Otway ECSP development, sanctions Nestor well",
+          "summary": "Amplitude Energy took a final investment decision (FID) on the development phase of its East Coast Supply Project (ECSP) in the offshore Otway Basin, Victoria, and agreed with partner O.G. Energy to drill the Nestor…",
+          "date": "2026-09-30",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/amplitude-takes-fid-on-otway-ecsp-development-sanctions-nestor-well-80185",
           "relevant": false
         },
         {
