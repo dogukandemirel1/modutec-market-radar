@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T11:00:52Z",
+  "last_updated": "2026-10-07T12:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -126,6 +126,22 @@
           "date": "2026-10-07",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/07/petrobras-taps-technipfmc-for-flexible-pipe",
+          "relevant": false
+        },
+        {
+          "title": "Cadeler Wraps Up Turbine Installation Job at Poland’s First Offshore Wind Farm",
+          "summary": "Danish contractor Cadeler has completed installation of all 76 wind turbines at the 1.2 GW Baltic Power project, Poland's first offshore wind farm, using its jack…",
+          "date": "2026-10-07",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543525-cadeler-wraps-up-turbine-installation-job-at-poland-s-first-offshore-wind-farm",
+          "relevant": false
+        },
+        {
+          "title": "Valaris Adds $220M to Offshore Drilling Backlog",
+          "summary": "Valaris has added about $220 million to its contract backlog through new offshore drilling contracts and extensions since its previous fleet update in August, including work in Suriname…",
+          "date": "2026-10-07",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543524-valaris-adds-220m-to-offshore-drilling-backlog",
           "relevant": false
         },
         {
@@ -2649,11 +2665,11 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
-          "title": "Shipping rewinds the future",
-          "summary": "Rather than forecasting from today, backcasting starts with possible futures and works backwards — an approach gaining traction as shipping’s long-term bets become harder to call. Splash’s Europe Editor Bojan Lepic…",
+          "title": "Coastal gridlock: California’s infrastructure ban and Gulf pushbacks trigger an energy tug-of-war",
+          "summary": "Multi-front coastal energy gridlock sparks an offshore showdown, with California's infrastructure ban and lawmakers shielding Gulf military ranges.",
           "date": "2026-10-07",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/shipping-rewinds-the-future/",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/07/coastal-gridlock-californias-infrastructure-ban-and-gulf-pushbacks-trigger-an-energy-tug-of-war",
           "relevant": false
         },
         {
@@ -2670,6 +2686,14 @@
           "date": "2026-10-07",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543511-vaalco-completes-gabon-wells-drilling-advances-baobab-campaign",
+          "relevant": false
+        },
+        {
+          "title": "Shipping rewinds the future",
+          "summary": "Rather than forecasting from today, backcasting starts with possible futures and works backwards — an approach gaining traction as shipping’s long-term bets become harder to call. Splash’s Europe Editor Bojan Lepic…",
+          "date": "2026-10-07",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/shipping-rewinds-the-future/",
           "relevant": false
         },
         {
@@ -2713,14 +2737,6 @@
           "relevant": false
         },
         {
-          "title": "Suncor Sells Assets off Canadian East Coast to Ithaca",
-          "summary": "Ithaca Energy agreed to buy Suncor Energy's stakes in oil projects offshore Newfoundland and Labrador for up to $1.11 billion.",
-          "date": "2026-10-05",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/suncor_sells_assets_off_canadian_east_coast_to_ithaca-05-oct-2026-184771-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Namibia approves Eco’s farm-down of three offshore licences to bp",
           "summary": "Offshore exploration company Eco (Atlantic) Oil & Gas has obtained the final regulatory clearance needed to complete its farm-down of a 60% stake in three Namibian exploration licences to BP.",
           "date": "2026-10-05",
@@ -2734,6 +2750,14 @@
           "date": "2026-10-05",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/features/forecasts-global-military-ammunition-market-2026-2036/",
+          "relevant": false
+        },
+        {
+          "title": "Suncor Sells Assets off Canadian East Coast to Ithaca",
+          "summary": "Ithaca Energy agreed to buy Suncor Energy's stakes in oil projects offshore Newfoundland and Labrador for up to $1.11 billion.",
+          "date": "2026-10-05",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/suncor_sells_assets_off_canadian_east_coast_to_ithaca-05-oct-2026-184771-article/?rss=true",
           "relevant": false
         },
         {
@@ -4559,6 +4583,15 @@
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/houthis-attack-aden-airport-as-fighting-intensifies-in-yemen/",
           "relevant": false,
+          "region": "KSA"
+        },
+        {
+          "title": "Dutch design ultra-shallow-draft DSV for Gulf Region's oil & gas",
+          "summary": "Saudi Arabia's Zamil Offshore, established in 1977, has contracted Dutch ship design and engineering company Conoship International to design an...",
+          "date": "2026-10-07",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/07/dutch-design-ultra-shallow-draft-dsv-for-gulf-regions-oil-and-gas",
+          "relevant": true,
           "region": "KSA"
         },
         {
