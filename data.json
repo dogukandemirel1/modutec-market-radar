@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T10:00:58Z",
+  "last_updated": "2026-10-07T11:00:52Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -113,14 +113,6 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "FMC threatens COSCO with $16.7m penalty over delayed payment",
-          "summary": "COSCO is facing a potential civil penalty of up to $16.7m in the US after taking more than seven months to pay a comparatively small reparations award ordered by the Federal Maritime Commission (FMC). The FMC has issued…",
-          "date": "2026-10-07",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/fmc-threatens-cosco-with-16-7m-penalty-over-delayed-payment/",
-          "relevant": false
-        },
-        {
           "title": "$533 million lands on Arabian Drilling’s backlog for rig quartet deal",
           "summary": "Arabian Drilling's backlog has surged to nearly $5 billion after a four-rig award from the Aramco-Kuwait Petroleum Corporation joint venture (JV).",
           "date": "2026-10-07",
@@ -134,6 +126,14 @@
           "date": "2026-10-07",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/07/petrobras-taps-technipfmc-for-flexible-pipe",
+          "relevant": false
+        },
+        {
+          "title": "FMC threatens COSCO with $16.7m penalty over delayed payment",
+          "summary": "COSCO is facing a potential civil penalty of up to $16.7m in the US after taking more than seven months to pay a comparatively small reparations award ordered by the Federal Maritime Commission (FMC). The FMC has issued…",
+          "date": "2026-10-07",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/fmc-threatens-cosco-with-16-7m-penalty-over-delayed-payment/",
           "relevant": false
         },
         {
@@ -2657,14 +2657,6 @@
           "relevant": false
         },
         {
-          "title": "ShipGod AI: Why every vessel needs its own digital memory",
-          "summary": "After four decades at sea and ashore, Bing Hou has reached a simple conclusion about shipmanagement: too much of what keeps vessels safe still depends on paper, spreadsheets and what individual seafarers happen to…",
-          "date": "2026-10-07",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/shipgod-ai-why-every-vessel-needs-its-own-digital-memory/",
-          "relevant": false
-        },
-        {
           "title": "Chevron to sell Hess Midstream stake and DJ Basin assets",
           "summary": "Chevron has agreed to divest its ownership interests in Hess Midstream, along with its crude oil midstream assets in the Denver Julesburg (DJ) Basin in the US, as part of a transaction with Hess Midstream.",
           "date": "2026-10-07",
@@ -2678,6 +2670,14 @@
           "date": "2026-10-07",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543511-vaalco-completes-gabon-wells-drilling-advances-baobab-campaign",
+          "relevant": false
+        },
+        {
+          "title": "ShipGod AI: Why every vessel needs its own digital memory",
+          "summary": "After four decades at sea and ashore, Bing Hou has reached a simple conclusion about shipmanagement: too much of what keeps vessels safe still depends on paper, spreadsheets and what individual seafarers happen to…",
+          "date": "2026-10-07",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/shipgod-ai-why-every-vessel-needs-its-own-digital-memory/",
           "relevant": false
         },
         {
@@ -2721,14 +2721,6 @@
           "relevant": false
         },
         {
-          "title": "USA Continues Strategic Petroleum Reserve Release",
-          "summary": "'The United States continues to lead the coordinated efforts to stabilize oil markets for the benefit of Americans and people around the world', U.S. Secretary of Energy Chris Wright said.",
-          "date": "2026-10-05",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/usa_continues_strategic_petroleum_reserve_release-05-oct-2026-184770-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Namibia approves Eco’s farm-down of three offshore licences to bp",
           "summary": "Offshore exploration company Eco (Atlantic) Oil & Gas has obtained the final regulatory clearance needed to complete its farm-down of a 60% stake in three Namibian exploration licences to BP.",
           "date": "2026-10-05",
@@ -2737,19 +2729,27 @@
           "relevant": false
         },
         {
-          "title": "Suncor to sell east coast offshore stakes in Canada to Ithaca for $860m",
-          "summary": "Suncor Energy has agreed to divest its stakes in three East Coast offshore assets in Canada to Ithaca Energy for C$1.2bn ($860m) in upfront cash.",
-          "date": "2026-10-05",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/suncor-east-coast-offshore-assets-ithaca/",
-          "relevant": false
-        },
-        {
           "title": "Forecasts: Global military ammunition market (2026–2036)",
           "summary": "The global military ammunition market is forecast to grow significantly over the next decade, led by North America, Europe, and Asia-Pacific. The post Forecasts: Global military ammunition market (2026–2036) appeared…",
           "date": "2026-10-05",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/features/forecasts-global-military-ammunition-market-2026-2036/",
+          "relevant": false
+        },
+        {
+          "title": "USA Continues Strategic Petroleum Reserve Release",
+          "summary": "'The United States continues to lead the coordinated efforts to stabilize oil markets for the benefit of Americans and people around the world', U.S. Secretary of Energy Chris Wright said.",
+          "date": "2026-10-05",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/usa_continues_strategic_petroleum_reserve_release-05-oct-2026-184770-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Suncor to sell east coast offshore stakes in Canada to Ithaca for $860m",
+          "summary": "Suncor Energy has agreed to divest its stakes in three East Coast offshore assets in Canada to Ithaca Energy for C$1.2bn ($860m) in upfront cash.",
+          "date": "2026-10-05",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/suncor-east-coast-offshore-assets-ithaca/",
           "relevant": false
         },
         {
@@ -3857,6 +3857,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Gallagher Bassett buys second London shipping law firm in five months",
+          "summary": "Arthur J. Gallagher’s claims and risk management arm, Gallagher Bassett, has acquired London-based maritime law firm Winter & Co Solicitors, continuing a run of deals aimed at expanding its marine business. Financial…",
+          "date": "2026-10-07",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/gallagher-bassett-buys-second-london-shipping-law-firm-in-five-months/",
+          "relevant": false
+        },
+        {
           "title": "Singaporean firm buys Argus electric WROV, to mobilize for Persian Gulf",
           "summary": "Singapore’s offshore marine solutions company PACC Offshore Services Holdings (POSH) has acquired an electric work-class remotely operated...",
           "date": "2026-10-07",
@@ -4545,13 +4553,13 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Bunker prices jump by three-quarters since Iran war began",
-          "summary": "The cost of fuelling ships has risen by roughly three-quarters since the US-Iran war erupted on February 28. In Singapore, the world’s largest bunkering hub, VLSFO was assessed by ENGINE at $509 per tonne on February…",
+          "title": "Houthis Attack Aden Airport as Fighting Intensifies in Yemen",
+          "summary": "Yemen's Houthis attacked Aden's international airport with ballistic missiles and explosive-laden drones on Wednesday, the country's Transport Ministry said, as fighting between the Iran-aligned group and Saudi-backed…",
           "date": "2026-10-07",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/bunker-prices-jump-by-three-quarters-since-iran-war-began/",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/houthis-attack-aden-airport-as-fighting-intensifies-in-yemen/",
           "relevant": false,
-          "region": "SEA"
+          "region": "KSA"
         },
         {
           "title": "Oil Climbs on US Storm Threat, Saudi Attack Risks",
@@ -4561,6 +4569,15 @@
           "source_url": "https://www.oedigital.com/news/543509-oil-climbs-on-us-storm-threat-saudi-attack-risks",
           "relevant": false,
           "region": "KSA"
+        },
+        {
+          "title": "Bunker prices jump by three-quarters since Iran war began",
+          "summary": "The cost of fuelling ships has risen by roughly three-quarters since the US-Iran war erupted on February 28. In Singapore, the world’s largest bunkering hub, VLSFO was assessed by ENGINE at $509 per tonne on February…",
+          "date": "2026-10-07",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/bunker-prices-jump-by-three-quarters-since-iran-war-began/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Petronas moves to appraise major oil find off Malaysia",
