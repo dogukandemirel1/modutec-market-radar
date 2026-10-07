@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T06:00:54Z",
+  "last_updated": "2026-10-07T07:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -113,11 +113,11 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "d’Amico brings last leased tanker back in-house",
-          "summary": "Italian product tanker owner d’Amico International Shipping has exercised a $14m purchase option on the 2014-built MR tanker High Fidelity, paving the way for its entire operating fleet to return to full ownership…",
-          "date": "2026-10-06",
+          "title": "FMC threatens COSCO with $16.7m penalty over delayed payment",
+          "summary": "COSCO is facing a potential civil penalty of up to $16.7m in the US after taking more than seven months to pay a comparatively small reparations award ordered by the Federal Maritime Commission (FMC). The FMC has issued…",
+          "date": "2026-10-07",
           "source_name": "Splash247",
-          "source_url": "https://splash247.com/damico-brings-last-leased-tanker-back-in-house/",
+          "source_url": "https://splash247.com/fmc-threatens-cosco-with-16-7m-penalty-over-delayed-payment/",
           "relevant": false
         },
         {
@@ -182,6 +182,14 @@
           "date": "2026-10-06",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543486-lloyd-s-register-clears-gasentec-s-high-capacity-fsru-concept",
+          "relevant": false
+        },
+        {
+          "title": "d’Amico brings last leased tanker back in-house",
+          "summary": "Italian product tanker owner d’Amico International Shipping has exercised a $14m purchase option on the 2014-built MR tanker High Fidelity, paving the way for its entire operating fleet to return to full ownership…",
+          "date": "2026-10-06",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/damico-brings-last-leased-tanker-back-in-house/",
           "relevant": false
         },
         {
