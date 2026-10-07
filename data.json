@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T07:01:02Z",
+  "last_updated": "2026-10-07T08:01:18Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -121,6 +121,22 @@
           "relevant": false
         },
         {
+          "title": "Aramco taps KBR for major field upgrade work",
+          "summary": "Houston-based engineering and construction services giant KBR has been awarded a project by Aramco to support facility upgrades across the Marjan offshore field in the Arabian Gulf. Under the contract, KBR will provide…",
+          "date": "2026-10-07",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/aramco-taps-kbr-for-major-field-upgrade-work/",
+          "relevant": true
+        },
+        {
+          "title": "Petrobras taps TechnipFMC for flexible pipe",
+          "summary": "TechnipFMC has won a subsea contract from Brazil's oil & gas company Petrobras to supply flexible pipe systems for developments in Brazilian...",
+          "date": "2026-10-07",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/07/petrobras-taps-technipfmc-for-flexible-pipe",
+          "relevant": false
+        },
+        {
           "title": "Textron Systems to Provide Two Additional SSC Craft to US Navy",
           "summary": "Textron Systems Corporation announced it was awarded a $230M contract modification from the U.S. Navy to produce two Ship-to-Shore Connector (SSC) craft. Textron Systems press release The SSCs are designed to deliver…",
           "date": "2026-10-06",
@@ -153,11 +169,11 @@
           "relevant": false
         },
         {
-          "title": "Sumitomo Corporation Global Metals, TFI Marine Introduce Mooring Solutions to Floating Offshore Wind",
+          "title": "Sumitomo, TFI Marine Introduce Mooring Solutions to Floating Wind",
           "summary": "Sumitomo Corporation Global Metals Co., Ltd. (SCGM) and TFI Marine Limited have formed a partnership to introduce innovation into mooring solutions for floating…",
           "date": "2026-10-06",
           "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/543507-sumitomo-corporation-global-metals-tfi-marine-introduce-mooring-solutions-to-floating-offshore-wind",
+          "source_url": "https://www.oedigital.com/news/543507-sumitomo-tfi-marine-introduce-mooring-solutions-to-floating-wind",
           "relevant": false
         },
         {
@@ -182,6 +198,14 @@
           "date": "2026-10-06",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543486-lloyd-s-register-clears-gasentec-s-high-capacity-fsru-concept",
+          "relevant": false
+        },
+        {
+          "title": "Sumitomo Corporation Global Metals, TFI Marine Introduce Mooring Solutions to Floating Offshore Wind",
+          "summary": "Sumitomo Corporation Global Metals Co., Ltd. (SCGM) and TFI Marine Limited have formed a partnership to introduce innovation into mooring solutions for floating…",
+          "date": "2026-10-06",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543507-sumitomo-corporation-global-metals-tfi-marine-introduce-mooring-solutions-to-floating-offshore-wind",
           "relevant": false
         },
         {
@@ -441,19 +465,19 @@
           "relevant": false
         },
         {
-          "title": "Glenfarne secures $50bn in Korean backing for Alaska LNG",
-          "summary": "Glenfarne Group has welcomed an investment commitment exceeding $50bn from South Korea to advance the Alaska LNG project towards construction and a FID.",
-          "date": "2026-10-01",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/glenfarne-50bn-korean-backing-alaska-lng/",
-          "relevant": false
-        },
-        {
           "title": "RTX wins $511m US Navy contract for SPY-6 hardware",
           "summary": "RTX won US Navy contract modification to produce hardware and purchase spares for the AN/SPY-6(V) family of radars. The post RTX wins $511m US Navy contract for SPY-6 hardware appeared first on Naval Technology .",
           "date": "2026-10-01",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/rtx-511m-us-navy-contract-spy-6/",
+          "relevant": false
+        },
+        {
+          "title": "Glenfarne secures $50bn in Korean backing for Alaska LNG",
+          "summary": "Glenfarne Group has welcomed an investment commitment exceeding $50bn from South Korea to advance the Alaska LNG project towards construction and a FID.",
+          "date": "2026-10-01",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/glenfarne-50bn-korean-backing-alaska-lng/",
           "relevant": false
         },
         {
@@ -2617,17 +2641,9 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
-          "title": "IMO Chief Decries Rising Toll on Seafarers Caught in Conflict",
-          "summary": "Five seafarers were killed during the rescue of a hijacked ship off Somalia last week, prompting International Maritime Organization Secretary-General Arsenio Dominguez to issue yet another statement mourning merchant…",
-          "date": "2026-10-06",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/imo-chief-decries-rising-toll-on-seafarers-caught-in-conflict/",
-          "relevant": false
-        },
-        {
           "title": "Shipping rewinds the future",
           "summary": "Rather than forecasting from today, backcasting starts with possible futures and works backwards — an approach gaining traction as shipping’s long-term bets become harder to call. Splash’s Europe Editor Bojan Lepic…",
-          "date": "2026-10-06",
+          "date": "2026-10-07",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/shipping-rewinds-the-future/",
           "relevant": false
@@ -2635,9 +2651,17 @@
         {
           "title": "ShipGod AI: Why every vessel needs its own digital memory",
           "summary": "After four decades at sea and ashore, Bing Hou has reached a simple conclusion about shipmanagement: too much of what keeps vessels safe still depends on paper, spreadsheets and what individual seafarers happen to…",
-          "date": "2026-10-06",
+          "date": "2026-10-07",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/shipgod-ai-why-every-vessel-needs-its-own-digital-memory/",
+          "relevant": false
+        },
+        {
+          "title": "IMO Chief Decries Rising Toll on Seafarers Caught in Conflict",
+          "summary": "Five seafarers were killed during the rescue of a hijacked ship off Somalia last week, prompting International Maritime Organization Secretary-General Arsenio Dominguez to issue yet another statement mourning merchant…",
+          "date": "2026-10-06",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/imo-chief-decries-rising-toll-on-seafarers-caught-in-conflict/",
           "relevant": false
         },
         {
@@ -3809,6 +3833,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "ONEOK closes $4.43bn acquisition of Brazos’ Permian assets",
+          "summary": "US midstream operator ONEOK has completed its previously announced acquisition of Brazos Midstream’s natural gas gathering and processing assets in the Permian Midland Basin for approximately $4.425bn in cash.",
+          "date": "2026-10-07",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/oneok-4-4bn-acquisition-brazos-permian-assets/",
+          "relevant": false
+        },
+        {
           "title": "South Korean Operator Emerges as New Force in Arctic LNG Shipping",
           "summary": "New company takes on four Arc4 LNG carriers as Seoul looks to expand Busan’s role in Arctic shipping. A newly established South Korean ship manager is emerging as a potential new player in Arctic LNG shipping, taking…",
           "date": "2026-10-06",
@@ -4481,6 +4513,33 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Bunker prices jump by three-quarters since Iran war began",
+          "summary": "The cost of fuelling ships has risen by roughly three-quarters since the US-Iran war erupted on February 28. In Singapore, the world’s largest bunkering hub, VLSFO was assessed by ENGINE at $509 per tonne on February…",
+          "date": "2026-10-07",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/bunker-prices-jump-by-three-quarters-since-iran-war-began/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Petronas moves to appraise major oil find off Malaysia",
+          "summary": "Malaysia’s Petronas is preparing to drill the Megah-2 appraisal well offshore Sabah, with Seadrill’s drillship West Capella reportedly lined up for the campaign. The well will appraise the Megah discovery in Deepwater…",
+          "date": "2026-10-07",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/petronas-moves-to-appraise-major-oil-find-off-malaysia/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Oil Climbs on US Storm Threat, Saudi Attack Risks",
+          "summary": "Oil prices climbed on Wednesday as the market weighed supply constraints from a storm heading for US oil-producing regions and attacks by Yemen's Iran-backed Houthis…",
+          "date": "2026-10-07",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543509-oil-climbs-on-us-storm-threat-saudi-attack-risks",
+          "relevant": false,
+          "region": "KSA"
+        },
+        {
           "title": "Iran’s Offshore Oil Stockpile Nears Exhaustion as Blockade Chokes New Supply",
           "summary": "Iran’s offshore crude stockpile in Southeast Asia is being rapidly depleted as the U.S. maritime blockade prevents fresh barrels from leaving the Persian Gulf, according to new tracking data from...",
           "date": "2026-10-06",
@@ -4497,24 +4556,6 @@
           "source_url": "https://gcaptain.com/gulf-oil-flows-rise-to-average-81-of-pre-war-rate-in-september/",
           "relevant": false,
           "region": "KSA"
-        },
-        {
-          "title": "Bunker prices jump by three-quarters since Iran war began",
-          "summary": "The cost of fuelling ships has risen by roughly three-quarters since the US-Iran war erupted on February 28. In Singapore, the world’s largest bunkering hub, VLSFO was assessed by ENGINE at $509 per tonne on February…",
-          "date": "2026-10-06",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/bunker-prices-jump-by-three-quarters-since-iran-war-began/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "ADNOC L&S lines up three more VLGCs for $324m",
-          "summary": "Abu Dhabi-listed ADNOC Logistics & Services is investing AED1.19bn ($324m) in three 90,000 cu m VLGC newbuildings as it continues one of shipping’s more aggressive fleet expansion programmes. The three ships are…",
-          "date": "2026-10-06",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/adnoc-ls-lines-up-three-more-vlgcs-for-324m/",
-          "relevant": true,
-          "region": "UAE"
         },
         {
           "title": "IADC Drilling Middle East Conference & Exhibition 2026, 29–30 September, Abu Dhabi, UAE",
@@ -4566,6 +4607,24 @@
           "date": "2026-10-06",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/adnoc_to_continue_supplying_lng_to_thai_power_developer-06-oct-2026-184780-article/?rss=true",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
+          "title": "ADNOC agrees LNG supply deal with Thailand’s Gulf Group",
+          "summary": "ADNOC has signed a multi-year SPA to supply Thailand’s Gulf Group with about two million tonnes of liquefied natural gas (LNG) from 2027.",
+          "date": "2026-10-06",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/adnoc-lng-supply-deal-thailands-gulf-group/",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
+          "title": "ADNOC L&S lines up three more VLGCs for $324m",
+          "summary": "Abu Dhabi-listed ADNOC Logistics & Services is investing AED1.19bn ($324m) in three 90,000 cu m VLGC newbuildings as it continues one of shipping’s more aggressive fleet expansion programmes. The three ships are…",
+          "date": "2026-10-06",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/adnoc-ls-lines-up-three-more-vlgcs-for-324m/",
           "relevant": true,
           "region": "UAE"
         },
