@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T08:01:18Z",
+  "last_updated": "2026-10-07T09:00:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -121,11 +121,11 @@
           "relevant": false
         },
         {
-          "title": "Aramco taps KBR for major field upgrade work",
-          "summary": "Houston-based engineering and construction services giant KBR has been awarded a project by Aramco to support facility upgrades across the Marjan offshore field in the Arabian Gulf. Under the contract, KBR will provide…",
+          "title": "$533 million lands on Arabian Drilling’s backlog for rig quartet deal",
+          "summary": "Arabian Drilling's backlog has surged to nearly $5 billion after a four-rig award from the Aramco-Kuwait Petroleum Corporation joint venture (JV).",
           "date": "2026-10-07",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/aramco-taps-kbr-for-major-field-upgrade-work/",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/07/dollar533-million-lands-on-arabian-drillings-backlog-for-rig-quartet-deal",
           "relevant": true
         },
         {
@@ -135,6 +135,14 @@
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/07/petrobras-taps-technipfmc-for-flexible-pipe",
           "relevant": false
+        },
+        {
+          "title": "Aramco taps KBR for major field upgrade work",
+          "summary": "Houston-based engineering and construction services giant KBR has been awarded a project by Aramco to support facility upgrades across the Marjan offshore field in the Arabian Gulf. Under the contract, KBR will provide…",
+          "date": "2026-10-07",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/aramco-taps-kbr-for-major-field-upgrade-work/",
+          "relevant": true
         },
         {
           "title": "Textron Systems to Provide Two Additional SSC Craft to US Navy",
@@ -2654,6 +2662,14 @@
           "date": "2026-10-07",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/shipgod-ai-why-every-vessel-needs-its-own-digital-memory/",
+          "relevant": false
+        },
+        {
+          "title": "Vaalco Completes Gabon Wells Drilling, Advances Baobab Campaign",
+          "summary": "Vaalco Energy has completed its Phase 3 drilling program offshore Gabon after bringing the ETSEM-3H development well onstream at an initial stabilized rate of about 2…",
+          "date": "2026-10-07",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543511-vaalco-completes-gabon-wells-drilling-advances-baobab-campaign",
           "relevant": false
         },
         {
