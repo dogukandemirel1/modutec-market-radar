@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T09:00:53Z",
+  "last_updated": "2026-10-07T10:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -2665,6 +2665,14 @@
           "relevant": false
         },
         {
+          "title": "Chevron to sell Hess Midstream stake and DJ Basin assets",
+          "summary": "Chevron has agreed to divest its ownership interests in Hess Midstream, along with its crude oil midstream assets in the Denver Julesburg (DJ) Basin in the US, as part of a transaction with Hess Midstream.",
+          "date": "2026-10-07",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/chevron-sell-hess-midstream-dj-basin/",
+          "relevant": false
+        },
+        {
           "title": "Vaalco Completes Gabon Wells Drilling, Advances Baobab Campaign",
           "summary": "Vaalco Energy has completed its Phase 3 drilling program offshore Gabon after bringing the ETSEM-3H development well onstream at an initial stabilized rate of about 2…",
           "date": "2026-10-07",
@@ -3849,6 +3857,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Singaporean firm buys Argus electric WROV, to mobilize for Persian Gulf",
+          "summary": "Singapore’s offshore marine solutions company PACC Offshore Services Holdings (POSH) has acquired an electric work-class remotely operated...",
+          "date": "2026-10-07",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/07/singaporean-firm-buys-argus-electric-wrov-to-mobilize-for-persian-gulf",
+          "relevant": false
+        },
+        {
           "title": "ONEOK closes $4.43bn acquisition of Brazos’ Permian assets",
           "summary": "US midstream operator ONEOK has completed its previously announced acquisition of Brazos Midstream’s natural gas gathering and processing assets in the Permian Midland Basin for approximately $4.425bn in cash.",
           "date": "2026-10-07",
@@ -4538,15 +4554,6 @@
           "region": "SEA"
         },
         {
-          "title": "Petronas moves to appraise major oil find off Malaysia",
-          "summary": "Malaysia’s Petronas is preparing to drill the Megah-2 appraisal well offshore Sabah, with Seadrill’s drillship West Capella reportedly lined up for the campaign. The well will appraise the Megah discovery in Deepwater…",
-          "date": "2026-10-07",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/petronas-moves-to-appraise-major-oil-find-off-malaysia/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Oil Climbs on US Storm Threat, Saudi Attack Risks",
           "summary": "Oil prices climbed on Wednesday as the market weighed supply constraints from a storm heading for US oil-producing regions and attacks by Yemen's Iran-backed Houthis…",
           "date": "2026-10-07",
@@ -4554,6 +4561,15 @@
           "source_url": "https://www.oedigital.com/news/543509-oil-climbs-on-us-storm-threat-saudi-attack-risks",
           "relevant": false,
           "region": "KSA"
+        },
+        {
+          "title": "Petronas moves to appraise major oil find off Malaysia",
+          "summary": "Malaysia’s Petronas is preparing to drill the Megah-2 appraisal well offshore Sabah, with Seadrill’s drillship West Capella reportedly lined up for the campaign. The well will appraise the Megah discovery in Deepwater…",
+          "date": "2026-10-07",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/petronas-moves-to-appraise-major-oil-find-off-malaysia/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Iran’s Offshore Oil Stockpile Nears Exhaustion as Blockade Chokes New Supply",
