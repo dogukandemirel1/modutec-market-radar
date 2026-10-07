@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T13:01:00Z",
+  "last_updated": "2026-10-07T14:00:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -129,6 +129,14 @@
           "relevant": false
         },
         {
+          "title": "Valaris rigs find more work in North Sea, Australia, and Suriname",
+          "summary": "Valaris has revealed a total of $220 million secured in new offshore assignments and contract extensions.",
+          "date": "2026-10-07",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/07/valaris-rigs-find-more-work-in-north-sea-australia-and-suriname",
+          "relevant": false
+        },
+        {
           "title": "$533 million lands on Arabian Drilling’s backlog for rig quartet deal",
           "summary": "Arabian Drilling's backlog has surged to nearly $5 billion after a four-rig award from the Aramco-Kuwait Petroleum Corporation joint venture (JV).",
           "date": "2026-10-07",
@@ -142,6 +150,22 @@
           "date": "2026-10-07",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/07/petrobras-taps-technipfmc-for-flexible-pipe",
+          "relevant": false
+        },
+        {
+          "title": "Petrobras Picks TechnipFMC for Flexible Flowlines Delivery off Brazil",
+          "summary": "TechnipFMC has been awarded a subsea contract worth between $75 million and $250 million by Petrobras to supply flexible pipe systems for multiple pre-salt developments offshore Brazil…",
+          "date": "2026-10-07",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543531-petrobras-picks-technipfmc-for-flexible-flowlines-delivery-off-brazil",
+          "relevant": false
+        },
+        {
+          "title": "Framo Signs Record Pump Service Deal for Petrobras FPSO Fleet",
+          "summary": "Framo has signed a four-year agreement with Petrobras to inspect and maintain pumping systems across the Brazilian energy company's fleet of about 30 floating production…",
+          "date": "2026-10-07",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543530-framo-signs-record-pump-service-deal-for-petrobras-fpso-fleet",
           "relevant": false
         },
         {
