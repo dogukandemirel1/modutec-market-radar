@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T12:00:57Z",
+  "last_updated": "2026-10-07T13:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -113,6 +113,22 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Anduril to Build Massive Maryland Shipyard for Virginia-Class Submarine Components",
+          "summary": "Anduril Industries plans to invest $3.7 billion in a new Maryland shipyard to manufacture major components for Virginia-class attack submarines, backed by a U.S. Navy contract worth up to $2.9...",
+          "date": "2026-10-07",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/anduril-to-build-massive-maryland-shipyard-for-virginia-class-submarine-components/",
+          "relevant": false
+        },
+        {
+          "title": "Valaris adds $220m of new contracts and extensions",
+          "summary": "Offshore driller Valaris has secured a batch of new contracts and extensions, with an associated contract backlog of approximately $220m. The company won a contract with Petronas for the Valaris DS-18 drillship in…",
+          "date": "2026-10-07",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/valaris-adds-220m-of-new-contracts-and-extensions/",
+          "relevant": false
+        },
+        {
           "title": "$533 million lands on Arabian Drilling’s backlog for rig quartet deal",
           "summary": "Arabian Drilling's backlog has surged to nearly $5 billion after a four-rig award from the Aramco-Kuwait Petroleum Corporation joint venture (JV).",
           "date": "2026-10-07",
@@ -126,6 +142,22 @@
           "date": "2026-10-07",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/07/petrobras-taps-technipfmc-for-flexible-pipe",
+          "relevant": false
+        },
+        {
+          "title": "Yinson Production Raises $1.46B to Refinance Agogo FPSO",
+          "summary": "Yinson Production has priced $1.458 billion of senior secured notes to refinance debt linked to its Agogo floating production, storage and offloading (FPSO) unit operating offshore Angola…",
+          "date": "2026-10-07",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543528-yinson-production-raises-1-46b-to-refinance-agogo-fpso",
+          "relevant": false
+        },
+        {
+          "title": "DNV Certifies Buchan Floating Offshore Wind Foundation Design",
+          "summary": "Buchan Offshore Wind has secured DNV Basic Design Certification for the BW Ideol-designed concrete Damping Pool floating foundation planned for its nearly 1 GW project off Scotland…",
+          "date": "2026-10-07",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543527-dnv-certifies-buchan-floating-offshore-wind-foundation-design",
           "relevant": false
         },
         {
