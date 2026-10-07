@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T14:00:53Z",
+  "last_updated": "2026-10-07T15:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -129,6 +129,22 @@
           "relevant": false
         },
         {
+          "title": "Valaris lands drillship and jackup work across three continents",
+          "summary": "Valaris secured a two-well exploration contract with PETRONAS Suriname Exploration & Production for the drillship VALARIS DS-18. The contract, which follows a previously announced letter of award, is set to start in the…",
+          "date": "2026-10-07",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/valaris-lands-drillship-and-jackup-work-across-three-continents-80266",
+          "relevant": false
+        },
+        {
+          "title": "Rockhopper pledges $44 million for oil project’s second Falklands-bound FPSO",
+          "summary": "Rockhopper has committed millions to secure a stake in a floating production, storage, and offloading (FPSO) destined for the Falkland Islands.",
+          "date": "2026-10-07",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/07/rockhopper-pledges-dollar44-million-for-oil-projects-second-falklands-bound-fpso",
+          "relevant": false
+        },
+        {
           "title": "Valaris rigs find more work in North Sea, Australia, and Suriname",
           "summary": "Valaris has revealed a total of $220 million secured in new offshore assignments and contract extensions.",
           "date": "2026-10-07",
@@ -150,6 +166,14 @@
           "date": "2026-10-07",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/07/petrobras-taps-technipfmc-for-flexible-pipe",
+          "relevant": false
+        },
+        {
+          "title": "Kalshi Files Proposal for Never-Expiring Oil Contract",
+          "summary": "Kalshi Inc. has filed a proposal for an oil-linked futures contract that never expires with the Commodity Futures Trading Commission.",
+          "date": "2026-10-07",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/kalshi_files_proposal_for_neverexpiring_oil_contract-07-oct-2026-184794-article/?rss=true",
           "relevant": false
         },
         {
@@ -337,14 +361,6 @@
           "relevant": false
         },
         {
-          "title": "Aramco CEO Says Oil Supply Buffer Is 'Scarily Thin'",
-          "summary": "'Until Hormuz fully re-opens and confidence returns, the crude reality is that pressure at both ends of the barrel will intensify', Aramco Chief Executive Amin Nasser said.",
-          "date": "2026-10-05",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/aramco_ceo_says_oil_supply_buffer_is_scarily_thin-05-oct-2026-184773-article/?rss=true",
-          "relevant": true
-        },
-        {
           "title": "Seatrium wins ninth FSRU conversion project from Karpowership",
           "summary": "Seatrium has secured a contract from Karpowership to convert a LNG carrier into the FSRU LNGT Akdeniz, marking the ninth FSRU conversion project between the companies.",
           "date": "2026-10-05",
@@ -367,6 +383,14 @@
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/bae-systems-trident-missile/",
           "relevant": false
+        },
+        {
+          "title": "Aramco CEO Says Oil Supply Buffer Is 'Scarily Thin'",
+          "summary": "'Until Hormuz fully re-opens and confidence returns, the crude reality is that pressure at both ends of the barrel will intensify', Aramco Chief Executive Amin Nasser said.",
+          "date": "2026-10-05",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/aramco_ceo_says_oil_supply_buffer_is_scarily_thin-05-oct-2026-184773-article/?rss=true",
+          "relevant": true
         },
         {
           "title": "Eni Taps Yinson Production for Major Ghana FPSO Gas Upgrade",
@@ -2721,6 +2745,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "VAALCO closes out Gabon Phase 3 and begins drilling at Baobab",
+          "summary": "VAALCO Energy completed its offshore Gabon Phase 3 drilling program with the ETSEM-3H development well, which was drilled, completed and placed on production in an attic position within the SE Etame field. The well has…",
+          "date": "2026-10-07",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/vaalco-closes-out-gabon-phase-3-and-begins-drilling-at-baobab-80264",
+          "relevant": false
+        },
+        {
           "title": "Coastal gridlock: California’s infrastructure ban and Gulf pushbacks trigger an energy tug-of-war",
           "summary": "Multi-front coastal energy gridlock sparks an offshore showdown, with California's infrastructure ban and lawmakers shielding Gulf military ranges.",
           "date": "2026-10-07",
@@ -4017,19 +4049,19 @@
           "relevant": true
         },
         {
-          "title": "Matador adds 156 net Delaware Basin locations as Paloma deal closes",
-          "summary": "Matador Resources completed its acquisition of Paloma Permian for $1.255 billion in cash, subject to customary post-closing adjustments. The purchase adds approximately 16,500 net primarily undeveloped acres in Eddy and…",
-          "date": "2026-10-02",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/matador-adds-156-net-delaware-basin-locations-as-paloma-deal-closes-80201",
-          "relevant": false
-        },
-        {
           "title": "BP taking the wheel of Namibian license trio as farm-in deal clear final regulatory gate",
           "summary": "Namibia approves Eco Atlantic's farm-down to BP across three offshore licenses, bringing the partial divestment to the homestretch.",
           "date": "2026-10-02",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/02/bp-taking-the-wheel-of-namibian-license-trio-as-farm-in-deal-clear-final-regulatory-gate",
+          "relevant": false
+        },
+        {
+          "title": "Matador adds 156 net Delaware Basin locations as Paloma deal closes",
+          "summary": "Matador Resources completed its acquisition of Paloma Permian for $1.255 billion in cash, subject to customary post-closing adjustments. The purchase adds approximately 16,500 net primarily undeveloped acres in Eddy and…",
+          "date": "2026-10-02",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/matador-adds-156-net-delaware-basin-locations-as-paloma-deal-closes-80201",
           "relevant": false
         },
         {
