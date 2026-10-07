@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T18:00:53Z",
+  "last_updated": "2026-10-07T19:00:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -2761,6 +2761,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Sanctioned 22-Year-Old Non-Ice-Class Tanker Makes Rare Late-Season Arctic Voyage",
+          "summary": "A conventional product tanker carrying fuel additives is making an unusually late Northern Sea Route voyage.",
+          "date": "2026-10-07",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/sanctioned-22-year-old-non-ice-class-tanker-makes-rare-late-season-arctic-voyage/",
+          "relevant": false
+        },
+        {
           "title": "Port of Savannah Sets September Container Record as Imports Rise",
           "summary": "The Port of Savannah handled a record 504,015 twenty-foot equivalent units in September, up 3.7% from a year earlier as strong imports and a later-than-usual peak season boosted volumes.",
           "date": "2026-10-07",
@@ -4001,6 +4009,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Golar picks NYK carrier for fourth FLNG conversion",
+          "summary": "Golar LNG has acquired a 2013-built LNG carrier from Japan’s NYK Line for conversion into its fourth floating LNG unit, filling in a key missing piece of its $2.45bn expansion programme. The Nasdaq-listed FLNG…",
+          "date": "2026-10-07",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/golar-picks-nyk-carrier-for-fourth-flng-conversion/",
+          "relevant": false
+        },
+        {
           "title": "Gallagher Bassett buys second London shipping law firm in five months",
           "summary": "Arthur J. Gallagher’s claims and risk management arm, Gallagher Bassett, has acquired London-based maritime law firm Winter & Co Solicitors, continuing a run of deals aimed at expanding its marine business. Financial…",
           "date": "2026-10-07",
@@ -4697,15 +4713,6 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Houthis Attack Aden Airport as Fighting Intensifies in Yemen",
-          "summary": "Yemen's Houthis attacked Aden's international airport with ballistic missiles and explosive-laden drones on Wednesday, the country's Transport Ministry said, as fighting between the Iran-aligned group and Saudi-backed…",
-          "date": "2026-10-07",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/houthis-attack-aden-airport-as-fighting-intensifies-in-yemen/",
-          "relevant": false,
-          "region": "KSA"
-        },
-        {
           "title": "Dutch design ultra-shallow-draft DSV for Gulf Region's oil & gas",
           "summary": "Saudi Arabia's Zamil Offshore, established in 1977, has contracted Dutch ship design and engineering company Conoship International to design an...",
           "date": "2026-10-07",
@@ -4724,6 +4731,15 @@
           "region": "KSA"
         },
         {
+          "title": "Houthis Attack Aden Airport as Fighting Intensifies in Yemen",
+          "summary": "Yemen's Houthis attacked Aden's international airport with ballistic missiles and explosive-laden drones on Wednesday, the country's Transport Ministry said, as fighting between the Iran-aligned group and Saudi-backed…",
+          "date": "2026-10-07",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/houthis-attack-aden-airport-as-fighting-intensifies-in-yemen/",
+          "relevant": false,
+          "region": "KSA"
+        },
+        {
           "title": "Bunker prices jump by three-quarters since Iran war began",
           "summary": "The cost of fuelling ships has risen by roughly three-quarters since the US-Iran war erupted on February 28. In Singapore, the world’s largest bunkering hub, VLSFO was assessed by ENGINE at $509 per tonne on February…",
           "date": "2026-10-07",
@@ -4738,15 +4754,6 @@
           "date": "2026-10-07",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/petronas-moves-to-appraise-major-oil-find-off-malaysia/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Iran’s Offshore Oil Stockpile Nears Exhaustion as Blockade Chokes New Supply",
-          "summary": "Iran’s offshore crude stockpile in Southeast Asia is being rapidly depleted as the U.S. maritime blockade prevents fresh barrels from leaving the Persian Gulf, according to new tracking data from...",
-          "date": "2026-10-06",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/irans-offshore-oil-stockpile-nears-exhaustion-as-blockade-chokes-new-supply/",
           "relevant": false,
           "region": "SEA"
         },
@@ -4811,6 +4818,15 @@
           "source_url": "https://www.offshore-technology.com/news/adnoc-lng-supply-deal-thailands-gulf-group/",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "Iran’s Offshore Oil Stockpile Nears Exhaustion as Blockade Chokes New Supply",
+          "summary": "Iran’s offshore crude stockpile in Southeast Asia is being rapidly depleted as the U.S. maritime blockade prevents fresh barrels from leaving the Persian Gulf, according to new tracking data from...",
+          "date": "2026-10-06",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/irans-offshore-oil-stockpile-nears-exhaustion-as-blockade-chokes-new-supply/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Gulf Oil Flows Rise to Average 81% of Pre-war Rate in September",
