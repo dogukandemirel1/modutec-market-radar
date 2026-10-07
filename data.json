@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T16:00:55Z",
+  "last_updated": "2026-10-07T18:00:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -121,11 +121,27 @@
           "relevant": false
         },
         {
+          "title": "Eidesvik fixes PSV for 2027 drilling campaign",
+          "summary": "Norwegian offshore vessel owner Eidesvik Offshore has secured fresh work for the platform supply vessel Viking Queen, taking the ship out of the spot market for a drilling campaign starting early next year. The contract…",
+          "date": "2026-10-07",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/eidesvik-fixes-psv-for-2027-drilling-campaign/",
+          "relevant": false
+        },
+        {
           "title": "Valaris adds $220m of new contracts and extensions",
           "summary": "Offshore driller Valaris has secured a batch of new contracts and extensions, with an associated contract backlog of approximately $220m. The company won a contract with Petronas for the Valaris DS-18 drillship in…",
           "date": "2026-10-07",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/valaris-adds-220m-of-new-contracts-and-extensions/",
+          "relevant": false
+        },
+        {
+          "title": "Photo Gallery: IADC Contracts & Risk Management Conference, 6–7 October, Houston, Texas",
+          "summary": "The biennial IADC Contracts & Risk Management Conference explores pertinent issues affecting contracts and risk management within the drilling industry. Speakers report on market issues, contract provisions, new…",
+          "date": "2026-10-07",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/photo-gallery-iadc-contracts-risk-management-conference-6-7-october-houston-texas-80268",
           "relevant": false
         },
         {
@@ -2745,6 +2761,22 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Port of Savannah Sets September Container Record as Imports Rise",
+          "summary": "The Port of Savannah handled a record 504,015 twenty-foot equivalent units in September, up 3.7% from a year earlier as strong imports and a later-than-usual peak season boosted volumes.",
+          "date": "2026-10-07",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/port-of-savannah-sets-september-container-record-as-imports-rise/",
+          "relevant": false
+        },
+        {
+          "title": "New Maryland Defense Shipyard Gets $6.6 Billion Commitment and Trump Visit",
+          "summary": "Defense tech firm Anduril unveiled plans on Tuesday for a $3.7 billion shipyard in Maryland that is expected to generate 3,100 jobs, in a ceremony attended by President Donald Trump.",
+          "date": "2026-10-07",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/new-maryland-defense-shipyard-gets-6-6-billion-commitment-and-trump-visit/",
+          "relevant": false
+        },
+        {
           "title": "VAALCO closes out Gabon Phase 3 and begins drilling at Baobab",
           "summary": "VAALCO Energy completed its offshore Gabon Phase 3 drilling program with the ETSEM-3H development well, which was drilled, completed and placed on production in an attic position within the SE Etame field. The well has…",
           "date": "2026-10-07",
@@ -3993,19 +4025,19 @@
           "relevant": false
         },
         {
-          "title": "South Korean Operator Emerges as New Force in Arctic LNG Shipping",
-          "summary": "New company takes on four Arc4 LNG carriers as Seoul looks to expand Busan’s role in Arctic shipping. A newly established South Korean ship manager is emerging as a potential new player in Arctic LNG shipping, taking…",
-          "date": "2026-10-06",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/south-korean-operator-emerges-as-new-force-in-arctic-lng-shipping/",
-          "relevant": false
-        },
-        {
           "title": "Centalion buys Silver Hill’s Haynesville natural gas assets",
           "summary": "Centalion, formerly known as Gunvor, has acquired a portfolio of upstream and midstream natural gas assets in Texas and Louisiana from US-based private energy company Silver Hill Energy Partners.",
           "date": "2026-10-06",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/centalion-buys-silver-hills-haynesville-assets/",
+          "relevant": false
+        },
+        {
+          "title": "South Korean Operator Emerges as New Force in Arctic LNG Shipping",
+          "summary": "New company takes on four Arc4 LNG carriers as Seoul looks to expand Busan’s role in Arctic shipping. A newly established South Korean ship manager is emerging as a potential new player in Arctic LNG shipping, taking…",
+          "date": "2026-10-06",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/south-korean-operator-emerges-as-new-force-in-arctic-lng-shipping/",
           "relevant": false
         },
         {
@@ -4719,15 +4751,6 @@
           "region": "SEA"
         },
         {
-          "title": "Gulf Oil Flows Rise to Average 81% of Pre-war Rate in September",
-          "summary": "Gulf oil flows excluding Iran surged to over 81% of pre-war levels in September, data showed, led by a recovery in Saudi exports despite attacks on the kingdom's oil infrastructure and escalating Iranian attacks on…",
-          "date": "2026-10-06",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/gulf-oil-flows-rise-to-average-81-of-pre-war-rate-in-september/",
-          "relevant": false,
-          "region": "KSA"
-        },
-        {
           "title": "IADC Drilling Middle East Conference & Exhibition 2026, 29–30 September, Abu Dhabi, UAE",
           "summary": "Although the Middle East market has remained resilient through the downturn, the region still faces hurdles in workforce development, drilling efficiency, safety and security, and equipment maintenance. The IADC…",
           "date": "2026-10-06",
@@ -4788,6 +4811,15 @@
           "source_url": "https://www.offshore-technology.com/news/adnoc-lng-supply-deal-thailands-gulf-group/",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "Gulf Oil Flows Rise to Average 81% of Pre-war Rate in September",
+          "summary": "Gulf oil flows excluding Iran surged to over 81% of pre-war levels in September, data showed, led by a recovery in Saudi exports despite attacks on the kingdom's oil infrastructure and escalating Iranian attacks on…",
+          "date": "2026-10-06",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/gulf-oil-flows-rise-to-average-81-of-pre-war-rate-in-september/",
+          "relevant": false,
+          "region": "KSA"
         },
         {
           "title": "ADNOC L&S lines up three more VLGCs for $324m",
