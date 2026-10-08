@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T14:01:04Z",
+  "last_updated": "2026-10-08T15:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8,6 +8,14 @@
       "short_title": "Day-Rates",
       "description": "Benchmark day-rate trends for jackups, floaters and offshore support vessels across key regions.",
       "items": [
+        {
+          "title": "Subcontinent Ports Benefiting from Geopolitical Disruptions",
+          "summary": "Today's trade flows resemble a windy waterpark slide more than the traditional waterway superhighway. The three-dimensional chess game being played by ocean carriers and tankers has delivered big bucks in day rates…",
+          "date": "2026-10-08",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/subcontinent-ports-benefiting-from-geopolitical-disruptions/",
+          "relevant": false
+        },
         {
           "title": "Northern Ocean books Deepsea Mira for Shell Caribbean campaign",
           "summary": "Northern Ocean signed a contract with a Shell subsidiary for the semisubmersible Deepsea Mira, with operations expected to begin in April 2027. The firm term covers a drilling program in Trinidad and Tobago and the…",
@@ -113,6 +121,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Turkey Says Russia, Ukraine Increasing Attacks in Black Sea Ahead of Winter",
+          "summary": "Intensifying attacks by Russia and Ukraine ahead of the winter are further endangering navigational safety in the Black Sea, Turkish Foreign Minister Hakan Fidan said on Thursday, adding that world powers must not allow…",
+          "date": "2026-10-08",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/turkey-says-russia-ukraine-increasing-attacks-in-black-sea-ahead-of-winter/",
+          "relevant": false
+        },
+        {
           "title": "Seatrium bags first FSRU conversion for Excelerate",
           "summary": "Singapore shipyard group Seatrium has secured an EPCIC contract from New York-listed floating regasification specialist Excelerate Energy to convert an LNG carrier into an FSRU, with an option for a second unit. The…",
           "date": "2026-10-08",
@@ -209,14 +225,6 @@
           "relevant": false
         },
         {
-          "title": "Anduril to Build Massive Maryland Shipyard for Virginia-Class Submarine Components",
-          "summary": "Anduril Industries plans to invest $3.7 billion in a new Maryland shipyard to manufacture major components for Virginia-class attack submarines, backed by a U.S. Navy contract worth up to $2.9...",
-          "date": "2026-10-07",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/anduril-to-build-massive-maryland-shipyard-for-virginia-class-submarine-components/",
-          "relevant": false
-        },
-        {
           "title": "Photo Gallery: IADC Contracts & Risk Management Conference, 6–7 October, Houston, Texas",
           "summary": "The biennial IADC Contracts & Risk Management Conference explores pertinent issues affecting contracts and risk management within the drilling industry. Speakers report on market issues, contract provisions, new…",
           "date": "2026-10-07",
@@ -265,11 +273,11 @@
           "relevant": false
         },
         {
-          "title": "Kalshi Files Proposal for Never-Expiring Oil Contract",
-          "summary": "Kalshi Inc. has filed a proposal for an oil-linked futures contract that never expires with the Commodity Futures Trading Commission.",
+          "title": "Kalshi Submits Bid for Perpetual Style Oil Contract to CFTC",
+          "summary": "Kalshi Inc. has filed a proposal for an oil-linked futures contract that only expires every decade with the Commodity Futures Trading Commission.",
           "date": "2026-10-07",
           "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/kalshi_files_proposal_for_neverexpiring_oil_contract-07-oct-2026-184794-article/?rss=true",
+          "source_url": "https://www.rigzone.com/news/wire/kalshi_submits_bid_for_perpetual_style_oil_contract_to_cftc-07-oct-2026-184794-article/?rss=true",
           "relevant": false
         },
         {
@@ -278,6 +286,22 @@
           "date": "2026-10-07",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543531-petrobras-picks-technipfmc-for-flexible-flowlines-delivery-off-brazil",
+          "relevant": false
+        },
+        {
+          "title": "Anduril to Build Massive Maryland Shipyard for Virginia-Class Submarine Components",
+          "summary": "Anduril Industries plans to invest $3.7 billion in a new Maryland shipyard to manufacture major components for Virginia-class attack submarines, backed by a U.S. Navy contract worth up to $2.9...",
+          "date": "2026-10-07",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/anduril-to-build-massive-maryland-shipyard-for-virginia-class-submarine-components/",
+          "relevant": false
+        },
+        {
+          "title": "Kalshi Files Proposal for Never-Expiring Oil Contract",
+          "summary": "Kalshi Inc. has filed a proposal for an oil-linked futures contract that never expires with the Commodity Futures Trading Commission.",
+          "date": "2026-10-07",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/kalshi_files_proposal_for_neverexpiring_oil_contract-07-oct-2026-184794-article/?rss=true",
           "relevant": false
         },
         {
@@ -345,19 +369,19 @@
           "relevant": true
         },
         {
+          "title": "Textron Systems to Provide Two Additional SSC Craft to US Navy",
+          "summary": "Textron Systems Corporation announced it was awarded a $230M contract modification from the U.S. Navy to produce two Ship-to-Shore Connector (SSC) craft. Textron Systems press release The SSCs are designed to deliver…",
+          "date": "2026-10-06",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/textron-systems-to-provide-two-additional-ssc-craft-to-us-navy/",
+          "relevant": false
+        },
+        {
           "title": "Vistra Gets Conditional $4.2B DOE Loan for PJM Nuclear Fleet",
           "summary": "The facilities have agreements to power Big Tech.",
           "date": "2026-10-06",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/vistra_gets_conditional_42b_doe_loan_for_pjm_nuclear_fleet-06-oct-2026-184787-article/?rss=true",
-          "relevant": false
-        },
-        {
-          "title": "JERA Forms Oil Stockpiling Unit",
-          "summary": "JERA Oil Storage will oversee the integrated power utility's four stockpiling facilities in Tomakomai-Tobu, Akita, Fukui and Shibushi under a joint contracting deal with the government's JOGMEC.",
-          "date": "2026-10-06",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/jera_forms_oil_stockpiling_unit-06-oct-2026-184783-article/?rss=true",
           "relevant": false
         },
         {
@@ -369,11 +393,11 @@
           "relevant": false
         },
         {
-          "title": "Textron Systems to Provide Two Additional SSC Craft to US Navy",
-          "summary": "Textron Systems Corporation announced it was awarded a $230M contract modification from the U.S. Navy to produce two Ship-to-Shore Connector (SSC) craft. Textron Systems press release The SSCs are designed to deliver…",
+          "title": "JERA Forms Oil Stockpiling Unit",
+          "summary": "JERA Oil Storage will oversee the integrated power utility's four stockpiling facilities in Tomakomai-Tobu, Akita, Fukui and Shibushi under a joint contracting deal with the government's JOGMEC.",
           "date": "2026-10-06",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/textron-systems-to-provide-two-additional-ssc-craft-to-us-navy/",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/jera_forms_oil_stockpiling_unit-06-oct-2026-184783-article/?rss=true",
           "relevant": false
         },
         {
@@ -2849,6 +2873,22 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "UK Sanctions 12 More ‘Shadow-Fleet’ Tankers as Russia’s Arctic Traffic Grows",
+          "summary": "The United Kingdom on Thursday sanctioned 12 oil tankers it identified as part of Russia's shadow fleet, including the 22-year-old Dakar that is currently making an unusual late-season voyage on the Northern Sea Route.",
+          "date": "2026-10-08",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/uk-sanctions-12-more-shadow-fleet-tankers-as-russias-arctic-traffic-grows/",
+          "relevant": false
+        },
+        {
+          "title": "Energy Transfer Buys Already Integrated Vaquero Assets for Over $2.6B",
+          "summary": "Energy Transfer agreed to acquire Vaquero Midstream, whose assets are already interconnected with Energy Transfer's downstream natural gas and natural gas liquids infrastructure, for around $2.625 billion.",
+          "date": "2026-10-08",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/energy_transfer_buys_already_integrated_vaquero_assets_for_over_26b-08-oct-2026-184803-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "Chevron Exits Hess Midstream as It Restructures Bakken, DJ Assets",
           "summary": "Hess Midstream will become independent of Chevron through a swap transaction that lets Chevron keep using oil and gas gathering and processing infrastructure in the Bakken at lower cost.",
           "date": "2026-10-08",
@@ -2913,14 +2953,6 @@
           "relevant": false
         },
         {
-          "title": "New Maryland Defense Shipyard Gets $6.6 Billion Commitment and Trump Visit",
-          "summary": "Defense tech firm Anduril unveiled plans on Tuesday for a $3.7 billion shipyard in Maryland that is expected to generate 3,100 jobs, in a ceremony attended by President Donald Trump.",
-          "date": "2026-10-07",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/new-maryland-defense-shipyard-gets-6-6-billion-commitment-and-trump-visit/",
-          "relevant": false
-        },
-        {
           "title": "VAALCO closes out Gabon Phase 3 and begins drilling at Baobab",
           "summary": "VAALCO Energy completed its offshore Gabon Phase 3 drilling program with the ETSEM-3H development well, which was drilled, completed and placed on production in an attic position within the SE Etame field. The well has…",
           "date": "2026-10-07",
@@ -2942,6 +2974,14 @@
           "date": "2026-10-07",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/chevron-sell-hess-midstream-dj-basin/",
+          "relevant": false
+        },
+        {
+          "title": "New Maryland Defense Shipyard Gets $6.6 Billion Commitment and Trump Visit",
+          "summary": "Defense tech firm Anduril unveiled plans on Tuesday for a $3.7 billion shipyard in Maryland that is expected to generate 3,100 jobs, in a ceremony attended by President Donald Trump.",
+          "date": "2026-10-07",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/new-maryland-defense-shipyard-gets-6-6-billion-commitment-and-trump-visit/",
           "relevant": false
         },
         {
@@ -4161,6 +4201,22 @@
           "relevant": false
         },
         {
+          "title": "Golar secures 2013-built LNG carrier for conversion into fourth FLNG",
+          "summary": "Golar LNG has acquired a 13-year-old vessel from NYK Line to transform it into a floating liquefaction facility by 2029.",
+          "date": "2026-10-08",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/08/golar-secures-2013-built-lng-carrier-for-conversion-into-fourth-flng",
+          "relevant": false
+        },
+        {
+          "title": "Brazos Concludes $4.4B Sale of Midland Basin Assets to ONEOK",
+          "summary": "Brazos Midstream completed the divestment of its Midland Basin natural gas gathering and processing infrastructure to ONEOK for $4.425 billion.",
+          "date": "2026-10-08",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/brazos_concludes_44b_sale_of_midland_basin_assets_to_oneok-08-oct-2026-184806-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "Emera to Acquire Canadian Utilities for $10B",
           "summary": "Emera and Canadian Utilities have entered into what they say is the largest merger between two Canadian companies, based on an enterprise value of around $50.47 billion.",
           "date": "2026-10-08",
@@ -4978,6 +5034,15 @@
           "region": "UAE"
         },
         {
+          "title": "MBDA Offers SM39 Block 2 Mod 2 for Indonesia’s Scorpène Submarines",
+          "summary": "MBDA confirmed that the company is offering its submarine-launched SM39 Exocet anti-ship missile for Indonesia’s future Scorpène Evolved submarines The post MBDA Offers SM39 Block 2 Mod 2 for Indonesia’s Scorpène…",
+          "date": "2026-10-06",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/mbda-offers-sm39-block-2-mod-2-for-indonesias-scorpene-submarines/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Aramco hires KBR for work on oil & gas project in Arabian Gulf",
           "summary": "This offshore engineering contract enables KBR to support Aramco’s field development program off the coast of Saudi Arabia.",
           "date": "2026-10-06",
@@ -5022,15 +5087,6 @@
           "region": "UAE"
         },
         {
-          "title": "MBDA Offers SM39 Block 2 Mod 2 for Indonesia’s Scorpène Submarines",
-          "summary": "MBDA confirmed that the company is offering its submarine-launched SM39 Exocet anti-ship missile for Indonesia’s future Scorpène Evolved submarines The post MBDA Offers SM39 Block 2 Mod 2 for Indonesia’s Scorpène…",
-          "date": "2026-10-06",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/mbda-offers-sm39-block-2-mod-2-for-indonesias-scorpene-submarines/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Iran’s Offshore Oil Stockpile Nears Exhaustion as Blockade Chokes New Supply",
           "summary": "Iran’s offshore crude stockpile in Southeast Asia is being rapidly depleted as the U.S. maritime blockade prevents fresh barrels from leaving the Persian Gulf, according to new tracking data from...",
           "date": "2026-10-06",
@@ -5058,20 +5114,20 @@
           "region": "UAE"
         },
         {
-          "title": "VARD opens new office in Vietnam, plans to grow to 40+ engineers",
-          "summary": "Norwegian ship designer and shipbuilder VARD, a subsidiary of Italy’s Fincantieri Group, has opened a new office in Vietnam, covering several key...",
-          "date": "2026-10-05",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/05/vard-opens-new-office-in-vietnam-plans-to-grow-to-40-engineers",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Philippines: The Coastal Defense Regiment 2026 BrahMos Update",
           "summary": "The Philippine Marine Corps is working to fully operationalize its BrahMos supersonic anti-ship missiles amid tensions with China in the SCS. The post Philippines: The Coastal Defense Regiment 2026 BrahMos Update…",
           "date": "2026-10-05",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/10/philippines-the-coastal-defense-regiment-2026-brahmos-update/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "VARD opens new office in Vietnam, plans to grow to 40+ engineers",
+          "summary": "Norwegian ship designer and shipbuilder VARD, a subsidiary of Italy’s Fincantieri Group, has opened a new office in Vietnam, covering several key...",
+          "date": "2026-10-05",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/05/vard-opens-new-office-in-vietnam-plans-to-grow-to-40-engineers",
           "relevant": false,
           "region": "SEA"
         },
