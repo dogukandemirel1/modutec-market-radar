@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T06:00:52Z",
+  "last_updated": "2026-10-08T07:00:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4008,6 +4008,22 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "Berlin blocks COSCO takeover of German freight forwarder",
+          "summary": "Germany has blocked COSCO Shipping’s planned acquisition of an 80% stake in Hamburg freight forwarder Konrad Zippel, overriding an earlier competition clearance on national security grounds. The federal cabinet approved…",
+          "date": "2026-10-08",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/berlin-blocks-cosco-takeover-of-german-freight-forwarder/",
+          "relevant": false
+        },
+        {
+          "title": "Tamba and Fairfield form Japanese shipping joint venture",
+          "summary": "Japan’s Tamba Shipping and Fairfield Maritime Japan have formed a 50:50 joint venture targeting growth in chemical, product and gas tanker shipping. The new company, FT Ebisu Maritime, will be based at Fairfield…",
+          "date": "2026-10-08",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/tamba-and-fairfield-form-japanese-shipping-joint-venture/",
+          "relevant": false
+        },
         {
           "title": "Monaco emerges as shipping’s ‘new darling’",
           "summary": "A fresh influx of shipowners and shipping capital is adding weight to an already formidable maritime cluster on the Côte d’Azur. Sam Chambers gears up for his annual trip to the principality’s yacht club for the…",
