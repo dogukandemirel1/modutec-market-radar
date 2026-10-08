@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T11:00:53Z",
+  "last_updated": "2026-10-08T11:18:19Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -112,6 +112,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Valaris secures $220m in contract awards and extensions",
+          "summary": "Offshore drilling contractor Valaris has reported new contract awards and extensions amounting to an estimated $220m in contract backlog since its previous fleet status update in August 2026.",
+          "date": "2026-10-08",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/valaris-220m-contract-awards-extensions/",
+          "relevant": false
+        },
         {
           "title": "Rockhopper Commits $44M to Second Sea Lion FPSO",
           "summary": "Rockhopper Exploration has agreed to invest $44 million to acquire a 35% interest in the OSX-1 floating production, storage and offloading (FPSO) vessel, which is…",
@@ -2814,6 +2822,14 @@
           "date": "2026-10-08",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/oil_prices_rebound_intraday_thursday-08-oct-2026-184798-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Equinor raises Snøhvit Future cost forecast to $2.7bn",
+          "summary": "Equinor has lifted the investment forecast for its Snøhvit Future development in Norway to Nkr26.5bn ($2.7bn) in 2026 value, representing the third upward revision since the project was sanctioned.",
+          "date": "2026-10-08",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/equinor-snohvit-future-cost-forecast-2-7bn/",
           "relevant": false
         },
         {
