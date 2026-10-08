@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T12:00:57Z",
+  "last_updated": "2026-10-08T13:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -112,6 +112,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Seatrium bags first FSRU conversion for Excelerate",
+          "summary": "Singapore shipyard group Seatrium has secured an EPCIC contract from New York-listed floating regasification specialist Excelerate Energy to convert an LNG carrier into an FSRU, with an option for a second unit. The…",
+          "date": "2026-10-08",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/seatrium-bags-first-fsru-conversion-for-excelerate/",
+          "relevant": false
+        },
         {
           "title": "Subsea7 contracts EnerMech for Trinidad and Tobago's subsea development",
           "summary": "Aberdeen-headquartered integrated solutions specialist EnerMech has secured a contract with Subsea7 to deliver pre-commissioning services for a...",
@@ -2854,6 +2862,14 @@
           "date": "2026-10-08",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/equinor-snohvit-future-cost-forecast-2-7bn/",
+          "relevant": false
+        },
+        {
+          "title": "TenneT Joins Subsea Cable Decommissioning Tool Development",
+          "summary": "TenneT Germany has joined DEME and Subsea Cable Assets (SCA) as a development sponsor of Frequensea's subsea cable decommissioning tool, which is being developed…",
+          "date": "2026-10-08",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543557-tennet-joins-subsea-cable-decommissioning-tool-development",
           "relevant": false
         },
         {
