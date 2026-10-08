@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T18:00:55Z",
+  "last_updated": "2026-10-08T19:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -166,6 +166,14 @@
           "date": "2026-10-08",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/valaris-220m-contract-awards-extensions/",
+          "relevant": false
+        },
+        {
+          "title": "Textron wins $230m US Navy order for two Ship-to-Shore Connectors",
+          "summary": "Textron Systems has received a $230m contract modification from the US Navy to produce two Ship-to-Shore Connector (SSC) craft. The post Textron wins $230m US Navy order for two Ship-to-Shore Connectors appeared first…",
+          "date": "2026-10-08",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/textron-us-navy-ssc-craft/",
           "relevant": false
         },
         {
@@ -385,6 +393,14 @@
           "relevant": true
         },
         {
+          "title": "Textron Systems to Provide Two Additional SSC Craft to US Navy",
+          "summary": "Textron Systems Corporation announced it was awarded a $230M contract modification from the U.S. Navy to produce two Ship-to-Shore Connector (SSC) craft. Textron Systems press release The SSCs are designed to deliver…",
+          "date": "2026-10-06",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/textron-systems-to-provide-two-additional-ssc-craft-to-us-navy/",
+          "relevant": false
+        },
+        {
           "title": "Vistra Gets Conditional $4.2B DOE Loan for PJM Nuclear Fleet",
           "summary": "The facilities have agreements to power Big Tech.",
           "date": "2026-10-06",
@@ -398,14 +414,6 @@
           "date": "2026-10-06",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/ursa-major-rocket-motors-contract/",
-          "relevant": false
-        },
-        {
-          "title": "Textron Systems to Provide Two Additional SSC Craft to US Navy",
-          "summary": "Textron Systems Corporation announced it was awarded a $230M contract modification from the U.S. Navy to produce two Ship-to-Shore Connector (SSC) craft. Textron Systems press release The SSCs are designed to deliver…",
-          "date": "2026-10-06",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/textron-systems-to-provide-two-additional-ssc-craft-to-us-navy/",
           "relevant": false
         },
         {
@@ -2889,6 +2897,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "U.S. Sanctions 22 More Tankers in Crackdown on Iran’s Shadow Fleet",
+          "summary": "The United States on Thursday imposed sanctions on 22 tankers and dozens of individuals and companies linked to Iran’s oil trade, expanding its campaign to cut off Tehran’s remaining petroleum...",
+          "date": "2026-10-08",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/u-s-sanctions-22-more-tankers-in-crackdown-on-irans-shadow-fleet/",
+          "relevant": false
+        },
+        {
           "title": "UK Sanctions 12 More ‘Shadow-Fleet’ Tankers as Russia’s Arctic Traffic Grows",
           "summary": "The United Kingdom on Thursday sanctioned 12 oil tankers it identified as part of Russia's shadow fleet, including the 22-year-old Dakar that is currently making an unusual late-season voyage on the Northern Sea Route.",
           "date": "2026-10-08",
@@ -2953,22 +2969,6 @@
           "relevant": false
         },
         {
-          "title": "Sanctioned 22-Year-Old Tanker Makes Rare Late-Season Arctic Voyage",
-          "summary": "A 22-year-old product tanker sanctioned by the European Union is making an unusual late-season voyage along Russia's Northern Sea Route, highlighting the growing use of older, lower-specification vessels to move…",
-          "date": "2026-10-07",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/sanctioned-22-year-old-non-ice-class-tanker-makes-rare-late-season-arctic-voyage/",
-          "relevant": false
-        },
-        {
-          "title": "Port of Savannah Sets September Container Record as Imports Rise",
-          "summary": "The Port of Savannah handled a record 504,015 twenty-foot equivalent units in September, up 3.7% from a year earlier as strong imports and a later-than-usual peak season boosted volumes.",
-          "date": "2026-10-07",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/port-of-savannah-sets-september-container-record-as-imports-rise/",
-          "relevant": false
-        },
-        {
           "title": "VAALCO closes out Gabon Phase 3 and begins drilling at Baobab",
           "summary": "VAALCO Energy completed its offshore Gabon Phase 3 drilling program with the ETSEM-3H development well, which was drilled, completed and placed on production in an attic position within the SE Etame field. The well has…",
           "date": "2026-10-07",
@@ -2990,6 +2990,22 @@
           "date": "2026-10-07",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/chevron-sell-hess-midstream-dj-basin/",
+          "relevant": false
+        },
+        {
+          "title": "Sanctioned 22-Year-Old Tanker Makes Rare Late-Season Arctic Voyage",
+          "summary": "A 22-year-old product tanker sanctioned by the European Union is making an unusual late-season voyage along Russia's Northern Sea Route, highlighting the growing use of older, lower-specification vessels to move…",
+          "date": "2026-10-07",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/sanctioned-22-year-old-non-ice-class-tanker-makes-rare-late-season-arctic-voyage/",
+          "relevant": false
+        },
+        {
+          "title": "Port of Savannah Sets September Container Record as Imports Rise",
+          "summary": "The Port of Savannah handled a record 504,015 twenty-foot equivalent units in September, up 3.7% from a year earlier as strong imports and a later-than-usual peak season boosted volumes.",
+          "date": "2026-10-07",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/port-of-savannah-sets-september-container-record-as-imports-rise/",
           "relevant": false
         },
         {
@@ -5050,6 +5066,15 @@
           "region": "UAE"
         },
         {
+          "title": "MBDA Offers SM39 Block 2 Mod 2 for Indonesia’s Scorpène Submarines",
+          "summary": "MBDA confirmed that the company is offering its submarine-launched SM39 Exocet anti-ship missile for Indonesia’s future Scorpène Evolved submarines The post MBDA Offers SM39 Block 2 Mod 2 for Indonesia’s Scorpène…",
+          "date": "2026-10-06",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/mbda-offers-sm39-block-2-mod-2-for-indonesias-scorpene-submarines/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Aramco hires KBR for work on oil & gas project in Arabian Gulf",
           "summary": "This offshore engineering contract enables KBR to support Aramco’s field development program off the coast of Saudi Arabia.",
           "date": "2026-10-06",
@@ -5083,15 +5108,6 @@
           "source_url": "https://www.offshore-technology.com/news/adnoc-lng-supply-deal-thailands-gulf-group/",
           "relevant": true,
           "region": "UAE"
-        },
-        {
-          "title": "MBDA Offers SM39 Block 2 Mod 2 for Indonesia’s Scorpène Submarines",
-          "summary": "MBDA confirmed that the company is offering its submarine-launched SM39 Exocet anti-ship missile for Indonesia’s future Scorpène Evolved submarines The post MBDA Offers SM39 Block 2 Mod 2 for Indonesia’s Scorpène…",
-          "date": "2026-10-06",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/mbda-offers-sm39-block-2-mod-2-for-indonesias-scorpene-submarines/",
-          "relevant": false,
-          "region": "SEA"
         },
         {
           "title": "ADNOC to Continue Supplying LNG to Thai Power Developer",
