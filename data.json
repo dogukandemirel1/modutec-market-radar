@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T16:00:57Z",
+  "last_updated": "2026-10-08T17:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -121,6 +121,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "TOTE, Hanwha Finalize Deal to Build U.S. Missile Defense Ship",
+          "summary": "TOTE Services has finalized its contract with the U.S. Maritime Administration to oversee construction of a new generation of missile-tracking ships, clearing the way for Hanwha Philly Shipyard to begin...",
+          "date": "2026-10-08",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/tote-hanwha-finalize-deal-to-build-u-s-missile-defense-ship/",
+          "relevant": false
+        },
+        {
           "title": "Turkey Says Russia, Ukraine Increasing Attacks in Black Sea Ahead of Winter",
           "summary": "Intensifying attacks by Russia and Ukraine ahead of the winter are further endangering navigational safety in the Black Sea, Turkish Foreign Minister Hakan Fidan said on Thursday, adding that world powers must not allow…",
           "date": "2026-10-08",
@@ -158,6 +166,14 @@
           "date": "2026-10-08",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/valaris-220m-contract-awards-extensions/",
+          "relevant": false
+        },
+        {
+          "title": "X-Bow wins $70m US Navy solid rocket motor booster contract",
+          "summary": "X-Bow Systems has secured a prototype agreement with a potential value of $69.7m to develop and qualify a solid rocket motor booster for a US Navy next-generation weapon programme. The post X-Bow wins $70m US Navy solid…",
+          "date": "2026-10-08",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/x-bow-us-navy-solid-rocket/",
           "relevant": false
         },
         {
@@ -369,6 +385,14 @@
           "relevant": true
         },
         {
+          "title": "Textron Systems to Provide Two Additional SSC Craft to US Navy",
+          "summary": "Textron Systems Corporation announced it was awarded a $230M contract modification from the U.S. Navy to produce two Ship-to-Shore Connector (SSC) craft. Textron Systems press release The SSCs are designed to deliver…",
+          "date": "2026-10-06",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/textron-systems-to-provide-two-additional-ssc-craft-to-us-navy/",
+          "relevant": false
+        },
+        {
           "title": "Vistra Gets Conditional $4.2B DOE Loan for PJM Nuclear Fleet",
           "summary": "The facilities have agreements to power Big Tech.",
           "date": "2026-10-06",
@@ -382,14 +406,6 @@
           "date": "2026-10-06",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/ursa-major-rocket-motors-contract/",
-          "relevant": false
-        },
-        {
-          "title": "Textron Systems to Provide Two Additional SSC Craft to US Navy",
-          "summary": "Textron Systems Corporation announced it was awarded a $230M contract modification from the U.S. Navy to produce two Ship-to-Shore Connector (SSC) craft. Textron Systems press release The SSCs are designed to deliver…",
-          "date": "2026-10-06",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/textron-systems-to-provide-two-additional-ssc-craft-to-us-navy/",
           "relevant": false
         },
         {
@@ -5034,6 +5050,15 @@
           "region": "UAE"
         },
         {
+          "title": "MBDA Offers SM39 Block 2 Mod 2 for Indonesia’s Scorpène Submarines",
+          "summary": "MBDA confirmed that the company is offering its submarine-launched SM39 Exocet anti-ship missile for Indonesia’s future Scorpène Evolved submarines The post MBDA Offers SM39 Block 2 Mod 2 for Indonesia’s Scorpène…",
+          "date": "2026-10-06",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/mbda-offers-sm39-block-2-mod-2-for-indonesias-scorpene-submarines/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Aramco hires KBR for work on oil & gas project in Arabian Gulf",
           "summary": "This offshore engineering contract enables KBR to support Aramco’s field development program off the coast of Saudi Arabia.",
           "date": "2026-10-06",
@@ -5067,15 +5092,6 @@
           "source_url": "https://www.offshore-technology.com/news/adnoc-lng-supply-deal-thailands-gulf-group/",
           "relevant": true,
           "region": "UAE"
-        },
-        {
-          "title": "MBDA Offers SM39 Block 2 Mod 2 for Indonesia’s Scorpène Submarines",
-          "summary": "MBDA confirmed that the company is offering its submarine-launched SM39 Exocet anti-ship missile for Indonesia’s future Scorpène Evolved submarines The post MBDA Offers SM39 Block 2 Mod 2 for Indonesia’s Scorpène…",
-          "date": "2026-10-06",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/mbda-offers-sm39-block-2-mod-2-for-indonesias-scorpene-submarines/",
-          "relevant": false,
-          "region": "SEA"
         },
         {
           "title": "ADNOC to Continue Supplying LNG to Thai Power Developer",
