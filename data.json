@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T09:01:03Z",
+  "last_updated": "2026-10-08T10:00:54Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -118,6 +118,14 @@
           "date": "2026-10-08",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/rockhopper-secures-stake-in-fpso-bound-for-falklands-waters/",
+          "relevant": false
+        },
+        {
+          "title": "Petrobras, Equinor, QatarEnergy Among Winners in Brazil's Offshore Auction",
+          "summary": "Brazil awarded 56 oil and gas exploration blocks in two licensing rounds held on October 7, with Petrobras, Equinor, QatarEnergy, Galp and Chinese energy companies among the successful bidders…",
+          "date": "2026-10-08",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543552-petrobras-equinor-qatarenergy-among-winners-in-brazil-s-offshore-auction",
           "relevant": false
         },
         {
