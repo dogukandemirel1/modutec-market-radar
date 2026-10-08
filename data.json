@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T10:00:54Z",
+  "last_updated": "2026-10-08T11:00:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -113,11 +113,11 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Rockhopper secures stake in FPSO bound for Falklands waters",
-          "summary": "Rockhopper Exploration is putting $44m into the Sea Lion development off the Falkland Islands, committing to a 35% stake in the OSX-1 FPSO as political pressure from Argentina and contractor withdrawals continue to hang…",
+          "title": "Rockhopper Commits $44M to Second Sea Lion FPSO",
+          "summary": "Rockhopper Exploration has agreed to invest $44 million to acquire a 35% interest in the OSX-1 floating production, storage and offloading (FPSO) vessel, which is…",
           "date": "2026-10-08",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/rockhopper-secures-stake-in-fpso-bound-for-falklands-waters/",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543554-rockhopper-commits-44m-to-second-sea-lion-fpso",
           "relevant": false
         },
         {
@@ -126,6 +126,14 @@
           "date": "2026-10-08",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543552-petrobras-equinor-qatarenergy-among-winners-in-brazil-s-offshore-auction",
+          "relevant": false
+        },
+        {
+          "title": "Rockhopper secures stake in FPSO bound for Falklands waters",
+          "summary": "Rockhopper Exploration is putting $44m into the Sea Lion development off the Falkland Islands, committing to a 35% stake in the OSX-1 FPSO as political pressure from Argentina and contractor withdrawals continue to hang…",
+          "date": "2026-10-08",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/rockhopper-secures-stake-in-fpso-bound-for-falklands-waters/",
           "relevant": false
         },
         {
@@ -289,14 +297,6 @@
           "relevant": true
         },
         {
-          "title": "Textron Systems to Provide Two Additional SSC Craft to US Navy",
-          "summary": "Textron Systems Corporation announced it was awarded a $230M contract modification from the U.S. Navy to produce two Ship-to-Shore Connector (SSC) craft. Textron Systems press release The SSCs are designed to deliver…",
-          "date": "2026-10-06",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/textron-systems-to-provide-two-additional-ssc-craft-to-us-navy/",
-          "relevant": false
-        },
-        {
           "title": "Vistra Gets Conditional $4.2B DOE Loan for PJM Nuclear Fleet",
           "summary": "The facilities have agreements to power Big Tech.",
           "date": "2026-10-06",
@@ -318,6 +318,14 @@
           "date": "2026-10-06",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/ursa-major-rocket-motors-contract/",
+          "relevant": false
+        },
+        {
+          "title": "Textron Systems to Provide Two Additional SSC Craft to US Navy",
+          "summary": "Textron Systems Corporation announced it was awarded a $230M contract modification from the U.S. Navy to produce two Ship-to-Shore Connector (SSC) craft. Textron Systems press release The SSCs are designed to deliver…",
+          "date": "2026-10-06",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/textron-systems-to-provide-two-additional-ssc-craft-to-us-navy/",
           "relevant": false
         },
         {
@@ -2793,6 +2801,22 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Chevron Exits Hess Midstream as It Restructures Bakken, DJ Assets",
+          "summary": "Hess Midstream will become independent of Chevron through a swap transaction that lets Chevron keep using oil and gas gathering and processing infrastructure in the Bakken at lower cost.",
+          "date": "2026-10-08",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/chevron_exits_hess_midstream_as_it_restructures_bakken_dj_assets-08-oct-2026-184799-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Oil Prices Rebound Intraday Thursday",
+          "summary": "Naeem Aslam, CIO at Zaye Capital Markets, outlines the main driver.",
+          "date": "2026-10-08",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/oil_prices_rebound_intraday_thursday-08-oct-2026-184798-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "Hurricane Isaias forces evacuations and production cuts in US Gulf",
           "summary": "Around a quarter of US Gulf of Mexico oil production has been shut in as operators evacuate personnel and curtail operations ahead of Hurricane Isaias. The Marine Minerals Administration, the US offshore regulator, said…",
           "date": "2026-10-08",
@@ -4777,6 +4801,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Yinson Production lands $1.46bn refinancing for Agogo FPSO",
+          "summary": "Singapore-based Yinson Production has priced $1.458bn of senior secured notes backed by the Agogo FPSO, marking what the company says is the largest FPSO project bond to date and the first of its kind outside Brazil…",
+          "date": "2026-10-08",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/yinson-production-lands-1-46bn-refinancing-for-agogo-fpso/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Tanker attack off Qatar widens Gulf shipping conflict",
           "summary": "The war on merchant shipping in the Middle East has taken a worrying geographical turn, with casualties reported aboard a tanker attacked off Qatar, hundreds of miles west of the Strait of Hormuz, while a containership…",
           "date": "2026-10-08",
@@ -4848,15 +4881,6 @@
           "region": "UAE"
         },
         {
-          "title": "MBDA Offers SM39 Block 2 Mod 2 for Indonesia’s Scorpène Submarines",
-          "summary": "MBDA confirmed that the company is offering its submarine-launched SM39 Exocet anti-ship missile for Indonesia’s future Scorpène Evolved submarines The post MBDA Offers SM39 Block 2 Mod 2 for Indonesia’s Scorpène…",
-          "date": "2026-10-06",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/mbda-offers-sm39-block-2-mod-2-for-indonesias-scorpene-submarines/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Aramco hires KBR for work on oil & gas project in Arabian Gulf",
           "summary": "This offshore engineering contract enables KBR to support Aramco’s field development program off the coast of Saudi Arabia.",
           "date": "2026-10-06",
@@ -4901,6 +4925,15 @@
           "region": "UAE"
         },
         {
+          "title": "MBDA Offers SM39 Block 2 Mod 2 for Indonesia’s Scorpène Submarines",
+          "summary": "MBDA confirmed that the company is offering its submarine-launched SM39 Exocet anti-ship missile for Indonesia’s future Scorpène Evolved submarines The post MBDA Offers SM39 Block 2 Mod 2 for Indonesia’s Scorpène…",
+          "date": "2026-10-06",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/mbda-offers-sm39-block-2-mod-2-for-indonesias-scorpene-submarines/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Iran’s Offshore Oil Stockpile Nears Exhaustion as Blockade Chokes New Supply",
           "summary": "Iran’s offshore crude stockpile in Southeast Asia is being rapidly depleted as the U.S. maritime blockade prevents fresh barrels from leaving the Persian Gulf, according to new tracking data from...",
           "date": "2026-10-06",
@@ -4928,20 +4961,20 @@
           "region": "UAE"
         },
         {
-          "title": "Philippines: The Coastal Defense Regiment 2026 BrahMos Update",
-          "summary": "The Philippine Marine Corps is working to fully operationalize its BrahMos supersonic anti-ship missiles amid tensions with China in the SCS. The post Philippines: The Coastal Defense Regiment 2026 BrahMos Update…",
-          "date": "2026-10-05",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/philippines-the-coastal-defense-regiment-2026-brahmos-update/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "VARD opens new office in Vietnam, plans to grow to 40+ engineers",
           "summary": "Norwegian ship designer and shipbuilder VARD, a subsidiary of Italy’s Fincantieri Group, has opened a new office in Vietnam, covering several key...",
           "date": "2026-10-05",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/05/vard-opens-new-office-in-vietnam-plans-to-grow-to-40-engineers",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Philippines: The Coastal Defense Regiment 2026 BrahMos Update",
+          "summary": "The Philippine Marine Corps is working to fully operationalize its BrahMos supersonic anti-ship missiles amid tensions with China in the SCS. The post Philippines: The Coastal Defense Regiment 2026 BrahMos Update…",
+          "date": "2026-10-05",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/philippines-the-coastal-defense-regiment-2026-brahmos-update/",
           "relevant": false,
           "region": "SEA"
         },
