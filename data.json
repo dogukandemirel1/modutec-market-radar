@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T13:01:05Z",
+  "last_updated": "2026-10-08T14:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -118,6 +118,14 @@
           "date": "2026-10-08",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/seatrium-bags-first-fsru-conversion-for-excelerate/",
+          "relevant": false
+        },
+        {
+          "title": "TotalEnergies moves well planning to SLB’s DrillPlan platform worldwide",
+          "summary": "TotalEnergies awarded SLB a 15-year contract to deploy DrillPlan well planning and engineering solutions across its global upstream portfolio. The deployment moves the operator to a digital well planning environment…",
+          "date": "2026-10-08",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/totalenergies-moves-well-planning-to-slbs-drillplan-platform-worldwide-80298",
           "relevant": false
         },
         {
@@ -2865,6 +2873,14 @@
           "relevant": false
         },
         {
+          "title": "Lamprell Picks IMI for Offshore Platforms and Jackets Fabrication",
+          "summary": "Lamprell has signed an agreement with International Maritime Industries (IMI) to fabricate several offshore structures, including a production platform and jackets…",
+          "date": "2026-10-08",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543560-lamprell-picks-imi-for-offshore-platforms-and-jackets-fabrication",
+          "relevant": false
+        },
+        {
           "title": "TenneT Joins Subsea Cable Decommissioning Tool Development",
           "summary": "TenneT Germany has joined DEME and Subsea Cable Assets (SCA) as a development sponsor of Frequensea's subsea cable decommissioning tool, which is being developed…",
           "date": "2026-10-08",
@@ -4137,6 +4153,22 @@
           "relevant": false
         },
         {
+          "title": "Ensign Rig 974 moves to Palm Valley 15 after Central’s PV14 flow test",
+          "summary": "Central Petroleum flow-tested its Palm Valley 14 (PV14) well in the Amadeus Basin of Australia’s Northern Territory and recorded a final estimated gas rate of about 3.2 terajoules per day (TJ/d) on a 100% joint venture…",
+          "date": "2026-10-08",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/ensign-rig-974-moves-to-palm-valley-15-after-centrals-pv14-flow-test-80301",
+          "relevant": false
+        },
+        {
+          "title": "Emera to Acquire Canadian Utilities for $10B",
+          "summary": "Emera and Canadian Utilities have entered into what they say is the largest merger between two Canadian companies, based on an enterprise value of around $50.47 billion.",
+          "date": "2026-10-08",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/emera_to_acquire_canadian_utilities_for_10b-08-oct-2026-184801-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "Tamba and Fairfield form Japanese shipping joint venture",
           "summary": "Japan’s Tamba Shipping and Fairfield Maritime Japan have formed a 50:50 joint venture targeting growth in chemical, product and gas tanker shipping. The new company, FT Ebisu Maritime, will be based at Fairfield…",
           "date": "2026-10-08",
@@ -4856,6 +4888,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "SPM Shipping plays the market",
+          "summary": "With only a few months in gas, Dubai-based SPM Shipping, a shipowner, operator and offshore player, has now added its third VLGC, according to sources. The fast-growing owner is ambitious and moving comfortably in the…",
+          "date": "2026-10-08",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/spm-shipping-plays-the-market/",
+          "relevant": true,
+          "region": "UAE"
+        },
         {
           "title": "Yinson Production lands $1.46bn refinancing for Agogo FPSO",
           "summary": "Singapore-based Yinson Production has priced $1.458bn of senior secured notes backed by the Agogo FPSO, marking what the company says is the largest FPSO project bond to date and the first of its kind outside Brazil…",
