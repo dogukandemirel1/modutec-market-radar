@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T08:00:53Z",
+  "last_updated": "2026-10-08T09:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -118,6 +118,14 @@
           "date": "2026-10-08",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/rockhopper-secures-stake-in-fpso-bound-for-falklands-waters/",
+          "relevant": false
+        },
+        {
+          "title": "Petrobras, Equinor Among Winners in Brazil Latest Offshore Auction",
+          "summary": "Brazil has awarded seven offshore exploration blocks in its fourth Permanent Production Sharing Offer Cycle, the highest number awarded in a single production-sharing…",
+          "date": "2026-10-08",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543552-petrobras-equinor-among-winners-in-brazil-latest-offshore-auction",
           "relevant": false
         },
         {
@@ -393,14 +401,6 @@
           "relevant": false
         },
         {
-          "title": "Seatrium wins ninth FSRU conversion project from Karpowership",
-          "summary": "Seatrium has secured a contract from Karpowership to convert a LNG carrier into the FSRU LNGT Akdeniz, marking the ninth FSRU conversion project between the companies.",
-          "date": "2026-10-05",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/seatrium-ninth-fsru-conversion-project-karpowership/",
-          "relevant": false
-        },
-        {
           "title": "Diehl Defence to adapt IRIS-T SLM for German Navy frigates",
           "summary": "Diehl Defence has signed a contract to adapt its IRIS-T SLM air defence system for deployment on the German Navy’s F125 frigates. The post Diehl Defence to adapt IRIS-T SLM for German Navy frigates appeared first on…",
           "date": "2026-10-05",
@@ -414,6 +414,14 @@
           "date": "2026-10-05",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/bae-systems-trident-missile/",
+          "relevant": false
+        },
+        {
+          "title": "Seatrium wins ninth FSRU conversion project from Karpowership",
+          "summary": "Seatrium has secured a contract from Karpowership to convert a LNG carrier into the FSRU LNGT Akdeniz, marking the ninth FSRU conversion project between the companies.",
+          "date": "2026-10-05",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/seatrium-ninth-fsru-conversion-project-karpowership/",
           "relevant": false
         },
         {
