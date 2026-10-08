@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T07:00:53Z",
+  "last_updated": "2026-10-08T08:00:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -113,27 +113,35 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Anduril to Build Massive Maryland Shipyard for Virginia-Class Submarine Components",
-          "summary": "Anduril Industries plans to invest $3.7 billion in a new Maryland shipyard to manufacture major components for Virginia-class attack submarines, backed by a U.S. Navy contract worth up to $2.9...",
-          "date": "2026-10-07",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/anduril-to-build-massive-maryland-shipyard-for-virginia-class-submarine-components/",
+          "title": "Rockhopper secures stake in FPSO bound for Falklands waters",
+          "summary": "Rockhopper Exploration is putting $44m into the Sea Lion development off the Falkland Islands, committing to a 35% stake in the OSX-1 FPSO as political pressure from Argentina and contractor withdrawals continue to hang…",
+          "date": "2026-10-08",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/rockhopper-secures-stake-in-fpso-bound-for-falklands-waters/",
           "relevant": false
         },
         {
-          "title": "Eidesvik fixes PSV for 2027 drilling campaign",
-          "summary": "Norwegian offshore vessel owner Eidesvik Offshore has secured fresh work for the platform supply vessel Viking Queen, taking the ship out of the spot market for a drilling campaign starting early next year. The contract…",
-          "date": "2026-10-07",
+          "title": "Floatel secures fresh offshore work in Brazil",
+          "summary": "Oslo-based offshore accommodation vessel specialist Floatel International has signed a contract to provide maintenance and safety unit services using one of its vessels. The contract was awarded to the 2016-built…",
+          "date": "2026-10-08",
           "source_name": "Splash247",
-          "source_url": "https://splash247.com/eidesvik-fixes-psv-for-2027-drilling-campaign/",
+          "source_url": "https://splash247.com/floatel-secures-fresh-offshore-work-in-brazil/",
           "relevant": false
         },
         {
           "title": "Valaris adds $220m of new contracts and extensions",
           "summary": "Offshore driller Valaris has secured a batch of new contracts and extensions, with an associated contract backlog of approximately $220m. The company won a contract with Petronas for the Valaris DS-18 drillship in…",
-          "date": "2026-10-07",
+          "date": "2026-10-08",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/valaris-adds-220m-of-new-contracts-and-extensions/",
+          "relevant": false
+        },
+        {
+          "title": "Anduril to Build Massive Maryland Shipyard for Virginia-Class Submarine Components",
+          "summary": "Anduril Industries plans to invest $3.7 billion in a new Maryland shipyard to manufacture major components for Virginia-class attack submarines, backed by a U.S. Navy contract worth up to $2.9...",
+          "date": "2026-10-07",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/anduril-to-build-massive-maryland-shipyard-for-virginia-class-submarine-components/",
           "relevant": false
         },
         {
@@ -238,6 +246,14 @@
           "date": "2026-10-07",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543524-valaris-adds-220m-to-offshore-drilling-backlog",
+          "relevant": false
+        },
+        {
+          "title": "Eidesvik fixes PSV for 2027 drilling campaign",
+          "summary": "Norwegian offshore vessel owner Eidesvik Offshore has secured fresh work for the platform supply vessel Viking Queen, taking the ship out of the spot market for a drilling campaign starting early next year. The contract…",
+          "date": "2026-10-07",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/eidesvik-fixes-psv-for-2027-drilling-campaign/",
           "relevant": false
         },
         {
@@ -2761,6 +2777,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Hurricane Isaias forces evacuations and production cuts in US Gulf",
+          "summary": "Around a quarter of US Gulf of Mexico oil production has been shut in as operators evacuate personnel and curtail operations ahead of Hurricane Isaias. The Marine Minerals Administration, the US offshore regulator, said…",
+          "date": "2026-10-08",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/hurricane-isaias-forces-evacuations-and-production-cuts-in-us-gulf/",
+          "relevant": false
+        },
+        {
           "title": "Sanctioned 22-Year-Old Tanker Makes Rare Late-Season Arctic Voyage",
           "summary": "A 22-year-old product tanker sanctioned by the European Union is making an unusual late-season voyage along Russia's Northern Sea Route, highlighting the growing use of older, lower-specification vessels to move…",
           "date": "2026-10-07",
@@ -2865,19 +2889,19 @@
           "relevant": false
         },
         {
-          "title": "Namibia approves Eco’s farm-down of three offshore licences to bp",
-          "summary": "Offshore exploration company Eco (Atlantic) Oil & Gas has obtained the final regulatory clearance needed to complete its farm-down of a 60% stake in three Namibian exploration licences to BP.",
-          "date": "2026-10-05",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/namibia-ecos-farm-down-licences-bp/",
-          "relevant": false
-        },
-        {
           "title": "Forecasts: Global military ammunition market (2026–2036)",
           "summary": "The global military ammunition market is forecast to grow significantly over the next decade, led by North America, Europe, and Asia-Pacific. The post Forecasts: Global military ammunition market (2026–2036) appeared…",
           "date": "2026-10-05",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/features/forecasts-global-military-ammunition-market-2026-2036/",
+          "relevant": false
+        },
+        {
+          "title": "Namibia approves Eco’s farm-down of three offshore licences to bp",
+          "summary": "Offshore exploration company Eco (Atlantic) Oil & Gas has obtained the final regulatory clearance needed to complete its farm-down of a 60% stake in three Namibian exploration licences to BP.",
+          "date": "2026-10-05",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/namibia-ecos-farm-down-licences-bp/",
           "relevant": false
         },
         {
@@ -4033,22 +4057,6 @@
           "relevant": false
         },
         {
-          "title": "Golar picks NYK carrier for fourth FLNG conversion",
-          "summary": "Golar LNG has acquired a 2013-built LNG carrier from Japan’s NYK Line for conversion into its fourth floating LNG unit, filling in a key missing piece of its $2.45bn expansion programme. The Nasdaq-listed FLNG…",
-          "date": "2026-10-07",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/golar-picks-nyk-carrier-for-fourth-flng-conversion/",
-          "relevant": false
-        },
-        {
-          "title": "Gallagher Bassett buys second London shipping law firm in five months",
-          "summary": "Arthur J. Gallagher’s claims and risk management arm, Gallagher Bassett, has acquired London-based maritime law firm Winter & Co Solicitors, continuing a run of deals aimed at expanding its marine business. Financial…",
-          "date": "2026-10-07",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/gallagher-bassett-buys-second-london-shipping-law-firm-in-five-months/",
-          "relevant": false
-        },
-        {
           "title": "Singaporean firm buys Argus electric WROV, to mobilize for Persian Gulf",
           "summary": "Singapore’s offshore marine solutions company PACC Offshore Services Holdings (POSH) has acquired an electric work-class remotely operated...",
           "date": "2026-10-07",
@@ -4062,6 +4070,22 @@
           "date": "2026-10-07",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/oneok-4-4bn-acquisition-brazos-permian-assets/",
+          "relevant": false
+        },
+        {
+          "title": "Golar picks NYK carrier for fourth FLNG conversion",
+          "summary": "Golar LNG has acquired a 2013-built LNG carrier from Japan’s NYK Line for conversion into its fourth floating LNG unit, filling in a key missing piece of its $2.45bn expansion programme. The Nasdaq-listed FLNG…",
+          "date": "2026-10-07",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/golar-picks-nyk-carrier-for-fourth-flng-conversion/",
+          "relevant": false
+        },
+        {
+          "title": "Gallagher Bassett buys second London shipping law firm in five months",
+          "summary": "Arthur J. Gallagher’s claims and risk management arm, Gallagher Bassett, has acquired London-based maritime law firm Winter & Co Solicitors, continuing a run of deals aimed at expanding its marine business. Financial…",
+          "date": "2026-10-07",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/gallagher-bassett-buys-second-london-shipping-law-firm-in-five-months/",
           "relevant": false
         },
         {
@@ -4737,11 +4761,28 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Tanker attack off Qatar widens Gulf shipping conflict",
+          "summary": "The war on merchant shipping in the Middle East has taken a worrying geographical turn, with casualties reported aboard a tanker attacked off Qatar, hundreds of miles west of the Strait of Hormuz, while a containership…",
+          "date": "2026-10-08",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/tanker-attack-off-qatar-widens-gulf-shipping-conflict/",
+          "relevant": false
+        },
+        {
           "title": "Dutch design ultra-shallow-draft DSV for Gulf Region's oil & gas",
           "summary": "Saudi Arabia's Zamil Offshore, established in 1977, has contracted Dutch ship design and engineering company Conoship International to design an...",
           "date": "2026-10-07",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/07/dutch-design-ultra-shallow-draft-dsv-for-gulf-regions-oil-and-gas",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "KBR to deliver engineering services for Aramco’s Marjan field",
+          "summary": "KBR has received a contract from Aramco to provide engineering and project execution services for upgrades at the Marjan offshore field in the Arabian Gulf.",
+          "date": "2026-10-07",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/kbr-engineering-services-aramcos-marjan-field/",
           "relevant": true,
           "region": "KSA"
         },
