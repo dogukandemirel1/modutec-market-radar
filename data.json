@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T10:00:52Z",
+  "last_updated": "2026-10-09T11:00:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -121,11 +121,27 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "BIMCO moves to break ship retrofit cost deadlock",
+          "summary": "Shipping association BIMCO has adopted a new contractual framework designed to settle one of the industry’s longstanding commercial disputes: who pays for energy-saving upgrades when the charterer receives much of the…",
+          "date": "2026-10-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/bimco-moves-to-break-ship-retrofit-cost-deadlock/",
+          "relevant": false
+        },
+        {
           "title": "More work with Petrobras increases Brazilian firm's backlog to over $2 billion",
           "summary": "Brazil’s oil & gas giant Petrobras has awarded a new long-term contract to compatriot company Oceânica Engenharia e Consultoria for work...",
           "date": "2026-10-09",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/09/more-work-with-petrobras-increases-brazilian-firms-backlog-to-over-dollar2-billion",
+          "relevant": false
+        },
+        {
+          "title": "SLB signs 15-year digital drilling contract with TotalEnergies",
+          "summary": "SLB has entered into a 15-year agreement with TotalEnergies to provide its DrillPlan coherent well planning and engineering solutions.",
+          "date": "2026-10-09",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/slb-digital-drilling-contract-totalenergies/",
           "relevant": false
         },
         {
@@ -193,6 +209,14 @@
           "relevant": false
         },
         {
+          "title": "Raytheon awarded $6.3 billion multi-year contract for SM-3 IB interceptors",
+          "summary": "Raytheon has secured a five-year contract, with two additional option years, valued up to $6.3 billion for the production and sustainment of Standard Missile-3 Block IB (SM‑3 IB) interceptors. Raytheon press release The…",
+          "date": "2026-10-08",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/raytheon-awarded-6-3-billion-multi-year-contract-for-sm-3-ib-interceptors/",
+          "relevant": false
+        },
+        {
           "title": "Subsea7 contracts EnerMech for Trinidad and Tobago's subsea development",
           "summary": "Aberdeen-headquartered integrated solutions specialist EnerMech has secured a contract with Subsea7 to deliver pre-commissioning services for a...",
           "date": "2026-10-08",
@@ -254,14 +278,6 @@
           "date": "2026-10-08",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543552-petrobras-equinor-qatarenergy-among-winners-in-brazil-s-offshore-auction",
-          "relevant": false
-        },
-        {
-          "title": "Raytheon awarded $6.3 billion multi-year contract for SM-3 IB interceptors",
-          "summary": "Raytheon has secured a five-year contract, with two additional option years, valued up to $6.3 billion for the production and sustainment of Standard Missile-3 Block IB (SM‑3 IB) interceptors. Raytheon press release The…",
-          "date": "2026-10-08",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/raytheon-awarded-6-3-billion-multi-year-contract-for-sm-3-ib-interceptors/",
           "relevant": false
         },
         {
@@ -449,19 +465,19 @@
           "relevant": true
         },
         {
-          "title": "Ursa Major wins $137m US contract for CAAM and NMM rocket motors",
-          "summary": "The US Navy has awarded Ursa Major two contracts worth a combined $137m to develop and qualify solid rocket motors for the Compact Air-to-Air Missile (CAAM) and Naval Modular Missile (NMM) programmes. The post Ursa…",
-          "date": "2026-10-06",
-          "source_name": "Naval Technology",
-          "source_url": "https://www.naval-technology.com/news/ursa-major-rocket-motors-contract/",
-          "relevant": false
-        },
-        {
           "title": "Textron Systems to Provide Two Additional SSC Craft to US Navy",
           "summary": "Textron Systems Corporation announced it was awarded a $230M contract modification from the U.S. Navy to produce two Ship-to-Shore Connector (SSC) craft. Textron Systems press release The SSCs are designed to deliver…",
           "date": "2026-10-06",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/10/textron-systems-to-provide-two-additional-ssc-craft-to-us-navy/",
+          "relevant": false
+        },
+        {
+          "title": "Ursa Major wins $137m US contract for CAAM and NMM rocket motors",
+          "summary": "The US Navy has awarded Ursa Major two contracts worth a combined $137m to develop and qualify solid rocket motors for the Compact Air-to-Air Missile (CAAM) and Naval Modular Missile (NMM) programmes. The post Ursa…",
+          "date": "2026-10-06",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/ursa-major-rocket-motors-contract/",
           "relevant": false
         },
         {
@@ -2953,6 +2969,30 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "EU Imports Record 12.18 Million Tonnes of Russian Arctic LNG",
+          "summary": "Europe's estimated bill reaches €7.88 billion through September as U.S. sanctions deadline adds uncertainty for Yamal's specialized tanker fleet.",
+          "date": "2026-10-09",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/eu-imports-record-12-18-million-tonnes-of-russian-arctic-lng/",
+          "relevant": false
+        },
+        {
+          "title": "121 Gulf Platforms Evacuated as Isaias Gets Stronger",
+          "summary": "That represents 32.61 percent of the 371 manned platforms in the Gulf of America, the Marine Minerals Administration highlighted.",
+          "date": "2026-10-09",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/121_gulf_platforms_evacuated_as_isaias_gets_stronger-09-oct-2026-184809-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Devon Energy to sell Eagle Ford assets to Crescent for $4.2bn",
+          "summary": "Devon Energy has signed a definitive agreement to divest its Eagle Ford assets to Crescent Energy Company for $4.2bn in cash.",
+          "date": "2026-10-09",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/devon-sell-eagle-ford-assets-crescent-4-2bn/",
+          "relevant": false
+        },
+        {
           "title": "Gennaker Offshore Substations Depart for Baltic Sea Installation (Video)",
           "summary": "The topsides and jackets for two offshore substations serving Germany's 927 MW Gennaker offshore wind farm have departed the Netherlands for installation in the…",
           "date": "2026-10-09",
@@ -5064,6 +5104,24 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Houthis Kill Three in Strikes on Saudi Arabian Airports",
+          "summary": "The Houthis struck two airports in Saudi Arabia in the past two days, killing three people and injuring dozens as the Iran-backed militant group intensifies its attacks on the kingdom from Yemen.",
+          "date": "2026-10-09",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/houthis-kill-three-in-strikes-on-saudi-arabian-airports/",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "FSL cashes in on another veteran product tanker",
+          "summary": "Singapore-listed First Ship Lease Trust (FSL) has agreed to sell another ageing product tanker, continuing a series of disposals that has reduced its fleet over recent years. The trust said in a filing that subsidiary…",
+          "date": "2026-10-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/fsl-cashes-in-on-another-veteran-product-tanker/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Larine cashes out of LR1 tankers in $110m UAE deal",
           "summary": "Odfjell-family-linked Larine Tankers has reportedly sold its two LR1 product tankers to UAE interests for a combined $110m, clearing out its existing fleet amid strong secondhand tanker prices. Shipbrokers have…",
