@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T08:00:54Z",
+  "last_updated": "2026-10-09T09:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -137,6 +137,14 @@
           "relevant": false
         },
         {
+          "title": "More work with Petrobras increases Brazilian firm's backlog to over $2 billion",
+          "summary": "Brazil’s oil & gas giant Petrobras has awarded a new long-term contract to compatriot company Oceânica Engenharia e Consultoria for work...",
+          "date": "2026-10-09",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/09/more-work-with-petrobras-increases-brazilian-firms-backlog-to-over-dollar2-billion",
+          "relevant": false
+        },
+        {
           "title": "EnerMech secures BP-linked offshore contract in Trinidad",
           "summary": "UK-headquartered oilfield services specialist EnerMech has secured a contract from Subsea 7 for pipeline and subsea pre-commissioning work on BP’s Ginger gas development offshore Trinidad and Tobago. The scope covers…",
           "date": "2026-10-09",
@@ -150,14 +158,6 @@
           "date": "2026-10-09",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/progeco-bags-work-on-azules-angola-offshore-project/",
-          "relevant": false
-        },
-        {
-          "title": "More work with Petrobras increases Brazilian firm's backlog to over $2 billion",
-          "summary": "Brazil’s oil & gas giant Petrobras has awarded a new long-term contract to compatriot company Oceânica Engenharia e Consultoria for work...",
-          "date": "2026-10-09",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/09/more-work-with-petrobras-increases-brazilian-firms-backlog-to-over-dollar2-billion",
           "relevant": false
         },
         {
@@ -4273,6 +4273,22 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Hapag-Lloyd exits MSC and ONE Asia–South America pact",
+          "summary": "Mediterranean Shipping Co (MSC) and Ocean Network Express are restructuring their vessel-sharing partnership between Asia and South America’s east coast, with Hapag-Lloyd dropping out of the existing three-carrier…",
+          "date": "2026-10-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/hapag-lloyd-exits-msc-and-one-asia-south-america-pact/",
+          "relevant": false
+        },
+        {
+          "title": "Tokyo Gas moves into Indonesian inter-island LNG shipping",
+          "summary": "Japan’s Tokyo Gas has acquired an Indonesian LNG infrastructure developer, paving the way for a new domestic shipping network supplying power stations across the country’s vast eastern archipelago. The Japanese utility…",
+          "date": "2026-10-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/tokyo-gas-moves-into-indonesian-inter-island-lng-shipping/",
+          "relevant": false
+        },
+        {
           "title": "Ensign Rig 974 moves to Palm Valley 15 after Central’s PV14 flow test",
           "summary": "Central Petroleum flow-tested its Palm Valley 14 (PV14) well in the Amadeus Basin of Australia’s Northern Territory and recorded a final estimated gas rate of about 3.2 terajoules per day (TJ/d) on a 100% joint venture…",
           "date": "2026-10-08",
@@ -5032,6 +5048,24 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Offshore installation starts at Valeura's Gulf of Thailand field ahead of schedule",
+          "summary": "Canadian oil & gas company Valeura Energy has started offshore installation at its field in the Gulf of Thailand, some two months ahead of the...",
+          "date": "2026-10-09",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/09/offshore-installation-starts-at-valeuras-gulf-of-thailand-field-ahead-of-schedule",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Saudi, UAE Join Push for SE Asian Oil Reserves",
+          "summary": "Saudi Arabia and the United Arab Emirates will support a Japanese initiative to bolster oil supplies in Southeast Asia after war-driven disruptions heightened concerns over energy security.",
+          "date": "2026-10-09",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/saudi_uae_join_push_for_se_asian_oil_reserves-09-oct-2026-184808-article/?rss=true",
+          "relevant": true,
+          "region": "UAE"
+        },
         {
           "title": "SPM Shipping plays the market",
           "summary": "With only a few months in gas, Dubai-based SPM Shipping, a shipowner, operator and offshore player, has now added its third VLGC, according to sources. The fast-growing owner is ambitious and moving comfortably in the…",
