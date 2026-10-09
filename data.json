@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T20:00:50Z",
+  "last_updated": "2026-10-09T21:00:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3001,6 +3001,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Trump Strikes Diesel Deal With Putin to Lower Fuel Prices Ahead of Midterms",
+          "summary": "President Donald Trump said Friday that Russia has agreed to release millions of tons of diesel fuel into U.S. and global markets following a telephone call with Russian President Vladimir...",
+          "date": "2026-10-09",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/trump-strikes-diesel-deal-with-putin-to-lower-fuel-prices-ahead-of-midterms/",
+          "relevant": false
+        },
+        {
           "title": "From Policy to Practice: Shipping’s Regulatory Autumn Puts Proof on Trial",
           "summary": "The past fortnight has delivered a clear reminder that the industry’s regulatory problem is no longer a shortage of rules. It is the widening distance between what is agreed in London and Brussels and what can actually…",
           "date": "2026-10-09",
@@ -5178,15 +5186,6 @@
           "region": "UAE"
         },
         {
-          "title": "Houthis Kill Three in Strikes on Saudi Arabian Airports",
-          "summary": "The Houthis struck two airports in Saudi Arabia in the past two days, killing three people and injuring dozens as the Iran-backed militant group intensifies its attacks on the kingdom from Yemen.",
-          "date": "2026-10-09",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/houthis-kill-three-in-strikes-on-saudi-arabian-airports/",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
           "title": "FSL cashes in on another veteran product tanker",
           "summary": "Singapore-listed First Ship Lease Trust (FSL) has agreed to sell another ageing product tanker, continuing a series of disposals that has reduced its fleet over recent years. The trust said in a filing that subsidiary…",
           "date": "2026-10-09",
@@ -5230,6 +5229,15 @@
           "source_url": "https://www.oedigital.com/news/543586-valeura-starts-wassana-platform-installation-offshore-thailand",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Houthis Kill Three in Strikes on Saudi Arabian Airports",
+          "summary": "The Houthis struck two airports in Saudi Arabia in the past two days, killing three people and injuring dozens as the Iran-backed militant group intensifies its attacks on the kingdom from Yemen.",
+          "date": "2026-10-09",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/houthis-kill-three-in-strikes-on-saudi-arabian-airports/",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "SPM Shipping plays the market",
