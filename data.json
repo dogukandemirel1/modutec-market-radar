@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T09:01:00Z",
+  "last_updated": "2026-10-09T10:00:52Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -121,6 +121,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "More work with Petrobras increases Brazilian firm's backlog to over $2 billion",
+          "summary": "Brazil’s oil & gas giant Petrobras has awarded a new long-term contract to compatriot company Oceânica Engenharia e Consultoria for work...",
+          "date": "2026-10-09",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/09/more-work-with-petrobras-increases-brazilian-firms-backlog-to-over-dollar2-billion",
+          "relevant": false
+        },
+        {
           "title": "Old LNG carriers keep changing hands",
           "summary": "Sales of vintage large LNG carriers remain brisk as the secondhand market keeps ageing LNG tonnage afloat after the Strait of Hormuz conflict escalated in late February, with disruptions to regional LNG exports adding…",
           "date": "2026-10-09",
@@ -134,14 +142,6 @@
           "date": "2026-10-09",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/petrobras-hands-oceanica-four-year-subsea-services-deal/",
-          "relevant": false
-        },
-        {
-          "title": "More work with Petrobras increases Brazilian firm's backlog to over $2 billion",
-          "summary": "Brazil’s oil & gas giant Petrobras has awarded a new long-term contract to compatriot company Oceânica Engenharia e Consultoria for work...",
-          "date": "2026-10-09",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/09/more-work-with-petrobras-increases-brazilian-firms-backlog-to-over-dollar2-billion",
           "relevant": false
         },
         {
@@ -190,14 +190,6 @@
           "date": "2026-10-08",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/totalenergies-moves-well-planning-to-slbs-drillplan-platform-worldwide-80298",
-          "relevant": false
-        },
-        {
-          "title": "Raytheon awarded $6.3 billion multi-year contract for SM-3 IB interceptors",
-          "summary": "Raytheon has secured a five-year contract, with two additional option years, valued up to $6.3 billion for the production and sustainment of Standard Missile-3 Block IB (SM‑3 IB) interceptors. Raytheon press release The…",
-          "date": "2026-10-08",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/raytheon-awarded-6-3-billion-multi-year-contract-for-sm-3-ib-interceptors/",
           "relevant": false
         },
         {
@@ -262,6 +254,14 @@
           "date": "2026-10-08",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543552-petrobras-equinor-qatarenergy-among-winners-in-brazil-s-offshore-auction",
+          "relevant": false
+        },
+        {
+          "title": "Raytheon awarded $6.3 billion multi-year contract for SM-3 IB interceptors",
+          "summary": "Raytheon has secured a five-year contract, with two additional option years, valued up to $6.3 billion for the production and sustainment of Standard Missile-3 Block IB (SM‑3 IB) interceptors. Raytheon press release The…",
+          "date": "2026-10-08",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/raytheon-awarded-6-3-billion-multi-year-contract-for-sm-3-ib-interceptors/",
           "relevant": false
         },
         {
@@ -449,19 +449,19 @@
           "relevant": true
         },
         {
-          "title": "Textron Systems to Provide Two Additional SSC Craft to US Navy",
-          "summary": "Textron Systems Corporation announced it was awarded a $230M contract modification from the U.S. Navy to produce two Ship-to-Shore Connector (SSC) craft. Textron Systems press release The SSCs are designed to deliver…",
-          "date": "2026-10-06",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/textron-systems-to-provide-two-additional-ssc-craft-to-us-navy/",
-          "relevant": false
-        },
-        {
           "title": "Ursa Major wins $137m US contract for CAAM and NMM rocket motors",
           "summary": "The US Navy has awarded Ursa Major two contracts worth a combined $137m to develop and qualify solid rocket motors for the Compact Air-to-Air Missile (CAAM) and Naval Modular Missile (NMM) programmes. The post Ursa…",
           "date": "2026-10-06",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/ursa-major-rocket-motors-contract/",
+          "relevant": false
+        },
+        {
+          "title": "Textron Systems to Provide Two Additional SSC Craft to US Navy",
+          "summary": "Textron Systems Corporation announced it was awarded a $230M contract modification from the U.S. Navy to produce two Ship-to-Shore Connector (SSC) craft. Textron Systems press release The SSCs are designed to deliver…",
+          "date": "2026-10-06",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/textron-systems-to-provide-two-additional-ssc-craft-to-us-navy/",
           "relevant": false
         },
         {
@@ -2953,6 +2953,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Gennaker Offshore Substations Depart for Baltic Sea Installation (Video)",
+          "summary": "The topsides and jackets for two offshore substations serving Germany's 927 MW Gennaker offshore wind farm have departed the Netherlands for installation in the…",
+          "date": "2026-10-09",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543587-gennaker-offshore-substations-depart-for-baltic-sea-installation-video",
+          "relevant": false
+        },
+        {
           "title": "U.S. Sanctions 22 More Tankers in Crackdown on Iran’s Shadow Fleet",
           "summary": "The United States on Thursday imposed sanctions on 22 tankers and dozens of individuals and companies linked to Iran’s oil trade, expanding its campaign to cut off Tehran’s remaining petroleum...",
           "date": "2026-10-08",
@@ -4273,6 +4281,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "UK P&I and TT Club merger clears member vote",
+          "summary": "Members of the UK P&I Club and TT Club have approved a merger to create United Transport Mutual Limited (UTM), a transport mutual covering shipping, logistics, ports, and terminals. Members voted at separate special…",
+          "date": "2026-10-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/uk-pi-and-tt-club-merger-clears-member-vote/",
+          "relevant": false
+        },
+        {
           "title": "Hapag-Lloyd exits MSC and ONE Asia–South America pact",
           "summary": "Mediterranean Shipping Co (MSC) and Ocean Network Express are restructuring their vessel-sharing partnership between Asia and South America’s east coast, with Hapag-Lloyd dropping out of the existing three-carrier…",
           "date": "2026-10-09",
@@ -5049,6 +5065,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Larine cashes out of LR1 tankers in $110m UAE deal",
+          "summary": "Odfjell-family-linked Larine Tankers has reportedly sold its two LR1 product tankers to UAE interests for a combined $110m, clearing out its existing fleet amid strong secondhand tanker prices. Shipbrokers have…",
+          "date": "2026-10-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/larine-cashes-out-of-lr1-tankers-in-110m-uae-deal/",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
           "title": "Offshore installation starts at Valeura's Gulf of Thailand field ahead of schedule",
           "summary": "Canadian oil & gas company Valeura Energy has started offshore installation at its field in the Gulf of Thailand, some two months ahead of the...",
           "date": "2026-10-09",
@@ -5065,6 +5090,15 @@
           "source_url": "https://www.rigzone.com/news/wire/saudi_uae_join_push_for_se_asian_oil_reserves-09-oct-2026-184808-article/?rss=true",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "Valeura Starts Wassana Platform Installation Offshore Thailand",
+          "summary": "Valeura Energy has started offshore installation work at its Wassana oil field redevelopment project in the Gulf of Thailand, marking a milestone in the development…",
+          "date": "2026-10-09",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543586-valeura-starts-wassana-platform-installation-offshore-thailand",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "SPM Shipping plays the market",
