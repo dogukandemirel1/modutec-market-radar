@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T12:00:58Z",
+  "last_updated": "2026-10-09T13:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -145,6 +145,14 @@
           "relevant": false
         },
         {
+          "title": "Raytheon wins up to $6.3bn contract for SM-3 Block IB missiles",
+          "summary": "Raytheon, an RTX business, has secured a contract worth up to $6.3bn from the US Department of War for the production and sustainment of Standard Missile-3 Block IB (SM-3 IB) interceptors. The post Raytheon wins up to…",
+          "date": "2026-10-09",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/raytheon-sm3-block-ib-missile/",
+          "relevant": false
+        },
+        {
           "title": "Transocean Adds $1.1B to Offshore Drilling Backlog",
           "summary": "Offshore drilling contractor Transocean has added approximately $1.1 billion to its firm contract backlog following final approval of a previously announced agreement…",
           "date": "2026-10-09",
@@ -217,6 +225,14 @@
           "relevant": false
         },
         {
+          "title": "Raytheon awarded $6.3 billion multi-year contract for SM-3 IB interceptors",
+          "summary": "Raytheon has secured a five-year contract, with two additional option years, valued up to $6.3 billion for the production and sustainment of Standard Missile-3 Block IB (SM‑3 IB) interceptors. Raytheon press release The…",
+          "date": "2026-10-08",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/raytheon-awarded-6-3-billion-multi-year-contract-for-sm-3-ib-interceptors/",
+          "relevant": false
+        },
+        {
           "title": "Subsea7 contracts EnerMech for Trinidad and Tobago's subsea development",
           "summary": "Aberdeen-headquartered integrated solutions specialist EnerMech has secured a contract with Subsea7 to deliver pre-commissioning services for a...",
           "date": "2026-10-08",
@@ -270,14 +286,6 @@
           "date": "2026-10-08",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543554-rockhopper-commits-44m-to-second-sea-lion-fpso",
-          "relevant": false
-        },
-        {
-          "title": "Raytheon awarded $6.3 billion multi-year contract for SM-3 IB interceptors",
-          "summary": "Raytheon has secured a five-year contract, with two additional option years, valued up to $6.3 billion for the production and sustainment of Standard Missile-3 Block IB (SM‑3 IB) interceptors. Raytheon press release The…",
-          "date": "2026-10-08",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/raytheon-awarded-6-3-billion-multi-year-contract-for-sm-3-ib-interceptors/",
           "relevant": false
         },
         {
@@ -473,19 +481,19 @@
           "relevant": true
         },
         {
-          "title": "Ursa Major wins $137m US contract for CAAM and NMM rocket motors",
-          "summary": "The US Navy has awarded Ursa Major two contracts worth a combined $137m to develop and qualify solid rocket motors for the Compact Air-to-Air Missile (CAAM) and Naval Modular Missile (NMM) programmes. The post Ursa…",
-          "date": "2026-10-06",
-          "source_name": "Naval Technology",
-          "source_url": "https://www.naval-technology.com/news/ursa-major-rocket-motors-contract/",
-          "relevant": false
-        },
-        {
           "title": "Textron Systems to Provide Two Additional SSC Craft to US Navy",
           "summary": "Textron Systems Corporation announced it was awarded a $230M contract modification from the U.S. Navy to produce two Ship-to-Shore Connector (SSC) craft. Textron Systems press release The SSCs are designed to deliver…",
           "date": "2026-10-06",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/10/textron-systems-to-provide-two-additional-ssc-craft-to-us-navy/",
+          "relevant": false
+        },
+        {
+          "title": "Ursa Major wins $137m US contract for CAAM and NMM rocket motors",
+          "summary": "The US Navy has awarded Ursa Major two contracts worth a combined $137m to develop and qualify solid rocket motors for the Compact Air-to-Air Missile (CAAM) and Naval Modular Missile (NMM) programmes. The post Ursa…",
+          "date": "2026-10-06",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/ursa-major-rocket-motors-contract/",
           "relevant": false
         },
         {
