@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T07:00:57Z",
+  "last_updated": "2026-10-09T08:00:54Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -121,6 +121,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Old LNG carriers keep changing hands",
+          "summary": "Sales of vintage large LNG carriers remain brisk as the secondhand market keeps ageing LNG tonnage afloat after the Strait of Hormuz conflict escalated in late February, with disruptions to regional LNG exports adding…",
+          "date": "2026-10-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/old-lng-carriers-keep-changing-hands/",
+          "relevant": false
+        },
+        {
           "title": "Petrobras hands Oceanica four-year subsea services deal",
           "summary": "Brazilian subsea services player Oceânica Engenharia has won a four-year contract worth around R$354m ($70m) from Petrobras. The new deal covers specialised offshore diving services and diverless operations using ROVs…",
           "date": "2026-10-09",
@@ -134,6 +142,22 @@
           "date": "2026-10-09",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/enermech-secures-bp-linked-offshore-contract-in-trinidad/",
+          "relevant": false
+        },
+        {
+          "title": "Progeco bags work on Azule’s Angola offshore project",
+          "summary": "Italian engineering services group Progeco has secured a five-year contract to provide project management and technical supervision services for Azule Energy’s $5.1bn Greater PAJ offshore oil development in Angola. The…",
+          "date": "2026-10-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/progeco-bags-work-on-azules-angola-offshore-project/",
+          "relevant": false
+        },
+        {
+          "title": "More work with Petrobras increases Brazilian firm's backlog to over $2 billion",
+          "summary": "Brazil’s oil & gas giant Petrobras has awarded a new long-term contract to compatriot company Oceânica Engenharia e Consultoria for work...",
+          "date": "2026-10-09",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/09/more-work-with-petrobras-increases-brazilian-firms-backlog-to-over-dollar2-billion",
           "relevant": false
         },
         {
