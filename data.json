@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T18:00:52Z",
+  "last_updated": "2026-10-09T19:00:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -209,14 +209,6 @@
           "relevant": false
         },
         {
-          "title": "Saudis in Talks to Formalize Hormuz Shuttles in Fight for Market",
-          "summary": "(Bloomberg) — Saudi Arabia is in talks with customers to offer oil loadings next year outside the Strait of Hormuz in long-term contracts, formalizing a system the kingdom has been...",
-          "date": "2026-10-08",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/saudis-in-talks-to-formalize-hormuz-shuttles-in-fight-for-market/",
-          "relevant": true
-        },
-        {
           "title": "TotalEnergies moves well planning to SLB’s DrillPlan platform worldwide",
           "summary": "TotalEnergies awarded SLB a 15-year contract to deploy DrillPlan well planning and engineering solutions across its global upstream portfolio. The deployment moves the operator to a digital well planning environment…",
           "date": "2026-10-08",
@@ -287,6 +279,14 @@
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543554-rockhopper-commits-44m-to-second-sea-lion-fpso",
           "relevant": false
+        },
+        {
+          "title": "Saudis in Talks to Formalize Hormuz Shuttles in Fight for Market",
+          "summary": "(Bloomberg) — Saudi Arabia is in talks with customers to offer oil loadings next year outside the Strait of Hormuz in long-term contracts, formalizing a system the kingdom has been...",
+          "date": "2026-10-08",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/saudis-in-talks-to-formalize-hormuz-shuttles-in-fight-for-market/",
+          "relevant": true
         },
         {
           "title": "TOTE, Hanwha Finalize Deal to Build U.S. Missile Defense Ship",
@@ -3009,14 +3009,6 @@
           "relevant": false
         },
         {
-          "title": "EU Imports Record 12.18 Million Tonnes of Russian Arctic LNG",
-          "summary": "Europe's estimated bill reaches €7.88 billion through September as U.S. sanctions deadline adds uncertainty for Yamal's specialized tanker fleet.",
-          "date": "2026-10-09",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/eu-imports-record-12-18-million-tonnes-of-russian-arctic-lng/",
-          "relevant": false
-        },
-        {
           "title": "Crescent Energy adds Karnes Trough position with Devon Eagle Ford deal",
           "summary": "Crescent Energy agreed to acquire Eagle Ford assets from Devon Energy for an estimated net purchase price of about $3.85 billion, adding oil-weighted production and inventory adjacent to its existing operations. The…",
           "date": "2026-10-09",
@@ -3054,6 +3046,14 @@
           "date": "2026-10-09",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543587-gennaker-offshore-substations-depart-for-baltic-sea-installation-video",
+          "relevant": false
+        },
+        {
+          "title": "EU Imports Record 12.18 Million Tonnes of Russian Arctic LNG",
+          "summary": "Europe's estimated bill reaches €7.88 billion through September as U.S. sanctions deadline adds uncertainty for Yamal's specialized tanker fleet.",
+          "date": "2026-10-09",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/eu-imports-record-12-18-million-tonnes-of-russian-arctic-lng/",
           "relevant": false
         },
         {
@@ -5160,6 +5160,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Vessel Struck by Unknown Projectile Off UAE Coast Amid Surge in Attacks, UKMTO Says",
+          "summary": "A vessel was struck by an unknown projectile 13 nautical miles west of Al Jazeera in the United Arab Emirates on Friday, causing a fire that has since been extinguished, British navy affiliated agency UKMTO said, citing…",
+          "date": "2026-10-09",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/vessel-struck-by-unknown-projectile-off-uae-coast-amid-surge-in-attacks-ukmto-says/",
+          "relevant": true,
+          "region": "UAE"
+        },
         {
           "title": "Houthis Kill Three in Strikes on Saudi Arabian Airports",
           "summary": "The Houthis struck two airports in Saudi Arabia in the past two days, killing three people and injuring dozens as the Iran-backed militant group intensifies its attacks on the kingdom from Yemen.",
