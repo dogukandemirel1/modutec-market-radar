@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T14:01:14Z",
+  "last_updated": "2026-10-09T15:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -121,6 +121,22 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Transocean Norge wins two-well Norske Shell contract in Norway",
+          "summary": "Transocean won a two-well contract with Shell for the Transocean Norge semisubmersible in Norway. The estimated 120 days of work is expected to begin in direct continuation of the rig’s previously awarded programs in…",
+          "date": "2026-10-09",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/transocean-norge-wins-two-well-norske-shell-contract-in-norway-80313",
+          "relevant": false
+        },
+        {
+          "title": "Weatherford expands Equinor role with completions award on Norwegian Continental Shelf",
+          "summary": "Weatherford secured a two-year extension across several strategic frame agreements with Equinor and was selected as the primary provider of completion systems for the Statfjord and Oseberg licenses on the Norwegian…",
+          "date": "2026-10-09",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/weatherford-expands-equinor-role-with-completions-award-on-norwegian-continental-shelf-80311",
+          "relevant": false
+        },
+        {
           "title": "More work with Petrobras increases Brazilian firm's backlog to over $2 billion",
           "summary": "Brazil’s oil & gas giant Petrobras has awarded a new long-term contract to compatriot company Oceânica Engenharia e Consultoria for work...",
           "date": "2026-10-09",
@@ -201,22 +217,6 @@
           "relevant": true
         },
         {
-          "title": "TOTE, Hanwha Finalize Deal to Build U.S. Missile Defense Ship",
-          "summary": "TOTE Services has finalized its contract with the U.S. Maritime Administration to oversee construction of a new generation of missile-tracking ships, clearing the way for Hanwha Philly Shipyard to begin...",
-          "date": "2026-10-08",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/tote-hanwha-finalize-deal-to-build-u-s-missile-defense-ship/",
-          "relevant": false
-        },
-        {
-          "title": "Turkey Says Russia, Ukraine Increasing Attacks in Black Sea Ahead of Winter",
-          "summary": "Intensifying attacks by Russia and Ukraine ahead of the winter are further endangering navigational safety in the Black Sea, Turkish Foreign Minister Hakan Fidan said on Thursday, adding that world powers must not allow…",
-          "date": "2026-10-08",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/turkey-says-russia-ukraine-increasing-attacks-in-black-sea-ahead-of-winter/",
-          "relevant": false
-        },
-        {
           "title": "TotalEnergies moves well planning to SLB’s DrillPlan platform worldwide",
           "summary": "TotalEnergies awarded SLB a 15-year contract to deploy DrillPlan well planning and engineering solutions across its global upstream portfolio. The deployment moves the operator to a digital well planning environment…",
           "date": "2026-10-08",
@@ -286,6 +286,22 @@
           "date": "2026-10-08",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543554-rockhopper-commits-44m-to-second-sea-lion-fpso",
+          "relevant": false
+        },
+        {
+          "title": "TOTE, Hanwha Finalize Deal to Build U.S. Missile Defense Ship",
+          "summary": "TOTE Services has finalized its contract with the U.S. Maritime Administration to oversee construction of a new generation of missile-tracking ships, clearing the way for Hanwha Philly Shipyard to begin...",
+          "date": "2026-10-08",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/tote-hanwha-finalize-deal-to-build-u-s-missile-defense-ship/",
+          "relevant": false
+        },
+        {
+          "title": "Turkey Says Russia, Ukraine Increasing Attacks in Black Sea Ahead of Winter",
+          "summary": "Intensifying attacks by Russia and Ukraine ahead of the winter are further endangering navigational safety in the Black Sea, Turkish Foreign Minister Hakan Fidan said on Thursday, adding that world powers must not allow…",
+          "date": "2026-10-08",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/turkey-says-russia-ukraine-increasing-attacks-in-black-sea-ahead-of-winter/",
           "relevant": false
         },
         {
@@ -2993,6 +3009,14 @@
           "relevant": false
         },
         {
+          "title": "Crescent Energy adds Karnes Trough position with Devon Eagle Ford deal",
+          "summary": "Crescent Energy agreed to acquire Eagle Ford assets from Devon Energy for an estimated net purchase price of about $3.85 billion, adding oil-weighted production and inventory adjacent to its existing operations. The…",
+          "date": "2026-10-09",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/crescent-energy-adds-karnes-trough-position-with-devon-eagle-ford-deal-80308",
+          "relevant": false
+        },
+        {
           "title": "121 Gulf Platforms Evacuated as Isaias Gets Stronger",
           "summary": "That represents 32.61 percent of the 371 manned platforms in the Gulf of America, the Marine Minerals Administration highlighted.",
           "date": "2026-10-09",
@@ -3022,14 +3046,6 @@
           "date": "2026-10-08",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/u-s-sanctions-22-more-tankers-in-crackdown-on-irans-shadow-fleet/",
-          "relevant": false
-        },
-        {
-          "title": "UK Sanctions 12 More ‘Shadow-Fleet’ Tankers as Russia’s Arctic Traffic Grows",
-          "summary": "The United Kingdom on Thursday sanctioned 12 oil tankers it identified as part of Russia's shadow fleet, including the 22-year-old Dakar that is currently making an unusual late-season voyage on the Northern Sea Route.",
-          "date": "2026-10-08",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/uk-sanctions-12-more-shadow-fleet-tankers-as-russias-arctic-traffic-grows/",
           "relevant": false
         },
         {
@@ -3081,6 +3097,14 @@
           "relevant": false
         },
         {
+          "title": "UK Sanctions 12 More ‘Shadow-Fleet’ Tankers as Russia’s Arctic Traffic Grows",
+          "summary": "The United Kingdom on Thursday sanctioned 12 oil tankers it identified as part of Russia's shadow fleet, including the 22-year-old Dakar that is currently making an unusual late-season voyage on the Northern Sea Route.",
+          "date": "2026-10-08",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/uk-sanctions-12-more-shadow-fleet-tankers-as-russias-arctic-traffic-grows/",
+          "relevant": false
+        },
+        {
           "title": "Hurricane Isaias forces evacuations and production cuts in US Gulf",
           "summary": "Around a quarter of US Gulf of Mexico oil production has been shut in as operators evacuate personnel and curtail operations ahead of Hurricane Isaias. The Marine Minerals Administration, the US offshore regulator, said…",
           "date": "2026-10-08",
@@ -3089,19 +3113,19 @@
           "relevant": false
         },
         {
-          "title": "VAALCO closes out Gabon Phase 3 and begins drilling at Baobab",
-          "summary": "VAALCO Energy completed its offshore Gabon Phase 3 drilling program with the ETSEM-3H development well, which was drilled, completed and placed on production in an attic position within the SE Etame field. The well has…",
-          "date": "2026-10-07",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/vaalco-closes-out-gabon-phase-3-and-begins-drilling-at-baobab-80264",
-          "relevant": false
-        },
-        {
           "title": "Coastal gridlock: California’s infrastructure ban and Gulf pushbacks trigger an energy tug-of-war",
           "summary": "Multi-front coastal energy gridlock sparks an offshore showdown, with California's infrastructure ban and lawmakers shielding Gulf military ranges.",
           "date": "2026-10-07",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/07/coastal-gridlock-californias-infrastructure-ban-and-gulf-pushbacks-trigger-an-energy-tug-of-war",
+          "relevant": false
+        },
+        {
+          "title": "VAALCO closes out Gabon Phase 3 and begins drilling at Baobab",
+          "summary": "VAALCO Energy completed its offshore Gabon Phase 3 drilling program with the ETSEM-3H development well, which was drilled, completed and placed on production in an attic position within the SE Etame field. The well has…",
+          "date": "2026-10-07",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/vaalco-closes-out-gabon-phase-3-and-begins-drilling-at-baobab-80264",
           "relevant": false
         },
         {
@@ -5255,15 +5279,6 @@
           "region": "SEA"
         },
         {
-          "title": "IADC Drilling Middle East Conference & Exhibition 2026, 29–30 September, Abu Dhabi, UAE",
-          "summary": "Although the Middle East market has remained resilient through the downturn, the region still faces hurdles in workforce development, drilling efficiency, safety and security, and equipment maintenance. The IADC…",
-          "date": "2026-10-06",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/iadc-drilling-middle-east-conference-exhibition-2026-29-30-september-abu-dhabi-uae-80227",
-          "relevant": true,
-          "region": "UAE"
-        },
-        {
           "title": "Aramco hires KBR for work on oil & gas project in Arabian Gulf",
           "summary": "This offshore engineering contract enables KBR to support Aramco’s field development program off the coast of Saudi Arabia.",
           "date": "2026-10-06",
@@ -5280,6 +5295,15 @@
           "source_url": "https://offshore-energy.biz/2026/10/06/rina-and-thailands-ptt-sign-two-innovation-and-decarbonization-focused-mous",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "IADC Drilling Middle East Conference & Exhibition 2026, 29–30 September, Abu Dhabi, UAE",
+          "summary": "Although the Middle East market has remained resilient through the downturn, the region still faces hurdles in workforce development, drilling efficiency, safety and security, and equipment maintenance. The IADC…",
+          "date": "2026-10-06",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/iadc-drilling-middle-east-conference-exhibition-2026-29-30-september-abu-dhabi-uae-80227",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Oil Steady as Middle East Exports Rise",
