@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T16:00:55Z",
+  "last_updated": "2026-10-09T17:00:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3001,6 +3001,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "From Policy to Practice: Shipping’s Regulatory Autumn Puts Proof on Trial",
+          "summary": "The past fortnight has delivered a clear reminder that the industry’s regulatory problem is no longer a shortage of rules. It is the widening distance between what is agreed in London and Brussels and what can actually…",
+          "date": "2026-10-09",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/from-policy-to-practice-shippings-regulatory-autumn-puts-proof-on-trial/",
+          "relevant": false
+        },
+        {
           "title": "EU Imports Record 12.18 Million Tonnes of Russian Arctic LNG",
           "summary": "Europe's estimated bill reaches €7.88 billion through September as U.S. sanctions deadline adds uncertainty for Yamal's specialized tanker fleet.",
           "date": "2026-10-09",
@@ -3033,19 +3041,19 @@
           "relevant": false
         },
         {
+          "title": "US approves possible $300m Tomahawk planning system sale to Australia",
+          "summary": "The US Department of State has approved a possible $300m Foreign Military Sale to Australia for Tomahawk capability development and associated support. The post US approves possible $300m Tomahawk planning system sale…",
+          "date": "2026-10-09",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/us-australia-tomahawk-sale/",
+          "relevant": false
+        },
+        {
           "title": "Gennaker Offshore Substations Depart for Baltic Sea Installation (Video)",
           "summary": "The topsides and jackets for two offshore substations serving Germany's 927 MW Gennaker offshore wind farm have departed the Netherlands for installation in the…",
           "date": "2026-10-09",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543587-gennaker-offshore-substations-depart-for-baltic-sea-installation-video",
-          "relevant": false
-        },
-        {
-          "title": "U.S. Sanctions 22 More Tankers in Crackdown on Iran’s Shadow Fleet",
-          "summary": "The United States on Thursday imposed sanctions on 22 tankers and dozens of individuals and companies linked to Iran’s oil trade, expanding its campaign to cut off Tehran’s remaining petroleum...",
-          "date": "2026-10-08",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/u-s-sanctions-22-more-tankers-in-crackdown-on-irans-shadow-fleet/",
           "relevant": false
         },
         {
@@ -3094,6 +3102,14 @@
           "date": "2026-10-08",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543557-tennet-joins-subsea-cable-decommissioning-tool-development",
+          "relevant": false
+        },
+        {
+          "title": "U.S. Sanctions 22 More Tankers in Crackdown on Iran’s Shadow Fleet",
+          "summary": "The United States on Thursday imposed sanctions on 22 tankers and dozens of individuals and companies linked to Iran’s oil trade, expanding its campaign to cut off Tehran’s remaining petroleum...",
+          "date": "2026-10-08",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/u-s-sanctions-22-more-tankers-in-crackdown-on-irans-shadow-fleet/",
           "relevant": false
         },
         {
