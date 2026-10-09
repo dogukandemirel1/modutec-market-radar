@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T06:00:53Z",
+  "last_updated": "2026-10-09T07:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -161,19 +161,19 @@
           "relevant": false
         },
         {
-          "title": "Seatrium bags first FSRU conversion for Excelerate",
-          "summary": "Singapore shipyard group Seatrium has secured an EPCIC contract from New York-listed floating regasification specialist Excelerate Energy to convert an LNG carrier into an FSRU, with an option for a second unit. The…",
-          "date": "2026-10-08",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/seatrium-bags-first-fsru-conversion-for-excelerate/",
-          "relevant": false
-        },
-        {
           "title": "TotalEnergies moves well planning to SLB’s DrillPlan platform worldwide",
           "summary": "TotalEnergies awarded SLB a 15-year contract to deploy DrillPlan well planning and engineering solutions across its global upstream portfolio. The deployment moves the operator to a digital well planning environment…",
           "date": "2026-10-08",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/totalenergies-moves-well-planning-to-slbs-drillplan-platform-worldwide-80298",
+          "relevant": false
+        },
+        {
+          "title": "Raytheon awarded $6.3 billion multi-year contract for SM-3 IB interceptors",
+          "summary": "Raytheon has secured a five-year contract, with two additional option years, valued up to $6.3 billion for the production and sustainment of Standard Missile-3 Block IB (SM‑3 IB) interceptors. Raytheon press release The…",
+          "date": "2026-10-08",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/raytheon-awarded-6-3-billion-multi-year-contract-for-sm-3-ib-interceptors/",
           "relevant": false
         },
         {
@@ -241,11 +241,11 @@
           "relevant": false
         },
         {
-          "title": "Raytheon awarded $6.3 billion multi-year contract for SM-3 IB interceptors",
-          "summary": "Raytheon has secured a five-year contract, with two additional option years, valued up to $6.3 billion for the production and sustainment of Standard Missile-3 Block IB (SM‑3 IB) interceptors. Raytheon press release The…",
+          "title": "Seatrium bags first FSRU conversion for Excelerate",
+          "summary": "Singapore shipyard group Seatrium has secured an EPCIC contract from New York-listed floating regasification specialist Excelerate Energy to convert an LNG carrier into an FSRU, with an option for a second unit. The…",
           "date": "2026-10-08",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/raytheon-awarded-6-3-billion-multi-year-contract-for-sm-3-ib-interceptors/",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/seatrium-bags-first-fsru-conversion-for-excelerate/",
           "relevant": false
         },
         {
@@ -425,19 +425,19 @@
           "relevant": true
         },
         {
-          "title": "Ursa Major wins $137m US contract for CAAM and NMM rocket motors",
-          "summary": "The US Navy has awarded Ursa Major two contracts worth a combined $137m to develop and qualify solid rocket motors for the Compact Air-to-Air Missile (CAAM) and Naval Modular Missile (NMM) programmes. The post Ursa…",
-          "date": "2026-10-06",
-          "source_name": "Naval Technology",
-          "source_url": "https://www.naval-technology.com/news/ursa-major-rocket-motors-contract/",
-          "relevant": false
-        },
-        {
           "title": "Textron Systems to Provide Two Additional SSC Craft to US Navy",
           "summary": "Textron Systems Corporation announced it was awarded a $230M contract modification from the U.S. Navy to produce two Ship-to-Shore Connector (SSC) craft. Textron Systems press release The SSCs are designed to deliver…",
           "date": "2026-10-06",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/10/textron-systems-to-provide-two-additional-ssc-craft-to-us-navy/",
+          "relevant": false
+        },
+        {
+          "title": "Ursa Major wins $137m US contract for CAAM and NMM rocket motors",
+          "summary": "The US Navy has awarded Ursa Major two contracts worth a combined $137m to develop and qualify solid rocket motors for the Compact Air-to-Air Missile (CAAM) and Naval Modular Missile (NMM) programmes. The post Ursa…",
+          "date": "2026-10-06",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/ursa-major-rocket-motors-contract/",
           "relevant": false
         },
         {
@@ -4249,14 +4249,6 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
-          "title": "Berlin blocks COSCO takeover of German freight forwarder",
-          "summary": "Germany has blocked COSCO Shipping’s planned acquisition of an 80% stake in Hamburg freight forwarder Konrad Zippel, overriding an earlier competition clearance on national security grounds. The federal cabinet approved…",
-          "date": "2026-10-08",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/berlin-blocks-cosco-takeover-of-german-freight-forwarder/",
-          "relevant": false
-        },
-        {
           "title": "Ensign Rig 974 moves to Palm Valley 15 after Central’s PV14 flow test",
           "summary": "Central Petroleum flow-tested its Palm Valley 14 (PV14) well in the Amadeus Basin of Australia’s Northern Territory and recorded a final estimated gas rate of about 3.2 terajoules per day (TJ/d) on a 100% joint venture…",
           "date": "2026-10-08",
@@ -4286,6 +4278,14 @@
           "date": "2026-10-08",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/emera_to_acquire_canadian_utilities_for_10b-08-oct-2026-184801-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Berlin blocks COSCO takeover of German freight forwarder",
+          "summary": "Germany has blocked COSCO Shipping’s planned acquisition of an 80% stake in Hamburg freight forwarder Konrad Zippel, overriding an earlier competition clearance on national security grounds. The federal cabinet approved…",
+          "date": "2026-10-08",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/berlin-blocks-cosco-takeover-of-german-freight-forwarder/",
           "relevant": false
         },
         {
