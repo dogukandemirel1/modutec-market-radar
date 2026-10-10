@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10T20:01:01Z",
+  "last_updated": "2026-10-10T21:00:51Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5176,6 +5176,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "UAE Rescues 22 Crew Members After Oil Tanker Catches Fire In Gulf",
+          "summary": "Oct 10 (Reuters) – The United Arab Emirates National Guard said on Saturday it had rescued 22 Asian crew members after a fire broke out aboard an oil tanker in Gulf waters....",
+          "date": "2026-10-10",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/uae-rescues-22-crew-members-after-oil-tanker-catches-fire-in-gulf/",
+          "relevant": true,
+          "region": "UAE"
+        },
         {
           "title": "Vessel Struck by Unknown Projectile Off UAE Coast Amid Surge in Attacks, UKMTO Says",
           "summary": "A vessel was struck by an unknown projectile 13 nautical miles west of Al Jazeera in the United Arab Emirates on Friday, causing a fire that has since been extinguished, British navy affiliated agency UKMTO said, citing…",
