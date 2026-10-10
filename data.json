@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10T13:00:54Z",
+  "last_updated": "2026-10-10T14:00:50Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3089,14 +3089,6 @@
           "relevant": false
         },
         {
-          "title": "Oil Prices Rebound Intraday Thursday",
-          "summary": "Naeem Aslam, CIO at Zaye Capital Markets, outlines the main driver.",
-          "date": "2026-10-08",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/oil_prices_rebound_intraday_thursday-08-oct-2026-184798-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Equinor raises Snøhvit Future cost forecast to $2.7bn",
           "summary": "Equinor has lifted the investment forecast for its Snøhvit Future development in Norway to Nkr26.5bn ($2.7bn) in 2026 value, representing the third upward revision since the project was sanctioned.",
           "date": "2026-10-08",
@@ -3118,6 +3110,14 @@
           "date": "2026-10-08",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543557-tennet-joins-subsea-cable-decommissioning-tool-development",
+          "relevant": false
+        },
+        {
+          "title": "Oil Prices Rebound Intraday Thursday",
+          "summary": "Naeem Aslam, CIO at Zaye Capital Markets, outlines the main driver.",
+          "date": "2026-10-08",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/oil_prices_rebound_intraday_thursday-08-oct-2026-184798-article/?rss=true",
           "relevant": false
         },
         {
