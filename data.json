@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10T04:00:51Z",
+  "last_updated": "2026-10-10T05:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -121,14 +121,6 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "BIMCO moves to break ship retrofit cost deadlock",
-          "summary": "Shipping association BIMCO has adopted a new contractual framework designed to settle one of the industry’s longstanding commercial disputes: who pays for energy-saving upgrades when the charterer receives much of the…",
-          "date": "2026-10-09",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/bimco-moves-to-break-ship-retrofit-cost-deadlock/",
-          "relevant": false
-        },
-        {
           "title": "Transocean Norge wins two-well Norske Shell contract in Norway",
           "summary": "Transocean won a two-well contract with Shell for the Transocean Norge semisubmersible in Norway. The estimated 120 days of work is expected to begin in direct continuation of the rig’s previously awarded programs in…",
           "date": "2026-10-09",
@@ -174,6 +166,14 @@
           "date": "2026-10-09",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543589-transocean-adds-1-1b-to-offshore-drilling-backlog",
+          "relevant": false
+        },
+        {
+          "title": "BIMCO moves to break ship retrofit cost deadlock",
+          "summary": "Shipping association BIMCO has adopted a new contractual framework designed to settle one of the industry’s longstanding commercial disputes: who pays for energy-saving upgrades when the charterer receives much of the…",
+          "date": "2026-10-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/bimco-moves-to-break-ship-retrofit-cost-deadlock/",
           "relevant": false
         },
         {
@@ -5186,24 +5186,6 @@
           "region": "UAE"
         },
         {
-          "title": "FSL cashes in on another veteran product tanker",
-          "summary": "Singapore-listed First Ship Lease Trust (FSL) has agreed to sell another ageing product tanker, continuing a series of disposals that has reduced its fleet over recent years. The trust said in a filing that subsidiary…",
-          "date": "2026-10-09",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/fsl-cashes-in-on-another-veteran-product-tanker/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Larine cashes out of LR1 tankers in $110m UAE deal",
-          "summary": "Odfjell-family-linked Larine Tankers has reportedly sold its two LR1 product tankers to UAE interests for a combined $110m, clearing out its existing fleet amid strong secondhand tanker prices. Shipbrokers have…",
-          "date": "2026-10-09",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/larine-cashes-out-of-lr1-tankers-in-110m-uae-deal/",
-          "relevant": true,
-          "region": "UAE"
-        },
-        {
           "title": "Offshore installation starts at Valeura's Gulf of Thailand field ahead of schedule",
           "summary": "Canadian oil & gas company Valeura Energy has started offshore installation at its field in the Gulf of Thailand, some two months ahead of the...",
           "date": "2026-10-09",
@@ -5229,6 +5211,24 @@
           "source_url": "https://www.oedigital.com/news/543586-valeura-starts-wassana-platform-installation-offshore-thailand",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "FSL cashes in on another veteran product tanker",
+          "summary": "Singapore-listed First Ship Lease Trust (FSL) has agreed to sell another ageing product tanker, continuing a series of disposals that has reduced its fleet over recent years. The trust said in a filing that subsidiary…",
+          "date": "2026-10-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/fsl-cashes-in-on-another-veteran-product-tanker/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Larine cashes out of LR1 tankers in $110m UAE deal",
+          "summary": "Odfjell-family-linked Larine Tankers has reportedly sold its two LR1 product tankers to UAE interests for a combined $110m, clearing out its existing fleet amid strong secondhand tanker prices. Shipbrokers have…",
+          "date": "2026-10-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/larine-cashes-out-of-lr1-tankers-in-110m-uae-deal/",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Houthis Kill Three in Strikes on Saudi Arabian Airports",
