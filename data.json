@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T04:00:54Z",
+  "last_updated": "2026-10-11T05:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3000,6 +3000,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "US Says It Disabled Cargo Vessel Trying To Run Iran Blockade",
+          "summary": "Oct 10 (Reuters) – The US military said on Saturday it had disabled a commercial cargo vessel in the Gulf of Oman after the ship’s crew ignored warnings and attempted to run...",
+          "date": "2026-10-11",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/us-says-it-disabled-cargo-vessel-trying-to-run-iran-blockade/",
+          "relevant": false
+        },
         {
           "title": "Trump Strikes Diesel Deal With Putin to Lower Fuel Prices Ahead of Midterms",
           "summary": "President Donald Trump said Friday that Russia has agreed to release millions of tons of diesel fuel into U.S. and global markets following a telephone call with Russian President Vladimir...",
