@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T19:00:54Z",
+  "last_updated": "2026-10-11T20:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -120,6 +120,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Ship recycling drought leaves record ageing fleet afloat",
+          "summary": "Ship recycling has sunk into its longest sustained slump in more than half a century, just as the global merchant fleet accumulates an unprecedented amount of ageing tonnage. Clarksons Research calculates that just 273…",
+          "date": "2026-10-11",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/ship-recycling-drought-leaves-record-ageing-fleet-afloat/",
+          "relevant": false
+        },
         {
           "title": "BIMCO moves to break ship retrofit cost deadlock",
           "summary": "Shipping association BIMCO has adopted a new contractual framework designed to settle one of the industry’s longstanding commercial disputes: who pays for energy-saving upgrades when the charterer receives much of the…",
@@ -5221,15 +5229,6 @@
           "region": "SEA"
         },
         {
-          "title": "Larine cashes out of LR1 tankers in $110m UAE deal",
-          "summary": "Odfjell-family-linked Larine Tankers has reportedly sold its two LR1 product tankers to UAE interests for a combined $110m, clearing out its existing fleet amid strong secondhand tanker prices. Shipbrokers have…",
-          "date": "2026-10-09",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/larine-cashes-out-of-lr1-tankers-in-110m-uae-deal/",
-          "relevant": true,
-          "region": "UAE"
-        },
-        {
           "title": "Offshore installation starts at Valeura's Gulf of Thailand field ahead of schedule",
           "summary": "Canadian oil & gas company Valeura Energy has started offshore installation at its field in the Gulf of Thailand, some two months ahead of the...",
           "date": "2026-10-09",
@@ -5255,6 +5254,15 @@
           "source_url": "https://www.oedigital.com/news/543586-valeura-starts-wassana-platform-installation-offshore-thailand",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Larine cashes out of LR1 tankers in $110m UAE deal",
+          "summary": "Odfjell-family-linked Larine Tankers has reportedly sold its two LR1 product tankers to UAE interests for a combined $110m, clearing out its existing fleet amid strong secondhand tanker prices. Shipbrokers have…",
+          "date": "2026-10-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/larine-cashes-out-of-lr1-tankers-in-110m-uae-deal/",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Houthis Kill Three in Strikes on Saudi Arabian Airports",
