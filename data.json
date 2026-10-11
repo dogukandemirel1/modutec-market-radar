@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T11:00:53Z",
+  "last_updated": "2026-10-11T12:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3089,14 +3089,6 @@
           "relevant": false
         },
         {
-          "title": "Chevron Exits Hess Midstream as It Restructures Bakken, DJ Assets",
-          "summary": "Hess Midstream will become independent of Chevron through a swap transaction that lets Chevron keep using oil and gas gathering and processing infrastructure in the Bakken at lower cost.",
-          "date": "2026-10-08",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/chevron_exits_hess_midstream_as_it_restructures_bakken_dj_assets-08-oct-2026-184799-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Equinor raises Snøhvit Future cost forecast to $2.7bn",
           "summary": "Equinor has lifted the investment forecast for its Snøhvit Future development in Norway to Nkr26.5bn ($2.7bn) in 2026 value, representing the third upward revision since the project was sanctioned.",
           "date": "2026-10-08",
@@ -3118,6 +3110,14 @@
           "date": "2026-10-08",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543557-tennet-joins-subsea-cable-decommissioning-tool-development",
+          "relevant": false
+        },
+        {
+          "title": "Chevron Exits Hess Midstream as It Restructures Bakken, DJ Assets",
+          "summary": "Hess Midstream will become independent of Chevron through a swap transaction that lets Chevron keep using oil and gas gathering and processing infrastructure in the Bakken at lower cost.",
+          "date": "2026-10-08",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/chevron_exits_hess_midstream_as_it_restructures_bakken_dj_assets-08-oct-2026-184799-article/?rss=true",
           "relevant": false
         },
         {
