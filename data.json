@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T08:02:13Z",
+  "last_updated": "2026-10-12T09:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -142,6 +142,14 @@
           "date": "2026-10-12",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/transocean-books-new-shell-work-and-firms-up-1bn-equinor-deal/",
+          "relevant": false
+        },
+        {
+          "title": "French MoD Selects Top Contenders for DANAE Armed Surface Drone Project",
+          "summary": "The French Navy and AID select three industrial teams to develop advanced armed autonomous surface drones for the DANAE armed USV project. The post French MoD Selects Top Contenders for DANAE Armed Surface Drone Project…",
+          "date": "2026-10-12",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/french-mod-selects-top-contenders-for-danae-armed-surface-drone-project/",
           "relevant": false
         },
         {
@@ -5224,6 +5232,15 @@
           "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/exail-starts-production-of-unmanned-mcm-system-for-indonesian-navy/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Saudi Says Energy Export Capability Intact",
+          "summary": "Saudi Arabia's ability to supply energy remains resilient amid major market and security turmoil, Energy Minister Prince Abdulaziz bin Salman said, as the kingdom suffers attacks on energy and aviation infrastructure.",
+          "date": "2026-10-12",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/saudi_says_energy_export_capability_intact-12-oct-2026-184820-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "Iran Says US Response To Its Proposal To Reopen Hormuz Was ‘Insufficient’",
