@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T15:01:02Z",
+  "last_updated": "2026-10-12T16:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -158,6 +158,14 @@
           "date": "2026-10-12",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/12/shell-and-equinor-fuel-dollar11-billion-backlog-uptick-for-transocean",
+          "relevant": false
+        },
+        {
+          "title": "Eni to sell Indonesian upstream stakes to Pertamina and Medco",
+          "summary": "Eni has finalised two binding deals to offload minority stakes in upstream Indonesian acreage to Pertamina and Medco.",
+          "date": "2026-10-12",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/eni-sell-indonesian-upstream-pertamina-medco/",
           "relevant": false
         },
         {
@@ -321,14 +329,6 @@
           "relevant": true
         },
         {
-          "title": "Valaris secures $220m in contract awards and extensions",
-          "summary": "Offshore drilling contractor Valaris has reported new contract awards and extensions amounting to an estimated $220m in contract backlog since its previous fleet status update in August 2026.",
-          "date": "2026-10-08",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/valaris-220m-contract-awards-extensions/",
-          "relevant": false
-        },
-        {
           "title": "Textron wins $230m US Navy order for two Ship-to-Shore Connectors",
           "summary": "Textron Systems has received a $230m contract modification from the US Navy to produce two Ship-to-Shore Connector (SSC) craft. The post Textron wins $230m US Navy order for two Ship-to-Shore Connectors appeared first…",
           "date": "2026-10-08",
@@ -342,6 +342,14 @@
           "date": "2026-10-08",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/x-bow-us-navy-solid-rocket/",
+          "relevant": false
+        },
+        {
+          "title": "Valaris secures $220m in contract awards and extensions",
+          "summary": "Offshore drilling contractor Valaris has reported new contract awards and extensions amounting to an estimated $220m in contract backlog since its previous fleet status update in August 2026.",
+          "date": "2026-10-08",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/valaris-220m-contract-awards-extensions/",
           "relevant": false
         },
         {
@@ -441,22 +449,6 @@
           "relevant": false
         },
         {
-          "title": "Photo Gallery: IADC Contracts & Risk Management Conference, 6–7 October, Houston, Texas",
-          "summary": "The biennial IADC Contracts & Risk Management Conference explores pertinent issues affecting contracts and risk management within the drilling industry. Speakers report on market issues, contract provisions, new…",
-          "date": "2026-10-07",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/photo-gallery-iadc-contracts-risk-management-conference-6-7-october-houston-texas-80268",
-          "relevant": false
-        },
-        {
-          "title": "Valaris lands drillship and jackup work across three continents",
-          "summary": "Valaris secured a two-well exploration contract with PETRONAS Suriname Exploration & Production for the drillship VALARIS DS-18. The contract, which follows a previously announced letter of award, is set to start in the…",
-          "date": "2026-10-07",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/valaris-lands-drillship-and-jackup-work-across-three-continents-80266",
-          "relevant": false
-        },
-        {
           "title": "Rockhopper pledges $44 million for oil project’s second Falklands-bound FPSO",
           "summary": "Rockhopper has committed millions to secure a stake in a floating production, storage, and offloading (FPSO) destined for the Falkland Islands.",
           "date": "2026-10-07",
@@ -486,6 +478,22 @@
           "date": "2026-10-07",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/07/petrobras-taps-technipfmc-for-flexible-pipe",
+          "relevant": false
+        },
+        {
+          "title": "Photo Gallery: IADC Contracts & Risk Management Conference, 6–7 October, Houston, Texas",
+          "summary": "The biennial IADC Contracts & Risk Management Conference explores pertinent issues affecting contracts and risk management within the drilling industry. Speakers report on market issues, contract provisions, new…",
+          "date": "2026-10-07",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/photo-gallery-iadc-contracts-risk-management-conference-6-7-october-houston-texas-80268",
+          "relevant": false
+        },
+        {
+          "title": "Valaris lands drillship and jackup work across three continents",
+          "summary": "Valaris secured a two-well exploration contract with PETRONAS Suriname Exploration & Production for the drillship VALARIS DS-18. The contract, which follows a previously announced letter of award, is set to start in the…",
+          "date": "2026-10-07",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/valaris-lands-drillship-and-jackup-work-across-three-continents-80266",
           "relevant": false
         },
         {
