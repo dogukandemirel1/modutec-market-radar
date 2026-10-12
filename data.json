@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T11:52:55Z",
+  "last_updated": "2026-10-12T12:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3073,6 +3073,14 @@
           "relevant": false
         },
         {
+          "title": "Eni Sells Part of Stake in 7 Indonesian Blocks",
+          "summary": "'Pertamina's participation as the national oil and gas company in these assets is expected to directly support and accelerate the Kutei North Hub Project (North Ganal and Rapak blocks)'.",
+          "date": "2026-10-12",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/eni_sells_part_of_stake_in_7_indonesian_blocks-12-oct-2026-184823-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "US Says It Disabled Cargo Vessel Trying To Run Iran Blockade",
           "summary": "Oct 10 (Reuters) – The US military said on Saturday it had disabled a commercial cargo vessel in the Gulf of Oman after the ship’s crew ignored warnings and attempted to run...",
           "date": "2026-10-11",
@@ -3153,19 +3161,19 @@
           "relevant": false
         },
         {
-          "title": "Energy Transfer Buys Already Integrated Vaquero Assets for Over $2.6B",
-          "summary": "Energy Transfer agreed to acquire Vaquero Midstream, whose assets are already interconnected with Energy Transfer's downstream natural gas and natural gas liquids infrastructure, for around $2.625 billion.",
-          "date": "2026-10-08",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/energy_transfer_buys_already_integrated_vaquero_assets_for_over_26b-08-oct-2026-184803-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Equinor raises Snøhvit Future cost forecast to $2.7bn",
           "summary": "Equinor has lifted the investment forecast for its Snøhvit Future development in Norway to Nkr26.5bn ($2.7bn) in 2026 value, representing the third upward revision since the project was sanctioned.",
           "date": "2026-10-08",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/equinor-snohvit-future-cost-forecast-2-7bn/",
+          "relevant": false
+        },
+        {
+          "title": "Energy Transfer Buys Already Integrated Vaquero Assets for Over $2.6B",
+          "summary": "Energy Transfer agreed to acquire Vaquero Midstream, whose assets are already interconnected with Energy Transfer's downstream natural gas and natural gas liquids infrastructure, for around $2.625 billion.",
+          "date": "2026-10-08",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/energy_transfer_buys_already_integrated_vaquero_assets_for_over_26b-08-oct-2026-184803-article/?rss=true",
           "relevant": false
         },
         {
