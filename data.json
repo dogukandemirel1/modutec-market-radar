@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T12:00:58Z",
+  "last_updated": "2026-10-12T13:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -137,6 +137,14 @@
           "relevant": false
         },
         {
+          "title": "U.S. Navy to Integrate LRASM into USAF’s B-52 Strategic Bombers",
+          "summary": "The U.S. Navy plans to contract Lockheed Martin to integrate AGM-158C LRASM anti-ship missiles onto the Air Force's B-52 bombers, boosting Indo-Pacific maritime strike capabilities. The post U.S. Navy to Integrate LRASM…",
+          "date": "2026-10-12",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/u-s-navy-to-integrate-lrasm-into-usafs-b-52-strategic-bombers/",
+          "relevant": false
+        },
+        {
           "title": "French MoD Selects Top Contenders for DANAE Armed Surface Drone Project",
           "summary": "The French Navy and AID select three industrial teams to develop advanced armed autonomous surface drones for the DANAE armed USV project. The post French MoD Selects Top Contenders for DANAE Armed Surface Drone Project…",
           "date": "2026-10-12",
@@ -158,6 +166,22 @@
           "date": "2026-10-12",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/enermech-subsea7-deal-ginger-subsea-work/",
+          "relevant": false
+        },
+        {
+          "title": "US Coast Guard orders four MQ-9B drones in $247.8m deal",
+          "summary": "The US Coast Guard has ordered four MQ-9B long-range uncrewed aircraft systems from General Atomics under a $247.8m US Customs and Border Protection contract. The post US Coast Guard orders four MQ-9B drones in $247.8m…",
+          "date": "2026-10-12",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/us-coast-guard-mq9b/",
+          "relevant": false
+        },
+        {
+          "title": "OEG to Supply Temporary Power for Hornsea 3 Offshore Wind Farm Buildout",
+          "summary": "OEG has been awarded a contract by Ørsted to supply temporary power for the construction of the Hornsea 3 offshore wind farm, covering offshore converter station…",
+          "date": "2026-10-12",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543610-oeg-to-supply-temporary-power-for-hornsea-3-offshore-wind-farm-buildout",
           "relevant": false
         },
         {
