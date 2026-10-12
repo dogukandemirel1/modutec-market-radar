@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T18:00:56Z",
+  "last_updated": "2026-10-12T19:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3104,6 +3104,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "EU Targets Major Russian Shipyards in Sweeping Sanctions Expansion",
+          "summary": "The European Union has imposed sanctions on some of Russia’s most important shipyards, including major submarine builders, naval ship-repair facilities and yards involved in commercial vessel construction, as part of...",
+          "date": "2026-10-12",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/eu-targets-major-russian-shipyards-in-sweeping-sanctions-expansion/",
+          "relevant": false
+        },
         {
           "title": "Sweden Releases Sanctioned Russian Shadow Fleet Tanker After Seven-Month Detention",
           "summary": "Swedish authorities have cleared the sanctioned tanker Sea Owl 1 to leave the country after nearly seven months at anchor, following confirmation that the vessel is now legitimately registered under...",
