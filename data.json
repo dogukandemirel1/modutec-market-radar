@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T10:01:00Z",
+  "last_updated": "2026-10-12T11:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3057,6 +3057,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Ørsted expands offshore wind ROV fleet with third Saab electric subsea robot",
+          "summary": "Ørsted has turned to Saab UK for a third remotely operated vehicle (ROV) to scale up underwater capabilities across its offshore wind assets.",
+          "date": "2026-10-12",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/12/orsted-expands-offshore-wind-rov-fleet-with-third-saab-electric-subsea-robot",
+          "relevant": false
+        },
+        {
           "title": "US Says It Disabled Cargo Vessel Trying To Run Iran Blockade",
           "summary": "Oct 10 (Reuters) – The US military said on Saturday it had disabled a commercial cargo vessel in the Gulf of Oman after the ship’s crew ignored warnings and attempted to run...",
           "date": "2026-10-11",
@@ -5241,6 +5249,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Saudi Eyes 10 Million Barrels a Day of Oil Pipe Capacity",
+          "summary": "Saudi Arabia is looking at ways to expand its oil pipeline capacity to destinations outside the Persian Gulf to 10 million barrels a day within two to three years, said Energy Minister Prince Abdulaziz bin Salman.",
+          "date": "2026-10-12",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/saudi-eyes-10-million-barrels-a-day-of-oil-pipe-capacity/",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
           "title": "Exail Starts Production of Unmanned MCM System for Indonesian Navy",
           "summary": "Exail has begun production of the Unmanned MCM System (UMIS) for the Indonesian Navy, featuring Inspector 90 USVs, third-party integrations, and training. The post Exail Starts Production of Unmanned MCM System for…",
           "date": "2026-10-12",
@@ -5304,15 +5321,6 @@
           "region": "UAE"
         },
         {
-          "title": "Vessel Struck by Unknown Projectile Off UAE Coast Amid Surge in Attacks, UKMTO Says",
-          "summary": "A vessel was struck by an unknown projectile 13 nautical miles west of Al Jazeera in the United Arab Emirates on Friday, causing a fire that has since been extinguished, British navy affiliated agency UKMTO said, citing…",
-          "date": "2026-10-09",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/vessel-struck-by-unknown-projectile-off-uae-coast-amid-surge-in-attacks-ukmto-says/",
-          "relevant": true,
-          "region": "UAE"
-        },
-        {
           "title": "Offshore installation starts at Valeura's Gulf of Thailand field ahead of schedule",
           "summary": "Canadian oil & gas company Valeura Energy has started offshore installation at its field in the Gulf of Thailand, some two months ahead of the...",
           "date": "2026-10-09",
@@ -5338,6 +5346,15 @@
           "source_url": "https://www.oedigital.com/news/543586-valeura-starts-wassana-platform-installation-offshore-thailand",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Vessel Struck by Unknown Projectile Off UAE Coast Amid Surge in Attacks, UKMTO Says",
+          "summary": "A vessel was struck by an unknown projectile 13 nautical miles west of Al Jazeera in the United Arab Emirates on Friday, causing a fire that has since been extinguished, British navy affiliated agency UKMTO said, citing…",
+          "date": "2026-10-09",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/vessel-struck-by-unknown-projectile-off-uae-coast-amid-surge-in-attacks-ukmto-says/",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "FSL cashes in on another veteran product tanker",
