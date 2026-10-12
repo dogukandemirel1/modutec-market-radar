@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T11:01:04Z",
+  "last_updated": "2026-10-12T11:52:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -121,19 +121,19 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "MISC lines up five more LNG carriers for Petronas",
+          "summary": "Malaysian shipping group MISC is preparing another five LNG carrier newbuildings in China after securing a fresh long-term charter award from compatriot Petronas. The Bursa Malaysia-listed owner has accepted a letter of…",
+          "date": "2026-10-12",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/misc-lines-up-five-more-lng-carriers-for-petronas/",
+          "relevant": false
+        },
+        {
           "title": "Ship recycling drought leaves record ageing fleet afloat",
           "summary": "Ship recycling has sunk into its longest sustained slump in more than half a century, just as the global merchant fleet accumulates an unprecedented amount of ageing tonnage. Clarksons Research calculates that just 273…",
           "date": "2026-10-12",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/ship-recycling-drought-leaves-record-ageing-fleet-afloat/",
-          "relevant": false
-        },
-        {
-          "title": "Shell joins Equinor in $9.8bn Canadian offshore project",
-          "summary": "Supermajor Shell has agreed to acquire a 30% interest in Equinor’s Bay du Nord project offshore Newfoundland and Labrador as the partners push the development towards a final investment decision targeted for early 2027…",
-          "date": "2026-10-12",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/shell-joins-equinor-in-9-8bn-canadian-offshore-project/",
           "relevant": false
         },
         {
@@ -166,6 +166,14 @@
           "date": "2026-10-12",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543603-eni-agrees-indonesian-gas-asset-sales-to-pertamina-and-medco",
+          "relevant": false
+        },
+        {
+          "title": "Shell joins Equinor in $9.8bn Canadian offshore project",
+          "summary": "Supermajor Shell has agreed to acquire a 30% interest in Equinor’s Bay du Nord project offshore Newfoundland and Labrador as the partners push the development towards a final investment decision targeted for early 2027…",
+          "date": "2026-10-12",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/shell-joins-equinor-in-9-8bn-canadian-offshore-project/",
           "relevant": false
         },
         {
@@ -5256,6 +5264,15 @@
           "source_url": "https://gcaptain.com/saudi-eyes-10-million-barrels-a-day-of-oil-pipe-capacity/",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Yangzijiang Maritime adds kamsarmax bulkers to newbuild spree",
+          "summary": "Singapore-listed Yangzijiang Maritime Development has struck a bulk carrier newbuilding deal in China, for up to six kamsarmaxes at Jiangsu Watts Energy & Engineering. The Ren Yuanlin-led maritime investment group has…",
+          "date": "2026-10-12",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/yangzijiang-maritime-adds-kamsarmax-bulkers-to-newbuild-spree/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Exail Starts Production of Unmanned MCM System for Indonesian Navy",
