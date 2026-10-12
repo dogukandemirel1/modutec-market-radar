@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T00:00:57Z",
+  "last_updated": "2026-10-12T01:00:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3025,14 +3025,6 @@
           "relevant": false
         },
         {
-          "title": "From Policy to Practice: Shipping’s Regulatory Autumn Puts Proof on Trial",
-          "summary": "The past fortnight has delivered a clear reminder that the industry’s regulatory problem is no longer a shortage of rules. It is the widening distance between what is agreed in London and Brussels and what can actually…",
-          "date": "2026-10-09",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/from-policy-to-practice-shippings-regulatory-autumn-puts-proof-on-trial/",
-          "relevant": false
-        },
-        {
           "title": "Crescent Energy adds Karnes Trough position with Devon Eagle Ford deal",
           "summary": "Crescent Energy agreed to acquire Eagle Ford assets from Devon Energy for an estimated net purchase price of about $3.85 billion, adding oil-weighted production and inventory adjacent to its existing operations. The…",
           "date": "2026-10-09",
@@ -3070,6 +3062,14 @@
           "date": "2026-10-09",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543587-gennaker-offshore-substations-depart-for-baltic-sea-installation-video",
+          "relevant": false
+        },
+        {
+          "title": "From Policy to Practice: Shipping’s Regulatory Autumn Puts Proof on Trial",
+          "summary": "The past fortnight has delivered a clear reminder that the industry’s regulatory problem is no longer a shortage of rules. It is the widening distance between what is agreed in London and Brussels and what can actually…",
+          "date": "2026-10-09",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/from-policy-to-practice-shippings-regulatory-autumn-puts-proof-on-trial/",
           "relevant": false
         },
         {
@@ -5192,6 +5192,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Iran Says US Response To Its Proposal To Reopen Hormuz Was ‘Insufficient’",
+          "summary": "DUBAI, Oct 11 (Reuters) – The United States’ response to Iran’s seven conditions in a proposal to reopen the strategic Strait of Hormuz was “insufficient”, Iran’s security chief, Mohsen Rezaei, was quoted by state...",
+          "date": "2026-10-11",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/iran-says-us-response-to-its-proposal-to-reopen-hormuz-was-insufficient/",
+          "relevant": true,
+          "region": "UAE"
+        },
         {
           "title": "Tanker war spreads across Gulf",
           "summary": "Attacks on commercial shipping are spreading deeper into the Gulf as Iran widens its campaign beyond Hormuz, with a fully laden VLCC struck off the UAE and another tanker hit in the strait over the weekend. The…",
