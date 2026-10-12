@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T20:00:54Z",
+  "last_updated": "2026-10-12T21:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -120,6 +120,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "ABS and U.S. Department of Energy Sign MOU on Maritime Applications of Advanced Nuclear Technology",
+          "summary": "ABS and the U.S. Department of Energy’s (DOE) Office of Nuclear Energy have signed a memorandum of understanding to advance modern commercial nuclear technology at sea. The agreement spans floating...",
+          "date": "2026-10-12",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/abs-and-u-s-department-of-energy-sign-mou-on-maritime-applications-of-advanced-nuclear-technology/",
+          "relevant": false
+        },
         {
           "title": "MISC lines up five more LNG carriers for Petronas",
           "summary": "Malaysian shipping group MISC is preparing another five LNG carrier newbuildings in China after securing a fresh long-term charter award from compatriot Petronas. The Bursa Malaysia-listed owner has accepted a letter of…",
@@ -3121,6 +3129,14 @@
           "relevant": false
         },
         {
+          "title": "Europe’s shore power deadline is racing ahead of the grid",
+          "summary": "Two EU regulations will require ports to provide shore power and ships to use it from 2030. But with grid upgrades taking up to a decade, the infrastructure needed to meet the deadline is struggling to keep pace. Alex…",
+          "date": "2026-10-12",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/europes-shore-power-deadline-is-racing-ahead-of-the-grid/",
+          "relevant": false
+        },
+        {
           "title": "Ørsted expands offshore wind ROV fleet with third Saab electric subsea robot",
           "summary": "Ørsted has turned to Saab UK for a third remotely operated vehicle (ROV) to scale up underwater capabilities across its offshore wind assets.",
           "date": "2026-10-12",
@@ -3153,14 +3169,6 @@
           "relevant": false
         },
         {
-          "title": "129 Gulf Platforms Evacuated as Isaias Gets Stronger",
-          "summary": "That represents 34.77 percent of the 371 manned platforms in the Gulf of America, the Marine Minerals Administration highlighted.",
-          "date": "2026-10-09",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/129_gulf_platforms_evacuated_as_isaias_gets_stronger-09-oct-2026-184809-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Devon Energy to sell Eagle Ford assets to Crescent for $4.2bn",
           "summary": "Devon Energy has signed a definitive agreement to divest its Eagle Ford assets to Crescent Energy Company for $4.2bn in cash.",
           "date": "2026-10-09",
@@ -3182,6 +3190,14 @@
           "date": "2026-10-09",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543587-gennaker-offshore-substations-depart-for-baltic-sea-installation-video",
+          "relevant": false
+        },
+        {
+          "title": "129 Gulf Platforms Evacuated as Isaias Gets Stronger",
+          "summary": "That represents 34.77 percent of the 371 manned platforms in the Gulf of America, the Marine Minerals Administration highlighted.",
+          "date": "2026-10-09",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/129_gulf_platforms_evacuated_as_isaias_gets_stronger-09-oct-2026-184809-article/?rss=true",
           "relevant": false
         },
         {
@@ -5344,6 +5360,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Deadly Attacks on Saudi Arabia Risk Wider War That Draws In US",
+          "summary": "This weekend’s deadly attacks on Riyadh’s main airport have demonstrated the ability of Yemen’s Houthis to strike at the heart of Saudi power, raising the risk of a dangerous escalation that could draw in the US.",
+          "date": "2026-10-12",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/deadly-attacks-on-saudi-arabia-risk-wider-war-that-draws-in-us/",
+          "relevant": true,
+          "region": "KSA"
+        },
         {
           "title": "Saudi Eyes 10 Million Barrels a Day of Oil Pipe Capacity",
           "summary": "Saudi Arabia is looking at ways to expand its oil pipeline capacity to destinations outside the Persian Gulf to 10 million barrels a day within two to three years, said Energy Minister Prince Abdulaziz bin Salman.",
