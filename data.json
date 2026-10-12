@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T09:00:58Z",
+  "last_updated": "2026-10-12T10:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -137,14 +137,6 @@
           "relevant": false
         },
         {
-          "title": "Transocean books new Shell work and firms up $1bn Equinor deal",
-          "summary": "Swiss-based offshore drilling giant Transocean has won new work for one of its semisubs and secured formal approval for its $1bn deal with Equinor, announced earlier this year. Shell’s Norwegian arm awarded a two-well…",
-          "date": "2026-10-12",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/transocean-books-new-shell-work-and-firms-up-1bn-equinor-deal/",
-          "relevant": false
-        },
-        {
           "title": "French MoD Selects Top Contenders for DANAE Armed Surface Drone Project",
           "summary": "The French Navy and AID select three industrial teams to develop advanced armed autonomous surface drones for the DANAE armed USV project. The post French MoD Selects Top Contenders for DANAE Armed Surface Drone Project…",
           "date": "2026-10-12",
@@ -158,6 +150,30 @@
           "date": "2026-10-12",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/12/shell-and-equinor-fuel-dollar11-billion-backlog-uptick-for-transocean",
+          "relevant": false
+        },
+        {
+          "title": "EnerMech wins Subsea7 deal for Ginger subsea work in Trinidad and Tobago",
+          "summary": "UK-based oilfield services provider EnerMech has secured a contract from Subsea7 to provide pre-commissioning services for the Ginger subsea development project, located offshore Trinidad and Tobago.",
+          "date": "2026-10-12",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/enermech-subsea7-deal-ginger-subsea-work/",
+          "relevant": false
+        },
+        {
+          "title": "Eni Agrees Indonesian Gas Asset Sales to Pertamina and Medco",
+          "summary": "Eni has signed two binding agreements to sell 10% interests in seven production sharing contracts (PSCs) in Indonesia to Pertamina and Medco, covering assets operated…",
+          "date": "2026-10-12",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543603-eni-agrees-indonesian-gas-asset-sales-to-pertamina-and-medco",
+          "relevant": false
+        },
+        {
+          "title": "Transocean books new Shell work and firms up $1bn Equinor deal",
+          "summary": "Swiss-based offshore drilling giant Transocean has won new work for one of its semisubs and secured formal approval for its $1bn deal with Equinor, announced earlier this year. Shell’s Norwegian arm awarded a two-well…",
+          "date": "2026-10-12",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/transocean-books-new-shell-work-and-firms-up-1bn-equinor-deal/",
           "relevant": false
         },
         {
@@ -5234,12 +5250,30 @@
           "region": "SEA"
         },
         {
+          "title": "ADNOC broadens its Asian horizons with Gulf Group LNG deal",
+          "summary": "ADNOC has inked a multi-year agreement with Gulf Group to ship 2 million tonnes of liquefied natural gas (LNG) starting in 2027.",
+          "date": "2026-10-12",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/12/adnoc-broadens-its-asian-horizons-with-gulf-group-lng-deal",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
           "title": "Saudi Says Energy Export Capability Intact",
           "summary": "Saudi Arabia's ability to supply energy remains resilient amid major market and security turmoil, Energy Minister Prince Abdulaziz bin Salman said, as the kingdom suffers attacks on energy and aviation infrastructure.",
           "date": "2026-10-12",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/saudi_says_energy_export_capability_intact-12-oct-2026-184820-article/?rss=true",
           "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "Riyadh Attacks Disrupt Oil Majors' Summit Plans",
+          "summary": "Several top energy executives were dropped from the schedule of the WPC Energy Congress in Riyadh, as Saudi authorities pressed ahead with the event despite deadly…",
+          "date": "2026-10-12",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543601-riyadh-attacks-disrupt-oil-majors-summit-plans",
+          "relevant": false,
           "region": "KSA"
         },
         {
