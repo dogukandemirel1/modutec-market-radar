@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T16:01:01Z",
+  "last_updated": "2026-10-12T17:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -182,6 +182,14 @@
           "date": "2026-10-12",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/us-coast-guard-mq9b/",
+          "relevant": false
+        },
+        {
+          "title": "DOF Group Awards North Sea Subsea Decommissioning Contract",
+          "summary": "DOF Group ASA announced the award of a significant contract with a North Sea operator for a subsea decommissioning campaign.The contract scope includes project management…",
+          "date": "2026-10-12",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543619-dof-group-awards-north-sea-subsea-decommissioning-contract",
           "relevant": false
         },
         {
@@ -3097,6 +3105,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Sweden Releases Sanctioned Russian Shadow Fleet Tanker After Seven-Month Detention",
+          "summary": "Swedish authorities have cleared the sanctioned tanker Sea Owl 1 to leave the country after nearly seven months at anchor, following confirmation that the vessel is now legitimately registered under...",
+          "date": "2026-10-12",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/sweden-releases-sanctioned-russian-shadow-fleet-tanker-after-seven-month-detention/",
+          "relevant": false
+        },
+        {
           "title": "Ørsted expands offshore wind ROV fleet with third Saab electric subsea robot",
           "summary": "Ørsted has turned to Saab UK for a third remotely operated vehicle (ROV) to scale up underwater capabilities across its offshore wind assets.",
           "date": "2026-10-12",
@@ -3118,14 +3134,6 @@
           "date": "2026-10-11",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/us-says-it-disabled-cargo-vessel-trying-to-run-iran-blockade/",
-          "relevant": false
-        },
-        {
-          "title": "Trump Strikes Diesel Deal With Putin to Lower Fuel Prices Ahead of Midterms",
-          "summary": "President Donald Trump said Friday that Russia has agreed to release millions of tons of diesel fuel into U.S. and global markets following a telephone call with Russian President Vladimir...",
-          "date": "2026-10-09",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/trump-strikes-diesel-deal-with-putin-to-lower-fuel-prices-ahead-of-midterms/",
           "relevant": false
         },
         {
@@ -3166,6 +3174,14 @@
           "date": "2026-10-09",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543587-gennaker-offshore-substations-depart-for-baltic-sea-installation-video",
+          "relevant": false
+        },
+        {
+          "title": "Trump Strikes Diesel Deal With Putin to Lower Fuel Prices Ahead of Midterms",
+          "summary": "President Donald Trump said Friday that Russia has agreed to release millions of tons of diesel fuel into U.S. and global markets following a telephone call with Russian President Vladimir...",
+          "date": "2026-10-09",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/trump-strikes-diesel-deal-with-putin-to-lower-fuel-prices-ahead-of-midterms/",
           "relevant": false
         },
         {
@@ -4518,6 +4534,14 @@
           "date": "2026-10-12",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/12/eni-sheds-partial-stakes-in-indonesian-gas-assets-as-pertamina-and-medco-bolster-portfolios",
+          "relevant": false
+        },
+        {
+          "title": "TotalEnergies, KKR Add 700 MW to US Solar JV",
+          "summary": "TotalEnergies and KKR agreed to expand their 50:50 solar joint venture in the United States to 2,100 megawatts.",
+          "date": "2026-10-12",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/totalenergies_kkr_add_700_mw_to_us_solar_jv-12-oct-2026-184829-article/?rss=true",
           "relevant": false
         },
         {
