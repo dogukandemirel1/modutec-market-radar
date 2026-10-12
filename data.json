@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T07:00:57Z",
+  "last_updated": "2026-10-12T08:02:13Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -126,6 +126,30 @@
           "date": "2026-10-12",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/ship-recycling-drought-leaves-record-ageing-fleet-afloat/",
+          "relevant": false
+        },
+        {
+          "title": "Shell joins Equinor in $9.8bn Canadian offshore project",
+          "summary": "Supermajor Shell has agreed to acquire a 30% interest in Equinor’s Bay du Nord project offshore Newfoundland and Labrador as the partners push the development towards a final investment decision targeted for early 2027…",
+          "date": "2026-10-12",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/shell-joins-equinor-in-9-8bn-canadian-offshore-project/",
+          "relevant": false
+        },
+        {
+          "title": "Transocean books new Shell work and firms up $1bn Equinor deal",
+          "summary": "Swiss-based offshore drilling giant Transocean has won new work for one of its semisubs and secured formal approval for its $1bn deal with Equinor, announced earlier this year. Shell’s Norwegian arm awarded a two-well…",
+          "date": "2026-10-12",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/transocean-books-new-shell-work-and-firms-up-1bn-equinor-deal/",
+          "relevant": false
+        },
+        {
+          "title": "Shell and Equinor fuel $1.1 billion backlog uptick for Transocean",
+          "summary": "Transocean gets its hands on a North Sea contract for a semi-submersible with Shell and a final approval for three rigs from Equinor.",
+          "date": "2026-10-12",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/12/shell-and-equinor-fuel-dollar11-billion-backlog-uptick-for-transocean",
           "relevant": false
         },
         {
