@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T13:01:01Z",
+  "last_updated": "2026-10-12T14:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4504,6 +4504,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "Eni sheds partial stakes in Indonesian gas assets as Pertamina and Medco bolster portfolios",
+          "summary": "Eni’s divestment move follows multi-trillion-cubic-feet gas discoveries, giving two regional firms direct stakes in fast-tracked gas developments.",
+          "date": "2026-10-12",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/12/eni-sheds-partial-stakes-in-indonesian-gas-assets-as-pertamina-and-medco-bolster-portfolios",
+          "relevant": false
+        },
         {
           "title": "UK P&I and TT Club merger clears member vote",
           "summary": "Members of the UK P&I Club and TT Club have approved a merger to create United Transport Mutual Limited (UTM), a transport mutual covering shipping, logistics, ports, and terminals. Members voted at separate special…",
