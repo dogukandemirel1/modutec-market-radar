@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T20:01:09Z",
+  "last_updated": "2026-10-13T21:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3232,6 +3232,22 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "Port of Los Angeles Sets All-Time Cargo Record as Imports Surge",
+          "summary": "The Port of Los Angeles handled a record 1,042,652 twenty-foot equivalent units (TEUs) in September, marking the busiest month in its 118-year history as strong consumer demand and shifting global...",
+          "date": "2026-10-13",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/port-of-los-angeles-sets-all-time-cargo-record-as-imports-surge/",
+          "relevant": false
+        },
+        {
+          "title": "Saudi Arabia Strikes Houthi Targets as Red Sea War Escalates",
+          "summary": "Yemen's Iran-allied Houthis said Saudi Arabia was attacking the Yemeni capital Sanaa on Tuesday after a Saudi-led coalition warned civilians to stay away from an oil depot on the city's outskirts, part of a rapidly…",
+          "date": "2026-10-13",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/saudi-arabia-strikes-houthi-targets-as-red-sea-war-escalates/",
+          "relevant": true
+        },
         {
           "title": "France Seizes Another ‘Shadow Fleet’ Tanker; Russia Decries ‘Piracy’",
           "summary": "France's military was taking a tanker suspected to be part of Russia's \"shadow fleet\" skirting Western sanctions to Reunion island on Tuesday in what Moscow called another act of \"piracy.\"",
