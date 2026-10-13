@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T08:00:59Z",
+  "last_updated": "2026-10-13T09:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -142,6 +142,14 @@
           "date": "2026-10-13",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/dof-lands-north-sea-decom-contract/",
+          "relevant": false
+        },
+        {
+          "title": "TotalEnergies orders French tubular solutions for gas field in Azerbaijan",
+          "summary": "France’s energy giant TotalEnergies has awarded compatriot Vallourec a contract to deliver over 16,000 tons of tubular products for a gas field...",
+          "date": "2026-10-13",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/13/totalenergies-orders-french-tubular-solutions-for-gas-field-in-azerbaijan",
           "relevant": false
         },
         {
@@ -369,14 +377,6 @@
           "relevant": false
         },
         {
-          "title": "Raytheon awarded $6.3 billion multi-year contract for SM-3 IB interceptors",
-          "summary": "Raytheon has secured a five-year contract, with two additional option years, valued up to $6.3 billion for the production and sustainment of Standard Missile-3 Block IB (SM‑3 IB) interceptors. Raytheon press release The…",
-          "date": "2026-10-08",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/raytheon-awarded-6-3-billion-multi-year-contract-for-sm-3-ib-interceptors/",
-          "relevant": false
-        },
-        {
           "title": "Subsea7 contracts EnerMech for Trinidad and Tobago's subsea development",
           "summary": "Aberdeen-headquartered integrated solutions specialist EnerMech has secured a contract with Subsea7 to deliver pre-commissioning services for a...",
           "date": "2026-10-08",
@@ -398,6 +398,14 @@
           "date": "2026-10-08",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/x-bow-us-navy-solid-rocket/",
+          "relevant": false
+        },
+        {
+          "title": "Raytheon awarded $6.3 billion multi-year contract for SM-3 IB interceptors",
+          "summary": "Raytheon has secured a five-year contract, with two additional option years, valued up to $6.3 billion for the production and sustainment of Standard Missile-3 Block IB (SM‑3 IB) interceptors. Raytheon press release The…",
+          "date": "2026-10-08",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/raytheon-awarded-6-3-billion-multi-year-contract-for-sm-3-ib-interceptors/",
           "relevant": false
         },
         {
@@ -5414,6 +5422,15 @@
           "date": "2026-10-13",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/13/2002-built-jack-up-comes-to-asian-yard-for-mopu-conversion-ahead-of-gas-field-deployment",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Murphy Oil Finds More Oil Offshore Vietnam, Côte d'Ivoire",
+          "summary": "Murphy Oil Corporation has reported a successful appraisal well offshore Côte d'Ivoire and an oil discovery offshore Vietnam, alongside the start of production from…",
+          "date": "2026-10-13",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543628-murphy-oil-finds-more-oil-offshore-vietnam-c-te-d-ivoire",
           "relevant": false,
           "region": "SEA"
         },
