@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T16:01:00Z",
+  "last_updated": "2026-10-13T17:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -182,6 +182,14 @@
           "date": "2026-10-13",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/13/seadrill-scores-big-with-new-rig-awards-in-asia-africa-and-us-gulf",
+          "relevant": false
+        },
+        {
+          "title": "Equinor Bags New Contract to Supply Dutch with Norwegian Gas",
+          "summary": "Equinor and Eneco have now signed three agreements this year for gas supply to the Netherlands and Germany.",
+          "date": "2026-10-13",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/equinor_bags_new_contract_to_supply_dutch_with_norwegian_gas-13-oct-2026-184840-article/?rss=true",
           "relevant": false
         },
         {
@@ -3257,14 +3265,6 @@
           "relevant": false
         },
         {
-          "title": "EU Targets Major Russian Shipyards in Sweeping Sanctions Expansion",
-          "summary": "The European Union has imposed sanctions on some of Russia’s most important shipyards, including major submarine builders, naval ship-repair facilities and yards involved in commercial vessel construction, as part of...",
-          "date": "2026-10-12",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/eu-targets-major-russian-shipyards-in-sweeping-sanctions-expansion/",
-          "relevant": false
-        },
-        {
           "title": "Ørsted expands offshore wind ROV fleet with third Saab electric subsea robot",
           "summary": "Ørsted has turned to Saab UK for a third remotely operated vehicle (ROV) to scale up underwater capabilities across its offshore wind assets.",
           "date": "2026-10-12",
@@ -3278,6 +3278,14 @@
           "date": "2026-10-12",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/eni_sells_part_of_stake_in_7_indonesian_blocks-12-oct-2026-184823-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "EU Targets Major Russian Shipyards in Sweeping Sanctions Expansion",
+          "summary": "The European Union has imposed sanctions on some of Russia’s most important shipyards, including major submarine builders, naval ship-repair facilities and yards involved in commercial vessel construction, as part of...",
+          "date": "2026-10-12",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/eu-targets-major-russian-shipyards-in-sweeping-sanctions-expansion/",
           "relevant": false
         },
         {
@@ -5620,15 +5628,6 @@
           "region": "SEA"
         },
         {
-          "title": "Deadly Attacks on Saudi Arabia Risk Wider War That Draws In US",
-          "summary": "This weekend’s deadly attacks on Riyadh’s main airport have demonstrated the ability of Yemen’s Houthis to strike at the heart of Saudi power, raising the risk of a dangerous escalation that could draw in the US.",
-          "date": "2026-10-12",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/deadly-attacks-on-saudi-arabia-risk-wider-war-that-draws-in-us/",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
           "title": "Exail Starts Production of Unmanned MCM System for Indonesian Navy",
           "summary": "Exail has begun production of the Unmanned MCM System (UMIS) for the Indonesian Navy, featuring Inspector 90 USVs, third-party integrations, and training. The post Exail Starts Production of Unmanned MCM System for…",
           "date": "2026-10-12",
@@ -5652,6 +5651,15 @@
           "date": "2026-10-12",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/saudi_says_energy_export_capability_intact-12-oct-2026-184820-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "Deadly Attacks on Saudi Arabia Risk Wider War That Draws In US",
+          "summary": "This weekend’s deadly attacks on Riyadh’s main airport have demonstrated the ability of Yemen’s Houthis to strike at the heart of Saudi power, raising the risk of a dangerous escalation that could draw in the US.",
+          "date": "2026-10-12",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/deadly-attacks-on-saudi-arabia-risk-wider-war-that-draws-in-us/",
           "relevant": true,
           "region": "KSA"
         },
