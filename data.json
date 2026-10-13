@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T18:01:00Z",
+  "last_updated": "2026-10-13T19:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -241,14 +241,6 @@
           "relevant": false
         },
         {
-          "title": "ABS and U.S. Department of Energy Sign MOU on Maritime Applications of Advanced Nuclear Technology",
-          "summary": "ABS and the U.S. Department of Energy’s (DOE) Office of Nuclear Energy have signed a memorandum of understanding to advance modern commercial nuclear technology at sea. The agreement spans floating...",
-          "date": "2026-10-12",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/abs-and-u-s-department-of-energy-sign-mou-on-maritime-applications-of-advanced-nuclear-technology/",
-          "relevant": false
-        },
-        {
           "title": "U.S. Navy to Integrate LRASM into USAF’s B-52 Strategic Bombers",
           "summary": "The U.S. Navy plans to contract Lockheed Martin to integrate AGM-158C LRASM anti-ship missiles onto the Air Force's B-52 bombers, boosting Indo-Pacific maritime strike capabilities. The post U.S. Navy to Integrate LRASM…",
           "date": "2026-10-12",
@@ -310,6 +302,14 @@
           "date": "2026-10-12",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543610-oeg-to-supply-temporary-power-for-hornsea-3-offshore-wind-farm-buildout",
+          "relevant": false
+        },
+        {
+          "title": "ABS and U.S. Department of Energy Sign MOU on Maritime Applications of Advanced Nuclear Technology",
+          "summary": "ABS and the U.S. Department of Energy’s (DOE) Office of Nuclear Energy have signed a memorandum of understanding to advance modern commercial nuclear technology at sea. The agreement spans floating...",
+          "date": "2026-10-12",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/abs-and-u-s-department-of-energy-sign-mou-on-maritime-applications-of-advanced-nuclear-technology/",
           "relevant": false
         },
         {
