@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T09:00:56Z",
+  "last_updated": "2026-10-13T10:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -121,27 +121,27 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Pertamina and Medco take slices of Eni’s Indonesia offshore assets",
+          "summary": "Italian giant Eni has agreed to sell 10% interests in seven offshore production sharing contracts in Indonesia to Pertamina and MedcoEnergi as it reshapes its portfolio after creating its Searah joint venture with…",
+          "date": "2026-10-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/pertamina-and-medco-take-slices-of-enis-indonesia-offshore-assets/",
+          "relevant": false
+        },
+        {
+          "title": "Global Ship Lease locks in $1bn loan for boxship spree",
+          "summary": "New York-listed containership owner Global Ship Lease (GSL) has secured a $1bn syndicated loan facility to finance its expanding newbuilding programme. The George Youroukos-led company said the seven-year facility…",
+          "date": "2026-10-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/global-ship-lease-locks-in-1bn-loan-for-boxship-spree/",
+          "relevant": false
+        },
+        {
           "title": "Washington teams up with ABS to accelerate nuclear shipping",
           "summary": "The US Department of Energy (DOE) has joined forces with classification society ABS to accelerate the development of commercial nuclear-powered shipping and floating power plants. The agreement with DOE’s Office of…",
           "date": "2026-10-13",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/washington-teams-up-with-abs-to-accelerate-nuclear-shipping/",
-          "relevant": false
-        },
-        {
-          "title": "Indonesia award leads new batch of Seadrill contracts",
-          "summary": "Offshore rig owner Seadrill announced contract awards and extensions for three drillships and one semisubmersible unit. The New York-listed rig owner said its 2015-built drillship, West Carina, was awarded a contract in…",
-          "date": "2026-10-13",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/indonesia-award-leads-new-batch-of-seadrill-contracts/",
-          "relevant": false
-        },
-        {
-          "title": "DOF lands North Sea decom contract",
-          "summary": "Norwegian offshore vessel owner DOF has won a contract with a North Sea operator to carry out a subsea decommissioning campaign. The contract scope includes project management, engineering, offshore execution, and…",
-          "date": "2026-10-13",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/dof-lands-north-sea-decom-contract/",
           "relevant": false
         },
         {
@@ -166,6 +166,22 @@
           "date": "2026-10-13",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/13/seadrill-scores-big-with-new-rig-awards-in-asia-africa-and-us-gulf",
+          "relevant": false
+        },
+        {
+          "title": "Indonesia award leads new batch of Seadrill contracts",
+          "summary": "Offshore rig owner Seadrill announced contract awards and extensions for three drillships and one semisubmersible unit. The New York-listed rig owner said its 2015-built drillship, West Carina, was awarded a contract in…",
+          "date": "2026-10-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/indonesia-award-leads-new-batch-of-seadrill-contracts/",
+          "relevant": false
+        },
+        {
+          "title": "DOF lands North Sea decom contract",
+          "summary": "Norwegian offshore vessel owner DOF has won a contract with a North Sea operator to carry out a subsea decommissioning campaign. The contract scope includes project management, engineering, offshore execution, and…",
+          "date": "2026-10-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/dof-lands-north-sea-decom-contract/",
           "relevant": false
         },
         {
@@ -3161,6 +3177,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Sweden frees sanctioned tanker after seven months",
+          "summary": "Swedish authorities have cleared an EU-sanctioned product tanker to leave the country after nearly seven months at anchor following an investigation into its registration and seaworthiness. The Swedish Transport Agency…",
+          "date": "2026-10-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/sweden-frees-sanctioned-tanker-after-seven-months/",
+          "relevant": false
+        },
+        {
           "title": "Europe’s shore power deadline is racing ahead of the grid",
           "summary": "Two EU regulations will require ports to provide shore power and ships to use it from 2030. But with grid upgrades taking up to a decade, the infrastructure needed to meet the deadline is struggling to keep pace. Alex…",
           "date": "2026-10-13",
@@ -5422,6 +5446,33 @@
           "date": "2026-10-13",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/13/2002-built-jack-up-comes-to-asian-yard-for-mopu-conversion-ahead-of-gas-field-deployment",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Murphy Oil confirms oil pay in Côte d’Ivoire and Vietnam wells",
+          "summary": "US-based energy company Murphy Oil has disclosed a series of operational advances spanning offshore Côte d'Ivoire, Vietnam and the US Gulf of Mexico.",
+          "date": "2026-10-13",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/murphy-oil-pay-cote-divoire-vietnam-wells/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Seadrill secures deepwater rig awards across four markets",
+          "summary": "Offshore drilling contractor Seadrill has secured a series of contract awards and extensions for its deepwater fleet in Indonesia, Malaysia, Angola, and the US Gulf of Mexico.",
+          "date": "2026-10-13",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/seadrill-deepwater-rig-awards-four-markets/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Jack-Up Rig Arrives in Indonesia for Conrad Asia Energy's MOPU Conversion",
+          "summary": "Conrad Asia Energy has confirmed the arrival of the Valaris 104 jack-up rig at PaxOcean's shipyard in Batam in Indonesia, where it will be converted into a mobile…",
+          "date": "2026-10-13",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543630-jack-up-rig-arrives-in-indonesia-for-conrad-asia-energy-s-mopu-conversion",
           "relevant": false,
           "region": "SEA"
         },
