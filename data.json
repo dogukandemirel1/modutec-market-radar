@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T19:00:59Z",
+  "last_updated": "2026-10-13T20:01:09Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5528,6 +5528,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Splash Cruise launches with a fresh take on the global cruise business",
+          "summary": "SINGAPORE, 14 October 2026 – Splash Maritime Group has officially launched Splash Cruise, a new international news platform dedicated to the business of cruise shipping, bringing the editorial approach that has made…",
+          "date": "2026-10-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/splash-cruise-launches-with-a-fresh-take-on-the-global-cruise-business/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Emarat Maritime piles six more tankers onto China orderbook",
           "summary": "Dubai-based Emarat Maritime has added another six tanker newbuildings to its rapidly expanding fleet, lining up a series of 74,000 dwt LR1 product carriers in China. The company’s own fleet register now lists six LR1…",
