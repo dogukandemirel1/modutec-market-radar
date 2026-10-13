@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T05:00:53Z",
+  "last_updated": "2026-10-13T06:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3113,6 +3113,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Europe’s shore power deadline is racing ahead of the grid",
+          "summary": "Two EU regulations will require ports to provide shore power and ships to use it from 2030. But with grid upgrades taking up to a decade, the infrastructure needed to meet the deadline is struggling to keep pace. Alex…",
+          "date": "2026-10-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/europes-shore-power-deadline-is-racing-ahead-of-the-grid/",
+          "relevant": false
+        },
+        {
           "title": "EU Targets Major Russian Shipyards in Sweeping Sanctions Expansion",
           "summary": "The European Union has imposed sanctions on some of Russia’s most important shipyards, including major submarine builders, naval ship-repair facilities and yards involved in commercial vessel construction, as part of...",
           "date": "2026-10-12",
@@ -3126,14 +3134,6 @@
           "date": "2026-10-12",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/sweden-releases-sanctioned-russian-shadow-fleet-tanker-after-seven-month-detention/",
-          "relevant": false
-        },
-        {
-          "title": "Europe’s shore power deadline is racing ahead of the grid",
-          "summary": "Two EU regulations will require ports to provide shore power and ships to use it from 2030. But with grid upgrades taking up to a decade, the infrastructure needed to meet the deadline is struggling to keep pace. Alex…",
-          "date": "2026-10-12",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/europes-shore-power-deadline-is-racing-ahead-of-the-grid/",
           "relevant": false
         },
         {
