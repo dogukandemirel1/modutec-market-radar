@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T07:00:58Z",
+  "last_updated": "2026-10-13T08:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -121,27 +121,51 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Washington teams up with ABS to accelerate nuclear shipping",
+          "summary": "The US Department of Energy (DOE) has joined forces with classification society ABS to accelerate the development of commercial nuclear-powered shipping and floating power plants. The agreement with DOE’s Office of…",
+          "date": "2026-10-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/washington-teams-up-with-abs-to-accelerate-nuclear-shipping/",
+          "relevant": false
+        },
+        {
+          "title": "Indonesia award leads new batch of Seadrill contracts",
+          "summary": "Offshore rig owner Seadrill announced contract awards and extensions for three drillships and one semisubmersible unit. The New York-listed rig owner said its 2015-built drillship, West Carina, was awarded a contract in…",
+          "date": "2026-10-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/indonesia-award-leads-new-batch-of-seadrill-contracts/",
+          "relevant": false
+        },
+        {
+          "title": "DOF lands North Sea decom contract",
+          "summary": "Norwegian offshore vessel owner DOF has won a contract with a North Sea operator to carry out a subsea decommissioning campaign. The contract scope includes project management, engineering, offshore execution, and…",
+          "date": "2026-10-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/dof-lands-north-sea-decom-contract/",
+          "relevant": false
+        },
+        {
+          "title": "North Sea operator appoints DOF for subsea decommissioning",
+          "summary": "Norway's DOF Group has been awarded a contract it describes as significant to deliver a subsea decommissioning campaign for a North Sea operator....",
+          "date": "2026-10-13",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/13/north-sea-operator-appoints-dof-for-subsea-decommissioning",
+          "relevant": false
+        },
+        {
+          "title": "Seadrill scores big with new rig awards in Asia, Africa, and US Gulf",
+          "summary": "Seadrill has secured a sweeping slate of rig deals and extensions, pushing its contracted 2027 drillship capacity past the 85% mark.",
+          "date": "2026-10-13",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/13/seadrill-scores-big-with-new-rig-awards-in-asia-africa-and-us-gulf",
+          "relevant": false
+        },
+        {
           "title": "ABS and U.S. Department of Energy Sign MOU on Maritime Applications of Advanced Nuclear Technology",
           "summary": "ABS and the U.S. Department of Energy’s (DOE) Office of Nuclear Energy have signed a memorandum of understanding to advance modern commercial nuclear technology at sea. The agreement spans floating...",
           "date": "2026-10-12",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/abs-and-u-s-department-of-energy-sign-mou-on-maritime-applications-of-advanced-nuclear-technology/",
-          "relevant": false
-        },
-        {
-          "title": "MISC lines up five more LNG carriers for Petronas",
-          "summary": "Malaysian shipping group MISC is preparing another five LNG carrier newbuildings in China after securing a fresh long-term charter award from compatriot Petronas. The Bursa Malaysia-listed owner has accepted a letter of…",
-          "date": "2026-10-12",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/misc-lines-up-five-more-lng-carriers-for-petronas/",
-          "relevant": false
-        },
-        {
-          "title": "Ship recycling drought leaves record ageing fleet afloat",
-          "summary": "Ship recycling has sunk into its longest sustained slump in more than half a century, just as the global merchant fleet accumulates an unprecedented amount of ageing tonnage. Clarksons Research calculates that just 273…",
-          "date": "2026-10-12",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/ship-recycling-drought-leaves-record-ageing-fleet-afloat/",
           "relevant": false
         },
         {
@@ -214,6 +238,22 @@
           "date": "2026-10-12",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543603-eni-agrees-indonesian-gas-asset-sales-to-pertamina-and-medco",
+          "relevant": false
+        },
+        {
+          "title": "MISC lines up five more LNG carriers for Petronas",
+          "summary": "Malaysian shipping group MISC is preparing another five LNG carrier newbuildings in China after securing a fresh long-term charter award from compatriot Petronas. The Bursa Malaysia-listed owner has accepted a letter of…",
+          "date": "2026-10-12",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/misc-lines-up-five-more-lng-carriers-for-petronas/",
+          "relevant": false
+        },
+        {
+          "title": "Ship recycling drought leaves record ageing fleet afloat",
+          "summary": "Ship recycling has sunk into its longest sustained slump in more than half a century, just as the global merchant fleet accumulates an unprecedented amount of ageing tonnage. Clarksons Research calculates that just 273…",
+          "date": "2026-10-12",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/ship-recycling-drought-leaves-record-ageing-fleet-afloat/",
           "relevant": false
         },
         {
@@ -4553,6 +4593,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "TGS expands frontier basin data coverage offshore Brazil",
+          "summary": "Oslo-listed seismic specialist TGS, in joint venture with SLB, has announced the Pelotas Sul Phase 2 multi-client 3D survey offshore southern Brazil. The survey will cover about 11,200 sq km, and a Ramform Titan-class…",
+          "date": "2026-10-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/tgs-expands-frontier-basin-data-coverage-offshore-brazil/",
+          "relevant": false
+        },
+        {
           "title": "Eni sheds partial stakes in Indonesian gas assets as Pertamina and Medco bolster portfolios",
           "summary": "Eni’s divestment move follows multi-trillion-cubic-feet gas discoveries, giving two regional firms direct stakes in fast-tracked gas developments.",
           "date": "2026-10-12",
@@ -5361,6 +5409,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "2002-built jack-up comes to Asian yard for MOPU conversion ahead of gas field deployment",
+          "summary": "A 24-year-old jack-up will undergo a rig-to-MOPU conversion before it embarks on its upcoming job at a gas development in Southeast Asia.",
+          "date": "2026-10-13",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/13/2002-built-jack-up-comes-to-asian-yard-for-mopu-conversion-ahead-of-gas-field-deployment",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Deadly Attacks on Saudi Arabia Risk Wider War That Draws In US",
           "summary": "This weekend’s deadly attacks on Riyadh’s main airport have demonstrated the ability of Yemen’s Houthis to strike at the heart of Saudi power, raising the risk of a dangerous escalation that could draw in the US.",
           "date": "2026-10-12",
@@ -5377,15 +5434,6 @@
           "source_url": "https://gcaptain.com/saudi-eyes-10-million-barrels-a-day-of-oil-pipe-capacity/",
           "relevant": true,
           "region": "KSA"
-        },
-        {
-          "title": "Yangzijiang Maritime adds kamsarmax bulkers to newbuild spree",
-          "summary": "Singapore-listed Yangzijiang Maritime Development has struck a bulk carrier newbuilding deal in China, for up to six kamsarmaxes at Jiangsu Watts Energy & Engineering. The Ren Yuanlin-led maritime investment group has…",
-          "date": "2026-10-12",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/yangzijiang-maritime-adds-kamsarmax-bulkers-to-newbuild-spree/",
-          "relevant": false,
-          "region": "SEA"
         },
         {
           "title": "Exail Starts Production of Unmanned MCM System for Indonesian Navy",
@@ -5422,6 +5470,15 @@
           "source_url": "https://www.oedigital.com/news/543601-riyadh-attacks-disrupt-oil-majors-summit-plans",
           "relevant": false,
           "region": "KSA"
+        },
+        {
+          "title": "Yangzijiang Maritime adds kamsarmax bulkers to newbuild spree",
+          "summary": "Singapore-listed Yangzijiang Maritime Development has struck a bulk carrier newbuilding deal in China, for up to six kamsarmaxes at Jiangsu Watts Energy & Engineering. The Ren Yuanlin-led maritime investment group has…",
+          "date": "2026-10-12",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/yangzijiang-maritime-adds-kamsarmax-bulkers-to-newbuild-spree/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Iran Says US Response To Its Proposal To Reopen Hormuz Was ‘Insufficient’",
