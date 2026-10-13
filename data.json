@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T11:00:55Z",
+  "last_updated": "2026-10-13T11:41:52Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -145,6 +145,14 @@
           "relevant": false
         },
         {
+          "title": "Sweden Formalizes Interim Submarine Training and Södermanland Lease for Poland",
+          "summary": "Poland and Sweden have finalized formal contracts for Polish submarine crew training and the lease of the interim A17-class boat HMS Södermanland, paving the way for the future delivery of Saab A26 submarines. The post…",
+          "date": "2026-10-13",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/sweden-formalizes-interim-submarine-training-and-sodermanland-lease-for-poland/",
+          "relevant": false
+        },
+        {
           "title": "TotalEnergies orders French tubular solutions for gas field in Azerbaijan",
           "summary": "France’s energy giant TotalEnergies has awarded compatriot Vallourec a contract to deliver over 16,000 tons of tubular products for a gas field...",
           "date": "2026-10-13",
@@ -166,6 +174,14 @@
           "date": "2026-10-13",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/13/seadrill-scores-big-with-new-rig-awards-in-asia-africa-and-us-gulf",
+          "relevant": false
+        },
+        {
+          "title": "Technip Energies wins EPC contract for HPCL Mumbai refinery upgrade",
+          "summary": "Technip Energies has secured an engineering, procurement and construction (EPC) contract from Hindustan Petroleum Corporation Limited (HPCL) for a refinery upgrade programme at its Mumbai facility in the Indian state of…",
+          "date": "2026-10-13",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/technip-epc-contract-hpcl-refinery/",
           "relevant": false
         },
         {
@@ -5457,6 +5473,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Emarat Maritime piles six more tankers onto China orderbook",
+          "summary": "Dubai-based Emarat Maritime has added another six tanker newbuildings to its rapidly expanding fleet, lining up a series of 74,000 dwt LR1 product carriers in China. The company’s own fleet register now lists six LR1…",
+          "date": "2026-10-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/emarat-maritime-piles-six-more-tankers-onto-china-orderbook/",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
           "title": "Lianson Fleet snaps up third ultramax",
           "summary": "Malaysia’s Lianson Fleet Group (LFG) has added a third ultramax bulker, paying $23m (RM93.9m) for a 2013-built Japanese vessel as it continues to expand beyond its traditional offshore support vessel business. The Bursa…",
           "date": "2026-10-13",
@@ -5498,6 +5523,15 @@
           "date": "2026-10-13",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/seadrill-deepwater-rig-awards-four-markets/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Seadrill Secures Offshore Drilling Deals Across Four Countries",
+          "summary": "Offshore drilling contractor Seadrill has secured new drilling contracts and extensions covering four rigs offshore Indonesia, Malaysia, Angola and in the U.S. Gulf…",
+          "date": "2026-10-13",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543633-seadrill-secures-offshore-drilling-deals-across-four-countries",
           "relevant": false,
           "region": "SEA"
         },
