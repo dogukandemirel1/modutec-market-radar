@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T12:01:08Z",
+  "last_updated": "2026-10-13T13:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -182,6 +182,14 @@
           "date": "2026-10-13",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/technip-epc-contract-hpcl-refinery/",
+          "relevant": false
+        },
+        {
+          "title": "IWS Fleet Hires Kongsberg Maritime to Equip Four CSOV Newbuilds",
+          "summary": "Kongsberg Maritime has secured a contract with IWS Fleet, a subsidiary of Integrated Wind Solutions (IWS), to provide vessel design and integrated technology systems…",
+          "date": "2026-10-13",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543636-iws-fleet-hires-kongsberg-maritime-to-equip-four-csov-newbuilds",
           "relevant": false
         },
         {
@@ -3209,6 +3217,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "South Korean President Hails Arctic Container Shipping Trial, but Commercial and Sanctions Questions Remain",
+          "summary": "South Korean President Lee Jae Myung welcomed the PanStar Acro and its crew home on Tuesday after the container ship completed the country’s first round-trip commercial trial through the Arctic to Europe, hailing the…",
+          "date": "2026-10-13",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/south-korean-president-hails-arctic-container-shipping-trial-but-commercial-and-sanctions-questions-remain/",
+          "relevant": false
+        },
+        {
           "title": "Sweden frees sanctioned tanker after seven months",
           "summary": "Swedish authorities have cleared an EU-sanctioned product tanker to leave the country after nearly seven months at anchor following an investigation into its registration and seaworthiness. The Swedish Transport Agency…",
           "date": "2026-10-13",
@@ -3233,14 +3249,6 @@
           "relevant": false
         },
         {
-          "title": "Sweden Releases Sanctioned Russian Shadow Fleet Tanker After Seven-Month Detention",
-          "summary": "Swedish authorities have cleared the sanctioned tanker Sea Owl 1 to leave the country after nearly seven months at anchor, following confirmation that the vessel is now legitimately registered under...",
-          "date": "2026-10-12",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/sweden-releases-sanctioned-russian-shadow-fleet-tanker-after-seven-month-detention/",
-          "relevant": false
-        },
-        {
           "title": "Ørsted expands offshore wind ROV fleet with third Saab electric subsea robot",
           "summary": "Ørsted has turned to Saab UK for a third remotely operated vehicle (ROV) to scale up underwater capabilities across its offshore wind assets.",
           "date": "2026-10-12",
@@ -3254,6 +3262,14 @@
           "date": "2026-10-12",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/eni_sells_part_of_stake_in_7_indonesian_blocks-12-oct-2026-184823-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Sweden Releases Sanctioned Russian Shadow Fleet Tanker After Seven-Month Detention",
+          "summary": "Swedish authorities have cleared the sanctioned tanker Sea Owl 1 to leave the country after nearly seven months at anchor, following confirmation that the vessel is now legitimately registered under...",
+          "date": "2026-10-12",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/sweden-releases-sanctioned-russian-shadow-fleet-tanker-after-seven-month-detention/",
           "relevant": false
         },
         {
@@ -4657,6 +4673,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "CIP Joins EDF-Led Five Estuaries Offshore Wind Development",
+          "summary": "Copenhagen Infrastructure Partners (CIP) has acquired a 25% stake in the 1.1 GW Five Estuaries offshore wind farm project in the UK from a Macquarie-led consortium…",
+          "date": "2026-10-13",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543640-cip-joins-edf-led-five-estuaries-offshore-wind-development",
+          "relevant": false
+        },
+        {
           "title": "TGS expands frontier basin data coverage offshore Brazil",
           "summary": "Oslo-listed seismic specialist TGS, in joint venture with SLB, has announced the Pelotas Sul Phase 2 multi-client 3D survey offshore southern Brazil. The survey will cover about 11,200 sq km, and a Ramform Titan-class…",
           "date": "2026-10-13",
@@ -5563,15 +5587,6 @@
           "region": "KSA"
         },
         {
-          "title": "Saudi Eyes 10 Million Barrels a Day of Oil Pipe Capacity",
-          "summary": "Saudi Arabia is looking at ways to expand its oil pipeline capacity to destinations outside the Persian Gulf to 10 million barrels a day within two to three years, said Energy Minister Prince Abdulaziz bin Salman.",
-          "date": "2026-10-12",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/saudi-eyes-10-million-barrels-a-day-of-oil-pipe-capacity/",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
           "title": "Exail Starts Production of Unmanned MCM System for Indonesian Navy",
           "summary": "Exail has begun production of the Unmanned MCM System (UMIS) for the Indonesian Navy, featuring Inspector 90 USVs, third-party integrations, and training. The post Exail Starts Production of Unmanned MCM System for…",
           "date": "2026-10-12",
@@ -5595,6 +5610,15 @@
           "date": "2026-10-12",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/saudi_says_energy_export_capability_intact-12-oct-2026-184820-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "Saudi Eyes 10 Million Barrels a Day of Oil Pipe Capacity",
+          "summary": "Saudi Arabia is looking at ways to expand its oil pipeline capacity to destinations outside the Persian Gulf to 10 million barrels a day within two to three years, said Energy Minister Prince Abdulaziz bin Salman.",
+          "date": "2026-10-12",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/saudi-eyes-10-million-barrels-a-day-of-oil-pipe-capacity/",
           "relevant": true,
           "region": "KSA"
         },
