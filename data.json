@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T21:01:01Z",
+  "last_updated": "2026-10-13T22:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5597,6 +5597,15 @@
           "source_url": "https://offshore-energy.biz/2026/10/13/2002-built-jack-up-comes-to-asian-yard-for-mopu-conversion-ahead-of-gas-field-deployment",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Saudis Tell OPEC That Oil Output Recovered from 3 Decade Low",
+          "summary": "Saudi Arabia reported to OPEC that its crude production jumped by a third last month.",
+          "date": "2026-10-13",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/saudis_tell_opec_that_oil_output_recovered_from_3_decade_low-13-oct-2026-184837-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "Murphy Announces New Startups, Exploration Success",
