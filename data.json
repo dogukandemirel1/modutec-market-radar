@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T10:01:02Z",
+  "last_updated": "2026-10-13T11:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -129,19 +129,19 @@
           "relevant": false
         },
         {
+          "title": "Bluecore takes nuclear barge plan beyond the drawing board",
+          "summary": "US maritime nuclear startup Bluecore Energy has secured low-enriched uranium for its first floating power system as it moves ahead simultaneously with fuel, regulatory and class work. The Long Beach-based company has…",
+          "date": "2026-10-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/bluecore-takes-nuclear-barge-plan-beyond-the-drawing-board/",
+          "relevant": false
+        },
+        {
           "title": "Global Ship Lease locks in $1bn loan for boxship spree",
           "summary": "New York-listed containership owner Global Ship Lease (GSL) has secured a $1bn syndicated loan facility to finance its expanding newbuilding programme. The George Youroukos-led company said the seven-year facility…",
           "date": "2026-10-13",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/global-ship-lease-locks-in-1bn-loan-for-boxship-spree/",
-          "relevant": false
-        },
-        {
-          "title": "Washington teams up with ABS to accelerate nuclear shipping",
-          "summary": "The US Department of Energy (DOE) has joined forces with classification society ABS to accelerate the development of commercial nuclear-powered shipping and floating power plants. The agreement with DOE’s Office of…",
-          "date": "2026-10-13",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/washington-teams-up-with-abs-to-accelerate-nuclear-shipping/",
           "relevant": false
         },
         {
@@ -166,6 +166,22 @@
           "date": "2026-10-13",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/13/seadrill-scores-big-with-new-rig-awards-in-asia-africa-and-us-gulf",
+          "relevant": false
+        },
+        {
+          "title": "TotalEnergies Picks Vallourec’s Tubular Solutions for Caspian Gas Field",
+          "summary": "Vallourec has been awarded a contract by TotalEnergies to supply more than 16,000 tonnes of tubular products for the development of the Absheron gas field in Azerbaijan's sector of the Caspian Sea…",
+          "date": "2026-10-13",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543632-totalenergies-picks-vallourec-s-tubular-solutions-for-caspian-gas-field",
+          "relevant": false
+        },
+        {
+          "title": "Washington teams up with ABS to accelerate nuclear shipping",
+          "summary": "The US Department of Energy (DOE) has joined forces with classification society ABS to accelerate the development of commercial nuclear-powered shipping and floating power plants. The agreement with DOE’s Office of…",
+          "date": "2026-10-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/washington-teams-up-with-abs-to-accelerate-nuclear-shipping/",
           "relevant": false
         },
         {
@@ -5440,6 +5456,24 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Lianson Fleet snaps up third ultramax",
+          "summary": "Malaysia’s Lianson Fleet Group (LFG) has added a third ultramax bulker, paying $23m (RM93.9m) for a 2013-built Japanese vessel as it continues to expand beyond its traditional offshore support vessel business. The Bursa…",
+          "date": "2026-10-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/lianson-fleet-snaps-up-third-ultramax/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Murphy Oil notches dual exploration wins in West Africa and Asia alongside Vietnam and US Gulf start-ups",
+          "summary": "Murphy Oil has paired exploration and appraisal successes with new projects being put into production mode.",
+          "date": "2026-10-13",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/13/murphy-oil-notches-dual-exploration-wins-in-west-africa-and-asia-alongside-vietnam-and-us-gulf-start-ups",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "2002-built jack-up comes to Asian yard for MOPU conversion ahead of gas field deployment",
           "summary": "A 24-year-old jack-up will undergo a rig-to-MOPU conversion before it embarks on its upcoming job at a gas development in Southeast Asia.",
