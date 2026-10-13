@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T15:01:04Z",
+  "last_updated": "2026-10-13T16:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -369,19 +369,19 @@
           "relevant": false
         },
         {
-          "title": "SLB signs 15-year digital drilling contract with TotalEnergies",
-          "summary": "SLB has entered into a 15-year agreement with TotalEnergies to provide its DrillPlan coherent well planning and engineering solutions.",
-          "date": "2026-10-09",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/slb-digital-drilling-contract-totalenergies/",
-          "relevant": false
-        },
-        {
           "title": "Raytheon wins up to $6.3bn contract for SM-3 Block IB missiles",
           "summary": "Raytheon, an RTX business, has secured a contract worth up to $6.3bn from the US Department of War for the production and sustainment of Standard Missile-3 Block IB (SM-3 IB) interceptors. The post Raytheon wins up to…",
           "date": "2026-10-09",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/raytheon-sm3-block-ib-missile/",
+          "relevant": false
+        },
+        {
+          "title": "SLB signs 15-year digital drilling contract with TotalEnergies",
+          "summary": "SLB has entered into a 15-year agreement with TotalEnergies to provide its DrillPlan coherent well planning and engineering solutions.",
+          "date": "2026-10-09",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/slb-digital-drilling-contract-totalenergies/",
           "relevant": false
         },
         {
