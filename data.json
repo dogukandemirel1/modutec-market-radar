@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T09:28:06Z",
+  "last_updated": "2026-10-14T10:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4745,14 +4745,6 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
-          "title": "CBED expands fleet with Seaway 7 CSOV",
-          "summary": "Danish offshore accommodation specialist CBED has acquired the Seaway Moxie from Seaway7, adding a fourth vessel to its fleet. The 2014-built commissioning service operation vessel (CSOV) has already been delivered and…",
-          "date": "2026-10-14",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/cbed-expands-fleet-with-seaway-7-csov/",
-          "relevant": false
-        },
-        {
           "title": "Kistos strengthens its presence in North Sea oil & gas hub with Vår Energi deal",
           "summary": "Kistos is expanding its North Sea footprint through a multimillion-dollar acquisition with Vår Energi, boosting its hydrocarbon portfolio.",
           "date": "2026-10-14",
@@ -4766,6 +4758,22 @@
           "date": "2026-10-14",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/shell-nigeria-gas-distribution-vaaris-energy/",
+          "relevant": false
+        },
+        {
+          "title": "Aventa Acquires Irish Sea Contractors to Expand Offshore Services",
+          "summary": "Aventa has acquired Irish Sea Contractors (ISC), an Ireland-based marine contractor specializing in subsea cable projects, commercial diving and marine civil engineering…",
+          "date": "2026-10-14",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543671-aventa-acquires-irish-sea-contractors-to-expand-offshore-services",
+          "relevant": false
+        },
+        {
+          "title": "CBED expands fleet with Seaway 7 CSOV",
+          "summary": "Danish offshore accommodation specialist CBED has acquired the Seaway Moxie from Seaway7, adding a fourth vessel to its fleet. The 2014-built commissioning service operation vessel (CSOV) has already been delivered and…",
+          "date": "2026-10-14",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/cbed-expands-fleet-with-seaway-7-csov/",
           "relevant": false
         },
         {
