@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T13:01:00Z",
+  "last_updated": "2026-10-14T14:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -145,8 +145,16 @@
           "relevant": false
         },
         {
+          "title": "HII wins US Navy contract for AUKUS submarine design support",
+          "summary": "Huntington Ingalls Industries has secured a $56m US Navy contract for engineering support of the AUKUS submarine programme. The post HII wins US Navy contract for AUKUS submarine design support appeared first on Naval…",
+          "date": "2026-10-14",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/hii-nns-aukus-contract/",
+          "relevant": false
+        },
+        {
           "title": "DOF Inks Extension Deal for Skandi Nomad Subsea Vessel",
-          "summary": "Norwegian offshore vessel owner DOF Group has secured a contract extension for its construction support vessel (CSV) Skandi NomadThe 12-month extension will keep…",
+          "summary": "Norwegian offshore vessel owner DOF Group has secured a contract extension for its construction support vessel (CSV) Skandi Nomad.The 12-month extension will keep…",
           "date": "2026-10-14",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543674-dof-inks-extension-deal-for-skandi-nomad-subsea-vessel",
@@ -4768,6 +4776,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "JERA deepens Australian LNG foothold with larger stake in Chevron’s project",
+          "summary": "JERA has boosted its indirect participation in Chevron's LNG project to 50.1% following a strategic share acquisition from JOGMEC.",
+          "date": "2026-10-14",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/14/jera-deepens-australian-lng-foothold-with-larger-stake-in-chevrons-project",
+          "relevant": false
+        },
         {
           "title": "French engineering company acquires Irish Sea Contractors to expand offshore wind and cable services",
           "summary": "Aventa has acquired Irish Sea Contractors (ISC) to broaden its services in subsea cable landfalls, marine infrastructure, and commercial diving...",
