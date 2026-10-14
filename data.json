@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T09:01:07Z",
+  "last_updated": "2026-10-14T09:28:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4758,6 +4758,14 @@
           "date": "2026-10-14",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/14/kistos-strengthens-its-presence-in-north-sea-oil-and-gas-hub-with-var-energi-deal",
+          "relevant": false
+        },
+        {
+          "title": "Shell agrees to divest Nigeria gas distribution arm to Vaaris Energy",
+          "summary": "Shell, via its subsidiary Shell Petroleum, has reached an agreement to divest its entire interest in the Shell Nigeria Gas Group to Nigerian energy company Vaaris Energy.",
+          "date": "2026-10-14",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/shell-nigeria-gas-distribution-vaaris-energy/",
           "relevant": false
         },
         {
