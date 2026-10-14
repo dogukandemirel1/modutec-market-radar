@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T22:00:58Z",
+  "last_updated": "2026-10-14T23:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -185,6 +185,14 @@
           "relevant": false
         },
         {
+          "title": "Sweden Formalizes Interim Submarine Training and Södermanland Lease for Poland",
+          "summary": "Poland and Sweden have finalized formal contracts for Polish submarine crew training and the lease of the interim A17-class boat HMS Södermanland, paving the way for the future delivery of Saab A26 submarines. The post…",
+          "date": "2026-10-13",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/sweden-formalizes-interim-submarine-training-and-sodermanland-lease-for-poland/",
+          "relevant": false
+        },
+        {
           "title": "TotalEnergies orders French tubular solutions for gas field in Azerbaijan",
           "summary": "France’s energy giant TotalEnergies has awarded compatriot Vallourec a contract to deliver over 16,000 tons of tubular products for a gas field...",
           "date": "2026-10-13",
@@ -230,14 +238,6 @@
           "date": "2026-10-13",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543636-iws-fleet-hires-kongsberg-maritime-to-equip-four-csov-newbuilds",
-          "relevant": false
-        },
-        {
-          "title": "Sweden Formalizes Interim Submarine Training and Södermanland Lease for Poland",
-          "summary": "Poland and Sweden have finalized formal contracts for Polish submarine crew training and the lease of the interim A17-class boat HMS Södermanland, paving the way for the future delivery of Saab A26 submarines. The post…",
-          "date": "2026-10-13",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/sweden-formalizes-interim-submarine-training-and-sodermanland-lease-for-poland/",
           "relevant": false
         },
         {
@@ -297,6 +297,22 @@
           "relevant": false
         },
         {
+          "title": "U.S. Navy to Integrate LRASM into USAF’s B-52 Strategic Bombers",
+          "summary": "The U.S. Navy plans to contract Lockheed Martin to integrate AGM-158C LRASM anti-ship missiles onto the Air Force's B-52 bombers, boosting Indo-Pacific maritime strike capabilities. The post U.S. Navy to Integrate LRASM…",
+          "date": "2026-10-12",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/u-s-navy-to-integrate-lrasm-into-usafs-b-52-strategic-bombers/",
+          "relevant": false
+        },
+        {
+          "title": "French MoD Selects Top Contenders for DANAE Armed Surface Drone Project",
+          "summary": "The French Navy and AID select three industrial teams to develop advanced armed autonomous surface drones for the DANAE armed USV project. The post French MoD Selects Top Contenders for DANAE Armed Surface Drone Project…",
+          "date": "2026-10-12",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/french-mod-selects-top-contenders-for-danae-armed-surface-drone-project/",
+          "relevant": false
+        },
+        {
           "title": "Shell and Equinor fuel $1.1 billion backlog uptick for Transocean",
           "summary": "Transocean gets its hands on a North Sea contract for a semi-submersible with Shell and a final approval for three rigs from Equinor.",
           "date": "2026-10-12",
@@ -318,22 +334,6 @@
           "date": "2026-10-12",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/eni-sell-indonesian-upstream-pertamina-medco/",
-          "relevant": false
-        },
-        {
-          "title": "U.S. Navy to Integrate LRASM into USAF’s B-52 Strategic Bombers",
-          "summary": "The U.S. Navy plans to contract Lockheed Martin to integrate AGM-158C LRASM anti-ship missiles onto the Air Force's B-52 bombers, boosting Indo-Pacific maritime strike capabilities. The post U.S. Navy to Integrate LRASM…",
-          "date": "2026-10-12",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/u-s-navy-to-integrate-lrasm-into-usafs-b-52-strategic-bombers/",
-          "relevant": false
-        },
-        {
-          "title": "French MoD Selects Top Contenders for DANAE Armed Surface Drone Project",
-          "summary": "The French Navy and AID select three industrial teams to develop advanced armed autonomous surface drones for the DANAE armed USV project. The post French MoD Selects Top Contenders for DANAE Armed Surface Drone Project…",
-          "date": "2026-10-12",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/french-mod-selects-top-contenders-for-danae-armed-surface-drone-project/",
           "relevant": false
         },
         {
