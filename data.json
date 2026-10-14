@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T07:00:58Z",
+  "last_updated": "2026-10-14T08:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -129,22 +129,6 @@
           "relevant": false
         },
         {
-          "title": "Pertamina and Medco take slices of Eni’s Indonesia offshore assets",
-          "summary": "Italian giant Eni has agreed to sell 10% interests in seven offshore production sharing contracts in Indonesia to Pertamina and MedcoEnergi as it reshapes its portfolio after creating its Searah joint venture with…",
-          "date": "2026-10-13",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/pertamina-and-medco-take-slices-of-enis-indonesia-offshore-assets/",
-          "relevant": false
-        },
-        {
-          "title": "Bluecore takes nuclear barge plan beyond the drawing board",
-          "summary": "US maritime nuclear startup Bluecore Energy has secured low-enriched uranium for its first floating power system as it moves ahead simultaneously with fuel, regulatory and class work. The Long Beach-based company has…",
-          "date": "2026-10-13",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/bluecore-takes-nuclear-barge-plan-beyond-the-drawing-board/",
-          "relevant": false
-        },
-        {
           "title": "TotalEnergies taps Vallourec for 16,000 tons of tubulars in the Caspian Sea",
           "summary": "TotalEnergies awarded Vallourec a contract to supply oil country tubular goods (OCTG) and line pipe for the Absheron gas field in the Azerbaijani sector of the Caspian Sea. The package totals more than 16,000 tons of…",
           "date": "2026-10-13",
@@ -214,6 +198,22 @@
           "date": "2026-10-13",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543632-totalenergies-picks-vallourec-s-tubular-solutions-for-caspian-gas-field",
+          "relevant": false
+        },
+        {
+          "title": "Pertamina and Medco take slices of Eni’s Indonesia offshore assets",
+          "summary": "Italian giant Eni has agreed to sell 10% interests in seven offshore production sharing contracts in Indonesia to Pertamina and MedcoEnergi as it reshapes its portfolio after creating its Searah joint venture with…",
+          "date": "2026-10-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/pertamina-and-medco-take-slices-of-enis-indonesia-offshore-assets/",
+          "relevant": false
+        },
+        {
+          "title": "Bluecore takes nuclear barge plan beyond the drawing board",
+          "summary": "US maritime nuclear startup Bluecore Energy has secured low-enriched uranium for its first floating power system as it moves ahead simultaneously with fuel, regulatory and class work. The Long Beach-based company has…",
+          "date": "2026-10-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/bluecore-takes-nuclear-barge-plan-beyond-the-drawing-board/",
           "relevant": false
         },
         {
@@ -3249,6 +3249,14 @@
           "relevant": false
         },
         {
+          "title": "Germany Puts Ukrainian Ex-Officer on Trial Over Nord Stream Attack",
+          "summary": "A Ukrainian ex-military officer goes on trial in Germany on Wednesday, accused of organising the secret operation that blew up the Nord Stream gas pipelines in September 2022…",
+          "date": "2026-10-14",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543663-germany-puts-ukrainian-ex-officer-on-trial-over-nord-stream-attack",
+          "relevant": false
+        },
+        {
           "title": "Port of Los Angeles Sets All-Time Cargo Record as Imports Surge",
           "summary": "The Port of Los Angeles handled a record 1,042,652 twenty-foot equivalent units (TEUs) in September, marking the busiest month in its 118-year history as strong consumer demand and shifting global...",
           "date": "2026-10-13",
@@ -5568,6 +5576,24 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Pacifico Energy launches survey campaign for 1.8 GW offshore wind projects in Vietnam",
+          "summary": "Pacifico Energy Vietnam has launched an offshore technical survey campaign for two projects with a combined capacity of 1.8 GW, following the...",
+          "date": "2026-10-14",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/14/pacifico-energy-launches-survey-campaign-for-18-gw-offshore-wind-projects-in-vietnam",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Aramco HQ Hit as Houthis Escalate Attacks",
+          "summary": "A limited fire erupted at Aramco's office complex in Dhahran and there were no casualties, Saudi authorities said.",
+          "date": "2026-10-14",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/aramco_hq_hit_as_houthis_escalate_attacks-14-oct-2026-184842-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
+        },
         {
           "title": "Emarat Maritime piles six more tankers onto China orderbook",
           "summary": "Dubai-based Emarat Maritime has added another six tanker newbuildings to its rapidly expanding fleet, lining up a series of 74,000 dwt LR1 product carriers in China. The company’s own fleet register now lists six LR1…",
