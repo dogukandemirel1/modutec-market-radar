@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T20:00:58Z",
+  "last_updated": "2026-10-14T21:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3318,6 +3318,14 @@
           "date": "2026-10-14",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/14/petrobras-lands-dollar859-million-payout-from-oil-fields-deal-with-shell-totalenergies-and-petrogal",
+          "relevant": false
+        },
+        {
+          "title": "Oil Gains as Global Supply Risks Mount",
+          "summary": "Oil gained amid renewed supply disruptions, rising shipping costs and continued pressure on global fuel markets.",
+          "date": "2026-10-14",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/oil_gains_as_global_supply_risks_mount-14-oct-2026-184852-article/?rss=true",
           "relevant": false
         },
         {
