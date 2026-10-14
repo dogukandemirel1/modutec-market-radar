@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T04:00:56Z",
+  "last_updated": "2026-10-14T05:01:08Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -161,30 +161,6 @@
           "relevant": false
         },
         {
-          "title": "TotalEnergies orders French tubular solutions for gas field in Azerbaijan",
-          "summary": "France’s energy giant TotalEnergies has awarded compatriot Vallourec a contract to deliver over 16,000 tons of tubular products for a gas field...",
-          "date": "2026-10-13",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/13/totalenergies-orders-french-tubular-solutions-for-gas-field-in-azerbaijan",
-          "relevant": false
-        },
-        {
-          "title": "North Sea operator appoints DOF for subsea decommissioning",
-          "summary": "Norway's DOF Group has been awarded a contract it describes as significant to deliver a subsea decommissioning campaign for a North Sea operator....",
-          "date": "2026-10-13",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/13/north-sea-operator-appoints-dof-for-subsea-decommissioning",
-          "relevant": false
-        },
-        {
-          "title": "Seadrill scores big with new rig awards in Asia, Africa, and US Gulf",
-          "summary": "Seadrill has secured a sweeping slate of rig deals and extensions, pushing its contracted 2027 drillship capacity past the 85% mark.",
-          "date": "2026-10-13",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/13/seadrill-scores-big-with-new-rig-awards-in-asia-africa-and-us-gulf",
-          "relevant": false
-        },
-        {
           "title": "Equinor Bags New Contract to Supply Dutch with Norwegian Gas",
           "summary": "Equinor and Eneco have now signed three agreements this year for gas supply to the Netherlands and Germany.",
           "date": "2026-10-13",
@@ -214,6 +190,30 @@
           "date": "2026-10-13",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543632-totalenergies-picks-vallourec-s-tubular-solutions-for-caspian-gas-field",
+          "relevant": false
+        },
+        {
+          "title": "TotalEnergies orders French tubular solutions for gas field in Azerbaijan",
+          "summary": "France’s energy giant TotalEnergies has awarded compatriot Vallourec a contract to deliver over 16,000 tons of tubular products for a gas field...",
+          "date": "2026-10-13",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/13/totalenergies-orders-french-tubular-solutions-for-gas-field-in-azerbaijan",
+          "relevant": false
+        },
+        {
+          "title": "North Sea operator appoints DOF for subsea decommissioning",
+          "summary": "Norway's DOF Group has been awarded a contract it describes as significant to deliver a subsea decommissioning campaign for a North Sea operator....",
+          "date": "2026-10-13",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/13/north-sea-operator-appoints-dof-for-subsea-decommissioning",
+          "relevant": false
+        },
+        {
+          "title": "Seadrill scores big with new rig awards in Asia, Africa, and US Gulf",
+          "summary": "Seadrill has secured a sweeping slate of rig deals and extensions, pushing its contracted 2027 drillship capacity past the 85% mark.",
+          "date": "2026-10-13",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/13/seadrill-scores-big-with-new-rig-awards-in-asia-africa-and-us-gulf",
           "relevant": false
         },
         {
@@ -257,14 +257,6 @@
           "relevant": false
         },
         {
-          "title": "Shell and Equinor fuel $1.1 billion backlog uptick for Transocean",
-          "summary": "Transocean gets its hands on a North Sea contract for a semi-submersible with Shell and a final approval for three rigs from Equinor.",
-          "date": "2026-10-12",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/12/shell-and-equinor-fuel-dollar11-billion-backlog-uptick-for-transocean",
-          "relevant": false
-        },
-        {
           "title": "Eni to sell Indonesian upstream stakes to Pertamina and Medco",
           "summary": "Eni has finalised two binding deals to offload minority stakes in upstream Indonesian acreage to Pertamina and Medco.",
           "date": "2026-10-12",
@@ -302,6 +294,14 @@
           "date": "2026-10-12",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543610-oeg-to-supply-temporary-power-for-hornsea-3-offshore-wind-farm-buildout",
+          "relevant": false
+        },
+        {
+          "title": "Shell and Equinor fuel $1.1 billion backlog uptick for Transocean",
+          "summary": "Transocean gets its hands on a North Sea contract for a semi-submersible with Shell and a final approval for three rigs from Equinor.",
+          "date": "2026-10-12",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/12/shell-and-equinor-fuel-dollar11-billion-backlog-uptick-for-transocean",
           "relevant": false
         },
         {
@@ -369,19 +369,19 @@
           "relevant": false
         },
         {
-          "title": "More work with Petrobras increases Brazilian firm's backlog to over $2 billion",
-          "summary": "Brazil’s oil & gas giant Petrobras has awarded a new long-term contract to compatriot company Oceânica Engenharia e Consultoria for work...",
-          "date": "2026-10-09",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/09/more-work-with-petrobras-increases-brazilian-firms-backlog-to-over-dollar2-billion",
-          "relevant": false
-        },
-        {
           "title": "Raytheon wins up to $6.3bn contract for SM-3 Block IB missiles",
           "summary": "Raytheon, an RTX business, has secured a contract worth up to $6.3bn from the US Department of War for the production and sustainment of Standard Missile-3 Block IB (SM-3 IB) interceptors. The post Raytheon wins up to…",
           "date": "2026-10-09",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/raytheon-sm3-block-ib-missile/",
+          "relevant": false
+        },
+        {
+          "title": "More work with Petrobras increases Brazilian firm's backlog to over $2 billion",
+          "summary": "Brazil’s oil & gas giant Petrobras has awarded a new long-term contract to compatriot company Oceânica Engenharia e Consultoria for work...",
+          "date": "2026-10-09",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/09/more-work-with-petrobras-increases-brazilian-firms-backlog-to-over-dollar2-billion",
           "relevant": false
         },
         {
@@ -441,14 +441,6 @@
           "relevant": false
         },
         {
-          "title": "Subsea7 contracts EnerMech for Trinidad and Tobago's subsea development",
-          "summary": "Aberdeen-headquartered integrated solutions specialist EnerMech has secured a contract with Subsea7 to deliver pre-commissioning services for a...",
-          "date": "2026-10-08",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/08/subsea7-contracts-enermech-for-trinidad-and-tobagos-subsea-development",
-          "relevant": true
-        },
-        {
           "title": "Textron wins $230m US Navy order for two Ship-to-Shore Connectors",
           "summary": "Textron Systems has received a $230m contract modification from the US Navy to produce two Ship-to-Shore Connector (SSC) craft. The post Textron wins $230m US Navy order for two Ship-to-Shore Connectors appeared first…",
           "date": "2026-10-08",
@@ -463,6 +455,14 @@
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/x-bow-us-navy-solid-rocket/",
           "relevant": false
+        },
+        {
+          "title": "Subsea7 contracts EnerMech for Trinidad and Tobago's subsea development",
+          "summary": "Aberdeen-headquartered integrated solutions specialist EnerMech has secured a contract with Subsea7 to deliver pre-commissioning services for a...",
+          "date": "2026-10-08",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/08/subsea7-contracts-enermech-for-trinidad-and-tobagos-subsea-development",
+          "relevant": true
         },
         {
           "title": "TotalEnergies moves well planning to SLB’s DrillPlan platform worldwide",
@@ -3281,19 +3281,19 @@
           "relevant": false
         },
         {
-          "title": "Ørsted expands offshore wind ROV fleet with third Saab electric subsea robot",
-          "summary": "Ørsted has turned to Saab UK for a third remotely operated vehicle (ROV) to scale up underwater capabilities across its offshore wind assets.",
-          "date": "2026-10-12",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/12/orsted-expands-offshore-wind-rov-fleet-with-third-saab-electric-subsea-robot",
-          "relevant": false
-        },
-        {
           "title": "Eni Sells Part of Stake in 7 Indonesian Blocks",
           "summary": "'Pertamina's participation as the national oil and gas company in these assets is expected to directly support and accelerate the Kutei North Hub Project (North Ganal and Rapak blocks)'.",
           "date": "2026-10-12",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/eni_sells_part_of_stake_in_7_indonesian_blocks-12-oct-2026-184823-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Ørsted expands offshore wind ROV fleet with third Saab electric subsea robot",
+          "summary": "Ørsted has turned to Saab UK for a third remotely operated vehicle (ROV) to scale up underwater capabilities across its offshore wind assets.",
+          "date": "2026-10-12",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/12/orsted-expands-offshore-wind-rov-fleet-with-third-saab-electric-subsea-robot",
           "relevant": false
         },
         {
@@ -4737,14 +4737,6 @@
           "relevant": false
         },
         {
-          "title": "Eni sheds partial stakes in Indonesian gas assets as Pertamina and Medco bolster portfolios",
-          "summary": "Eni’s divestment move follows multi-trillion-cubic-feet gas discoveries, giving two regional firms direct stakes in fast-tracked gas developments.",
-          "date": "2026-10-12",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/12/eni-sheds-partial-stakes-in-indonesian-gas-assets-as-pertamina-and-medco-bolster-portfolios",
-          "relevant": false
-        },
-        {
           "title": "TotalEnergies, KKR Add 700 MW to US Solar JV",
           "summary": "TotalEnergies and KKR agreed to expand their 50:50 solar joint venture in the United States to 2,100 megawatts.",
           "date": "2026-10-12",
@@ -4758,6 +4750,14 @@
           "date": "2026-10-12",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/matador_completes_ridge_runner_acquisition_from_encap-12-oct-2026-184828-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Eni sheds partial stakes in Indonesian gas assets as Pertamina and Medco bolster portfolios",
+          "summary": "Eni’s divestment move follows multi-trillion-cubic-feet gas discoveries, giving two regional firms direct stakes in fast-tracked gas developments.",
+          "date": "2026-10-12",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/12/eni-sheds-partial-stakes-in-indonesian-gas-assets-as-pertamina-and-medco-bolster-portfolios",
           "relevant": false
         },
         {
@@ -5572,24 +5572,6 @@
           "region": "SEA"
         },
         {
-          "title": "Murphy Oil notches dual exploration wins in West Africa and Asia alongside Vietnam and US Gulf start-ups",
-          "summary": "Murphy Oil has paired exploration and appraisal successes with new projects being put into production mode.",
-          "date": "2026-10-13",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/13/murphy-oil-notches-dual-exploration-wins-in-west-africa-and-asia-alongside-vietnam-and-us-gulf-start-ups",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "2002-built jack-up comes to Asian yard for MOPU conversion ahead of gas field deployment",
-          "summary": "A 24-year-old jack-up will undergo a rig-to-MOPU conversion before it embarks on its upcoming job at a gas development in Southeast Asia.",
-          "date": "2026-10-13",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/13/2002-built-jack-up-comes-to-asian-yard-for-mopu-conversion-ahead-of-gas-field-deployment",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Saudis Tell OPEC That Oil Output Recovered from 3 Decade Low",
           "summary": "Saudi Arabia reported to OPEC that its crude production jumped by a third last month.",
           "date": "2026-10-13",
@@ -5649,6 +5631,24 @@
           "date": "2026-10-13",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543628-murphy-oil-finds-more-oil-offshore-vietnam-c-te-d-ivoire",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Murphy Oil notches dual exploration wins in West Africa and Asia alongside Vietnam and US Gulf start-ups",
+          "summary": "Murphy Oil has paired exploration and appraisal successes with new projects being put into production mode.",
+          "date": "2026-10-13",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/13/murphy-oil-notches-dual-exploration-wins-in-west-africa-and-asia-alongside-vietnam-and-us-gulf-start-ups",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "2002-built jack-up comes to Asian yard for MOPU conversion ahead of gas field deployment",
+          "summary": "A 24-year-old jack-up will undergo a rig-to-MOPU conversion before it embarks on its upcoming job at a gas development in Southeast Asia.",
+          "date": "2026-10-13",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/13/2002-built-jack-up-comes-to-asian-yard-for-mopu-conversion-ahead-of-gas-field-deployment",
           "relevant": false,
           "region": "SEA"
         },
