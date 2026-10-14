@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T17:01:06Z",
+  "last_updated": "2026-10-14T18:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -121,14 +121,6 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Tsakos returns to containership contracting in China",
-          "summary": "Greek shipping group Tsakos has returned to the containership newbuilding market, emerging behind an order for two 3,200 teu vessels at China’s Hengli Heavy Industries. The pair appear in the Athens-based owner’s latest…",
-          "date": "2026-10-14",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/tsakos-returns-to-containership-contracting-in-china/",
-          "relevant": false
-        },
-        {
           "title": "2010-built DOF CSV wins one-year contract extension",
           "summary": "Norway's DOF Group has secured a contract extension for its construction support vessel (CSV) Skandi Nomad. In October 2025, Skandi Nomad's...",
           "date": "2026-10-14",
@@ -145,6 +137,14 @@
           "relevant": false
         },
         {
+          "title": "SAFE wins US Marine Corps contract for MULE expeditionary platforms",
+          "summary": "SAFE Structure Designs (SAFE) has secured a contract worth more than $10m to supply its Multi-Utility LoadEr (MULE) expeditionary logistics platforms to the United States Marine Corps. The post SAFE wins US Marine Corps…",
+          "date": "2026-10-14",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/safe-us-marine-corps-mule/",
+          "relevant": false
+        },
+        {
           "title": "HII wins US Navy contract for AUKUS submarine design support",
           "summary": "Huntington Ingalls Industries has secured a $56m US Navy contract for engineering support of the AUKUS submarine programme. The post HII wins US Navy contract for AUKUS submarine design support appeared first on Naval…",
           "date": "2026-10-14",
@@ -158,6 +158,14 @@
           "date": "2026-10-14",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543674-dof-inks-extension-deal-for-skandi-nomad-subsea-vessel",
+          "relevant": false
+        },
+        {
+          "title": "Tsakos returns to containership contracting in China",
+          "summary": "Greek shipping group Tsakos has returned to the containership newbuilding market, emerging behind an order for two 3,200 teu vessels at China’s Hengli Heavy Industries. The pair appear in the Athens-based owner’s latest…",
+          "date": "2026-10-14",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/tsakos-returns-to-containership-contracting-in-china/",
           "relevant": false
         },
         {
