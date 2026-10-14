@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T16:00:59Z",
+  "last_updated": "2026-10-14T17:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -134,6 +134,14 @@
           "date": "2026-10-14",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/14/2010-built-dof-csv-wins-one-year-contract-extension",
+          "relevant": false
+        },
+        {
+          "title": "Hallador Bags $700MM Contract to Supply MISO Utility",
+          "summary": "Hallador signed a $700-million agreement to supply a utility operating in MISO Zone 6 from the Merom Generating Station in Sullivan County, Indiana.",
+          "date": "2026-10-14",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/hallador_bags_700mm_contract_to_supply_miso_utility-14-oct-2026-184851-article/?rss=true",
           "relevant": false
         },
         {
@@ -3273,6 +3281,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "U.S. Shipping Regulator Proposes $200,000 Fees on Spanish Ships Over Port Ban",
+          "summary": "The U.S. Federal Maritime Commission (FMC) is proposing $200,000 fees on Spanish-flagged vessels entering American ports, along with restrictions on billions of dollars in Spanish imports, after concluding that…",
+          "date": "2026-10-14",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/u-s-shipping-regulator-proposes-200000-fees-on-spanish-ships-over-port-ban/",
+          "relevant": false
+        },
+        {
           "title": "Hormuz shock briefly makes biofuel the cheapest bunker option",
           "summary": "The upheaval in global energy markets caused by the war in the Middle East has produced an unexpected winner in the marine fuels market, with biodiesel briefly emerging as the cheapest bunkering option in Rotterdam once…",
           "date": "2026-10-14",
@@ -4809,6 +4825,14 @@
           "relevant": false
         },
         {
+          "title": "Centalion Boosts Haynesville Presence with Silver Hill Acquisition",
+          "summary": "'On a pro-forma basis, Centalion's Haynesville footprint ranks as one of the largest amongst private operators and positions it as a significant market participant in the U.S. natural gas market'.",
+          "date": "2026-10-14",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/centalion_boosts_haynesville_presence_with_silver_hill_acquisition-14-oct-2026-184850-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "Shell agrees to divest Nigeria gas distribution arm to Vaaris Energy",
           "summary": "Shell, via its subsidiary Shell Petroleum, has reached an agreement to divest its entire interest in the Shell Nigeria Gas Group to Nigerian energy company Vaaris Energy.",
           "date": "2026-10-14",
@@ -5665,6 +5689,24 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Yemen’s Houthis Vow More Attacks on Saudi Airports, Oil Facilities After Aramco HQ Hit",
+          "summary": "Yemen's Houthis vowed on Wednesday to press on with attacks on airports and oil facilities in Saudi Arabia, a day after a strike that sources said caused extensive damage to the headquarters of oil giant Saudi…",
+          "date": "2026-10-14",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/yemens-houthis-vow-more-attacks-on-saudi-airports-oil-facilities-after-aramco-hq-hit/",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "Containership Sinks as Hormuz Attacks Spiral Out of Control",
+          "summary": "A Singapore-flagged containership has sunk after being struck by a projectile in the Strait of Hormuz, as a widening series of attacks on merchant shipping raises fresh questions about U.S....",
+          "date": "2026-10-14",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/containership-sinks-as-hormuz-attacks-spiral-out-of-control/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "India’s Aegis takes over Dubai tanker and logistics group Tristar",
           "summary": "India’s Aegis Logistics has struck a deal to acquire 89.8% of Dubai-based Tristar for $809m, taking control of a global energy logistics group with a sizeable tanker and dry bulk shipping operation. The Mumbai-listed…",
           "date": "2026-10-14",
@@ -5684,7 +5726,7 @@
         },
         {
           "title": "Aramco HQ Hit as Houthis Escalate Attacks",
-          "summary": "A limited fire erupted at Aramco's office complex in Dhahran and there were no casualties, Saudi authorities said.",
+          "summary": "Oil production operations have not been affected by the attack, according to a source familiar with the matter.",
           "date": "2026-10-14",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/aramco_hq_hit_as_houthis_escalate_attacks-14-oct-2026-184842-article/?rss=true",
