@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T14:00:59Z",
+  "last_updated": "2026-10-14T16:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -129,14 +129,6 @@
           "relevant": false
         },
         {
-          "title": "The floating container platform turning heads",
-          "summary": "Every so often a ship comes along that makes even seasoned shipping watchers look twice. Meet the Fan Zhou 8, an extraordinary floating container platform that has just carried more than 3,000 teu out of China…",
-          "date": "2026-10-14",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/the-floating-container-platform-turning-heads/",
-          "relevant": false
-        },
-        {
           "title": "2010-built DOF CSV wins one-year contract extension",
           "summary": "Norway's DOF Group has secured a contract extension for its construction support vessel (CSV) Skandi Nomad. In October 2025, Skandi Nomad's...",
           "date": "2026-10-14",
@@ -158,6 +150,14 @@
           "date": "2026-10-14",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543674-dof-inks-extension-deal-for-skandi-nomad-subsea-vessel",
+          "relevant": false
+        },
+        {
+          "title": "The floating container platform turning heads",
+          "summary": "Every so often a ship comes along that makes even seasoned shipping watchers look twice. Meet the Fan Zhou 8, an extraordinary floating container platform that has just carried more than 3,000 teu out of China…",
+          "date": "2026-10-14",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/the-floating-container-platform-turning-heads/",
           "relevant": false
         },
         {
@@ -289,19 +289,19 @@
           "relevant": false
         },
         {
-          "title": "Eni to sell Indonesian upstream stakes to Pertamina and Medco",
-          "summary": "Eni has finalised two binding deals to offload minority stakes in upstream Indonesian acreage to Pertamina and Medco.",
-          "date": "2026-10-12",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/eni-sell-indonesian-upstream-pertamina-medco/",
-          "relevant": false
-        },
-        {
           "title": "US Coast Guard orders four MQ-9B drones in $247.8m deal",
           "summary": "The US Coast Guard has ordered four MQ-9B long-range uncrewed aircraft systems from General Atomics under a $247.8m US Customs and Border Protection contract. The post US Coast Guard orders four MQ-9B drones in $247.8m…",
           "date": "2026-10-12",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/us-coast-guard-mq9b/",
+          "relevant": false
+        },
+        {
+          "title": "Eni to sell Indonesian upstream stakes to Pertamina and Medco",
+          "summary": "Eni has finalised two binding deals to offload minority stakes in upstream Indonesian acreage to Pertamina and Medco.",
+          "date": "2026-10-12",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/eni-sell-indonesian-upstream-pertamina-medco/",
           "relevant": false
         },
         {
@@ -393,22 +393,6 @@
           "relevant": false
         },
         {
-          "title": "Transocean Norge wins two-well Norske Shell contract in Norway",
-          "summary": "Transocean won a two-well contract with Shell for the Transocean Norge semisubmersible in Norway. The estimated 120 days of work is expected to begin in direct continuation of the rig’s previously awarded programs in…",
-          "date": "2026-10-09",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/transocean-norge-wins-two-well-norske-shell-contract-in-norway-80313",
-          "relevant": false
-        },
-        {
-          "title": "Weatherford expands Equinor role with completions award on Norwegian Continental Shelf",
-          "summary": "Weatherford secured a two-year extension across several strategic frame agreements with Equinor and was selected as the primary provider of completion systems for the Statfjord and Oseberg licenses on the Norwegian…",
-          "date": "2026-10-09",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/weatherford-expands-equinor-role-with-completions-award-on-norwegian-continental-shelf-80311",
-          "relevant": false
-        },
-        {
           "title": "More work with Petrobras increases Brazilian firm's backlog to over $2 billion",
           "summary": "Brazil’s oil & gas giant Petrobras has awarded a new long-term contract to compatriot company Oceânica Engenharia e Consultoria for work...",
           "date": "2026-10-09",
@@ -422,6 +406,22 @@
           "date": "2026-10-09",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/raytheon-sm3-block-ib-missile/",
+          "relevant": false
+        },
+        {
+          "title": "Transocean Norge wins two-well Norske Shell contract in Norway",
+          "summary": "Transocean won a two-well contract with Shell for the Transocean Norge semisubmersible in Norway. The estimated 120 days of work is expected to begin in direct continuation of the rig’s previously awarded programs in…",
+          "date": "2026-10-09",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/transocean-norge-wins-two-well-norske-shell-contract-in-norway-80313",
+          "relevant": false
+        },
+        {
+          "title": "Weatherford expands Equinor role with completions award on Norwegian Continental Shelf",
+          "summary": "Weatherford secured a two-year extension across several strategic frame agreements with Equinor and was selected as the primary provider of completion systems for the Statfjord and Oseberg licenses on the Norwegian…",
+          "date": "2026-10-09",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/weatherford-expands-equinor-role-with-completions-award-on-norwegian-continental-shelf-80311",
           "relevant": false
         },
         {
@@ -3281,6 +3281,14 @@
           "relevant": false
         },
         {
+          "title": "Predator completes MOU-6 drilling in Morocco, gets Snowcap-3 approval in Trinidad",
+          "summary": "Predator Oil & Gas drilled the MOU-6 well in its Guercif license in Morocco to a planned total depth of 950 m within the 20-day guidance, penetrating a gross upper interval of 21.2 m in the TGB-6 Submarine Fan. The well…",
+          "date": "2026-10-14",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/predator-completes-mou-6-drilling-in-morocco-gets-snowcap-3-approval-in-trinidad-80339",
+          "relevant": false
+        },
+        {
           "title": "Petrobras lands $859 million payout from oil fields deal with Shell, TotalEnergies, and Petrogal",
           "summary": "This deal enables Petrobras to reconcile historical costs and production revenues for two deepwater assets in the Santos Basin offshore Brazil.",
           "date": "2026-10-14",
@@ -3385,19 +3393,19 @@
           "relevant": false
         },
         {
-          "title": "Crescent Energy adds Karnes Trough position with Devon Eagle Ford deal",
-          "summary": "Crescent Energy agreed to acquire Eagle Ford assets from Devon Energy for an estimated net purchase price of about $3.85 billion, adding oil-weighted production and inventory adjacent to its existing operations. The…",
-          "date": "2026-10-09",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/crescent-energy-adds-karnes-trough-position-with-devon-eagle-ford-deal-80308",
-          "relevant": false
-        },
-        {
           "title": "US approves possible $300m Tomahawk planning system sale to Australia",
           "summary": "The US Department of State has approved a possible $300m Foreign Military Sale to Australia for Tomahawk capability development and associated support. The post US approves possible $300m Tomahawk planning system sale…",
           "date": "2026-10-09",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/us-australia-tomahawk-sale/",
+          "relevant": false
+        },
+        {
+          "title": "Crescent Energy adds Karnes Trough position with Devon Eagle Ford deal",
+          "summary": "Crescent Energy agreed to acquire Eagle Ford assets from Devon Energy for an estimated net purchase price of about $3.85 billion, adding oil-weighted production and inventory adjacent to its existing operations. The…",
+          "date": "2026-10-09",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/crescent-energy-adds-karnes-trough-position-with-devon-eagle-ford-deal-80308",
           "relevant": false
         },
         {
@@ -5738,20 +5746,20 @@
           "region": "SEA"
         },
         {
-          "title": "Seadrill secures deepwater rig awards across four markets",
-          "summary": "Offshore drilling contractor Seadrill has secured a series of contract awards and extensions for its deepwater fleet in Indonesia, Malaysia, Angola, and the US Gulf of Mexico.",
-          "date": "2026-10-13",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/seadrill-deepwater-rig-awards-four-markets/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Seadrill Secures Offshore Drilling Deals Across Four Countries",
           "summary": "Offshore drilling contractor Seadrill has secured new drilling contracts and extensions covering four rigs offshore Indonesia, Malaysia, Angola and in the U.S. Gulf…",
           "date": "2026-10-13",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543633-seadrill-secures-offshore-drilling-deals-across-four-countries",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Seadrill secures deepwater rig awards across four markets",
+          "summary": "Offshore drilling contractor Seadrill has secured a series of contract awards and extensions for its deepwater fleet in Indonesia, Malaysia, Angola, and the US Gulf of Mexico.",
+          "date": "2026-10-13",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/seadrill-deepwater-rig-awards-four-markets/",
           "relevant": false,
           "region": "SEA"
         },
