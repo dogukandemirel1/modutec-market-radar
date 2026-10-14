@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T21:00:55Z",
+  "last_updated": "2026-10-14T22:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5739,6 +5739,15 @@
           "source_url": "https://offshore-energy.biz/2026/10/14/pacifico-energy-launches-survey-campaign-for-18-gw-offshore-wind-projects-in-vietnam",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Aramco's New China Refinery Venture Gets 1st Crude Cargo",
+          "summary": "Saudi Aramco and its local partners have received the first crude cargo for their new refining complex in China.",
+          "date": "2026-10-14",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/aramcos_new_china_refinery_venture_gets_1st_crude_cargo-14-oct-2026-184848-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "Aramco HQ Hit as Houthis Escalate Attacks",
