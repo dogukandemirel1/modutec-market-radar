@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T12:01:01Z",
+  "last_updated": "2026-10-14T13:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -161,14 +161,6 @@
           "relevant": false
         },
         {
-          "title": "Sweden Formalizes Interim Submarine Training and Södermanland Lease for Poland",
-          "summary": "Poland and Sweden have finalized formal contracts for Polish submarine crew training and the lease of the interim A17-class boat HMS Södermanland, paving the way for the future delivery of Saab A26 submarines. The post…",
-          "date": "2026-10-13",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/sweden-formalizes-interim-submarine-training-and-sodermanland-lease-for-poland/",
-          "relevant": false
-        },
-        {
           "title": "TotalEnergies orders French tubular solutions for gas field in Azerbaijan",
           "summary": "France’s energy giant TotalEnergies has awarded compatriot Vallourec a contract to deliver over 16,000 tons of tubular products for a gas field...",
           "date": "2026-10-13",
@@ -214,6 +206,14 @@
           "date": "2026-10-13",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543636-iws-fleet-hires-kongsberg-maritime-to-equip-four-csov-newbuilds",
+          "relevant": false
+        },
+        {
+          "title": "Sweden Formalizes Interim Submarine Training and Södermanland Lease for Poland",
+          "summary": "Poland and Sweden have finalized formal contracts for Polish submarine crew training and the lease of the interim A17-class boat HMS Södermanland, paving the way for the future delivery of Saab A26 submarines. The post…",
+          "date": "2026-10-13",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/sweden-formalizes-interim-submarine-training-and-sodermanland-lease-for-poland/",
           "relevant": false
         },
         {
@@ -273,22 +273,6 @@
           "relevant": false
         },
         {
-          "title": "U.S. Navy to Integrate LRASM into USAF’s B-52 Strategic Bombers",
-          "summary": "The U.S. Navy plans to contract Lockheed Martin to integrate AGM-158C LRASM anti-ship missiles onto the Air Force's B-52 bombers, boosting Indo-Pacific maritime strike capabilities. The post U.S. Navy to Integrate LRASM…",
-          "date": "2026-10-12",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/u-s-navy-to-integrate-lrasm-into-usafs-b-52-strategic-bombers/",
-          "relevant": false
-        },
-        {
-          "title": "French MoD Selects Top Contenders for DANAE Armed Surface Drone Project",
-          "summary": "The French Navy and AID select three industrial teams to develop advanced armed autonomous surface drones for the DANAE armed USV project. The post French MoD Selects Top Contenders for DANAE Armed Surface Drone Project…",
-          "date": "2026-10-12",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/french-mod-selects-top-contenders-for-danae-armed-surface-drone-project/",
-          "relevant": false
-        },
-        {
           "title": "Shell and Equinor fuel $1.1 billion backlog uptick for Transocean",
           "summary": "Transocean gets its hands on a North Sea contract for a semi-submersible with Shell and a final approval for three rigs from Equinor.",
           "date": "2026-10-12",
@@ -310,6 +294,22 @@
           "date": "2026-10-12",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/us-coast-guard-mq9b/",
+          "relevant": false
+        },
+        {
+          "title": "U.S. Navy to Integrate LRASM into USAF’s B-52 Strategic Bombers",
+          "summary": "The U.S. Navy plans to contract Lockheed Martin to integrate AGM-158C LRASM anti-ship missiles onto the Air Force's B-52 bombers, boosting Indo-Pacific maritime strike capabilities. The post U.S. Navy to Integrate LRASM…",
+          "date": "2026-10-12",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/u-s-navy-to-integrate-lrasm-into-usafs-b-52-strategic-bombers/",
+          "relevant": false
+        },
+        {
+          "title": "French MoD Selects Top Contenders for DANAE Armed Surface Drone Project",
+          "summary": "The French Navy and AID select three industrial teams to develop advanced armed autonomous surface drones for the DANAE armed USV project. The post French MoD Selects Top Contenders for DANAE Armed Surface Drone Project…",
+          "date": "2026-10-12",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/french-mod-selects-top-contenders-for-danae-armed-surface-drone-project/",
           "relevant": false
         },
         {
@@ -5785,15 +5785,6 @@
           "region": "SEA"
         },
         {
-          "title": "Exail Starts Production of Unmanned MCM System for Indonesian Navy",
-          "summary": "Exail has begun production of the Unmanned MCM System (UMIS) for the Indonesian Navy, featuring Inspector 90 USVs, third-party integrations, and training. The post Exail Starts Production of Unmanned MCM System for…",
-          "date": "2026-10-12",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/exail-starts-production-of-unmanned-mcm-system-for-indonesian-navy/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "ADNOC broadens its Asian horizons with Gulf Group LNG deal",
           "summary": "ADNOC has inked a multi-year agreement with Gulf Group to ship 2 million tonnes of liquefied natural gas (LNG) starting in 2027.",
           "date": "2026-10-12",
@@ -5801,6 +5792,15 @@
           "source_url": "https://offshore-energy.biz/2026/10/12/adnoc-broadens-its-asian-horizons-with-gulf-group-lng-deal",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "Exail Starts Production of Unmanned MCM System for Indonesian Navy",
+          "summary": "Exail has begun production of the Unmanned MCM System (UMIS) for the Indonesian Navy, featuring Inspector 90 USVs, third-party integrations, and training. The post Exail Starts Production of Unmanned MCM System for…",
+          "date": "2026-10-12",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/exail-starts-production-of-unmanned-mcm-system-for-indonesian-navy/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Saudi Says Energy Export Capability Intact",
