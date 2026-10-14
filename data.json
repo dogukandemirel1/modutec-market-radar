@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T11:00:58Z",
+  "last_updated": "2026-10-14T12:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -134,6 +134,22 @@
           "date": "2026-10-14",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/the-floating-container-platform-turning-heads/",
+          "relevant": false
+        },
+        {
+          "title": "2010-built DOF CSV wins one-year contract extension",
+          "summary": "Norway's DOF Group has secured a contract extension for its construction support vessel (CSV) Skandi Nomad. In October 2025, Skandi Nomad's...",
+          "date": "2026-10-14",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/14/2010-built-dof-csv-wins-one-year-contract-extension",
+          "relevant": false
+        },
+        {
+          "title": "DOF Inks Extension Deal for Skandi Nomad Subsea Vessel",
+          "summary": "Norwegian offshore vessel owner DOF Group has secured a contract extension for its construction support vessel (CSV) Skandi NomadThe 12-month extension will keep…",
+          "date": "2026-10-14",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543674-dof-inks-extension-deal-for-skandi-nomad-subsea-vessel",
           "relevant": false
         },
         {
@@ -289,19 +305,19 @@
           "relevant": false
         },
         {
-          "title": "EnerMech wins Subsea7 deal for Ginger subsea work in Trinidad and Tobago",
-          "summary": "UK-based oilfield services provider EnerMech has secured a contract from Subsea7 to provide pre-commissioning services for the Ginger subsea development project, located offshore Trinidad and Tobago.",
-          "date": "2026-10-12",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/enermech-subsea7-deal-ginger-subsea-work/",
-          "relevant": false
-        },
-        {
           "title": "US Coast Guard orders four MQ-9B drones in $247.8m deal",
           "summary": "The US Coast Guard has ordered four MQ-9B long-range uncrewed aircraft systems from General Atomics under a $247.8m US Customs and Border Protection contract. The post US Coast Guard orders four MQ-9B drones in $247.8m…",
           "date": "2026-10-12",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/us-coast-guard-mq9b/",
+          "relevant": false
+        },
+        {
+          "title": "EnerMech wins Subsea7 deal for Ginger subsea work in Trinidad and Tobago",
+          "summary": "UK-based oilfield services provider EnerMech has secured a contract from Subsea7 to provide pre-commissioning services for the Ginger subsea development project, located offshore Trinidad and Tobago.",
+          "date": "2026-10-12",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/enermech-subsea7-deal-ginger-subsea-work/",
           "relevant": false
         },
         {
