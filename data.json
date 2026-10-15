@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T16:00:59Z",
+  "last_updated": "2026-10-15T17:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -166,6 +166,14 @@
           "date": "2026-10-15",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/15/tmc-compressors-returns-20-years-later-to-equip-fpso-for-new-life-in-brazil",
+          "relevant": false
+        },
+        {
+          "title": "Lockheed Martin wins US contracts for naval EW and F-35 support",
+          "summary": "Lockheed Martin has received two US defence contract modifications worth a combined $90.4m, covering naval electronic warfare systems and support for the F-35’s Integrated Core Processor. The post Lockheed Martin wins…",
+          "date": "2026-10-15",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/lockheed-martin-us-navy-contract/",
           "relevant": false
         },
         {
