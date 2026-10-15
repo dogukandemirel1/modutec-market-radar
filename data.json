@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T09:06:14Z",
+  "last_updated": "2026-10-15T10:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -121,6 +121,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "TMC Compressors returns 20 years later to equip FPSO for new life in Brazil",
+          "summary": "Norway's TMC Compressors has been selected for the delivery of a compressed air system for a floating production, storage and offloading vessel...",
+          "date": "2026-10-15",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/15/tmc-compressors-returns-20-years-later-to-equip-fpso-for-new-life-in-brazil",
+          "relevant": false
+        },
+        {
           "title": "BGN takes VLGC ordering spree to 10 ships",
           "summary": "Dubai-based energy trader BGN International has returned to South Korea’s HD Hyundai Heavy Industries for four more VLGC newbuildings, taking its ordering tally at the yard this year to ten ships. The latest contract…",
           "date": "2026-10-15",
@@ -142,14 +150,6 @@
           "date": "2026-10-15",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/deme-adds-turbine-scope-to-dutch-offshore-wind-farm-job/",
-          "relevant": false
-        },
-        {
-          "title": "TMC Compressors returns 20 years later to equip FPSO for new life in Brazil",
-          "summary": "Norway's TMC Compressors has been selected for the delivery of a compressed air system for a floating production, storage and offloading vessel...",
-          "date": "2026-10-15",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/15/tmc-compressors-returns-20-years-later-to-equip-fpso-for-new-life-in-brazil",
           "relevant": false
         },
         {
@@ -3329,19 +3329,19 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
-          "title": "US shadow fleet proposal sparks tanker stock rout",
-          "summary": "Asian shipping stocks took a beating on Thursday as reports that Washington is considering easing sanctions on shadow fleet tankers sent investors scrambling to reassess the extraordinary freight boom that has sent some…",
-          "date": "2026-10-15",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/us-shadow-fleet-proposal-sparks-tanker-stock-rout/",
-          "relevant": false
-        },
-        {
           "title": "Oil Markets Brace for Years of High Prices as Iran War Drags On",
           "summary": "Oil markets initially treated the Iran war as a brief bullish disruption in a long-term bearish trend. But traders are now betting that oil prices will remain elevated through 2028…",
           "date": "2026-10-15",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543696-oil-markets-brace-for-years-of-high-prices-as-iran-war-drags-on",
+          "relevant": false
+        },
+        {
+          "title": "US shadow fleet proposal sparks tanker stock rout",
+          "summary": "Asian shipping stocks took a beating on Thursday as reports that Washington is considering easing sanctions on shadow fleet tankers sent investors scrambling to reassess the extraordinary freight boom that has sent some…",
+          "date": "2026-10-15",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/us-shadow-fleet-proposal-sparks-tanker-stock-rout/",
           "relevant": false
         },
         {
@@ -5769,15 +5769,6 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Hormuz claims two more ships in fresh wave of strikes",
-          "summary": "Two ships have sunk near the Strait of Hormuz as fresh attacks on commercial shipping have hit three containerships linked to Abu Dhabi’s AD Ports Group. The Singapore-flagged GFS Pride, a 2008-built, 2,824 teu feeder…",
-          "date": "2026-10-15",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/hormuz-claims-two-more-ships-in-fresh-wave-of-strikes/",
-          "relevant": true,
-          "region": "UAE"
-        },
-        {
           "title": "Container Ship Sinks in Strait of Hormuz",
           "summary": "All 21 crew members were evacuated without injuries before the Singapore-flagged vessel sank.",
           "date": "2026-10-15",
@@ -5785,6 +5776,15 @@
           "source_url": "https://www.rigzone.com/news/wire/container_ship_sinks_in_strait_of_hormuz-15-oct-2026-184853-article/?rss=true",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Hormuz claims two more ships in fresh wave of strikes",
+          "summary": "Two ships have sunk near the Strait of Hormuz as fresh attacks on commercial shipping have hit three containerships linked to Abu Dhabi’s AD Ports Group. The Singapore-flagged GFS Pride, a 2008-built, 2,824 teu feeder…",
+          "date": "2026-10-15",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/hormuz-claims-two-more-ships-in-fresh-wave-of-strikes/",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Yemen’s Houthis Vow More Attacks on Saudi Airports, Oil Facilities After Aramco HQ Hit",
