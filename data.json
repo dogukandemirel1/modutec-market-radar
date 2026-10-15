@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T11:00:57Z",
+  "last_updated": "2026-10-15T12:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -134,6 +134,14 @@
           "date": "2026-10-15",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/15/tmc-compressors-returns-20-years-later-to-equip-fpso-for-new-life-in-brazil",
+          "relevant": false
+        },
+        {
+          "title": "Seadrill Loses Appeal in $55M Hercules Drilling Rig Dispute with SFL",
+          "summary": "SFL Corporation has won a Norwegian appeals court ruling in its contract dispute with Seadrill over the redelivery of the offshore drilling rig Hercules, with the…",
+          "date": "2026-10-15",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543705-seadrill-loses-appeal-in-55m-hercules-drilling-rig-dispute-with-sfl",
           "relevant": false
         },
         {
@@ -3377,6 +3385,14 @@
           "relevant": false
         },
         {
+          "title": "Oil prices drop by 2% as US considers easing Russian tanker sanctions",
+          "summary": "Oil prices declined by about 2% on Thursday, 15 October, following reports that the US is considering measures to relax restrictions on tankers associated with Russia's so-called “shadow fleet”.",
+          "date": "2026-10-15",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/oil-prices-drop-us-russia-tanker/",
+          "relevant": false
+        },
+        {
           "title": "Oil Markets Brace for Years of High Prices as Iran War Drags On",
           "summary": "Oil markets initially treated the Iran war as a brief bullish disruption in a long-term bearish trend. But traders are now betting that oil prices will remain elevated through 2028…",
           "date": "2026-10-15",
@@ -4921,6 +4937,14 @@
           "relevant": false
         },
         {
+          "title": "JERA acquires JOGMEC’s shares in Wheatstone LNG project vehicle",
+          "summary": "Japanese energy company JERA has completed the purchase of all shares held by the Japan Organization for Metals and Energy Security (JOGMEC) in Pan Pacific Energy (PEJ), the entity it uses to invest in Australia's…",
+          "date": "2026-10-15",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/jera-acquires-jogmecs-shares-wheatstone-lng/",
+          "relevant": false
+        },
+        {
           "title": "JERA deepens Australian LNG foothold with larger stake in Chevron’s project",
           "summary": "JERA has boosted its indirect participation in Chevron's LNG project to 50.1% following a strategic share acquisition from JOGMEC.",
           "date": "2026-10-14",
@@ -5825,6 +5849,15 @@
           "source_url": "https://offshore-energy.biz/2026/10/15/seascape-energy-gets-45percent-more-offshore-acreage-in-malaysia",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "IEA Says UAE Oil Output Surged to Records in September",
+          "summary": "Oil output from the United Arab Emirates climbed to record levels last month, the International Energy Agency said.",
+          "date": "2026-10-15",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/iea_says_uae_oil_output_surged_to_records_in_september-15-oct-2026-184856-article/?rss=true",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Container Ship Sinks in Strait of Hormuz",
