@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T18:01:05Z",
+  "last_updated": "2026-10-15T19:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -145,6 +145,14 @@
           "relevant": false
         },
         {
+          "title": "Navantia signs a contract to modernize two patrol vessels for Angolan Navy",
+          "summary": "On October 15, 2026, Spanish shipbuilder Navantia announced a contract with the Angolan Navy for the modernization of two Mandume-class patrol boats. Navantia press release Navantia has signed in Angola a contract to…",
+          "date": "2026-10-15",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/navantia-signs-a-contract-to-modernize-two-patrol-vessels-for-angolan-navy/",
+          "relevant": false
+        },
+        {
           "title": "AUKUS: HII Awarded Contract for Engineering and Design Support",
           "summary": "HII announced that its Newport News Shipbuilding (NNS) division was awarded a $56 million contract by the U.S. Navy for shipbuilding engineering and design in support of the trilateral Australia, United Kingdom, and…",
           "date": "2026-10-15",
@@ -182,6 +190,22 @@
           "date": "2026-10-15",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/lockheed-martin-us-navy-contract/",
+          "relevant": false
+        },
+        {
+          "title": "Eni to Drill Multiple Wells Offshore Mozambique",
+          "summary": "Italian energy firm Eni will start drilling up to six development wells from November that will feed gas to its new Coral North floating liquefied natural gas platform offshore Mozambique…",
+          "date": "2026-10-15",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543720-eni-to-drill-multiple-wells-offshore-mozambique",
+          "relevant": false
+        },
+        {
+          "title": "Turkey to Put First Floating Gas Platform in Black Sea",
+          "summary": "Turkey will send its first floating gas production platform to the Black Sea on Saturday, a move expected to roughly double output from its largest domestic gas field…",
+          "date": "2026-10-15",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543719-turkey-to-put-first-floating-gas-platform-in-black-sea",
           "relevant": false
         },
         {
