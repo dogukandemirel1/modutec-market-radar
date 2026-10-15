@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T12:00:59Z",
+  "last_updated": "2026-10-15T13:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -129,11 +129,35 @@
           "relevant": false
         },
         {
+          "title": "Rig provider and other contractors revealed for Timor-Leste's oil field",
+          "summary": "Oil & gas exploration player Finder Energy has awarded Japanese ENEOS Drilling a contract to provide a semi-submersible drilling rig for the...",
+          "date": "2026-10-15",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/15/rig-provider-and-other-contractors-revealed-for-timor-lestes-oil-field",
+          "relevant": false
+        },
+        {
+          "title": "Subsea7 contracts Worley for Northern Lights' key subsea structures",
+          "summary": "Subsea7 has awarded Worley Rosenberg a contract for the fabrication of key subsea structures and spools supporting the second phase of the...",
+          "date": "2026-10-15",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/15/subsea7-contracts-worley-for-northern-lights-key-subsea-structures",
+          "relevant": false
+        },
+        {
           "title": "TMC Compressors returns 20 years later to equip FPSO for new life in Brazil",
           "summary": "Norway's TMC Compressors has been selected for the delivery of a compressed air system for a floating production, storage and offloading vessel...",
           "date": "2026-10-15",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/15/tmc-compressors-returns-20-years-later-to-equip-fpso-for-new-life-in-brazil",
+          "relevant": false
+        },
+        {
+          "title": "Subsea7 Hires Worley for Northern Lights CCS Fabrication Job",
+          "summary": "Worley Rosenberg has secured a contract from Subsea7 to fabricate subsea structures and spools for the second phase of Norway's Northern Lights carbon capture and storage (CCS) development…",
+          "date": "2026-10-15",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543708-subsea7-hires-worley-for-northern-lights-ccs-fabrication-job",
           "relevant": false
         },
         {
