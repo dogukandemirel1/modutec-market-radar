@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T10:00:57Z",
+  "last_updated": "2026-10-15T11:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -121,11 +121,35 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "COSCO lands ten-year Chinese car-export deal",
+          "summary": "COSCO Shipping Specialized Carriers’ car-carrier business has signed a 10-year contract of affreightment with Chinese automaker DFSK, securing a long-term vehicle-export cargo relationship. The agreement was signed with…",
+          "date": "2026-10-15",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/cosco-lands-ten-year-chinese-car-export-deal/",
+          "relevant": false
+        },
+        {
           "title": "TMC Compressors returns 20 years later to equip FPSO for new life in Brazil",
           "summary": "Norway's TMC Compressors has been selected for the delivery of a compressed air system for a floating production, storage and offloading vessel...",
           "date": "2026-10-15",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/15/tmc-compressors-returns-20-years-later-to-equip-fpso-for-new-life-in-brazil",
+          "relevant": false
+        },
+        {
+          "title": "Seascape Energy Expands Temaris Gas Acreage Offshore Malaysia",
+          "summary": "Seascape Energy has signed a letter of agreement with Petronas for a 547-square-kilometre extension of its Temaris Cluster Small Field Asset production sharing contract (PSC) offshore Malaysia…",
+          "date": "2026-10-15",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543703-seascape-energy-expands-temaris-gas-acreage-offshore-malaysia",
+          "relevant": false
+        },
+        {
+          "title": "DEME to Install Turbines at Zeevonk Offshore Wind Farm",
+          "summary": "DEME has secured a contract worth between $56 million and $168 million for the transportation and installation of 69 wind turbines at the Zeevonk offshore wind farm in the Dutch North Sea…",
+          "date": "2026-10-15",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543702-deme-to-install-turbines-at-zeevonk-offshore-wind-farm",
           "relevant": false
         },
         {
@@ -3329,11 +3353,11 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
-          "title": "Oil Markets Brace for Years of High Prices as Iran War Drags On",
-          "summary": "Oil markets initially treated the Iran war as a brief bullish disruption in a long-term bearish trend. But traders are now betting that oil prices will remain elevated through 2028…",
+          "title": "Suez tightens transit rules for ageing ships",
+          "summary": "The Suez Canal Authority (SCA) has introduced mandatory inspections and trials for vessels aged 25 years and older, adding further costs and potential delays for operators of ageing tonnage. The new regulations, already…",
           "date": "2026-10-15",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/543696-oil-markets-brace-for-years-of-high-prices-as-iran-war-drags-on",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/suez-tightens-transit-rules-for-ageing-ships/",
           "relevant": false
         },
         {
@@ -3342,6 +3366,22 @@
           "date": "2026-10-15",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/us-shadow-fleet-proposal-sparks-tanker-stock-rout/",
+          "relevant": false
+        },
+        {
+          "title": "Ofgem to launch record tender looking for owner of Hornsea 3 offshore transmission assets",
+          "summary": "The UK energy regulator Ofgem will launch a tender round covering the transmission infrastructure for Ørsted’s 2.9 GW Hornsea 3 offshore wind...",
+          "date": "2026-10-15",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/15/ofgem-to-launch-record-tender-looking-for-owner-of-hornsea-3-offshore-transmission-assets",
+          "relevant": false
+        },
+        {
+          "title": "Oil Markets Brace for Years of High Prices as Iran War Drags On",
+          "summary": "Oil markets initially treated the Iran war as a brief bullish disruption in a long-term bearish trend. But traders are now betting that oil prices will remain elevated through 2028…",
+          "date": "2026-10-15",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543696-oil-markets-brace-for-years-of-high-prices-as-iran-war-drags-on",
           "relevant": false
         },
         {
@@ -5769,15 +5809,6 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Container Ship Sinks in Strait of Hormuz",
-          "summary": "All 21 crew members were evacuated without injuries before the Singapore-flagged vessel sank.",
-          "date": "2026-10-15",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/container_ship_sinks_in_strait_of_hormuz-15-oct-2026-184853-article/?rss=true",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Hormuz claims two more ships in fresh wave of strikes",
           "summary": "Two ships have sunk near the Strait of Hormuz as fresh attacks on commercial shipping have hit three containerships linked to Abu Dhabi’s AD Ports Group. The Singapore-flagged GFS Pride, a 2008-built, 2,824 teu feeder…",
           "date": "2026-10-15",
@@ -5785,6 +5816,24 @@
           "source_url": "https://splash247.com/hormuz-claims-two-more-ships-in-fresh-wave-of-strikes/",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "Seascape Energy gets 45% more offshore acreage in Malaysia",
+          "summary": "Malaysia’s state-owned oil & gas company Petronas has granted Seascape Energy, an E&P company focused on Southeast Asia, a 45% extension of its...",
+          "date": "2026-10-15",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/15/seascape-energy-gets-45percent-more-offshore-acreage-in-malaysia",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Container Ship Sinks in Strait of Hormuz",
+          "summary": "All 21 crew members were evacuated without injuries before the Singapore-flagged vessel sank.",
+          "date": "2026-10-15",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/container_ship_sinks_in_strait_of_hormuz-15-oct-2026-184853-article/?rss=true",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Yemen’s Houthis Vow More Attacks on Saudi Airports, Oil Facilities After Aramco HQ Hit",
