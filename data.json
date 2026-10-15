@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T07:00:59Z",
+  "last_updated": "2026-10-15T08:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -120,6 +120,22 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "BGN takes VLGC ordering spree to 10 ships",
+          "summary": "Dubai-based energy trader BGN International has returned to South Korea’s HD Hyundai Heavy Industries for four more VLGC newbuildings, taking its ordering tally at the yard this year to ten ships. The latest contract…",
+          "date": "2026-10-15",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/bgn-takes-vlgc-ordering-spree-to-10-ships/",
+          "relevant": true
+        },
+        {
+          "title": "DOF CSV secures another year of offshore support work",
+          "summary": "Norwegian offshore vessel owner DOF has secured a one-year extension for one of its construction support vessels (CSV). The company said in an Oslo Børs filing that the client extended the contract for the 2009-built…",
+          "date": "2026-10-15",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/dof-csv-secures-another-year-of-offshore-support-work/",
+          "relevant": false
+        },
         {
           "title": "2010-built DOF CSV wins one-year contract extension",
           "summary": "Norway's DOF Group has secured a contract extension for its construction support vessel (CSV) Skandi Nomad. In October 2025, Skandi Nomad's...",
@@ -3297,14 +3313,6 @@
           "relevant": false
         },
         {
-          "title": "Hormuz shock briefly makes biofuel the cheapest bunker option",
-          "summary": "The upheaval in global energy markets caused by the war in the Middle East has produced an unexpected winner in the marine fuels market, with biodiesel briefly emerging as the cheapest bunkering option in Rotterdam once…",
-          "date": "2026-10-14",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/hormuz-shock-briefly-makes-biofuel-the-cheapest-bunker-option/",
-          "relevant": false
-        },
-        {
           "title": "Predator completes MOU-6 drilling in Morocco, gets Snowcap-3 approval in Trinidad",
           "summary": "Predator Oil & Gas drilled the MOU-6 well in its Guercif license in Morocco to a planned total depth of 950 m within the 20-day guidance, penetrating a gross upper interval of 21.2 m in the TGB-6 Submarine Fan. The well…",
           "date": "2026-10-14",
@@ -3334,6 +3342,14 @@
           "date": "2026-10-14",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543663-germany-puts-ukrainian-ex-officer-on-trial-over-nord-stream-attack",
+          "relevant": false
+        },
+        {
+          "title": "Hormuz shock briefly makes biofuel the cheapest bunker option",
+          "summary": "The upheaval in global energy markets caused by the war in the Middle East has produced an unexpected winner in the marine fuels market, with biodiesel briefly emerging as the cheapest bunkering option in Rotterdam once…",
+          "date": "2026-10-14",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/hormuz-shock-briefly-makes-biofuel-the-cheapest-bunker-option/",
           "relevant": false
         },
         {
@@ -5723,15 +5739,6 @@
           "region": "SEA"
         },
         {
-          "title": "India’s Aegis takes over Dubai tanker and logistics group Tristar",
-          "summary": "India’s Aegis Logistics has struck a deal to acquire 89.8% of Dubai-based Tristar for $809m, taking control of a global energy logistics group with a sizeable tanker and dry bulk shipping operation. The Mumbai-listed…",
-          "date": "2026-10-14",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/indias-aegis-takes-over-dubai-tanker-and-logistics-group-tristar/",
-          "relevant": true,
-          "region": "UAE"
-        },
-        {
           "title": "Pacifico Energy launches survey campaign for 1.8 GW offshore wind projects in Vietnam",
           "summary": "Pacifico Energy Vietnam has launched an offshore technical survey campaign for two projects with a combined capacity of 1.8 GW, following the...",
           "date": "2026-10-14",
@@ -5757,6 +5764,15 @@
           "source_url": "https://www.rigzone.com/news/wire/aramco_hq_hit_as_houthis_escalate_attacks-14-oct-2026-184842-article/?rss=true",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "India’s Aegis takes over Dubai tanker and logistics group Tristar",
+          "summary": "India’s Aegis Logistics has struck a deal to acquire 89.8% of Dubai-based Tristar for $809m, taking control of a global energy logistics group with a sizeable tanker and dry bulk shipping operation. The Mumbai-listed…",
+          "date": "2026-10-14",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/indias-aegis-takes-over-dubai-tanker-and-logistics-group-tristar/",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Seadrill adds work for four rigs across Indonesia, Malaysia, Angola, US Gulf",
