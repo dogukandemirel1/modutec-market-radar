@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T14:01:07Z",
+  "last_updated": "2026-10-15T15:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -126,6 +126,14 @@
           "date": "2026-10-15",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/cosco-lands-ten-year-chinese-car-export-deal/",
+          "relevant": false
+        },
+        {
+          "title": "AUKUS: HII Awarded Contract for Engineering and Design Support",
+          "summary": "HII announced that its Newport News Shipbuilding (NNS) division was awarded a $56 million contract by the U.S. Navy for shipbuilding engineering and design in support of the trilateral Australia, United Kingdom, and…",
+          "date": "2026-10-15",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/aukus-hii-awarded-contract-for-engineering-and-design-support/",
           "relevant": false
         },
         {
@@ -273,14 +281,6 @@
           "relevant": false
         },
         {
-          "title": "TotalEnergies taps Vallourec for 16,000 tons of tubulars in the Caspian Sea",
-          "summary": "TotalEnergies awarded Vallourec a contract to supply oil country tubular goods (OCTG) and line pipe for the Absheron gas field in the Azerbaijani sector of the Caspian Sea. The package totals more than 16,000 tons of…",
-          "date": "2026-10-13",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/totalenergies-taps-vallourec-for-16000-tons-of-tubulars-in-the-caspian-sea-80323",
-          "relevant": false
-        },
-        {
           "title": "Sweden Formalizes Interim Submarine Training and Södermanland Lease for Poland",
           "summary": "Poland and Sweden have finalized formal contracts for Polish submarine crew training and the lease of the interim A17-class boat HMS Södermanland, paving the way for the future delivery of Saab A26 submarines. The post…",
           "date": "2026-10-13",
@@ -310,6 +310,14 @@
           "date": "2026-10-13",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/13/seadrill-scores-big-with-new-rig-awards-in-asia-africa-and-us-gulf",
+          "relevant": false
+        },
+        {
+          "title": "TotalEnergies taps Vallourec for 16,000 tons of tubulars in the Caspian Sea",
+          "summary": "TotalEnergies awarded Vallourec a contract to supply oil country tubular goods (OCTG) and line pipe for the Absheron gas field in the Azerbaijani sector of the Caspian Sea. The package totals more than 16,000 tons of…",
+          "date": "2026-10-13",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/totalenergies-taps-vallourec-for-16000-tons-of-tubulars-in-the-caspian-sea-80323",
           "relevant": false
         },
         {
@@ -3401,6 +3409,14 @@
           "relevant": false
         },
         {
+          "title": "Khalda sets drilling record in Egypt with three wells in one month",
+          "summary": "Khalda Petroleum handed over three consecutive wells within a month using one rig, the first time it has done so since its establishment, and reported 17.7% in cost savings. The KAH-B-54 well was completed in 7.5 days…",
+          "date": "2026-10-15",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/khalda-sets-drilling-record-in-egypt-with-three-wells-in-one-month-80348",
+          "relevant": false
+        },
+        {
           "title": "Ofgem to launch record tender looking for owner of Hornsea 3 offshore transmission assets",
           "summary": "The UK energy regulator Ofgem will launch a tender round covering the transmission infrastructure for Ørsted’s 2.9 GW Hornsea 3 offshore wind...",
           "date": "2026-10-15",
@@ -3454,6 +3470,14 @@
           "date": "2026-10-14",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/oil_gains_as_global_supply_risks_mount-14-oct-2026-184852-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Zelenskyy Accuses Trump, Musk of Throttling Satellite Usage",
+          "summary": "Ukrainian President Volodymyr Zelenskyy accused U.S. President Donald Trump and Elon Musk of restraining Kyiv's military access to SpaceX's satellite technology.",
+          "date": "2026-10-14",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/zelenskyy_accuses_trump_musk_of_throttling_satellite_usage-14-oct-2026-184847-article/?rss=true",
           "relevant": false
         },
         {
@@ -5873,6 +5897,15 @@
           "source_url": "https://offshore-energy.biz/2026/10/15/seascape-energy-gets-45percent-more-offshore-acreage-in-malaysia",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Aramco CEO Warns Oil Squeeze is Serious",
+          "summary": "Globally, the squeeze on crude oil is serious, Aramco President and CEO Amin H. Nasser said.",
+          "date": "2026-10-15",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/aramco_ceo_warns_oil_squeeze_is_serious-15-oct-2026-184859-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "IEA Says UAE Oil Output Surged to Records in September",
