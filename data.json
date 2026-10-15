@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T19:00:58Z",
+  "last_updated": "2026-10-15T20:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3505,14 +3505,6 @@
           "relevant": false
         },
         {
-          "title": "U.S. Shipping Regulator Proposes $200,000 Fees on Spanish Ships Over Port Ban",
-          "summary": "The U.S. Federal Maritime Commission (FMC) is proposing $200,000 fees on Spanish-flagged vessels entering American ports, along with restrictions on billions of dollars in Spanish imports, after concluding that…",
-          "date": "2026-10-14",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/u-s-shipping-regulator-proposes-200000-fees-on-spanish-ships-over-port-ban/",
-          "relevant": false
-        },
-        {
           "title": "Predator completes MOU-6 drilling in Morocco, gets Snowcap-3 approval in Trinidad",
           "summary": "Predator Oil & Gas drilled the MOU-6 well in its Guercif license in Morocco to a planned total depth of 950 m within the 20-day guidance, penetrating a gross upper interval of 21.2 m in the TGB-6 Submarine Fan. The well…",
           "date": "2026-10-14",
@@ -3542,6 +3534,14 @@
           "date": "2026-10-14",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/zelenskyy_accuses_trump_musk_of_throttling_satellite_usage-14-oct-2026-184847-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "U.S. Shipping Regulator Proposes $200,000 Fees on Spanish Ships Over Port Ban",
+          "summary": "The U.S. Federal Maritime Commission (FMC) is proposing $200,000 fees on Spanish-flagged vessels entering American ports, along with restrictions on billions of dollars in Spanish imports, after concluding that…",
+          "date": "2026-10-14",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/u-s-shipping-regulator-proposes-200000-fees-on-spanish-ships-over-port-ban/",
           "relevant": false
         },
         {
@@ -5945,6 +5945,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "How the Houthis are Helping Iran Turn Saudi Arabia Into a Pressure Point",
+          "summary": "The Houthi attacks on Saudi Arabia are about more than Yemen.",
+          "date": "2026-10-15",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/how-the-houthis-are-helping-iran-turn-saudi-arabia-into-a-pressure-point/",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
           "title": "Hormuz claims two more ships in fresh wave of strikes",
           "summary": "Two ships have sunk near the Strait of Hormuz as fresh attacks on commercial shipping have hit three containerships linked to Abu Dhabi’s AD Ports Group. The Singapore-flagged GFS Pride, a 2008-built, 2,824 teu feeder…",
           "date": "2026-10-15",
@@ -5999,15 +6008,6 @@
           "region": "SEA"
         },
         {
-          "title": "Yemen’s Houthis Vow More Attacks on Saudi Airports, Oil Facilities After Aramco HQ Hit",
-          "summary": "Yemen's Houthis vowed on Wednesday to press on with attacks on airports and oil facilities in Saudi Arabia, a day after a strike that sources said caused extensive damage to the headquarters of oil giant Saudi…",
-          "date": "2026-10-14",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/yemens-houthis-vow-more-attacks-on-saudi-airports-oil-facilities-after-aramco-hq-hit/",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
           "title": "Pacifico Energy launches survey campaign for 1.8 GW offshore wind projects in Vietnam",
           "summary": "Pacifico Energy Vietnam has launched an offshore technical survey campaign for two projects with a combined capacity of 1.8 GW, following the...",
           "date": "2026-10-14",
@@ -6031,6 +6031,15 @@
           "date": "2026-10-14",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/aramco_hq_hit_as_houthis_escalate_attacks-14-oct-2026-184842-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "Yemen’s Houthis Vow More Attacks on Saudi Airports, Oil Facilities After Aramco HQ Hit",
+          "summary": "Yemen's Houthis vowed on Wednesday to press on with attacks on airports and oil facilities in Saudi Arabia, a day after a strike that sources said caused extensive damage to the headquarters of oil giant Saudi…",
+          "date": "2026-10-14",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/yemens-houthis-vow-more-attacks-on-saudi-airports-oil-facilities-after-aramco-hq-hit/",
           "relevant": true,
           "region": "KSA"
         },
