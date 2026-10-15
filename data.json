@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T08:00:59Z",
+  "last_updated": "2026-10-15T09:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -127,6 +127,30 @@
           "source_name": "Splash247",
           "source_url": "https://splash247.com/bgn-takes-vlgc-ordering-spree-to-10-ships/",
           "relevant": true
+        },
+        {
+          "title": "Finder Energy locks in rig for Timor-Leste campaign",
+          "summary": "Australia’s Finder Energy has hired a semisub rig for a three-well development campaign on the Kuda Tasi and Jahal (KTJ) development offshore Timor-Leste. The contract covers three firm wells and options for two…",
+          "date": "2026-10-15",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/finder-energy-locks-in-rig-for-timor-leste-campaign/",
+          "relevant": false
+        },
+        {
+          "title": "DEME adds turbine scope to Dutch offshore wind farm job",
+          "summary": "Belgian marine contractor DEME has secured a second major contract on the 1GW Zeevonk offshore wind project in the Netherlands, adding turbine installation to its existing foundation scope. The latest award covers the…",
+          "date": "2026-10-15",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/deme-adds-turbine-scope-to-dutch-offshore-wind-farm-job/",
+          "relevant": false
+        },
+        {
+          "title": "TMC Compressors returns 20 years later to equip FPSO for new life in Brazil",
+          "summary": "Norway's TMC Compressors has been selected for the delivery of a compressed air system for a floating production, storage and offloading vessel...",
+          "date": "2026-10-15",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/15/tmc-compressors-returns-20-years-later-to-equip-fpso-for-new-life-in-brazil",
+          "relevant": false
         },
         {
           "title": "DOF CSV secures another year of offshore support work",
@@ -313,14 +337,6 @@
           "relevant": false
         },
         {
-          "title": "U.S. Navy to Integrate LRASM into USAF’s B-52 Strategic Bombers",
-          "summary": "The U.S. Navy plans to contract Lockheed Martin to integrate AGM-158C LRASM anti-ship missiles onto the Air Force's B-52 bombers, boosting Indo-Pacific maritime strike capabilities. The post U.S. Navy to Integrate LRASM…",
-          "date": "2026-10-12",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/u-s-navy-to-integrate-lrasm-into-usafs-b-52-strategic-bombers/",
-          "relevant": false
-        },
-        {
           "title": "Shell and Equinor fuel $1.1 billion backlog uptick for Transocean",
           "summary": "Transocean gets its hands on a North Sea contract for a semi-submersible with Shell and a final approval for three rigs from Equinor.",
           "date": "2026-10-12",
@@ -334,6 +350,14 @@
           "date": "2026-10-12",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/us-coast-guard-mq9b/",
+          "relevant": false
+        },
+        {
+          "title": "U.S. Navy to Integrate LRASM into USAF’s B-52 Strategic Bombers",
+          "summary": "The U.S. Navy plans to contract Lockheed Martin to integrate AGM-158C LRASM anti-ship missiles onto the Air Force's B-52 bombers, boosting Indo-Pacific maritime strike capabilities. The post U.S. Navy to Integrate LRASM…",
+          "date": "2026-10-12",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/u-s-navy-to-integrate-lrasm-into-usafs-b-52-strategic-bombers/",
           "relevant": false
         },
         {
@@ -3305,6 +3329,22 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "US shadow fleet proposal sparks tanker stock rout",
+          "summary": "Asian shipping stocks took a beating on Thursday as reports that Washington is considering easing sanctions on shadow fleet tankers sent investors scrambling to reassess the extraordinary freight boom that has sent some…",
+          "date": "2026-10-15",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/us-shadow-fleet-proposal-sparks-tanker-stock-rout/",
+          "relevant": false
+        },
+        {
+          "title": "Oil Markets Brace for Years of High Prices as Iran War Drags On",
+          "summary": "Oil markets initially treated the Iran war as a brief bullish disruption in a long-term bearish trend. But traders are now betting that oil prices will remain elevated through 2028…",
+          "date": "2026-10-15",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543696-oil-markets-brace-for-years-of-high-prices-as-iran-war-drags-on",
+          "relevant": false
+        },
+        {
           "title": "U.S. Shipping Regulator Proposes $200,000 Fees on Spanish Ships Over Port Ban",
           "summary": "The U.S. Federal Maritime Commission (FMC) is proposing $200,000 fees on Spanish-flagged vessels entering American ports, along with restrictions on billions of dollars in Spanish imports, after concluding that…",
           "date": "2026-10-14",
@@ -4833,6 +4873,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "A.P. Moller Capital strikes deal for Mitsui’s Portek",
+          "summary": "A.P. Moller Capital has lined up another port acquisition, agreeing to take full control of Singapore-based terminal operator Portek International from Japanese trading house Mitsui & Co. The Copenhagen-based…",
+          "date": "2026-10-15",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/a-p-moller-capital-strikes-deal-for-mitsuis-portek/",
+          "relevant": false
+        },
+        {
           "title": "JERA deepens Australian LNG foothold with larger stake in Chevron’s project",
           "summary": "JERA has boosted its indirect participation in Chevron's LNG project to 50.1% following a strategic share acquisition from JOGMEC.",
           "date": "2026-10-14",
@@ -5720,6 +5768,24 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Hormuz claims two more ships in fresh wave of strikes",
+          "summary": "Two ships have sunk near the Strait of Hormuz as fresh attacks on commercial shipping have hit three containerships linked to Abu Dhabi’s AD Ports Group. The Singapore-flagged GFS Pride, a 2008-built, 2,824 teu feeder…",
+          "date": "2026-10-15",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/hormuz-claims-two-more-ships-in-fresh-wave-of-strikes/",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
+          "title": "Container Ship Sinks in Strait of Hormuz",
+          "summary": "All 21 crew members were evacuated without injuries before the Singapore-flagged vessel sank.",
+          "date": "2026-10-15",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/container_ship_sinks_in_strait_of_hormuz-15-oct-2026-184853-article/?rss=true",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Yemen’s Houthis Vow More Attacks on Saudi Airports, Oil Facilities After Aramco HQ Hit",
           "summary": "Yemen's Houthis vowed on Wednesday to press on with attacks on airports and oil facilities in Saudi Arabia, a day after a strike that sources said caused extensive damage to the headquarters of oil giant Saudi…",
