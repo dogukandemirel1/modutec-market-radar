@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T13:00:58Z",
+  "last_updated": "2026-10-15T14:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5889,6 +5889,15 @@
           "date": "2026-10-15",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/container_ship_sinks_in_strait_of_hormuz-15-oct-2026-184853-article/?rss=true",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Seascape Energy receives Petronas approval for Temaris PSC expansion",
+          "summary": "Seascape Energy has received a Letter of Agreement from Petronas, through Malaysia Petroleum Management, for a 547km² expansion of its Temaris Cluster Small Field Asset PSC offshore Peninsular Malaysia.",
+          "date": "2026-10-15",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/seascape-petronas-temaris-psc-expansion/",
           "relevant": false,
           "region": "SEA"
         },
