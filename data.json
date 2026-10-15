@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T06:00:57Z",
+  "last_updated": "2026-10-15T07:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -305,14 +305,6 @@
           "relevant": false
         },
         {
-          "title": "French MoD Selects Top Contenders for DANAE Armed Surface Drone Project",
-          "summary": "The French Navy and AID select three industrial teams to develop advanced armed autonomous surface drones for the DANAE armed USV project. The post French MoD Selects Top Contenders for DANAE Armed Surface Drone Project…",
-          "date": "2026-10-12",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/french-mod-selects-top-contenders-for-danae-armed-surface-drone-project/",
-          "relevant": false
-        },
-        {
           "title": "Shell and Equinor fuel $1.1 billion backlog uptick for Transocean",
           "summary": "Transocean gets its hands on a North Sea contract for a semi-submersible with Shell and a final approval for three rigs from Equinor.",
           "date": "2026-10-12",
@@ -326,6 +318,14 @@
           "date": "2026-10-12",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/us-coast-guard-mq9b/",
+          "relevant": false
+        },
+        {
+          "title": "French MoD Selects Top Contenders for DANAE Armed Surface Drone Project",
+          "summary": "The French Navy and AID select three industrial teams to develop advanced armed autonomous surface drones for the DANAE armed USV project. The post French MoD Selects Top Contenders for DANAE Armed Surface Drone Project…",
+          "date": "2026-10-12",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/french-mod-selects-top-contenders-for-danae-armed-surface-drone-project/",
           "relevant": false
         },
         {
