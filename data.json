@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T00:01:42Z",
+  "last_updated": "2026-10-16T01:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -281,6 +281,14 @@
           "relevant": false
         },
         {
+          "title": "Hallador Bags $700MM Contract to Supply MISO Utility",
+          "summary": "Hallador signed a $700-million agreement to supply a utility operating in MISO Zone 6 from the Merom Generating Station in Sullivan County, Indiana.",
+          "date": "2026-10-14",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/hallador_bags_700mm_contract_to_supply_miso_utility-14-oct-2026-184851-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "SAFE wins US Marine Corps contract for MULE expeditionary platforms",
           "summary": "SAFE Structure Designs (SAFE) has secured a contract worth more than $10m to supply its Multi-Utility LoadEr (MULE) expeditionary logistics platforms to the United States Marine Corps. The post SAFE wins US Marine Corps…",
           "date": "2026-10-14",
@@ -302,14 +310,6 @@
           "date": "2026-10-14",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543674-dof-inks-extension-deal-for-skandi-nomad-subsea-vessel",
-          "relevant": false
-        },
-        {
-          "title": "Hallador Bags $700MM Contract to Supply MISO Utility",
-          "summary": "Hallador signed a $700-million agreement to supply a utility operating in MISO Zone 6 from the Merom Generating Station in Sullivan County, Indiana.",
-          "date": "2026-10-14",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/hallador_bags_700mm_contract_to_supply_miso_utility-14-oct-2026-184851-article/?rss=true",
           "relevant": false
         },
         {
@@ -5081,19 +5081,19 @@
           "relevant": false
         },
         {
-          "title": "Shell agrees to divest Nigeria gas distribution arm to Vaaris Energy",
-          "summary": "Shell, via its subsidiary Shell Petroleum, has reached an agreement to divest its entire interest in the Shell Nigeria Gas Group to Nigerian energy company Vaaris Energy.",
-          "date": "2026-10-14",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/shell-nigeria-gas-distribution-vaaris-energy/",
-          "relevant": false
-        },
-        {
           "title": "Centalion Boosts Haynesville Presence with Silver Hill Acquisition",
           "summary": "'On a pro-forma basis, Centalion's Haynesville footprint ranks as one of the largest amongst private operators and positions it as a significant market participant in the U.S. natural gas market'.",
           "date": "2026-10-14",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/centalion_boosts_haynesville_presence_with_silver_hill_acquisition-14-oct-2026-184850-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Shell agrees to divest Nigeria gas distribution arm to Vaaris Energy",
+          "summary": "Shell, via its subsidiary Shell Petroleum, has reached an agreement to divest its entire interest in the Shell Nigeria Gas Group to Nigerian energy company Vaaris Energy.",
+          "date": "2026-10-14",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/shell-nigeria-gas-distribution-vaaris-energy/",
           "relevant": false
         },
         {
@@ -5972,15 +5972,6 @@
           "region": "SEA"
         },
         {
-          "title": "Seascape Energy receives Petronas approval for Temaris PSC expansion",
-          "summary": "Seascape Energy has received a Letter of Agreement from Petronas, through Malaysia Petroleum Management, for a 547km² expansion of its Temaris Cluster Small Field Asset PSC offshore Peninsular Malaysia.",
-          "date": "2026-10-15",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/seascape-petronas-temaris-psc-expansion/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Aramco CEO Warns Oil Squeeze is Serious",
           "summary": "Globally, the squeeze on crude oil is serious, Aramco President and CEO Amin H. Nasser said.",
           "date": "2026-10-15",
@@ -6004,6 +5995,15 @@
           "date": "2026-10-15",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/container_ship_sinks_in_strait_of_hormuz-15-oct-2026-184853-article/?rss=true",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Seascape Energy receives Petronas approval for Temaris PSC expansion",
+          "summary": "Seascape Energy has received a Letter of Agreement from Petronas, through Malaysia Petroleum Management, for a 547km² expansion of its Temaris Cluster Small Field Asset PSC offshore Peninsular Malaysia.",
+          "date": "2026-10-15",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/seascape-petronas-temaris-psc-expansion/",
           "relevant": false,
           "region": "SEA"
         },
