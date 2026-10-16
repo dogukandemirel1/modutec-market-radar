@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T08:00:58Z",
+  "last_updated": "2026-10-16T08:58:22Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -128,6 +128,22 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Currie Calls Brent 'Vibe Contract' Out of Step with Energy",
+          "summary": "The world's most important oil benchmark has become little more than a 'vibe contract', according to Wall Street veteran Jeff Currie.",
+          "date": "2026-10-16",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/currie_calls_brent_vibe_contract_out_of_step_with_energy-16-oct-2026-184862-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Eni Advances Coral North Drilling, Eyes Third Mozambique FLNG",
+          "summary": "Italian energy firm Eni will start drilling up to six development wells from November that will feed gas to its new Coral North floating liquefied natural gas platform offshore Mozambique…",
+          "date": "2026-10-16",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543729-eni-advances-coral-north-drilling-eyes-third-mozambique-flng",
+          "relevant": false
+        },
         {
           "title": "Northern Lights expansion brings fresh work for Worley Rosenberg",
           "summary": "Subsea 7 has selected Worley Rosenberg to construct key subsea structures and spools supporting Phase II of the Northern Lights carbon transport and storage development, Norway’s flagship CCS project. The contract…",
@@ -3473,6 +3489,14 @@
           "relevant": false
         },
         {
+          "title": "Inpex-Led Bonaparte CCS Project Gets Australian Offshore Storage Approval",
+          "summary": "Australia has declared the West Peron formation suitable for carbon dioxide storage, marking a regulatory milestone for the Inpex-led Bonaparte carbon capture and storage (CCS) project…",
+          "date": "2026-10-16",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543732-inpex-led-bonaparte-ccs-project-gets-australian-offshore-storage-approval",
+          "relevant": false
+        },
+        {
           "title": "UK Tightens Russian Oil Sanctions as U.S. Weighs Relief",
           "summary": "Britain has expanded its sanctions against Russia’s oil industry, targeting two more energy companies, a dozen shadow-fleet tankers and financial networks used to move money around Western restrictions. The measures,...",
           "date": "2026-10-15",
@@ -5072,6 +5096,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "Pakistani upstream petroleum player picks Norwegian firm for data acquisition",
+          "summary": "Norwegian geophysical services company Electromagnetic Geoservices (EMGS) has been selected by a Pakistani upstream petroleum company for...",
+          "date": "2026-10-16",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/16/pakistani-upstream-petroleum-player-picks-norwegian-firm-for-data-acquisition",
+          "relevant": false
+        },
         {
           "title": "JERA acquires JOGMEC’s shares in Wheatstone LNG project vehicle",
           "summary": "Japanese energy company JERA has completed the purchase of all shares held by the Japan Organization for Metals and Energy Security (JOGMEC) in Pan Pacific Energy (PEJ), the entity it uses to invest in Australia's…",
