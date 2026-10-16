@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T17:00:58Z",
+  "last_updated": "2026-10-16T18:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3513,6 +3513,22 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Houthi Attacks on Saudi Arabia Defy Difference in Military Power",
+          "summary": "The Houthi attacks on Saudi Arabia are demonstrating the limits of the kingdom’s military prowess — despite defense spending that far outstrips that of its regional neighbors.",
+          "date": "2026-10-16",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/houthi-attacks-on-saudi-arabia-defy-difference-in-military-power/",
+          "relevant": true
+        },
+        {
+          "title": "Supertanker Rates Fall from Record Highs",
+          "summary": "The cost ?of shipping oil on the largest tankers fell this week from record highs as demand eased following a wave of attacks on vessels in the Middle East and as the US considered easing sanctions on the so-called…",
+          "date": "2026-10-16",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/supertanker-rates-fall-from-record-highs/",
+          "relevant": false
+        },
+        {
           "title": "UK ports hit back at Brussels over ETS diversion claims",
           "summary": "British ports have challenged European Union claims that shipping lines are diverting container traffic to the UK to escape carbon charges, warning that proposed anti-evasion measures risk penalising billions of pounds…",
           "date": "2026-10-16",
@@ -3569,22 +3585,6 @@
           "relevant": false
         },
         {
-          "title": "UK Tightens Russian Oil Sanctions as U.S. Weighs Relief",
-          "summary": "Britain has expanded its sanctions against Russia’s oil industry, targeting two more energy companies, a dozen shadow-fleet tankers and financial networks used to move money around Western restrictions. The measures,...",
-          "date": "2026-10-15",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/uk-tightens-russian-oil-sanctions-as-u-s-weighs-relief/",
-          "relevant": false
-        },
-        {
-          "title": "Trump Weighs Lifting Shadow Fleet Sanctions as Tanker Rates Soar",
-          "summary": "By Timothy Gardner and Jarrett Renshaw WASHINGTON, Oct 14 (Reuters) – The Trump administration is considering easing sanctions on so-called shadow fleet vessels that have transported oil and petroleum products...",
-          "date": "2026-10-15",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/trump-weighs-lifting-shadow-fleet-sanctions-as-tanker-rates-soar/",
-          "relevant": false
-        },
-        {
           "title": "Khalda sets drilling record in Egypt with three wells in one month",
           "summary": "Khalda Petroleum handed over three consecutive wells within a month using one rig, the first time it has done so since its establishment, and reported 17.7% in cost savings. The KAH-B-54 well was completed in 7.5 days…",
           "date": "2026-10-15",
@@ -3606,6 +3606,22 @@
           "date": "2026-10-15",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/oil-prices-drop-us-russia-tanker/",
+          "relevant": false
+        },
+        {
+          "title": "UK Tightens Russian Oil Sanctions as U.S. Weighs Relief",
+          "summary": "Britain has expanded its sanctions against Russia’s oil industry, targeting two more energy companies, a dozen shadow-fleet tankers and financial networks used to move money around Western restrictions. The measures,...",
+          "date": "2026-10-15",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/uk-tightens-russian-oil-sanctions-as-u-s-weighs-relief/",
+          "relevant": false
+        },
+        {
+          "title": "Trump Weighs Lifting Shadow Fleet Sanctions as Tanker Rates Soar",
+          "summary": "By Timothy Gardner and Jarrett Renshaw WASHINGTON, Oct 14 (Reuters) – The Trump administration is considering easing sanctions on so-called shadow fleet vessels that have transported oil and petroleum products...",
+          "date": "2026-10-15",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/trump-weighs-lifting-shadow-fleet-sanctions-as-tanker-rates-soar/",
           "relevant": false
         },
         {
