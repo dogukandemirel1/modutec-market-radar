@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T07:00:57Z",
+  "last_updated": "2026-10-16T08:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -129,19 +129,19 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Northern Lights expansion brings fresh work for Worley Rosenberg",
+          "summary": "Subsea 7 has selected Worley Rosenberg to construct key subsea structures and spools supporting Phase II of the Northern Lights carbon transport and storage development, Norway’s flagship CCS project. The contract…",
+          "date": "2026-10-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/northern-lights-expansion-brings-fresh-work-for-worley-rosenberg/",
+          "relevant": false
+        },
+        {
           "title": "Oil Shipping Costs Spike, Lifting Prices from Pump to Grocery",
           "summary": "When the oil supertanker Esteem Explorer sails from the United States to Japan in late November, loaded with about 2 million barrels of crude, the journey will cost $81 million. The same journey would have cost $9.1…",
           "date": "2026-10-15",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/oil-shipping-costs-spike-lifting-prices-from-pump-to-grocery/",
-          "relevant": false
-        },
-        {
-          "title": "COSCO lands ten-year Chinese car-export deal",
-          "summary": "COSCO Shipping Specialized Carriers’ car-carrier business has signed a 10-year contract of affreightment with Chinese automaker DFSK, securing a long-term vehicle-export cargo relationship. The agreement was signed with…",
-          "date": "2026-10-15",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/cosco-lands-ten-year-chinese-car-export-deal/",
           "relevant": false
         },
         {
@@ -241,6 +241,14 @@
           "relevant": false
         },
         {
+          "title": "COSCO lands ten-year Chinese car-export deal",
+          "summary": "COSCO Shipping Specialized Carriers’ car-carrier business has signed a 10-year contract of affreightment with Chinese automaker DFSK, securing a long-term vehicle-export cargo relationship. The agreement was signed with…",
+          "date": "2026-10-15",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/cosco-lands-ten-year-chinese-car-export-deal/",
+          "relevant": false
+        },
+        {
           "title": "BGN takes VLGC ordering spree to 10 ships",
           "summary": "Dubai-based energy trader BGN International has returned to South Korea’s HD Hyundai Heavy Industries for four more VLGC newbuildings, taking its ordering tally at the yard this year to ten ships. The latest contract…",
           "date": "2026-10-15",
@@ -329,14 +337,6 @@
           "relevant": false
         },
         {
-          "title": "Sweden Formalizes Interim Submarine Training and Södermanland Lease for Poland",
-          "summary": "Poland and Sweden have finalized formal contracts for Polish submarine crew training and the lease of the interim A17-class boat HMS Södermanland, paving the way for the future delivery of Saab A26 submarines. The post…",
-          "date": "2026-10-13",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/sweden-formalizes-interim-submarine-training-and-sodermanland-lease-for-poland/",
-          "relevant": false
-        },
-        {
           "title": "TotalEnergies orders French tubular solutions for gas field in Azerbaijan",
           "summary": "France’s energy giant TotalEnergies has awarded compatriot Vallourec a contract to deliver over 16,000 tons of tubular products for a gas field...",
           "date": "2026-10-13",
@@ -358,6 +358,14 @@
           "date": "2026-10-13",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/13/seadrill-scores-big-with-new-rig-awards-in-asia-africa-and-us-gulf",
+          "relevant": false
+        },
+        {
+          "title": "Sweden Formalizes Interim Submarine Training and Södermanland Lease for Poland",
+          "summary": "Poland and Sweden have finalized formal contracts for Polish submarine crew training and the lease of the interim A17-class boat HMS Södermanland, paving the way for the future delivery of Saab A26 submarines. The post…",
+          "date": "2026-10-13",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/sweden-formalizes-interim-submarine-training-and-sodermanland-lease-for-poland/",
           "relevant": false
         },
         {
@@ -3449,6 +3457,22 @@
           "relevant": false
         },
         {
+          "title": "Former Ukrainian officer goes on trial over Nord Stream sabotage",
+          "summary": "Germany has opened its first criminal trial over the 2022 sabotage of the Nord Stream gas pipelines, with a former Ukrainian military officer accused of leading the team that carried out the explosions in the Baltic…",
+          "date": "2026-10-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/former-ukrainian-officer-goes-on-trial-over-nord-stream-sabotage/",
+          "relevant": false
+        },
+        {
+          "title": "EU Renews Operation IRINI to 2029, Targets Russian Shadow Fleet and CUI Protection",
+          "summary": "The EU Council has extended EUNAVFOR MED IRINI mandate through March 2029, adding new tasks to monitor Russian shadow fleets and safeguard critical undersea infrastructure (CUI). The post EU Renews Operation IRINI to…",
+          "date": "2026-10-16",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/eu-renews-operation-irini-to-2029-targets-russian-shadow-fleet-and-cui-protection/",
+          "relevant": false
+        },
+        {
           "title": "UK Tightens Russian Oil Sanctions as U.S. Weighs Relief",
           "summary": "Britain has expanded its sanctions against Russia’s oil industry, targeting two more energy companies, a dozen shadow-fleet tankers and financial networks used to move money around Western restrictions. The measures,...",
           "date": "2026-10-15",
@@ -3462,22 +3486,6 @@
           "date": "2026-10-15",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/trump-weighs-lifting-shadow-fleet-sanctions-as-tanker-rates-soar/",
-          "relevant": false
-        },
-        {
-          "title": "Suez tightens transit rules for ageing ships",
-          "summary": "The Suez Canal Authority (SCA) has introduced mandatory inspections and trials for vessels aged 25 years and older, adding further costs and potential delays for operators of ageing tonnage. The new regulations, already…",
-          "date": "2026-10-15",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/suez-tightens-transit-rules-for-ageing-ships/",
-          "relevant": false
-        },
-        {
-          "title": "US shadow fleet proposal sparks tanker stock rout",
-          "summary": "Asian shipping stocks took a beating on Thursday as reports that Washington is considering easing sanctions on shadow fleet tankers sent investors scrambling to reassess the extraordinary freight boom that has sent some…",
-          "date": "2026-10-15",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/us-shadow-fleet-proposal-sparks-tanker-stock-rout/",
           "relevant": false
         },
         {
@@ -3510,6 +3518,22 @@
           "date": "2026-10-15",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543696-oil-markets-brace-for-years-of-high-prices-as-iran-war-drags-on",
+          "relevant": false
+        },
+        {
+          "title": "Suez tightens transit rules for ageing ships",
+          "summary": "The Suez Canal Authority (SCA) has introduced mandatory inspections and trials for vessels aged 25 years and older, adding further costs and potential delays for operators of ageing tonnage. The new regulations, already…",
+          "date": "2026-10-15",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/suez-tightens-transit-rules-for-ageing-ships/",
+          "relevant": false
+        },
+        {
+          "title": "US shadow fleet proposal sparks tanker stock rout",
+          "summary": "Asian shipping stocks took a beating on Thursday as reports that Washington is considering easing sanctions on shadow fleet tankers sent investors scrambling to reassess the extraordinary freight boom that has sent some…",
+          "date": "2026-10-15",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/us-shadow-fleet-proposal-sparks-tanker-stock-rout/",
           "relevant": false
         },
         {
