@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T12:00:59Z",
+  "last_updated": "2026-10-16T13:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -149,7 +149,15 @@
           "summary": "Indian coal bed methane (CBM) operator Essar Oil & Gas has been awarded five exploration blocks covering approximately 1,281km2 across West Bengal, Madhya Pradesh and Telangana in India.",
           "date": "2026-10-16",
           "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/sectors/industry/essar-oil-gas-five-cbm-blocks-indian/",
+          "source_url": "https://www.offshore-technology.com/news/essar-oil-gas-five-cbm-blocks-indian/",
+          "relevant": false
+        },
+        {
+          "title": "Equinor Exercises Two Well Option for Deepsea Atlantic Rig",
+          "summary": "Equinor has exercised options for two additional wells using Odfjell Drilling's Deepsea Atlantic semi-submersible rig, extending its firm contract into the late fourth quarter of 2027…",
+          "date": "2026-10-16",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543738-equinor-exercises-two-well-option-for-deepsea-atlantic-rig",
           "relevant": false
         },
         {
@@ -166,6 +174,14 @@
           "date": "2026-10-16",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543729-eni-advances-coral-north-drilling-eyes-third-mozambique-flng",
+          "relevant": false
+        },
+        {
+          "title": "Essar Oil & Gas wins five new CBM blocks across three Indian states",
+          "summary": "Indian coal bed methane (CBM) operator Essar Oil & Gas has been awarded five exploration blocks covering approximately 1,281km2 across West Bengal, Madhya Pradesh and Telangana in India.",
+          "date": "2026-10-16",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/sectors/industry/essar-oil-gas-five-cbm-blocks-indian/",
           "relevant": false
         },
         {
