@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T14:01:04Z",
+  "last_updated": "2026-10-16T15:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -14,6 +14,14 @@
           "date": "2026-10-16",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/equinor-keeps-odfjell-drilling-semisub-busy-into-late-2027/",
+          "relevant": false
+        },
+        {
+          "title": "Equinor adds two wells to Odfjell’s Deepsea Atlantic contract",
+          "summary": "Equinor exercised priced options for two additional wells for Odfjell Drilling’s Deepsea Atlantic semisubmersible, extending the rig’s firm contract to late Q4 2027. The work follows directly on the rig’s current…",
+          "date": "2026-10-16",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/equinor-adds-two-wells-to-odfjells-deepsea-atlantic-contract-80368",
           "relevant": false
         },
         {
@@ -3625,14 +3633,6 @@
           "relevant": false
         },
         {
-          "title": "Predator completes MOU-6 drilling in Morocco, gets Snowcap-3 approval in Trinidad",
-          "summary": "Predator Oil & Gas drilled the MOU-6 well in its Guercif license in Morocco to a planned total depth of 950 m within the 20-day guidance, penetrating a gross upper interval of 21.2 m in the TGB-6 Submarine Fan. The well…",
-          "date": "2026-10-14",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/predator-completes-mou-6-drilling-in-morocco-gets-snowcap-3-approval-in-trinidad-80339",
-          "relevant": false
-        },
-        {
           "title": "Petrobras lands $859 million payout from oil fields deal with Shell, TotalEnergies, and Petrogal",
           "summary": "This deal enables Petrobras to reconcile historical costs and production revenues for two deepwater assets in the Santos Basin offshore Brazil.",
           "date": "2026-10-14",
@@ -3646,6 +3646,14 @@
           "date": "2026-10-14",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/oil_gains_as_global_supply_risks_mount-14-oct-2026-184852-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Predator completes MOU-6 drilling in Morocco, gets Snowcap-3 approval in Trinidad",
+          "summary": "Predator Oil & Gas drilled the MOU-6 well in its Guercif license in Morocco to a planned total depth of 950 m within the 20-day guidance, penetrating a gross upper interval of 21.2 m in the TGB-6 Submarine Fan. The well…",
+          "date": "2026-10-14",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/predator-completes-mou-6-drilling-in-morocco-gets-snowcap-3-approval-in-trinidad-80339",
           "relevant": false
         },
         {
