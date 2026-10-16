@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T06:00:59Z",
+  "last_updated": "2026-10-16T07:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5049,19 +5049,19 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
-          "title": "A.P. Moller Capital strikes deal for Mitsui’s Portek",
-          "summary": "A.P. Moller Capital has lined up another port acquisition, agreeing to take full control of Singapore-based terminal operator Portek International from Japanese trading house Mitsui & Co. The Copenhagen-based…",
-          "date": "2026-10-15",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/a-p-moller-capital-strikes-deal-for-mitsuis-portek/",
-          "relevant": false
-        },
-        {
           "title": "JERA acquires JOGMEC’s shares in Wheatstone LNG project vehicle",
           "summary": "Japanese energy company JERA has completed the purchase of all shares held by the Japan Organization for Metals and Energy Security (JOGMEC) in Pan Pacific Energy (PEJ), the entity it uses to invest in Australia's…",
           "date": "2026-10-15",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/jera-acquires-jogmecs-shares-wheatstone-lng/",
+          "relevant": false
+        },
+        {
+          "title": "A.P. Moller Capital strikes deal for Mitsui’s Portek",
+          "summary": "A.P. Moller Capital has lined up another port acquisition, agreeing to take full control of Singapore-based terminal operator Portek International from Japanese trading house Mitsui & Co. The Copenhagen-based…",
+          "date": "2026-10-15",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/a-p-moller-capital-strikes-deal-for-mitsuis-portek/",
           "relevant": false
         },
         {
