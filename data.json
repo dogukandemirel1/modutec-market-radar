@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T05:00:57Z",
+  "last_updated": "2026-10-16T06:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3441,6 +3441,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "West Africa’s ore boom meets China’s growing VLOC armada",
+          "summary": "West Africa is fast becoming dry bulk shipping’s biggest growth engine, with its mineral export boom poised to absorb the equivalent of another 120 capesizes by 2030. UK consultancy Tradeviews forecasts in a new report…",
+          "date": "2026-10-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/west-africas-ore-boom-meets-chinas-growing-vloc-armada/",
+          "relevant": false
+        },
+        {
           "title": "UK Tightens Russian Oil Sanctions as U.S. Weighs Relief",
           "summary": "Britain has expanded its sanctions against Russia’s oil industry, targeting two more energy companies, a dozen shadow-fleet tankers and financial networks used to move money around Western restrictions. The measures,...",
           "date": "2026-10-15",
@@ -5954,15 +5962,6 @@
           "region": "KSA"
         },
         {
-          "title": "Hormuz claims two more ships in fresh wave of strikes",
-          "summary": "Two ships have sunk near the Strait of Hormuz as fresh attacks on commercial shipping have hit three containerships linked to Abu Dhabi’s AD Ports Group. The Singapore-flagged GFS Pride, a 2008-built, 2,824 teu feeder…",
-          "date": "2026-10-15",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/hormuz-claims-two-more-ships-in-fresh-wave-of-strikes/",
-          "relevant": true,
-          "region": "UAE"
-        },
-        {
           "title": "Seascape Energy gets 45% more offshore acreage in Malaysia",
           "summary": "Malaysia’s state-owned oil & gas company Petronas has granted Seascape Energy, an E&P company focused on Southeast Asia, a 45% extension of its...",
           "date": "2026-10-15",
@@ -6006,6 +6005,15 @@
           "source_url": "https://www.offshore-technology.com/news/seascape-petronas-temaris-psc-expansion/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Hormuz claims two more ships in fresh wave of strikes",
+          "summary": "Two ships have sunk near the Strait of Hormuz as fresh attacks on commercial shipping have hit three containerships linked to Abu Dhabi’s AD Ports Group. The Singapore-flagged GFS Pride, a 2008-built, 2,824 teu feeder…",
+          "date": "2026-10-15",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/hormuz-claims-two-more-ships-in-fresh-wave-of-strikes/",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Pacifico Energy launches survey campaign for 1.8 GW offshore wind projects in Vietnam",
