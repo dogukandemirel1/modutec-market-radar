@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T19:00:58Z",
+  "last_updated": "2026-10-16T20:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -201,14 +201,6 @@
           "relevant": false
         },
         {
-          "title": "Oil Shipping Costs Spike, Lifting Prices from Pump to Grocery",
-          "summary": "When the oil supertanker Esteem Explorer sails from the United States to Japan in late November, loaded with about 2 million barrels of crude, the journey will cost $81 million. The same journey would have cost $9.1…",
-          "date": "2026-10-15",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/oil-shipping-costs-spike-lifting-prices-from-pump-to-grocery/",
-          "relevant": false
-        },
-        {
           "title": "Navantia signs a contract to modernize two patrol vessels for Angolan Navy",
           "summary": "On October 15, 2026, Spanish shipbuilder Navantia announced a contract with the Angolan Navy for the modernization of two Mandume-class patrol boats. Navantia press release Navantia has signed in Angola a contract to…",
           "date": "2026-10-15",
@@ -286,6 +278,14 @@
           "date": "2026-10-15",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543705-seadrill-loses-appeal-in-55m-hercules-drilling-rig-dispute-with-sfl",
+          "relevant": false
+        },
+        {
+          "title": "Oil Shipping Costs Spike, Lifting Prices from Pump to Grocery",
+          "summary": "When the oil supertanker Esteem Explorer sails from the United States to Japan in late November, loaded with about 2 million barrels of crude, the journey will cost $81 million. The same journey would have cost $9.1…",
+          "date": "2026-10-15",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/oil-shipping-costs-spike-lifting-prices-from-pump-to-grocery/",
           "relevant": false
         },
         {
@@ -6107,7 +6107,7 @@
         },
         {
           "title": "Incat Crowther to Build Fourth Fast Support Intervention Vessel",
-          "summary": "Offshore energy services provider Zamil Offshore has commissioned global digital shipbuilder IncatCrowther and Singaporean shipbuilder Lita Ocean to design, build…",
+          "summary": "Zamil Offshore commissioned Incat Crowther and Singaporean shipbuilder Lita Ocean to design, build and deliver a fourth 60-m ABS-classed monohull Fast Support Intervention Vessel (FSIV)…",
           "date": "2026-10-16",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543743-incat-crowther-to-build-fourth-fast-support-intervention-vessel",
