@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T15:01:01Z",
+  "last_updated": "2026-10-16T16:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -6086,6 +6086,15 @@
           "date": "2026-10-16",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/16/methanol-ready-energy-subsea-construction-vessel-arrives-in-norway-for-completion",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Incat Crowther to Build Fourth Fast Support Intervention Vessel",
+          "summary": "Offshore energy services provider Zamil Offshore has commissioned global digital shipbuilder IncatCrowther and Singaporean shipbuilder Lita Ocean to design, build…",
+          "date": "2026-10-16",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543743-incat-crowther-to-build-fourth-fast-support-intervention-vessel",
           "relevant": false,
           "region": "SEA"
         },
