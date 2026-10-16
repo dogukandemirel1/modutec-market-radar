@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T09:01:02Z",
+  "last_updated": "2026-10-16T10:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8,6 +8,14 @@
       "short_title": "Day-Rates",
       "description": "Benchmark day-rate trends for jackups, floaters and offshore support vessels across key regions.",
       "items": [
+        {
+          "title": "Equinor keeps Odfjell Drilling semisub busy into late 2027",
+          "summary": "Norway’s Odfjell Drilling has secured more work for its Deepsea Atlantic semisubmersible drilling rig after compatriot energy major Equinor exercised options for two additional wells. The latest option exercise will…",
+          "date": "2026-10-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/equinor-keeps-odfjell-drilling-semisub-busy-into-late-2027/",
+          "relevant": false
+        },
         {
           "title": "Finder Energy contracts ENEOS Hakuryu-5 for Timor-Leste KTJ wells",
           "summary": "Finder Energy signed a contract with ENEOS Drilling for the Hakuryu-5 semisubmersible to drill the Kuda Tasi and Jahal (KTJ) development wells offshore Timor-Leste. The contract covers three firm wells with options for…",
@@ -134,6 +142,22 @@
           "date": "2026-10-16",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/currie_calls_brent_vibe_contract_out_of_step_with_energy-16-oct-2026-184862-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Essar Oil & Gas wins five new CBM blocks across three Indian states",
+          "summary": "Indian coal bed methane (CBM) operator Essar Oil & Gas has been awarded five exploration blocks covering approximately 1,281km2 across West Bengal, Madhya Pradesh and Telangana in India.",
+          "date": "2026-10-16",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/sectors/industry/essar-oil-gas-five-cbm-blocks-indian/",
+          "relevant": false
+        },
+        {
+          "title": "Türkiye Set to Deploy Osman Gazi Gas Production Platform in Black Sea",
+          "summary": "Türkiye will deploy its first floating gas production platform, Osman Gazi, to the Sakarya gas field in the Black Sea on October 17, aiming to more than double domestic…",
+          "date": "2026-10-16",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543733-t-rkiye-set-to-deploy-osman-gazi-gas-production-platform-in-black-sea",
           "relevant": false
         },
         {
@@ -3465,19 +3489,19 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "UK ports hit back at Brussels over ETS diversion claims",
+          "summary": "British ports have challenged European Union claims that shipping lines are diverting container traffic to the UK to escape carbon charges, warning that proposed anti-evasion measures risk penalising billions of pounds…",
+          "date": "2026-10-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/uk-ports-hit-back-at-brussels-over-ets-diversion-claims/",
+          "relevant": false
+        },
+        {
           "title": "West Africa’s ore boom meets China’s growing VLOC armada",
           "summary": "West Africa is fast becoming dry bulk shipping’s biggest growth engine, with its mineral export boom poised to absorb the equivalent of another 120 capesizes by 2030. UK consultancy Tradeviews forecasts in a new report…",
           "date": "2026-10-16",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/west-africas-ore-boom-meets-chinas-growing-vloc-armada/",
-          "relevant": false
-        },
-        {
-          "title": "Former Ukrainian officer goes on trial over Nord Stream sabotage",
-          "summary": "Germany has opened its first criminal trial over the 2022 sabotage of the Nord Stream gas pipelines, with a former Ukrainian military officer accused of leading the team that carried out the explosions in the Baltic…",
-          "date": "2026-10-16",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/former-ukrainian-officer-goes-on-trial-over-nord-stream-sabotage/",
           "relevant": false
         },
         {
@@ -3494,6 +3518,14 @@
           "date": "2026-10-16",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543732-inpex-led-bonaparte-ccs-project-gets-australian-offshore-storage-approval",
+          "relevant": false
+        },
+        {
+          "title": "Former Ukrainian officer goes on trial over Nord Stream sabotage",
+          "summary": "Germany has opened its first criminal trial over the 2022 sabotage of the Nord Stream gas pipelines, with a former Ukrainian military officer accused of leading the team that carried out the explosions in the Baltic…",
+          "date": "2026-10-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/former-ukrainian-officer-goes-on-trial-over-nord-stream-sabotage/",
           "relevant": false
         },
         {
