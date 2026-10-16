@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T11:00:56Z",
+  "last_updated": "2026-10-16T12:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3510,6 +3510,14 @@
           "date": "2026-10-16",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/10/eu-renews-operation-irini-to-2029-targets-russian-shadow-fleet-and-cui-protection/",
+          "relevant": false
+        },
+        {
+          "title": "OPEC+ Meets on Sidelines of Saudi Conference",
+          "summary": "'The Ministers reviewed market conditions', a statement posted on OPEC's website said.",
+          "date": "2026-10-16",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/opec_meets_on_sidelines_of_saudi_conference-16-oct-2026-184863-article/?rss=true",
           "relevant": false
         },
         {
