@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T10:00:57Z",
+  "last_updated": "2026-10-16T11:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3510,6 +3510,14 @@
           "date": "2026-10-16",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/10/eu-renews-operation-irini-to-2029-targets-russian-shadow-fleet-and-cui-protection/",
+          "relevant": false
+        },
+        {
+          "title": "US FERC proposes blanket permit programme for LNG facilities",
+          "summary": "The US Federal Energy Regulatory Commission (FERC) has put forward the first blanket authorisation programme for liquefied natural gas (LNG) facilities through a unanimously backed Notice of Proposed Rulemaking (NOPR).",
+          "date": "2026-10-16",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/us-ferc-blanket-permit-lng-facilities/",
           "relevant": false
         },
         {
