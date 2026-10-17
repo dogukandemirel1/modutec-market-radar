@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T23:00:57Z",
+  "last_updated": "2026-10-17T00:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -201,22 +201,6 @@
           "relevant": false
         },
         {
-          "title": "Navantia signs a contract to modernize two patrol vessels for Angolan Navy",
-          "summary": "On October 15, 2026, Spanish shipbuilder Navantia announced a contract with the Angolan Navy for the modernization of two Mandume-class patrol boats. Navantia press release Navantia has signed in Angola a contract to…",
-          "date": "2026-10-15",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/navantia-signs-a-contract-to-modernize-two-patrol-vessels-for-angolan-navy/",
-          "relevant": false
-        },
-        {
-          "title": "AUKUS: HII Awarded Contract for Engineering and Design Support",
-          "summary": "HII announced that its Newport News Shipbuilding (NNS) division was awarded a $56 million contract by the U.S. Navy for shipbuilding engineering and design in support of the trilateral Australia, United Kingdom, and…",
-          "date": "2026-10-15",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/aukus-hii-awarded-contract-for-engineering-and-design-support/",
-          "relevant": false
-        },
-        {
           "title": "Rig provider and other contractors revealed for Timor-Leste's oil field",
           "summary": "Oil & gas exploration player Finder Energy has awarded Japanese ENEOS Drilling a contract to provide a semi-submersible drilling rig for the...",
           "date": "2026-10-15",
@@ -278,6 +262,22 @@
           "date": "2026-10-15",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543705-seadrill-loses-appeal-in-55m-hercules-drilling-rig-dispute-with-sfl",
+          "relevant": false
+        },
+        {
+          "title": "Navantia signs a contract to modernize two patrol vessels for Angolan Navy",
+          "summary": "On October 15, 2026, Spanish shipbuilder Navantia announced a contract with the Angolan Navy for the modernization of two Mandume-class patrol boats. Navantia press release Navantia has signed in Angola a contract to…",
+          "date": "2026-10-15",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/navantia-signs-a-contract-to-modernize-two-patrol-vessels-for-angolan-navy/",
+          "relevant": false
+        },
+        {
+          "title": "AUKUS: HII Awarded Contract for Engineering and Design Support",
+          "summary": "HII announced that its Newport News Shipbuilding (NNS) division was awarded a $56 million contract by the U.S. Navy for shipbuilding engineering and design in support of the trilateral Australia, United Kingdom, and…",
+          "date": "2026-10-15",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/aukus-hii-awarded-contract-for-engineering-and-design-support/",
           "relevant": false
         },
         {
@@ -3545,14 +3545,6 @@
           "relevant": false
         },
         {
-          "title": "EU Renews Operation IRINI to 2029, Targets Russian Shadow Fleet and CUI Protection",
-          "summary": "The EU Council has extended EUNAVFOR MED IRINI mandate through March 2029, adding new tasks to monitor Russian shadow fleets and safeguard critical undersea infrastructure (CUI). The post EU Renews Operation IRINI to…",
-          "date": "2026-10-16",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/eu-renews-operation-irini-to-2029-targets-russian-shadow-fleet-and-cui-protection/",
-          "relevant": false
-        },
-        {
           "title": "OPEC+ Meets on Sidelines of Saudi Conference",
           "summary": "'The Ministers reviewed market conditions', a statement posted on OPEC's website said.",
           "date": "2026-10-16",
@@ -3574,6 +3566,14 @@
           "date": "2026-10-16",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543732-inpex-led-bonaparte-ccs-project-gets-australian-offshore-storage-approval",
+          "relevant": false
+        },
+        {
+          "title": "EU Renews Operation IRINI to 2029, Targets Russian Shadow Fleet and CUI Protection",
+          "summary": "The EU Council has extended EUNAVFOR MED IRINI mandate through March 2029, adding new tasks to monitor Russian shadow fleets and safeguard critical undersea infrastructure (CUI). The post EU Renews Operation IRINI to…",
+          "date": "2026-10-16",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/eu-renews-operation-irini-to-2029-targets-russian-shadow-fleet-and-cui-protection/",
           "relevant": false
         },
         {
