@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T15:00:56Z",
+  "last_updated": "2026-10-17T16:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -6097,6 +6097,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Iran’s Guards Say Two Tankers Hit Mines In Strait Of Hormuz",
+          "summary": "DUBAI, Oct 17 (Reuters) – Iran’s Revolutionary Guards Navy said on Saturday that two oil tankers had caught fire after hitting naval mines while crossing the Strait of Hormuz, the official Iranian news agency...",
+          "date": "2026-10-17",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/irans-guards-say-two-tankers-hit-mines-in-strait-of-hormuz/",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
           "title": "Methanol-ready energy subsea construction vessel arrives in Norway for completion",
           "summary": "Rem Offshore’s second energy subsea construction vessel (ESCV) has arrived in Norway from Vietnam, where it will now undergo outfitting and...",
           "date": "2026-10-16",
@@ -6113,15 +6122,6 @@
           "source_url": "https://www.oedigital.com/news/543743-incat-crowther-to-build-fourth-fast-support-intervention-vessel",
           "relevant": false,
           "region": "SEA"
-        },
-        {
-          "title": "How the Houthis are Helping Iran Turn Saudi Arabia Into a Pressure Point",
-          "summary": "The Houthi attacks on Saudi Arabia are about more than Yemen.",
-          "date": "2026-10-15",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/how-the-houthis-are-helping-iran-turn-saudi-arabia-into-a-pressure-point/",
-          "relevant": true,
-          "region": "KSA"
         },
         {
           "title": "Seascape Energy gets 45% more offshore acreage in Malaysia",
@@ -6167,6 +6167,15 @@
           "source_url": "https://www.offshore-technology.com/news/seascape-petronas-temaris-psc-expansion/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "How the Houthis are Helping Iran Turn Saudi Arabia Into a Pressure Point",
+          "summary": "The Houthi attacks on Saudi Arabia are about more than Yemen.",
+          "date": "2026-10-15",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/how-the-houthis-are-helping-iran-turn-saudi-arabia-into-a-pressure-point/",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "Hormuz claims two more ships in fresh wave of strikes",
