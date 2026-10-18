@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T15:00:55Z",
+  "last_updated": "2026-10-18T16:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -144,6 +144,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Natural Gas Project Paused After Greenpeace Protest Off Western Australia",
+          "summary": "SYDNEY, Oct 18 (Reuters) – Woodside WDS.AX said operations remained paused on Sunday at a floating production unit, part of its $12.5 ?billion Scarborough natural gas project off the coast ?of Western Australia, due...",
+          "date": "2026-10-18",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/natural-gas-project-paused-after-greenpeace-protest-off-western-australia/",
+          "relevant": false
+        },
         {
           "title": "Currie Calls Brent 'Vibe Contract' Out of Step with Energy",
           "summary": "The world's most important oil benchmark has become little more than a 'vibe contract', according to Wall Street veteran Jeff Currie.",
