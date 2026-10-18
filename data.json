@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T17:00:56Z",
+  "last_updated": "2026-10-18T18:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -6112,6 +6112,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Iran Urges US To Accept Proposal To Reopen Strait Of Hormuz",
+          "summary": "DUBAI, Oct 18 (Reuters) – Iran’s offer to the United States to reopen the Strait of Hormuz within seven days is still on the table, Foreign Minister Abbas Araqchi told Iranian media...",
+          "date": "2026-10-18",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/iran-urges-us-to-accept-proposal-to-reopen-strait-of-hormuz/",
+          "relevant": true,
+          "region": "UAE"
+        },
         {
           "title": "Iran’s Guards Say Two Tankers Hit Mines In Strait Of Hormuz",
           "summary": "DUBAI, Oct 17 (Reuters) – Iran’s Revolutionary Guards Navy said on Saturday that two oil tankers had caught fire after hitting naval mines while crossing the Strait of Hormuz, the official Iranian news agency...",
