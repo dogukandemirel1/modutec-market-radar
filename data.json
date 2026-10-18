@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T13:00:59Z",
+  "last_updated": "2026-10-18T14:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -353,14 +353,6 @@
           "relevant": false
         },
         {
-          "title": "Hallador Bags $700MM Contract to Supply MISO Utility",
-          "summary": "Hallador signed a $700-million agreement to supply a utility operating in MISO Zone 6 from the Merom Generating Station in Sullivan County, Indiana.",
-          "date": "2026-10-14",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/hallador_bags_700mm_contract_to_supply_miso_utility-14-oct-2026-184851-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "SAFE wins US Marine Corps contract for MULE expeditionary platforms",
           "summary": "SAFE Structure Designs (SAFE) has secured a contract worth more than $10m to supply its Multi-Utility LoadEr (MULE) expeditionary logistics platforms to the United States Marine Corps. The post SAFE wins US Marine Corps…",
           "date": "2026-10-14",
@@ -374,6 +366,14 @@
           "date": "2026-10-14",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/hii-nns-aukus-contract/",
+          "relevant": false
+        },
+        {
+          "title": "Hallador Bags $700MM Contract to Supply MISO Utility",
+          "summary": "Hallador signed a $700-million agreement to supply a utility operating in MISO Zone 6 from the Merom Generating Station in Sullivan County, Indiana.",
+          "date": "2026-10-14",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/hallador_bags_700mm_contract_to_supply_miso_utility-14-oct-2026-184851-article/?rss=true",
           "relevant": false
         },
         {
