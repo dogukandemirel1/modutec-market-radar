@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T13:00:57Z",
+  "last_updated": "2026-10-19T14:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -6311,6 +6311,15 @@
           "date": "2026-10-19",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/19/petronas-and-petrovietnam-strengthen-ties-in-pursuit-of-energy-security-and-low-carbon-growth",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Philippines, USA Looking to Expand Cooperation on Energy Security",
+          "summary": "The Philippines and the U.S. are exploring an expansion of collaboration on energy security, according to Manila's energy department.",
+          "date": "2026-10-19",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/philippines_usa_looking_to_expand_cooperation_on_energy_security-19-oct-2026-184875-article/?rss=true",
           "relevant": false,
           "region": "SEA"
         },
