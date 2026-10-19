@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T12:00:59Z",
+  "last_updated": "2026-10-19T13:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -182,6 +182,14 @@
           "date": "2026-10-19",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/silver-city-rig-heads-to-seram-for-lions-bula-karang-1-well-80370",
+          "relevant": false
+        },
+        {
+          "title": "Transocean’s drillship pair bags $550 million in new US Gulf deals",
+          "summary": "Transocean has secured multi-well ultra-deepwater contracts for two drillships in the U.S. Gulf, extending operations through 2027.",
+          "date": "2026-10-19",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/19/transoceans-drillship-pair-bags-dollar550-million-in-new-us-gulf-deals",
           "relevant": false
         },
         {
@@ -6294,6 +6302,15 @@
           "date": "2026-10-19",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/hai-an-lines-up-70m-feeder-newbuild-investment/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Petronas and Petrovietnam strengthen ties in pursuit of energy security and low-carbon growth",
+          "summary": "Petronas and Petrovietnam are expanding their 35-year partnership across LNG, upstream development, and low-carbon energy arsenal in Vietnam.",
+          "date": "2026-10-19",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/19/petronas-and-petrovietnam-strengthen-ties-in-pursuit-of-energy-security-and-low-carbon-growth",
           "relevant": false,
           "region": "SEA"
         },
