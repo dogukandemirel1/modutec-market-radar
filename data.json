@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T23:00:54Z",
+  "last_updated": "2026-10-19T00:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3521,6 +3521,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Turkey Will Get Some Diesel From US-Russia Supply Deal",
+          "summary": "ANKARA, Oct 18 (Reuters) – Turkey will take some of the diesel Russia is supplying to global markets under its agreement with US President Donald Trump, Energy Minister Alparslan Bayraktar said on...",
+          "date": "2026-10-18",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/turkey-will-get-some-diesel-from-us-russia-supply-deal/",
+          "relevant": false
+        },
+        {
           "title": "Romanian Fighter Jets Shoot Down Two Drones Over Territorial Waters",
           "summary": "BUCHAREST, Oct 17 (Reuters) – Romanian F-16 fighter jets shot down two drones over the country’s territorial waters on Saturday, the defense ministry said. The drones were brought down days after two...",
           "date": "2026-10-17",
@@ -3535,14 +3543,6 @@
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/houthi-attacks-on-saudi-arabia-defy-difference-in-military-power/",
           "relevant": true
-        },
-        {
-          "title": "Supertanker Rates Fall from Record Highs",
-          "summary": "The cost ?of shipping oil on the largest tankers fell this week from record highs as demand eased following a wave of attacks on vessels in the Middle East and as the US considered easing sanctions on the so-called…",
-          "date": "2026-10-16",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/supertanker-rates-fall-from-record-highs/",
-          "relevant": false
         },
         {
           "title": "UK ports hit back at Brussels over ETS diversion claims",
@@ -3590,6 +3590,14 @@
           "date": "2026-10-16",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543732-inpex-led-bonaparte-ccs-project-gets-australian-offshore-storage-approval",
+          "relevant": false
+        },
+        {
+          "title": "Supertanker Rates Fall from Record Highs",
+          "summary": "The cost ?of shipping oil on the largest tankers fell this week from record highs as demand eased following a wave of attacks on vessels in the Middle East and as the US considered easing sanctions on the so-called…",
+          "date": "2026-10-16",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/supertanker-rates-fall-from-record-highs/",
           "relevant": false
         },
         {
