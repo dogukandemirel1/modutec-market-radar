@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T07:00:57Z",
+  "last_updated": "2026-10-19T08:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -9,19 +9,19 @@
       "description": "Benchmark day-rate trends for jackups, floaters and offshore support vessels across key regions.",
       "items": [
         {
-          "title": "Equinor keeps Odfjell Drilling semisub busy into late 2027",
-          "summary": "Norway’s Odfjell Drilling has secured more work for its Deepsea Atlantic semisubmersible drilling rig after compatriot energy major Equinor exercised options for two additional wells. The latest option exercise will…",
-          "date": "2026-10-16",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/equinor-keeps-odfjell-drilling-semisub-busy-into-late-2027/",
-          "relevant": false
-        },
-        {
           "title": "Equinor adds two wells to Odfjell’s Deepsea Atlantic contract",
           "summary": "Equinor exercised priced options for two additional wells for Odfjell Drilling’s Deepsea Atlantic semisubmersible, extending the rig’s firm contract to late Q4 2027. The work follows directly on the rig’s current…",
           "date": "2026-10-16",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/equinor-adds-two-wells-to-odfjells-deepsea-atlantic-contract-80368",
+          "relevant": false
+        },
+        {
+          "title": "Equinor keeps Odfjell Drilling semisub busy into late 2027",
+          "summary": "Norway’s Odfjell Drilling has secured more work for its Deepsea Atlantic semisubmersible drilling rig after compatriot energy major Equinor exercised options for two additional wells. The latest option exercise will…",
+          "date": "2026-10-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/equinor-keeps-odfjell-drilling-semisub-busy-into-late-2027/",
           "relevant": false
         },
         {
@@ -145,6 +145,46 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "India rolls out credit risk backstop for shipbuilders",
+          "summary": "India has introduced two government-backed credit-risk insurance products for shipbuilders, aiming to protect domestic yards against missed payments and buyer defaults on vessel construction contracts. The measures…",
+          "date": "2026-10-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/india-rolls-out-credit-risk-backstop-for-shipbuilders/",
+          "relevant": false
+        },
+        {
+          "title": "Greenpeace activists charged after disrupting Woodside offshore gas project",
+          "summary": "Two Greenpeace activists have been charged after a weekend occupation of Woodside Energy’s Scarborough floating production unit off Western Australia forced the company to suspend pre-commissioning activities. Four…",
+          "date": "2026-10-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/greenpeace-activists-charged-after-disrupting-woodside-offshore-gas-project/",
+          "relevant": false
+        },
+        {
+          "title": "Havila adds six vessel-years of firm North Sea work",
+          "summary": "Norwegian offshore vessel operator Havila Shipping has signed contracts with Neo Next + Energy’s UK arm for two of its platform supply vessels (PSVs). The contracts were awarded to the 2010-built Havila Fanø and the…",
+          "date": "2026-10-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/havila-adds-six-vessel-years-of-firm-north-sea-work/",
+          "relevant": false
+        },
+        {
+          "title": "Equinor extends Eidesvik PSV contract through 2027",
+          "summary": "Norwegian offshore vessel owner Eidesvik Offshore has received a contract extension from compatriot energy giant Equinor for the 5,700 dwt platform supply vessel Viking Avant. The contract extension runs directly from…",
+          "date": "2026-10-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/equinor-extends-eidesvik-psv-contract-through-2027/",
+          "relevant": false
+        },
+        {
+          "title": "Australia advances undersea warfare capabilities",
+          "summary": "Australia announces a major milestone in advanced undersea warfare capabilities, unveiling payload integration for Ghost Shark, Speartooth, and BlueBottle uncrewed underwater vehicles. The post Australia advances…",
+          "date": "2026-10-19",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/australia-advances-undersea-warfare-capabilities/",
+          "relevant": false
+        },
+        {
           "title": "Natural Gas Project Paused After Greenpeace Protest Off Western Australia",
           "summary": "SYDNEY, Oct 18 (Reuters) – Woodside WDS.AX said operations remained paused on Sunday at a floating production unit, part of its $12.5 ?billion Scarborough natural gas project off the coast ?of Western Australia, due...",
           "date": "2026-10-18",
@@ -209,22 +249,6 @@
           "relevant": false
         },
         {
-          "title": "Navantia signs a contract to modernize two patrol vessels for Angolan Navy",
-          "summary": "On October 15, 2026, Spanish shipbuilder Navantia announced a contract with the Angolan Navy for the modernization of two Mandume-class patrol boats. Navantia press release Navantia has signed in Angola a contract to…",
-          "date": "2026-10-15",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/navantia-signs-a-contract-to-modernize-two-patrol-vessels-for-angolan-navy/",
-          "relevant": false
-        },
-        {
-          "title": "AUKUS: HII Awarded Contract for Engineering and Design Support",
-          "summary": "HII announced that its Newport News Shipbuilding (NNS) division was awarded a $56 million contract by the U.S. Navy for shipbuilding engineering and design in support of the trilateral Australia, United Kingdom, and…",
-          "date": "2026-10-15",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/aukus-hii-awarded-contract-for-engineering-and-design-support/",
-          "relevant": false
-        },
-        {
           "title": "Rig provider and other contractors revealed for Timor-Leste's oil field",
           "summary": "Oil & gas exploration player Finder Energy has awarded Japanese ENEOS Drilling a contract to provide a semi-submersible drilling rig for the...",
           "date": "2026-10-15",
@@ -278,6 +302,22 @@
           "date": "2026-10-15",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543708-subsea7-hires-worley-for-northern-lights-ccs-fabrication-job",
+          "relevant": false
+        },
+        {
+          "title": "Navantia signs a contract to modernize two patrol vessels for Angolan Navy",
+          "summary": "On October 15, 2026, Spanish shipbuilder Navantia announced a contract with the Angolan Navy for the modernization of two Mandume-class patrol boats. Navantia press release Navantia has signed in Angola a contract to…",
+          "date": "2026-10-15",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/navantia-signs-a-contract-to-modernize-two-patrol-vessels-for-angolan-navy/",
+          "relevant": false
+        },
+        {
+          "title": "AUKUS: HII Awarded Contract for Engineering and Design Support",
+          "summary": "HII announced that its Newport News Shipbuilding (NNS) division was awarded a $56 million contract by the U.S. Navy for shipbuilding engineering and design in support of the trilateral Australia, United Kingdom, and…",
+          "date": "2026-10-15",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/aukus-hii-awarded-contract-for-engineering-and-design-support/",
           "relevant": false
         },
         {
@@ -3529,6 +3569,14 @@
           "relevant": false
         },
         {
+          "title": "Rheinmetall to take over the Mangalia shipyard in Romania",
+          "summary": "Rheinmetall and MSC acquire Romania’s Mangalia shipyard for €138M to establish a dual-use hub for civil and military naval shipbuilding in South-Eastern Europe. Rheinmteall press release Rheinmetall and the Swiss…",
+          "date": "2026-10-19",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/rheinmetall-to-take-over-the-mangalia-shipyard-in-romania/",
+          "relevant": false
+        },
+        {
           "title": "Turkey Will Get Some Diesel From US-Russia Supply Deal",
           "summary": "ANKARA, Oct 18 (Reuters) – Turkey will take some of the diesel Russia is supplying to global markets under its agreement with US President Donald Trump, Energy Minister Alparslan Bayraktar said on...",
           "date": "2026-10-18",
@@ -3542,22 +3590,6 @@
           "date": "2026-10-17",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/romanian-fighter-jets-shoot-down-two-drones-over-territorial-waters/",
-          "relevant": false
-        },
-        {
-          "title": "UK ports hit back at Brussels over ETS diversion claims",
-          "summary": "British ports have challenged European Union claims that shipping lines are diverting container traffic to the UK to escape carbon charges, warning that proposed anti-evasion measures risk penalising billions of pounds…",
-          "date": "2026-10-16",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/uk-ports-hit-back-at-brussels-over-ets-diversion-claims/",
-          "relevant": false
-        },
-        {
-          "title": "West Africa’s ore boom meets China’s growing VLOC armada",
-          "summary": "West Africa is fast becoming dry bulk shipping’s biggest growth engine, with its mineral export boom poised to absorb the equivalent of another 120 capesizes by 2030. UK consultancy Tradeviews forecasts in a new report…",
-          "date": "2026-10-16",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/west-africas-ore-boom-meets-chinas-growing-vloc-armada/",
           "relevant": false
         },
         {
@@ -3590,6 +3622,22 @@
           "date": "2026-10-16",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543732-inpex-led-bonaparte-ccs-project-gets-australian-offshore-storage-approval",
+          "relevant": false
+        },
+        {
+          "title": "UK ports hit back at Brussels over ETS diversion claims",
+          "summary": "British ports have challenged European Union claims that shipping lines are diverting container traffic to the UK to escape carbon charges, warning that proposed anti-evasion measures risk penalising billions of pounds…",
+          "date": "2026-10-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/uk-ports-hit-back-at-brussels-over-ets-diversion-claims/",
+          "relevant": false
+        },
+        {
+          "title": "West Africa’s ore boom meets China’s growing VLOC armada",
+          "summary": "West Africa is fast becoming dry bulk shipping’s biggest growth engine, with its mineral export boom poised to absorb the equivalent of another 120 capesizes by 2030. UK consultancy Tradeviews forecasts in a new report…",
+          "date": "2026-10-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/west-africas-ore-boom-meets-chinas-growing-vloc-armada/",
           "relevant": false
         },
         {
