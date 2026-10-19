@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T08:00:58Z",
+  "last_updated": "2026-10-19T09:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -145,6 +145,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "COSCO books 16 grain carrier newbuilds",
+          "summary": "China’s COSCO Shipping Bulk has signed up for another 16 multipurpose grain carriers at Fujian Shipbuilding, extending its newbuilding spree in the dry bulk sector. The latest batch of 87,000 dwt vessels was contracted…",
+          "date": "2026-10-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/cosco-books-16-grain-carrier-newbuilds/",
+          "relevant": false
+        },
+        {
           "title": "India rolls out credit risk backstop for shipbuilders",
           "summary": "India has introduced two government-backed credit-risk insurance products for shipbuilders, aiming to protect domestic yards against missed payments and buyer defaults on vessel construction contracts. The measures…",
           "date": "2026-10-19",
@@ -158,6 +166,38 @@
           "date": "2026-10-19",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/greenpeace-activists-charged-after-disrupting-woodside-offshore-gas-project/",
+          "relevant": false
+        },
+        {
+          "title": "Union Maritime orders PSV pair at Fujian Shipbuilding",
+          "summary": "UK shipowner Union Maritime has ordered two platform supply vessels (PSVs) from China’s Fujian Shipbuilding, with options for two more, as it expands its offshore support fleet. The 84-metre newbuilds were contracted at…",
+          "date": "2026-10-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/union-maritime-orders-psv-pair-at-fujian-shipbuilding/",
+          "relevant": false
+        },
+        {
+          "title": "Woodside pauses Scarborough gas unit after Greenpeace protest",
+          "summary": "Woodside Energy has suspended activity at a floating production unit central to its $12.5bn Scarborough natural gas development following a protest by Greenpeace off Western Australia’s northwest coast, reported Reuters.",
+          "date": "2026-10-19",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/woodside-pauses-scarborough-gas-unit/",
+          "relevant": false
+        },
+        {
+          "title": "Eidesvik's Viking Avant PSV on Extended Stay with Equinor",
+          "summary": "Norwegian offshore vessel owner Eidesvik Offshore has secured a contract extension from Equinor for its platform supply vessel (PSV) Viking Avant, keeping the vessel…",
+          "date": "2026-10-19",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543754-eidesvik-s-viking-avant-psv-on-extended-stay-with-equinor",
+          "relevant": false
+        },
+        {
+          "title": "Greenpeace Protest Disrupts Work at Woodside's Scarborough Offshore Platform",
+          "summary": "Woodside Energy has suspended pre-commissioning activities at its Scarborough gas project's floating production unit (FPU) offshore Western Australia following a…",
+          "date": "2026-10-19",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543753-greenpeace-protest-disrupts-work-at-woodside-s-scarborough-offshore-platform",
           "relevant": false
         },
         {
@@ -3593,14 +3633,6 @@
           "relevant": false
         },
         {
-          "title": "EU Renews Operation IRINI to 2029, Targets Russian Shadow Fleet and CUI Protection",
-          "summary": "The EU Council has extended EUNAVFOR MED IRINI mandate through March 2029, adding new tasks to monitor Russian shadow fleets and safeguard critical undersea infrastructure (CUI). The post EU Renews Operation IRINI to…",
-          "date": "2026-10-16",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/eu-renews-operation-irini-to-2029-targets-russian-shadow-fleet-and-cui-protection/",
-          "relevant": false
-        },
-        {
           "title": "OPEC+ Meets on Sidelines of Saudi Conference",
           "summary": "'The Ministers reviewed market conditions', a statement posted on OPEC's website said.",
           "date": "2026-10-16",
@@ -3622,6 +3654,14 @@
           "date": "2026-10-16",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543732-inpex-led-bonaparte-ccs-project-gets-australian-offshore-storage-approval",
+          "relevant": false
+        },
+        {
+          "title": "EU Renews Operation IRINI to 2029, Targets Russian Shadow Fleet and CUI Protection",
+          "summary": "The EU Council has extended EUNAVFOR MED IRINI mandate through March 2029, adding new tasks to monitor Russian shadow fleets and safeguard critical undersea infrastructure (CUI). The post EU Renews Operation IRINI to…",
+          "date": "2026-10-16",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/eu-renews-operation-irini-to-2029-targets-russian-shadow-fleet-and-cui-protection/",
           "relevant": false
         },
         {
