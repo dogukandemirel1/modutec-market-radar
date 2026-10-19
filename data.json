@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T17:00:59Z",
+  "last_updated": "2026-10-19T18:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -145,6 +145,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Iran’s Main Oil Terminals Remain Empty as US Blockade Bites",
+          "summary": "Iran’s main oil-loading terminals have remained empty for weeks, adding to signs that a US naval blockade of the country is throttling Tehran’s exports.",
+          "date": "2026-10-19",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/irans-main-oil-terminals-remain-empty-as-us-blockade-bites/",
+          "relevant": false
+        },
+        {
           "title": "Qatar LNG Cargo Makes Rare Red Sea Journey to Get Gas to Europe",
           "summary": "A carrier loaded with Qatari liquefied natural gas is sailing north through the Red Sea, potentially speeding up delivery to European customers with a rare transit through waters vulnerable to renewed attacks from…",
           "date": "2026-10-19",
@@ -185,14 +193,6 @@
           "relevant": false
         },
         {
-          "title": "Australia advances undersea warfare capabilities",
-          "summary": "Australia announces a major milestone in advanced undersea warfare capabilities, unveiling payload integration for Ghost Shark, Speartooth, and BlueBottle uncrewed underwater vehicles. The post Australia advances…",
-          "date": "2026-10-19",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/australia-advances-undersea-warfare-capabilities/",
-          "relevant": false
-        },
-        {
           "title": "Transocean’s drillship pair bags $550 million in new US Gulf deals",
           "summary": "Transocean has secured multi-well ultra-deepwater contracts for two drillships in the U.S. Gulf, extending operations through 2027.",
           "date": "2026-10-19",
@@ -230,6 +230,14 @@
           "date": "2026-10-19",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543753-greenpeace-protest-disrupts-work-at-woodside-s-scarborough-offshore-platform",
+          "relevant": false
+        },
+        {
+          "title": "Australia advances undersea warfare capabilities",
+          "summary": "Australia announces a major milestone in advanced undersea warfare capabilities, unveiling payload integration for Ghost Shark, Speartooth, and BlueBottle uncrewed underwater vehicles. The post Australia advances…",
+          "date": "2026-10-19",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/australia-advances-undersea-warfare-capabilities/",
           "relevant": false
         },
         {
@@ -3665,14 +3673,6 @@
           "relevant": false
         },
         {
-          "title": "Rheinmetall to take over the Mangalia shipyard in Romania",
-          "summary": "Rheinmetall and MSC acquire Romania’s Mangalia shipyard for €138M to establish a dual-use hub for civil and military naval shipbuilding in South-Eastern Europe. Rheinmteall press release Rheinmetall and the Swiss…",
-          "date": "2026-10-19",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/rheinmetall-to-take-over-the-mangalia-shipyard-in-romania/",
-          "relevant": false
-        },
-        {
           "title": "In pursuit of Middle East expansion, US piping company sets up entity in Jordan",
           "summary": "Texas-headquartered engineered pipe services provider Perma-Pipe International has established a subsidiary in Jordan, a move that comes as part...",
           "date": "2026-10-19",
@@ -3686,6 +3686,14 @@
           "date": "2026-10-19",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/trump_says_diesel_deal_aims_to_keep_russia_talks_going-19-oct-2026-184873-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Rheinmetall to take over the Mangalia shipyard in Romania",
+          "summary": "Rheinmetall and MSC acquire Romania’s Mangalia shipyard for €138M to establish a dual-use hub for civil and military naval shipbuilding in South-Eastern Europe. Rheinmteall press release Rheinmetall and the Swiss…",
+          "date": "2026-10-19",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/rheinmetall-to-take-over-the-mangalia-shipyard-in-romania/",
           "relevant": false
         },
         {
