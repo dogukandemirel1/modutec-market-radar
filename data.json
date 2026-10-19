@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T14:00:56Z",
+  "last_updated": "2026-10-19T15:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -185,11 +185,27 @@
           "relevant": false
         },
         {
+          "title": "Australia advances undersea warfare capabilities",
+          "summary": "Australia announces a major milestone in advanced undersea warfare capabilities, unveiling payload integration for Ghost Shark, Speartooth, and BlueBottle uncrewed underwater vehicles. The post Australia advances…",
+          "date": "2026-10-19",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/australia-advances-undersea-warfare-capabilities/",
+          "relevant": false
+        },
+        {
           "title": "Transocean’s drillship pair bags $550 million in new US Gulf deals",
           "summary": "Transocean has secured multi-well ultra-deepwater contracts for two drillships in the U.S. Gulf, extending operations through 2027.",
           "date": "2026-10-19",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/19/transoceans-drillship-pair-bags-dollar550-million-in-new-us-gulf-deals",
+          "relevant": false
+        },
+        {
+          "title": "Iran's Main Oil Terminals Remain Empty",
+          "summary": "Iran's main oil-loading terminals have remained empty for weeks.",
+          "date": "2026-10-19",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/irans_main_oil_terminals_remain_empty-19-oct-2026-184877-article/?rss=true",
           "relevant": false
         },
         {
@@ -262,14 +278,6 @@
           "date": "2026-10-19",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/equinor-extends-eidesvik-psv-contract-through-2027/",
-          "relevant": false
-        },
-        {
-          "title": "Australia advances undersea warfare capabilities",
-          "summary": "Australia announces a major milestone in advanced undersea warfare capabilities, unveiling payload integration for Ghost Shark, Speartooth, and BlueBottle uncrewed underwater vehicles. The post Australia advances…",
-          "date": "2026-10-19",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/australia-advances-undersea-warfare-capabilities/",
           "relevant": false
         },
         {
@@ -3649,6 +3657,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Rheinmetall to take over the Mangalia shipyard in Romania",
+          "summary": "Rheinmetall and MSC acquire Romania’s Mangalia shipyard for €138M to establish a dual-use hub for civil and military naval shipbuilding in South-Eastern Europe. Rheinmteall press release Rheinmetall and the Swiss…",
+          "date": "2026-10-19",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/rheinmetall-to-take-over-the-mangalia-shipyard-in-romania/",
+          "relevant": false
+        },
+        {
           "title": "In pursuit of Middle East expansion, US piping company sets up entity in Jordan",
           "summary": "Texas-headquartered engineered pipe services provider Perma-Pipe International has established a subsidiary in Jordan, a move that comes as part...",
           "date": "2026-10-19",
@@ -3670,14 +3686,6 @@
           "date": "2026-10-19",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/the-pilot-ladder-rules-that-could-send-ships-back-to-the-yard/",
-          "relevant": false
-        },
-        {
-          "title": "Rheinmetall to take over the Mangalia shipyard in Romania",
-          "summary": "Rheinmetall and MSC acquire Romania’s Mangalia shipyard for €138M to establish a dual-use hub for civil and military naval shipbuilding in South-Eastern Europe. Rheinmteall press release Rheinmetall and the Swiss…",
-          "date": "2026-10-19",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/rheinmetall-to-take-over-the-mangalia-shipyard-in-romania/",
           "relevant": false
         },
         {
@@ -6378,15 +6386,6 @@
           "region": "KSA"
         },
         {
-          "title": "IEA Says UAE Oil Output Surged to Records in September",
-          "summary": "Oil output from the United Arab Emirates climbed to record levels last month, the International Energy Agency said.",
-          "date": "2026-10-15",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/iea_says_uae_oil_output_surged_to_records_in_september-15-oct-2026-184856-article/?rss=true",
-          "relevant": true,
-          "region": "UAE"
-        },
-        {
           "title": "Seascape Energy receives Petronas approval for Temaris PSC expansion",
           "summary": "Seascape Energy has received a Letter of Agreement from Petronas, through Malaysia Petroleum Management, for a 547km² expansion of its Temaris Cluster Small Field Asset PSC offshore Peninsular Malaysia.",
           "date": "2026-10-15",
@@ -6394,6 +6393,15 @@
           "source_url": "https://www.offshore-technology.com/news/seascape-petronas-temaris-psc-expansion/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "IEA Says UAE Oil Output Surged to Records in September",
+          "summary": "Oil output from the United Arab Emirates climbed to record levels last month, the International Energy Agency said.",
+          "date": "2026-10-15",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/iea_says_uae_oil_output_surged_to_records_in_september-15-oct-2026-184856-article/?rss=true",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Container Ship Sinks in Strait of Hormuz",
