@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T09:00:57Z",
+  "last_updated": "2026-10-19T09:49:17Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -161,22 +161,6 @@
           "relevant": false
         },
         {
-          "title": "Greenpeace activists charged after disrupting Woodside offshore gas project",
-          "summary": "Two Greenpeace activists have been charged after a weekend occupation of Woodside Energy’s Scarborough floating production unit off Western Australia forced the company to suspend pre-commissioning activities. Four…",
-          "date": "2026-10-19",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/greenpeace-activists-charged-after-disrupting-woodside-offshore-gas-project/",
-          "relevant": false
-        },
-        {
-          "title": "Union Maritime orders PSV pair at Fujian Shipbuilding",
-          "summary": "UK shipowner Union Maritime has ordered two platform supply vessels (PSVs) from China’s Fujian Shipbuilding, with options for two more, as it expands its offshore support fleet. The 84-metre newbuilds were contracted at…",
-          "date": "2026-10-19",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/union-maritime-orders-psv-pair-at-fujian-shipbuilding/",
-          "relevant": false
-        },
-        {
           "title": "Woodside pauses Scarborough gas unit after Greenpeace protest",
           "summary": "Woodside Energy has suspended activity at a floating production unit central to its $12.5bn Scarborough natural gas development following a protest by Greenpeace off Western Australia’s northwest coast, reported Reuters.",
           "date": "2026-10-19",
@@ -198,6 +182,22 @@
           "date": "2026-10-19",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543753-greenpeace-protest-disrupts-work-at-woodside-s-scarborough-offshore-platform",
+          "relevant": false
+        },
+        {
+          "title": "Greenpeace activists charged after disrupting Woodside offshore gas project",
+          "summary": "Two Greenpeace activists have been charged after a weekend occupation of Woodside Energy’s Scarborough floating production unit off Western Australia forced the company to suspend pre-commissioning activities. Four…",
+          "date": "2026-10-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/greenpeace-activists-charged-after-disrupting-woodside-offshore-gas-project/",
+          "relevant": false
+        },
+        {
+          "title": "Union Maritime orders PSV pair at Fujian Shipbuilding",
+          "summary": "UK shipowner Union Maritime has ordered two platform supply vessels (PSVs) from China’s Fujian Shipbuilding, with options for two more, as it expands its offshore support fleet. The 84-metre newbuilds were contracted at…",
+          "date": "2026-10-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/union-maritime-orders-psv-pair-at-fujian-shipbuilding/",
           "relevant": false
         },
         {
@@ -6216,6 +6216,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Hai An lines up $70m feeder newbuild investment",
+          "summary": "Vietnamese shipowner Hai An Transport and Stevedoring has approved an investment of up to $70m in two feeder containerships at a Chinese shipyard, adding another pair of vessels to its expanding newbuilding programme…",
+          "date": "2026-10-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/hai-an-lines-up-70m-feeder-newbuild-investment/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Iran Urges US To Accept Proposal To Reopen Strait Of Hormuz",
           "summary": "DUBAI, Oct 18 (Reuters) – Iran’s offer to the United States to reopen the Strait of Hormuz within seven days is still on the table, Foreign Minister Abbas Araqchi told Iranian media...",
