@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T15:01:01Z",
+  "last_updated": "2026-10-19T16:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -185,14 +185,6 @@
           "relevant": false
         },
         {
-          "title": "Australia advances undersea warfare capabilities",
-          "summary": "Australia announces a major milestone in advanced undersea warfare capabilities, unveiling payload integration for Ghost Shark, Speartooth, and BlueBottle uncrewed underwater vehicles. The post Australia advances…",
-          "date": "2026-10-19",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/australia-advances-undersea-warfare-capabilities/",
-          "relevant": false
-        },
-        {
           "title": "Transocean’s drillship pair bags $550 million in new US Gulf deals",
           "summary": "Transocean has secured multi-well ultra-deepwater contracts for two drillships in the U.S. Gulf, extending operations through 2027.",
           "date": "2026-10-19",
@@ -230,6 +222,14 @@
           "date": "2026-10-19",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543753-greenpeace-protest-disrupts-work-at-woodside-s-scarborough-offshore-platform",
+          "relevant": false
+        },
+        {
+          "title": "Australia advances undersea warfare capabilities",
+          "summary": "Australia announces a major milestone in advanced undersea warfare capabilities, unveiling payload integration for Ghost Shark, Speartooth, and BlueBottle uncrewed underwater vehicles. The post Australia advances…",
+          "date": "2026-10-19",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/australia-advances-undersea-warfare-capabilities/",
           "relevant": false
         },
         {
@@ -3657,11 +3657,11 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
-          "title": "Rheinmetall to take over the Mangalia shipyard in Romania",
-          "summary": "Rheinmetall and MSC acquire Romania’s Mangalia shipyard for €138M to establish a dual-use hub for civil and military naval shipbuilding in South-Eastern Europe. Rheinmteall press release Rheinmetall and the Swiss…",
+          "title": "U.S. Sets First Deep-Sea Mining Lease Sale for November",
+          "summary": "The Trump administration has scheduled the first offshore mineral lease sale in U.S. history, opening more than 31 million acres of seabed near American Samoa to companies seeking critical minerals...",
           "date": "2026-10-19",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/rheinmetall-to-take-over-the-mangalia-shipyard-in-romania/",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/u-s-sets-first-deep-sea-mining-lease-sale-for-november/",
           "relevant": false
         },
         {
@@ -3678,6 +3678,14 @@
           "date": "2026-10-19",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/trump_says_diesel_deal_aims_to_keep_russia_talks_going-19-oct-2026-184873-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Rheinmetall to take over the Mangalia shipyard in Romania",
+          "summary": "Rheinmetall and MSC acquire Romania’s Mangalia shipyard for €138M to establish a dual-use hub for civil and military naval shipbuilding in South-Eastern Europe. Rheinmteall press release Rheinmetall and the Swiss…",
+          "date": "2026-10-19",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/rheinmetall-to-take-over-the-mangalia-shipyard-in-romania/",
           "relevant": false
         },
         {
