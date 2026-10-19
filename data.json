@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T06:00:57Z",
+  "last_updated": "2026-10-19T07:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3520,6 +3520,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "The pilot ladder rules that could send ships back to the yard",
+          "summary": "New IMO rules will shift the focus of pilot transfer safety from how ladders are rigged to how ships are built, potentially forcing owners into significant modifications as compliance deadlines approach. Alex…",
+          "date": "2026-10-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/the-pilot-ladder-rules-that-could-send-ships-back-to-the-yard/",
+          "relevant": false
+        },
         {
           "title": "Turkey Will Get Some Diesel From US-Russia Supply Deal",
           "summary": "ANKARA, Oct 18 (Reuters) – Turkey will take some of the diesel Russia is supplying to global markets under its agreement with US President Donald Trump, Energy Minister Alparslan Bayraktar said on...",
