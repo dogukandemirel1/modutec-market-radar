@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T03:00:58Z",
+  "last_updated": "2026-10-19T04:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3537,14 +3537,6 @@
           "relevant": false
         },
         {
-          "title": "Houthi Attacks on Saudi Arabia Defy Difference in Military Power",
-          "summary": "The Houthi attacks on Saudi Arabia are demonstrating the limits of the kingdom’s military prowess — despite defense spending that far outstrips that of its regional neighbors.",
-          "date": "2026-10-16",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/houthi-attacks-on-saudi-arabia-defy-difference-in-military-power/",
-          "relevant": true
-        },
-        {
           "title": "UK ports hit back at Brussels over ETS diversion claims",
           "summary": "British ports have challenged European Union claims that shipping lines are diverting container traffic to the UK to escape carbon charges, warning that proposed anti-evasion measures risk penalising billions of pounds…",
           "date": "2026-10-16",
@@ -3591,6 +3583,14 @@
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543732-inpex-led-bonaparte-ccs-project-gets-australian-offshore-storage-approval",
           "relevant": false
+        },
+        {
+          "title": "Houthi Attacks on Saudi Arabia Defy Difference in Military Power",
+          "summary": "The Houthi attacks on Saudi Arabia are demonstrating the limits of the kingdom’s military prowess — despite defense spending that far outstrips that of its regional neighbors.",
+          "date": "2026-10-16",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/houthi-attacks-on-saudi-arabia-defy-difference-in-military-power/",
+          "relevant": true
         },
         {
           "title": "Supertanker Rates Fall from Record Highs",
