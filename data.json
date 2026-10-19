@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T10:00:59Z",
+  "last_updated": "2026-10-19T11:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -145,19 +145,19 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Norway ends one offshore wage row only for Reach Subsea strike to begin",
+          "summary": "Norway’s protracted offshore well services wage dispute has been settled through voluntary arbitration, even as a separate labour conflict has triggered a strike at subsea contractor Reach Subsea. An arbitration panel…",
+          "date": "2026-10-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/norway-ends-one-offshore-wage-row-only-for-reach-subsea-strike-to-begin/",
+          "relevant": false
+        },
+        {
           "title": "COSCO books 16 grain carrier newbuilds",
           "summary": "China’s COSCO Shipping Bulk has signed up for another 16 multipurpose grain carriers at Fujian Shipbuilding, extending its newbuilding spree in the dry bulk sector. The latest batch of 87,000 dwt vessels was contracted…",
           "date": "2026-10-19",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/cosco-books-16-grain-carrier-newbuilds/",
-          "relevant": false
-        },
-        {
-          "title": "India rolls out credit risk backstop for shipbuilders",
-          "summary": "India has introduced two government-backed credit-risk insurance products for shipbuilders, aiming to protect domestic yards against missed payments and buyer defaults on vessel construction contracts. The measures…",
-          "date": "2026-10-19",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/india-rolls-out-credit-risk-backstop-for-shipbuilders/",
           "relevant": false
         },
         {
@@ -182,6 +182,14 @@
           "date": "2026-10-19",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543753-greenpeace-protest-disrupts-work-at-woodside-s-scarborough-offshore-platform",
+          "relevant": false
+        },
+        {
+          "title": "India rolls out credit risk backstop for shipbuilders",
+          "summary": "India has introduced two government-backed credit-risk insurance products for shipbuilders, aiming to protect domestic yards against missed payments and buyer defaults on vessel construction contracts. The measures…",
+          "date": "2026-10-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/india-rolls-out-credit-risk-backstop-for-shipbuilders/",
           "relevant": false
         },
         {
@@ -3601,6 +3609,22 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "In pursuit of Middle East expansion, US piping company sets up entity in Jordan",
+          "summary": "Texas-headquartered engineered pipe services provider Perma-Pipe International has established a subsidiary in Jordan, a move that comes as part...",
+          "date": "2026-10-19",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/19/in-pursuit-of-middle-east-expansion-us-piping-company-sets-up-entity-in-jordan",
+          "relevant": false
+        },
+        {
+          "title": "Trump Says Diesel Deal Aims to Keep Russia Talks Going",
+          "summary": "President Donald Trump said he cut a diesel export deal with Russia and delayed imposing further sanctions because he doesn't want to drive Vladimir Putin away from peace talks.",
+          "date": "2026-10-19",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/trump_says_diesel_deal_aims_to_keep_russia_talks_going-19-oct-2026-184873-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "The pilot ladder rules that could send ships back to the yard",
           "summary": "New IMO rules will shift the focus of pilot transfer safety from how ladders are rigged to how ships are built, potentially forcing owners into significant modifications as compliance deadlines approach. Alex…",
           "date": "2026-10-19",
@@ -5305,6 +5329,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Jack-up changes hands as Ocean Oilfield enriches its drilling fleet with Noble’s rig",
+          "summary": "Ocean Oilfield has wrapped up the acquisition of a rig, which is now docked in Malta and ready for immediate global deployment.",
+          "date": "2026-10-19",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/19/jack-up-changes-hands-as-ocean-oilfield-enriches-its-drilling-fleet-with-nobles-rig",
+          "relevant": false
+        },
+        {
           "title": "Pakistani upstream petroleum player picks Norwegian firm for data acquisition",
           "summary": "Norwegian geophysical services company Electromagnetic Geoservices (EMGS) has been selected by a Pakistani upstream petroleum company for...",
           "date": "2026-10-16",
@@ -6289,20 +6321,20 @@
           "region": "UAE"
         },
         {
-          "title": "Container Ship Sinks in Strait of Hormuz",
-          "summary": "All 21 crew members were evacuated without injuries before the Singapore-flagged vessel sank.",
-          "date": "2026-10-15",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/container_ship_sinks_in_strait_of_hormuz-15-oct-2026-184853-article/?rss=true",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Seascape Energy receives Petronas approval for Temaris PSC expansion",
           "summary": "Seascape Energy has received a Letter of Agreement from Petronas, through Malaysia Petroleum Management, for a 547km² expansion of its Temaris Cluster Small Field Asset PSC offshore Peninsular Malaysia.",
           "date": "2026-10-15",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/seascape-petronas-temaris-psc-expansion/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Container Ship Sinks in Strait of Hormuz",
+          "summary": "All 21 crew members were evacuated without injuries before the Singapore-flagged vessel sank.",
+          "date": "2026-10-15",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/container_ship_sinks_in_strait_of_hormuz-15-oct-2026-184853-article/?rss=true",
           "relevant": false,
           "region": "SEA"
         },
