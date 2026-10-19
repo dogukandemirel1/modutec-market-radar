@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T11:00:59Z",
+  "last_updated": "2026-10-19T12:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -145,6 +145,22 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Qatar LNG Cargo Makes Rare Red Sea Journey to Get Gas to Europe",
+          "summary": "A carrier loaded with Qatari liquefied natural gas is sailing north through the Red Sea, potentially speeding up delivery to European customers with a rare transit through waters vulnerable to renewed attacks from…",
+          "date": "2026-10-19",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/qatar-lng-cargo-makes-rare-red-sea-journey-to-get-gas-to-europe/",
+          "relevant": false
+        },
+        {
+          "title": "EMGS lands offshore exploration survey award in Pakistan",
+          "summary": "Norwegian geophysical services specialist Electromagnetic Geoservices (EMGS) has secured a letter of award from Pakistan’s Mari Energies for controlled-source electromagnetic surveys across multiple offshore exploration…",
+          "date": "2026-10-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/emgs-lands-offshore-exploration-survey-award-in-pakistan/",
+          "relevant": false
+        },
+        {
           "title": "Norway ends one offshore wage row only for Reach Subsea strike to begin",
           "summary": "Norway’s protracted offshore well services wage dispute has been settled through voluntary arbitration, even as a separate labour conflict has triggered a strike at subsea contractor Reach Subsea. An arbitration panel…",
           "date": "2026-10-19",
@@ -153,11 +169,19 @@
           "relevant": false
         },
         {
-          "title": "COSCO books 16 grain carrier newbuilds",
-          "summary": "China’s COSCO Shipping Bulk has signed up for another 16 multipurpose grain carriers at Fujian Shipbuilding, extending its newbuilding spree in the dry bulk sector. The latest batch of 87,000 dwt vessels was contracted…",
+          "title": "Archer lands additional YPF contract for two Vaca Muerta rigs",
+          "summary": "Archer won a new three-year drilling contract from YPF, with a two-year option, covering two land rigs in Argentina’s Vaca Muerta basin. The award follows the five-year, seven-rig contract Archer signed with YPF in…",
           "date": "2026-10-19",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/cosco-books-16-grain-carrier-newbuilds/",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/archer-lands-additional-ypf-contract-for-two-vaca-muerta-rigs-80373",
+          "relevant": false
+        },
+        {
+          "title": "Silver City rig heads to Seram for Lion’s Bula Karang-1 well",
+          "summary": "Lion Energy began mobilizing Silver City Drilling’s Rig 20 to Seram Island, Indonesia, for the Bula Karang-1 exploration well in the East Seram production sharing contract (PSC). Three landing craft tank barges are…",
+          "date": "2026-10-19",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/silver-city-rig-heads-to-seram-for-lions-bula-karang-1-well-80370",
           "relevant": false
         },
         {
@@ -182,6 +206,14 @@
           "date": "2026-10-19",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543753-greenpeace-protest-disrupts-work-at-woodside-s-scarborough-offshore-platform",
+          "relevant": false
+        },
+        {
+          "title": "COSCO books 16 grain carrier newbuilds",
+          "summary": "China’s COSCO Shipping Bulk has signed up for another 16 multipurpose grain carriers at Fujian Shipbuilding, extending its newbuilding spree in the dry bulk sector. The latest batch of 87,000 dwt vessels was contracted…",
+          "date": "2026-10-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/cosco-books-16-grain-carrier-newbuilds/",
           "relevant": false
         },
         {
@@ -3729,14 +3761,6 @@
           "relevant": false
         },
         {
-          "title": "Khalda sets drilling record in Egypt with three wells in one month",
-          "summary": "Khalda Petroleum handed over three consecutive wells within a month using one rig, the first time it has done so since its establishment, and reported 17.7% in cost savings. The KAH-B-54 well was completed in 7.5 days…",
-          "date": "2026-10-15",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/khalda-sets-drilling-record-in-egypt-with-three-wells-in-one-month-80348",
-          "relevant": false
-        },
-        {
           "title": "Ofgem to launch record tender looking for owner of Hornsea 3 offshore transmission assets",
           "summary": "The UK energy regulator Ofgem will launch a tender round covering the transmission infrastructure for Ørsted’s 2.9 GW Hornsea 3 offshore wind...",
           "date": "2026-10-15",
@@ -3750,6 +3774,14 @@
           "date": "2026-10-15",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/oil-prices-drop-us-russia-tanker/",
+          "relevant": false
+        },
+        {
+          "title": "Khalda sets drilling record in Egypt with three wells in one month",
+          "summary": "Khalda Petroleum handed over three consecutive wells within a month using one rig, the first time it has done so since its establishment, and reported 17.7% in cost savings. The KAH-B-54 well was completed in 7.5 days…",
+          "date": "2026-10-15",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/khalda-sets-drilling-record-in-egypt-with-three-wells-in-one-month-80348",
           "relevant": false
         },
         {
@@ -5335,6 +5367,14 @@
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/19/jack-up-changes-hands-as-ocean-oilfield-enriches-its-drilling-fleet-with-nobles-rig",
           "relevant": false
+        },
+        {
+          "title": "Ocean Oilfield Brings Noble Corporation's Jack-Up Rig Into Its Fleet",
+          "summary": "Abu Dhabi-based Ocean Oilfield Integrated Solutions has completed the acquisition and taken ownership of the former Noble Resolve jack-up drilling rig, now renamed Ocean MVM…",
+          "date": "2026-10-19",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543761-ocean-oilfield-brings-noble-corporation-s-jack-up-rig-into-its-fleet",
+          "relevant": true
         },
         {
           "title": "Pakistani upstream petroleum player picks Norwegian firm for data acquisition",
