@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T08:00:55Z",
+  "last_updated": "2026-10-20T09:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8,6 +8,14 @@
       "short_title": "Day-Rates",
       "description": "Benchmark day-rate trends for jackups, floaters and offshore support vessels across key regions.",
       "items": [
+        {
+          "title": "Bouri Gas Project Offshore Libya Set for October Start-Up",
+          "summary": "Eni has completed the Bouri Gas Utilization Project (GUP) offshore Libya, with start-up procedures underway for infrastructure designed to recover associated gas…",
+          "date": "2026-10-20",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543780-bouri-gas-project-offshore-libya-set-for-october-start-up",
+          "relevant": false
+        },
         {
           "title": "Havila Shipping secures fresh PSV extension with Peterson",
           "summary": "Norwegian OSV owner Havila Shipping has secured an extension to the contract for its platform supply vessel, Havila Borg. The Fosnavåg-based company has fixed the 2009-built PSV to energy industry logistics provider…",
@@ -185,14 +193,6 @@
           "relevant": false
         },
         {
-          "title": "EMGS lands offshore exploration survey award in Pakistan",
-          "summary": "Norwegian geophysical services specialist Electromagnetic Geoservices (EMGS) has secured a letter of award from Pakistan’s Mari Energies for controlled-source electromagnetic surveys across multiple offshore exploration…",
-          "date": "2026-10-19",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/emgs-lands-offshore-exploration-survey-award-in-pakistan/",
-          "relevant": false
-        },
-        {
           "title": "Archer lands additional YPF contract for two Vaca Muerta rigs",
           "summary": "Archer won a new three-year drilling contract from YPF, with a two-year option, covering two land rigs in Argentina’s Vaca Muerta basin. The award follows the five-year, seven-rig contract Archer signed with YPF in…",
           "date": "2026-10-19",
@@ -254,6 +254,14 @@
           "date": "2026-10-19",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543753-greenpeace-protest-disrupts-work-at-woodside-s-scarborough-offshore-platform",
+          "relevant": false
+        },
+        {
+          "title": "EMGS lands offshore exploration survey award in Pakistan",
+          "summary": "Norwegian geophysical services specialist Electromagnetic Geoservices (EMGS) has secured a letter of award from Pakistan’s Mari Energies for controlled-source electromagnetic surveys across multiple offshore exploration…",
+          "date": "2026-10-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/emgs-lands-offshore-exploration-survey-award-in-pakistan/",
           "relevant": false
         },
         {
@@ -3694,6 +3702,22 @@
           "date": "2026-10-20",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/us-moves-to-legitimise-shadow-tanker-fleet/",
+          "relevant": false
+        },
+        {
+          "title": "Navigator sets course for UK domicile",
+          "summary": "New York-listed gas carrier owner Navigator Gas is moving to shift its corporate domicile from the Marshall Islands to Britain, putting the proposed restructuring to shareholders next month. The London-headquartered…",
+          "date": "2026-10-20",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/navigator-sets-course-for-uk-domicile/",
+          "relevant": false
+        },
+        {
+          "title": "U.S. Army Anti-A2/AD, Maritime Strike Unit Fires Tomahawk Missile",
+          "summary": "A U.S. Army unit assigned to European Command, tasked with breaking area denial networks and sinking maritime targets, fired a Tomahawk cruise missile. The post U.S. Army Anti-A2/AD, Maritime Strike Unit Fires Tomahawk…",
+          "date": "2026-10-20",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/u-s-army-anti-a2-ad-maritime-strike-unit-fires-tomahawk-missile/",
           "relevant": false
         },
         {
