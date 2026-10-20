@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T21:00:57Z",
+  "last_updated": "2026-10-20T22:00:54Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -160,6 +160,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Army Corps Moves to Overhaul How U.S. Dredging Projects Are Awarded",
+          "summary": "The U.S. Army Corps of Engineers is overhauling how it manages dredging contracts nationwide, moving toward a centralized approach intended to reduce costs, improve scheduling and make better use of...",
+          "date": "2026-10-20",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/army-corps-moves-to-overhaul-how-u-s-dredging-projects-are-awarded/",
+          "relevant": false
+        },
         {
           "title": "BW LPG India offloads 18-year-old VLGC for over $80m",
           "summary": "New York- and Oslo-listed gas carrier giant BW LPG is cashing in again on strong secondhand values, agreeing to sell an 18-year-old VLGC for more than $80m as it presses ahead with a major fleet renewal programme. The…",
@@ -3830,6 +3838,14 @@
           "date": "2026-10-20",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/20/united-oil-and-gas-eyes-billion-barrel-jamaican-drilling-targets-as-it-maps-out-next-steps",
+          "relevant": false
+        },
+        {
+          "title": "Halliburton Sees Years of Growth as Mideast Rebuilds",
+          "summary": "Halliburton Co. is predicting years of growing demand for oil field services as nations in the Middle East rebuild energy assets and infrastructure.",
+          "date": "2026-10-20",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/halliburton_sees_years_of_growth_as_mideast_rebuilds-20-oct-2026-184885-article/?rss=true",
           "relevant": false
         },
         {
