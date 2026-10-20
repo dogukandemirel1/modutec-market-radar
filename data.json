@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T02:00:55Z",
+  "last_updated": "2026-10-20T03:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -161,6 +161,22 @@
           "relevant": false
         },
         {
+          "title": "EMGS lands offshore exploration survey award in Pakistan",
+          "summary": "Norwegian geophysical services specialist Electromagnetic Geoservices (EMGS) has secured a letter of award from Pakistan’s Mari Energies for controlled-source electromagnetic surveys across multiple offshore exploration…",
+          "date": "2026-10-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/emgs-lands-offshore-exploration-survey-award-in-pakistan/",
+          "relevant": false
+        },
+        {
+          "title": "Norway ends one offshore wage row only for Reach Subsea strike to begin",
+          "summary": "Norway’s protracted offshore well services wage dispute has been settled through voluntary arbitration, even as a separate labour conflict has triggered a strike at subsea contractor Reach Subsea. An arbitration panel…",
+          "date": "2026-10-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/norway-ends-one-offshore-wage-row-only-for-reach-subsea-strike-to-begin/",
+          "relevant": false
+        },
+        {
           "title": "Archer lands additional YPF contract for two Vaca Muerta rigs",
           "summary": "Archer won a new three-year drilling contract from YPF, with a two-year option, covering two land rigs in Argentina’s Vaca Muerta basin. The award follows the five-year, seven-rig contract Archer signed with YPF in…",
           "date": "2026-10-19",
@@ -222,22 +238,6 @@
           "date": "2026-10-19",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543753-greenpeace-protest-disrupts-work-at-woodside-s-scarborough-offshore-platform",
-          "relevant": false
-        },
-        {
-          "title": "EMGS lands offshore exploration survey award in Pakistan",
-          "summary": "Norwegian geophysical services specialist Electromagnetic Geoservices (EMGS) has secured a letter of award from Pakistan’s Mari Energies for controlled-source electromagnetic surveys across multiple offshore exploration…",
-          "date": "2026-10-19",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/emgs-lands-offshore-exploration-survey-award-in-pakistan/",
-          "relevant": false
-        },
-        {
-          "title": "Norway ends one offshore wage row only for Reach Subsea strike to begin",
-          "summary": "Norway’s protracted offshore well services wage dispute has been settled through voluntary arbitration, even as a separate labour conflict has triggered a strike at subsea contractor Reach Subsea. An arbitration panel…",
-          "date": "2026-10-19",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/norway-ends-one-offshore-wage-row-only-for-reach-subsea-strike-to-begin/",
           "relevant": false
         },
         {
@@ -6329,6 +6329,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Hai An lines up $70m feeder newbuild investment",
+          "summary": "Vietnamese shipowner Hai An Transport and Stevedoring has approved an investment of up to $70m in two feeder containerships at a Chinese shipyard, adding another pair of vessels to its expanding newbuilding programme…",
+          "date": "2026-10-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/hai-an-lines-up-70m-feeder-newbuild-investment/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Petronas and Petrovietnam strengthen ties in pursuit of energy security and low-carbon growth",
           "summary": "Petronas and Petrovietnam are expanding their 35-year partnership across LNG, upstream development, and low-carbon energy arsenal in Vietnam.",
           "date": "2026-10-19",
@@ -6343,15 +6352,6 @@
           "date": "2026-10-19",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/philippines_usa_looking_to_expand_cooperation_on_energy_security-19-oct-2026-184875-article/?rss=true",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Hai An lines up $70m feeder newbuild investment",
-          "summary": "Vietnamese shipowner Hai An Transport and Stevedoring has approved an investment of up to $70m in two feeder containerships at a Chinese shipyard, adding another pair of vessels to its expanding newbuilding programme…",
-          "date": "2026-10-19",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/hai-an-lines-up-70m-feeder-newbuild-investment/",
           "relevant": false,
           "region": "SEA"
         },
