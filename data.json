@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T07:00:55Z",
+  "last_updated": "2026-10-20T08:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8,6 +8,14 @@
       "short_title": "Day-Rates",
       "description": "Benchmark day-rate trends for jackups, floaters and offshore support vessels across key regions.",
       "items": [
+        {
+          "title": "Havila Shipping secures fresh PSV extension with Peterson",
+          "summary": "Norwegian OSV owner Havila Shipping has secured an extension to the contract for its platform supply vessel, Havila Borg. The Fosnavåg-based company has fixed the 2009-built PSV to energy industry logistics provider…",
+          "date": "2026-10-20",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/havila-shipping-secures-fresh-psv-extension-with-peterson/",
+          "relevant": false
+        },
         {
           "title": "Equinor adds two wells to Odfjell’s Deepsea Atlantic contract",
           "summary": "Equinor exercised priced options for two additional wells for Odfjell Drilling’s Deepsea Atlantic semisubmersible, extending the rig’s firm contract to late Q4 2027. The work follows directly on the rig’s current…",
@@ -145,6 +153,22 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Two US Gulf contracts boost Transocean backlog by $550m",
+          "summary": "Swiss-based offshore drilling giant Transocean has won contract awards for two of its ultra-deepwater drillships in the US Gulf of Mexico. An undisclosed operator awarded a ten-well contract to the 2016-built Deepwater…",
+          "date": "2026-10-20",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/two-us-gulf-contracts-boost-transocean-backlog-by-550m/",
+          "relevant": false
+        },
+        {
+          "title": "Indian Navy to Equip Legacy Kashin and Veer Classes with BrahMos",
+          "summary": "India’s MoD has signed a $68 million contract to retrofit ageing Kashin-class destroyers and Veer-class corvettes with BrahMos supersonic missiles. The post Indian Navy to Equip Legacy Kashin and Veer Classes with…",
+          "date": "2026-10-20",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/indian-navy-to-equip-legacy-kashin-and-veer-classes-with-brahmos/",
+          "relevant": false
+        },
+        {
           "title": "Iran’s Main Oil Terminals Remain Empty as US Blockade Bites",
           "summary": "Iran’s main oil-loading terminals have remained empty for weeks, adding to signs that a US naval blockade of the country is throttling Tehran’s exports.",
           "date": "2026-10-19",
@@ -166,14 +190,6 @@
           "date": "2026-10-19",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/emgs-lands-offshore-exploration-survey-award-in-pakistan/",
-          "relevant": false
-        },
-        {
-          "title": "Norway ends one offshore wage row only for Reach Subsea strike to begin",
-          "summary": "Norway’s protracted offshore well services wage dispute has been settled through voluntary arbitration, even as a separate labour conflict has triggered a strike at subsea contractor Reach Subsea. An arbitration panel…",
-          "date": "2026-10-19",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/norway-ends-one-offshore-wage-row-only-for-reach-subsea-strike-to-begin/",
           "relevant": false
         },
         {
@@ -238,6 +254,14 @@
           "date": "2026-10-19",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543753-greenpeace-protest-disrupts-work-at-woodside-s-scarborough-offshore-platform",
+          "relevant": false
+        },
+        {
+          "title": "Norway ends one offshore wage row only for Reach Subsea strike to begin",
+          "summary": "Norway’s protracted offshore well services wage dispute has been settled through voluntary arbitration, even as a separate labour conflict has triggered a strike at subsea contractor Reach Subsea. An arbitration panel…",
+          "date": "2026-10-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/norway-ends-one-offshore-wage-row-only-for-reach-subsea-strike-to-begin/",
           "relevant": false
         },
         {
@@ -6337,15 +6361,6 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Hai An lines up $70m feeder newbuild investment",
-          "summary": "Vietnamese shipowner Hai An Transport and Stevedoring has approved an investment of up to $70m in two feeder containerships at a Chinese shipyard, adding another pair of vessels to its expanding newbuilding programme…",
-          "date": "2026-10-19",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/hai-an-lines-up-70m-feeder-newbuild-investment/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Petronas and Petrovietnam strengthen ties in pursuit of energy security and low-carbon growth",
           "summary": "Petronas and Petrovietnam are expanding their 35-year partnership across LNG, upstream development, and low-carbon energy arsenal in Vietnam.",
           "date": "2026-10-19",
@@ -6360,6 +6375,15 @@
           "date": "2026-10-19",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/philippines_usa_looking_to_expand_cooperation_on_energy_security-19-oct-2026-184875-article/?rss=true",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Hai An lines up $70m feeder newbuild investment",
+          "summary": "Vietnamese shipowner Hai An Transport and Stevedoring has approved an investment of up to $70m in two feeder containerships at a Chinese shipyard, adding another pair of vessels to its expanding newbuilding programme…",
+          "date": "2026-10-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/hai-an-lines-up-70m-feeder-newbuild-investment/",
           "relevant": false,
           "region": "SEA"
         },
@@ -6409,15 +6433,6 @@
           "region": "SEA"
         },
         {
-          "title": "Aramco CEO Warns Oil Squeeze is Serious",
-          "summary": "Globally, the squeeze on crude oil is serious, Aramco President and CEO Amin H. Nasser said.",
-          "date": "2026-10-15",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/aramco_ceo_warns_oil_squeeze_is_serious-15-oct-2026-184859-article/?rss=true",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
           "title": "Seascape Energy receives Petronas approval for Temaris PSC expansion",
           "summary": "Seascape Energy has received a Letter of Agreement from Petronas, through Malaysia Petroleum Management, for a 547km² expansion of its Temaris Cluster Small Field Asset PSC offshore Peninsular Malaysia.",
           "date": "2026-10-15",
@@ -6425,6 +6440,15 @@
           "source_url": "https://www.offshore-technology.com/news/seascape-petronas-temaris-psc-expansion/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Aramco CEO Warns Oil Squeeze is Serious",
+          "summary": "Globally, the squeeze on crude oil is serious, Aramco President and CEO Amin H. Nasser said.",
+          "date": "2026-10-15",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/aramco_ceo_warns_oil_squeeze_is_serious-15-oct-2026-184859-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "IEA Says UAE Oil Output Surged to Records in September",
