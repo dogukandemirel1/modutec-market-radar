@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T10:00:58Z",
+  "last_updated": "2026-10-20T11:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -160,6 +160,22 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Fugro lands NOAA seabed mapping contract off Florida",
+          "summary": "Dutch survey specialist Fugro has secured a contract with the US National Oceanic and Atmospheric Administration (NOAA) to map about 3,200 sq km of seabed off Florida’s Atlantic coast. The company will conduct…",
+          "date": "2026-10-20",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/fugro-lands-noaa-seabed-mapping-contract-off-florida/",
+          "relevant": false
+        },
+        {
+          "title": "Transocean Secures $550M in US Gulf Drillship Deals",
+          "summary": "Offshore drilling contractor Transocean has secured contracts worth approximately $550 million for two ultra-deepwater drillships in the U.S. Gulf, covering a combined…",
+          "date": "2026-10-20",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543782-transocean-secures-550m-in-us-gulf-drillship-deals",
+          "relevant": false
+        },
         {
           "title": "Two US Gulf contracts boost Transocean backlog by $550m",
           "summary": "Swiss-based offshore drilling giant Transocean has won contract awards for two of its ultra-deepwater drillships in the US Gulf of Mexico. An undisclosed operator awarded a ten-well contract to the 2016-built Deepwater…",
@@ -3697,11 +3713,27 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "UK shipowners warn against copying FuelEU red tape",
+          "summary": "The UK Chamber of Shipping has urged the British government to avoid repeating the compliance problems encountered under FuelEU Maritime as it prepares to introduce its own maritime fuel standard. In a policy paper…",
+          "date": "2026-10-20",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/uk-shipowners-warn-against-copying-fueleu-red-tape/",
+          "relevant": false
+        },
+        {
           "title": "US moves to legitimise shadow tanker fleet",
           "summary": "The Trump administration is authorising the sale of sanctioned oil tankers to approved investors who would refurbish the vessels and return them to legitimate crude trades, US energy secretary Chris Wright revealed…",
           "date": "2026-10-20",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/us-moves-to-legitimise-shadow-tanker-fleet/",
+          "relevant": false
+        },
+        {
+          "title": "United Oil & Gas eyes billion-barrel Jamaican drilling targets as it maps out next steps",
+          "summary": "United Oil & Gas has unveiled new rig and logistics study results for its license offshore Jamaica, boosting ongoing farm-out talks.",
+          "date": "2026-10-20",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/20/united-oil-and-gas-eyes-billion-barrel-jamaican-drilling-targets-as-it-maps-out-next-steps",
           "relevant": false
         },
         {
