@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T19:00:59Z",
+  "last_updated": "2026-10-20T20:00:54Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -241,14 +241,6 @@
           "relevant": false
         },
         {
-          "title": "Iran’s Main Oil Terminals Remain Empty as US Blockade Bites",
-          "summary": "Iran’s main oil-loading terminals have remained empty for weeks, adding to signs that a US naval blockade of the country is throttling Tehran’s exports.",
-          "date": "2026-10-19",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/irans-main-oil-terminals-remain-empty-as-us-blockade-bites/",
-          "relevant": false
-        },
-        {
           "title": "Archer lands additional YPF contract for two Vaca Muerta rigs",
           "summary": "Archer won a new three-year drilling contract from YPF, with a two-year option, covering two land rigs in Argentina’s Vaca Muerta basin. The award follows the five-year, seven-rig contract Archer signed with YPF in…",
           "date": "2026-10-19",
@@ -286,6 +278,14 @@
           "date": "2026-10-19",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/woodside-pauses-scarborough-gas-unit/",
+          "relevant": false
+        },
+        {
+          "title": "Iran’s Main Oil Terminals Remain Empty as US Blockade Bites",
+          "summary": "Iran’s main oil-loading terminals have remained empty for weeks, adding to signs that a US naval blockade of the country is throttling Tehran’s exports.",
+          "date": "2026-10-19",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/irans-main-oil-terminals-remain-empty-as-us-blockade-bites/",
           "relevant": false
         },
         {
