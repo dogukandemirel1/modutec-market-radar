@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T06:00:57Z",
+  "last_updated": "2026-10-20T07:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3664,6 +3664,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "US moves to legitimise shadow tanker fleet",
+          "summary": "The Trump administration is authorising the sale of sanctioned oil tankers to approved investors who would refurbish the vessels and return them to legitimate crude trades, US energy secretary Chris Wright revealed…",
+          "date": "2026-10-20",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/us-moves-to-legitimise-shadow-tanker-fleet/",
+          "relevant": false
+        },
         {
           "title": "U.S. to Allow Dark-Fleet Tankers to Shed Sanctions, Wright Says",
           "summary": "The Trump administration is authorizing the sale of sanctioned oil tankers in an effort to allow the vessels to start legitimately shipping crude, US Energy Secretary Chris Wright said.",
