@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T16:00:59Z",
+  "last_updated": "2026-10-20T17:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -185,6 +185,22 @@
           "relevant": false
         },
         {
+          "title": "Norway Outlines Procurement Strategy for Up to 20 P1118 Standardized Vessels",
+          "summary": "Norway' has revealed the acquisition model for Project P1118, splitting up to 20 ocean-going standardized vessels for Norway, the UK, and Lithuania across two parallel contracts. The post Norway Outlines Procurement…",
+          "date": "2026-10-20",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/norway-outlines-procurement-strategy-for-up-to-20-p1118-standardized-vessels/",
+          "relevant": false
+        },
+        {
+          "title": "Indian Navy to Equip Legacy Kashin and Veer Classes with BrahMos",
+          "summary": "India’s MoD has signed a $68 million contract to retrofit ageing Kashin-class destroyers and Veer-class corvettes with BrahMos supersonic missiles. The post Indian Navy to Equip Legacy Kashin and Veer Classes with…",
+          "date": "2026-10-20",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/indian-navy-to-equip-legacy-kashin-and-veer-classes-with-brahmos/",
+          "relevant": false
+        },
+        {
           "title": "Japan Clears DNV for Floating Wind Classifications",
           "summary": "DNV has become the first non-Japanese recognized organization authorized by Japan's Flag Administration to apply floating offshore wind classification rules in the country…",
           "date": "2026-10-20",
@@ -214,14 +230,6 @@
           "date": "2026-10-20",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543782-transocean-secures-550m-in-us-gulf-drillship-deals",
-          "relevant": false
-        },
-        {
-          "title": "Indian Navy to Equip Legacy Kashin and Veer Classes with BrahMos",
-          "summary": "India’s MoD has signed a $68 million contract to retrofit ageing Kashin-class destroyers and Veer-class corvettes with BrahMos supersonic missiles. The post Indian Navy to Equip Legacy Kashin and Veer Classes with…",
-          "date": "2026-10-20",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/indian-navy-to-equip-legacy-kashin-and-veer-classes-with-brahmos/",
           "relevant": false
         },
         {
@@ -3785,6 +3793,14 @@
           "relevant": false
         },
         {
+          "title": "U.S. Army Anti-A2/AD, Maritime Strike Unit Fires Tomahawk Missile",
+          "summary": "A U.S. Army unit assigned to European Command, tasked with breaking area denial networks and sinking maritime targets, fired a Tomahawk cruise missile. The post U.S. Army Anti-A2/AD, Maritime Strike Unit Fires Tomahawk…",
+          "date": "2026-10-20",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/u-s-army-anti-a2-ad-maritime-strike-unit-fires-tomahawk-missile/",
+          "relevant": false
+        },
+        {
           "title": "Timor-Leste throws 12-month lifeline to delayed gas project ahead of drilling ops",
           "summary": "This extension for a gas field in Timor-Leste follows earlier termination warnings as partnership talks and drilling preparations press ahead.",
           "date": "2026-10-20",
@@ -3806,14 +3822,6 @@
           "date": "2026-10-20",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543784-sunda-energy-gets-chuditch-license-extension-after-termination-warning",
-          "relevant": false
-        },
-        {
-          "title": "U.S. Army Anti-A2/AD, Maritime Strike Unit Fires Tomahawk Missile",
-          "summary": "A U.S. Army unit assigned to European Command, tasked with breaking area denial networks and sinking maritime targets, fired a Tomahawk cruise missile. The post U.S. Army Anti-A2/AD, Maritime Strike Unit Fires Tomahawk…",
-          "date": "2026-10-20",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/u-s-army-anti-a2-ad-maritime-strike-unit-fires-tomahawk-missile/",
           "relevant": false
         },
         {
@@ -3841,6 +3849,14 @@
           "relevant": false
         },
         {
+          "title": "Rheinmetall to take over the Mangalia shipyard in Romania",
+          "summary": "Rheinmetall and MSC acquire Romania’s Mangalia shipyard for €138M to establish a dual-use hub for civil and military naval shipbuilding in South-Eastern Europe. Rheinmteall press release Rheinmetall and the Swiss…",
+          "date": "2026-10-19",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/rheinmetall-to-take-over-the-mangalia-shipyard-in-romania/",
+          "relevant": false
+        },
+        {
           "title": "In pursuit of Middle East expansion, US piping company sets up entity in Jordan",
           "summary": "Texas-headquartered engineered pipe services provider Perma-Pipe International has established a subsidiary in Jordan, a move that comes as part...",
           "date": "2026-10-19",
@@ -3854,14 +3870,6 @@
           "date": "2026-10-19",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/trump_says_diesel_deal_aims_to_keep_russia_talks_going-19-oct-2026-184873-article/?rss=true",
-          "relevant": false
-        },
-        {
-          "title": "Rheinmetall to take over the Mangalia shipyard in Romania",
-          "summary": "Rheinmetall and MSC acquire Romania’s Mangalia shipyard for €138M to establish a dual-use hub for civil and military naval shipbuilding in South-Eastern Europe. Rheinmteall press release Rheinmetall and the Swiss…",
-          "date": "2026-10-19",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/rheinmetall-to-take-over-the-mangalia-shipyard-in-romania/",
           "relevant": false
         },
         {
