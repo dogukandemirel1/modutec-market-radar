@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T17:01:04Z",
+  "last_updated": "2026-10-20T18:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -185,22 +185,6 @@
           "relevant": false
         },
         {
-          "title": "Norway Outlines Procurement Strategy for Up to 20 P1118 Standardized Vessels",
-          "summary": "Norway' has revealed the acquisition model for Project P1118, splitting up to 20 ocean-going standardized vessels for Norway, the UK, and Lithuania across two parallel contracts. The post Norway Outlines Procurement…",
-          "date": "2026-10-20",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/norway-outlines-procurement-strategy-for-up-to-20-p1118-standardized-vessels/",
-          "relevant": false
-        },
-        {
-          "title": "Indian Navy to Equip Legacy Kashin and Veer Classes with BrahMos",
-          "summary": "India’s MoD has signed a $68 million contract to retrofit ageing Kashin-class destroyers and Veer-class corvettes with BrahMos supersonic missiles. The post Indian Navy to Equip Legacy Kashin and Veer Classes with…",
-          "date": "2026-10-20",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/indian-navy-to-equip-legacy-kashin-and-veer-classes-with-brahmos/",
-          "relevant": false
-        },
-        {
           "title": "Japan Clears DNV for Floating Wind Classifications",
           "summary": "DNV has become the first non-Japanese recognized organization authorized by Japan's Flag Administration to apply floating offshore wind classification rules in the country…",
           "date": "2026-10-20",
@@ -233,6 +217,22 @@
           "relevant": false
         },
         {
+          "title": "Norway Outlines Procurement Strategy for Up to 20 P1118 Standardized Vessels",
+          "summary": "Norway' has revealed the acquisition model for Project P1118, splitting up to 20 ocean-going standardized vessels for Norway, the UK, and Lithuania across two parallel contracts. The post Norway Outlines Procurement…",
+          "date": "2026-10-20",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/norway-outlines-procurement-strategy-for-up-to-20-p1118-standardized-vessels/",
+          "relevant": false
+        },
+        {
+          "title": "Indian Navy to Equip Legacy Kashin and Veer Classes with BrahMos",
+          "summary": "India’s MoD has signed a $68 million contract to retrofit ageing Kashin-class destroyers and Veer-class corvettes with BrahMos supersonic missiles. The post Indian Navy to Equip Legacy Kashin and Veer Classes with…",
+          "date": "2026-10-20",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/indian-navy-to-equip-legacy-kashin-and-veer-classes-with-brahmos/",
+          "relevant": false
+        },
+        {
           "title": "Two US Gulf contracts boost Transocean backlog by $550m",
           "summary": "Swiss-based offshore drilling giant Transocean has won contract awards for two of its ultra-deepwater drillships in the US Gulf of Mexico. An undisclosed operator awarded a ten-well contract to the 2016-built Deepwater…",
           "date": "2026-10-20",
@@ -246,14 +246,6 @@
           "date": "2026-10-19",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/irans-main-oil-terminals-remain-empty-as-us-blockade-bites/",
-          "relevant": false
-        },
-        {
-          "title": "Qatar LNG Cargo Makes Rare Red Sea Journey to Get Gas to Europe",
-          "summary": "A carrier loaded with Qatari liquefied natural gas is sailing north through the Red Sea, potentially speeding up delivery to European customers with a rare transit through waters vulnerable to renewed attacks from…",
-          "date": "2026-10-19",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/qatar-lng-cargo-makes-rare-red-sea-journey-to-get-gas-to-europe/",
           "relevant": false
         },
         {
@@ -294,6 +286,14 @@
           "date": "2026-10-19",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/woodside-pauses-scarborough-gas-unit/",
+          "relevant": false
+        },
+        {
+          "title": "Qatar LNG Cargo Makes Rare Red Sea Journey to Get Gas to Europe",
+          "summary": "A carrier loaded with Qatari liquefied natural gas is sailing north through the Red Sea, potentially speeding up delivery to European customers with a rare transit through waters vulnerable to renewed attacks from…",
+          "date": "2026-10-19",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/qatar-lng-cargo-makes-rare-red-sea-journey-to-get-gas-to-europe/",
           "relevant": false
         },
         {
@@ -3761,6 +3761,22 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Trump’s Plan to Revive Sanctioned Tankers Faces Tough Sell",
+          "summary": "(Bloomberg) — A US plan to rehabilitate sanctioned tankers to boost oil supply may attract only a sliver of the dark fleet, as existing contracts, complex compliance checks and sky-high...",
+          "date": "2026-10-20",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/trumps-plan-to-revive-sanctioned-tankers-faces-tough-sell/",
+          "relevant": false
+        },
+        {
+          "title": "Iran Prolongs Talks in Stalemate to Influence US Midterms",
+          "summary": "Iran has deliberately prolonged talks with the US to try to weaken Donald Trump politically ahead of November's US midterm elections, senior officials say, while fears of renewed military action and deep distrust of…",
+          "date": "2026-10-20",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/iran-prolongs-talks-in-stalemate-to-influence-us-midterms/",
+          "relevant": false
+        },
+        {
           "title": "China Sends Naval Forces to Monitor US Warship Near Disputed Shoal",
           "summary": "China's military said on Tuesday it had sent forces to watch a US warship that \"illegally\" entered waters around a disputed shoal in the South China Sea, while further north in the waterway, Taiwan reported a standoff…",
           "date": "2026-10-20",
@@ -3793,14 +3809,6 @@
           "relevant": false
         },
         {
-          "title": "U.S. Army Anti-A2/AD, Maritime Strike Unit Fires Tomahawk Missile",
-          "summary": "A U.S. Army unit assigned to European Command, tasked with breaking area denial networks and sinking maritime targets, fired a Tomahawk cruise missile. The post U.S. Army Anti-A2/AD, Maritime Strike Unit Fires Tomahawk…",
-          "date": "2026-10-20",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/u-s-army-anti-a2-ad-maritime-strike-unit-fires-tomahawk-missile/",
-          "relevant": false
-        },
-        {
           "title": "Timor-Leste throws 12-month lifeline to delayed gas project ahead of drilling ops",
           "summary": "This extension for a gas field in Timor-Leste follows earlier termination warnings as partnership talks and drilling preparations press ahead.",
           "date": "2026-10-20",
@@ -3825,6 +3833,14 @@
           "relevant": false
         },
         {
+          "title": "U.S. Army Anti-A2/AD, Maritime Strike Unit Fires Tomahawk Missile",
+          "summary": "A U.S. Army unit assigned to European Command, tasked with breaking area denial networks and sinking maritime targets, fired a Tomahawk cruise missile. The post U.S. Army Anti-A2/AD, Maritime Strike Unit Fires Tomahawk…",
+          "date": "2026-10-20",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/u-s-army-anti-a2-ad-maritime-strike-unit-fires-tomahawk-missile/",
+          "relevant": false
+        },
+        {
           "title": "Navigator sets course for UK domicile",
           "summary": "New York-listed gas carrier owner Navigator Gas is moving to shift its corporate domicile from the Marshall Islands to Britain, putting the proposed restructuring to shareholders next month. The London-headquartered…",
           "date": "2026-10-20",
@@ -3841,22 +3857,6 @@
           "relevant": false
         },
         {
-          "title": "U.S. Sets First Deep-Sea Mining Lease Sale for November",
-          "summary": "The Trump administration has scheduled the first offshore mineral lease sale in U.S. history, opening more than 31 million acres of seabed near American Samoa to companies seeking critical minerals...",
-          "date": "2026-10-19",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/u-s-sets-first-deep-sea-mining-lease-sale-for-november/",
-          "relevant": false
-        },
-        {
-          "title": "Rheinmetall to take over the Mangalia shipyard in Romania",
-          "summary": "Rheinmetall and MSC acquire Romania’s Mangalia shipyard for €138M to establish a dual-use hub for civil and military naval shipbuilding in South-Eastern Europe. Rheinmteall press release Rheinmetall and the Swiss…",
-          "date": "2026-10-19",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/rheinmetall-to-take-over-the-mangalia-shipyard-in-romania/",
-          "relevant": false
-        },
-        {
           "title": "In pursuit of Middle East expansion, US piping company sets up entity in Jordan",
           "summary": "Texas-headquartered engineered pipe services provider Perma-Pipe International has established a subsidiary in Jordan, a move that comes as part...",
           "date": "2026-10-19",
@@ -3870,6 +3870,22 @@
           "date": "2026-10-19",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/trump_says_diesel_deal_aims_to_keep_russia_talks_going-19-oct-2026-184873-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "U.S. Sets First Deep-Sea Mining Lease Sale for November",
+          "summary": "The Trump administration has scheduled the first offshore mineral lease sale in U.S. history, opening more than 31 million acres of seabed near American Samoa to companies seeking critical minerals...",
+          "date": "2026-10-19",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/u-s-sets-first-deep-sea-mining-lease-sale-for-november/",
+          "relevant": false
+        },
+        {
+          "title": "Rheinmetall to take over the Mangalia shipyard in Romania",
+          "summary": "Rheinmetall and MSC acquire Romania’s Mangalia shipyard for €138M to establish a dual-use hub for civil and military naval shipbuilding in South-Eastern Europe. Rheinmteall press release Rheinmetall and the Swiss…",
+          "date": "2026-10-19",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/rheinmetall-to-take-over-the-mangalia-shipyard-in-romania/",
           "relevant": false
         },
         {
