@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T11:01:01Z",
+  "last_updated": "2026-10-20T12:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -166,6 +166,14 @@
           "date": "2026-10-20",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/fugro-lands-noaa-seabed-mapping-contract-off-florida/",
+          "relevant": false
+        },
+        {
+          "title": "Finder Energy Selects Eneos’ Rig for Drilling Job off Timor-Leste",
+          "summary": "Finder Energy has signed a contract worth an estimated $42.3 million with Eneos Drilling for the Hakuryu-5 semi-submersible rig to drill three development wells…",
+          "date": "2026-10-20",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543783-finder-energy-selects-eneos-rig-for-drilling-job-off-timor-leste",
           "relevant": false
         },
         {
@@ -3729,11 +3737,27 @@
           "relevant": false
         },
         {
+          "title": "Timor-Leste throws 12-month lifeline to delayed gas project ahead of drilling ops",
+          "summary": "This extension for a gas field in Timor-Leste follows earlier termination warnings as partnership talks and drilling preparations press ahead.",
+          "date": "2026-10-20",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/20/timor-leste-throws-12-month-lifeline-to-delayed-gas-project-ahead-of-drilling-ops",
+          "relevant": false
+        },
+        {
           "title": "United Oil & Gas eyes billion-barrel Jamaican drilling targets as it maps out next steps",
           "summary": "United Oil & Gas has unveiled new rig and logistics study results for its license offshore Jamaica, boosting ongoing farm-out talks.",
           "date": "2026-10-20",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/20/united-oil-and-gas-eyes-billion-barrel-jamaican-drilling-targets-as-it-maps-out-next-steps",
+          "relevant": false
+        },
+        {
+          "title": "Sunda Energy Gets Chuditch License Extension After Termination Warning",
+          "summary": "Sunda Energy has secured a 12-month extension to the current phase of its Chuditch gas licence offshore Timor-Leste, following an earlier warning from the country's…",
+          "date": "2026-10-20",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543784-sunda-energy-gets-chuditch-license-extension-after-termination-warning",
           "relevant": false
         },
         {
