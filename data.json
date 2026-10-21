@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T06:00:56Z",
+  "last_updated": "2026-10-21T07:00:55Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -161,19 +161,19 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "BW LPG India offloads 18-year-old VLGC for over $80m",
+          "summary": "New York- and Oslo-listed gas carrier giant BW LPG is cashing in again on strong secondhand values, agreeing to sell an 18-year-old VLGC for more than $80m as it presses ahead with a major fleet renewal programme. The…",
+          "date": "2026-10-21",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/bw-lpg-india-offloads-18-year-old-vlgc-for-over-80m/",
+          "relevant": false
+        },
+        {
           "title": "Army Corps Moves to Overhaul How U.S. Dredging Projects Are Awarded",
           "summary": "The U.S. Army Corps of Engineers is overhauling how it manages dredging contracts nationwide, moving toward a centralized approach intended to reduce costs, improve scheduling and make better use of...",
           "date": "2026-10-20",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/army-corps-moves-to-overhaul-how-u-s-dredging-projects-are-awarded/",
-          "relevant": false
-        },
-        {
-          "title": "BW LPG India offloads 18-year-old VLGC for over $80m",
-          "summary": "New York- and Oslo-listed gas carrier giant BW LPG is cashing in again on strong secondhand values, agreeing to sell an 18-year-old VLGC for more than $80m as it presses ahead with a major fleet renewal programme. The…",
-          "date": "2026-10-20",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/bw-lpg-india-offloads-18-year-old-vlgc-for-over-80m/",
           "relevant": false
         },
         {
@@ -3801,14 +3801,6 @@
           "relevant": false
         },
         {
-          "title": "US moves to legitimise shadow tanker fleet",
-          "summary": "The Trump administration is authorising the sale of sanctioned oil tankers to approved investors who would refurbish the vessels and return them to legitimate crude trades, US energy secretary Chris Wright revealed…",
-          "date": "2026-10-20",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/us-moves-to-legitimise-shadow-tanker-fleet/",
-          "relevant": false
-        },
-        {
           "title": "ReconAfrica starts horizontal sidetrack at Kavango West 1X in Namibia",
           "summary": "ReconAfrica began drilling a horizontal sidetrack at its Kavango West 1X (KW1X) well in Namibia after receiving the final regulatory approvals. Production casing was removed to a vertical depth of 2,289 m, where an…",
           "date": "2026-10-20",
@@ -3854,6 +3846,14 @@
           "date": "2026-10-20",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543784-sunda-energy-gets-chuditch-license-extension-after-termination-warning",
+          "relevant": false
+        },
+        {
+          "title": "US moves to legitimise shadow tanker fleet",
+          "summary": "The Trump administration is authorising the sale of sanctioned oil tankers to approved investors who would refurbish the vessels and return them to legitimate crude trades, US energy secretary Chris Wright revealed…",
+          "date": "2026-10-20",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/us-moves-to-legitimise-shadow-tanker-fleet/",
           "relevant": false
         },
         {
