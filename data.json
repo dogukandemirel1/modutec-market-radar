@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T08:00:54Z",
+  "last_updated": "2026-10-21T09:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -166,6 +166,14 @@
           "date": "2026-10-21",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/bw-lpg-india-offloads-18-year-old-vlgc-for-over-80m/",
+          "relevant": false
+        },
+        {
+          "title": "AIM-174B, AIM-260A seen together on Super Hornet for the first time",
+          "summary": "A U.S. Navy F/A-18 Super Hornet was spotted carrying the AIM-174B and AIM-260A JATM, marking the first documented dual-loadout of these secretive weapons. The post AIM-174B, AIM-260A seen together on Super Hornet for…",
+          "date": "2026-10-21",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/aim-174b-aim-260a-super-hornet/",
           "relevant": false
         },
         {
@@ -3809,14 +3817,6 @@
           "relevant": false
         },
         {
-          "title": "UK shipowners warn against copying FuelEU red tape",
-          "summary": "The UK Chamber of Shipping has urged the British government to avoid repeating the compliance problems encountered under FuelEU Maritime as it prepares to introduce its own maritime fuel standard. In a policy paper…",
-          "date": "2026-10-20",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/uk-shipowners-warn-against-copying-fueleu-red-tape/",
-          "relevant": false
-        },
-        {
           "title": "ReconAfrica starts horizontal sidetrack at Kavango West 1X in Namibia",
           "summary": "ReconAfrica began drilling a horizontal sidetrack at its Kavango West 1X (KW1X) well in Namibia after receiving the final regulatory approvals. Production casing was removed to a vertical depth of 2,289 m, where an…",
           "date": "2026-10-20",
@@ -3862,6 +3862,14 @@
           "date": "2026-10-20",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543784-sunda-energy-gets-chuditch-license-extension-after-termination-warning",
+          "relevant": false
+        },
+        {
+          "title": "UK shipowners warn against copying FuelEU red tape",
+          "summary": "The UK Chamber of Shipping has urged the British government to avoid repeating the compliance problems encountered under FuelEU Maritime as it prepares to introduce its own maritime fuel standard. In a policy paper…",
+          "date": "2026-10-20",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/uk-shipowners-warn-against-copying-fueleu-red-tape/",
           "relevant": false
         },
         {
@@ -5617,6 +5625,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Gulf Keystone and ShaMaran agree to $601m all-share merger",
+          "summary": "Gulf Keystone Petroleum and ShaMaran Petroleum signed agreements to merge in an all-share transaction that values the latter at around $601m.",
+          "date": "2026-10-21",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/gulf-keystone-shamaran-601m-all-share-merger/",
+          "relevant": false
+        },
+        {
           "title": "Jack-up changes hands as Ocean Oilfield enriches its drilling fleet with Noble’s rig",
           "summary": "Ocean Oilfield has wrapped up the acquisition of a rig, which is now docked in Malta and ready for immediate global deployment.",
           "date": "2026-10-19",
@@ -6544,6 +6560,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Minesto joins Swedish govt-backed initiative to work on tidal energy in Indonesia",
+          "summary": "Swedish ocean energy developer Minesto has been selected to participate in the Swedish government-backed initiative Sweden-Indonesia...",
+          "date": "2026-10-21",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/21/minesto-joins-swedish-govt-backed-initiative-to-work-on-tidal-energy-in-indonesia",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Maersk and Hateco Plan $3.5 Billion Vietnam Rail Freight Project",
           "summary": "A.P. Moller-Maersk A/S, the world’s No. 2 container carrier, signed an agreement with Vietnamese conglomerate Hateco to develop a railway freight terminal network in Vietnam during President To Lam’s official visit to…",
