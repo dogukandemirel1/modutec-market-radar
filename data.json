@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T12:01:01Z",
+  "last_updated": "2026-10-21T13:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -166,6 +166,14 @@
           "date": "2026-10-21",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/bw-lpg-india-offloads-18-year-old-vlgc-for-over-80m/",
+          "relevant": false
+        },
+        {
+          "title": "T-200 unloading returns no formation oil at Badr field in Egypt",
+          "summary": "No formation oil reached surface during 48 hours of unloading at TAG Oil’s T-200 well at the Badr oil field (BED-1) in Egypt’s Western Desert, pointing to restricted flow. The vertical well was drilled and completed on…",
+          "date": "2026-10-21",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/t-200-unloading-returns-no-formation-oil-at-badr-field-in-egypt-80408",
           "relevant": false
         },
         {
