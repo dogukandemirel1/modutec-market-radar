@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T09:19:06Z",
+  "last_updated": "2026-10-21T10:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3776,6 +3776,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "South Korea's Taihan targets expansion in US and Europe under new CEO",
+          "summary": "South Korea's Taihan Cable & Solution has named its new Chief Executive Officer (CEO), revealing plans for the expansion of the company's...",
+          "date": "2026-10-21",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/21/south-koreas-taihan-targets-expansion-in-us-and-europe-under-new-ceo",
+          "relevant": false
+        },
         {
           "title": "North Sea gas field cleared for take-off: UK greenlights Jackdaw after legal storms",
           "summary": "The UK regulator has given Shell-backed Adura the go-ahead for a North Sea gas field following a courtroom showdown with environmental campaigners.",
