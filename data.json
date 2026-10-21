@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T13:01:00Z",
+  "last_updated": "2026-10-21T14:00:56Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -161,6 +161,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Russia Sees First Diesel Cargo Sailing for US on Thursday",
+          "summary": "A tanker loaded with Russian diesel will sail for the US on Thursday as Moscow starts to implement a fuel supply deal struck by Vladimir Putin and Donald Trump, according to Deputy Prime Minister Alexander Novak.",
+          "date": "2026-10-21",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/russia-sees-first-diesel-cargo-sailing-for-us-on-thursday/",
+          "relevant": false
+        },
+        {
           "title": "BW LPG India offloads 18-year-old VLGC for over $80m",
           "summary": "New York- and Oslo-listed gas carrier giant BW LPG is cashing in again on strong secondhand values, agreeing to sell an 18-year-old VLGC for more than $80m as it presses ahead with a major fleet renewal programme. The…",
           "date": "2026-10-21",
@@ -273,22 +281,6 @@
           "relevant": false
         },
         {
-          "title": "Archer lands additional YPF contract for two Vaca Muerta rigs",
-          "summary": "Archer won a new three-year drilling contract from YPF, with a two-year option, covering two land rigs in Argentina’s Vaca Muerta basin. The award follows the five-year, seven-rig contract Archer signed with YPF in…",
-          "date": "2026-10-19",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/archer-lands-additional-ypf-contract-for-two-vaca-muerta-rigs-80373",
-          "relevant": false
-        },
-        {
-          "title": "Silver City rig heads to Seram for Lion’s Bula Karang-1 well",
-          "summary": "Lion Energy began mobilizing Silver City Drilling’s Rig 20 to Seram Island, Indonesia, for the Bula Karang-1 exploration well in the East Seram production sharing contract (PSC). Three landing craft tank barges are…",
-          "date": "2026-10-19",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/silver-city-rig-heads-to-seram-for-lions-bula-karang-1-well-80370",
-          "relevant": false
-        },
-        {
           "title": "Transocean’s drillship pair bags $550 million in new US Gulf deals",
           "summary": "Transocean has secured multi-well ultra-deepwater contracts for two drillships in the U.S. Gulf, extending operations through 2027.",
           "date": "2026-10-19",
@@ -310,6 +302,22 @@
           "date": "2026-10-19",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/woodside-pauses-scarborough-gas-unit/",
+          "relevant": false
+        },
+        {
+          "title": "Archer lands additional YPF contract for two Vaca Muerta rigs",
+          "summary": "Archer won a new three-year drilling contract from YPF, with a two-year option, covering two land rigs in Argentina’s Vaca Muerta basin. The award follows the five-year, seven-rig contract Archer signed with YPF in…",
+          "date": "2026-10-19",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/archer-lands-additional-ypf-contract-for-two-vaca-muerta-rigs-80373",
+          "relevant": false
+        },
+        {
+          "title": "Silver City rig heads to Seram for Lion’s Bula Karang-1 well",
+          "summary": "Lion Energy began mobilizing Silver City Drilling’s Rig 20 to Seram Island, Indonesia, for the Bula Karang-1 exploration well in the East Seram production sharing contract (PSC). Three landing craft tank barges are…",
+          "date": "2026-10-19",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/silver-city-rig-heads-to-seram-for-lions-bula-karang-1-well-80370",
           "relevant": false
         },
         {
@@ -3929,19 +3937,19 @@
           "relevant": false
         },
         {
-          "title": "U.S. to Allow Dark-Fleet Tankers to Shed Sanctions, Wright Says",
-          "summary": "The Trump administration is authorizing the sale of sanctioned oil tankers in an effort to allow the vessels to start legitimately shipping crude, US Energy Secretary Chris Wright said.",
-          "date": "2026-10-19",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/u-s-to-allow-dark-fleet-tankers-to-shed-sanctions-wright-says/",
-          "relevant": false
-        },
-        {
           "title": "In pursuit of Middle East expansion, US piping company sets up entity in Jordan",
           "summary": "Texas-headquartered engineered pipe services provider Perma-Pipe International has established a subsidiary in Jordan, a move that comes as part...",
           "date": "2026-10-19",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/19/in-pursuit-of-middle-east-expansion-us-piping-company-sets-up-entity-in-jordan",
+          "relevant": false
+        },
+        {
+          "title": "U.S. to Allow Dark-Fleet Tankers to Shed Sanctions, Wright Says",
+          "summary": "The Trump administration is authorizing the sale of sanctioned oil tankers in an effort to allow the vessels to start legitimately shipping crude, US Energy Secretary Chris Wright said.",
+          "date": "2026-10-19",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/u-s-to-allow-dark-fleet-tankers-to-shed-sanctions-wright-says/",
           "relevant": false
         },
         {
@@ -5664,6 +5672,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "Ocean Oilfield completes purchase of former Noble Resolve jackup",
+          "summary": "Abu Dhabi-based Ocean Oilfield Integrated Solutions closed its acquisition of the jackup Ocean MVM, formerly the Noble Resolve, and has taken ownership of the rig. The GustoMSC CJ50-X100 MC unit arrived in Malta on 13…",
+          "date": "2026-10-21",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/ocean-oilfield-completes-purchase-of-former-noble-resolve-jackup-80406",
+          "relevant": true
+        },
         {
           "title": "Gulf Keystone and ShaMaran agree to $601m all-share merger",
           "summary": "Gulf Keystone Petroleum and ShaMaran Petroleum signed agreements to merge in an all-share transaction that values the latter at around $601m.",
