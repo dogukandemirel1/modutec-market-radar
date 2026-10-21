@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T17:00:59Z",
+  "last_updated": "2026-10-21T18:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -185,22 +185,6 @@
           "relevant": false
         },
         {
-          "title": "Leading Navy Selects Exail Navigation Systems for USV Fleet",
-          "summary": "Exail secures a major contract to equip a leading navy's fleet of uncrewed surface vessels (USVs) with its resilient Marins inertial navigation systems. The post Leading Navy Selects Exail Navigation Systems for USV…",
-          "date": "2026-10-21",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/leading-navy-selects-exail-navigation-systems-for-usv-fleet/",
-          "relevant": false
-        },
-        {
-          "title": "AIM-174B, AIM-260A seen together on Super Hornet for the first time",
-          "summary": "A U.S. Navy F/A-18 Super Hornet was spotted carrying the AIM-174B and AIM-260A JATM, marking the first documented dual-loadout of these secretive weapons. The post AIM-174B, AIM-260A seen together on Super Hornet for…",
-          "date": "2026-10-21",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/aim-174b-aim-260a-super-hornet/",
-          "relevant": false
-        },
-        {
           "title": "Over 500 piles lay the foundation for Poland’s floating LNG terminal (Gallery)",
           "summary": "Poland has hit a new milestone in its energy independence journey, completing the foundational piling for the new FSRU terminal in Gdańsk.",
           "date": "2026-10-21",
@@ -217,6 +201,22 @@
           "relevant": false
         },
         {
+          "title": "Leading Navy Selects Exail Navigation Systems for USV Fleet",
+          "summary": "Exail secures a major contract to equip a leading navy's fleet of uncrewed surface vessels (USVs) with its resilient Marins inertial navigation systems. The post Leading Navy Selects Exail Navigation Systems for USV…",
+          "date": "2026-10-21",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/leading-navy-selects-exail-navigation-systems-for-usv-fleet/",
+          "relevant": false
+        },
+        {
+          "title": "AIM-174B, AIM-260A seen together on Super Hornet for the first time",
+          "summary": "A U.S. Navy F/A-18 Super Hornet was spotted carrying the AIM-174B and AIM-260A JATM, marking the first documented dual-loadout of these secretive weapons. The post AIM-174B, AIM-260A seen together on Super Hornet for…",
+          "date": "2026-10-21",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/aim-174b-aim-260a-super-hornet/",
+          "relevant": false
+        },
+        {
           "title": "Army Corps Moves to Overhaul How U.S. Dredging Projects Are Awarded",
           "summary": "The U.S. Army Corps of Engineers is overhauling how it manages dredging contracts nationwide, moving toward a centralized approach intended to reduce costs, improve scheduling and make better use of...",
           "date": "2026-10-20",
@@ -230,14 +230,6 @@
           "date": "2026-10-20",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/transocean-lands-us-gulf-contracts-for-deepwater-proteus-and-deepwater-conqueror-80393",
-          "relevant": false
-        },
-        {
-          "title": "Norway Outlines Procurement Strategy for Up to 20 P1118 Standardized Vessels",
-          "summary": "Norway' has revealed the acquisition model for Project P1118, splitting up to 20 ocean-going standardized vessels for Norway, the UK, and Lithuania across two parallel contracts. The post Norway Outlines Procurement…",
-          "date": "2026-10-20",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/norway-outlines-procurement-strategy-for-up-to-20-p1118-standardized-vessels/",
           "relevant": false
         },
         {
@@ -262,6 +254,14 @@
           "date": "2026-10-20",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543783-finder-energy-selects-eneos-rig-for-drilling-job-off-timor-leste",
+          "relevant": false
+        },
+        {
+          "title": "Norway Outlines Procurement Strategy for Up to 20 P1118 Standardized Vessels",
+          "summary": "Norway' has revealed the acquisition model for Project P1118, splitting up to 20 ocean-going standardized vessels for Norway, the UK, and Lithuania across two parallel contracts. The post Norway Outlines Procurement…",
+          "date": "2026-10-20",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/norway-outlines-procurement-strategy-for-up-to-20-p1118-standardized-vessels/",
           "relevant": false
         },
         {
@@ -3865,35 +3865,11 @@
           "relevant": false
         },
         {
-          "title": "Iran Prolongs Talks in Stalemate to Influence US Midterms",
-          "summary": "Iran has deliberately prolonged talks with the US to try to weaken Donald Trump politically ahead of November's US midterm elections, senior officials say, while fears of renewed military action and deep distrust of…",
-          "date": "2026-10-20",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/iran-prolongs-talks-in-stalemate-to-influence-us-midterms/",
-          "relevant": false
-        },
-        {
-          "title": "China Sends Naval Forces to Monitor US Warship Near Disputed Shoal",
-          "summary": "China's military said on Tuesday it had sent forces to watch a US warship that \"illegally\" entered waters around a disputed shoal in the South China Sea, while further north in the waterway, Taiwan reported a standoff…",
-          "date": "2026-10-20",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/china-sends-naval-forces-to-monitor-us-warship-near-disputed-shoal/",
-          "relevant": false
-        },
-        {
           "title": "ReconAfrica starts horizontal sidetrack at Kavango West 1X in Namibia",
           "summary": "ReconAfrica began drilling a horizontal sidetrack at its Kavango West 1X (KW1X) well in Namibia after receiving the final regulatory approvals. Production casing was removed to a vertical depth of 2,289 m, where an…",
           "date": "2026-10-20",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/reconafrica-starts-horizontal-sidetrack-at-kavango-west-1x-in-namibia-80387",
-          "relevant": false
-        },
-        {
-          "title": "U.S. Army Anti-A2/AD, Maritime Strike Unit Fires Tomahawk Missile",
-          "summary": "A U.S. Army unit assigned to European Command, tasked with breaking area denial networks and sinking maritime targets, fired a Tomahawk cruise missile. The post U.S. Army Anti-A2/AD, Maritime Strike Unit Fires Tomahawk…",
-          "date": "2026-10-20",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/u-s-army-anti-a2-ad-maritime-strike-unit-fires-tomahawk-missile/",
           "relevant": false
         },
         {
@@ -3918,6 +3894,30 @@
           "date": "2026-10-20",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543784-sunda-energy-gets-chuditch-license-extension-after-termination-warning",
+          "relevant": false
+        },
+        {
+          "title": "Iran Prolongs Talks in Stalemate to Influence US Midterms",
+          "summary": "Iran has deliberately prolonged talks with the US to try to weaken Donald Trump politically ahead of November's US midterm elections, senior officials say, while fears of renewed military action and deep distrust of…",
+          "date": "2026-10-20",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/iran-prolongs-talks-in-stalemate-to-influence-us-midterms/",
+          "relevant": false
+        },
+        {
+          "title": "China Sends Naval Forces to Monitor US Warship Near Disputed Shoal",
+          "summary": "China's military said on Tuesday it had sent forces to watch a US warship that \"illegally\" entered waters around a disputed shoal in the South China Sea, while further north in the waterway, Taiwan reported a standoff…",
+          "date": "2026-10-20",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/china-sends-naval-forces-to-monitor-us-warship-near-disputed-shoal/",
+          "relevant": false
+        },
+        {
+          "title": "U.S. Army Anti-A2/AD, Maritime Strike Unit Fires Tomahawk Missile",
+          "summary": "A U.S. Army unit assigned to European Command, tasked with breaking area denial networks and sinking maritime targets, fired a Tomahawk cruise missile. The post U.S. Army Anti-A2/AD, Maritime Strike Unit Fires Tomahawk…",
+          "date": "2026-10-20",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/u-s-army-anti-a2-ad-maritime-strike-unit-fires-tomahawk-missile/",
           "relevant": false
         },
         {
@@ -6633,6 +6633,23 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "IEA: Gulf Oil Shipping Costs Top $37 Per Barrel, Five Times Pre-War Levels",
+          "summary": "The cost of shipping crude oil from the Middle East Gulf to Asia has surged to more than $37 per barrel, over five times prewar levels, as an increasingly complex...",
+          "date": "2026-10-21",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/iea-gulf-oil-shipping-costs-top-37-per-barrel-five-times-pre-war-levels/",
+          "relevant": false
+        },
+        {
+          "title": "Minesto joins Swedish govt-backed initiative to work on tidal energy in Indonesia",
+          "summary": "Swedish ocean energy developer Minesto has been selected to participate in the Swedish government-backed initiative Sweden-Indonesia...",
+          "date": "2026-10-21",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/21/minesto-joins-swedish-govt-backed-initiative-to-work-on-tidal-energy-in-indonesia",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "EDGE Leads Integration of Sovereign Autonomous Systems in UAE Navy Demonstration with Allied Forces",
           "summary": "EDGE has led the integration of sovereign autonomous systems for a UAE Navy demonstration of national and allied unmanned maritime capabilities, conducted with the participation of the United States Navy. The Group…",
           "date": "2026-10-21",
@@ -6647,15 +6664,6 @@
           "date": "2026-10-21",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/10/st-engineering-lays-keel-for-kuwaits-third-al-dorra-class-vessel/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Minesto joins Swedish govt-backed initiative to work on tidal energy in Indonesia",
-          "summary": "Swedish ocean energy developer Minesto has been selected to participate in the Swedish government-backed initiative Sweden-Indonesia...",
-          "date": "2026-10-21",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/21/minesto-joins-swedish-govt-backed-initiative-to-work-on-tidal-energy-in-indonesia",
           "relevant": false,
           "region": "SEA"
         },
