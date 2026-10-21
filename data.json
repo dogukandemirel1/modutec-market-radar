@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T07:00:55Z",
+  "last_updated": "2026-10-21T08:00:54Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -177,14 +177,6 @@
           "relevant": false
         },
         {
-          "title": "Fugro lands NOAA seabed mapping contract off Florida",
-          "summary": "Dutch survey specialist Fugro has secured a contract with the US National Oceanic and Atmospheric Administration (NOAA) to map about 3,200 sq km of seabed off Florida’s Atlantic coast. The company will conduct…",
-          "date": "2026-10-20",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/fugro-lands-noaa-seabed-mapping-contract-off-florida/",
-          "relevant": false
-        },
-        {
           "title": "Transocean lands US Gulf contracts for Deepwater Proteus and Deepwater Conqueror",
           "summary": "Two ultra-deepwater drillships in Transocean’s fleet received new contracts in the US Gulf, each from an undisclosed operator. The awards cover the Deepwater Proteus and the Deepwater Conqueror. The Deepwater Proteus…",
           "date": "2026-10-20",
@@ -238,6 +230,14 @@
           "date": "2026-10-20",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543782-transocean-secures-550m-in-us-gulf-drillship-deals",
+          "relevant": false
+        },
+        {
+          "title": "Fugro lands NOAA seabed mapping contract off Florida",
+          "summary": "Dutch survey specialist Fugro has secured a contract with the US National Oceanic and Atmospheric Administration (NOAA) to map about 3,200 sq km of seabed off Florida’s Atlantic coast. The company will conduct…",
+          "date": "2026-10-20",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/fugro-lands-noaa-seabed-mapping-contract-off-florida/",
           "relevant": false
         },
         {
@@ -3769,6 +3769,22 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "North Sea gas field cleared for take-off: UK greenlights Jackdaw after legal storms",
+          "summary": "The UK regulator has given Shell-backed Adura the go-ahead for a North Sea gas field following a courtroom showdown with environmental campaigners.",
+          "date": "2026-10-21",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/21/north-sea-gas-field-cleared-for-take-off-uk-greenlights-jackdaw-after-legal-storms",
+          "relevant": false
+        },
+        {
+          "title": "Shell-Equinor Joint Venture Gets UK Approval for Jackdaw Gas Field",
+          "summary": "The U.K. government has approved the Jackdaw offshore gas field operated by Adura, a joint venture between Shell and Equinor, clearing the way for the project to begin supplying gas within weeks…",
+          "date": "2026-10-21",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543810-shell-equinor-joint-venture-gets-uk-approval-for-jackdaw-gas-field",
+          "relevant": false
+        },
+        {
           "title": "Trump’s Plan to Revive Sanctioned Tankers Faces Tough Sell",
           "summary": "(Bloomberg) — A US plan to rehabilitate sanctioned tankers to boost oil supply may attract only a sliver of the dark fleet, as existing contracts, complex compliance checks and sky-high...",
           "date": "2026-10-20",
@@ -6538,20 +6554,20 @@
           "region": "SEA"
         },
         {
-          "title": "Eastern Pacific links wind propulsion repayments to fuel savings",
-          "summary": "Singapore-based Eastern Pacific Shipping (EPS) has secured financing for wind-assisted propulsion systems on two vessels through a fund linking repayments to independently verified fuel savings. The Fund for Energy…",
-          "date": "2026-10-20",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/eastern-pacific-links-wind-propulsion-repayments-to-fuel-savings/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Petronas, Petrovietnam Expand Partnership across Energy Value Chain",
           "summary": "Malaysia and Vietnam's national oil and gas companies agreed to explore more joint projects in the upstream and downstream sectors, as well as the energy transition.",
           "date": "2026-10-20",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/petronas_petrovietnam_expand_partnership_across_energy_value_chain-20-oct-2026-184883-article/?rss=true",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Eastern Pacific links wind propulsion repayments to fuel savings",
+          "summary": "Singapore-based Eastern Pacific Shipping (EPS) has secured financing for wind-assisted propulsion systems on two vessels through a fund linking repayments to independently verified fuel savings. The Fund for Energy…",
+          "date": "2026-10-20",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/eastern-pacific-links-wind-propulsion-repayments-to-fuel-savings/",
           "relevant": false,
           "region": "SEA"
         },
