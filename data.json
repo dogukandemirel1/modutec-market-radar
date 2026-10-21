@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T15:00:58Z",
+  "last_updated": "2026-10-21T16:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -305,19 +305,19 @@
           "relevant": false
         },
         {
-          "title": "Iran's Main Oil Terminals Remain Empty",
-          "summary": "Iran's main oil-loading terminals have remained empty for weeks.",
-          "date": "2026-10-19",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/irans_main_oil_terminals_remain_empty-19-oct-2026-184877-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Woodside pauses Scarborough gas unit after Greenpeace protest",
           "summary": "Woodside Energy has suspended activity at a floating production unit central to its $12.5bn Scarborough natural gas development following a protest by Greenpeace off Western Australia’s northwest coast, reported Reuters.",
           "date": "2026-10-19",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/woodside-pauses-scarborough-gas-unit/",
+          "relevant": false
+        },
+        {
+          "title": "Iran's Main Oil Terminals Remain Empty",
+          "summary": "Iran's main oil-loading terminals have remained empty for weeks.",
+          "date": "2026-10-19",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/irans_main_oil_terminals_remain_empty-19-oct-2026-184877-article/?rss=true",
           "relevant": false
         },
         {
@@ -3913,19 +3913,19 @@
           "relevant": false
         },
         {
-          "title": "Halliburton Sees Years of Growth as Mideast Rebuilds",
-          "summary": "Halliburton Co. is predicting years of growing demand for oil field services as nations in the Middle East rebuild energy assets and infrastructure.",
-          "date": "2026-10-20",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/halliburton_sees_years_of_growth_as_mideast_rebuilds-20-oct-2026-184885-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Sunda Energy Gets Chuditch License Extension After Termination Warning",
           "summary": "Sunda Energy has secured a 12-month extension to the current phase of its Chuditch gas licence offshore Timor-Leste, following an earlier warning from the country's…",
           "date": "2026-10-20",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543784-sunda-energy-gets-chuditch-license-extension-after-termination-warning",
+          "relevant": false
+        },
+        {
+          "title": "Halliburton Sees Years of Growth as Mideast Rebuilds",
+          "summary": "Halliburton Co. is predicting years of growing demand for oil field services as nations in the Middle East rebuild energy assets and infrastructure.",
+          "date": "2026-10-20",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/halliburton_sees_years_of_growth_as_mideast_rebuilds-20-oct-2026-184885-article/?rss=true",
           "relevant": false
         },
         {
@@ -6660,20 +6660,20 @@
           "region": "SEA"
         },
         {
-          "title": "Maersk and Hateco Plan $3.5 Billion Vietnam Rail Freight Project",
-          "summary": "A.P. Moller-Maersk A/S, the world’s No. 2 container carrier, signed an agreement with Vietnamese conglomerate Hateco to develop a railway freight terminal network in Vietnam during President To Lam’s official visit to…",
-          "date": "2026-10-20",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/maersk-and-hateco-plan-3-5-billion-vietnam-rail-freight-project/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Petronas, Petrovietnam Expand Partnership across Energy Value Chain",
           "summary": "Malaysia and Vietnam's national oil and gas companies agreed to explore more joint projects in the upstream and downstream sectors, as well as the energy transition.",
           "date": "2026-10-20",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/petronas_petrovietnam_expand_partnership_across_energy_value_chain-20-oct-2026-184883-article/?rss=true",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Maersk and Hateco Plan $3.5 Billion Vietnam Rail Freight Project",
+          "summary": "A.P. Moller-Maersk A/S, the world’s No. 2 container carrier, signed an agreement with Vietnamese conglomerate Hateco to develop a railway freight terminal network in Vietnam during President To Lam’s official visit to…",
+          "date": "2026-10-20",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/maersk-and-hateco-plan-3-5-billion-vietnam-rail-freight-project/",
           "relevant": false,
           "region": "SEA"
         },
