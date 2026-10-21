@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T11:00:59Z",
+  "last_updated": "2026-10-21T12:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -169,19 +169,19 @@
           "relevant": false
         },
         {
-          "title": "AIM-174B, AIM-260A seen together on Super Hornet for the first time",
-          "summary": "A U.S. Navy F/A-18 Super Hornet was spotted carrying the AIM-174B and AIM-260A JATM, marking the first documented dual-loadout of these secretive weapons. The post AIM-174B, AIM-260A seen together on Super Hornet for…",
-          "date": "2026-10-21",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/aim-174b-aim-260a-super-hornet/",
-          "relevant": false
-        },
-        {
           "title": "SSE taps Seaway7 for Scotland-bound inter-array cables, foundations",
           "summary": "SSE Renewables has named Seaway7 as the preferred supplier for the engineering, procurement, construction and installation (EPCI) of wind turbine...",
           "date": "2026-10-21",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/21/sse-taps-seaway7-for-scotland-bound-inter-array-cables-foundations",
+          "relevant": false
+        },
+        {
+          "title": "AIM-174B, AIM-260A seen together on Super Hornet for the first time",
+          "summary": "A U.S. Navy F/A-18 Super Hornet was spotted carrying the AIM-174B and AIM-260A JATM, marking the first documented dual-loadout of these secretive weapons. The post AIM-174B, AIM-260A seen together on Super Hornet for…",
+          "date": "2026-10-21",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/aim-174b-aim-260a-super-hornet/",
           "relevant": false
         },
         {
@@ -198,22 +198,6 @@
           "date": "2026-10-20",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/transocean-lands-us-gulf-contracts-for-deepwater-proteus-and-deepwater-conqueror-80393",
-          "relevant": false
-        },
-        {
-          "title": "Norway Outlines Procurement Strategy for Up to 20 P1118 Standardized Vessels",
-          "summary": "Norway' has revealed the acquisition model for Project P1118, splitting up to 20 ocean-going standardized vessels for Norway, the UK, and Lithuania across two parallel contracts. The post Norway Outlines Procurement…",
-          "date": "2026-10-20",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/norway-outlines-procurement-strategy-for-up-to-20-p1118-standardized-vessels/",
-          "relevant": false
-        },
-        {
-          "title": "Indian Navy to Equip Legacy Kashin and Veer Classes with BrahMos",
-          "summary": "India’s MoD has signed a $68 million contract to retrofit ageing Kashin-class destroyers and Veer-class corvettes with BrahMos supersonic missiles. The post Indian Navy to Equip Legacy Kashin and Veer Classes with…",
-          "date": "2026-10-20",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/indian-navy-to-equip-legacy-kashin-and-veer-classes-with-brahmos/",
           "relevant": false
         },
         {
@@ -238,6 +222,22 @@
           "date": "2026-10-20",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543783-finder-energy-selects-eneos-rig-for-drilling-job-off-timor-leste",
+          "relevant": false
+        },
+        {
+          "title": "Norway Outlines Procurement Strategy for Up to 20 P1118 Standardized Vessels",
+          "summary": "Norway' has revealed the acquisition model for Project P1118, splitting up to 20 ocean-going standardized vessels for Norway, the UK, and Lithuania across two parallel contracts. The post Norway Outlines Procurement…",
+          "date": "2026-10-20",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/norway-outlines-procurement-strategy-for-up-to-20-p1118-standardized-vessels/",
+          "relevant": false
+        },
+        {
+          "title": "Indian Navy to Equip Legacy Kashin and Veer Classes with BrahMos",
+          "summary": "India’s MoD has signed a $68 million contract to retrofit ageing Kashin-class destroyers and Veer-class corvettes with BrahMos supersonic missiles. The post Indian Navy to Equip Legacy Kashin and Veer Classes with…",
+          "date": "2026-10-20",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/indian-navy-to-equip-legacy-kashin-and-veer-classes-with-brahmos/",
           "relevant": false
         },
         {
@@ -3857,14 +3857,6 @@
           "relevant": false
         },
         {
-          "title": "U.S. Army Anti-A2/AD, Maritime Strike Unit Fires Tomahawk Missile",
-          "summary": "A U.S. Army unit assigned to European Command, tasked with breaking area denial networks and sinking maritime targets, fired a Tomahawk cruise missile. The post U.S. Army Anti-A2/AD, Maritime Strike Unit Fires Tomahawk…",
-          "date": "2026-10-20",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/u-s-army-anti-a2-ad-maritime-strike-unit-fires-tomahawk-missile/",
-          "relevant": false
-        },
-        {
           "title": "Timor-Leste throws 12-month lifeline to delayed gas project ahead of drilling ops",
           "summary": "This extension for a gas field in Timor-Leste follows earlier termination warnings as partnership talks and drilling preparations press ahead.",
           "date": "2026-10-20",
@@ -3894,6 +3886,14 @@
           "date": "2026-10-20",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543784-sunda-energy-gets-chuditch-license-extension-after-termination-warning",
+          "relevant": false
+        },
+        {
+          "title": "U.S. Army Anti-A2/AD, Maritime Strike Unit Fires Tomahawk Missile",
+          "summary": "A U.S. Army unit assigned to European Command, tasked with breaking area denial networks and sinking maritime targets, fired a Tomahawk cruise missile. The post U.S. Army Anti-A2/AD, Maritime Strike Unit Fires Tomahawk…",
+          "date": "2026-10-20",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/u-s-army-anti-a2-ad-maritime-strike-unit-fires-tomahawk-missile/",
           "relevant": false
         },
         {
