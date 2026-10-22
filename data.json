@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T10:00:58Z",
+  "last_updated": "2026-10-22T11:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -160,6 +160,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "DOF cements its spot on Africa’s subsea stage with multimillion-dollar vessel job",
+          "summary": "DOF Group has won a new subsea installation contract in Africa, locking in 100 days of work for its 2008-built vessel in early 2027.",
+          "date": "2026-10-22",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/22/dof-cements-its-spot-on-africas-subsea-stage-with-multimillion-dollar-vessel-job",
+          "relevant": false
+        },
         {
           "title": "DOF Gets Deepwater Subsea Installation Job in Africa",
           "summary": "Norwegian offshore vessel owner DOF Group has secured a subsea installation contract in Africa, with its Skandi Acergy construction support vessel (CSV) scheduled…",
@@ -6721,6 +6729,15 @@
           "source_url": "https://gcaptain.com/saudi-arabia-seeks-access-to-overseas-oil-storage-for-aramco/",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Ghana signs $28bn Jomoro petroleum hub expansion deal",
+          "summary": "Ghana has entered into a $28bn agreement with a consortium led by UAE-based Global Sphere for the proposed expansion of its Petroleum Hub in Jomoro, Western Region.",
+          "date": "2026-10-22",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/ghana-28bn-jomoro-petroleum-hub-deal/",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Oil Prices Surge as Attacks on Saudi Arabia Fuel Supply Concerns",
