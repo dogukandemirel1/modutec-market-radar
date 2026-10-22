@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T08:01:03Z",
+  "last_updated": "2026-10-22T09:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -201,14 +201,6 @@
           "relevant": false
         },
         {
-          "title": "BW LPG India offloads 18-year-old VLGC for over $80m",
-          "summary": "New York- and Oslo-listed gas carrier giant BW LPG is cashing in again on strong secondhand values, agreeing to sell an 18-year-old VLGC for more than $80m as it presses ahead with a major fleet renewal programme. The…",
-          "date": "2026-10-21",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/bw-lpg-india-offloads-18-year-old-vlgc-for-over-80m/",
-          "relevant": false
-        },
-        {
           "title": "Over 500 piles lay the foundation for Poland’s floating LNG terminal (Gallery)",
           "summary": "Poland has hit a new milestone in its energy independence journey, completing the foundational piling for the new FSRU terminal in Gdańsk.",
           "date": "2026-10-21",
@@ -222,6 +214,22 @@
           "date": "2026-10-21",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/21/sse-taps-seaway7-for-scotland-bound-inter-array-cables-foundations",
+          "relevant": false
+        },
+        {
+          "title": "HII receives US Navy contract for Lyndon B Johnson sea trials",
+          "summary": "HII’s Ingalls Shipbuilding division has received a $99m contract modification from the US Navy to conduct sea trials for the destroyer Lyndon B Johnson (DDG 1002), the third and final vessel in the Zumwalt class. The…",
+          "date": "2026-10-21",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/hii-uss-lundon-b-johnson/",
+          "relevant": false
+        },
+        {
+          "title": "BW LPG India offloads 18-year-old VLGC for over $80m",
+          "summary": "New York- and Oslo-listed gas carrier giant BW LPG is cashing in again on strong secondhand values, agreeing to sell an 18-year-old VLGC for more than $80m as it presses ahead with a major fleet renewal programme. The…",
+          "date": "2026-10-21",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/bw-lpg-india-offloads-18-year-old-vlgc-for-over-80m/",
           "relevant": false
         },
         {
@@ -513,14 +521,6 @@
           "relevant": false
         },
         {
-          "title": "Lockheed Martin wins US contracts for naval EW and F-35 support",
-          "summary": "Lockheed Martin has received two US defence contract modifications worth a combined $90.4m, covering naval electronic warfare systems and support for the F-35’s Integrated Core Processor. The post Lockheed Martin wins…",
-          "date": "2026-10-15",
-          "source_name": "Naval Technology",
-          "source_url": "https://www.naval-technology.com/news/lockheed-martin-us-navy-contract/",
-          "relevant": false
-        },
-        {
           "title": "Rig provider and other contractors revealed for Timor-Leste's oil field",
           "summary": "Oil & gas exploration player Finder Energy has awarded Japanese ENEOS Drilling a contract to provide a semi-submersible drilling rig for the...",
           "date": "2026-10-15",
@@ -542,6 +542,14 @@
           "date": "2026-10-15",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/15/tmc-compressors-returns-20-years-later-to-equip-fpso-for-new-life-in-brazil",
+          "relevant": false
+        },
+        {
+          "title": "Lockheed Martin wins US contracts for naval EW and F-35 support",
+          "summary": "Lockheed Martin has received two US defence contract modifications worth a combined $90.4m, covering naval electronic warfare systems and support for the F-35’s Integrated Core Processor. The post Lockheed Martin wins…",
+          "date": "2026-10-15",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/lockheed-martin-us-navy-contract/",
           "relevant": false
         },
         {
@@ -3833,6 +3841,14 @@
           "relevant": true
         },
         {
+          "title": "Tufton rides stronger markets with fresh tanker and bulker deals",
+          "summary": "London-listed Tufton Assets has secured higher-paying employment across its tanker and dry bulk fleet, with two MR product tankers extended for another year and further charter renewals in the pipeline. The charterer of…",
+          "date": "2026-10-22",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/tufton-rides-stronger-markets-with-fresh-tanker-and-bulker-deals/",
+          "relevant": false
+        },
+        {
           "title": "Chevron Looks to Shed Older US Gulf Oil and Gas Assets",
           "summary": "Chevron is exploring the sale of some of its older oil and gas assets in the US Gulf, the company confirmed to Reuters, part of an effort to focus on high-growth developments in the region…",
           "date": "2026-10-22",
@@ -3846,6 +3862,22 @@
           "date": "2026-10-21",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/u-s-sanctions-law-firm-shipping-agents-and-nine-vessels-in-iran-shadow-fleet-crackdown/",
+          "relevant": false
+        },
+        {
+          "title": "South Korea's Taihan targets expansion in US and Europe under new CEO",
+          "summary": "South Korea's Taihan Cable & Solution has named its new Chief Executive Officer (CEO), revealing plans for the expansion of the company's...",
+          "date": "2026-10-21",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/21/south-koreas-taihan-targets-expansion-in-us-and-europe-under-new-ceo",
+          "relevant": false
+        },
+        {
+          "title": "North Sea gas field cleared for take-off: UK greenlights Jackdaw after legal storms",
+          "summary": "The UK regulator has given Shell-backed Adura the go-ahead for a North Sea gas field following a courtroom showdown with environmental campaigners.",
+          "date": "2026-10-21",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/21/north-sea-gas-field-cleared-for-take-off-uk-greenlights-jackdaw-after-legal-storms",
           "relevant": false
         },
         {
@@ -3873,35 +3905,11 @@
           "relevant": false
         },
         {
-          "title": "South Korea's Taihan targets expansion in US and Europe under new CEO",
-          "summary": "South Korea's Taihan Cable & Solution has named its new Chief Executive Officer (CEO), revealing plans for the expansion of the company's...",
-          "date": "2026-10-21",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/21/south-koreas-taihan-targets-expansion-in-us-and-europe-under-new-ceo",
-          "relevant": false
-        },
-        {
-          "title": "North Sea gas field cleared for take-off: UK greenlights Jackdaw after legal storms",
-          "summary": "The UK regulator has given Shell-backed Adura the go-ahead for a North Sea gas field following a courtroom showdown with environmental campaigners.",
-          "date": "2026-10-21",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/21/north-sea-gas-field-cleared-for-take-off-uk-greenlights-jackdaw-after-legal-storms",
-          "relevant": false
-        },
-        {
           "title": "ReconAfrica starts horizontal sidetrack at Kavango West 1X in Namibia",
           "summary": "ReconAfrica began drilling a horizontal sidetrack at its Kavango West 1X (KW1X) well in Namibia after receiving the final regulatory approvals. Production casing was removed to a vertical depth of 2,289 m, where an…",
           "date": "2026-10-20",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/reconafrica-starts-horizontal-sidetrack-at-kavango-west-1x-in-namibia-80387",
-          "relevant": false
-        },
-        {
-          "title": "Sunda Energy Gets Chuditch License Extension After Termination Warning",
-          "summary": "Sunda Energy has secured a 12-month extension to the current phase of its Chuditch gas licence offshore Timor-Leste, following an earlier warning from the country's…",
-          "date": "2026-10-20",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/543784-sunda-energy-gets-chuditch-license-extension-after-termination-warning",
           "relevant": false
         },
         {
@@ -3918,6 +3926,14 @@
           "date": "2026-10-20",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/20/united-oil-and-gas-eyes-billion-barrel-jamaican-drilling-targets-as-it-maps-out-next-steps",
+          "relevant": false
+        },
+        {
+          "title": "Sunda Energy Gets Chuditch License Extension After Termination Warning",
+          "summary": "Sunda Energy has secured a 12-month extension to the current phase of its Chuditch gas licence offshore Timor-Leste, following an earlier warning from the country's…",
+          "date": "2026-10-20",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543784-sunda-energy-gets-chuditch-license-extension-after-termination-warning",
           "relevant": false
         },
         {
@@ -6681,6 +6697,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Oil Prices Surge as Attacks on Saudi Arabia Fuel Supply Concerns",
+          "summary": "Oil prices rallied over $2 a barrel on Thursday after more Houthi attacks in Saudi Arabia stoked concerns over a broader escalation of conflict and further disruptions…",
+          "date": "2026-10-22",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543835-oil-prices-surge-as-attacks-on-saudi-arabia-fuel-supply-concerns",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
           "title": "IEA: Gulf Oil Shipping Costs Top $37 Per Barrel, Five Times Pre-War Levels",
           "summary": "The cost of shipping crude oil from the Middle East Gulf to Asia has surged to more than $37 per barrel, over five times prewar levels, as an increasingly complex...",
           "date": "2026-10-21",
@@ -6707,15 +6732,6 @@
           "region": "SEA"
         },
         {
-          "title": "Oil Gains After Saudi Oil Field Attack",
-          "summary": "A deadly Saudi oil field attack and Gulf embassy concerns pushed crude prices higher.",
-          "date": "2026-10-21",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/oil_gains_after_saudi_oil_field_attack-21-oct-2026-184901-article/?rss=true",
-          "relevant": false,
-          "region": "KSA"
-        },
-        {
           "title": "Minesto joins Swedish govt-backed initiative to work on tidal energy in Indonesia",
           "summary": "Swedish ocean energy developer Minesto has been selected to participate in the Swedish government-backed initiative Sweden-Indonesia...",
           "date": "2026-10-21",
@@ -6723,6 +6739,15 @@
           "source_url": "https://offshore-energy.biz/2026/10/21/minesto-joins-swedish-govt-backed-initiative-to-work-on-tidal-energy-in-indonesia",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Oil Gains After Saudi Oil Field Attack",
+          "summary": "A deadly Saudi oil field attack and Gulf embassy concerns pushed crude prices higher.",
+          "date": "2026-10-21",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/oil_gains_after_saudi_oil_field_attack-21-oct-2026-184901-article/?rss=true",
+          "relevant": false,
+          "region": "KSA"
         },
         {
           "title": "Petronas, Petrovietnam Expand Partnership across Energy Value Chain",
