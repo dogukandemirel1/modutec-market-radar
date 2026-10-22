@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T16:00:58Z",
+  "last_updated": "2026-10-22T17:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -177,6 +177,14 @@
           "relevant": false
         },
         {
+          "title": "ABS, Ørsted Named Winners of 2026 NOIA ESG Excellence Award",
+          "summary": "The National Ocean Industries Association (NOIA) has named the American Bureau of Shipping (ABS) and Ørsted the winners of the 2026 NOIA Environmental, Social, & Governance (ESG) Excellence Awards…",
+          "date": "2026-10-22",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543845-abs-rsted-named-winners-of-2026-noia-esg-excellence-award",
+          "relevant": false
+        },
+        {
           "title": "DOF Gets Deepwater Subsea Installation Job in Africa",
           "summary": "Norwegian offshore vessel owner DOF Group has secured a subsea installation contract in Africa, with its Skandi Acergy construction support vessel (CSV) scheduled…",
           "date": "2026-10-22",
@@ -198,6 +206,22 @@
           "date": "2026-10-21",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/t-200-unloading-returns-no-formation-oil-at-badr-field-in-egypt-80408",
+          "relevant": false
+        },
+        {
+          "title": "Leading Navy Selects Exail Navigation Systems for USV Fleet",
+          "summary": "Exail secures a major contract to equip a leading navy's fleet of uncrewed surface vessels (USVs) with its resilient Marins inertial navigation systems. The post Leading Navy Selects Exail Navigation Systems for USV…",
+          "date": "2026-10-21",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/leading-navy-selects-exail-navigation-systems-for-usv-fleet/",
+          "relevant": false
+        },
+        {
+          "title": "AIM-174B, AIM-260A seen together on Super Hornet for the first time",
+          "summary": "A U.S. Navy F/A-18 Super Hornet was spotted carrying the AIM-174B and AIM-260A JATM, marking the first documented dual-loadout of these secretive weapons. The post AIM-174B, AIM-260A seen together on Super Hornet for…",
+          "date": "2026-10-21",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/aim-174b-aim-260a-super-hornet/",
           "relevant": false
         },
         {
@@ -230,22 +254,6 @@
           "date": "2026-10-21",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/russia-sees-first-diesel-cargo-sailing-for-us-on-thursday/",
-          "relevant": false
-        },
-        {
-          "title": "Leading Navy Selects Exail Navigation Systems for USV Fleet",
-          "summary": "Exail secures a major contract to equip a leading navy's fleet of uncrewed surface vessels (USVs) with its resilient Marins inertial navigation systems. The post Leading Navy Selects Exail Navigation Systems for USV…",
-          "date": "2026-10-21",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/leading-navy-selects-exail-navigation-systems-for-usv-fleet/",
-          "relevant": false
-        },
-        {
-          "title": "AIM-174B, AIM-260A seen together on Super Hornet for the first time",
-          "summary": "A U.S. Navy F/A-18 Super Hornet was spotted carrying the AIM-174B and AIM-260A JATM, marking the first documented dual-loadout of these secretive weapons. The post AIM-174B, AIM-260A seen together on Super Hornet for…",
-          "date": "2026-10-21",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/aim-174b-aim-260a-super-hornet/",
           "relevant": false
         },
         {
@@ -5777,6 +5785,14 @@
           "relevant": false
         },
         {
+          "title": "Elbit Systems Expands Underwater and Maritime Autonomy Capabilities with Acquisition of ISE",
+          "summary": "Elbit Systems Ltd. has completed the acquisition of International Submarine Engineering Ltd. (ISE), a Canada-based company specializing in advanced autonomous underwater and remotely operated systems for the maritime…",
+          "date": "2026-10-22",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/elbit-systems-expands-underwater-and-maritime-autonomy-capabilities-with-acquisition-of-ise/",
+          "relevant": false
+        },
+        {
           "title": "Kinder Morgan approves $4.7bn for US gas pipelines",
           "summary": "Kinder Morgan has committed $4.7bn as its share of investments in two natural gas pipeline joint ventures (JV), driven by increasing demand from power generation, data centres, and liquefied natural gas (LNG) export…",
           "date": "2026-10-22",
@@ -5790,14 +5806,6 @@
           "date": "2026-10-22",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543842-techouse-expands-offshore-water-treatment-business-with-ambio-acquisition",
-          "relevant": false
-        },
-        {
-          "title": "Elbit Systems Expands Underwater and Maritime Autonomy Capabilities with Acquisition of ISE",
-          "summary": "Elbit Systems Ltd. has completed the acquisition of International Submarine Engineering Ltd. (ISE), a Canada-based company specializing in advanced autonomous underwater and remotely operated systems for the maritime…",
-          "date": "2026-10-22",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/elbit-systems-expands-underwater-and-maritime-autonomy-capabilities-with-acquisition-of-ise/",
           "relevant": false
         },
         {
@@ -6807,24 +6815,6 @@
           "relevant": false
         },
         {
-          "title": "Minesto joins Swedish govt-backed initiative to work on tidal energy in Indonesia",
-          "summary": "Swedish ocean energy developer Minesto has been selected to participate in the Swedish government-backed initiative Sweden-Indonesia...",
-          "date": "2026-10-21",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/21/minesto-joins-swedish-govt-backed-initiative-to-work-on-tidal-energy-in-indonesia",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Oil Gains After Saudi Oil Field Attack",
-          "summary": "A deadly Saudi oil field attack and Gulf embassy concerns pushed crude prices higher.",
-          "date": "2026-10-21",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/oil_gains_after_saudi_oil_field_attack-21-oct-2026-184901-article/?rss=true",
-          "relevant": false,
-          "region": "KSA"
-        },
-        {
           "title": "EDGE Leads Integration of Sovereign Autonomous Systems in UAE Navy Demonstration with Allied Forces",
           "summary": "EDGE has led the integration of sovereign autonomous systems for a UAE Navy demonstration of national and allied unmanned maritime capabilities, conducted with the participation of the United States Navy. The Group…",
           "date": "2026-10-21",
@@ -6841,6 +6831,24 @@
           "source_url": "https://www.navalnews.com/naval-news/2026/10/st-engineering-lays-keel-for-kuwaits-third-al-dorra-class-vessel/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Minesto joins Swedish govt-backed initiative to work on tidal energy in Indonesia",
+          "summary": "Swedish ocean energy developer Minesto has been selected to participate in the Swedish government-backed initiative Sweden-Indonesia...",
+          "date": "2026-10-21",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/21/minesto-joins-swedish-govt-backed-initiative-to-work-on-tidal-energy-in-indonesia",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Oil Gains After Saudi Oil Field Attack",
+          "summary": "A deadly Saudi oil field attack and Gulf embassy concerns pushed crude prices higher.",
+          "date": "2026-10-21",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/oil_gains_after_saudi_oil_field_attack-21-oct-2026-184901-article/?rss=true",
+          "relevant": false,
+          "region": "KSA"
         },
         {
           "title": "Petronas, Petrovietnam Expand Partnership across Energy Value Chain",
