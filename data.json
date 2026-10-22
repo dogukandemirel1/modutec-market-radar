@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T09:00:57Z",
+  "last_updated": "2026-10-22T09:21:46Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -233,14 +233,6 @@
           "relevant": false
         },
         {
-          "title": "Army Corps Moves to Overhaul How U.S. Dredging Projects Are Awarded",
-          "summary": "The U.S. Army Corps of Engineers is overhauling how it manages dredging contracts nationwide, moving toward a centralized approach intended to reduce costs, improve scheduling and make better use of...",
-          "date": "2026-10-20",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/army-corps-moves-to-overhaul-how-u-s-dredging-projects-are-awarded/",
-          "relevant": false
-        },
-        {
           "title": "Transocean lands US Gulf contracts for Deepwater Proteus and Deepwater Conqueror",
           "summary": "Two ultra-deepwater drillships in Transocean’s fleet received new contracts in the US Gulf, each from an undisclosed operator. The awards cover the Deepwater Proteus and the Deepwater Conqueror. The Deepwater Proteus…",
           "date": "2026-10-20",
@@ -262,6 +254,14 @@
           "date": "2026-10-20",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543787-demosath-floating-wind-project-enters-new-phase-with-japanese-partner",
+          "relevant": false
+        },
+        {
+          "title": "Army Corps Moves to Overhaul How U.S. Dredging Projects Are Awarded",
+          "summary": "The U.S. Army Corps of Engineers is overhauling how it manages dredging contracts nationwide, moving toward a centralized approach intended to reduce costs, improve scheduling and make better use of...",
+          "date": "2026-10-20",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/army-corps-moves-to-overhaul-how-u-s-dredging-projects-are-awarded/",
           "relevant": false
         },
         {
@@ -6696,6 +6696,24 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Philippines Exploring Deeper Cooperation with Taiwan to Protect Undersea Cables",
+          "summary": "The Philippines is exploring deeper cooperation with Taiwan on protecting undersea cables and addressing \"gray-zone\" activity, despite Manila's one-China policy, which recognizes Beijing and not Taipei, a Philippine…",
+          "date": "2026-10-22",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/philippines-exploring-deeper-cooperation-with-taiwan-to-protect-undersea-cables/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Saudi Arabia Seeks Access to Overseas Oil Storage for Aramco",
+          "summary": "Saudi Arabia is in talks with foreign governments to give state-owned Aramco access to their strategic oil storage, as the kingdom seeks to make its supplies to customers more resilient during disruptions, Chief…",
+          "date": "2026-10-22",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/saudi-arabia-seeks-access-to-overseas-oil-storage-for-aramco/",
+          "relevant": true,
+          "region": "KSA"
+        },
         {
           "title": "Oil Prices Surge as Attacks on Saudi Arabia Fuel Supply Concerns",
           "summary": "Oil prices rallied over $2 a barrel on Thursday after more Houthi attacks in Saudi Arabia stoked concerns over a broader escalation of conflict and further disruptions…",
