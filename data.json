@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T07:00:56Z",
+  "last_updated": "2026-10-22T08:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -161,19 +161,19 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "DOF secures deepwater installation job in Africa",
+          "summary": "Norwegian offshore vessel owner DOF has secured a subsea installation contract worth for deepwater field developments offshore Africa. The Skandi Acergy vessel will execute the contract, with operations scheduled to…",
+          "date": "2026-10-22",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/dof-secures-deepwater-installation-job-in-africa/",
+          "relevant": false
+        },
+        {
           "title": "Russia Sees First Diesel Cargo Sailing for US on Thursday",
           "summary": "A tanker loaded with Russian diesel will sail for the US on Thursday as Moscow starts to implement a fuel supply deal struck by Vladimir Putin and Donald Trump, according to Deputy Prime Minister Alexander Novak.",
           "date": "2026-10-21",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/russia-sees-first-diesel-cargo-sailing-for-us-on-thursday/",
-          "relevant": false
-        },
-        {
-          "title": "BW LPG India offloads 18-year-old VLGC for over $80m",
-          "summary": "New York- and Oslo-listed gas carrier giant BW LPG is cashing in again on strong secondhand values, agreeing to sell an 18-year-old VLGC for more than $80m as it presses ahead with a major fleet renewal programme. The…",
-          "date": "2026-10-21",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/bw-lpg-india-offloads-18-year-old-vlgc-for-over-80m/",
           "relevant": false
         },
         {
@@ -198,6 +198,14 @@
           "date": "2026-10-21",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/10/aim-174b-aim-260a-super-hornet/",
+          "relevant": false
+        },
+        {
+          "title": "BW LPG India offloads 18-year-old VLGC for over $80m",
+          "summary": "New York- and Oslo-listed gas carrier giant BW LPG is cashing in again on strong secondhand values, agreeing to sell an 18-year-old VLGC for more than $80m as it presses ahead with a major fleet renewal programme. The…",
+          "date": "2026-10-21",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/bw-lpg-india-offloads-18-year-old-vlgc-for-over-80m/",
           "relevant": false
         },
         {
@@ -233,14 +241,6 @@
           "relevant": false
         },
         {
-          "title": "Norway Outlines Procurement Strategy for Up to 20 P1118 Standardized Vessels",
-          "summary": "Norway' has revealed the acquisition model for Project P1118, splitting up to 20 ocean-going standardized vessels for Norway, the UK, and Lithuania across two parallel contracts. The post Norway Outlines Procurement…",
-          "date": "2026-10-20",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/norway-outlines-procurement-strategy-for-up-to-20-p1118-standardized-vessels/",
-          "relevant": false
-        },
-        {
           "title": "Japan Clears DNV for Floating Wind Classifications",
           "summary": "DNV has become the first non-Japanese recognized organization authorized by Japan's Flag Administration to apply floating offshore wind classification rules in the country…",
           "date": "2026-10-20",
@@ -254,6 +254,14 @@
           "date": "2026-10-20",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543787-demosath-floating-wind-project-enters-new-phase-with-japanese-partner",
+          "relevant": false
+        },
+        {
+          "title": "Norway Outlines Procurement Strategy for Up to 20 P1118 Standardized Vessels",
+          "summary": "Norway' has revealed the acquisition model for Project P1118, splitting up to 20 ocean-going standardized vessels for Norway, the UK, and Lithuania across two parallel contracts. The post Norway Outlines Procurement…",
+          "date": "2026-10-20",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/norway-outlines-procurement-strategy-for-up-to-20-p1118-standardized-vessels/",
           "relevant": false
         },
         {
@@ -505,6 +513,14 @@
           "relevant": false
         },
         {
+          "title": "Lockheed Martin wins US contracts for naval EW and F-35 support",
+          "summary": "Lockheed Martin has received two US defence contract modifications worth a combined $90.4m, covering naval electronic warfare systems and support for the F-35’s Integrated Core Processor. The post Lockheed Martin wins…",
+          "date": "2026-10-15",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/lockheed-martin-us-navy-contract/",
+          "relevant": false
+        },
+        {
           "title": "Rig provider and other contractors revealed for Timor-Leste's oil field",
           "summary": "Oil & gas exploration player Finder Energy has awarded Japanese ENEOS Drilling a contract to provide a semi-submersible drilling rig for the...",
           "date": "2026-10-15",
@@ -526,14 +542,6 @@
           "date": "2026-10-15",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/15/tmc-compressors-returns-20-years-later-to-equip-fpso-for-new-life-in-brazil",
-          "relevant": false
-        },
-        {
-          "title": "Lockheed Martin wins US contracts for naval EW and F-35 support",
-          "summary": "Lockheed Martin has received two US defence contract modifications worth a combined $90.4m, covering naval electronic warfare systems and support for the F-35’s Integrated Core Processor. The post Lockheed Martin wins…",
-          "date": "2026-10-15",
-          "source_name": "Naval Technology",
-          "source_url": "https://www.naval-technology.com/news/lockheed-martin-us-navy-contract/",
           "relevant": false
         },
         {
@@ -649,14 +657,6 @@
           "relevant": false
         },
         {
-          "title": "2010-built DOF CSV wins one-year contract extension",
-          "summary": "Norway's DOF Group has secured a contract extension for its construction support vessel (CSV) Skandi Nomad. In October 2025, Skandi Nomad's...",
-          "date": "2026-10-14",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/14/2010-built-dof-csv-wins-one-year-contract-extension",
-          "relevant": false
-        },
-        {
           "title": "SAFE wins US Marine Corps contract for MULE expeditionary platforms",
           "summary": "SAFE Structure Designs (SAFE) has secured a contract worth more than $10m to supply its Multi-Utility LoadEr (MULE) expeditionary logistics platforms to the United States Marine Corps. The post SAFE wins US Marine Corps…",
           "date": "2026-10-14",
@@ -670,6 +670,14 @@
           "date": "2026-10-14",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/hii-nns-aukus-contract/",
+          "relevant": false
+        },
+        {
+          "title": "2010-built DOF CSV wins one-year contract extension",
+          "summary": "Norway's DOF Group has secured a contract extension for its construction support vessel (CSV) Skandi Nomad. In October 2025, Skandi Nomad's...",
+          "date": "2026-10-14",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/14/2010-built-dof-csv-wins-one-year-contract-extension",
           "relevant": false
         },
         {
@@ -3817,27 +3825,27 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "US sanctions net widens to shipping agents and lawyers",
+          "summary": "Washington has widened its crackdown on Iran’s shadow fleet, sanctioning a Greek-Panamanian law firm, shipping agents in Singapore and Dubai, and nine vessels in a move targeting the service providers behind Tehran’s…",
+          "date": "2026-10-22",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/us-sanctions-net-widens-to-shipping-agents-and-lawyers/",
+          "relevant": true
+        },
+        {
+          "title": "Chevron Looks to Shed Older US Gulf Oil and Gas Assets",
+          "summary": "Chevron is exploring the sale of some of its older oil and gas assets in the US Gulf, the company confirmed to Reuters, part of an effort to focus on high-growth developments in the region…",
+          "date": "2026-10-22",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543833-chevron-looks-to-shed-older-us-gulf-oil-and-gas-assets",
+          "relevant": false
+        },
+        {
           "title": "U.S. Sanctions Law Firm, Shipping Agents and Nine Vessels in Iran Shadow Fleet Crackdown",
           "summary": "The United States has imposed a new round of sanctions targeting a law firm, shipping agents and nine vessels accused of helping Iran move oil and other commodities through international...",
           "date": "2026-10-21",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/u-s-sanctions-law-firm-shipping-agents-and-nine-vessels-in-iran-shadow-fleet-crackdown/",
-          "relevant": false
-        },
-        {
-          "title": "South Korea's Taihan targets expansion in US and Europe under new CEO",
-          "summary": "South Korea's Taihan Cable & Solution has named its new Chief Executive Officer (CEO), revealing plans for the expansion of the company's...",
-          "date": "2026-10-21",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/21/south-koreas-taihan-targets-expansion-in-us-and-europe-under-new-ceo",
-          "relevant": false
-        },
-        {
-          "title": "North Sea gas field cleared for take-off: UK greenlights Jackdaw after legal storms",
-          "summary": "The UK regulator has given Shell-backed Adura the go-ahead for a North Sea gas field following a courtroom showdown with environmental campaigners.",
-          "date": "2026-10-21",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/21/north-sea-gas-field-cleared-for-take-off-uk-greenlights-jackdaw-after-legal-storms",
           "relevant": false
         },
         {
@@ -3865,11 +3873,35 @@
           "relevant": false
         },
         {
+          "title": "South Korea's Taihan targets expansion in US and Europe under new CEO",
+          "summary": "South Korea's Taihan Cable & Solution has named its new Chief Executive Officer (CEO), revealing plans for the expansion of the company's...",
+          "date": "2026-10-21",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/21/south-koreas-taihan-targets-expansion-in-us-and-europe-under-new-ceo",
+          "relevant": false
+        },
+        {
+          "title": "North Sea gas field cleared for take-off: UK greenlights Jackdaw after legal storms",
+          "summary": "The UK regulator has given Shell-backed Adura the go-ahead for a North Sea gas field following a courtroom showdown with environmental campaigners.",
+          "date": "2026-10-21",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/21/north-sea-gas-field-cleared-for-take-off-uk-greenlights-jackdaw-after-legal-storms",
+          "relevant": false
+        },
+        {
           "title": "ReconAfrica starts horizontal sidetrack at Kavango West 1X in Namibia",
           "summary": "ReconAfrica began drilling a horizontal sidetrack at its Kavango West 1X (KW1X) well in Namibia after receiving the final regulatory approvals. Production casing was removed to a vertical depth of 2,289 m, where an…",
           "date": "2026-10-20",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/reconafrica-starts-horizontal-sidetrack-at-kavango-west-1x-in-namibia-80387",
+          "relevant": false
+        },
+        {
+          "title": "Sunda Energy Gets Chuditch License Extension After Termination Warning",
+          "summary": "Sunda Energy has secured a 12-month extension to the current phase of its Chuditch gas licence offshore Timor-Leste, following an earlier warning from the country's…",
+          "date": "2026-10-20",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543784-sunda-energy-gets-chuditch-license-extension-after-termination-warning",
           "relevant": false
         },
         {
@@ -3886,14 +3918,6 @@
           "date": "2026-10-20",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/20/united-oil-and-gas-eyes-billion-barrel-jamaican-drilling-targets-as-it-maps-out-next-steps",
-          "relevant": false
-        },
-        {
-          "title": "Sunda Energy Gets Chuditch License Extension After Termination Warning",
-          "summary": "Sunda Energy has secured a 12-month extension to the current phase of its Chuditch gas licence offshore Timor-Leste, following an earlier warning from the country's…",
-          "date": "2026-10-20",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/543784-sunda-energy-gets-chuditch-license-extension-after-termination-warning",
           "relevant": false
         },
         {
@@ -5697,6 +5721,22 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "A new world order emerges in LNG shipping",
+          "summary": "The world’s LNG trading map is undergoing its biggest upheaval in years, with the near-paralysis of Gulf exports redirecting cargoes across oceans, forcing Asian buyers towards alternative suppliers and pushing European…",
+          "date": "2026-10-22",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/a-new-world-order-emerges-in-lng-shipping/",
+          "relevant": false
+        },
+        {
+          "title": "Kinder Morgan approves $4.7bn for US gas pipelines",
+          "summary": "Kinder Morgan has committed $4.7bn as its share of investments in two natural gas pipeline joint ventures (JV), driven by increasing demand from power generation, data centres, and liquefied natural gas (LNG) export…",
+          "date": "2026-10-22",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/kinder-morgan-4-7bn-us-gas-pipelines/",
+          "relevant": false
+        },
+        {
           "title": "Ocean Oilfield completes purchase of former Noble Resolve jackup",
           "summary": "Abu Dhabi-based Ocean Oilfield Integrated Solutions closed its acquisition of the jackup Ocean MVM, formerly the Noble Resolve, and has taken ownership of the rig. The GustoMSC CJ50-X100 MC unit arrived in Malta on 13…",
           "date": "2026-10-21",
@@ -6667,15 +6707,6 @@
           "region": "SEA"
         },
         {
-          "title": "Minesto joins Swedish govt-backed initiative to work on tidal energy in Indonesia",
-          "summary": "Swedish ocean energy developer Minesto has been selected to participate in the Swedish government-backed initiative Sweden-Indonesia...",
-          "date": "2026-10-21",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/21/minesto-joins-swedish-govt-backed-initiative-to-work-on-tidal-energy-in-indonesia",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Oil Gains After Saudi Oil Field Attack",
           "summary": "A deadly Saudi oil field attack and Gulf embassy concerns pushed crude prices higher.",
           "date": "2026-10-21",
@@ -6683,6 +6714,15 @@
           "source_url": "https://www.rigzone.com/news/wire/oil_gains_after_saudi_oil_field_attack-21-oct-2026-184901-article/?rss=true",
           "relevant": false,
           "region": "KSA"
+        },
+        {
+          "title": "Minesto joins Swedish govt-backed initiative to work on tidal energy in Indonesia",
+          "summary": "Swedish ocean energy developer Minesto has been selected to participate in the Swedish government-backed initiative Sweden-Indonesia...",
+          "date": "2026-10-21",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/21/minesto-joins-swedish-govt-backed-initiative-to-work-on-tidal-energy-in-indonesia",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Petronas, Petrovietnam Expand Partnership across Energy Value Chain",
