@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T17:01:02Z",
+  "last_updated": "2026-10-22T18:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3865,6 +3865,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Greece Says It is Implementing Sanctions Linked to Iran",
+          "summary": "The Greek finance ministry said on Thursday it was implementing sanctions in place linked to Iran and that it backed efforts to effectively combat money laundering and the financing of terrorism.",
+          "date": "2026-10-22",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/greece-says-it-is-implementing-sanctions-linked-to-iran/",
+          "relevant": false
+        },
+        {
           "title": "US sanctions net widens to shipping agents and lawyers",
           "summary": "Washington has widened its crackdown on Iran’s shadow fleet, sanctioning a Greek-Panamanian law firm, shipping agents in Singapore and Dubai, and nine vessels in a move targeting the service providers behind Tehran’s…",
           "date": "2026-10-22",
@@ -6807,14 +6815,6 @@
           "region": "KSA"
         },
         {
-          "title": "IEA: Gulf Oil Shipping Costs Top $37 Per Barrel, Five Times Pre-War Levels",
-          "summary": "The cost of shipping crude oil from the Middle East Gulf to Asia has surged to more than $37 per barrel, over five times prewar levels, as an increasingly complex...",
-          "date": "2026-10-21",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/iea-gulf-oil-shipping-costs-top-37-per-barrel-five-times-pre-war-levels/",
-          "relevant": false
-        },
-        {
           "title": "EDGE Leads Integration of Sovereign Autonomous Systems in UAE Navy Demonstration with Allied Forces",
           "summary": "EDGE has led the integration of sovereign autonomous systems for a UAE Navy demonstration of national and allied unmanned maritime capabilities, conducted with the participation of the United States Navy. The Group…",
           "date": "2026-10-21",
@@ -6849,6 +6849,14 @@
           "source_url": "https://www.rigzone.com/news/wire/oil_gains_after_saudi_oil_field_attack-21-oct-2026-184901-article/?rss=true",
           "relevant": false,
           "region": "KSA"
+        },
+        {
+          "title": "IEA: Gulf Oil Shipping Costs Top $37 Per Barrel, Five Times Pre-War Levels",
+          "summary": "The cost of shipping crude oil from the Middle East Gulf to Asia has surged to more than $37 per barrel, over five times prewar levels, as an increasingly complex...",
+          "date": "2026-10-21",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/iea-gulf-oil-shipping-costs-top-37-per-barrel-five-times-pre-war-levels/",
+          "relevant": false
         },
         {
           "title": "Petronas, Petrovietnam Expand Partnership across Energy Value Chain",
