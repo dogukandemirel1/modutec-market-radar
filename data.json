@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T12:01:01Z",
+  "last_updated": "2026-10-22T13:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3849,6 +3849,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Chevron Looks to Shed Older US Gulf Oil and Gas Assets",
+          "summary": "Chevron is exploring the sale of some of its older oil and gas assets in the US Gulf, the company confirmed to Reuters, part of an effort to focus on high-growth developments in the region…",
+          "date": "2026-10-22",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543833-chevron-looks-to-shed-older-us-gulf-oil-and-gas-assets",
+          "relevant": false
+        },
+        {
           "title": "US sanctions net widens to shipping agents and lawyers",
           "summary": "Washington has widened its crackdown on Iran’s shadow fleet, sanctioning a Greek-Panamanian law firm, shipping agents in Singapore and Dubai, and nine vessels in a move targeting the service providers behind Tehran’s…",
           "date": "2026-10-22",
@@ -3862,14 +3870,6 @@
           "date": "2026-10-22",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/tufton-rides-stronger-markets-with-fresh-tanker-and-bulker-deals/",
-          "relevant": false
-        },
-        {
-          "title": "Chevron Looks to Shed Older US Gulf Oil and Gas Assets",
-          "summary": "Chevron is exploring the sale of some of its older oil and gas assets in the US Gulf, the company confirmed to Reuters, part of an effort to focus on high-growth developments in the region…",
-          "date": "2026-10-22",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/543833-chevron-looks-to-shed-older-us-gulf-oil-and-gas-assets",
           "relevant": false
         },
         {
@@ -5753,19 +5753,27 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
-          "title": "A new world order emerges in LNG shipping",
-          "summary": "The world’s LNG trading map is undergoing its biggest upheaval in years, with the near-paralysis of Gulf exports redirecting cargoes across oceans, forcing Asian buyers towards alternative suppliers and pushing European…",
-          "date": "2026-10-22",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/a-new-world-order-emerges-in-lng-shipping/",
-          "relevant": false
-        },
-        {
           "title": "Kinder Morgan approves $4.7bn for US gas pipelines",
           "summary": "Kinder Morgan has committed $4.7bn as its share of investments in two natural gas pipeline joint ventures (JV), driven by increasing demand from power generation, data centres, and liquefied natural gas (LNG) export…",
           "date": "2026-10-22",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/kinder-morgan-4-7bn-us-gas-pipelines/",
+          "relevant": false
+        },
+        {
+          "title": "Techouse Expands Offshore Water Treatment Business with Ambio Acquisition",
+          "summary": "Norwegian engineering and technology company Techouse has agreed to acquire offshore potable water services specialist Ambio Water, expanding its water treatment…",
+          "date": "2026-10-22",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543842-techouse-expands-offshore-water-treatment-business-with-ambio-acquisition",
+          "relevant": false
+        },
+        {
+          "title": "A new world order emerges in LNG shipping",
+          "summary": "The world’s LNG trading map is undergoing its biggest upheaval in years, with the near-paralysis of Gulf exports redirecting cargoes across oceans, forcing Asian buyers towards alternative suppliers and pushing European…",
+          "date": "2026-10-22",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/a-new-world-order-emerges-in-lng-shipping/",
           "relevant": false
         },
         {
@@ -6729,6 +6737,15 @@
           "source_url": "https://gcaptain.com/saudi-arabia-seeks-access-to-overseas-oil-storage-for-aramco/",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Oil Rises Intraday Amid Escalating Tensions",
+          "summary": "Mahmoud Mashal, Senior Market Analyst at VT Markets Dubai, highlighted that both WTI and Brent oil prices were rising intraday 'as escalating tensions in the Middle East revived concerns over Gulf supply'.",
+          "date": "2026-10-22",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/oil_rises_intraday_amid_escalating_tensions-22-oct-2026-184905-article/?rss=true",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Ghana signs $28bn Jomoro petroleum hub expansion deal",
