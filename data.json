@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T18:01:00Z",
+  "last_updated": "2026-10-22T19:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -177,11 +177,11 @@
           "relevant": false
         },
         {
-          "title": "ABS, Ørsted Named Winners of 2026 NOIA ESG Excellence Award",
+          "title": "ABS, Ørsted Tapped for 2026 NOIA Award",
           "summary": "The National Ocean Industries Association (NOIA) has named the American Bureau of Shipping (ABS) and Ørsted the winners of the 2026 NOIA Environmental, Social, & Governance (ESG) Excellence Awards…",
           "date": "2026-10-22",
           "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/543845-abs-rsted-named-winners-of-2026-noia-esg-excellence-award",
+          "source_url": "https://www.oedigital.com/news/543845-abs-rsted-tapped-for-2026-noia-award",
           "relevant": false
         },
         {
@@ -190,6 +190,14 @@
           "date": "2026-10-22",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543837-dof-gets-deepwater-subsea-installation-job-in-africa",
+          "relevant": false
+        },
+        {
+          "title": "ABS, Ørsted Named Winners of 2026 NOIA ESG Excellence Award",
+          "summary": "The National Ocean Industries Association (NOIA) has named the American Bureau of Shipping (ABS) and Ørsted the winners of the 2026 NOIA Environmental, Social, & Governance (ESG) Excellence Awards…",
+          "date": "2026-10-22",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543845-abs-rsted-named-winners-of-2026-noia-esg-excellence-award",
           "relevant": false
         },
         {
@@ -5806,6 +5814,14 @@
           "date": "2026-10-22",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/kinder-morgan-4-7bn-us-gas-pipelines/",
+          "relevant": false
+        },
+        {
+          "title": "Techouse Acquires Ambio",
+          "summary": "Norwegian engineering and technology company Techouse has agreed to acquire offshore potable water services specialist Ambio Water, expanding its water treatment…",
+          "date": "2026-10-22",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543842-techouse-acquires-ambio",
           "relevant": false
         },
         {
