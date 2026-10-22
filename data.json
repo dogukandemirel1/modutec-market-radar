@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T19:01:02Z",
+  "last_updated": "2026-10-22T20:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -225,14 +225,6 @@
           "relevant": false
         },
         {
-          "title": "AIM-174B, AIM-260A seen together on Super Hornet for the first time",
-          "summary": "A U.S. Navy F/A-18 Super Hornet was spotted carrying the AIM-174B and AIM-260A JATM, marking the first documented dual-loadout of these secretive weapons. The post AIM-174B, AIM-260A seen together on Super Hornet for…",
-          "date": "2026-10-21",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/aim-174b-aim-260a-super-hornet/",
-          "relevant": false
-        },
-        {
           "title": "Over 500 piles lay the foundation for Poland’s floating LNG terminal (Gallery)",
           "summary": "Poland has hit a new milestone in its energy independence journey, completing the foundational piling for the new FSRU terminal in Gdańsk.",
           "date": "2026-10-21",
@@ -254,6 +246,14 @@
           "date": "2026-10-21",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/hii-uss-lundon-b-johnson/",
+          "relevant": false
+        },
+        {
+          "title": "AIM-174B, AIM-260A seen together on Super Hornet for the first time",
+          "summary": "A U.S. Navy F/A-18 Super Hornet was spotted carrying the AIM-174B and AIM-260A JATM, marking the first documented dual-loadout of these secretive weapons. The post AIM-174B, AIM-260A seen together on Super Hornet for…",
+          "date": "2026-10-21",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/aim-174b-aim-260a-super-hornet/",
           "relevant": false
         },
         {
@@ -3889,6 +3889,14 @@
           "relevant": true
         },
         {
+          "title": "Pentagon Launches 120-Day “Sprint” to Field Counter-UAS Armed USVs",
+          "summary": "The Pentagon and DIU launched a 120-day sprint to acquire and field new counter-UAS armed USVs to defend surface fleets against low-cost drone threats. The post Pentagon Launches 120-Day “Sprint” to Field Counter-UAS…",
+          "date": "2026-10-22",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/pentagon-diu-sprint-counter-uas-armed-usvs/",
+          "relevant": false
+        },
+        {
           "title": "Chevron Looks to Shed Older US Gulf Oil and Gas Assets",
           "summary": "Chevron is exploring the sale of some of its older oil and gas assets in the US Gulf, the company confirmed to Reuters, part of an effort to focus on high-growth developments in the region…",
           "date": "2026-10-22",
@@ -3902,14 +3910,6 @@
           "date": "2026-10-22",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/tufton-rides-stronger-markets-with-fresh-tanker-and-bulker-deals/",
-          "relevant": false
-        },
-        {
-          "title": "U.S. Sanctions Law Firm, Shipping Agents and Nine Vessels in Iran Shadow Fleet Crackdown",
-          "summary": "The United States has imposed a new round of sanctions targeting a law firm, shipping agents and nine vessels accused of helping Iran move oil and other commodities through international...",
-          "date": "2026-10-21",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/u-s-sanctions-law-firm-shipping-agents-and-nine-vessels-in-iran-shadow-fleet-crackdown/",
           "relevant": false
         },
         {
@@ -3942,6 +3942,14 @@
           "date": "2026-10-21",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543817-north-sea-subsea-decom-campaign-wraps-up-with-two-wells-abandoned",
+          "relevant": false
+        },
+        {
+          "title": "U.S. Sanctions Law Firm, Shipping Agents and Nine Vessels in Iran Shadow Fleet Crackdown",
+          "summary": "The United States has imposed a new round of sanctions targeting a law firm, shipping agents and nine vessels accused of helping Iran move oil and other commodities through international...",
+          "date": "2026-10-21",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/u-s-sanctions-law-firm-shipping-agents-and-nine-vessels-in-iran-shadow-fleet-crackdown/",
           "relevant": false
         },
         {
