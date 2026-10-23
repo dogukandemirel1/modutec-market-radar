@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T01:01:20Z",
+  "last_updated": "2026-10-23T02:01:18Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -217,14 +217,6 @@
           "relevant": false
         },
         {
-          "title": "Leading Navy Selects Exail Navigation Systems for USV Fleet",
-          "summary": "Exail secures a major contract to equip a leading navy's fleet of uncrewed surface vessels (USVs) with its resilient Marins inertial navigation systems. The post Leading Navy Selects Exail Navigation Systems for USV…",
-          "date": "2026-10-21",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/leading-navy-selects-exail-navigation-systems-for-usv-fleet/",
-          "relevant": false
-        },
-        {
           "title": "Over 500 piles lay the foundation for Poland’s floating LNG terminal (Gallery)",
           "summary": "Poland has hit a new milestone in its energy independence journey, completing the foundational piling for the new FSRU terminal in Gdańsk.",
           "date": "2026-10-21",
@@ -246,6 +238,14 @@
           "date": "2026-10-21",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/hii-uss-lundon-b-johnson/",
+          "relevant": false
+        },
+        {
+          "title": "Leading Navy Selects Exail Navigation Systems for USV Fleet",
+          "summary": "Exail secures a major contract to equip a leading navy's fleet of uncrewed surface vessels (USVs) with its resilient Marins inertial navigation systems. The post Leading Navy Selects Exail Navigation Systems for USV…",
+          "date": "2026-10-21",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/leading-navy-selects-exail-navigation-systems-for-usv-fleet/",
           "relevant": false
         },
         {
@@ -5809,19 +5809,19 @@
           "relevant": false
         },
         {
-          "title": "Elbit Systems Expands Underwater and Maritime Autonomy Capabilities with Acquisition of ISE",
-          "summary": "Elbit Systems Ltd. has completed the acquisition of International Submarine Engineering Ltd. (ISE), a Canada-based company specializing in advanced autonomous underwater and remotely operated systems for the maritime…",
-          "date": "2026-10-22",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/elbit-systems-expands-underwater-and-maritime-autonomy-capabilities-with-acquisition-of-ise/",
-          "relevant": false
-        },
-        {
           "title": "Kinder Morgan approves $4.7bn for US gas pipelines",
           "summary": "Kinder Morgan has committed $4.7bn as its share of investments in two natural gas pipeline joint ventures (JV), driven by increasing demand from power generation, data centres, and liquefied natural gas (LNG) export…",
           "date": "2026-10-22",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/kinder-morgan-4-7bn-us-gas-pipelines/",
+          "relevant": false
+        },
+        {
+          "title": "Elbit Systems Expands Underwater and Maritime Autonomy Capabilities with Acquisition of ISE",
+          "summary": "Elbit Systems Ltd. has completed the acquisition of International Submarine Engineering Ltd. (ISE), a Canada-based company specializing in advanced autonomous underwater and remotely operated systems for the maritime…",
+          "date": "2026-10-22",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/elbit-systems-expands-underwater-and-maritime-autonomy-capabilities-with-acquisition-of-ise/",
           "relevant": false
         },
         {
@@ -6848,24 +6848,6 @@
           "region": "KSA"
         },
         {
-          "title": "EDGE Leads Integration of Sovereign Autonomous Systems in UAE Navy Demonstration with Allied Forces",
-          "summary": "EDGE has led the integration of sovereign autonomous systems for a UAE Navy demonstration of national and allied unmanned maritime capabilities, conducted with the participation of the United States Navy. The Group…",
-          "date": "2026-10-21",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/edge-leads-integration-of-sovereign-autonomous-systems-in-uae-navy-demonstration-with-allied-forces/",
-          "relevant": true,
-          "region": "UAE"
-        },
-        {
-          "title": "ST Engineering Lays Keel for Kuwait’s Third Al Dorra-Class Vessel",
-          "summary": "ST Engineering laid the keel for the third Al Dorra-class vessel and cut steel for the fourth and fifth vessels at its Benoi Yard in Singapore on October 20, 2026. The three missile boats form part of an eight-vessel…",
-          "date": "2026-10-21",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/st-engineering-lays-keel-for-kuwaits-third-al-dorra-class-vessel/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Minesto joins Swedish govt-backed initiative to work on tidal energy in Indonesia",
           "summary": "Swedish ocean energy developer Minesto has been selected to participate in the Swedish government-backed initiative Sweden-Indonesia...",
           "date": "2026-10-21",
@@ -6882,6 +6864,24 @@
           "source_url": "https://www.rigzone.com/news/wire/oil_gains_after_saudi_oil_field_attack-21-oct-2026-184901-article/?rss=true",
           "relevant": false,
           "region": "KSA"
+        },
+        {
+          "title": "EDGE Leads Integration of Sovereign Autonomous Systems in UAE Navy Demonstration with Allied Forces",
+          "summary": "EDGE has led the integration of sovereign autonomous systems for a UAE Navy demonstration of national and allied unmanned maritime capabilities, conducted with the participation of the United States Navy. The Group…",
+          "date": "2026-10-21",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/edge-leads-integration-of-sovereign-autonomous-systems-in-uae-navy-demonstration-with-allied-forces/",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
+          "title": "ST Engineering Lays Keel for Kuwait’s Third Al Dorra-Class Vessel",
+          "summary": "ST Engineering laid the keel for the third Al Dorra-class vessel and cut steel for the fourth and fifth vessels at its Benoi Yard in Singapore on October 20, 2026. The three missile boats form part of an eight-vessel…",
+          "date": "2026-10-21",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/st-engineering-lays-keel-for-kuwaits-third-al-dorra-class-vessel/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "IEA: Gulf Oil Shipping Costs Top $37 Per Barrel, Five Times Pre-War Levels",
