@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T19:00:58Z",
+  "last_updated": "2026-10-23T20:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3953,19 +3953,19 @@
           "relevant": false
         },
         {
-          "title": "Greece Says It is Implementing Sanctions Linked to Iran",
-          "summary": "The Greek finance ministry said on Thursday it was implementing sanctions in place linked to Iran and that it backed efforts to effectively combat money laundering and the financing of terrorism.",
-          "date": "2026-10-22",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/greece-says-it-is-implementing-sanctions-linked-to-iran/",
-          "relevant": false
-        },
-        {
           "title": "Pentagon Launches 120-Day “Sprint” to Field Counter-UAS Armed USVs",
           "summary": "The Pentagon and DIU launched a 120-day sprint to acquire and field new counter-UAS armed USVs to defend surface fleets against low-cost drone threats. The post Pentagon Launches 120-Day “Sprint” to Field Counter-UAS…",
           "date": "2026-10-22",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/10/pentagon-diu-sprint-counter-uas-armed-usvs/",
+          "relevant": false
+        },
+        {
+          "title": "Greece Says It is Implementing Sanctions Linked to Iran",
+          "summary": "The Greek finance ministry said on Thursday it was implementing sanctions in place linked to Iran and that it backed efforts to effectively combat money laundering and the financing of terrorism.",
+          "date": "2026-10-22",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/greece-says-it-is-implementing-sanctions-linked-to-iran/",
           "relevant": false
         },
         {
