@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T06:01:03Z",
+  "last_updated": "2026-10-23T07:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -161,6 +161,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Seatrium bags five-vessel Karpowership conversion deal",
+          "summary": "Singapore-based offshore and marine engineering group Seatrium has secured a contract from Turkey’s Karpowership to convert and integrate five hydrogen-ready floating power plants. The deal covers Karpowership’s…",
+          "date": "2026-10-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/seatrium-bags-five-vessel-karpowership-conversion-deal/",
+          "relevant": false
+        },
+        {
           "title": "GeoPark wins Corralera Noreste block with two-well Vaca Muerta work program",
           "summary": "GeoPark won the Corralera Noreste block in Argentina’s Neuquén Basin through the Ronda 1/2026 public bidding round run by provincial energy company Gas y Petróleo del Neuquén (GyP). The award adds about 26,900 gross…",
           "date": "2026-10-22",
@@ -174,6 +182,14 @@
           "date": "2026-10-22",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/22/dof-cements-its-spot-on-africas-subsea-stage-with-multimillion-dollar-vessel-job",
+          "relevant": false
+        },
+        {
+          "title": "APA makes FID on $492m Bulloo Interlink Pipeline in Australia",
+          "summary": "APA Group has made a FID to build the interstate BIL project in Australia, committing $492m to its construction and commissioning.",
+          "date": "2026-10-22",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/apa-makes-fid-492m-bulloo-pipeline/",
           "relevant": false
         },
         {
@@ -3881,14 +3897,6 @@
           "relevant": false
         },
         {
-          "title": "US sanctions net widens to shipping agents and lawyers",
-          "summary": "Washington has widened its crackdown on Iran’s shadow fleet, sanctioning a Greek-Panamanian law firm, shipping agents in Singapore and Dubai, and nine vessels in a move targeting the service providers behind Tehran’s…",
-          "date": "2026-10-22",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/us-sanctions-net-widens-to-shipping-agents-and-lawyers/",
-          "relevant": true
-        },
-        {
           "title": "Pentagon Launches 120-Day “Sprint” to Field Counter-UAS Armed USVs",
           "summary": "The Pentagon and DIU launched a 120-day sprint to acquire and field new counter-UAS armed USVs to defend surface fleets against low-cost drone threats. The post Pentagon Launches 120-Day “Sprint” to Field Counter-UAS…",
           "date": "2026-10-22",
@@ -3903,6 +3911,14 @@
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543833-chevron-looks-to-shed-older-us-gulf-oil-and-gas-assets",
           "relevant": false
+        },
+        {
+          "title": "US sanctions net widens to shipping agents and lawyers",
+          "summary": "Washington has widened its crackdown on Iran’s shadow fleet, sanctioning a Greek-Panamanian law firm, shipping agents in Singapore and Dubai, and nine vessels in a move targeting the service providers behind Tehran’s…",
+          "date": "2026-10-22",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/us-sanctions-net-widens-to-shipping-agents-and-lawyers/",
+          "relevant": true
         },
         {
           "title": "Tufton rides stronger markets with fresh tanker and bulker deals",
@@ -5793,19 +5809,19 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "HD Hyundai and Kiewit to build new US shipyard",
+          "summary": "South Korea’s HD Hyundai has agreed to establish a joint venture with US engineering and construction giant Kiewit to build a new American shipyard, targeting operations from 2029. The venture, HD Kiewit Shipbuilding…",
+          "date": "2026-10-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/hd-hyundai-and-kiewit-to-build-new-us-shipyard/",
+          "relevant": false
+        },
+        {
           "title": "Marco Polo Marine expands Korean offshore push with new JV",
           "summary": "Singapore-listed offshore vessel owner and shipyard group Marco Polo Marine has established a joint venture in South Korea with local partner NSEL, strengthening its presence in the country’s offshore vessel market. The…",
           "date": "2026-10-22",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/marco-polo-marine-expands-korean-offshore-push-with-new-jv/",
-          "relevant": false
-        },
-        {
-          "title": "A new world order emerges in LNG shipping",
-          "summary": "The world’s LNG trading map is undergoing its biggest upheaval in years, with the near-paralysis of Gulf exports redirecting cargoes across oceans, forcing Asian buyers towards alternative suppliers and pushing European…",
-          "date": "2026-10-22",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/a-new-world-order-emerges-in-lng-shipping/",
           "relevant": false
         },
         {
@@ -5830,6 +5846,14 @@
           "date": "2026-10-22",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543842-techouse-acquires-ambio",
+          "relevant": false
+        },
+        {
+          "title": "A new world order emerges in LNG shipping",
+          "summary": "The world’s LNG trading map is undergoing its biggest upheaval in years, with the near-paralysis of Gulf exports redirecting cargoes across oceans, forcing Asian buyers towards alternative suppliers and pushing European…",
+          "date": "2026-10-22",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/a-new-world-order-emerges-in-lng-shipping/",
           "relevant": false
         },
         {
