@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T14:01:00Z",
+  "last_updated": "2026-10-23T15:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -273,14 +273,6 @@
           "relevant": false
         },
         {
-          "title": "T-200 unloading returns no formation oil at Badr field in Egypt",
-          "summary": "No formation oil reached surface during 48 hours of unloading at TAG Oil’s T-200 well at the Badr oil field (BED-1) in Egypt’s Western Desert, pointing to restricted flow. The vertical well was drilled and completed on…",
-          "date": "2026-10-21",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/t-200-unloading-returns-no-formation-oil-at-badr-field-in-egypt-80408",
-          "relevant": false
-        },
-        {
           "title": "Over 500 piles lay the foundation for Poland’s floating LNG terminal (Gallery)",
           "summary": "Poland has hit a new milestone in its energy independence journey, completing the foundational piling for the new FSRU terminal in Gdańsk.",
           "date": "2026-10-21",
@@ -302,6 +294,14 @@
           "date": "2026-10-21",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/hii-uss-lundon-b-johnson/",
+          "relevant": false
+        },
+        {
+          "title": "T-200 unloading returns no formation oil at Badr field in Egypt",
+          "summary": "No formation oil reached surface during 48 hours of unloading at TAG Oil’s T-200 well at the Badr oil field (BED-1) in Egypt’s Western Desert, pointing to restricted flow. The vertical well was drilled and completed on…",
+          "date": "2026-10-21",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/t-200-unloading-returns-no-formation-oil-at-badr-field-in-egypt-80408",
           "relevant": false
         },
         {
@@ -6888,6 +6888,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Yinson Production, PTSC cheer FSO’s first oil at Southeast Asian project",
+          "summary": "Yinson Production and PTSC have achieved first oil ahead of schedule at a floating storage and offloading (FSO) vessel deployed offshore Vietnam.",
+          "date": "2026-10-23",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/23/yinson-production-ptsc-cheer-fsos-first-oil-at-southeast-asian-project",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Petronas, TotalEnergies and Mitsui to develop CO2 storage area off Peninsular Malaysia",
           "summary": "PETRONAS CCS Ventures (PCCSV), a wholly-owned subsidiary of Malaysia’s state-owned oil & gas firm Petronas, TotalEnergies EP CCS Malaysia and...",
