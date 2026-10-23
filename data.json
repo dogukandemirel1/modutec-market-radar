@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T17:01:04Z",
+  "last_updated": "2026-10-23T18:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -6943,24 +6943,6 @@
           "region": "UAE"
         },
         {
-          "title": "Philippines Exploring Deeper Cooperation with Taiwan to Protect Undersea Cables",
-          "summary": "The Philippines is exploring deeper cooperation with Taiwan on protecting undersea cables and addressing \"gray-zone\" activity, despite Manila's one-China policy, which recognizes Beijing and not Taipei, a Philippine…",
-          "date": "2026-10-22",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/philippines-exploring-deeper-cooperation-with-taiwan-to-protect-undersea-cables/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Saudi Arabia Seeks Access to Overseas Oil Storage for Aramco",
-          "summary": "Saudi Arabia is in talks with foreign governments to give state-owned Aramco access to their strategic oil storage, as the kingdom seeks to make its supplies to customers more resilient during disruptions, Chief…",
-          "date": "2026-10-22",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/saudi-arabia-seeks-access-to-overseas-oil-storage-for-aramco/",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
           "title": "Oil Surges 4% After Deadly Saudi Attacks",
           "summary": "Brent climbed above $113 amid Saudi attacks and renewed Iran tensions, while global diesel supplies remained tight.",
           "date": "2026-10-22",
@@ -6995,6 +6977,24 @@
           "source_url": "https://www.offshore-technology.com/news/ghana-28bn-jomoro-petroleum-hub-deal/",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "Philippines Exploring Deeper Cooperation with Taiwan to Protect Undersea Cables",
+          "summary": "The Philippines is exploring deeper cooperation with Taiwan on protecting undersea cables and addressing \"gray-zone\" activity, despite Manila's one-China policy, which recognizes Beijing and not Taipei, a Philippine…",
+          "date": "2026-10-22",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/philippines-exploring-deeper-cooperation-with-taiwan-to-protect-undersea-cables/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Saudi Arabia Seeks Access to Overseas Oil Storage for Aramco",
+          "summary": "Saudi Arabia is in talks with foreign governments to give state-owned Aramco access to their strategic oil storage, as the kingdom seeks to make its supplies to customers more resilient during disruptions, Chief…",
+          "date": "2026-10-22",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/saudi-arabia-seeks-access-to-overseas-oil-storage-for-aramco/",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "Oil Prices Surge as Attacks on Saudi Arabia Fuel Supply Concerns",
