@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T11:01:01Z",
+  "last_updated": "2026-10-23T12:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -169,6 +169,14 @@
           "relevant": false
         },
         {
+          "title": "Equinor Picks Aibel for Barens Sea FPSO Topsides FEED Job",
+          "summary": "Norwegian engineering company Aibel has been awarded a front-end engineering and design (FEED) contract for the topsides of the planned Wisting production vessel…",
+          "date": "2026-10-23",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543867-equinor-picks-aibel-for-barens-sea-fpso-topsides-feed-job",
+          "relevant": false
+        },
+        {
           "title": "Indonesia's Jangkrik FPU Set for Major Gas Output Boost",
           "summary": "Indonesia boosted gas supplies to the Jangkrik Floating Production Unit (FPU) in the Kutai Basin on Thursday, with production expected to increase to 750 million…",
           "date": "2026-10-23",
@@ -273,14 +281,6 @@
           "relevant": false
         },
         {
-          "title": "Leading Navy Selects Exail Navigation Systems for USV Fleet",
-          "summary": "Exail secures a major contract to equip a leading navy's fleet of uncrewed surface vessels (USVs) with its resilient Marins inertial navigation systems. The post Leading Navy Selects Exail Navigation Systems for USV…",
-          "date": "2026-10-21",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/leading-navy-selects-exail-navigation-systems-for-usv-fleet/",
-          "relevant": false
-        },
-        {
           "title": "Over 500 piles lay the foundation for Poland’s floating LNG terminal (Gallery)",
           "summary": "Poland has hit a new milestone in its energy independence journey, completing the foundational piling for the new FSRU terminal in Gdańsk.",
           "date": "2026-10-21",
@@ -302,6 +302,14 @@
           "date": "2026-10-21",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/hii-uss-lundon-b-johnson/",
+          "relevant": false
+        },
+        {
+          "title": "Leading Navy Selects Exail Navigation Systems for USV Fleet",
+          "summary": "Exail secures a major contract to equip a leading navy's fleet of uncrewed surface vessels (USVs) with its resilient Marins inertial navigation systems. The post Leading Navy Selects Exail Navigation Systems for USV…",
+          "date": "2026-10-21",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/leading-navy-selects-exail-navigation-systems-for-usv-fleet/",
           "relevant": false
         },
         {
@@ -3929,6 +3937,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Rio Tinto targets larger capesizes in $1.9bn Australian bauxite push",
+          "summary": "Mining giant Rio Tinto has approved a $1.9bn investment in a major bauxite expansion in Australia’s Queensland state, including an upgrade of its export facilities to accommodate larger capesize bulk carriers. The…",
+          "date": "2026-10-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/rio-tinto-targets-larger-capesizes-in-1-9bn-australian-bauxite-push/",
+          "relevant": false
+        },
+        {
           "title": "Splash Wrap: Sanctions, spreadsheets and shipyards",
           "summary": "The Trump administration has begun authorising the sale of sanctioned oil tankers to approved investors who must then refurbish the vessels before returning them to legitimate crude trades, US energy secretary Chris…",
           "date": "2026-10-23",
@@ -6856,6 +6872,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Petronas, TotalEnergies and Mitsui to develop CO2 storage area off Peninsular Malaysia",
+          "summary": "PETRONAS CCS Ventures (PCCSV), a wholly-owned subsidiary of Malaysia’s state-owned oil & gas firm Petronas, TotalEnergies EP CCS Malaysia and...",
+          "date": "2026-10-23",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/23/petronas-totalenergies-and-mitsui-to-develop-co2-storage-area-off-peninsular-malaysia",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Eni, PTTEP forge JV to consolidate stakes in ADNOC’s giant offshore sour gas asset",
           "summary": "PTTEP and Eni have created Seela Energies to streamline operations and combine their stakes in an ADNOC-operated concession off the coast of the UAE.",
