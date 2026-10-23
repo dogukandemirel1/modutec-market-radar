@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T23:00:59Z",
+  "last_updated": "2026-10-23T00:01:24Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -3881,6 +3881,14 @@
           "relevant": false
         },
         {
+          "title": "US sanctions net widens to shipping agents and lawyers",
+          "summary": "Washington has widened its crackdown on Iran’s shadow fleet, sanctioning a Greek-Panamanian law firm, shipping agents in Singapore and Dubai, and nine vessels in a move targeting the service providers behind Tehran’s…",
+          "date": "2026-10-22",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/us-sanctions-net-widens-to-shipping-agents-and-lawyers/",
+          "relevant": true
+        },
+        {
           "title": "Pentagon Launches 120-Day “Sprint” to Field Counter-UAS Armed USVs",
           "summary": "The Pentagon and DIU launched a 120-day sprint to acquire and field new counter-UAS armed USVs to defend surface fleets against low-cost drone threats. The post Pentagon Launches 120-Day “Sprint” to Field Counter-UAS…",
           "date": "2026-10-22",
@@ -3895,14 +3903,6 @@
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543833-chevron-looks-to-shed-older-us-gulf-oil-and-gas-assets",
           "relevant": false
-        },
-        {
-          "title": "US sanctions net widens to shipping agents and lawyers",
-          "summary": "Washington has widened its crackdown on Iran’s shadow fleet, sanctioning a Greek-Panamanian law firm, shipping agents in Singapore and Dubai, and nine vessels in a move targeting the service providers behind Tehran’s…",
-          "date": "2026-10-22",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/us-sanctions-net-widens-to-shipping-agents-and-lawyers/",
-          "relevant": true
         },
         {
           "title": "Tufton rides stronger markets with fresh tanker and bulker deals",
@@ -5793,6 +5793,22 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Marco Polo Marine expands Korean offshore push with new JV",
+          "summary": "Singapore-listed offshore vessel owner and shipyard group Marco Polo Marine has established a joint venture in South Korea with local partner NSEL, strengthening its presence in the country’s offshore vessel market. The…",
+          "date": "2026-10-22",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/marco-polo-marine-expands-korean-offshore-push-with-new-jv/",
+          "relevant": false
+        },
+        {
+          "title": "A new world order emerges in LNG shipping",
+          "summary": "The world’s LNG trading map is undergoing its biggest upheaval in years, with the near-paralysis of Gulf exports redirecting cargoes across oceans, forcing Asian buyers towards alternative suppliers and pushing European…",
+          "date": "2026-10-22",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/a-new-world-order-emerges-in-lng-shipping/",
+          "relevant": false
+        },
+        {
           "title": "Elbit Systems Expands Underwater and Maritime Autonomy Capabilities with Acquisition of ISE",
           "summary": "Elbit Systems Ltd. has completed the acquisition of International Submarine Engineering Ltd. (ISE), a Canada-based company specializing in advanced autonomous underwater and remotely operated systems for the maritime…",
           "date": "2026-10-22",
@@ -5814,22 +5830,6 @@
           "date": "2026-10-22",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543842-techouse-acquires-ambio",
-          "relevant": false
-        },
-        {
-          "title": "Marco Polo Marine expands Korean offshore push with new JV",
-          "summary": "Singapore-listed offshore vessel owner and shipyard group Marco Polo Marine has established a joint venture in South Korea with local partner NSEL, strengthening its presence in the country’s offshore vessel market. The…",
-          "date": "2026-10-22",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/marco-polo-marine-expands-korean-offshore-push-with-new-jv/",
-          "relevant": false
-        },
-        {
-          "title": "A new world order emerges in LNG shipping",
-          "summary": "The world’s LNG trading map is undergoing its biggest upheaval in years, with the near-paralysis of Gulf exports redirecting cargoes across oceans, forcing Asian buyers towards alternative suppliers and pushing European…",
-          "date": "2026-10-22",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/a-new-world-order-emerges-in-lng-shipping/",
           "relevant": false
         },
         {
