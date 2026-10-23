@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T09:17:41Z",
+  "last_updated": "2026-10-23T10:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -161,19 +161,19 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Seatrium bags five-vessel Karpowership conversion deal",
-          "summary": "Singapore-based offshore and marine engineering group Seatrium has secured a contract from Turkey’s Karpowership to convert and integrate five hydrogen-ready floating power plants. The deal covers Karpowership’s…",
-          "date": "2026-10-23",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/seatrium-bags-five-vessel-karpowership-conversion-deal/",
-          "relevant": false
-        },
-        {
           "title": "Equinor and partners award Wisting FEED contract to Aibel",
           "summary": "Equinor and its partners have awarded Aibel a contract to carry out front-end engineering and design (FEED) for the topsides of the production vessel at the Wisting oil discovery in the Barents Sea.",
           "date": "2026-10-23",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/equinor-wisting-feed-contract-aibel/",
+          "relevant": false
+        },
+        {
+          "title": "Seatrium bags five-vessel Karpowership conversion deal",
+          "summary": "Singapore-based offshore and marine engineering group Seatrium has secured a contract from Turkey’s Karpowership to convert and integrate five hydrogen-ready floating power plants. The deal covers Karpowership’s…",
+          "date": "2026-10-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/seatrium-bags-five-vessel-karpowership-conversion-deal/",
           "relevant": false
         },
         {
