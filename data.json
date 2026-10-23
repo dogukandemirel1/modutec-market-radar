@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T07:00:59Z",
+  "last_updated": "2026-10-23T08:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -169,6 +169,30 @@
           "relevant": false
         },
         {
+          "title": "Aibel lands Wisting FPSO topsides contract",
+          "summary": "Norwegian engineering and construction specialist Aibel has secured a front-end engineering and design (FEED) contract for the topsides of the planned Wisting FPSO vessel in the Barents Sea. Equinor and its partners…",
+          "date": "2026-10-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/aibel-lands-wisting-fpso-topsides-contract/",
+          "relevant": false
+        },
+        {
+          "title": "Saipem and MDC join forces in Egyptian offshore drilling push",
+          "summary": "Italian offshore engineering and drilling contractor Saipem has teamed up with Egypt’s Modern Drilling Company (MDC) to pursue offshore drilling opportunities in Egypt and potentially elsewhere across the Middle East…",
+          "date": "2026-10-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/saipem-and-mdc-join-forces-in-egyptian-offshore-drilling-push/",
+          "relevant": false
+        },
+        {
+          "title": "Equinor and partners award Wisting FEED contract to Aibel",
+          "summary": "Equinor and its partners have awarded Aibel a contract to carry out front-end engineering and design (FEED) for the topsides of the production vessel at the Wisting oil discovery in the Barents Sea.",
+          "date": "2026-10-23",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/equinor-wisting-feed-contract-aibel/",
+          "relevant": false
+        },
+        {
           "title": "GeoPark wins Corralera Noreste block with two-well Vaca Muerta work program",
           "summary": "GeoPark won the Corralera Noreste block in Argentina’s Neuquén Basin through the Ronda 1/2026 public bidding round run by provincial energy company Gas y Petróleo del Neuquén (GyP). The award adds about 26,900 gross…",
           "date": "2026-10-22",
@@ -190,6 +214,14 @@
           "date": "2026-10-22",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/apa-makes-fid-492m-bulloo-pipeline/",
+          "relevant": false
+        },
+        {
+          "title": "Exail to equip Marins INS on USVs for unnamed navy client",
+          "summary": "Exail has secured a contract to supply its Marins inertial navigation systems (INS) for a navy’s complete fleet of uncrewed surface vessels (USVs). The post Exail to equip Marins INS on USVs for unnamed navy client…",
+          "date": "2026-10-22",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/exail-marine-ins-usv/",
           "relevant": false
         },
         {
@@ -585,19 +617,19 @@
           "relevant": false
         },
         {
-          "title": "Subsea7 contracts Worley for Northern Lights' key subsea structures",
-          "summary": "Subsea7 has awarded Worley Rosenberg a contract for the fabrication of key subsea structures and spools supporting the second phase of the...",
-          "date": "2026-10-15",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/15/subsea7-contracts-worley-for-northern-lights-key-subsea-structures",
-          "relevant": false
-        },
-        {
           "title": "Lockheed Martin wins US contracts for naval EW and F-35 support",
           "summary": "Lockheed Martin has received two US defence contract modifications worth a combined $90.4m, covering naval electronic warfare systems and support for the F-35’s Integrated Core Processor. The post Lockheed Martin wins…",
           "date": "2026-10-15",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/lockheed-martin-us-navy-contract/",
+          "relevant": false
+        },
+        {
+          "title": "Subsea7 contracts Worley for Northern Lights' key subsea structures",
+          "summary": "Subsea7 has awarded Worley Rosenberg a contract for the fabrication of key subsea structures and spools supporting the second phase of the...",
+          "date": "2026-10-15",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/15/subsea7-contracts-worley-for-northern-lights-key-subsea-structures",
           "relevant": false
         },
         {
@@ -5817,14 +5849,6 @@
           "relevant": false
         },
         {
-          "title": "Marco Polo Marine expands Korean offshore push with new JV",
-          "summary": "Singapore-listed offshore vessel owner and shipyard group Marco Polo Marine has established a joint venture in South Korea with local partner NSEL, strengthening its presence in the country’s offshore vessel market. The…",
-          "date": "2026-10-22",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/marco-polo-marine-expands-korean-offshore-push-with-new-jv/",
-          "relevant": false
-        },
-        {
           "title": "Elbit Systems Expands Underwater and Maritime Autonomy Capabilities with Acquisition of ISE",
           "summary": "Elbit Systems Ltd. has completed the acquisition of International Submarine Engineering Ltd. (ISE), a Canada-based company specializing in advanced autonomous underwater and remotely operated systems for the maritime…",
           "date": "2026-10-22",
@@ -5846,6 +5870,14 @@
           "date": "2026-10-22",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543842-techouse-acquires-ambio",
+          "relevant": false
+        },
+        {
+          "title": "Marco Polo Marine expands Korean offshore push with new JV",
+          "summary": "Singapore-listed offshore vessel owner and shipyard group Marco Polo Marine has established a joint venture in South Korea with local partner NSEL, strengthening its presence in the country’s offshore vessel market. The…",
+          "date": "2026-10-22",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/marco-polo-marine-expands-korean-offshore-push-with-new-jv/",
           "relevant": false
         },
         {
@@ -6808,6 +6840,24 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Malaysian survey services firm enters collaboration in Indonesia and Timor-Leste",
+          "summary": "Malaysian offshore soil investigation and geotechnical engineering services company Helms Geomarine has signed a memorandum of understanding...",
+          "date": "2026-10-23",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/23/malaysian-survey-services-firm-enters-collaboration-in-indonesia-and-timor-leste",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "ADNOC's XRG Eyes Stake in Eni's Libya Oil and Gas Business",
+          "summary": "XRG, the international investment arm of Abu Dhabi National Oil Company (ADNOC), is in talks with Eni about potentially buying a stake in the Italian company's oil and gas business in Libya…",
+          "date": "2026-10-23",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543860-adnoc-s-xrg-eyes-stake-in-eni-s-libya-oil-and-gas-business",
+          "relevant": true,
+          "region": "UAE"
+        },
         {
           "title": "Philippines Exploring Deeper Cooperation with Taiwan to Protect Undersea Cables",
           "summary": "The Philippines is exploring deeper cooperation with Taiwan on protecting undersea cables and addressing \"gray-zone\" activity, despite Manila's one-China policy, which recognizes Beijing and not Taipei, a Philippine…",
