@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T13:01:04Z",
+  "last_updated": "2026-10-23T14:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5881,6 +5881,14 @@
           "relevant": false
         },
         {
+          "title": "DOF opts to sell 2018-built subsea vessel as attractive offer emerges",
+          "summary": "Norway's DOF Group is selling its 2018-built subsea construction vessel (CSV) Skandi Implementer to an undisclosed buyer. Mons S. Aase , CEO of...",
+          "date": "2026-10-23",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/23/dof-opts-to-sell-2018-built-subsea-vessel-as-attractive-offer-emerges",
+          "relevant": false
+        },
+        {
           "title": "Prima Energy widens Southeast Asian footprint with stake in Jadestone",
           "summary": "Prima Energy has expanded its regional footprint with the strategic acquisition of an interest in Jadestone Energy.",
           "date": "2026-10-23",
@@ -6989,15 +6997,6 @@
           "region": "KSA"
         },
         {
-          "title": "EDGE Leads Integration of Sovereign Autonomous Systems in UAE Navy Demonstration with Allied Forces",
-          "summary": "EDGE has led the integration of sovereign autonomous systems for a UAE Navy demonstration of national and allied unmanned maritime capabilities, conducted with the participation of the United States Navy. The Group…",
-          "date": "2026-10-21",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/edge-leads-integration-of-sovereign-autonomous-systems-in-uae-navy-demonstration-with-allied-forces/",
-          "relevant": true,
-          "region": "UAE"
-        },
-        {
           "title": "Minesto joins Swedish govt-backed initiative to work on tidal energy in Indonesia",
           "summary": "Swedish ocean energy developer Minesto has been selected to participate in the Swedish government-backed initiative Sweden-Indonesia...",
           "date": "2026-10-21",
@@ -7014,6 +7013,15 @@
           "source_url": "https://www.rigzone.com/news/wire/oil_gains_after_saudi_oil_field_attack-21-oct-2026-184901-article/?rss=true",
           "relevant": false,
           "region": "KSA"
+        },
+        {
+          "title": "EDGE Leads Integration of Sovereign Autonomous Systems in UAE Navy Demonstration with Allied Forces",
+          "summary": "EDGE has led the integration of sovereign autonomous systems for a UAE Navy demonstration of national and allied unmanned maritime capabilities, conducted with the participation of the United States Navy. The Group…",
+          "date": "2026-10-21",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/edge-leads-integration-of-sovereign-autonomous-systems-in-uae-navy-demonstration-with-allied-forces/",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "ST Engineering Lays Keel for Kuwait’s Third Al Dorra-Class Vessel",
