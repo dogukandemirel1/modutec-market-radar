@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T09:01:01Z",
+  "last_updated": "2026-10-23T09:17:41Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -609,19 +609,19 @@
           "relevant": false
         },
         {
-          "title": "Rig provider and other contractors revealed for Timor-Leste's oil field",
-          "summary": "Oil & gas exploration player Finder Energy has awarded Japanese ENEOS Drilling a contract to provide a semi-submersible drilling rig for the...",
-          "date": "2026-10-15",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/15/rig-provider-and-other-contractors-revealed-for-timor-lestes-oil-field",
-          "relevant": false
-        },
-        {
           "title": "Lockheed Martin wins US contracts for naval EW and F-35 support",
           "summary": "Lockheed Martin has received two US defence contract modifications worth a combined $90.4m, covering naval electronic warfare systems and support for the F-35’s Integrated Core Processor. The post Lockheed Martin wins…",
           "date": "2026-10-15",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/lockheed-martin-us-navy-contract/",
+          "relevant": false
+        },
+        {
+          "title": "Rig provider and other contractors revealed for Timor-Leste's oil field",
+          "summary": "Oil & gas exploration player Finder Energy has awarded Japanese ENEOS Drilling a contract to provide a semi-submersible drilling rig for the...",
+          "date": "2026-10-15",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/15/rig-provider-and-other-contractors-revealed-for-timor-lestes-oil-field",
           "relevant": false
         },
         {
@@ -6849,6 +6849,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Eni, PTTEP forge JV to consolidate stakes in ADNOC’s giant offshore sour gas asset",
+          "summary": "PTTEP and Eni have created Seela Energies to streamline operations and combine their stakes in an ADNOC-operated concession off the coast of the UAE.",
+          "date": "2026-10-23",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/23/eni-pttep-forge-jv-to-consolidate-stakes-in-adnocs-giant-offshore-sour-gas-asset",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
           "title": "Malaysian survey services firm enters collaboration in Indonesia and Timor-Leste",
           "summary": "Malaysian offshore soil investigation and geotechnical engineering services company Helms Geomarine has signed a memorandum of understanding...",
           "date": "2026-10-23",
@@ -6856,6 +6865,15 @@
           "source_url": "https://offshore-energy.biz/2026/10/23/malaysian-survey-services-firm-enters-collaboration-in-indonesia-and-timor-leste",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "PTTEP, Eni Launch Joint Venture for ADNOC-Operated Ghasha Offshore Project",
+          "summary": "Thailand's PTT Exploration and Production (PTTEP) and Eni have established an equally owned joint venture to hold their interests in the Ghasha gas development offshore Abu Dhabi…",
+          "date": "2026-10-23",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543863-pttep-eni-launch-joint-venture-for-adnoc-operated-ghasha-offshore-project",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "ADNOC's XRG Eyes Stake in Eni's Libya Oil and Gas Business",
