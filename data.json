@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T21:00:58Z",
+  "last_updated": "2026-10-23T22:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -160,6 +160,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "MARAD’s Training Ship Success Offers a Blueprint for U.S. Shipbuilding",
+          "summary": "The Maritime Administration (MARAD) recently embraced VCM when procuring a new generation of training ships for five of the six state maritime academies. To date, MARAD contractor TOTE Services has delivered four of the…",
+          "date": "2026-10-23",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/marads-training-ship-success-offers-a-blueprint-for-u-s-shipbuilding/",
+          "relevant": false
+        },
         {
           "title": "Equinor and partners award Wisting FEED contract to Aibel",
           "summary": "Equinor and its partners have awarded Aibel a contract to carry out front-end engineering and design (FEED) for the topsides of the production vessel at the Wisting oil discovery in the Barents Sea.",
@@ -3937,6 +3945,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Trump Administration Unveils Seafood Strategy to Boost U.S. Fishing Fleet and Domestic Production",
+          "summary": "The Trump administration on Friday unveiled its America First Seafood Strategy, outlining plans to strengthen the U.S. commercial fishing industry through regulatory reform, investment in fishing vessels and shoreside…",
+          "date": "2026-10-23",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/trump-administration-unveils-seafood-strategy-to-boost-u-s-fishing-fleet-and-domestic-production/",
+          "relevant": false
+        },
+        {
           "title": "Rio Tinto targets larger capesizes in $1.9bn Australian bauxite push",
           "summary": "Mining giant Rio Tinto has approved a $1.9bn investment in a major bauxite expansion in Australia’s Queensland state, including an upgrade of its export facilities to accommodate larger capesize bulk carriers. The…",
           "date": "2026-10-23",
@@ -6923,6 +6939,23 @@
           "source_url": "https://offshore-energy.biz/2026/10/23/malaysian-survey-services-firm-enters-collaboration-in-indonesia-and-timor-leste",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Brent Tops $116 as Middle East Risks Grow",
+          "summary": "Oil prices climbed as escalating attacks on Saudi Arabia heightened fears of Middle East supply disruptions.",
+          "date": "2026-10-23",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/brent_tops_116_as_middle_east_risks_grow-23-oct-2026-184925-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "Physical Oil Prices Drop in Mideast",
+          "summary": "The physical prices of some Middle East crudes sold outside the Persian Gulf have dropped.",
+          "date": "2026-10-23",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/physical_oil_prices_drop_in_mideast-23-oct-2026-184922-article/?rss=true",
+          "relevant": false
         },
         {
           "title": "PTTEP, Eni Launch Joint Venture for ADNOC-Operated Ghasha Offshore Project",
