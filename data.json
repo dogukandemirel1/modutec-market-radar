@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T08:01:03Z",
+  "last_updated": "2026-10-23T09:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -169,6 +169,14 @@
           "relevant": false
         },
         {
+          "title": "Equinor and partners award Wisting FEED contract to Aibel",
+          "summary": "Equinor and its partners have awarded Aibel a contract to carry out front-end engineering and design (FEED) for the topsides of the production vessel at the Wisting oil discovery in the Barents Sea.",
+          "date": "2026-10-23",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/equinor-wisting-feed-contract-aibel/",
+          "relevant": false
+        },
+        {
           "title": "Aibel lands Wisting FPSO topsides contract",
           "summary": "Norwegian engineering and construction specialist Aibel has secured a front-end engineering and design (FEED) contract for the topsides of the planned Wisting FPSO vessel in the Barents Sea. Equinor and its partners…",
           "date": "2026-10-23",
@@ -182,14 +190,6 @@
           "date": "2026-10-23",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/saipem-and-mdc-join-forces-in-egyptian-offshore-drilling-push/",
-          "relevant": false
-        },
-        {
-          "title": "Equinor and partners award Wisting FEED contract to Aibel",
-          "summary": "Equinor and its partners have awarded Aibel a contract to carry out front-end engineering and design (FEED) for the topsides of the production vessel at the Wisting oil discovery in the Barents Sea.",
-          "date": "2026-10-23",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/equinor-wisting-feed-contract-aibel/",
           "relevant": false
         },
         {
@@ -3921,6 +3921,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Splash Wrap: Sanctions, spreadsheets and shipyards",
+          "summary": "The Trump administration has begun authorising the sale of sanctioned oil tankers to approved investors who must then refurbish the vessels before returning them to legitimate crude trades, US energy secretary Chris…",
+          "date": "2026-10-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/splash-wrap-sanctions-spreadsheets-and-shipyards/",
+          "relevant": false
+        },
+        {
           "title": "Greece Says It is Implementing Sanctions Linked to Iran",
           "summary": "The Greek finance ministry said on Thursday it was implementing sanctions in place linked to Iran and that it backed efforts to effectively combat money laundering and the financing of terrorism.",
           "date": "2026-10-22",
@@ -6931,15 +6939,6 @@
           "region": "UAE"
         },
         {
-          "title": "ST Engineering Lays Keel for Kuwait’s Third Al Dorra-Class Vessel",
-          "summary": "ST Engineering laid the keel for the third Al Dorra-class vessel and cut steel for the fourth and fifth vessels at its Benoi Yard in Singapore on October 20, 2026. The three missile boats form part of an eight-vessel…",
-          "date": "2026-10-21",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/st-engineering-lays-keel-for-kuwaits-third-al-dorra-class-vessel/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Minesto joins Swedish govt-backed initiative to work on tidal energy in Indonesia",
           "summary": "Swedish ocean energy developer Minesto has been selected to participate in the Swedish government-backed initiative Sweden-Indonesia...",
           "date": "2026-10-21",
@@ -6956,6 +6955,15 @@
           "source_url": "https://www.rigzone.com/news/wire/oil_gains_after_saudi_oil_field_attack-21-oct-2026-184901-article/?rss=true",
           "relevant": false,
           "region": "KSA"
+        },
+        {
+          "title": "ST Engineering Lays Keel for Kuwait’s Third Al Dorra-Class Vessel",
+          "summary": "ST Engineering laid the keel for the third Al Dorra-class vessel and cut steel for the fourth and fifth vessels at its Benoi Yard in Singapore on October 20, 2026. The three missile boats form part of an eight-vessel…",
+          "date": "2026-10-21",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/st-engineering-lays-keel-for-kuwaits-third-al-dorra-class-vessel/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "IEA: Gulf Oil Shipping Costs Top $37 Per Barrel, Five Times Pre-War Levels",
