@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T19:01:15Z",
+  "last_updated": "2026-10-24T20:01:17Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -6896,6 +6896,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "UAE Shuts All Beaches As Neighbors Grapple With Oil Spill",
+          "summary": "Oct 24 (Reuters) – Ras Al Khaimah authorities said on Saturday that all beaches in the emirate would be closed until further notice, a day after anoffshore oil leak prompted beach closures in...",
+          "date": "2026-10-24",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/uae-shuts-all-beaches-as-neighbors-grapple-with-oil-spill/",
+          "relevant": true,
+          "region": "UAE"
+        },
         {
           "title": "Yinson Production, PTSC cheer FSO’s first oil at Southeast Asian project",
           "summary": "Yinson Production and PTSC have achieved first oil ahead of schedule at a floating storage and offloading (FSO) vessel deployed offshore Vietnam.",
