@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T18:00:58Z",
+  "last_updated": "2026-10-24T19:01:15Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5889,14 +5889,6 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
-          "title": "HD Hyundai and Kiewit to build new US shipyard",
-          "summary": "South Korea’s HD Hyundai has agreed to establish a joint venture with US engineering and construction giant Kiewit to build a new American shipyard, targeting operations from 2029. The venture, HD Kiewit Shipbuilding…",
-          "date": "2026-10-23",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/hd-hyundai-and-kiewit-to-build-new-us-shipyard/",
-          "relevant": false
-        },
-        {
           "title": "DOF opts to sell 2018-built subsea vessel as attractive offer emerges",
           "summary": "Norway's DOF Group is selling its 2018-built subsea construction vessel (CSV) Skandi Implementer to an undisclosed buyer. Mons S. Aase , CEO of...",
           "date": "2026-10-23",
@@ -5910,6 +5902,14 @@
           "date": "2026-10-23",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/23/prima-energy-widens-southeast-asian-footprint-with-stake-in-jadestone",
+          "relevant": false
+        },
+        {
+          "title": "HD Hyundai and Kiewit to build new US shipyard",
+          "summary": "South Korea’s HD Hyundai has agreed to establish a joint venture with US engineering and construction giant Kiewit to build a new American shipyard, targeting operations from 2029. The venture, HD Kiewit Shipbuilding…",
+          "date": "2026-10-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/hd-hyundai-and-kiewit-to-build-new-us-shipyard/",
           "relevant": false
         },
         {
