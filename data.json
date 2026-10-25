@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T08:01:04Z",
+  "last_updated": "2026-10-25T09:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -161,19 +161,19 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Equinor and partners award Wisting FEED contract to Aibel",
-          "summary": "Equinor and its partners have awarded Aibel a contract to carry out front-end engineering and design (FEED) for the topsides of the production vessel at the Wisting oil discovery in the Barents Sea.",
-          "date": "2026-10-23",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/equinor-wisting-feed-contract-aibel/",
-          "relevant": false
-        },
-        {
           "title": "MARAD’s Training Ship Success Offers a Blueprint for U.S. Shipbuilding",
           "summary": "The Maritime Administration (MARAD) recently embraced VCM when procuring a new generation of training ships for five of the six state maritime academies. To date, MARAD contractor TOTE Services has delivered four of the…",
           "date": "2026-10-23",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/marads-training-ship-success-offers-a-blueprint-for-u-s-shipbuilding/",
+          "relevant": false
+        },
+        {
+          "title": "Equinor and partners award Wisting FEED contract to Aibel",
+          "summary": "Equinor and its partners have awarded Aibel a contract to carry out front-end engineering and design (FEED) for the topsides of the production vessel at the Wisting oil discovery in the Barents Sea.",
+          "date": "2026-10-23",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/equinor-wisting-feed-contract-aibel/",
           "relevant": false
         },
         {
@@ -3945,6 +3945,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Trump Administration Unveils Seafood Strategy to Boost U.S. Fishing Fleet and Domestic Production",
+          "summary": "The Trump administration on Friday unveiled its America First Seafood Strategy, outlining plans to strengthen the U.S. commercial fishing industry through regulatory reform, investment in fishing vessels and shoreside…",
+          "date": "2026-10-23",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/trump-administration-unveils-seafood-strategy-to-boost-u-s-fishing-fleet-and-domestic-production/",
+          "relevant": false
+        },
+        {
           "title": "Rio Tinto targets larger capesizes in $1.9bn Australian bauxite push",
           "summary": "Mining giant Rio Tinto has approved a $1.9bn investment in a major bauxite expansion in Australia’s Queensland state, including an upgrade of its export facilities to accommodate larger capesize bulk carriers. The…",
           "date": "2026-10-23",
@@ -3958,14 +3966,6 @@
           "date": "2026-10-23",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/splash-wrap-sanctions-spreadsheets-and-shipyards/",
-          "relevant": false
-        },
-        {
-          "title": "Trump Administration Unveils Seafood Strategy to Boost U.S. Fishing Fleet and Domestic Production",
-          "summary": "The Trump administration on Friday unveiled its America First Seafood Strategy, outlining plans to strengthen the U.S. commercial fishing industry through regulatory reform, investment in fishing vessels and shoreside…",
-          "date": "2026-10-23",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/trump-administration-unveils-seafood-strategy-to-boost-u-s-fishing-fleet-and-domestic-production/",
           "relevant": false
         },
         {
