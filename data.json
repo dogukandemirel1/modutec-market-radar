@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T20:00:59Z",
+  "last_updated": "2026-10-25T21:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -160,6 +160,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Navantia launches seventh Avante corvette for Saudi Arabia",
+          "summary": "On October 25, 2026, Navantia launched the seventh corvette built for the Royal Saudi Naval Forces at its shipyards in the Bay of Cádiz. The ship, to be named Neom, is the second in the batch contracted in 2025…",
+          "date": "2026-10-25",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/navantia-launches-seventh-avante-corvette-for-saudi-arabia/",
+          "relevant": true
+        },
         {
           "title": "Iberdrola Secures New EIB Loan for Brazil Grid Upgrades",
           "summary": "Iberdrola's Brazilian subsidiary has secured another loan from the European Investment Bank to help modernize the electricity infrastructure in the states of Sao Paulo and Mato Grosso do Sul.",
@@ -5929,19 +5937,19 @@
           "relevant": false
         },
         {
-          "title": "Elbit Systems Expands Underwater and Maritime Autonomy Capabilities with Acquisition of ISE",
-          "summary": "Elbit Systems Ltd. has completed the acquisition of International Submarine Engineering Ltd. (ISE), a Canada-based company specializing in advanced autonomous underwater and remotely operated systems for the maritime…",
-          "date": "2026-10-22",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/elbit-systems-expands-underwater-and-maritime-autonomy-capabilities-with-acquisition-of-ise/",
-          "relevant": false
-        },
-        {
           "title": "Kinder Morgan approves $4.7bn for US gas pipelines",
           "summary": "Kinder Morgan has committed $4.7bn as its share of investments in two natural gas pipeline joint ventures (JV), driven by increasing demand from power generation, data centres, and liquefied natural gas (LNG) export…",
           "date": "2026-10-22",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/kinder-morgan-4-7bn-us-gas-pipelines/",
+          "relevant": false
+        },
+        {
+          "title": "Elbit Systems Expands Underwater and Maritime Autonomy Capabilities with Acquisition of ISE",
+          "summary": "Elbit Systems Ltd. has completed the acquisition of International Submarine Engineering Ltd. (ISE), a Canada-based company specializing in advanced autonomous underwater and remotely operated systems for the maritime…",
+          "date": "2026-10-22",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/elbit-systems-expands-underwater-and-maritime-autonomy-capabilities-with-acquisition-of-ise/",
           "relevant": false
         },
         {
