@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T12:00:59Z",
+  "last_updated": "2026-10-25T13:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -7011,20 +7011,20 @@
           "region": "KSA"
         },
         {
-          "title": "Oil Rises Intraday Amid Escalating Tensions",
-          "summary": "Mahmoud Mashal, Senior Market Analyst at VT Markets Dubai, highlighted that both WTI and Brent oil prices were rising intraday 'as escalating tensions in the Middle East revived concerns over Gulf supply'.",
-          "date": "2026-10-22",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/oil_rises_intraday_amid_escalating_tensions-22-oct-2026-184905-article/?rss=true",
-          "relevant": true,
-          "region": "UAE"
-        },
-        {
           "title": "Ghana signs $28bn Jomoro petroleum hub expansion deal",
           "summary": "Ghana has entered into a $28bn agreement with a consortium led by UAE-based Global Sphere for the proposed expansion of its Petroleum Hub in Jomoro, Western Region.",
           "date": "2026-10-22",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/ghana-28bn-jomoro-petroleum-hub-deal/",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
+          "title": "Oil Rises Intraday Amid Escalating Tensions",
+          "summary": "Mahmoud Mashal, Senior Market Analyst at VT Markets Dubai, highlighted that both WTI and Brent oil prices were rising intraday 'as escalating tensions in the Middle East revived concerns over Gulf supply'.",
+          "date": "2026-10-22",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/oil_rises_intraday_amid_escalating_tensions-22-oct-2026-184905-article/?rss=true",
           "relevant": true,
           "region": "UAE"
         },
