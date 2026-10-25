@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T01:00:57Z",
+  "last_updated": "2026-10-25T02:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5888,6 +5888,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "Latvia Emerges As Top-Five Country Used To Ship Russian Grain",
+          "summary": "MOSCOW, Oct 23 (Reuters) – Latvia, a member of the European Union and NATO, has emerged as one of the top five countries used to ship Russian grain this marketing season despite strained political...",
+          "date": "2026-10-25",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/latvia-emerges-as-top-five-country-used-to-ship-russian-grain/",
+          "relevant": false
+        },
         {
           "title": "HD Hyundai and Kiewit to build new US shipyard",
           "summary": "South Korea’s HD Hyundai has agreed to establish a joint venture with US engineering and construction giant Kiewit to build a new American shipyard, targeting operations from 2029. The venture, HD Kiewit Shipbuilding…",
