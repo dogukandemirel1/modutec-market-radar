@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T11:01:01Z",
+  "last_updated": "2026-10-25T12:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -160,6 +160,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Iberdrola Secures New EIB Loan for Brazil Grid Upgrades",
+          "summary": "Iberdrola's Brazilian subsidiary has secured another loan from the European Investment Bank to help modernize the electricity infrastructure in the states of Sao Paulo and Mato Grosso do Sul.",
+          "date": "2026-10-25",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/iberdrola_secures_new_eib_loan_for_brazil_grid_upgrades-25-oct-2026-184924-article/?rss=true",
+          "relevant": false
+        },
         {
           "title": "MARAD’s Training Ship Success Offers a Blueprint for U.S. Shipbuilding",
           "summary": "The Maritime Administration (MARAD) recently embraced VCM when procuring a new generation of training ships for five of the six state maritime academies. To date, MARAD contractor TOTE Services has delivered four of the…",
