@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T12:01:12Z",
+  "last_updated": "2026-10-26T13:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -169,6 +169,38 @@
           "relevant": false
         },
         {
+          "title": "Inyanga's 30MW Tidal Project to Feature AI-Powered Marine Life Detection",
+          "summary": "HydroWing, the tidal energy division of Inyanga Marine Energy Group, has awarded Ecodetect a contract to provide AI-powered marine wildlife monitoring systems for…",
+          "date": "2026-10-26",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543894-inyanga-s-30mw-tidal-project-to-feature-ai-powered-marine-life-detection",
+          "relevant": false
+        },
+        {
+          "title": "Cronos Gas Development Offshore Cyprus Enters Execution Phase",
+          "summary": "Eni has signed the main engineering, procurement, construction and drilling contracts for the Cronos gas development in Block 6 offshore Cyprus, launching the project's…",
+          "date": "2026-10-26",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543892-cronos-gas-development-offshore-cyprus-enters-execution-phase",
+          "relevant": false
+        },
+        {
+          "title": "Idemitsu Taps PV Drilling for Vietnam's Offshore Drilling Campaign",
+          "summary": "Vietnam's PV Drilling has secured a contract from Idemitsu Gas Production (Vietnam) to supply a jack-up drilling rig for an offshore exploration and appraisal campaign…",
+          "date": "2026-10-26",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543887-idemitsu-taps-pv-drilling-for-vietnam-s-offshore-drilling-campaign",
+          "relevant": false
+        },
+        {
+          "title": "Borr Drilling Rig Sinks Off Gabon, 110 Rescued as Search for Five Missing Continues",
+          "summary": "Borr Drilling's Prospector 5 jack-up rig has sunk offshore Gabon after experiencing a punch-through event during preload operations that caused it to lose stability…",
+          "date": "2026-10-26",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543886-borr-drilling-rig-sinks-off-gabon-110-rescued-as-search-for-five-missing-continues",
+          "relevant": false
+        },
+        {
           "title": "Pavimar returns to newbuild market with four Hengli bulkers",
           "summary": "Greek dry bulk owner Pavimar has made a rare newbuilding move, with a four-ship kamsarmax programme at China’s Hengli Heavy Industries. The Athens-based company, headed by Ismini Panagiotidi, has contracted the quartet…",
           "date": "2026-10-26",
@@ -273,19 +305,19 @@
           "relevant": false
         },
         {
-          "title": "APA makes FID on $492m Bulloo Interlink Pipeline in Australia",
-          "summary": "APA Group has made a FID to build the interstate BIL project in Australia, committing $492m to its construction and commissioning.",
-          "date": "2026-10-22",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/apa-makes-fid-492m-bulloo-pipeline/",
-          "relevant": false
-        },
-        {
           "title": "Exail to equip Marins INS on USVs for unnamed navy client",
           "summary": "Exail has secured a contract to supply its Marins inertial navigation systems (INS) for a navy’s complete fleet of uncrewed surface vessels (USVs). The post Exail to equip Marins INS on USVs for unnamed navy client…",
           "date": "2026-10-22",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/exail-marine-ins-usv/",
+          "relevant": false
+        },
+        {
+          "title": "APA makes FID on $492m Bulloo Interlink Pipeline in Australia",
+          "summary": "APA Group has made a FID to build the interstate BIL project in Australia, committing $492m to its construction and commissioning.",
+          "date": "2026-10-22",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/apa-makes-fid-492m-bulloo-pipeline/",
           "relevant": false
         },
         {
@@ -3985,6 +4017,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Dubai’s DP World in Talks on Alliance With Northern Canada Port",
+          "summary": "Dubai’s DP World Ltd. is set to unveil a deal backing potential development of Canada’s port of Churchill, a northern outpost that Prime Minister Mark Carney aims to expand for exports to Europe and other markets.",
+          "date": "2026-10-26",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/dubais-dp-world-in-talks-on-alliance-with-northern-canada-port/",
+          "relevant": true
+        },
+        {
           "title": "Trump Administration Unveils Seafood Strategy to Boost U.S. Fishing Fleet and Domestic Production",
           "summary": "The Trump administration on Friday unveiled its America First Seafood Strategy, outlining plans to strengthen the U.S. commercial fishing industry through regulatory reform, investment in fishing vessels and shoreside…",
           "date": "2026-10-23",
@@ -5937,6 +5977,14 @@
           "relevant": false
         },
         {
+          "title": "Galp's Refining Merger with Moeve Falls Through",
+          "summary": "Galp Energia said on Monday talks with Spain's Moeve to combine their refining, chemicals and fuel retail businesses had collapsed, derailing a deal that would have…",
+          "date": "2026-10-26",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543893-galp-s-refining-merger-with-moeve-falls-through",
+          "relevant": false
+        },
+        {
           "title": "Trader Alkagesta enters shipowning with Turkish bunker fleet takeover",
           "summary": "Malta-based commodities trader Alkagesta is entering shipowning through the acquisition of Turkish marine fuel supplier Energy Petrol, taking over an eight-vessel bunker fleet as it expands its physical fuel…",
           "date": "2026-10-26",
@@ -6961,6 +7009,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Oil Spill Off UAE Widens, Satellite Images Show, Prompting More Beach Closures",
+          "summary": "An oil spill from a damaged tanker off the coast of the United Arab Emirates has widened, satellite images showed, triggering more beach closures and raising environmental concerns.",
+          "date": "2026-10-26",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/oil-spill-off-uae-widens-satellite-images-show-prompting-more-beach-closures/",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
           "title": "Bahri turns to homegrown yard for $451m VLCC trio",
           "summary": "Saudi shipping giant Bahri has ordered three very large crude carriers at International Maritime Industries (IMI), committing SAR1.692bn ($451m) to expand its tanker fleet and support shipbuilding at home. The 320,000…",
           "date": "2026-10-26",
@@ -6979,6 +7036,15 @@
           "region": "UAE"
         },
         {
+          "title": "Saudi, Singapore Announce Oil Storage Deal",
+          "summary": "'The proposed arrangement marks a new milestone in energy cooperation between Singapore and the Kingdom of Saudi Arabia', a joint statement said.",
+          "date": "2026-10-26",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/saudi_singapore_announce_oil_storage_deal-26-oct-2026-184928-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
           "title": "Saudi, Turkish Officials Travel to Iran to Cool Tensions",
           "summary": "Top security officials from Saudi Arabia, Pakistan and Turkey are set to meet Iran's leaders in an effort to defuse tensions and breathe new life into talks aimed at preventing a broader war in the Middle East.",
           "date": "2026-10-26",
@@ -6986,6 +7052,24 @@
           "source_url": "https://www.rigzone.com/news/wire/saudi_turkish_officials_travel_to_iran_to_cool_tensions-26-oct-2026-184926-article/?rss=true",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Seatrium Inks $390M Deal to Complete Four Offshore Rigs for Keppel’s Rigco",
+          "summary": "Singapore's Seatrium has secured an agreement with Keppel's subsidiary RigCo to complete construction work on four offshore drilling rigs under an existing master services arrangement…",
+          "date": "2026-10-26",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543890-seatrium-inks-390m-deal-to-complete-four-offshore-rigs-for-keppel-s-rigco",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Indonesia Cuts Singapore Pipeline Gas Flows by 9% to Meet Domestic Demand",
+          "summary": "Indonesia cut 31 million standard cubic feet of gas per day (mmscfd) from its pipeline natural gas exports to Singapore starting on Saturday to divert supply to the domestic power sector…",
+          "date": "2026-10-26",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543888-indonesia-cuts-singapore-pipeline-gas-flows-by-9-to-meet-domestic-demand",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Malaysian owner adds two boxships at local Sapor Shipbuilding",
