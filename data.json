@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T16:01:09Z",
+  "last_updated": "2026-10-26T17:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8,6 +8,14 @@
       "short_title": "Day-Rates",
       "description": "Benchmark day-rate trends for jackups, floaters and offshore support vessels across key regions.",
       "items": [
+        {
+          "title": "RigCo, Seatrium resume construction of drillship, jackup and two semisubmersibles",
+          "summary": "RigCo, a wholly owned subsidiary of Keppel, agreed with Seatrium on 26 October 2026 to complete construction of four offshore rigs under an existing master services arrangement. The estimated total contract value is…",
+          "date": "2026-10-26",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/rigco-seatrium-resume-construction-of-drillship-jackup-and-two-semisubmersibles-80452",
+          "relevant": false
+        },
         {
           "title": "Bouri Gas Project Offshore Libya Set for October Start-Up",
           "summary": "Eni has completed the Bouri Gas Utilization Project (GUP) offshore Libya, with start-up procedures underway for infrastructure designed to recover associated gas…",
@@ -233,19 +241,19 @@
           "relevant": false
         },
         {
-          "title": "MARAD’s Training Ship Success Offers a Blueprint for U.S. Shipbuilding",
-          "summary": "The Maritime Administration (MARAD) recently embraced VCM when procuring a new generation of training ships for five of the six state maritime academies. To date, MARAD contractor TOTE Services has delivered four of the…",
-          "date": "2026-10-23",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/marads-training-ship-success-offers-a-blueprint-for-u-s-shipbuilding/",
-          "relevant": false
-        },
-        {
           "title": "Equinor and partners award Wisting FEED contract to Aibel",
           "summary": "Equinor and its partners have awarded Aibel a contract to carry out front-end engineering and design (FEED) for the topsides of the production vessel at the Wisting oil discovery in the Barents Sea.",
           "date": "2026-10-23",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/equinor-wisting-feed-contract-aibel/",
+          "relevant": false
+        },
+        {
+          "title": "MARAD’s Training Ship Success Offers a Blueprint for U.S. Shipbuilding",
+          "summary": "The Maritime Administration (MARAD) recently embraced VCM when procuring a new generation of training ships for five of the six state maritime academies. To date, MARAD contractor TOTE Services has delivered four of the…",
+          "date": "2026-10-23",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/marads-training-ship-success-offers-a-blueprint-for-u-s-shipbuilding/",
           "relevant": false
         },
         {
@@ -289,14 +297,6 @@
           "relevant": false
         },
         {
-          "title": "GeoPark wins Corralera Noreste block with two-well Vaca Muerta work program",
-          "summary": "GeoPark won the Corralera Noreste block in Argentina’s Neuquén Basin through the Ronda 1/2026 public bidding round run by provincial energy company Gas y Petróleo del Neuquén (GyP). The award adds about 26,900 gross…",
-          "date": "2026-10-22",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/geopark-wins-corralera-noreste-block-with-two-well-vaca-muerta-work-program-80425",
-          "relevant": false
-        },
-        {
           "title": "DOF cements its spot on Africa’s subsea stage with multimillion-dollar vessel job",
           "summary": "DOF Group has won a new subsea installation contract in Africa, locking in 100 days of work for its 2008-built vessel in early 2027.",
           "date": "2026-10-22",
@@ -310,6 +310,14 @@
           "date": "2026-10-22",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/exail-marine-ins-usv/",
+          "relevant": false
+        },
+        {
+          "title": "GeoPark wins Corralera Noreste block with two-well Vaca Muerta work program",
+          "summary": "GeoPark won the Corralera Noreste block in Argentina’s Neuquén Basin through the Ronda 1/2026 public bidding round run by provincial energy company Gas y Petróleo del Neuquén (GyP). The award adds about 26,900 gross…",
+          "date": "2026-10-22",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/geopark-wins-corralera-noreste-block-with-two-well-vaca-muerta-work-program-80425",
           "relevant": false
         },
         {
@@ -4025,6 +4033,14 @@
           "relevant": true
         },
         {
+          "title": "Westgate Energy launches fall drilling program with Killam multilateral and Beaverdam sidetrack",
+          "summary": "Westgate Energy began drilling a multilateral well targeting the Sparky Formation at its Killam asset, with a planned total lateral length of about 9,600 m. The well offsets the 11-21, the best-performing Killam well to…",
+          "date": "2026-10-26",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/westgate-energy-launches-fall-drilling-program-with-killam-multilateral-and-beaverdam-sidetrack-80456",
+          "relevant": false
+        },
+        {
           "title": "Eni gets the ball rolling on execution of Mediterranean gas project",
           "summary": "Eni has kicked off the execution phase of Cyprus's 3 trillion cubic feet (tcf) gas project, targeting first production by H1 2028.",
           "date": "2026-10-26",
@@ -6006,6 +6022,14 @@
           "date": "2026-10-26",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/eqt-agrees-to-acquire-range-resources-in-all-stock-deal-80444",
+          "relevant": false
+        },
+        {
+          "title": "Israel to Supply Cyprus with an Offshore Patrol Vessel Equipped with Advanced Naval Systems",
+          "summary": "On October 26, 2026, the Israeli Ministry of Defense (IMOD) and the Ministry of Defence of the Republic of Cyprus signed an agreement for the acquisition of a new Offshore Patrol Vessel (OPV). Israeli MoD press release…",
+          "date": "2026-10-26",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/israel-to-supply-cyprus-with-an-offshore-patrol-vessel-equipped-with-advanced-naval-systems/",
           "relevant": false
         },
         {
