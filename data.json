@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T05:01:04Z",
+  "last_updated": "2026-10-26T06:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -160,6 +160,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Pavimar returns to newbuild market with four Hengli bulkers",
+          "summary": "Greek dry bulk owner Pavimar has made a rare newbuilding move, with a four-ship kamsarmax programme at China’s Hengli Heavy Industries. The Athens-based company, headed by Ismini Panagiotidi, has contracted the quartet…",
+          "date": "2026-10-26",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/pavimar-returns-to-newbuild-market-with-four-hengli-bulkers/",
+          "relevant": false
+        },
         {
           "title": "Navantia launches seventh Avante corvette for Saudi Arabia",
           "summary": "On October 25, 2026, Navantia launched the seventh corvette built for the Royal Saudi Naval Forces at its shipyards in the Bay of Cádiz. The ship, to be named Neom, is the second in the batch contracted in 2025…",
@@ -5905,19 +5913,19 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Trader Alkagesta enters shipowning with Turkish bunker fleet takeover",
+          "summary": "Malta-based commodities trader Alkagesta is entering shipowning through the acquisition of Turkish marine fuel supplier Energy Petrol, taking over an eight-vessel bunker fleet as it expands its physical fuel…",
+          "date": "2026-10-26",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/trader-alkagesta-enters-shipowning-with-turkish-bunker-fleet-takeover/",
+          "relevant": false
+        },
+        {
           "title": "Latvia Emerges As Top-Five Country Used To Ship Russian Grain",
           "summary": "MOSCOW, Oct 23 (Reuters) – Latvia, a member of the European Union and NATO, has emerged as one of the top five countries used to ship Russian grain this marketing season despite strained political...",
           "date": "2026-10-25",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/latvia-emerges-as-top-five-country-used-to-ship-russian-grain/",
-          "relevant": false
-        },
-        {
-          "title": "HD Hyundai and Kiewit to build new US shipyard",
-          "summary": "South Korea’s HD Hyundai has agreed to establish a joint venture with US engineering and construction giant Kiewit to build a new American shipyard, targeting operations from 2029. The venture, HD Kiewit Shipbuilding…",
-          "date": "2026-10-23",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/hd-hyundai-and-kiewit-to-build-new-us-shipyard/",
           "relevant": false
         },
         {
@@ -5934,6 +5942,14 @@
           "date": "2026-10-23",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/23/prima-energy-widens-southeast-asian-footprint-with-stake-in-jadestone",
+          "relevant": false
+        },
+        {
+          "title": "HD Hyundai and Kiewit to build new US shipyard",
+          "summary": "South Korea’s HD Hyundai has agreed to establish a joint venture with US engineering and construction giant Kiewit to build a new American shipyard, targeting operations from 2029. The venture, HD Kiewit Shipbuilding…",
+          "date": "2026-10-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/hd-hyundai-and-kiewit-to-build-new-us-shipyard/",
           "relevant": false
         },
         {
@@ -6920,6 +6936,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Malaysian owner adds two boxships at local Sapor Shipbuilding",
+          "summary": "Malaysia’s Harbour-Link Group has disclosed a RM56.7m ($13.9m) investment in two containerships at domestic builder Sapor Shipbuilding Industries as it expands its regional shipping operations. The Sarawak-based group…",
+          "date": "2026-10-26",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/malaysian-owner-adds-two-boxships-at-local-sapor-shipbuilding/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "UAE Shuts All Beaches As Neighbors Grapple With Oil Spill",
           "summary": "Oct 24 (Reuters) – Ras Al Khaimah authorities said on Saturday that all beaches in the emirate would be closed until further notice, a day after anoffshore oil leak prompted beach closures in...",
