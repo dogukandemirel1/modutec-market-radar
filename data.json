@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T15:01:08Z",
+  "last_updated": "2026-10-26T16:01:09Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4025,6 +4025,22 @@
           "relevant": true
         },
         {
+          "title": "Eni gets the ball rolling on execution of Mediterranean gas project",
+          "summary": "Eni has kicked off the execution phase of Cyprus's 3 trillion cubic feet (tcf) gas project, targeting first production by H1 2028.",
+          "date": "2026-10-26",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/26/eni-gets-the-ball-rolling-on-execution-of-mediterranean-gas-project",
+          "relevant": false
+        },
+        {
+          "title": "BP Gets New Settlement with Louisiana over Deepwater Horizon Disaster",
+          "summary": "BP reached an agreement with the state of Louisiana that will close lengthy litigation over the deadly Deepwater Horizon catastrophe in the Gulf of America in 2010, in exchange for an early but reduced payment of…",
+          "date": "2026-10-26",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/bp_gets_new_settlement_with_louisiana_over_deepwater_horizon_disaster-26-oct-2026-184933-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "OPT, Stratum Join Forces on Renewable-Powered Offshore Data Centers",
           "summary": "Ocean Power Technologies (OPT) and Stratum Holdings have signed a non-binding letter of intent (LOI) to explore the development of offshore data center assets powered by wave…",
           "date": "2026-10-26",
@@ -5985,6 +6001,14 @@
           "relevant": false
         },
         {
+          "title": "EQT agrees to acquire Range Resources in all-stock deal",
+          "summary": "EQT signed a definitive merger agreement on 26 October 2026 to acquire Range Resources, bringing together two Appalachian Basin natural gas producers. Under the all-stock terms, each Range share will convert into 0.987…",
+          "date": "2026-10-26",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/eqt-agrees-to-acquire-range-resources-in-all-stock-deal-80444",
+          "relevant": false
+        },
+        {
           "title": "Reach Subsea and Eidesvik's 2009-built IMR vessel delivered to new owners",
           "summary": "A joint venture of Reach Subsea and Eidesvik Offshore has delivered the 2009-built, 85-meter-long inspection, maintenance and repair (IMR) vessel...",
           "date": "2026-10-26",
@@ -7058,6 +7082,15 @@
           "source_url": "https://splash247.com/nmdc-energy-lands-763m-in-saudi-aramco-offshore-contracts/",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "Sembcorp Gets Conditional Approval to Import 1.3GW of Power into Singapore",
+          "summary": "Singapore's government has conditionally authorized state-backed Sembcorp Utilities to import 1.3 gigawatts of renewable electricity, advancing a tripartite energy pact with Malaysia and Vietnam.",
+          "date": "2026-10-26",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/sembcorp_gets_conditional_approval_to_import_13gw_of_power_into_singapore-26-oct-2026-184930-article/?rss=true",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Saudi, Singapore Announce Oil Storage Deal",
