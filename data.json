@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T00:01:06Z",
+  "last_updated": "2026-10-26T01:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -161,20 +161,20 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Navantia launches seventh Avante corvette for Saudi Arabia",
-          "summary": "On October 25, 2026, Navantia launched the seventh corvette built for the Royal Saudi Naval Forces at its shipyards in the Bay of Cádiz. The ship, to be named Neom, is the second in the batch contracted in 2025…",
-          "date": "2026-10-25",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/navantia-launches-seventh-avante-corvette-for-saudi-arabia/",
-          "relevant": true
-        },
-        {
           "title": "Iberdrola Secures New EIB Loan for Brazil Grid Upgrades",
           "summary": "Iberdrola's Brazilian subsidiary has secured another loan from the European Investment Bank to help modernize the electricity infrastructure in the states of Sao Paulo and Mato Grosso do Sul.",
           "date": "2026-10-25",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/iberdrola_secures_new_eib_loan_for_brazil_grid_upgrades-25-oct-2026-184924-article/?rss=true",
           "relevant": false
+        },
+        {
+          "title": "Navantia launches seventh Avante corvette for Saudi Arabia",
+          "summary": "On October 25, 2026, Navantia launched the seventh corvette built for the Royal Saudi Naval Forces at its shipyards in the Bay of Cádiz. The ship, to be named Neom, is the second in the batch contracted in 2025…",
+          "date": "2026-10-25",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/navantia-launches-seventh-avante-corvette-for-saudi-arabia/",
+          "relevant": true
         },
         {
           "title": "MARAD’s Training Ship Success Offers a Blueprint for U.S. Shipbuilding",
