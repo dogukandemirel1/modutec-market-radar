@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T18:01:05Z",
+  "last_updated": "2026-10-26T19:01:08Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -6008,6 +6008,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "Chouest Group Acquires Canada’s Horizon Maritime in Major Expansion",
+          "summary": "The Louisiana-based Chouest Group has acquired Canadian marine and offshore services provider Horizon Maritime, expanding its presence across Canada’s East and West coasts and into the Arctic. The deal, announced...",
+          "date": "2026-10-26",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/chouest-group-acquires-canadas-horizon-maritime-in-major-expansion/",
+          "relevant": false
+        },
         {
           "title": "Transworld gets green light for $43m boxship deal",
           "summary": "India’s Transworld Shipping Lines has secured shareholder approval for the $42.78m acquisition of two containerships from another company within its controlling shareholder’s group, clearing a key hurdle in its ongoing…",
