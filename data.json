@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T23:01:06Z",
+  "last_updated": "2026-10-26T00:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5945,19 +5945,19 @@
           "relevant": false
         },
         {
-          "title": "Elbit Systems Expands Underwater and Maritime Autonomy Capabilities with Acquisition of ISE",
-          "summary": "Elbit Systems Ltd. has completed the acquisition of International Submarine Engineering Ltd. (ISE), a Canada-based company specializing in advanced autonomous underwater and remotely operated systems for the maritime…",
-          "date": "2026-10-22",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/elbit-systems-expands-underwater-and-maritime-autonomy-capabilities-with-acquisition-of-ise/",
-          "relevant": false
-        },
-        {
           "title": "Techouse Acquires Ambio",
           "summary": "Norwegian engineering and technology company Techouse has agreed to acquire offshore potable water services specialist Ambio Water, expanding its water treatment…",
           "date": "2026-10-22",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543842-techouse-acquires-ambio",
+          "relevant": false
+        },
+        {
+          "title": "Elbit Systems Expands Underwater and Maritime Autonomy Capabilities with Acquisition of ISE",
+          "summary": "Elbit Systems Ltd. has completed the acquisition of International Submarine Engineering Ltd. (ISE), a Canada-based company specializing in advanced autonomous underwater and remotely operated systems for the maritime…",
+          "date": "2026-10-22",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/elbit-systems-expands-underwater-and-maritime-autonomy-capabilities-with-acquisition-of-ise/",
           "relevant": false
         },
         {
@@ -9079,15 +9079,6 @@
           "source_url": "https://www.navalnews.com/naval-news/2026/09/singapore-lays-keel-for-third-multi-role-combat-vessel/",
           "relevant": false,
           "region": "SEA"
-        },
-        {
-          "title": "Technip Energies wins ADNOC Offshore engineering contract via L&T",
-          "summary": "Technip Energies was selected by Larsen & Toubro (L&T) for a significant detailed engineering services contract on a major ADNOC Offshore project in the UAE, covering new offshore facilities and modifications to existing infrastructure. The award follows L&T's lead role in a consortium that secured an EPCIC contract worth over $1.7bn from ADNOC Offshore.",
-          "date": "2026-08-26",
-          "source_name": "GlobeNewswire (Technip Energies)",
-          "source_url": "https://www.globenewswire.com/news-release/2026/08/26/3351071/0/en/technip-energies-selected-by-l-t-for-a-significant-engineering-services-contract-for-adnoc-offshore-in-the-uae.html",
-          "region": "UAE",
-          "relevant": true
         }
       ]
     }
