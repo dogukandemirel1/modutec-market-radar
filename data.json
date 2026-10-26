@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T07:01:03Z",
+  "last_updated": "2026-10-26T08:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -169,12 +169,12 @@
           "relevant": false
         },
         {
-          "title": "Navantia launches seventh Avante corvette for Saudi Arabia",
-          "summary": "On October 25, 2026, Navantia launched the seventh corvette built for the Royal Saudi Naval Forces at its shipyards in the Bay of Cádiz. The ship, to be named Neom, is the second in the batch contracted in 2025…",
-          "date": "2026-10-25",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/navantia-launches-seventh-avante-corvette-for-saudi-arabia/",
-          "relevant": true
+          "title": "Seatrium lands deal to complete Keppel’s offshore rig quartet",
+          "summary": "Singapore’s Seatrium has secured a contract worth more than S$500m ($390m) to complete four offshore drilling rigs owned by Keppel subsidiary RigCo, reviving a group of unfinished newbuildings amid improving demand for…",
+          "date": "2026-10-26",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/seatrium-lands-deal-to-complete-keppels-offshore-rig-quartet/",
+          "relevant": false
         },
         {
           "title": "Iberdrola Secures New EIB Loan for Brazil Grid Upgrades",
@@ -183,6 +183,14 @@
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/iberdrola_secures_new_eib_loan_for_brazil_grid_upgrades-25-oct-2026-184924-article/?rss=true",
           "relevant": false
+        },
+        {
+          "title": "Navantia launches seventh Avante corvette for Saudi Arabia",
+          "summary": "On October 25, 2026, Navantia launched the seventh corvette built for the Royal Saudi Naval Forces at its shipyards in the Bay of Cádiz. The ship, to be named Neom, is the second in the batch contracted in 2025…",
+          "date": "2026-10-25",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/navantia-launches-seventh-avante-corvette-for-saudi-arabia/",
+          "relevant": true
         },
         {
           "title": "MARAD’s Training Ship Success Offers a Blueprint for U.S. Shipbuilding",
