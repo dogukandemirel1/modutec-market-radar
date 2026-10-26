@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T13:01:07Z",
+  "last_updated": "2026-10-26T14:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4025,6 +4025,14 @@
           "relevant": true
         },
         {
+          "title": "OPT, Stratum Join Forces on Renewable-Powered Offshore Data Centers",
+          "summary": "Ocean Power Technologies (OPT) and Stratum Holdings have signed a non-binding letter of intent (LOI) to explore the development of offshore data center assets powered by wave…",
+          "date": "2026-10-26",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543900-opt-stratum-join-forces-on-renewable-powered-offshore-data-centers",
+          "relevant": false
+        },
+        {
           "title": "Trump Administration Unveils Seafood Strategy to Boost U.S. Fishing Fleet and Domestic Production",
           "summary": "The Trump administration on Friday unveiled its America First Seafood Strategy, outlining plans to strengthen the U.S. commercial fishing industry through regulatory reform, investment in fishing vessels and shoreside…",
           "date": "2026-10-23",
@@ -5974,6 +5982,14 @@
           "date": "2026-10-26",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/transworld-gets-green-light-for-43m-boxship-deal/",
+          "relevant": false
+        },
+        {
+          "title": "Chouest Group Acquires Canada's Horizon Maritime",
+          "summary": "The Chouest Group and the founders of Horizon Maritime Services have announced a strategic partnership that includes the acquisition of the Canadian offshore and…",
+          "date": "2026-10-26",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543896-chouest-group-acquires-canada-s-horizon-maritime",
           "relevant": false
         },
         {
