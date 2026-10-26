@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T10:02:08Z",
+  "last_updated": "2026-10-26T11:01:08Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -6953,13 +6953,13 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Malaysian owner adds two boxships at local Sapor Shipbuilding",
-          "summary": "Malaysia’s Harbour-Link Group has disclosed a RM56.7m ($13.9m) investment in two containerships at domestic builder Sapor Shipbuilding Industries as it expands its regional shipping operations. The Sarawak-based group…",
+          "title": "NMDC Energy lands $763m in Saudi Aramco offshore contracts",
+          "summary": "UAE-based offshore engineering and construction player NMDC Energy has secured three new offshore projects from Saudi Aramco worth a combined AED 2.8bn ($763.3m). The Abu Dhabi-listed contractor said in a stock exchange…",
           "date": "2026-10-26",
           "source_name": "Splash247",
-          "source_url": "https://splash247.com/malaysian-owner-adds-two-boxships-at-local-sapor-shipbuilding/",
-          "relevant": false,
-          "region": "SEA"
+          "source_url": "https://splash247.com/nmdc-energy-lands-763m-in-saudi-aramco-offshore-contracts/",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Saudi, Turkish Officials Travel to Iran to Cool Tensions",
@@ -6969,6 +6969,15 @@
           "source_url": "https://www.rigzone.com/news/wire/saudi_turkish_officials_travel_to_iran_to_cool_tensions-26-oct-2026-184926-article/?rss=true",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Malaysian owner adds two boxships at local Sapor Shipbuilding",
+          "summary": "Malaysia’s Harbour-Link Group has disclosed a RM56.7m ($13.9m) investment in two containerships at domestic builder Sapor Shipbuilding Industries as it expands its regional shipping operations. The Sarawak-based group…",
+          "date": "2026-10-26",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/malaysian-owner-adds-two-boxships-at-local-sapor-shipbuilding/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "UAE Shuts All Beaches As Neighbors Grapple With Oil Spill",
