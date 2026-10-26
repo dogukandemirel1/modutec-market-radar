@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T20:01:03Z",
+  "last_updated": "2026-10-26T21:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4033,6 +4033,14 @@
           "relevant": true
         },
         {
+          "title": "Shipping cuts training when it needs it most",
+          "summary": "Irene Rosberg, who runs the Blue MBA at Copenhagen Business School, returns to Splash today. When business conditions become difficult, training is often one of the easiest budgets to cut. In shipping, that is becoming…",
+          "date": "2026-10-26",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/shipping-cuts-training-when-it-needs-it-most/",
+          "relevant": false
+        },
+        {
           "title": "Westgate Energy launches fall drilling program with Killam multilateral and Beaverdam sidetrack",
           "summary": "Westgate Energy began drilling a multilateral well targeting the Sparky Formation at its Killam asset, with a planned total lateral length of about 9,600 m. The well offsets the 11-21, the best-performing Killam well to…",
           "date": "2026-10-26",
@@ -7088,6 +7096,23 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Tanker Disabled in Strait of Hormuz Attack, Another Vessel Reported on Fire in Persian Gulf",
+          "summary": "Two new maritime security warnings issued Monday point to continued dangers for commercial shipping in the Middle East, with one tanker confirmed disabled by a projectile in the Strait of...",
+          "date": "2026-10-26",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/tanker-disabled-in-strait-of-hormuz-attack-another-vessel-reported-on-fire-in-persian-gulf/",
+          "relevant": false
+        },
+        {
+          "title": "Singapore Yards Chase Profit From Europe’s Offshore Wind Push",
+          "summary": "At a shipyard in northern Singapore, a yellow platform towers over a maze of scaffolding and cranes. Resembling a 15-story building, the piece will be shipped halfway around the world to Europe to be installed into an…",
+          "date": "2026-10-26",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/singapore-yards-chase-profit-from-europes-offshore-wind-push/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Oil Spill Off UAE Widens, Satellite Images Show, Prompting More Beach Closures",
           "summary": "An oil spill from a damaged tanker off the coast of the United Arab Emirates has widened, satellite images showed, triggering more beach closures and raising environmental concerns.",
