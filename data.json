@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T11:01:08Z",
+  "last_updated": "2026-10-26T12:01:12Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5929,6 +5929,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Transworld gets green light for $43m boxship deal",
+          "summary": "India’s Transworld Shipping Lines has secured shareholder approval for the $42.78m acquisition of two containerships from another company within its controlling shareholder’s group, clearing a key hurdle in its ongoing…",
+          "date": "2026-10-26",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/transworld-gets-green-light-for-43m-boxship-deal/",
+          "relevant": false
+        },
+        {
           "title": "Trader Alkagesta enters shipowning with Turkish bunker fleet takeover",
           "summary": "Malta-based commodities trader Alkagesta is entering shipowning through the acquisition of Turkish marine fuel supplier Energy Petrol, taking over an eight-vessel bunker fleet as it expands its physical fuel…",
           "date": "2026-10-26",
@@ -6952,6 +6960,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Bahri turns to homegrown yard for $451m VLCC trio",
+          "summary": "Saudi shipping giant Bahri has ordered three very large crude carriers at International Maritime Industries (IMI), committing SAR1.692bn ($451m) to expand its tanker fleet and support shipbuilding at home. The 320,000…",
+          "date": "2026-10-26",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/bahri-turns-to-homegrown-yard-for-451m-vlcc-trio/",
+          "relevant": false,
+          "region": "KSA"
+        },
         {
           "title": "NMDC Energy lands $763m in Saudi Aramco offshore contracts",
           "summary": "UAE-based offshore engineering and construction player NMDC Energy has secured three new offshore projects from Saudi Aramco worth a combined AED 2.8bn ($763.3m). The Abu Dhabi-listed contractor said in a stock exchange…",
