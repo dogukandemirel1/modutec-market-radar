@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T09:01:10Z",
+  "last_updated": "2026-10-26T10:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -160,6 +160,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Equinor extends Havila PSV pair for one more year",
+          "summary": "Norwegian offshore vessel owner Havila Shipping has secured another year of work for two of its platform supply vessels (PSVs) after compatriot energy major Equinor exercised contract extension options. The latest…",
+          "date": "2026-10-26",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/equinor-extends-havila-psv-pair-for-one-more-year/",
+          "relevant": false
+        },
         {
           "title": "Pavimar returns to newbuild market with four Hengli bulkers",
           "summary": "Greek dry bulk owner Pavimar has made a rare newbuilding move, with a four-ship kamsarmax programme at China’s Hengli Heavy Industries. The Athens-based company, headed by Ismini Panagiotidi, has contracted the quartet…",
@@ -6952,6 +6960,15 @@
           "source_url": "https://splash247.com/malaysian-owner-adds-two-boxships-at-local-sapor-shipbuilding/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Saudi, Turkish Officials Travel to Iran to Cool Tensions",
+          "summary": "Top security officials from Saudi Arabia, Pakistan and Turkey are set to meet Iran's leaders in an effort to defuse tensions and breathe new life into talks aimed at preventing a broader war in the Middle East.",
+          "date": "2026-10-26",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/saudi_turkish_officials_travel_to_iran_to_cool_tensions-26-oct-2026-184926-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "UAE Shuts All Beaches As Neighbors Grapple With Oil Spill",
