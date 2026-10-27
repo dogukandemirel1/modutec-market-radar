@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T10:01:07Z",
+  "last_updated": "2026-10-27T11:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -177,6 +177,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Eni locks in offshore contractors for Cyprus gas project",
+          "summary": "Italian energy major Eni has signed the main engineering, procurement, construction, and drilling contracts for the Cronos gas development offshore Cyprus, with a string of major offshore contractors securing work on…",
+          "date": "2026-10-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/eni-locks-in-offshore-contractors-for-cyprus-gas-project/",
+          "relevant": false
+        },
+        {
           "title": "Yangzijiang Maritime cashes in on MR newbuilds with $308m sale",
           "summary": "Singapore-listed Yangzijiang Maritime Development has struck deals to sell six MR tanker newbuildings for a combined $308m, taking the value of its contracted vessel resales to $805m over the past ten months. The Ren…",
           "date": "2026-10-27",
@@ -297,20 +305,20 @@
           "relevant": false
         },
         {
-          "title": "Navantia launches seventh Avante corvette for Saudi Arabia",
-          "summary": "On October 25, 2026, Navantia launched the seventh corvette built for the Royal Saudi Naval Forces at its shipyards in the Bay of Cádiz. The ship, to be named Neom, is the second in the batch contracted in 2025…",
-          "date": "2026-10-25",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/navantia-launches-seventh-avante-corvette-for-saudi-arabia/",
-          "relevant": true
-        },
-        {
           "title": "Iberdrola Secures New EIB Loan for Brazil Grid Upgrades",
           "summary": "Iberdrola's Brazilian subsidiary has secured another loan from the European Investment Bank to help modernize the electricity infrastructure in the states of Sao Paulo and Mato Grosso do Sul.",
           "date": "2026-10-25",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/iberdrola_secures_new_eib_loan_for_brazil_grid_upgrades-25-oct-2026-184924-article/?rss=true",
           "relevant": false
+        },
+        {
+          "title": "Navantia launches seventh Avante corvette for Saudi Arabia",
+          "summary": "On October 25, 2026, Navantia launched the seventh corvette built for the Royal Saudi Naval Forces at its shipyards in the Bay of Cádiz. The ship, to be named Neom, is the second in the batch contracted in 2025…",
+          "date": "2026-10-25",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/navantia-launches-seventh-avante-corvette-for-saudi-arabia/",
+          "relevant": true
         },
         {
           "title": "Equinor and partners award Wisting FEED contract to Aibel",
@@ -6105,6 +6113,22 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Asyad Group prices $132m shipping stake sale",
+          "summary": "Oman’s Asyad Group has priced an institutional share sale in its listed shipping subsidiary at OMR50.8m ($132m), reducing its ownership as part of a move to broaden the company’s shareholder base. Muscat-listed Asyad…",
+          "date": "2026-10-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/asyad-group-prices-132m-shipping-stake-sale/",
+          "relevant": false
+        },
+        {
+          "title": "Dolphin Drilling parts ways with 52-year-old rig and forges pact with SPM",
+          "summary": "Dolphin Drilling has sealed a deal to divest its 1974-built rig for up to $25 million and formed a strategic partnership with SPM.",
+          "date": "2026-10-27",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/27/dolphin-drilling-parts-ways-with-52-year-old-rig-and-forges-pact-with-spm",
+          "relevant": false
+        },
+        {
           "title": "TotalEnergies Sells Renaissance JV Oil Interest for $800M",
           "summary": "TotalEnergies has completed the sale of its 10% non-operated oil interest in Nigeria's Renaissance joint venture (JV) licenses to Vaaris for $800 million, while…",
           "date": "2026-10-27",
@@ -6129,14 +6153,6 @@
           "relevant": false
         },
         {
-          "title": "Israel to Supply Cyprus with an Offshore Patrol Vessel Equipped with Advanced Naval Systems",
-          "summary": "On October 26, 2026, the Israeli Ministry of Defense (IMOD) and the Ministry of Defence of the Republic of Cyprus signed an agreement for the acquisition of a new Offshore Patrol Vessel (OPV). Israeli MoD press release…",
-          "date": "2026-10-26",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/israel-to-supply-cyprus-with-an-offshore-patrol-vessel-equipped-with-advanced-naval-systems/",
-          "relevant": false
-        },
-        {
           "title": "Reach Subsea and Eidesvik's 2009-built IMR vessel delivered to new owners",
           "summary": "A joint venture of Reach Subsea and Eidesvik Offshore has delivered the 2009-built, 85-meter-long inspection, maintenance and repair (IMR) vessel...",
           "date": "2026-10-26",
@@ -6158,6 +6174,14 @@
           "date": "2026-10-26",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543893-galp-s-refining-merger-with-moeve-falls-through",
+          "relevant": false
+        },
+        {
+          "title": "Israel to Supply Cyprus with an Offshore Patrol Vessel Equipped with Advanced Naval Systems",
+          "summary": "On October 26, 2026, the Israeli Ministry of Defense (IMOD) and the Ministry of Defence of the Republic of Cyprus signed an agreement for the acquisition of a new Offshore Patrol Vessel (OPV). Israeli MoD press release…",
+          "date": "2026-10-26",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/israel-to-supply-cyprus-with-an-offshore-patrol-vessel-equipped-with-advanced-naval-systems/",
           "relevant": false
         },
         {
