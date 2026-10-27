@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T15:01:04Z",
+  "last_updated": "2026-10-27T16:02:16Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4249,6 +4249,22 @@
           "relevant": false
         },
         {
+          "title": "India Diesel Export Boom Set to Ease Global Crunch",
+          "summary": "A surge in Indian diesel exports is set to hit global markets next year as new refining capacity comes online.",
+          "date": "2026-10-27",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/india_diesel_export_boom_set_to_ease_global_crunch-27-oct-2026-184943-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Eni Exits Nigeria's Onshore Upstream Sector",
+          "summary": "'Eni will continue to maintain a presence in the country through exploration and development of deep offshore assets as well as through its participation in Nigeria LNG'.",
+          "date": "2026-10-27",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/eni_exits_nigerias_onshore_upstream_sector-27-oct-2026-184942-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "Woodside Agrees to Sell Greater Sunrise Stake to TIMOR GAP for Up to $200M",
           "summary": "Woodside Energy has agreed to sell its 33.44% participating interest in the Greater Sunrise gas project in the Timor Sea to Timor-Leste's national oil and gas company TIMOR GAP for up to $200 million…",
           "date": "2026-10-27",
@@ -6273,6 +6289,14 @@
           "relevant": false
         },
         {
+          "title": "Ovintiv Acquires Montney Neighbor Logan",
+          "summary": "'Ovintiv's core land position in the Montney is expected to increase to approximately 720,000 net acres'.",
+          "date": "2026-10-27",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/ovintiv_acquires_montney_neighbor_logan-27-oct-2026-184945-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "TotalEnergies Sells Renaissance JV Oil Interest for $800M",
           "summary": "TotalEnergies has completed the sale of its 10% non-operated oil interest in Nigeria's Renaissance joint venture (JV) licenses to Vaaris for $800 million, while…",
           "date": "2026-10-27",
@@ -6289,19 +6313,19 @@
           "relevant": false
         },
         {
-          "title": "Reach Subsea and Eidesvik's 2009-built IMR vessel delivered to new owners",
-          "summary": "A joint venture of Reach Subsea and Eidesvik Offshore has delivered the 2009-built, 85-meter-long inspection, maintenance and repair (IMR) vessel...",
-          "date": "2026-10-26",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/26/reach-subsea-and-eidesviks-2009-built-imr-vessel-delivered-to-new-owners",
-          "relevant": false
-        },
-        {
           "title": "Israel to Supply Cyprus with an Offshore Patrol Vessel Equipped with Advanced Naval Systems",
           "summary": "On October 26, 2026, the Israeli Ministry of Defense (IMOD) and the Ministry of Defence of the Republic of Cyprus signed an agreement for the acquisition of a new Offshore Patrol Vessel (OPV). Israeli MoD press release…",
           "date": "2026-10-26",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/10/israel-to-supply-cyprus-with-an-offshore-patrol-vessel-equipped-with-advanced-naval-systems/",
+          "relevant": false
+        },
+        {
+          "title": "Reach Subsea and Eidesvik's 2009-built IMR vessel delivered to new owners",
+          "summary": "A joint venture of Reach Subsea and Eidesvik Offshore has delivered the 2009-built, 85-meter-long inspection, maintenance and repair (IMR) vessel...",
+          "date": "2026-10-26",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/26/reach-subsea-and-eidesviks-2009-built-imr-vessel-delivered-to-new-owners",
           "relevant": false
         },
         {
@@ -7395,6 +7419,24 @@
           "source_url": "https://offshore-energy.biz/2026/10/27/energy-drilling-lines-up-30-month-job-to-keep-its-rig-busy-through-2030",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "ADNOC 'Unlocks' $16B in UAE Manufacturing Opportunities",
+          "summary": "ADNOC announced that it has 'unlock[ed]' over AED 60 billion ($16.3 billion) in UAE manufacturing opportunities and 'transform[ed]…' how suppliers access and compete for its business.",
+          "date": "2026-10-27",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/adnoc_unlocks_16b_in_uae_manufacturing_opportunities-27-oct-2026-184946-article/?rss=true",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
+          "title": "Aramco Contains Fire Near Ras Tanura Oil Hub",
+          "summary": "Saudi Arabia contained a fire near its biggest oil export terminal at Ras Tanura on the Persian Gulf following an attack in the region, a person with knowledge of the matter said.",
+          "date": "2026-10-27",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/aramco_contains_fire_near_ras_tanura_oil_hub-27-oct-2026-184944-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "Aramco Closes In on $10B Loan",
