@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T13:01:07Z",
+  "last_updated": "2026-10-27T14:01:10Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -265,11 +265,27 @@
           "relevant": false
         },
         {
+          "title": "Fugro wins UXO survey contract for German offshore grid connections",
+          "summary": "Fugro has been awarded a contract by 50Hertz to deliver unexploded ordnance (UXO) survey, identification and clearance services for the LanWin3...",
+          "date": "2026-10-27",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/27/fugro-wins-uxo-survey-contract-for-german-offshore-grid-connections",
+          "relevant": false
+        },
+        {
           "title": "Eni begins execution phase of Cronos gas project in Cyprus",
           "summary": "Eni finalised key contracts for the engineering, procurement, construction and drilling of the Cronos gas project located offshore Cyprus.",
           "date": "2026-10-27",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/eni-execution-phase-cronos-project-cyprus/",
+          "relevant": false
+        },
+        {
+          "title": "Seatrium, Karpowership Link Up on Floating Power and Digital Infrastructure",
+          "summary": "Seatrium announced that it has entered into a Memorandum of Understanding (MoU) with global floating power solutions specialist Karpowership to pursue a joint venture…",
+          "date": "2026-10-27",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543930-seatrium-karpowership-link-up-on-floating-power-and-digital-infrastructure",
           "relevant": false
         },
         {
@@ -385,20 +401,20 @@
           "relevant": false
         },
         {
-          "title": "Navantia launches seventh Avante corvette for Saudi Arabia",
-          "summary": "On October 25, 2026, Navantia launched the seventh corvette built for the Royal Saudi Naval Forces at its shipyards in the Bay of Cádiz. The ship, to be named Neom, is the second in the batch contracted in 2025…",
-          "date": "2026-10-25",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/navantia-launches-seventh-avante-corvette-for-saudi-arabia/",
-          "relevant": true
-        },
-        {
           "title": "Iberdrola Secures New EIB Loan for Brazil Grid Upgrades",
           "summary": "Iberdrola's Brazilian subsidiary has secured another loan from the European Investment Bank to help modernize the electricity infrastructure in the states of Sao Paulo and Mato Grosso do Sul.",
           "date": "2026-10-25",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/iberdrola_secures_new_eib_loan_for_brazil_grid_upgrades-25-oct-2026-184924-article/?rss=true",
           "relevant": false
+        },
+        {
+          "title": "Navantia launches seventh Avante corvette for Saudi Arabia",
+          "summary": "On October 25, 2026, Navantia launched the seventh corvette built for the Royal Saudi Naval Forces at its shipyards in the Bay of Cádiz. The ship, to be named Neom, is the second in the batch contracted in 2025…",
+          "date": "2026-10-25",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/navantia-launches-seventh-avante-corvette-for-saudi-arabia/",
+          "relevant": true
         },
         {
           "title": "Equinor and partners award Wisting FEED contract to Aibel",
@@ -6233,19 +6249,19 @@
           "relevant": false
         },
         {
-          "title": "Israel to Supply Cyprus with an Offshore Patrol Vessel Equipped with Advanced Naval Systems",
-          "summary": "On October 26, 2026, the Israeli Ministry of Defense (IMOD) and the Ministry of Defence of the Republic of Cyprus signed an agreement for the acquisition of a new Offshore Patrol Vessel (OPV). Israeli MoD press release…",
-          "date": "2026-10-26",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/israel-to-supply-cyprus-with-an-offshore-patrol-vessel-equipped-with-advanced-naval-systems/",
-          "relevant": false
-        },
-        {
           "title": "Reach Subsea and Eidesvik's 2009-built IMR vessel delivered to new owners",
           "summary": "A joint venture of Reach Subsea and Eidesvik Offshore has delivered the 2009-built, 85-meter-long inspection, maintenance and repair (IMR) vessel...",
           "date": "2026-10-26",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/26/reach-subsea-and-eidesviks-2009-built-imr-vessel-delivered-to-new-owners",
+          "relevant": false
+        },
+        {
+          "title": "Israel to Supply Cyprus with an Offshore Patrol Vessel Equipped with Advanced Naval Systems",
+          "summary": "On October 26, 2026, the Israeli Ministry of Defense (IMOD) and the Ministry of Defence of the Republic of Cyprus signed an agreement for the acquisition of a new Offshore Patrol Vessel (OPV). Israeli MoD press release…",
+          "date": "2026-10-26",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/israel-to-supply-cyprus-with-an-offshore-patrol-vessel-equipped-with-advanced-naval-systems/",
           "relevant": false
         },
         {
