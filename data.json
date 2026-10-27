@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T12:01:04Z",
+  "last_updated": "2026-10-27T13:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -385,20 +385,20 @@
           "relevant": false
         },
         {
-          "title": "Iberdrola Secures New EIB Loan for Brazil Grid Upgrades",
-          "summary": "Iberdrola's Brazilian subsidiary has secured another loan from the European Investment Bank to help modernize the electricity infrastructure in the states of Sao Paulo and Mato Grosso do Sul.",
-          "date": "2026-10-25",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/iberdrola_secures_new_eib_loan_for_brazil_grid_upgrades-25-oct-2026-184924-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Navantia launches seventh Avante corvette for Saudi Arabia",
           "summary": "On October 25, 2026, Navantia launched the seventh corvette built for the Royal Saudi Naval Forces at its shipyards in the Bay of Cádiz. The ship, to be named Neom, is the second in the batch contracted in 2025…",
           "date": "2026-10-25",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/10/navantia-launches-seventh-avante-corvette-for-saudi-arabia/",
           "relevant": true
+        },
+        {
+          "title": "Iberdrola Secures New EIB Loan for Brazil Grid Upgrades",
+          "summary": "Iberdrola's Brazilian subsidiary has secured another loan from the European Investment Bank to help modernize the electricity infrastructure in the states of Sao Paulo and Mato Grosso do Sul.",
+          "date": "2026-10-25",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/iberdrola_secures_new_eib_loan_for_brazil_grid_upgrades-25-oct-2026-184924-article/?rss=true",
+          "relevant": false
         },
         {
           "title": "Equinor and partners award Wisting FEED contract to Aibel",
@@ -6233,6 +6233,14 @@
           "relevant": false
         },
         {
+          "title": "Israel to Supply Cyprus with an Offshore Patrol Vessel Equipped with Advanced Naval Systems",
+          "summary": "On October 26, 2026, the Israeli Ministry of Defense (IMOD) and the Ministry of Defence of the Republic of Cyprus signed an agreement for the acquisition of a new Offshore Patrol Vessel (OPV). Israeli MoD press release…",
+          "date": "2026-10-26",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/israel-to-supply-cyprus-with-an-offshore-patrol-vessel-equipped-with-advanced-naval-systems/",
+          "relevant": false
+        },
+        {
           "title": "Reach Subsea and Eidesvik's 2009-built IMR vessel delivered to new owners",
           "summary": "A joint venture of Reach Subsea and Eidesvik Offshore has delivered the 2009-built, 85-meter-long inspection, maintenance and repair (IMR) vessel...",
           "date": "2026-10-26",
@@ -6262,14 +6270,6 @@
           "date": "2026-10-26",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543893-galp-s-refining-merger-with-moeve-falls-through",
-          "relevant": false
-        },
-        {
-          "title": "Israel to Supply Cyprus with an Offshore Patrol Vessel Equipped with Advanced Naval Systems",
-          "summary": "On October 26, 2026, the Israeli Ministry of Defense (IMOD) and the Ministry of Defence of the Republic of Cyprus signed an agreement for the acquisition of a new Offshore Patrol Vessel (OPV). Israeli MoD press release…",
-          "date": "2026-10-26",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/israel-to-supply-cyprus-with-an-offshore-patrol-vessel-equipped-with-advanced-naval-systems/",
           "relevant": false
         },
         {
@@ -7304,6 +7304,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Seatrium and Karpowership eye Southeast Asia floating infrastructure push",
+          "summary": "Singapore’s Seatrium and Turkey’s Karpowership are seeking to form a joint venture to develop floating power and digital infrastructure solutions in Singapore, with plans to expand into the wider Southeast Asian market…",
+          "date": "2026-10-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/seatrium-and-karpowership-eye-southeast-asia-floating-infrastructure-push/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Jade Pacific makes liner debut with Red Sea service",
           "summary": "A new Singapore-based container shipping company headed by former SeaLead executives has entered the liner trades with a service connecting India, Pakistan and Egypt’s Red Sea coast. Jade Pacific Line (JPL), established…",
