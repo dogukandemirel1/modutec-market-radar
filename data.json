@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T11:01:04Z",
+  "last_updated": "2026-10-27T12:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -177,6 +177,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Fugro to hunt for unexploded munitions along North Sea cable routes",
+          "summary": "Dutch survey specialist Fugro has secured a contract from German transmission system operator 50Hertz to survey and clear unexploded ordnance along the routes of two offshore wind grid connections in the North Sea. The…",
+          "date": "2026-10-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/fugro-to-hunt-for-unexploded-munitions-along-north-sea-cable-routes/",
+          "relevant": false
+        },
+        {
           "title": "Eni locks in offshore contractors for Cyprus gas project",
           "summary": "Italian energy major Eni has signed the main engineering, procurement, construction, and drilling contracts for the Cronos gas development offshore Cyprus, with a string of major offshore contractors securing work on…",
           "date": "2026-10-27",
@@ -190,6 +198,78 @@
           "date": "2026-10-27",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/yangzijiang-maritime-cashes-in-on-mr-newbuilds-with-308m-sale/",
+          "relevant": false
+        },
+        {
+          "title": "ND26_Offshore3",
+          "summary": "The post ND26_Offshore3 appeared first on Drilling Contractor .",
+          "date": "2026-10-27",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/nd26_offshore3-80572",
+          "relevant": false
+        },
+        {
+          "title": "ND26_Offshore2",
+          "summary": "The post ND26_Offshore2 appeared first on Drilling Contractor .",
+          "date": "2026-10-27",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/nd26_offshore2-80570",
+          "relevant": false
+        },
+        {
+          "title": "ND26_Offshore1",
+          "summary": "The post ND26_Offshore1 appeared first on Drilling Contractor .",
+          "date": "2026-10-27",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/nd26_offshore1-80568",
+          "relevant": false
+        },
+        {
+          "title": "ND26_Venezuela",
+          "summary": "The post ND26_Venezuela appeared first on Drilling Contractor .",
+          "date": "2026-10-27",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/nd26_venezuela-80558",
+          "relevant": false
+        },
+        {
+          "title": "ND26_Onshore4",
+          "summary": "The post ND26_Onshore4 appeared first on Drilling Contractor .",
+          "date": "2026-10-27",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/nd26_onshore4-80554",
+          "relevant": false
+        },
+        {
+          "title": "ND26_Onshore3",
+          "summary": "The post ND26_Onshore3 appeared first on Drilling Contractor .",
+          "date": "2026-10-27",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/nd26_onshore3-80552",
+          "relevant": false
+        },
+        {
+          "title": "ND26_Onshore2",
+          "summary": "The post ND26_Onshore2 appeared first on Drilling Contractor .",
+          "date": "2026-10-27",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/nd26_onshore2-80550",
+          "relevant": false
+        },
+        {
+          "title": "ND26_Onshore1",
+          "summary": "The post ND26_Onshore1 appeared first on Drilling Contractor .",
+          "date": "2026-10-27",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/nd26_onshore1-80548",
+          "relevant": false
+        },
+        {
+          "title": "Eni begins execution phase of Cronos gas project in Cyprus",
+          "summary": "Eni finalised key contracts for the engineering, procurement, construction and drilling of the Cronos gas project located offshore Cyprus.",
+          "date": "2026-10-27",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/eni-execution-phase-cronos-project-cyprus/",
           "relevant": false
         },
         {
@@ -233,6 +313,14 @@
           "relevant": false
         },
         {
+          "title": "Inyanga's 30MW Tidal Project to Feature AI-Powered Marine Life Detection",
+          "summary": "HydroWing, the tidal energy division of Inyanga Marine Energy Group, has awarded Ecodetect a contract to provide AI-powered marine wildlife monitoring systems for…",
+          "date": "2026-10-26",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543894-inyanga-s-30mw-tidal-project-to-feature-ai-powered-marine-life-detection",
+          "relevant": false
+        },
+        {
           "title": "ND26_Markets2",
           "summary": "The post ND26_Markets2 appeared first on Drilling Contractor .",
           "date": "2026-10-26",
@@ -246,14 +334,6 @@
           "date": "2026-10-26",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/nd26_markets1-80516",
-          "relevant": false
-        },
-        {
-          "title": "Inyanga's 30MW Tidal Project to Feature AI-Powered Marine Life Detection",
-          "summary": "HydroWing, the tidal energy division of Inyanga Marine Energy Group, has awarded Ecodetect a contract to provide AI-powered marine wildlife monitoring systems for…",
-          "date": "2026-10-26",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/543894-inyanga-s-30mw-tidal-project-to-feature-ai-powered-marine-life-detection",
           "relevant": false
         },
         {
@@ -4137,14 +4217,6 @@
           "relevant": true
         },
         {
-          "title": "Westgate Energy launches fall drilling program with Killam multilateral and Beaverdam sidetrack",
-          "summary": "Westgate Energy began drilling a multilateral well targeting the Sparky Formation at its Killam asset, with a planned total lateral length of about 9,600 m. The well offsets the 11-21, the best-performing Killam well to…",
-          "date": "2026-10-26",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/westgate-energy-launches-fall-drilling-program-with-killam-multilateral-and-beaverdam-sidetrack-80456",
-          "relevant": false
-        },
-        {
           "title": "Eni gets the ball rolling on execution of Mediterranean gas project",
           "summary": "Eni has kicked off the execution phase of Cyprus's 3 trillion cubic feet (tcf) gas project, targeting first production by H1 2028.",
           "date": "2026-10-26",
@@ -4166,6 +4238,14 @@
           "date": "2026-10-26",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543900-opt-stratum-join-forces-on-renewable-powered-offshore-data-centers",
+          "relevant": false
+        },
+        {
+          "title": "Westgate Energy launches fall drilling program with Killam multilateral and Beaverdam sidetrack",
+          "summary": "Westgate Energy began drilling a multilateral well targeting the Sparky Formation at its Killam asset, with a planned total lateral length of about 9,600 m. The well offsets the 11-21, the best-performing Killam well to…",
+          "date": "2026-10-26",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/westgate-energy-launches-fall-drilling-program-with-killam-multilateral-and-beaverdam-sidetrack-80456",
           "relevant": false
         },
         {
@@ -6113,6 +6193,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Chouest Group acquires Canada’s Horizon Maritime",
+          "summary": "US offshore services giant Chouest Group has acquired Canadian marine and offshore services provider Horizon Maritime, expanding its presence across Canada’s east and west coasts and into the Arctic. The Louisiana-based…",
+          "date": "2026-10-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/chouest-group-acquires-canadas-horizon-maritime/",
+          "relevant": false
+        },
+        {
           "title": "Asyad Group prices $132m shipping stake sale",
           "summary": "Oman’s Asyad Group has priced an institutional share sale in its listed shipping subsidiary at OMR50.8m ($132m), reducing its ownership as part of a move to broaden the company’s shareholder base. Muscat-listed Asyad…",
           "date": "2026-10-27",
@@ -6145,14 +6233,6 @@
           "relevant": false
         },
         {
-          "title": "EQT agrees to acquire Range Resources in all-stock deal",
-          "summary": "EQT signed a definitive merger agreement on 26 October 2026 to acquire Range Resources, bringing together two Appalachian Basin natural gas producers. Under the all-stock terms, each Range share will convert into 0.987…",
-          "date": "2026-10-26",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/eqt-agrees-to-acquire-range-resources-in-all-stock-deal-80444",
-          "relevant": false
-        },
-        {
           "title": "Reach Subsea and Eidesvik's 2009-built IMR vessel delivered to new owners",
           "summary": "A joint venture of Reach Subsea and Eidesvik Offshore has delivered the 2009-built, 85-meter-long inspection, maintenance and repair (IMR) vessel...",
           "date": "2026-10-26",
@@ -6166,6 +6246,14 @@
           "date": "2026-10-26",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543896-chouest-group-acquires-canada-s-horizon-maritime",
+          "relevant": false
+        },
+        {
+          "title": "EQT agrees to acquire Range Resources in all-stock deal",
+          "summary": "EQT signed a definitive merger agreement on 26 October 2026 to acquire Range Resources, bringing together two Appalachian Basin natural gas producers. Under the all-stock terms, each Range share will convert into 0.987…",
+          "date": "2026-10-26",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/eqt-agrees-to-acquire-range-resources-in-all-stock-deal-80444",
           "relevant": false
         },
         {
