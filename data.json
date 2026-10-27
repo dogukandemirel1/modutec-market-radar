@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T07:01:01Z",
+  "last_updated": "2026-10-27T08:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8,6 +8,14 @@
       "short_title": "Day-Rates",
       "description": "Benchmark day-rate trends for jackups, floaters and offshore support vessels across key regions.",
       "items": [
+        {
+          "title": "Dolphin Drilling sells ageing semisub and eyes rig management tie-up",
+          "summary": "Norwegian offshore drilling contractor Dolphin Drilling has agreed to sell its Blackford Dolphin semisubmersible rig to Dubai-based SPM Energy Shipping for up to $25m, while establishing a potential partnership to…",
+          "date": "2026-10-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/dolphin-drilling-sells-ageing-semisub-and-eyes-rig-management-tie-up/",
+          "relevant": true
+        },
         {
           "title": "RigCo, Seatrium resume construction of drillship, jackup and two semisubmersibles",
           "summary": "RigCo, a wholly owned subsidiary of Keppel, agreed with Seatrium on 26 October 2026 to complete construction of four offshore rigs under an existing master services arrangement. The estimated total contract value is…",
@@ -168,6 +176,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Fresh contract haul strengthens Noble’s 2027 rig coverage",
+          "summary": "Offshore drilling giant Noble Corporation has announced a batch of new rig deals, totalling around $560m. Noble’s two 2014-built 7th-generation drillships, the Noble BlackRhino and Noble BlackHawk, both bagged new work…",
+          "date": "2026-10-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/fresh-contract-haul-strengthens-nobles-2027-rig-coverage/",
+          "relevant": false
+        },
         {
           "title": "ND26_Markets4",
           "summary": "The post ND26_Markets4 appeared first on Drilling Contractor .",
