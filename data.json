@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T14:01:10Z",
+  "last_updated": "2026-10-27T15:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -201,6 +201,38 @@
           "relevant": false
         },
         {
+          "title": "ND26_NOVCensus4",
+          "summary": "The post ND26_NOVCensus4 appeared first on Drilling Contractor .",
+          "date": "2026-10-27",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/nd26_novcensus4-80586",
+          "relevant": false
+        },
+        {
+          "title": "ND26_NOVCensus3",
+          "summary": "The post ND26_NOVCensus3 appeared first on Drilling Contractor .",
+          "date": "2026-10-27",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/nd26_novcensus3-80584",
+          "relevant": false
+        },
+        {
+          "title": "ND26_NOVCensus2",
+          "summary": "The post ND26_NOVCensus2 appeared first on Drilling Contractor .",
+          "date": "2026-10-27",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/nd26_novcensus2-80582",
+          "relevant": false
+        },
+        {
+          "title": "ND26_NOVCensus1",
+          "summary": "The post ND26_NOVCensus1 appeared first on Drilling Contractor .",
+          "date": "2026-10-27",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/nd26_novcensus1-80580",
+          "relevant": false
+        },
+        {
           "title": "ND26_Offshore3",
           "summary": "The post ND26_Offshore3 appeared first on Drilling Contractor .",
           "date": "2026-10-27",
@@ -249,22 +281,6 @@
           "relevant": false
         },
         {
-          "title": "ND26_Onshore2",
-          "summary": "The post ND26_Onshore2 appeared first on Drilling Contractor .",
-          "date": "2026-10-27",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/nd26_onshore2-80550",
-          "relevant": false
-        },
-        {
-          "title": "ND26_Onshore1",
-          "summary": "The post ND26_Onshore1 appeared first on Drilling Contractor .",
-          "date": "2026-10-27",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/nd26_onshore1-80548",
-          "relevant": false
-        },
-        {
           "title": "Fugro wins UXO survey contract for German offshore grid connections",
           "summary": "Fugro has been awarded a contract by 50Hertz to deliver unexploded ordnance (UXO) survey, identification and clearance services for the LanWin3...",
           "date": "2026-10-27",
@@ -302,6 +318,22 @@
           "date": "2026-10-27",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543917-energy-drilling-lands-87m-drilling-job-offshore-malaysia",
+          "relevant": false
+        },
+        {
+          "title": "ND26_Onshore2",
+          "summary": "The post ND26_Onshore2 appeared first on Drilling Contractor .",
+          "date": "2026-10-27",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/nd26_onshore2-80550",
+          "relevant": false
+        },
+        {
+          "title": "ND26_Onshore1",
+          "summary": "The post ND26_Onshore1 appeared first on Drilling Contractor .",
+          "date": "2026-10-27",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/nd26_onshore1-80548",
           "relevant": false
         },
         {
@@ -4209,6 +4241,14 @@
           "relevant": false
         },
         {
+          "title": "Woodside passes the baton for offshore gas project to Timor Gap in $200 million deal",
+          "summary": "Timor Gap is taking over the reins for a gas project in the Timor Sea from Woodside with completion of the takeover anticipated in H1 2027.",
+          "date": "2026-10-27",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/27/woodside-passes-the-baton-for-offshore-gas-project-to-timor-gap-in-dollar200-million-deal",
+          "relevant": false
+        },
+        {
           "title": "Woodside Agrees to Sell Greater Sunrise Stake to TIMOR GAP for Up to $200M",
           "summary": "Woodside Energy has agreed to sell its 33.44% participating interest in the Greater Sunrise gas project in the Timor Sea to Timor-Leste's national oil and gas company TIMOR GAP for up to $200 million…",
           "date": "2026-10-27",
@@ -4225,14 +4265,6 @@
           "relevant": false
         },
         {
-          "title": "Dubai’s DP World in Talks on Alliance With Northern Canada Port",
-          "summary": "Dubai’s DP World Ltd. is set to unveil a deal backing potential development of Canada’s port of Churchill, a northern outpost that Prime Minister Mark Carney aims to expand for exports to Europe and other markets.",
-          "date": "2026-10-26",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/dubais-dp-world-in-talks-on-alliance-with-northern-canada-port/",
-          "relevant": true
-        },
-        {
           "title": "Eni gets the ball rolling on execution of Mediterranean gas project",
           "summary": "Eni has kicked off the execution phase of Cyprus's 3 trillion cubic feet (tcf) gas project, targeting first production by H1 2028.",
           "date": "2026-10-26",
@@ -4247,6 +4279,14 @@
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/bp_gets_new_settlement_with_louisiana_over_deepwater_horizon_disaster-26-oct-2026-184933-article/?rss=true",
           "relevant": false
+        },
+        {
+          "title": "Dubai’s DP World in Talks on Alliance With Northern Canada Port",
+          "summary": "Dubai’s DP World Ltd. is set to unveil a deal backing potential development of Canada’s port of Churchill, a northern outpost that Prime Minister Mark Carney aims to expand for exports to Europe and other markets.",
+          "date": "2026-10-26",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/dubais-dp-world-in-talks-on-alliance-with-northern-canada-port/",
+          "relevant": true
         },
         {
           "title": "OPT, Stratum Join Forces on Renewable-Powered Offshore Data Centers",
@@ -7320,6 +7360,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Yemen’s Houthis Say They Hit Saudi Ras Tanura Oil Refinery With Missile",
+          "summary": "emen's Iran-aligned Houthis said on Tuesday they had hit Saudi Arabia's Ras Tanura oil refinery, the ?biggest in the kingdom, with a ballistic missile.",
+          "date": "2026-10-27",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/yemens-houthis-say-they-hit-saudi-ras-tanura-oil-refinery-with-missile/",
+          "relevant": true,
+          "region": "KSA"
+        },
         {
           "title": "Seatrium and Karpowership eye Southeast Asia floating infrastructure push",
           "summary": "Singapore’s Seatrium and Turkey’s Karpowership are seeking to form a joint venture to develop floating power and digital infrastructure solutions in Singapore, with plans to expand into the wider Southeast Asian market…",
