@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T06:01:02Z",
+  "last_updated": "2026-10-27T07:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -169,14 +169,6 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Equinor extends Havila PSV pair for one more year",
-          "summary": "Norwegian offshore vessel owner Havila Shipping has secured another year of work for two of its platform supply vessels (PSVs) after compatriot energy major Equinor exercised contract extension options. The latest…",
-          "date": "2026-10-26",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/equinor-extends-havila-psv-pair-for-one-more-year/",
-          "relevant": false
-        },
-        {
           "title": "ND26_Markets4",
           "summary": "The post ND26_Markets4 appeared first on Drilling Contractor .",
           "date": "2026-10-26",
@@ -238,6 +230,14 @@
           "date": "2026-10-26",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543886-borr-drilling-rig-sinks-off-gabon-110-rescued-as-search-for-five-missing-continues",
+          "relevant": false
+        },
+        {
+          "title": "Equinor extends Havila PSV pair for one more year",
+          "summary": "Norwegian offshore vessel owner Havila Shipping has secured another year of work for two of its platform supply vessels (PSVs) after compatriot energy major Equinor exercised contract extension options. The latest…",
+          "date": "2026-10-26",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/equinor-extends-havila-psv-pair-for-one-more-year/",
           "relevant": false
         },
         {
@@ -4057,20 +4057,28 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Wall Street splits over tanker boom",
+          "summary": "Wall Street’s increasingly divided outlook for the tanker supercycle has taken another twist, with investment bank Evercore ISI dramatically raising its freight forecasts and share price targets while warning that the…",
+          "date": "2026-10-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/wall-street-splits-over-tanker-boom/",
+          "relevant": false
+        },
+        {
+          "title": "Shipping cuts training when it needs it most",
+          "summary": "Irene Rosberg, who runs the Blue MBA at Copenhagen Business School, returns to Splash today. When business conditions become difficult, training is often one of the easiest budgets to cut. In shipping, that is becoming…",
+          "date": "2026-10-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/shipping-cuts-training-when-it-needs-it-most/",
+          "relevant": false
+        },
+        {
           "title": "Dubai’s DP World in Talks on Alliance With Northern Canada Port",
           "summary": "Dubai’s DP World Ltd. is set to unveil a deal backing potential development of Canada’s port of Churchill, a northern outpost that Prime Minister Mark Carney aims to expand for exports to Europe and other markets.",
           "date": "2026-10-26",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/dubais-dp-world-in-talks-on-alliance-with-northern-canada-port/",
           "relevant": true
-        },
-        {
-          "title": "Shipping cuts training when it needs it most",
-          "summary": "Irene Rosberg, who runs the Blue MBA at Copenhagen Business School, returns to Splash today. When business conditions become difficult, training is often one of the easiest budgets to cut. In shipping, that is becoming…",
-          "date": "2026-10-26",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/shipping-cuts-training-when-it-needs-it-most/",
-          "relevant": false
         },
         {
           "title": "Westgate Energy launches fall drilling program with Killam multilateral and Beaverdam sidetrack",
@@ -6057,14 +6065,6 @@
           "relevant": false
         },
         {
-          "title": "Transworld gets green light for $43m boxship deal",
-          "summary": "India’s Transworld Shipping Lines has secured shareholder approval for the $42.78m acquisition of two containerships from another company within its controlling shareholder’s group, clearing a key hurdle in its ongoing…",
-          "date": "2026-10-26",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/transworld-gets-green-light-for-43m-boxship-deal/",
-          "relevant": false
-        },
-        {
           "title": "EQT agrees to acquire Range Resources in all-stock deal",
           "summary": "EQT signed a definitive merger agreement on 26 October 2026 to acquire Range Resources, bringing together two Appalachian Basin natural gas producers. Under the all-stock terms, each Range share will convert into 0.987…",
           "date": "2026-10-26",
@@ -6102,6 +6102,14 @@
           "date": "2026-10-26",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543893-galp-s-refining-merger-with-moeve-falls-through",
+          "relevant": false
+        },
+        {
+          "title": "Transworld gets green light for $43m boxship deal",
+          "summary": "India’s Transworld Shipping Lines has secured shareholder approval for the $42.78m acquisition of two containerships from another company within its controlling shareholder’s group, clearing a key hurdle in its ongoing…",
+          "date": "2026-10-26",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/transworld-gets-green-light-for-43m-boxship-deal/",
           "relevant": false
         },
         {
@@ -7129,6 +7137,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Jade Pacific makes liner debut with Red Sea service",
+          "summary": "A new Singapore-based container shipping company headed by former SeaLead executives has entered the liner trades with a service connecting India, Pakistan and Egypt’s Red Sea coast. Jade Pacific Line (JPL), established…",
+          "date": "2026-10-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/jade-pacific-makes-liner-debut-with-red-sea-service/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Tanker Disabled in Strait of Hormuz Attack, Another Vessel Reported on Fire in Persian Gulf",
           "summary": "Two new maritime security warnings issued Monday point to continued dangers for commercial shipping in the Middle East, with one tanker confirmed disabled by a projectile in the Strait of...",
           "date": "2026-10-26",
@@ -7151,24 +7168,6 @@
           "date": "2026-10-26",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/oil-spill-off-uae-widens-satellite-images-show-prompting-more-beach-closures/",
-          "relevant": true,
-          "region": "UAE"
-        },
-        {
-          "title": "Bahri turns to homegrown yard for $451m VLCC trio",
-          "summary": "Saudi shipping giant Bahri has ordered three very large crude carriers at International Maritime Industries (IMI), committing SAR1.692bn ($451m) to expand its tanker fleet and support shipbuilding at home. The 320,000…",
-          "date": "2026-10-26",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/bahri-turns-to-homegrown-yard-for-451m-vlcc-trio/",
-          "relevant": false,
-          "region": "KSA"
-        },
-        {
-          "title": "NMDC Energy lands $763m in Saudi Aramco offshore contracts",
-          "summary": "UAE-based offshore engineering and construction player NMDC Energy has secured three new offshore projects from Saudi Aramco worth a combined AED 2.8bn ($763.3m). The Abu Dhabi-listed contractor said in a stock exchange…",
-          "date": "2026-10-26",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/nmdc-energy-lands-763m-in-saudi-aramco-offshore-contracts/",
           "relevant": true,
           "region": "UAE"
         },
@@ -7216,6 +7215,24 @@
           "source_url": "https://www.oedigital.com/news/543888-indonesia-cuts-singapore-pipeline-gas-flows-by-9-to-meet-domestic-demand",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Bahri turns to homegrown yard for $451m VLCC trio",
+          "summary": "Saudi shipping giant Bahri has ordered three very large crude carriers at International Maritime Industries (IMI), committing SAR1.692bn ($451m) to expand its tanker fleet and support shipbuilding at home. The 320,000…",
+          "date": "2026-10-26",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/bahri-turns-to-homegrown-yard-for-451m-vlcc-trio/",
+          "relevant": false,
+          "region": "KSA"
+        },
+        {
+          "title": "NMDC Energy lands $763m in Saudi Aramco offshore contracts",
+          "summary": "UAE-based offshore engineering and construction player NMDC Energy has secured three new offshore projects from Saudi Aramco worth a combined AED 2.8bn ($763.3m). The Abu Dhabi-listed contractor said in a stock exchange…",
+          "date": "2026-10-26",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/nmdc-energy-lands-763m-in-saudi-aramco-offshore-contracts/",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Malaysian owner adds two boxships at local Sapor Shipbuilding",
