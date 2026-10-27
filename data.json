@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T22:00:59Z",
+  "last_updated": "2026-10-27T23:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4289,6 +4289,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "NTSB Calls for New Rules for Uncrewed Vessels After Lake Erie Collision",
+          "summary": "Investigation finds NOAA research vessel was difficult to detect and lacked proper monitoring, exposing gaps in U.S. maritime safety regulations. The National Transportation Safety Board (NTSB) is calling on the...",
+          "date": "2026-10-27",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/ntsb-calls-for-new-rules-for-uncrewed-vessels-after-lake-erie-collision/",
+          "relevant": false
+        },
+        {
           "title": "Russia Says Northern Sea Route Transit Cargo to Nearly Double in 2026",
           "summary": "Russia expects cargo transits along the Northern Sea Route (NSR) to more than double in 2026, marking a substantial increase in Arctic shipping despite Western sanctions, although volumes remain far below Moscow’s…",
           "date": "2026-10-27",
@@ -7505,15 +7513,6 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Yemen’s Houthis Say They Hit Saudi Ras Tanura Oil Refinery With Missile",
-          "summary": "emen's Iran-aligned Houthis said on Tuesday they had hit Saudi Arabia's Ras Tanura oil refinery, the ?biggest in the kingdom, with a ballistic missile.",
-          "date": "2026-10-27",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/yemens-houthis-say-they-hit-saudi-ras-tanura-oil-refinery-with-missile/",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
           "title": "Seatrium and Karpowership eye Southeast Asia floating infrastructure push",
           "summary": "Singapore’s Seatrium and Turkey’s Karpowership are seeking to form a joint venture to develop floating power and digital infrastructure solutions in Singapore, with plans to expand into the wider Southeast Asian market…",
           "date": "2026-10-27",
@@ -7575,6 +7574,15 @@
           "source_url": "https://www.oedigital.com/news/543916-inpex-moves-21b-indonesian-lng-project-closer-to-investment-decision",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Yemen’s Houthis Say They Hit Saudi Ras Tanura Oil Refinery With Missile",
+          "summary": "emen's Iran-aligned Houthis said on Tuesday they had hit Saudi Arabia's Ras Tanura oil refinery, the ?biggest in the kingdom, with a ballistic missile.",
+          "date": "2026-10-27",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/yemens-houthis-say-they-hit-saudi-ras-tanura-oil-refinery-with-missile/",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "Sembcorp Gets Conditional Approval to Import 1.3GW of Power into Singapore",
