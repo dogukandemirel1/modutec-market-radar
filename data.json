@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T08:01:00Z",
+  "last_updated": "2026-10-27T09:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4089,6 +4089,14 @@
           "relevant": false
         },
         {
+          "title": "Woodside Agrees to Sell Greater Sunrise Stake to TIMOR GAP for Up to $200M",
+          "summary": "Woodside Energy has agreed to sell its 33.44% participating interest in the Greater Sunrise gas project in the Timor Sea to Timor-Leste's national oil and gas company TIMOR GAP for up to $200 million…",
+          "date": "2026-10-27",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543914-woodside-agrees-to-sell-greater-sunrise-stake-to-timor-gap-for-up-to-200m",
+          "relevant": false
+        },
+        {
           "title": "Dubai’s DP World in Talks on Alliance With Northern Canada Port",
           "summary": "Dubai’s DP World Ltd. is set to unveil a deal backing potential development of Canada’s port of Churchill, a northern outpost that Prime Minister Mark Carney aims to expand for exports to Europe and other markets.",
           "date": "2026-10-26",
@@ -6073,6 +6081,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "TotalEnergies Sells Renaissance JV Oil Interest for $800M",
+          "summary": "TotalEnergies has completed the sale of its 10% non-operated oil interest in Nigeria's Renaissance joint venture (JV) licenses to Vaaris for $800 million, while…",
+          "date": "2026-10-27",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543913-totalenergies-sells-renaissance-jv-oil-interest-for-800m",
+          "relevant": false
+        },
+        {
           "title": "Chouest Group Acquires Canada’s Horizon Maritime in Major Expansion",
           "summary": "The Louisiana-based Chouest Group has acquired Canadian marine and offshore services provider Horizon Maritime, expanding its presence across Canada’s East and West coasts and into the Arctic. The deal, announced...",
           "date": "2026-10-26",
@@ -7160,6 +7176,24 @@
           "source_url": "https://splash247.com/jade-pacific-makes-liner-debut-with-red-sea-service/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Energy Drilling lines up 30-month job to keep its rig busy through 2030",
+          "summary": "Energy Drilling has secured a multimillion-dollar offshore drilling campaign in Southeast Asia for its 2013-built rig, ensuring work until decade-end.",
+          "date": "2026-10-27",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/27/energy-drilling-lines-up-30-month-job-to-keep-its-rig-busy-through-2030",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Aramco Closes In on $10B Loan",
+          "summary": "The Saudi Arabian state-backed oil company is nearing agreement with international banks on a $10 billion loan that would bolster its finances as conflicts in the Middle East threaten crude exports.",
+          "date": "2026-10-27",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/aramco_closes_in_on_10b_loan-27-oct-2026-184938-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "Tanker Disabled in Strait of Hormuz Attack, Another Vessel Reported on Fire in Persian Gulf",
