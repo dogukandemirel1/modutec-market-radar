@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T09:01:05Z",
+  "last_updated": "2026-10-27T09:45:45Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -176,6 +176,22 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Yangzijiang Maritime cashes in on MR newbuilds with $308m sale",
+          "summary": "Singapore-listed Yangzijiang Maritime Development has struck deals to sell six MR tanker newbuildings for a combined $308m, taking the value of its contracted vessel resales to $805m over the past ten months. The Ren…",
+          "date": "2026-10-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/yangzijiang-maritime-cashes-in-on-mr-newbuilds-with-308m-sale/",
+          "relevant": false
+        },
+        {
+          "title": "Energy Drilling Lands $87M Drilling Job Offshore Malaysia",
+          "summary": "Energy Drilling, a wholly owned subsidiary of SED Energy Holdings, has received a letter of award from Carigali-PTTEPI Operating Company (CPOC) for a 30-month offshore drilling campaign in Malaysia…",
+          "date": "2026-10-27",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543917-energy-drilling-lands-87m-drilling-job-offshore-malaysia",
+          "relevant": false
+        },
         {
           "title": "Fresh contract haul strengthens Noble’s 2027 rig coverage",
           "summary": "Offshore drilling giant Noble Corporation has announced a batch of new rig deals, totalling around $560m. Noble’s two 2014-built 7th-generation drillships, the Noble BlackRhino and Noble BlackHawk, both bagged new work…",
@@ -7194,6 +7210,15 @@
           "source_url": "https://www.rigzone.com/news/wire/aramco_closes_in_on_10b_loan-27-oct-2026-184938-article/?rss=true",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Inpex Moves $21B Indonesian LNG Project Closer to Investment Decision",
+          "summary": "Japanese explorer Inpex has completed the planning and engineering phase of its Abadi LNG project at Indonesia's Masela gas block, an official said on Tuesday, reaching…",
+          "date": "2026-10-27",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543916-inpex-moves-21b-indonesian-lng-project-closer-to-investment-decision",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Tanker Disabled in Strait of Hormuz Attack, Another Vessel Reported on Fire in Persian Gulf",
