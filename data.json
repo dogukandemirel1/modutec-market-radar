@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T09:45:45Z",
+  "last_updated": "2026-10-27T10:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -182,6 +182,14 @@
           "date": "2026-10-27",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/yangzijiang-maritime-cashes-in-on-mr-newbuilds-with-308m-sale/",
+          "relevant": false
+        },
+        {
+          "title": "Fugro Secures UXO Survey and Clearance Work for German Offshore Grid Links",
+          "summary": "Fugro has secured a contract from 50Hertz to carry out unexploded ordnance (UXO) survey, identification and clearance work for the LanWin3 and LanWin6 offshore grid…",
+          "date": "2026-10-27",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543918-fugro-secures-uxo-survey-and-clearance-work-for-german-offshore-grid-links",
           "relevant": false
         },
         {
@@ -4097,19 +4105,19 @@
           "relevant": false
         },
         {
-          "title": "Shipping cuts training when it needs it most",
-          "summary": "Irene Rosberg, who runs the Blue MBA at Copenhagen Business School, returns to Splash today. When business conditions become difficult, training is often one of the easiest budgets to cut. In shipping, that is becoming…",
-          "date": "2026-10-27",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/shipping-cuts-training-when-it-needs-it-most/",
-          "relevant": false
-        },
-        {
           "title": "Woodside Agrees to Sell Greater Sunrise Stake to TIMOR GAP for Up to $200M",
           "summary": "Woodside Energy has agreed to sell its 33.44% participating interest in the Greater Sunrise gas project in the Timor Sea to Timor-Leste's national oil and gas company TIMOR GAP for up to $200 million…",
           "date": "2026-10-27",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543914-woodside-agrees-to-sell-greater-sunrise-stake-to-timor-gap-for-up-to-200m",
+          "relevant": false
+        },
+        {
+          "title": "Shipping cuts training when it needs it most",
+          "summary": "Irene Rosberg, who runs the Blue MBA at Copenhagen Business School, returns to Splash today. When business conditions become difficult, training is often one of the easiest budgets to cut. In shipping, that is becoming…",
+          "date": "2026-10-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/shipping-cuts-training-when-it-needs-it-most/",
           "relevant": false
         },
         {
