@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T16:02:16Z",
+  "last_updated": "2026-10-27T17:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8,6 +8,14 @@
       "short_title": "Day-Rates",
       "description": "Benchmark day-rate trends for jackups, floaters and offshore support vessels across key regions.",
       "items": [
+        {
+          "title": "Dolphin Drilling sells Blackford Dolphin semisub to SPM",
+          "summary": "Dolphin Drilling signed a sale and purchase agreement on 26 October to sell the semisubmersible Blackford Dolphin to SPM Energy Shipping for up to $25 million. SPM will pay $10 million on delivery of the rig and $15…",
+          "date": "2026-10-27",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/dolphin-drilling-sells-blackford-dolphin-semisub-to-spm-80607",
+          "relevant": false
+        },
         {
           "title": "Dolphin Drilling sells ageing semisub and eyes rig management tie-up",
           "summary": "Norwegian offshore drilling contractor Dolphin Drilling has agreed to sell its Blackford Dolphin semisubmersible rig to Dubai-based SPM Energy Shipping for up to $25m, while establishing a potential partnership to…",
@@ -201,6 +209,22 @@
           "relevant": false
         },
         {
+          "title": "Noble sets Globetrotter II sale, books new work in four regions",
+          "summary": "Noble Corp disclosed a pending $38 million sale of the drillship Noble Globetrotter II and a new round of contract awards in its Q3 2026 results on 26 October. The Globetrotter II sale is expected to close in Q4. Noble…",
+          "date": "2026-10-27",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/noble-sets-globetrotter-ii-sale-books-new-work-in-four-regions-80610",
+          "relevant": false
+        },
+        {
+          "title": "Energy Drilling lands Phase 7 drilling work for T-16 in Malaysia",
+          "summary": "Energy Drilling received a letter of award from Carigali-PTTEPI (CPOC) for a 30-month offshore campaign with its tender-assist drilling rig T-16 in Malaysia. The award includes options for up to 15 additional months…",
+          "date": "2026-10-27",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/energy-drilling-lands-phase-7-drilling-work-for-t-16-in-malaysia-80599",
+          "relevant": false
+        },
+        {
           "title": "ND26_NOVCensus4",
           "summary": "The post ND26_NOVCensus4 appeared first on Drilling Contractor .",
           "date": "2026-10-27",
@@ -241,46 +265,6 @@
           "relevant": false
         },
         {
-          "title": "ND26_Offshore2",
-          "summary": "The post ND26_Offshore2 appeared first on Drilling Contractor .",
-          "date": "2026-10-27",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/nd26_offshore2-80570",
-          "relevant": false
-        },
-        {
-          "title": "ND26_Offshore1",
-          "summary": "The post ND26_Offshore1 appeared first on Drilling Contractor .",
-          "date": "2026-10-27",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/nd26_offshore1-80568",
-          "relevant": false
-        },
-        {
-          "title": "ND26_Venezuela",
-          "summary": "The post ND26_Venezuela appeared first on Drilling Contractor .",
-          "date": "2026-10-27",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/nd26_venezuela-80558",
-          "relevant": false
-        },
-        {
-          "title": "ND26_Onshore4",
-          "summary": "The post ND26_Onshore4 appeared first on Drilling Contractor .",
-          "date": "2026-10-27",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/nd26_onshore4-80554",
-          "relevant": false
-        },
-        {
-          "title": "ND26_Onshore3",
-          "summary": "The post ND26_Onshore3 appeared first on Drilling Contractor .",
-          "date": "2026-10-27",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/nd26_onshore3-80552",
-          "relevant": false
-        },
-        {
           "title": "Fugro wins UXO survey contract for German offshore grid connections",
           "summary": "Fugro has been awarded a contract by 50Hertz to deliver unexploded ordnance (UXO) survey, identification and clearance services for the LanWin3...",
           "date": "2026-10-27",
@@ -318,6 +302,46 @@
           "date": "2026-10-27",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543917-energy-drilling-lands-87m-drilling-job-offshore-malaysia",
+          "relevant": false
+        },
+        {
+          "title": "ND26_Offshore2",
+          "summary": "The post ND26_Offshore2 appeared first on Drilling Contractor .",
+          "date": "2026-10-27",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/nd26_offshore2-80570",
+          "relevant": false
+        },
+        {
+          "title": "ND26_Offshore1",
+          "summary": "The post ND26_Offshore1 appeared first on Drilling Contractor .",
+          "date": "2026-10-27",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/nd26_offshore1-80568",
+          "relevant": false
+        },
+        {
+          "title": "ND26_Venezuela",
+          "summary": "The post ND26_Venezuela appeared first on Drilling Contractor .",
+          "date": "2026-10-27",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/nd26_venezuela-80558",
+          "relevant": false
+        },
+        {
+          "title": "ND26_Onshore4",
+          "summary": "The post ND26_Onshore4 appeared first on Drilling Contractor .",
+          "date": "2026-10-27",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/nd26_onshore4-80554",
+          "relevant": false
+        },
+        {
+          "title": "ND26_Onshore3",
+          "summary": "The post ND26_Onshore3 appeared first on Drilling Contractor .",
+          "date": "2026-10-27",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/nd26_onshore3-80552",
           "relevant": false
         },
         {
@@ -4241,6 +4265,14 @@
           "relevant": false
         },
         {
+          "title": "Equinor to drill North Sea wildcat with COSLPromoter",
+          "summary": "The Norwegian Offshore Directorate (Sodir) granted Equinor a drilling permit on 27 October for wildcat wellbore 33/9-F-4 DH in the North Sea. The permit was issued under Section 13 of the Resource Management Regulations…",
+          "date": "2026-10-27",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/equinor-to-drill-north-sea-wildcat-with-coslpromoter-80605",
+          "relevant": false
+        },
+        {
           "title": "Woodside passes the baton for offshore gas project to Timor Gap in $200 million deal",
           "summary": "Timor Gap is taking over the reins for a gas project in the Timor Sea from Woodside with completion of the takeover anticipated in H1 2027.",
           "date": "2026-10-27",
@@ -6305,14 +6337,6 @@
           "relevant": false
         },
         {
-          "title": "Chouest Group Acquires Canada’s Horizon Maritime in Major Expansion",
-          "summary": "The Louisiana-based Chouest Group has acquired Canadian marine and offshore services provider Horizon Maritime, expanding its presence across Canada’s East and West coasts and into the Arctic. The deal, announced...",
-          "date": "2026-10-26",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/chouest-group-acquires-canadas-horizon-maritime-in-major-expansion/",
-          "relevant": false
-        },
-        {
           "title": "Israel to Supply Cyprus with an Offshore Patrol Vessel Equipped with Advanced Naval Systems",
           "summary": "On October 26, 2026, the Israeli Ministry of Defense (IMOD) and the Ministry of Defence of the Republic of Cyprus signed an agreement for the acquisition of a new Offshore Patrol Vessel (OPV). Israeli MoD press release…",
           "date": "2026-10-26",
@@ -6326,6 +6350,14 @@
           "date": "2026-10-26",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/26/reach-subsea-and-eidesviks-2009-built-imr-vessel-delivered-to-new-owners",
+          "relevant": false
+        },
+        {
+          "title": "Chouest Group Acquires Canada’s Horizon Maritime in Major Expansion",
+          "summary": "The Louisiana-based Chouest Group has acquired Canadian marine and offshore services provider Horizon Maritime, expanding its presence across Canada’s East and West coasts and into the Arctic. The deal, announced...",
+          "date": "2026-10-26",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/chouest-group-acquires-canadas-horizon-maritime-in-major-expansion/",
           "relevant": false
         },
         {
@@ -7422,7 +7454,7 @@
         },
         {
           "title": "ADNOC 'Unlocks' $16B in UAE Manufacturing Opportunities",
-          "summary": "ADNOC announced that it has 'unlock[ed]' over AED 60 billion ($16.3 billion) in UAE manufacturing opportunities and 'transform[ed]…' how suppliers access and compete for its business.",
+          "summary": "ADNOC announced that it has 'unlock[ed]' over AED 60 billion ($16.3 billion) in UAE manufacturing opportunities and 'transform[ed]...' how suppliers access and compete for its business.",
           "date": "2026-10-27",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/adnoc_unlocks_16b_in_uae_manufacturing_opportunities-27-oct-2026-184946-article/?rss=true",
@@ -7474,15 +7506,6 @@
           "region": "SEA"
         },
         {
-          "title": "Oil Spill Off UAE Widens, Satellite Images Show, Prompting More Beach Closures",
-          "summary": "An oil spill from a damaged tanker off the coast of the United Arab Emirates has widened, satellite images showed, triggering more beach closures and raising environmental concerns.",
-          "date": "2026-10-26",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/oil-spill-off-uae-widens-satellite-images-show-prompting-more-beach-closures/",
-          "relevant": true,
-          "region": "UAE"
-        },
-        {
           "title": "Sembcorp Gets Conditional Approval to Import 1.3GW of Power into Singapore",
           "summary": "Singapore's government has conditionally authorized state-backed Sembcorp Utilities to import 1.3 gigawatts of renewable electricity, advancing a tripartite energy pact with Malaysia and Vietnam.",
           "date": "2026-10-26",
@@ -7499,6 +7522,15 @@
           "source_url": "https://www.rigzone.com/news/saudi_singapore_announce_oil_storage_deal-26-oct-2026-184928-article/?rss=true",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Oil Spill Off UAE Widens, Satellite Images Show, Prompting More Beach Closures",
+          "summary": "An oil spill from a damaged tanker off the coast of the United Arab Emirates has widened, satellite images showed, triggering more beach closures and raising environmental concerns.",
+          "date": "2026-10-26",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/oil-spill-off-uae-widens-satellite-images-show-prompting-more-beach-closures/",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Saudi, Turkish Officials Travel to Iran to Cool Tensions",
