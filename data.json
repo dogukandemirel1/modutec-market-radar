@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T20:01:03Z",
+  "last_updated": "2026-10-27T21:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -184,6 +184,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Trump Administration Awards $498 Million for U.S. Port Upgrades, Below Recent Funding Levels",
+          "summary": "The Trump administration announced $498 million in federal grants Tuesday to modernize U.S. ports, funding 35 projects across 19 states ranging from aging dock replacements and cargo-handling equipment to fuel...",
+          "date": "2026-10-27",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/trump-administration-awards-498-million-for-u-s-port-upgrades-below-recent-funding-levels/",
+          "relevant": false
+        },
         {
           "title": "New RAmparts 3800 Ship-Handling/Fire-Fighting 2 Tug Design for Ningbo Port",
           "summary": "Robert Allan Ltd. is pleased to announce the award to design a new RAmparts 3800 Ship-Handling/Fire-Fighting 2 (FiFi 2) tug for Ningbo Port. The vessel will be constructed by Jiangsu Zhenjiang Shipyard...",
@@ -4281,6 +4289,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Russia Says Northern Sea Route Transit Cargo to Nearly Double in 2026",
+          "summary": "Russia expects cargo transits along the Northern Sea Route (NSR) to more than double in 2026, marking a substantial increase in Arctic shipping despite Western sanctions, although volumes remain far below Moscow’s…",
+          "date": "2026-10-27",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/russia-says-northern-sea-route-transit-cargo-to-nearly-double-in-2026/",
+          "relevant": false
+        },
+        {
           "title": "Wall Street splits over tanker boom",
           "summary": "Wall Street’s increasingly divided outlook for the tanker supercycle has taken another twist, with investment bank Evercore ISI dramatically raising its freight forecasts and share price targets while warning that the…",
           "date": "2026-10-27",
@@ -4326,6 +4342,14 @@
           "date": "2026-10-27",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/eni_exits_nigerias_onshore_upstream_sector-27-oct-2026-184942-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Woodside to sell Sunrise JV interest to TIMOR GAP",
+          "summary": "Woodside Energy has agreed to sell its 33.44% participating interest in the Sunrise JV to TIMOR GAP, in a transaction worth up to $200m.",
+          "date": "2026-10-27",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/woodside-sunrise-jv-timor-gap/",
           "relevant": false
         },
         {
@@ -6337,6 +6361,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Villa Vie Odyssey’s ‘Endless’ World Cruise Comes to a Halt in Cambodia as Fuel Costs Soar",
+          "summary": "Villa Vie Residences has suspended operations of its residential cruise ship Villa Vie Odyssey in Cambodia, forcing residents to disembark as soaring fuel costs push the company toward financial restructuring....",
+          "date": "2026-10-27",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/villa-vie-odysseys-endless-world-cruise-comes-to-a-halt-in-cambodia-as-fuel-costs-soar/",
+          "relevant": false
+        },
+        {
           "title": "Chouest Group acquires Canada’s Horizon Maritime",
           "summary": "US offshore services giant Chouest Group has acquired Canadian marine and offshore services provider Horizon Maritime, expanding its presence across Canada’s east and west coasts and into the Arctic. The Louisiana-based…",
           "date": "2026-10-27",
@@ -7545,14 +7577,6 @@
           "region": "SEA"
         },
         {
-          "title": "Tanker Disabled in Strait of Hormuz Attack, Another Vessel Reported on Fire in Persian Gulf",
-          "summary": "Two new maritime security warnings issued Monday point to continued dangers for commercial shipping in the Middle East, with one tanker confirmed disabled by a projectile in the Strait of...",
-          "date": "2026-10-26",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/tanker-disabled-in-strait-of-hormuz-attack-another-vessel-reported-on-fire-in-persian-gulf/",
-          "relevant": false
-        },
-        {
           "title": "Sembcorp Gets Conditional Approval to Import 1.3GW of Power into Singapore",
           "summary": "Singapore's government has conditionally authorized state-backed Sembcorp Utilities to import 1.3 gigawatts of renewable electricity, advancing a tripartite energy pact with Malaysia and Vietnam.",
           "date": "2026-10-26",
@@ -7569,6 +7593,14 @@
           "source_url": "https://www.rigzone.com/news/saudi_singapore_announce_oil_storage_deal-26-oct-2026-184928-article/?rss=true",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Tanker Disabled in Strait of Hormuz Attack, Another Vessel Reported on Fire in Persian Gulf",
+          "summary": "Two new maritime security warnings issued Monday point to continued dangers for commercial shipping in the Middle East, with one tanker confirmed disabled by a projectile in the Strait of...",
+          "date": "2026-10-26",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/tanker-disabled-in-strait-of-hormuz-attack-another-vessel-reported-on-fire-in-persian-gulf/",
+          "relevant": false
         },
         {
           "title": "Singapore Yards Chase Profit From Europe’s Offshore Wind Push",
