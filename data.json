@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T16:01:08Z",
+  "last_updated": "2026-10-28T17:01:11Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -209,6 +209,22 @@
           "relevant": false
         },
         {
+          "title": "Eni awards Saipem drilling contracts for Cyprus and Ghana",
+          "summary": "Saipem won two offshore drilling contracts from Eni subsidiaries, one for the drillship Saipem 10000 offshore Cyprus and one for the semisubmersible Scarabeo 9 offshore Ghana. The awards add visibility on fleet…",
+          "date": "2026-10-28",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/eni-awards-saipem-drilling-contracts-for-cyprus-and-ghana-80644",
+          "relevant": false
+        },
+        {
+          "title": "ADES books Indonesia contract, one-year Angola extension for Shelf Drilling jackups",
+          "summary": "ADES secured new work for two jackups from its Shelf Drilling fleet, signing the Shelf Drilling Perseverance to PT Pertamina Hulu Mahakam (PHM) in Indonesia and receiving notice that a major international oil company…",
+          "date": "2026-10-28",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/ades-books-indonesia-contract-and-one-year-angola-extension-for-shelf-drilling-jackups-80637",
+          "relevant": false
+        },
+        {
           "title": "Shell ups its production ante with first oil from US Gulf project’s third chapter",
           "summary": "Shell has tied new wells into an existing floating oil facility, boosting deepwater output in the U.S. Gulf of Mexico (Gulf of America).",
           "date": "2026-10-28",
@@ -289,14 +305,6 @@
           "relevant": false
         },
         {
-          "title": "Drilling & Completion News",
-          "summary": "Valaris announces contracts, extensions spanning Asia Pacific, North Sea; sells 2 rigs for recycling Valaris recently announced that it was awarded new contracts and contract extensions with an associated contract…",
-          "date": "2026-10-27",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/drilling-completion-news-85-80499",
-          "relevant": false
-        },
-        {
           "title": "Fugro wins UXO survey contract for German offshore grid connections",
           "summary": "Fugro has been awarded a contract by 50Hertz to deliver unexploded ordnance (UXO) survey, identification and clearance services for the LanWin3...",
           "date": "2026-10-27",
@@ -318,6 +326,14 @@
           "date": "2026-10-27",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543930-seatrium-karpowership-link-up-on-floating-power-and-digital-infrastructure",
+          "relevant": false
+        },
+        {
+          "title": "Drilling & Completion News",
+          "summary": "Valaris announces contracts, extensions spanning Asia Pacific, North Sea; sells 2 rigs for recycling Valaris recently announced that it was awarded new contracts and contract extensions with an associated contract…",
+          "date": "2026-10-27",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/drilling-completion-news-85-80499",
           "relevant": false
         },
         {
@@ -4369,6 +4385,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "US Tells Ships to Avoid Unnecessary Transits Through Hormuz",
+          "summary": "(Bloomberg) — The US military said vessels that have no need to move between ports in the Gulf of Oman and the Strait of Hormuz should stay away, as tensions...",
+          "date": "2026-10-28",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/us-tells-ships-to-avoid-unnecessary-transits-through-hormuz/",
+          "relevant": false
+        },
+        {
           "title": "Woodside exits delayed Timor-Leste gas project",
           "summary": "Australian energy major Woodside has agreed to sell its entire 33.44% stake in the long-delayed Greater Sunrise gas development to Timor-Leste’s state-owned energy company TIMOR GAP for up to $200m. The agreement could…",
           "date": "2026-10-28",
@@ -4449,14 +4473,6 @@
           "relevant": false
         },
         {
-          "title": "2026 Operational Summary",
-          "summary": "By Christine Cantera, Editorial Assistant Government & Industry Affairs IADC’s Government & Industry Affairs (GIA) team works to make sure the drilling industry’s perspective reaches lawmakers, regulators and other…",
-          "date": "2026-10-27",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/2026-operational-summary-80483",
-          "relevant": false
-        },
-        {
           "title": "Woodside passes the baton for offshore gas project to Timor Gap in $200 million deal",
           "summary": "Timor Gap is taking over the reins for a gas project in the Timor Sea from Woodside with completion of the takeover anticipated in H1 2027.",
           "date": "2026-10-27",
@@ -4486,6 +4502,14 @@
           "date": "2026-10-27",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/woodside-sunrise-jv-timor-gap/",
+          "relevant": false
+        },
+        {
+          "title": "2026 Operational Summary",
+          "summary": "By Christine Cantera, Editorial Assistant Government & Industry Affairs IADC’s Government & Industry Affairs (GIA) team works to make sure the drilling industry’s perspective reaches lawmakers, regulators and other…",
+          "date": "2026-10-27",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/2026-operational-summary-80483",
           "relevant": false
         },
         {
@@ -6504,6 +6528,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "Baker Hughes Profit Beats Estimates",
+          "summary": "The Houston-based energy technology company credited results to the Chart acquisition and higher volumes and prices.",
+          "date": "2026-10-28",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/baker_hughes_profit_beats_estimates-28-oct-2026-184957-article/?rss=true",
+          "relevant": false
+        },
         {
           "title": "Trench Group to Be Acquired by GE Vernova",
           "summary": "GE Vernova Inc. announced that it will acquire Trench Group, a provider of high-voltage grid equipment, from investment firm Triton Partners. The deal will create…",
