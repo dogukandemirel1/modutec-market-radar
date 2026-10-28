@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T20:01:07Z",
+  "last_updated": "2026-10-28T21:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -281,14 +281,6 @@
           "relevant": false
         },
         {
-          "title": "Trump Administration Awards $498 Million for U.S. Port Upgrades, Below Recent Funding Levels",
-          "summary": "The Trump administration announced $498 million in federal grants Tuesday to modernize U.S. ports, funding 35 projects across 19 states ranging from aging dock replacements and cargo-handling equipment to fuel...",
-          "date": "2026-10-27",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/trump-administration-awards-498-million-for-u-s-port-upgrades-below-recent-funding-levels/",
-          "relevant": false
-        },
-        {
           "title": "Much more digital content on the way – subscribe now",
           "summary": "By Linda Hsieh, Editor & Publisher At IADC, this magazine – Drilling Contractor – is part of our heritage. Its publication kicked off just four years after the association was founded in 1940, while it was still known…",
           "date": "2026-10-27",
@@ -310,6 +302,14 @@
           "date": "2026-10-27",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/eni-execution-phase-cronos-project-cyprus/",
+          "relevant": false
+        },
+        {
+          "title": "Trump Administration Awards $498 Million for U.S. Port Upgrades, Below Recent Funding Levels",
+          "summary": "The Trump administration announced $498 million in federal grants Tuesday to modernize U.S. ports, funding 35 projects across 19 states ranging from aging dock replacements and cargo-handling equipment to fuel...",
+          "date": "2026-10-27",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/trump-administration-awards-498-million-for-u-s-port-upgrades-below-recent-funding-levels/",
           "relevant": false
         },
         {
@@ -4457,14 +4457,6 @@
           "relevant": false
         },
         {
-          "title": "Russia Says Northern Sea Route Transit Cargo to Nearly Double in 2026",
-          "summary": "Russia expects cargo transits along the Northern Sea Route (NSR) to more than double in 2026, marking a substantial increase in Arctic shipping despite Western sanctions, although volumes remain far below Moscow’s…",
-          "date": "2026-10-27",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/russia-says-northern-sea-route-transit-cargo-to-nearly-double-in-2026/",
-          "relevant": false
-        },
-        {
           "title": "Oil & Gas Markets",
           "summary": "Another decline in exploration spend shows US E&Ps keeping focus on development US E&Ps kept exploration a secondary priority while moderately boosting development spending in 2025, indicating their continued focus on…",
           "date": "2026-10-27",
@@ -4502,6 +4494,14 @@
           "date": "2026-10-27",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/woodside-sunrise-jv-timor-gap/",
+          "relevant": false
+        },
+        {
+          "title": "Russia Says Northern Sea Route Transit Cargo to Nearly Double in 2026",
+          "summary": "Russia expects cargo transits along the Northern Sea Route (NSR) to more than double in 2026, marking a substantial increase in Arctic shipping despite Western sanctions, although volumes remain far below Moscow’s…",
+          "date": "2026-10-27",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/russia-says-northern-sea-route-transit-cargo-to-nearly-double-in-2026/",
           "relevant": false
         },
         {
