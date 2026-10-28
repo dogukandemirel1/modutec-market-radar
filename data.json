@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T06:01:04Z",
+  "last_updated": "2026-10-28T07:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -217,14 +217,6 @@
           "relevant": false
         },
         {
-          "title": "Yangzijiang Maritime cashes in on MR newbuilds with $308m sale",
-          "summary": "Singapore-listed Yangzijiang Maritime Development has struck deals to sell six MR tanker newbuildings for a combined $308m, taking the value of its contracted vessel resales to $805m over the past ten months. The Ren…",
-          "date": "2026-10-27",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/yangzijiang-maritime-cashes-in-on-mr-newbuilds-with-308m-sale/",
-          "relevant": false
-        },
-        {
           "title": "Much more digital content on the way – subscribe now",
           "summary": "By Linda Hsieh, Editor & Publisher At IADC, this magazine – Drilling Contractor – is part of our heritage. Its publication kicked off just four years after the association was founded in 1940, while it was still known…",
           "date": "2026-10-27",
@@ -278,6 +270,14 @@
           "date": "2026-10-27",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543917-energy-drilling-lands-87m-drilling-job-offshore-malaysia",
+          "relevant": false
+        },
+        {
+          "title": "Yangzijiang Maritime cashes in on MR newbuilds with $308m sale",
+          "summary": "Singapore-listed Yangzijiang Maritime Development has struck deals to sell six MR tanker newbuildings for a combined $308m, taking the value of its contracted vessel resales to $805m over the past ten months. The Ren…",
+          "date": "2026-10-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/yangzijiang-maritime-cashes-in-on-mr-newbuilds-with-308m-sale/",
           "relevant": false
         },
         {
@@ -4305,14 +4305,6 @@
           "relevant": false
         },
         {
-          "title": "Wall Street splits over tanker boom",
-          "summary": "Wall Street’s increasingly divided outlook for the tanker supercycle has taken another twist, with investment bank Evercore ISI dramatically raising its freight forecasts and share price targets while warning that the…",
-          "date": "2026-10-27",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/wall-street-splits-over-tanker-boom/",
-          "relevant": false
-        },
-        {
           "title": "Oil & Gas Markets",
           "summary": "Another decline in exploration spend shows US E&Ps keeping focus on development US E&Ps kept exploration a secondary priority while moderately boosting development spending in 2025, indicating their continued focus on…",
           "date": "2026-10-27",
@@ -4366,6 +4358,14 @@
           "date": "2026-10-27",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543914-woodside-agrees-to-sell-greater-sunrise-stake-to-timor-gap-for-up-to-200m",
+          "relevant": false
+        },
+        {
+          "title": "Wall Street splits over tanker boom",
+          "summary": "Wall Street’s increasingly divided outlook for the tanker supercycle has taken another twist, with investment bank Evercore ISI dramatically raising its freight forecasts and share price targets while warning that the…",
+          "date": "2026-10-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/wall-street-splits-over-tanker-boom/",
           "relevant": false
         },
         {
@@ -7522,15 +7522,6 @@
           "region": "SEA"
         },
         {
-          "title": "Jade Pacific makes liner debut with Red Sea service",
-          "summary": "A new Singapore-based container shipping company headed by former SeaLead executives has entered the liner trades with a service connecting India, Pakistan and Egypt’s Red Sea coast. Jade Pacific Line (JPL), established…",
-          "date": "2026-10-27",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/jade-pacific-makes-liner-debut-with-red-sea-service/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Energy Drilling lines up 30-month job to keep its rig busy through 2030",
           "summary": "Energy Drilling has secured a multimillion-dollar offshore drilling campaign in Southeast Asia for its 2013-built rig, ensuring work until decade-end.",
           "date": "2026-10-27",
@@ -7572,6 +7563,15 @@
           "date": "2026-10-27",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543916-inpex-moves-21b-indonesian-lng-project-closer-to-investment-decision",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Jade Pacific makes liner debut with Red Sea service",
+          "summary": "A new Singapore-based container shipping company headed by former SeaLead executives has entered the liner trades with a service connecting India, Pakistan and Egypt’s Red Sea coast. Jade Pacific Line (JPL), established…",
+          "date": "2026-10-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/jade-pacific-makes-liner-debut-with-red-sea-service/",
           "relevant": false,
           "region": "SEA"
         },
