@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T10:30:36Z",
+  "last_updated": "2026-10-28T11:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -206,6 +206,14 @@
           "date": "2026-10-28",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/28/deepocean-to-employ-recently-upgraded-subsea-vessel-offshore-ghana",
+          "relevant": false
+        },
+        {
+          "title": "Strohm Nets Ultra-Deepwater Supply Deal for Southeast Asia’s Gas Scheme",
+          "summary": "Thermoplastic composite pipe (TCP) manufacturer Strohm has secured a contract to supply four gas production jumpers for an ultra-deepwater field in Southeast Asia…",
+          "date": "2026-10-28",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543953-strohm-nets-ultra-deepwater-supply-deal-for-southeast-asia-s-gas-scheme",
           "relevant": false
         },
         {
@@ -7584,6 +7592,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "McDermott orders Strohm's gas production jumpers for Southeast Asia",
+          "summary": "Dutch thermoplastic composite pipe (TCP) manufacturer Strohm has secured an order from McDermott for four TCP jumpers to be installed at a...",
+          "date": "2026-10-28",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/28/mcdermott-orders-strohms-gas-production-jumpers-for-southeast-asia",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Damaged Tanker Leaks Oil Across UAE Waters as Spill Widens",
           "summary": "An oil spill from a damaged tanker off the coast of the United Arab Emirates has widened, satellite images showed, triggering more beach closures and raising environmental concerns…",
