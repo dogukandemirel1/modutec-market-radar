@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T08:01:00Z",
+  "last_updated": "2026-10-28T09:01:09Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -198,6 +198,14 @@
           "date": "2026-10-28",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/containership-orderbook-heads-towards-16m-teu/",
+          "relevant": false
+        },
+        {
+          "title": "DeepOcean to employ recently upgraded subsea vessel offshore Ghana",
+          "summary": "DeepOcean has secured a contract with Tullow Ghana Ltd, a subsidiary of the UK-headquartered Tullow Oil, for a riser retermination project in...",
+          "date": "2026-10-28",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/28/deepocean-to-employ-recently-upgraded-subsea-vessel-offshore-ghana",
           "relevant": false
         },
         {
@@ -4313,6 +4321,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Sanctioned Russian tankers head for US carrying diesel",
+          "summary": "Three tankers carrying Russian diesel are heading towards the United States under the controversial agreement between presidents Donald Trump and Vladimir Putin, with Moscow preparing to dispatch a fourth vessel today…",
+          "date": "2026-10-28",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/sanctioned-russian-tankers-head-for-us-carrying-diesel/",
+          "relevant": false
+        },
+        {
           "title": "Shipping’s $275m lesson in the limits of sanctions screening",
           "summary": "A sanctions settlement has exposed a fundamental weakness in shipping’s compliance systems. Wolfgang Lehmacher reports. On paper, Adani Enterprises did what compliance manuals demand. According to OFAC, before each LPG…",
           "date": "2026-10-28",
@@ -7552,6 +7568,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "ADES jackup lines up work offshore Indonesia",
+          "summary": "Saudi offshore drilling contractor ADES Holding has secured a new contract from Pertamina for the Shelf Drilling Perseverance jackup offshore Indonesia. The agreement covers a firm period of 406 days, with an option for…",
+          "date": "2026-10-28",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/ades-jackup-lines-up-work-offshore-indonesia/",
+          "relevant": false,
+          "region": "KSA"
+        },
         {
           "title": "Energy Drilling lines up 30-month job to keep its rig busy through 2030",
           "summary": "Energy Drilling has secured a multimillion-dollar offshore drilling campaign in Southeast Asia for its 2013-built rig, ensuring work until decade-end.",
