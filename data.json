@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T12:01:07Z",
+  "last_updated": "2026-10-28T13:01:10Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -193,11 +193,27 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Noble offloads idle drillship for $38m",
+          "summary": "US offshore drilling contractor Noble Corporation has agreed to sell its 2013-built, sixth-generation drillship, Noble Globetrotter II, for $38m as it continues to dispose of underutilised drilling assets. The…",
+          "date": "2026-10-28",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/noble-offloads-idle-drillship-for-38m/",
+          "relevant": false
+        },
+        {
           "title": "Containership orderbook heads towards 16m teu",
           "summary": "The containership industry’s extraordinary ordering spree is showing no signs of slowing, with the global orderbook now exceeding 15m teu and another wave of megamax contracts poised to push the total towards 16m teu…",
           "date": "2026-10-28",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/containership-orderbook-heads-towards-16m-teu/",
+          "relevant": false
+        },
+        {
+          "title": "Baker Hughes' subsea systems to help fast-track Cyprus's first commercial gas project",
+          "summary": "Baker Hughes has been awarded a contract by Italy’s energy giant Eni for the supply of subsea production systems and services for Cyprus's...",
+          "date": "2026-10-28",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/28/baker-hughes-subsea-systems-to-help-fast-track-cypruss-first-commercial-gas-project",
           "relevant": false
         },
         {
@@ -214,6 +230,14 @@
           "date": "2026-10-28",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/eni_awards_key_contracts_for_cronos_gas_project-28-oct-2026-184949-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Baker Hughes to Supply Subsea Production Systems for Cronos Field off Cyprus",
+          "summary": "Baker Hughes has secured a significant contract from Eni to supply subsea production systems and services for the Cronos deepwater gas development offshore Cyprus…",
+          "date": "2026-10-28",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543957-baker-hughes-to-supply-subsea-production-systems-for-cronos-field-off-cyprus",
           "relevant": false
         },
         {
@@ -4366,6 +4390,14 @@
           "date": "2026-10-28",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/epa-proposes-changes-oil-gas-regulations/",
+          "relevant": false
+        },
+        {
+          "title": "US Targets Faster LNG Expansion with Proposed Regulatory Overhaul",
+          "summary": "A US regulator proposed new rules on Wednesday to hasten liquefied natural gas projects and expand export capacity as part of the Trump administration's larger push…",
+          "date": "2026-10-28",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543954-us-targets-faster-lng-expansion-with-proposed-regulatory-overhaul",
           "relevant": false
         },
         {
