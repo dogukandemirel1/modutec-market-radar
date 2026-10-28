@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T10:01:05Z",
+  "last_updated": "2026-10-28T10:30:36Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4337,19 +4337,19 @@
           "relevant": false
         },
         {
-          "title": "Shipping’s $275m lesson in the limits of sanctions screening",
-          "summary": "A sanctions settlement has exposed a fundamental weakness in shipping’s compliance systems. Wolfgang Lehmacher reports. On paper, Adani Enterprises did what compliance manuals demand. According to OFAC, before each LPG…",
-          "date": "2026-10-28",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/shippings-275m-lesson-in-the-limits-of-sanctions-screening/",
-          "relevant": false
-        },
-        {
           "title": "US EPA proposes changes to oil and gas emissions regulations",
           "summary": "The US EPA proposed changes to Clean Air Act oil and gas emissions rules, including provisions for marginal wells and associated gas flaring.",
           "date": "2026-10-28",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/epa-proposes-changes-oil-gas-regulations/",
+          "relevant": false
+        },
+        {
+          "title": "Shipping’s $275m lesson in the limits of sanctions screening",
+          "summary": "A sanctions settlement has exposed a fundamental weakness in shipping’s compliance systems. Wolfgang Lehmacher reports. On paper, Adani Enterprises did what compliance manuals demand. According to OFAC, before each LPG…",
+          "date": "2026-10-28",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/shippings-275m-lesson-in-the-limits-of-sanctions-screening/",
           "relevant": false
         },
         {
@@ -7584,6 +7584,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Damaged Tanker Leaks Oil Across UAE Waters as Spill Widens",
+          "summary": "An oil spill from a damaged tanker off the coast of the United Arab Emirates has widened, satellite images showed, triggering more beach closures and raising environmental concerns…",
+          "date": "2026-10-28",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543951-damaged-tanker-leaks-oil-across-uae-waters-as-spill-widens",
+          "relevant": true,
+          "region": "UAE"
+        },
         {
           "title": "ADES jackup lines up work offshore Indonesia",
           "summary": "Saudi offshore drilling contractor ADES Holding has secured a new contract from Pertamina for the Shelf Drilling Perseverance jackup offshore Indonesia. The agreement covers a firm period of 406 days, with an option for…",
