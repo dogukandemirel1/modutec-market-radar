@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T11:01:06Z",
+  "last_updated": "2026-10-28T12:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -206,6 +206,14 @@
           "date": "2026-10-28",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/28/deepocean-to-employ-recently-upgraded-subsea-vessel-offshore-ghana",
+          "relevant": false
+        },
+        {
+          "title": "Eni Awards Key Contracts for Cronos Gas Project",
+          "summary": "Eni signed the main engineering, procurement, construction and drilling contracts for Cyprus' first natural gas development, designed to supply Europe via Egypt's liquefied natural gas infrastructure.",
+          "date": "2026-10-28",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/eni_awards_key_contracts_for_cronos_gas_project-28-oct-2026-184949-article/?rss=true",
           "relevant": false
         },
         {
@@ -4345,6 +4353,14 @@
           "relevant": false
         },
         {
+          "title": "Energy on Edge Ahead of USA Midterms",
+          "summary": "Energy markets remain on edge ahead of the U.S. midterm elections, Macquarie strategists said.",
+          "date": "2026-10-28",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/energy_on_edge_ahead_of_usa_midterms-28-oct-2026-184950-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "US EPA proposes changes to oil and gas emissions regulations",
           "summary": "The US EPA proposed changes to Clean Air Act oil and gas emissions rules, including provisions for marginal wells and associated gas flaring.",
           "date": "2026-10-28",
@@ -6481,6 +6497,14 @@
           "relevant": false
         },
         {
+          "title": "Lockheed Martin completes acquisition of Ultra Maritime business",
+          "summary": "Lockheed Martin has completed its acquisition of Ultra Maritime, expanding its portfolio of undersea warfare and anti-submarine warfare (ASW) systems. The post Lockheed Martin completes acquisition of Ultra Maritime…",
+          "date": "2026-10-27",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/lockheed-martin-ultra-maritime-deal/",
+          "relevant": false
+        },
+        {
           "title": "Türkiye Pushes For Further Hydrocarbon Exploration by Year’s End",
           "summary": "Turkey may reach agreements to make acquisitions or further explore for hydrocarbons by the end of the year as part of its target to produce 1 million barrels of oil and natural gas a day…",
           "date": "2026-10-27",
@@ -7593,6 +7617,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Saudi Tanker Giant Posts 10-Fold Profit Jump as Ship Rates Surge",
+          "summary": "Saudi Arabia’s main shipping firm Bahri reported a 10-fold jump in third-quarter profit as its oil tanker business benefited from surging freight rates amid the Iran war.",
+          "date": "2026-10-28",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/saudi-tanker-giant-posts-10-fold-profit-jump-as-ship-rates-surge/",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
           "title": "McDermott orders Strohm's gas production jumpers for Southeast Asia",
           "summary": "Dutch thermoplastic composite pipe (TCP) manufacturer Strohm has secured an order from McDermott for four TCP jumpers to be installed at a...",
           "date": "2026-10-28",
@@ -7600,6 +7633,15 @@
           "source_url": "https://offshore-energy.biz/2026/10/28/mcdermott-orders-strohms-gas-production-jumpers-for-southeast-asia",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "SNOC completes Phase 1 of Hedebah gas-condensate field in UAE",
+          "summary": "SNOC completed Phase 1 development at Hedebah gas-condensate field in Sharjah, resulting in more than a twofold increase in gas production.",
+          "date": "2026-10-28",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/snoc-phase-1-hedebah-gas-field-uae/",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Damaged Tanker Leaks Oil Across UAE Waters as Spill Widens",
