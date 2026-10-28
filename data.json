@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T15:01:07Z",
+  "last_updated": "2026-10-28T16:01:08Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -6505,6 +6505,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Trench Group to Be Acquired by GE Vernova",
+          "summary": "GE Vernova Inc. announced that it will acquire Trench Group, a provider of high-voltage grid equipment, from investment firm Triton Partners. The deal will create…",
+          "date": "2026-10-28",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543967-trench-group-to-be-acquired-by-ge-vernova",
+          "relevant": false
+        },
+        {
           "title": "TotalEnergies Takes 25% Stake in 26 Chevron-Operated US Offshore Blocks",
           "summary": "TotalEnergies has acquired a 25% working interest in 26 Chevron-operated exploration leases offshore the United States, expanding its offshore exploration portfolio…",
           "date": "2026-10-28",
@@ -7681,6 +7689,15 @@
           "source_url": "https://offshore-energy.biz/2026/10/28/mcdermott-orders-strohms-gas-production-jumpers-for-southeast-asia",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Saudi Oil Exports Booming Despite Attacks",
+          "summary": "Saudi Arabia's oil exports are holding near wartime highs this month despite a wave of attacks on the kingdom's energy infrastructure, according to preliminary data from ship-tracking firms.",
+          "date": "2026-10-28",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/saudi_oil_exports_booming_despite_attacks-28-oct-2026-184954-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "SNOC completes Phase 1 of Hedebah gas-condensate field in UAE",
