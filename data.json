@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T09:01:09Z",
+  "last_updated": "2026-10-28T10:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4321,6 +4321,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Woodside exits delayed Timor-Leste gas project",
+          "summary": "Australian energy major Woodside has agreed to sell its entire 33.44% stake in the long-delayed Greater Sunrise gas development to Timor-Leste’s state-owned energy company TIMOR GAP for up to $200m. The agreement could…",
+          "date": "2026-10-28",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/woodside-exits-delayed-timor-leste-gas-project/",
+          "relevant": false
+        },
+        {
           "title": "Sanctioned Russian tankers head for US carrying diesel",
           "summary": "Three tankers carrying Russian diesel are heading towards the United States under the controversial agreement between presidents Donald Trump and Vladimir Putin, with Moscow preparing to dispatch a fourth vessel today…",
           "date": "2026-10-28",
@@ -6425,6 +6433,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "TotalEnergies Takes 25% Stake in 26 Chevron-Operated US Offshore Blocks",
+          "summary": "TotalEnergies has acquired a 25% working interest in 26 Chevron-operated exploration leases offshore the United States, expanding its offshore exploration portfolio…",
+          "date": "2026-10-28",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543949-totalenergies-takes-25-stake-in-26-chevron-operated-us-offshore-blocks",
+          "relevant": false
+        },
+        {
           "title": "Villa Vie Odyssey’s ‘Endless’ World Cruise Comes to a Halt in Cambodia as Fuel Costs Soar",
           "summary": "Villa Vie Residences has suspended operations of its residential cruise ship Villa Vie Odyssey in Cambodia, forcing residents to disembark as soaring fuel costs push the company toward financial restructuring....",
           "date": "2026-10-27",
@@ -6489,19 +6505,19 @@
           "relevant": false
         },
         {
-          "title": "Israel to Supply Cyprus with an Offshore Patrol Vessel Equipped with Advanced Naval Systems",
-          "summary": "On October 26, 2026, the Israeli Ministry of Defense (IMOD) and the Ministry of Defence of the Republic of Cyprus signed an agreement for the acquisition of a new Offshore Patrol Vessel (OPV). Israeli MoD press release…",
-          "date": "2026-10-26",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/israel-to-supply-cyprus-with-an-offshore-patrol-vessel-equipped-with-advanced-naval-systems/",
-          "relevant": false
-        },
-        {
           "title": "Reach Subsea and Eidesvik's 2009-built IMR vessel delivered to new owners",
           "summary": "A joint venture of Reach Subsea and Eidesvik Offshore has delivered the 2009-built, 85-meter-long inspection, maintenance and repair (IMR) vessel...",
           "date": "2026-10-26",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/26/reach-subsea-and-eidesviks-2009-built-imr-vessel-delivered-to-new-owners",
+          "relevant": false
+        },
+        {
+          "title": "Israel to Supply Cyprus with an Offshore Patrol Vessel Equipped with Advanced Naval Systems",
+          "summary": "On October 26, 2026, the Israeli Ministry of Defense (IMOD) and the Ministry of Defence of the Republic of Cyprus signed an agreement for the acquisition of a new Offshore Patrol Vessel (OPV). Israeli MoD press release…",
+          "date": "2026-10-26",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/israel-to-supply-cyprus-with-an-offshore-patrol-vessel-equipped-with-advanced-naval-systems/",
           "relevant": false
         },
         {
