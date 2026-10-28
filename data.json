@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T14:01:06Z",
+  "last_updated": "2026-10-28T15:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -206,6 +206,14 @@
           "date": "2026-10-28",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/containership-orderbook-heads-towards-16m-teu/",
+          "relevant": false
+        },
+        {
+          "title": "Shell ups its production ante with first oil from US Gulf project’s third chapter",
+          "summary": "Shell has tied new wells into an existing floating oil facility, boosting deepwater output in the U.S. Gulf of Mexico (Gulf of America).",
+          "date": "2026-10-28",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/28/shell-ups-its-production-ante-with-first-oil-from-us-gulf-projects-third-chapter",
           "relevant": false
         },
         {
@@ -4374,6 +4382,14 @@
           "date": "2026-10-28",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/sanctioned-russian-tankers-head-for-us-carrying-diesel/",
+          "relevant": false
+        },
+        {
+          "title": "Woodside Exits Planned Greater Sunrise Project",
+          "summary": "Timor-Leste's national oil and gas company will take full control of the Greater Sunrise fields in the jointly managed maritime area agreed between the Southeast Asian country and Australia.",
+          "date": "2026-10-28",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/woodside_exits_planned_greater_sunrise_project-28-oct-2026-184952-article/?rss=true",
           "relevant": false
         },
         {
