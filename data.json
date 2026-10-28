@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T18:01:07Z",
+  "last_updated": "2026-10-28T19:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -289,14 +289,6 @@
           "relevant": false
         },
         {
-          "title": "New RAmparts 3800 Ship-Handling/Fire-Fighting 2 Tug Design for Ningbo Port",
-          "summary": "Robert Allan Ltd. is pleased to announce the award to design a new RAmparts 3800 Ship-Handling/Fire-Fighting 2 (FiFi 2) tug for Ningbo Port. The vessel will be constructed by Jiangsu Zhenjiang Shipyard...",
-          "date": "2026-10-27",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/new-ramparts-3800-ship-handling-fire-fighting-2-tug-design-for-ningbo-port/",
-          "relevant": false
-        },
-        {
           "title": "Much more digital content on the way – subscribe now",
           "summary": "By Linda Hsieh, Editor & Publisher At IADC, this magazine – Drilling Contractor – is part of our heritage. Its publication kicked off just four years after the association was founded in 1940, while it was still known…",
           "date": "2026-10-27",
@@ -318,6 +310,14 @@
           "date": "2026-10-27",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/eni-execution-phase-cronos-project-cyprus/",
+          "relevant": false
+        },
+        {
+          "title": "New RAmparts 3800 Ship-Handling/Fire-Fighting 2 Tug Design for Ningbo Port",
+          "summary": "Robert Allan Ltd. is pleased to announce the award to design a new RAmparts 3800 Ship-Handling/Fire-Fighting 2 (FiFi 2) tug for Ningbo Port. The vessel will be constructed by Jiangsu Zhenjiang Shipyard...",
+          "date": "2026-10-27",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/new-ramparts-3800-ship-handling-fire-fighting-2-tug-design-for-ningbo-port/",
           "relevant": false
         },
         {
@@ -6553,14 +6553,6 @@
           "relevant": false
         },
         {
-          "title": "Villa Vie Odyssey’s ‘Endless’ World Cruise Comes to a Halt in Cambodia as Fuel Costs Soar",
-          "summary": "Villa Vie Residences has suspended operations of its residential cruise ship Villa Vie Odyssey in Cambodia, forcing residents to disembark as soaring fuel costs push the company toward financial restructuring....",
-          "date": "2026-10-27",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/villa-vie-odysseys-endless-world-cruise-comes-to-a-halt-in-cambodia-as-fuel-costs-soar/",
-          "relevant": false
-        },
-        {
           "title": "Dolphin Drilling parts ways with 52-year-old rig and forges pact with SPM",
           "summary": "Dolphin Drilling has sealed a deal to divest its 1974-built rig for up to $25 million and formed a strategic partnership with SPM.",
           "date": "2026-10-27",
@@ -6590,6 +6582,14 @@
           "date": "2026-10-27",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543942-t-rkiye-pushes-for-further-hydrocarbon-exploration-by-year-s-end",
+          "relevant": false
+        },
+        {
+          "title": "Villa Vie Odyssey’s ‘Endless’ World Cruise Comes to a Halt in Cambodia as Fuel Costs Soar",
+          "summary": "Villa Vie Residences has suspended operations of its residential cruise ship Villa Vie Odyssey in Cambodia, forcing residents to disembark as soaring fuel costs push the company toward financial restructuring....",
+          "date": "2026-10-27",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/villa-vie-odysseys-endless-world-cruise-comes-to-a-halt-in-cambodia-as-fuel-costs-soar/",
           "relevant": false
         },
         {
