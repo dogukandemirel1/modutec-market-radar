@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T07:01:03Z",
+  "last_updated": "2026-10-28T08:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8,6 +8,14 @@
       "short_title": "Day-Rates",
       "description": "Benchmark day-rate trends for jackups, floaters and offshore support vessels across key regions.",
       "items": [
+        {
+          "title": "Saipem wins multimillion-dollar rig jobs with Eni in Mediterranean and West Africa",
+          "summary": "Saipem has picked up offshore drilling assignments with Eni off the coasts of Cyprus and Ghana, boosting fleet utilization for 2026 and 2027.",
+          "date": "2026-10-28",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/28/saipem-wins-multimillion-dollar-rig-jobs-with-eni-in-mediterranean-and-west-africa",
+          "relevant": false
+        },
         {
           "title": "Dolphin Drilling sells Blackford Dolphin semisub to SPM",
           "summary": "Dolphin Drilling signed a sale and purchase agreement on 26 October to sell the semisubmersible Blackford Dolphin to SPM Energy Shipping for up to $25 million. SPM will pay $10 million on delivery of the rig and $15…",
@@ -185,6 +193,22 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Containership orderbook heads towards 16m teu",
+          "summary": "The containership industry’s extraordinary ordering spree is showing no signs of slowing, with the global orderbook now exceeding 15m teu and another wave of megamax contracts poised to push the total towards 16m teu…",
+          "date": "2026-10-28",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/containership-orderbook-heads-towards-16m-teu/",
+          "relevant": false
+        },
+        {
+          "title": "BOMESC lands fresh FPSO topsides contract from SBM Offshore",
+          "summary": "Chinese offshore engineering contractor BOMESC has secured another FPSO construction contract from Dutch floater specialist SBM Offshore, worth up to RMB3bn ($420m). The contract was awarded to BOMESC’s wholly owned…",
+          "date": "2026-10-28",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/bomesc-lands-fresh-fpso-topsides-contract-from-sbm-offshore/",
+          "relevant": false
+        },
+        {
           "title": "Trump Administration Awards $498 Million for U.S. Port Upgrades, Below Recent Funding Levels",
           "summary": "The Trump administration announced $498 million in federal grants Tuesday to modernize U.S. ports, funding 35 projects across 19 states ranging from aging dock replacements and cargo-handling equipment to fuel...",
           "date": "2026-10-27",
@@ -198,22 +222,6 @@
           "date": "2026-10-27",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/new-ramparts-3800-ship-handling-fire-fighting-2-tug-design-for-ningbo-port/",
-          "relevant": false
-        },
-        {
-          "title": "Fugro to hunt for unexploded munitions along North Sea cable routes",
-          "summary": "Dutch survey specialist Fugro has secured a contract from German transmission system operator 50Hertz to survey and clear unexploded ordnance along the routes of two offshore wind grid connections in the North Sea. The…",
-          "date": "2026-10-27",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/fugro-to-hunt-for-unexploded-munitions-along-north-sea-cable-routes/",
-          "relevant": false
-        },
-        {
-          "title": "Eni locks in offshore contractors for Cyprus gas project",
-          "summary": "Italian energy major Eni has signed the main engineering, procurement, construction, and drilling contracts for the Cronos gas development offshore Cyprus, with a string of major offshore contractors securing work on…",
-          "date": "2026-10-27",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/eni-locks-in-offshore-contractors-for-cyprus-gas-project/",
           "relevant": false
         },
         {
@@ -270,6 +278,22 @@
           "date": "2026-10-27",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543917-energy-drilling-lands-87m-drilling-job-offshore-malaysia",
+          "relevant": false
+        },
+        {
+          "title": "Fugro to hunt for unexploded munitions along North Sea cable routes",
+          "summary": "Dutch survey specialist Fugro has secured a contract from German transmission system operator 50Hertz to survey and clear unexploded ordnance along the routes of two offshore wind grid connections in the North Sea. The…",
+          "date": "2026-10-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/fugro-to-hunt-for-unexploded-munitions-along-north-sea-cable-routes/",
+          "relevant": false
+        },
+        {
+          "title": "Eni locks in offshore contractors for Cyprus gas project",
+          "summary": "Italian energy major Eni has signed the main engineering, procurement, construction, and drilling contracts for the Cronos gas development offshore Cyprus, with a string of major offshore contractors securing work on…",
+          "date": "2026-10-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/eni-locks-in-offshore-contractors-for-cyprus-gas-project/",
           "relevant": false
         },
         {
@@ -4289,6 +4313,22 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Shipping’s $275m lesson in the limits of sanctions screening",
+          "summary": "A sanctions settlement has exposed a fundamental weakness in shipping’s compliance systems. Wolfgang Lehmacher reports. On paper, Adani Enterprises did what compliance manuals demand. According to OFAC, before each LPG…",
+          "date": "2026-10-28",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/shippings-275m-lesson-in-the-limits-of-sanctions-screening/",
+          "relevant": false
+        },
+        {
+          "title": "US EPA proposes changes to oil and gas emissions regulations",
+          "summary": "The US EPA proposed changes to Clean Air Act oil and gas emissions rules, including provisions for marginal wells and associated gas flaring.",
+          "date": "2026-10-28",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/epa-proposes-changes-oil-gas-regulations/",
+          "relevant": false
+        },
+        {
           "title": "NTSB Calls for New Rules for Uncrewed Vessels After Lake Erie Collision",
           "summary": "Investigation finds NOAA research vessel was difficult to detect and lacked proper monitoring, exposing gaps in U.S. maritime safety regulations. The National Transportation Safety Board (NTSB) is calling on the...",
           "date": "2026-10-27",
@@ -6377,22 +6417,6 @@
           "relevant": false
         },
         {
-          "title": "Chouest Group acquires Canada’s Horizon Maritime",
-          "summary": "US offshore services giant Chouest Group has acquired Canadian marine and offshore services provider Horizon Maritime, expanding its presence across Canada’s east and west coasts and into the Arctic. The Louisiana-based…",
-          "date": "2026-10-27",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/chouest-group-acquires-canadas-horizon-maritime/",
-          "relevant": false
-        },
-        {
-          "title": "Asyad Group prices $132m shipping stake sale",
-          "summary": "Oman’s Asyad Group has priced an institutional share sale in its listed shipping subsidiary at OMR50.8m ($132m), reducing its ownership as part of a move to broaden the company’s shareholder base. Muscat-listed Asyad…",
-          "date": "2026-10-27",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/asyad-group-prices-132m-shipping-stake-sale/",
-          "relevant": false
-        },
-        {
           "title": "Permian consolidation is far from over, but the next deals will look different from the last",
           "summary": "By Stephen Whitfield, Senior Editor The Permian Basin has spent the better part of two years absorbing one mega-merger after another, but according to Matthew Bernstein, VP – North America Oil and Gas at Rystad Energy…",
           "date": "2026-10-27",
@@ -6422,6 +6446,22 @@
           "date": "2026-10-27",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543942-t-rkiye-pushes-for-further-hydrocarbon-exploration-by-year-s-end",
+          "relevant": false
+        },
+        {
+          "title": "Chouest Group acquires Canada’s Horizon Maritime",
+          "summary": "US offshore services giant Chouest Group has acquired Canadian marine and offshore services provider Horizon Maritime, expanding its presence across Canada’s east and west coasts and into the Arctic. The Louisiana-based…",
+          "date": "2026-10-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/chouest-group-acquires-canadas-horizon-maritime/",
+          "relevant": false
+        },
+        {
+          "title": "Asyad Group prices $132m shipping stake sale",
+          "summary": "Oman’s Asyad Group has priced an institutional share sale in its listed shipping subsidiary at OMR50.8m ($132m), reducing its ownership as part of a move to broaden the company’s shareholder base. Muscat-listed Asyad…",
+          "date": "2026-10-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/asyad-group-prices-132m-shipping-stake-sale/",
           "relevant": false
         },
         {
@@ -7513,15 +7553,6 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Seatrium and Karpowership eye Southeast Asia floating infrastructure push",
-          "summary": "Singapore’s Seatrium and Turkey’s Karpowership are seeking to form a joint venture to develop floating power and digital infrastructure solutions in Singapore, with plans to expand into the wider Southeast Asian market…",
-          "date": "2026-10-27",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/seatrium-and-karpowership-eye-southeast-asia-floating-infrastructure-push/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Energy Drilling lines up 30-month job to keep its rig busy through 2030",
           "summary": "Energy Drilling has secured a multimillion-dollar offshore drilling campaign in Southeast Asia for its 2013-built rig, ensuring work until decade-end.",
           "date": "2026-10-27",
@@ -7563,6 +7594,15 @@
           "date": "2026-10-27",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543916-inpex-moves-21b-indonesian-lng-project-closer-to-investment-decision",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Seatrium and Karpowership eye Southeast Asia floating infrastructure push",
+          "summary": "Singapore’s Seatrium and Turkey’s Karpowership are seeking to form a joint venture to develop floating power and digital infrastructure solutions in Singapore, with plans to expand into the wider Southeast Asian market…",
+          "date": "2026-10-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/seatrium-and-karpowership-eye-southeast-asia-floating-infrastructure-push/",
           "relevant": false,
           "region": "SEA"
         },
