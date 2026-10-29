@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T12:01:05Z",
+  "last_updated": "2026-10-29T13:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -193,11 +193,27 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Wallenius Wilhelmsen locks in $1bn contract haul",
+          "summary": "Norwegian car carrier and logistics giant Wallenius Wilhelmsen has secured two contracts worth more than $1bn with a major equipment manufacturer, adding another sizeable commitment to its shipping and logistics…",
+          "date": "2026-10-29",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/wallenius-wilhelmsen-locks-in-1bn-contract-haul/",
+          "relevant": false
+        },
+        {
           "title": "TotalEnergies Expects to Sustain Tailwinds behind Blockbuster Q3",
           "summary": "TotalEnergies reported $9.1 billion or $4.03 per diluted share in net profit adjusted for nonrecurring items for Q3, and expressed confidence high LNG prices and refining margins would continue to underpin results…",
           "date": "2026-10-29",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/totalenergies_expects_to_sustain_tailwinds_behind_blockbuster_q3-29-oct-2026-184961-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Japan Joins Forces with Siemens Energy for Floating Offshore Wind",
+          "summary": "Japan's Ministry of Economy, Trade and Industry (METI) and Siemens Energy have signed a memorandum of cooperation to advance floating offshore wind development in Japan…",
+          "date": "2026-10-29",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543998-japan-joins-forces-with-siemens-energy-for-floating-offshore-wind",
           "relevant": false
         },
         {
@@ -4433,19 +4449,19 @@
           "relevant": false
         },
         {
-          "title": "Boluda strikes deal to acquire Samskip",
-          "summary": "Spanish shipping group Boluda has agreed to acquire Netherlands-headquartered multimodal operator Samskip, bringing together two major European shortsea businesses in a deal spanning 32 vessels and 18 routes. Boluda…",
-          "date": "2026-10-29",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/boluda-strikes-deal-to-acquire-samskip/",
-          "relevant": false
-        },
-        {
           "title": "Woodside Exit Sends East Timor Searching for Greater Sunrise Partner",
           "summary": "East Timor is seeking a new operator for its vast Greater Sunrise gas fields, an adviser to the project said, after Woodside Energy's move this week to exit its…",
           "date": "2026-10-29",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543996-woodside-exit-sends-east-timor-searching-for-greater-sunrise-partner",
+          "relevant": false
+        },
+        {
+          "title": "Boluda strikes deal to acquire Samskip",
+          "summary": "Spanish shipping group Boluda has agreed to acquire Netherlands-headquartered multimodal operator Samskip, bringing together two major European shortsea businesses in a deal spanning 32 vessels and 18 routes. Boluda…",
+          "date": "2026-10-29",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/boluda-strikes-deal-to-acquire-samskip/",
           "relevant": false
         },
         {
@@ -4466,7 +4482,7 @@
         },
         {
           "title": "Oil Rises with Iran Attack Report, Israeli Election in Focus",
-          "summary": "Oil rose as traders weighed whether the U.S. could resume military strikes on Iran after next week's midterms and tracked a tight Israeli election.",
+          "summary": "Oil rose as traders weighed whether the U.S. and Israel would resume military strikes on Iran.",
           "date": "2026-10-28",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/oil_rises_with_iran_attack_report_israeli_election_in_focus-28-oct-2026-184958-article/?rss=true",
@@ -4537,14 +4553,6 @@
           "relevant": false
         },
         {
-          "title": "NTSB Calls for New Rules for Uncrewed Vessels After Lake Erie Collision",
-          "summary": "Investigation finds NOAA research vessel was difficult to detect and lacked proper monitoring, exposing gaps in U.S. maritime safety regulations. The National Transportation Safety Board (NTSB) is calling on the...",
-          "date": "2026-10-27",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/ntsb-calls-for-new-rules-for-uncrewed-vessels-after-lake-erie-collision/",
-          "relevant": false
-        },
-        {
           "title": "Oil & Gas Markets",
           "summary": "Another decline in exploration spend shows US E&Ps keeping focus on development US E&Ps kept exploration a secondary priority while moderately boosting development spending in 2025, indicating their continued focus on…",
           "date": "2026-10-27",
@@ -4561,6 +4569,22 @@
           "relevant": false
         },
         {
+          "title": "Woodside to sell Sunrise JV interest to TIMOR GAP",
+          "summary": "Woodside Energy has agreed to sell its 33.44% participating interest in the Sunrise JV to TIMOR GAP, in a transaction worth up to $200m.",
+          "date": "2026-10-27",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/woodside-sunrise-jv-timor-gap/",
+          "relevant": false
+        },
+        {
+          "title": "NTSB Calls for New Rules for Uncrewed Vessels After Lake Erie Collision",
+          "summary": "Investigation finds NOAA research vessel was difficult to detect and lacked proper monitoring, exposing gaps in U.S. maritime safety regulations. The National Transportation Safety Board (NTSB) is calling on the...",
+          "date": "2026-10-27",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/ntsb-calls-for-new-rules-for-uncrewed-vessels-after-lake-erie-collision/",
+          "relevant": false
+        },
+        {
           "title": "India Diesel Export Boom Set to Ease Global Crunch",
           "summary": "A surge in Indian diesel exports is set to hit global markets next year as new refining capacity comes online.",
           "date": "2026-10-27",
@@ -4574,14 +4598,6 @@
           "date": "2026-10-27",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/eni_exits_nigerias_onshore_upstream_sector-27-oct-2026-184942-article/?rss=true",
-          "relevant": false
-        },
-        {
-          "title": "Woodside to sell Sunrise JV interest to TIMOR GAP",
-          "summary": "Woodside Energy has agreed to sell its 33.44% participating interest in the Sunrise JV to TIMOR GAP, in a transaction worth up to $200m.",
-          "date": "2026-10-27",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/woodside-sunrise-jv-timor-gap/",
           "relevant": false
         },
         {
@@ -7801,13 +7817,13 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Saudi Tanker Giant Posts 10-Fold Profit Jump as Ship Rates Surge",
-          "summary": "Saudi Arabia’s main shipping firm Bahri reported a 10-fold jump in third-quarter profit as its oil tanker business benefited from surging freight rates amid the Iran war.",
-          "date": "2026-10-28",
+          "title": "Taiwan Flags ‘Obvious’ Threat From 50 Chinese Vessels in Wide Sweep of Waters",
+          "summary": "China has more than 50 navy and other official vessels operating in a wide swath of sea stretching from southern Japan down to Taiwan and off the Philippines, a senior Taiwan official said, calling the threat level…",
+          "date": "2026-10-29",
           "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/saudi-tanker-giant-posts-10-fold-profit-jump-as-ship-rates-surge/",
-          "relevant": true,
-          "region": "KSA"
+          "source_url": "https://gcaptain.com/taiwan-flags-obvious-threat-from-50-chinese-vessels-in-wide-sweep-of-waters/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "McDermott orders Strohm's gas production jumpers for Southeast Asia",
@@ -7835,6 +7851,15 @@
           "source_url": "https://www.offshore-technology.com/news/snoc-phase-1-hedebah-gas-field-uae/",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "Saudi Tanker Giant Posts 10-Fold Profit Jump as Ship Rates Surge",
+          "summary": "Saudi Arabia’s main shipping firm Bahri reported a 10-fold jump in third-quarter profit as its oil tanker business benefited from surging freight rates amid the Iran war.",
+          "date": "2026-10-28",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/saudi-tanker-giant-posts-10-fold-profit-jump-as-ship-rates-surge/",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "Damaged Tanker Leaks Oil Across UAE Waters as Spill Widens",
