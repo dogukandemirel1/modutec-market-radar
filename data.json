@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T18:01:03Z",
+  "last_updated": "2026-10-29T19:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4465,6 +4465,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Maritime Unions Sound Alarm Over Jones Act Waiver Compliance, Foreign Crews and National Security",
+          "summary": "Nine maritime labor organizations say the Trump administration’s prolonged Jones Act waiver raises serious questions about compliance with federal law, including reporting requirements, immigration restrictions and the…",
+          "date": "2026-10-29",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/maritime-unions-sound-alarm-over-jones-act-waiver-compliance-foreign-crews-and-national-security/",
+          "relevant": false
+        },
+        {
           "title": "What the IMO should learn from Brazil’s elections ahead of its historic decision",
           "summary": "Elissama Menezes, a Brazilian co-director of Equal Routes, a nonprofit working on shipping decarbonisation, writes for Splash today. Brazil’s presidential elections show that one should never discount the underdog. The…",
           "date": "2026-10-29",
@@ -4494,14 +4502,6 @@
           "date": "2026-10-29",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/russia-targets-year-round-arctic-shipping-from-early-2027/",
-          "relevant": false
-        },
-        {
-          "title": "US Tells Ships to Avoid Unnecessary Transits Through Hormuz",
-          "summary": "(Bloomberg) — The US military said vessels that have no need to move between ports in the Gulf of Oman and the Strait of Hormuz should stay away, as tensions...",
-          "date": "2026-10-28",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/us-tells-ships-to-avoid-unnecessary-transits-through-hormuz/",
           "relevant": false
         },
         {
@@ -4542,6 +4542,14 @@
           "date": "2026-10-28",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/bae-systems-adl-test/",
+          "relevant": false
+        },
+        {
+          "title": "US Tells Ships to Avoid Unnecessary Transits Through Hormuz",
+          "summary": "(Bloomberg) — The US military said vessels that have no need to move between ports in the Gulf of Oman and the Strait of Hormuz should stay away, as tensions...",
+          "date": "2026-10-28",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/us-tells-ships-to-avoid-unnecessary-transits-through-hormuz/",
           "relevant": false
         },
         {
