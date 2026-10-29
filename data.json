@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T06:01:01Z",
+  "last_updated": "2026-10-29T07:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4385,6 +4385,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Russia targets year-round Arctic shipping from early 2027",
+          "summary": "Russia is preparing to launch regular year-round eastbound shipping along the Northern Sea Route (NSR) in early 2027, as traffic through the Arctic passage surges to unprecedented levels amid continuing disruption to…",
+          "date": "2026-10-29",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/russia-targets-year-round-arctic-shipping-from-early-2027/",
+          "relevant": false
+        },
+        {
           "title": "US Tells Ships to Avoid Unnecessary Transits Through Hormuz",
           "summary": "(Bloomberg) — The US military said vessels that have no need to move between ports in the Gulf of Oman and the Strait of Hormuz should stay away, as tensions...",
           "date": "2026-10-28",
@@ -4398,14 +4406,6 @@
           "date": "2026-10-28",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/woodside-exits-delayed-timor-leste-gas-project/",
-          "relevant": false
-        },
-        {
-          "title": "Sanctioned Russian tankers head for US carrying diesel",
-          "summary": "Three tankers carrying Russian diesel are heading towards the United States under the controversial agreement between presidents Donald Trump and Vladimir Putin, with Moscow preparing to dispatch a fourth vessel today…",
-          "date": "2026-10-28",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/sanctioned-russian-tankers-head-for-us-carrying-diesel/",
           "relevant": false
         },
         {
@@ -4446,6 +4446,14 @@
           "date": "2026-10-28",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543954-us-targets-faster-lng-expansion-with-proposed-regulatory-overhaul",
+          "relevant": false
+        },
+        {
+          "title": "Sanctioned Russian tankers head for US carrying diesel",
+          "summary": "Three tankers carrying Russian diesel are heading towards the United States under the controversial agreement between presidents Donald Trump and Vladimir Putin, with Moscow preparing to dispatch a fourth vessel today…",
+          "date": "2026-10-28",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/sanctioned-russian-tankers-head-for-us-carrying-diesel/",
           "relevant": false
         },
         {
