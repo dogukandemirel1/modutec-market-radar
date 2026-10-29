@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T21:01:03Z",
+  "last_updated": "2026-10-29T22:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -313,19 +313,19 @@
           "relevant": false
         },
         {
-          "title": "Eni Awards Key Contracts for Cronos Gas Project",
-          "summary": "Eni signed the main engineering, procurement, construction and drilling contracts for Cyprus' first natural gas development, designed to supply Europe via Egypt's liquefied natural gas infrastructure.",
-          "date": "2026-10-28",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/eni_awards_key_contracts_for_cronos_gas_project-28-oct-2026-184949-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Fairbanks Morse Defense wins $99m US Navy submarine overhaul contract",
           "summary": "Fairbanks Morse Defence (FMD) has secured a $99.09m contract from the US Naval Sea Systems Command (NAVSEA) to provide overhaul and life extension services for emergency diesel generators on six US Navy nuclear…",
           "date": "2026-10-28",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/fmd-us-navy-submarine-overhaul/",
+          "relevant": false
+        },
+        {
+          "title": "Eni Awards Key Contracts for Cronos Gas Project",
+          "summary": "Eni signed the main engineering, procurement, construction and drilling contracts for Cyprus' first natural gas development, designed to supply Europe via Egypt's liquefied natural gas infrastructure.",
+          "date": "2026-10-28",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/eni_awards_key_contracts_for_cronos_gas_project-28-oct-2026-184949-article/?rss=true",
           "relevant": false
         },
         {
@@ -4486,6 +4486,14 @@
           "date": "2026-10-29",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/the-morning-after-what-decembers-imo-vote-means-for-a-fixture/",
+          "relevant": false
+        },
+        {
+          "title": "Oil Wavers on Conflicting Reports of USA Military Moves",
+          "summary": "Oil fluctuated in a choppy session as traders weighed conflicting signals on the direction of U.S. military strategy in Iran.",
+          "date": "2026-10-29",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/oil_wavers_on_conflicting_reports_of_usa_military_moves-29-oct-2026-184969-article/?rss=true",
           "relevant": false
         },
         {
