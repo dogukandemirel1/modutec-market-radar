@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T16:01:04Z",
+  "last_updated": "2026-10-29T17:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4465,19 +4465,19 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
-          "title": "What the IMO should learn from Brazil’s elections ahead of its historic decision",
-          "summary": "Elissama Menezes, a Brazilian co-director of Equal Routes, a nonprofit working on shipping decarbonisation, writes for Splash today. Brazil’s presidential elections show that one should never discount the underdog. The…",
-          "date": "2026-10-29",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/what-the-imo-should-learn-from-brazils-elections-ahead-of-its-historic-decision/",
-          "relevant": false
-        },
-        {
           "title": "Woodside Exit Sends East Timor Searching for Greater Sunrise Partner",
           "summary": "East Timor is seeking a new operator for its vast Greater Sunrise gas fields, an adviser to the project said, after Woodside Energy's move this week to exit its…",
           "date": "2026-10-29",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543996-woodside-exit-sends-east-timor-searching-for-greater-sunrise-partner",
+          "relevant": false
+        },
+        {
+          "title": "What the IMO should learn from Brazil’s elections ahead of its historic decision",
+          "summary": "Elissama Menezes, a Brazilian co-director of Equal Routes, a nonprofit working on shipping decarbonisation, writes for Splash today. Brazil’s presidential elections show that one should never discount the underdog. The…",
+          "date": "2026-10-29",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/what-the-imo-should-learn-from-brazils-elections-ahead-of-its-historic-decision/",
           "relevant": false
         },
         {
