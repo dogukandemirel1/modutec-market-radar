@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T11:01:04Z",
+  "last_updated": "2026-10-29T12:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -193,6 +193,22 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "TotalEnergies Expects to Sustain Tailwinds behind Blockbuster Q3",
+          "summary": "TotalEnergies reported $9.1 billion or $4.03 per diluted share in net profit adjusted for nonrecurring items for Q3, and expressed confidence high LNG prices and refining margins would continue to underpin results…",
+          "date": "2026-10-29",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/totalenergies_expects_to_sustain_tailwinds_behind_blockbuster_q3-29-oct-2026-184961-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Subsea Vessel Market: Shifting Dynamics + Fleet Expansion",
+          "summary": "We are entering in interesting period in the subsea vessel market, as contract backlog among the EPCs continue to rise to new all-time highs, existing long-term contracts are coming up for renewals…",
+          "date": "2026-10-29",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543994-subsea-vessel-market-shifting-dynamics-fleet-expansion",
+          "relevant": false
+        },
+        {
           "title": "ADES adds $52m to backlog with Angola jackup extension",
           "summary": "Saudi offshore drilling contractor ADES has secured a one-year extension for its Shelf Drilling Tenacious jackup offshore Angola, adding around SAR195m ($52m) to its backlog. The company said an existing international…",
           "date": "2026-10-29",
@@ -254,6 +270,14 @@
           "date": "2026-10-28",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/eni_awards_key_contracts_for_cronos_gas_project-28-oct-2026-184949-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Fairbanks Morse Defense wins $99m US Navy submarine overhaul contract",
+          "summary": "Fairbanks Morse Defence (FMD) has secured a $99.09m contract from the US Naval Sea Systems Command (NAVSEA) to provide overhaul and life extension services for emergency diesel generators on six US Navy nuclear…",
+          "date": "2026-10-28",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/fmd-us-navy-submarine-overhaul/",
           "relevant": false
         },
         {
@@ -4417,6 +4441,14 @@
           "relevant": false
         },
         {
+          "title": "Woodside Exit Sends East Timor Searching for Greater Sunrise Partner",
+          "summary": "East Timor is seeking a new operator for its vast Greater Sunrise gas fields, an adviser to the project said, after Woodside Energy's move this week to exit its…",
+          "date": "2026-10-29",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/543996-woodside-exit-sends-east-timor-searching-for-greater-sunrise-partner",
+          "relevant": false
+        },
+        {
           "title": "Russia targets year-round Arctic shipping from early 2027",
           "summary": "Russia is preparing to launch regular year-round eastbound shipping along the Northern Sea Route (NSR) in early 2027, as traffic through the Arctic passage surges to unprecedented levels amid continuing disruption to…",
           "date": "2026-10-29",
@@ -4462,6 +4494,14 @@
           "date": "2026-10-28",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/epa-proposes-changes-oil-gas-regulations/",
+          "relevant": false
+        },
+        {
+          "title": "BAE Systems completes first live-fire test of Adaptable Deck Launcher",
+          "summary": "BAE Systems has completed the first live-fire test of its Adaptable Deck Launcher (ADL), a deck-mounted missile launching system developed for the US Navy and allied fleets. The post BAE Systems completes first…",
+          "date": "2026-10-28",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/bae-systems-adl-test/",
           "relevant": false
         },
         {
@@ -6576,6 +6616,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "TotalEnergies acquires 25% interest in 26 US offshore leases",
+          "summary": "TotalEnergies has acquired a 25% working interest in 26 offshore exploration leases operated by Chevron in the US.",
+          "date": "2026-10-29",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/totalenergies-acquires-interest-26-us-leases/",
+          "relevant": false
+        },
         {
           "title": "Baker Hughes Profit Beats Estimates",
           "summary": "The Houston-based energy technology company credited results to the Chart acquisition and higher volumes and prices.",
