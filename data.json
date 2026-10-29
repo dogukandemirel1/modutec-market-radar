@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T13:01:03Z",
+  "last_updated": "2026-10-29T14:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -206,6 +206,14 @@
           "date": "2026-10-29",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/totalenergies_expects_to_sustain_tailwinds_behind_blockbuster_q3-29-oct-2026-184961-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Tullow Oil Taps DeepOcean for Subsea Riser Job off Ghana",
+          "summary": "DeepOcean has secured a contract from Tullow Ghana to carry out subsea gas lift riser retermination work at the Jubilee field offshore Ghana, using its recently…",
+          "date": "2026-10-29",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544002-tullow-oil-taps-deepocean-for-subsea-riser-job-off-ghana",
           "relevant": false
         },
         {
@@ -713,19 +721,19 @@
           "relevant": false
         },
         {
-          "title": "DOF cements its spot on Africa’s subsea stage with multimillion-dollar vessel job",
-          "summary": "DOF Group has won a new subsea installation contract in Africa, locking in 100 days of work for its 2008-built vessel in early 2027.",
-          "date": "2026-10-22",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/22/dof-cements-its-spot-on-africas-subsea-stage-with-multimillion-dollar-vessel-job",
-          "relevant": false
-        },
-        {
           "title": "Exail to equip Marins INS on USVs for unnamed navy client",
           "summary": "Exail has secured a contract to supply its Marins inertial navigation systems (INS) for a navy’s complete fleet of uncrewed surface vessels (USVs). The post Exail to equip Marins INS on USVs for unnamed navy client…",
           "date": "2026-10-22",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/exail-marine-ins-usv/",
+          "relevant": false
+        },
+        {
+          "title": "DOF cements its spot on Africa’s subsea stage with multimillion-dollar vessel job",
+          "summary": "DOF Group has won a new subsea installation contract in Africa, locking in 100 days of work for its 2008-built vessel in early 2027.",
+          "date": "2026-10-22",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/22/dof-cements-its-spot-on-africas-subsea-stage-with-multimillion-dollar-vessel-job",
           "relevant": false
         },
         {
@@ -6632,6 +6640,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "CO2 storage appraisal campaign in UK North Sea yields positive results",
+          "summary": "The Northern Endurance Partnership (NEP), a joint venture of BP, Equinor and TotalEnergies, has completed an appraisal program offshore the UK...",
+          "date": "2026-10-29",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/29/co2-storage-appraisal-campaign-in-uk-north-sea-yields-positive-results",
+          "relevant": false
+        },
         {
           "title": "TotalEnergies acquires 25% interest in 26 US offshore leases",
           "summary": "TotalEnergies has acquired a 25% working interest in 26 offshore exploration leases operated by Chevron in the US.",
