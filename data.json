@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T15:01:03Z",
+  "last_updated": "2026-10-29T16:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -201,6 +201,22 @@
           "relevant": false
         },
         {
+          "title": "Nabors adds SANAD newbuild in Saudi Arabia, lines up Venezuela rig",
+          "summary": "Nabors signed a multiyear contract to deploy one rig in Venezuela in early 2027, marking its return to drilling operations in the country. The company’s SANAD land drilling joint venture deployed its 17th newbuild rig…",
+          "date": "2026-10-29",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/nabors-adds-sanad-newbuild-in-saudi-arabia-lines-up-venezuela-rig-80660",
+          "relevant": true
+        },
+        {
+          "title": "Marriott Drilling Group to drill Corbetti exploration wells in Ethiopia early next year",
+          "summary": "UK-based Marriott Drilling Group signed a contract to drill up to four exploration wells for the Corbetti geothermal power project in Ethiopia. The wells will be drilled in the Corbetti Caldera near Shashemene in…",
+          "date": "2026-10-29",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/marriott-drilling-group-to-drill-corbetti-exploration-wells-in-ethiopia-early-next-year-80654",
+          "relevant": false
+        },
+        {
           "title": "TotalEnergies Expects to Sustain Tailwinds behind Blockbuster Q3",
           "summary": "TotalEnergies reported $9.1 billion or $4.03 per diluted share in net profit adjusted for nonrecurring items for Q3, and expressed confidence high LNG prices and refining margins would continue to underpin results…",
           "date": "2026-10-29",
@@ -345,14 +361,6 @@
           "relevant": false
         },
         {
-          "title": "Much more digital content on the way – subscribe now",
-          "summary": "By Linda Hsieh, Editor & Publisher At IADC, this magazine – Drilling Contractor – is part of our heritage. Its publication kicked off just four years after the association was founded in 1940, while it was still known…",
-          "date": "2026-10-27",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/much-more-digital-content-on-the-way-subscribe-now-80506",
-          "relevant": false
-        },
-        {
           "title": "Fugro wins UXO survey contract for German offshore grid connections",
           "summary": "Fugro has been awarded a contract by 50Hertz to deliver unexploded ordnance (UXO) survey, identification and clearance services for the LanWin3...",
           "date": "2026-10-27",
@@ -366,6 +374,14 @@
           "date": "2026-10-27",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/eni-execution-phase-cronos-project-cyprus/",
+          "relevant": false
+        },
+        {
+          "title": "Much more digital content on the way – subscribe now",
+          "summary": "By Linda Hsieh, Editor & Publisher At IADC, this magazine – Drilling Contractor – is part of our heritage. Its publication kicked off just four years after the association was founded in 1940, while it was still known…",
+          "date": "2026-10-27",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/much-more-digital-content-on-the-way-subscribe-now-80506",
           "relevant": false
         },
         {
@@ -4561,14 +4577,6 @@
           "relevant": false
         },
         {
-          "title": "Oil & Gas Markets",
-          "summary": "Another decline in exploration spend shows US E&Ps keeping focus on development US E&Ps kept exploration a secondary priority while moderately boosting development spending in 2025, indicating their continued focus on…",
-          "date": "2026-10-27",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/oil-gas-markets-29-80515",
-          "relevant": false
-        },
-        {
           "title": "Woodside passes the baton for offshore gas project to Timor Gap in $200 million deal",
           "summary": "Timor Gap is taking over the reins for a gas project in the Timor Sea from Woodside with completion of the takeover anticipated in H1 2027.",
           "date": "2026-10-27",
@@ -4582,6 +4590,14 @@
           "date": "2026-10-27",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/woodside-sunrise-jv-timor-gap/",
+          "relevant": false
+        },
+        {
+          "title": "Oil & Gas Markets",
+          "summary": "Another decline in exploration spend shows US E&Ps keeping focus on development US E&Ps kept exploration a secondary priority while moderately boosting development spending in 2025, indicating their continued focus on…",
+          "date": "2026-10-27",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/oil-gas-markets-29-80515",
           "relevant": false
         },
         {
@@ -6649,6 +6665,14 @@
           "relevant": false
         },
         {
+          "title": "EQT-Range Company Will Stand 25Pct Clear of Nearest Rival",
+          "summary": "EQT's acquisition of Range Resources 'creates America's largest natural gas producer', Wood Mackenzie highlighted.",
+          "date": "2026-10-29",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/eqtrange_company_will_stand_25pct_clear_of_nearest_rival-29-oct-2026-184967-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "TotalEnergies acquires 25% interest in 26 US offshore leases",
           "summary": "TotalEnergies has acquired a 25% working interest in 26 offshore exploration leases operated by Chevron in the US.",
           "date": "2026-10-29",
@@ -6689,19 +6713,19 @@
           "relevant": false
         },
         {
-          "title": "Ovintiv Acquires Montney Neighbor Logan",
-          "summary": "'Ovintiv's core land position in the Montney is expected to increase to approximately 720,000 net acres'.",
-          "date": "2026-10-27",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/ovintiv_acquires_montney_neighbor_logan-27-oct-2026-184945-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Lockheed Martin completes acquisition of Ultra Maritime business",
           "summary": "Lockheed Martin has completed its acquisition of Ultra Maritime, expanding its portfolio of undersea warfare and anti-submarine warfare (ASW) systems. The post Lockheed Martin completes acquisition of Ultra Maritime…",
           "date": "2026-10-27",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/lockheed-martin-ultra-maritime-deal/",
+          "relevant": false
+        },
+        {
+          "title": "Ovintiv Acquires Montney Neighbor Logan",
+          "summary": "'Ovintiv's core land position in the Montney is expected to increase to approximately 720,000 net acres'.",
+          "date": "2026-10-27",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/ovintiv_acquires_montney_neighbor_logan-27-oct-2026-184945-article/?rss=true",
           "relevant": false
         },
         {
@@ -7838,6 +7862,15 @@
           "date": "2026-10-29",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/taiwan-flags-obvious-threat-from-50-chinese-vessels-in-wide-sweep-of-waters/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Indonesia Energy begins drilling deeper WK-5 well at Kruh Block in Sumatra",
+          "summary": "Indonesia Energy (IEC) commenced drilling operations on 21 October 2026 at its WK-5 well at the Kruh Block in Sumatra, Indonesia. The well follows K-29, which was drilled to about 3,400 ft and has recently started oil…",
+          "date": "2026-10-29",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/indonesia-energy-begins-drilling-deeper-wk-5-well-at-kruh-block-in-sumatra-80657",
           "relevant": false,
           "region": "SEA"
         },
