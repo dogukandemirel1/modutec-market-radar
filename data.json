@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T07:01:04Z",
+  "last_updated": "2026-10-29T08:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -193,19 +193,19 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "ADES adds $52m to backlog with Angola jackup extension",
+          "summary": "Saudi offshore drilling contractor ADES has secured a one-year extension for its Shelf Drilling Tenacious jackup offshore Angola, adding around SAR195m ($52m) to its backlog. The company said an existing international…",
+          "date": "2026-10-29",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/ades-adds-52m-to-backlog-with-angola-jackup-extension/",
+          "relevant": false
+        },
+        {
           "title": "Noble offloads idle drillship for $38m",
           "summary": "US offshore drilling contractor Noble Corporation has agreed to sell its 2013-built, sixth-generation drillship, Noble Globetrotter II, for $38m as it continues to dispose of underutilised drilling assets. The…",
           "date": "2026-10-28",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/noble-offloads-idle-drillship-for-38m/",
-          "relevant": false
-        },
-        {
-          "title": "Containership orderbook heads towards 16m teu",
-          "summary": "The containership industry’s extraordinary ordering spree is showing no signs of slowing, with the global orderbook now exceeding 15m teu and another wave of megamax contracts poised to push the total towards 16m teu…",
-          "date": "2026-10-28",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/containership-orderbook-heads-towards-16m-teu/",
           "relevant": false
         },
         {
@@ -270,6 +270,14 @@
           "date": "2026-10-28",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543953-strohm-nets-ultra-deepwater-supply-deal-for-southeast-asia-s-gas-scheme",
+          "relevant": false
+        },
+        {
+          "title": "Containership orderbook heads towards 16m teu",
+          "summary": "The containership industry’s extraordinary ordering spree is showing no signs of slowing, with the global orderbook now exceeding 15m teu and another wave of megamax contracts poised to push the total towards 16m teu…",
+          "date": "2026-10-28",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/containership-orderbook-heads-towards-16m-teu/",
           "relevant": false
         },
         {
@@ -4385,6 +4393,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Boluda strikes deal to acquire Samskip",
+          "summary": "Spanish shipping group Boluda has agreed to acquire Netherlands-headquartered multimodal operator Samskip, bringing together two major European shortsea businesses in a deal spanning 32 vessels and 18 routes. Boluda…",
+          "date": "2026-10-29",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/boluda-strikes-deal-to-acquire-samskip/",
+          "relevant": false
+        },
+        {
           "title": "Russia targets year-round Arctic shipping from early 2027",
           "summary": "Russia is preparing to launch regular year-round eastbound shipping along the Northern Sea Route (NSR) in early 2027, as traffic through the Arctic passage surges to unprecedented levels amid continuing disruption to…",
           "date": "2026-10-29",
@@ -4398,14 +4414,6 @@
           "date": "2026-10-28",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/us-tells-ships-to-avoid-unnecessary-transits-through-hormuz/",
-          "relevant": false
-        },
-        {
-          "title": "Woodside exits delayed Timor-Leste gas project",
-          "summary": "Australian energy major Woodside has agreed to sell its entire 33.44% stake in the long-delayed Greater Sunrise gas development to Timor-Leste’s state-owned energy company TIMOR GAP for up to $200m. The agreement could…",
-          "date": "2026-10-28",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/woodside-exits-delayed-timor-leste-gas-project/",
           "relevant": false
         },
         {
@@ -4446,6 +4454,14 @@
           "date": "2026-10-28",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543954-us-targets-faster-lng-expansion-with-proposed-regulatory-overhaul",
+          "relevant": false
+        },
+        {
+          "title": "Woodside exits delayed Timor-Leste gas project",
+          "summary": "Australian energy major Woodside has agreed to sell its entire 33.44% stake in the long-delayed Greater Sunrise gas development to Timor-Leste’s state-owned energy company TIMOR GAP for up to $200m. The agreement could…",
+          "date": "2026-10-28",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/woodside-exits-delayed-timor-leste-gas-project/",
           "relevant": false
         },
         {
