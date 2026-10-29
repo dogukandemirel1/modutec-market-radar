@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T10:50:55Z",
+  "last_updated": "2026-10-29T11:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -745,19 +745,19 @@
           "relevant": false
         },
         {
-          "title": "SSE taps Seaway7 for Scotland-bound inter-array cables, foundations",
-          "summary": "SSE Renewables has named Seaway7 as the preferred supplier for the engineering, procurement, construction and installation (EPCI) of wind turbine...",
-          "date": "2026-10-21",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/21/sse-taps-seaway7-for-scotland-bound-inter-array-cables-foundations",
-          "relevant": false
-        },
-        {
           "title": "HII receives US Navy contract for Lyndon B Johnson sea trials",
           "summary": "HII’s Ingalls Shipbuilding division has received a $99m contract modification from the US Navy to conduct sea trials for the destroyer Lyndon B Johnson (DDG 1002), the third and final vessel in the Zumwalt class. The…",
           "date": "2026-10-21",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/hii-uss-lundon-b-johnson/",
+          "relevant": false
+        },
+        {
+          "title": "SSE taps Seaway7 for Scotland-bound inter-array cables, foundations",
+          "summary": "SSE Renewables has named Seaway7 as the preferred supplier for the engineering, procurement, construction and installation (EPCI) of wind turbine...",
+          "date": "2026-10-21",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/21/sse-taps-seaway7-for-scotland-bound-inter-array-cables-foundations",
           "relevant": false
         },
         {
