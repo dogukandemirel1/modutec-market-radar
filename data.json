@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T08:01:01Z",
+  "last_updated": "2026-10-29T09:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -201,11 +201,11 @@
           "relevant": false
         },
         {
-          "title": "Noble offloads idle drillship for $38m",
-          "summary": "US offshore drilling contractor Noble Corporation has agreed to sell its 2013-built, sixth-generation drillship, Noble Globetrotter II, for $38m as it continues to dispose of underutilised drilling assets. The…",
-          "date": "2026-10-28",
+          "title": "Baker Hughes lands Eni offshore double and Golar FLNG order",
+          "summary": "US energy technology company Baker Hughes has revealed three offshore contract wins, including two awards from Italian energy major Eni and an equipment package for Golar LNG’s fourth floating LNG unit. The company…",
+          "date": "2026-10-29",
           "source_name": "Splash247",
-          "source_url": "https://splash247.com/noble-offloads-idle-drillship-for-38m/",
+          "source_url": "https://splash247.com/baker-hughes-lands-eni-offshore-double-and-golar-flng-order/",
           "relevant": false
         },
         {
@@ -270,6 +270,14 @@
           "date": "2026-10-28",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543953-strohm-nets-ultra-deepwater-supply-deal-for-southeast-asia-s-gas-scheme",
+          "relevant": false
+        },
+        {
+          "title": "Noble offloads idle drillship for $38m",
+          "summary": "US offshore drilling contractor Noble Corporation has agreed to sell its 2013-built, sixth-generation drillship, Noble Globetrotter II, for $38m as it continues to dispose of underutilised drilling assets. The…",
+          "date": "2026-10-28",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/noble-offloads-idle-drillship-for-38m/",
           "relevant": false
         },
         {
