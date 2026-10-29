@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T09:01:04Z",
+  "last_updated": "2026-10-29T10:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4400,6 +4400,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "What the IMO should learn from Brazil’s elections ahead of its historic decision",
+          "summary": "Elissama Menezes, a Brazilian co-director of Equal Routes, a nonprofit working on shipping decarbonisation, writes for Splash today. Brazil’s presidential elections show that one should never discount the underdog. The…",
+          "date": "2026-10-29",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/what-the-imo-should-learn-from-brazils-elections-ahead-of-its-historic-decision/",
+          "relevant": false
+        },
         {
           "title": "Boluda strikes deal to acquire Samskip",
           "summary": "Spanish shipping group Boluda has agreed to acquire Netherlands-headquartered multimodal operator Samskip, bringing together two major European shortsea businesses in a deal spanning 32 vessels and 18 routes. Boluda…",
