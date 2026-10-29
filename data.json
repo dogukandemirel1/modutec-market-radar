@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T19:01:04Z",
+  "last_updated": "2026-10-29T20:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -222,6 +222,14 @@
           "date": "2026-10-29",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/totalenergies_expects_to_sustain_tailwinds_behind_blockbuster_q3-29-oct-2026-184961-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "IMCA Launches 2030 Strategy to Guide Offshore Construction Industry",
+          "summary": "The International Marine Contractors Association (IMCA) has launched IMCA 2030, a four-year strategy designed to ensure the association remains relevant, authoritative…",
+          "date": "2026-10-29",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544011-imca-launches-2030-strategy-to-guide-offshore-construction-industry",
           "relevant": false
         },
         {
@@ -4473,11 +4481,11 @@
           "relevant": false
         },
         {
-          "title": "What the IMO should learn from Brazil’s elections ahead of its historic decision",
-          "summary": "Elissama Menezes, a Brazilian co-director of Equal Routes, a nonprofit working on shipping decarbonisation, writes for Splash today. Brazil’s presidential elections show that one should never discount the underdog. The…",
+          "title": "The morning after: what December’s IMO vote means for a fixture",
+          "summary": "Whatever the IMO decides in December, a broker will price a dry bulk trip the next morning. The vote changes which line of that fixture carries the carbon, and how much. Argyris Zafeiropoulos from Resilience &…",
           "date": "2026-10-29",
           "source_name": "Splash247",
-          "source_url": "https://splash247.com/what-the-imo-should-learn-from-brazils-elections-ahead-of-its-historic-decision/",
+          "source_url": "https://splash247.com/the-morning-after-what-decembers-imo-vote-means-for-a-fixture/",
           "relevant": false
         },
         {
@@ -4486,6 +4494,14 @@
           "date": "2026-10-29",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543996-woodside-exit-sends-east-timor-searching-for-greater-sunrise-partner",
+          "relevant": false
+        },
+        {
+          "title": "What the IMO should learn from Brazil’s elections ahead of its historic decision",
+          "summary": "Elissama Menezes, a Brazilian co-director of Equal Routes, a nonprofit working on shipping decarbonisation, writes for Splash today. Brazil’s presidential elections show that one should never discount the underdog. The…",
+          "date": "2026-10-29",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/what-the-imo-should-learn-from-brazils-elections-ahead-of-its-historic-decision/",
           "relevant": false
         },
         {
