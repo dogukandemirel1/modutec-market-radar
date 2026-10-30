@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T12:01:03Z",
+  "last_updated": "2026-10-30T13:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -198,6 +198,22 @@
           "date": "2026-10-30",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/30/solstad-vessel-nets-two-subsea-contracts-in-asia-pacific",
+          "relevant": false
+        },
+        {
+          "title": "SBM Offshore Picks Seatrium for South American FPSO Project",
+          "summary": "Seatrium has secured a floating production, storage and offloading (FPSO) vessel integration contract worth over $155 million (S$200) million from SBM Offshore for…",
+          "date": "2026-10-30",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544023-sbm-offshore-picks-seatrium-for-south-american-fpso-project",
+          "relevant": false
+        },
+        {
+          "title": "Solstad's Normand Australis Wins 250-Day Subsea Campaign",
+          "summary": "Solstad Maritime has secured two contracts for its Normand Australis construction support vessel (CSV) in the Asia Pacific region, with a combined firm duration of 250 days…",
+          "date": "2026-10-30",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544022-solstad-s-normand-australis-wins-250-day-subsea-campaign",
           "relevant": false
         },
         {
@@ -4609,19 +4625,19 @@
           "relevant": false
         },
         {
-          "title": "US EPA proposes changes to oil and gas emissions regulations",
-          "summary": "The US EPA proposed changes to Clean Air Act oil and gas emissions rules, including provisions for marginal wells and associated gas flaring.",
-          "date": "2026-10-28",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/epa-proposes-changes-oil-gas-regulations/",
-          "relevant": false
-        },
-        {
           "title": "BAE Systems completes first live-fire test of Adaptable Deck Launcher",
           "summary": "BAE Systems has completed the first live-fire test of its Adaptable Deck Launcher (ADL), a deck-mounted missile launching system developed for the US Navy and allied fleets. The post BAE Systems completes first…",
           "date": "2026-10-28",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/bae-systems-adl-test/",
+          "relevant": false
+        },
+        {
+          "title": "US EPA proposes changes to oil and gas emissions regulations",
+          "summary": "The US EPA proposed changes to Clean Air Act oil and gas emissions rules, including provisions for marginal wells and associated gas flaring.",
+          "date": "2026-10-28",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/epa-proposes-changes-oil-gas-regulations/",
           "relevant": false
         },
         {
@@ -7969,20 +7985,20 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Taiwan Flags ‘Obvious’ Threat From 50 Chinese Vessels in Wide Sweep of Waters",
-          "summary": "China has more than 50 navy and other official vessels operating in a wide swath of sea stretching from southern Japan down to Taiwan and off the Philippines, a senior Taiwan official said, calling the threat level…",
-          "date": "2026-10-29",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/taiwan-flags-obvious-threat-from-50-chinese-vessels-in-wide-sweep-of-waters/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Indonesia Energy begins drilling deeper WK-5 well at Kruh Block in Sumatra",
           "summary": "Indonesia Energy (IEC) commenced drilling operations on 21 October 2026 at its WK-5 well at the Kruh Block in Sumatra, Indonesia. The well follows K-29, which was drilled to about 3,400 ft and has recently started oil…",
           "date": "2026-10-29",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/indonesia-energy-begins-drilling-deeper-wk-5-well-at-kruh-block-in-sumatra-80657",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Taiwan Flags ‘Obvious’ Threat From 50 Chinese Vessels in Wide Sweep of Waters",
+          "summary": "China has more than 50 navy and other official vessels operating in a wide swath of sea stretching from southern Japan down to Taiwan and off the Philippines, a senior Taiwan official said, calling the threat level…",
+          "date": "2026-10-29",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/taiwan-flags-obvious-threat-from-50-chinese-vessels-in-wide-sweep-of-waters/",
           "relevant": false,
           "region": "SEA"
         },
