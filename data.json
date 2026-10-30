@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T09:01:07Z",
+  "last_updated": "2026-10-30T10:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -193,11 +193,11 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Seatrium bags FPSO integration job from SBM Offshore",
-          "summary": "Singapore offshore engineering group Seatrium has secured a contract worth more than S$200m ($156.5m) from Dutch floater specialist SBM Offshore to integrate an FPSO vessel destined for South America. The contract…",
+          "title": "Norway Pours $424M Into Floating Offshore Wind Development",
+          "summary": "Norwegian government agency Enova has awarded $424.5 million (NOK 3.94 billion) in funding to Fortius Offshore Wind and Fram Wind Solutions for two floating offshore…",
           "date": "2026-10-30",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/seatrium-bags-fpso-integration-job-from-sbm-offshore/",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544018-norway-pours-424m-into-floating-offshore-wind-development",
           "relevant": false
         },
         {
@@ -206,6 +206,14 @@
           "date": "2026-10-30",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544015-st-lng-targets-2027-investment-decision-for-8-2-texas-offshore-lng-project",
+          "relevant": false
+        },
+        {
+          "title": "Seatrium bags FPSO integration job from SBM Offshore",
+          "summary": "Singapore offshore engineering group Seatrium has secured a contract worth more than S$200m ($156.5m) from Dutch floater specialist SBM Offshore to integrate an FPSO vessel destined for South America. The contract…",
+          "date": "2026-10-30",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/seatrium-bags-fpso-integration-job-from-sbm-offshore/",
           "relevant": false
         },
         {
