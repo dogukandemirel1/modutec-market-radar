@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T13:01:06Z",
+  "last_updated": "2026-10-30T14:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -198,6 +198,14 @@
           "date": "2026-10-30",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/30/solstad-vessel-nets-two-subsea-contracts-in-asia-pacific",
+          "relevant": false
+        },
+        {
+          "title": "Huisman Gets Crane Supply Order for Siem's Subsea Newbuilds",
+          "summary": "Huisman has secured a contract from Siem Industries to supply four knuckle boom cranes for two offshore subsea construction vessels under construction at Fujian Mawei Shipbuilding in China…",
+          "date": "2026-10-30",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544024-huisman-gets-crane-supply-order-for-siem-s-subsea-newbuilds",
           "relevant": false
         },
         {
