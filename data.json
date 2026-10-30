@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T18:01:01Z",
+  "last_updated": "2026-10-30T19:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -192,6 +192,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Hanwha Philly Shipyard Wins $269 Million U.S. Navy Landing Ship Contract",
+          "summary": "Hanwha Philly Shipyard has secured a $269 million contract to build a Medium Landing Ship (LSM) for the U.S. Navy and Marine Corps, marking a major milestone in the South...",
+          "date": "2026-10-30",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/hanwha-philly-shipyard-wins-269-million-u-s-navy-landing-ship-contract/",
+          "relevant": false
+        },
         {
           "title": "Eni/PETRONAS venture Searah starts gas from Maha",
           "summary": "Searah, the 50-50 joint venture of Eni and PETRONAS, started gas production from the Maha field in the Kutei Basin offshore Indonesia, 21 months after the final investment decision. The field lies in the West Ganal…",
