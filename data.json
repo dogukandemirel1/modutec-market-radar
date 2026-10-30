@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T14:01:04Z",
+  "last_updated": "2026-10-30T15:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8020,15 +8020,6 @@
           "region": "SEA"
         },
         {
-          "title": "Saudi Oil Exports Booming Despite Attacks",
-          "summary": "Saudi Arabia's oil exports are holding near wartime highs this month despite a wave of attacks on the kingdom's energy infrastructure, according to preliminary data from ship-tracking firms.",
-          "date": "2026-10-28",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/saudi_oil_exports_booming_despite_attacks-28-oct-2026-184954-article/?rss=true",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
           "title": "SNOC completes Phase 1 of Hedebah gas-condensate field in UAE",
           "summary": "SNOC completed Phase 1 development at Hedebah gas-condensate field in Sharjah, resulting in more than a twofold increase in gas production.",
           "date": "2026-10-28",
@@ -8036,6 +8027,15 @@
           "source_url": "https://www.offshore-technology.com/news/snoc-phase-1-hedebah-gas-field-uae/",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "Saudi Oil Exports Booming Despite Attacks",
+          "summary": "Saudi Arabia's oil exports are holding near wartime highs this month despite a wave of attacks on the kingdom's energy infrastructure, according to preliminary data from ship-tracking firms.",
+          "date": "2026-10-28",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/saudi_oil_exports_booming_despite_attacks-28-oct-2026-184954-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "Saudi Tanker Giant Posts 10-Fold Profit Jump as Ship Rates Surge",
