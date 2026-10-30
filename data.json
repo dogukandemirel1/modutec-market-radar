@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T06:01:04Z",
+  "last_updated": "2026-10-30T07:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4494,6 +4494,14 @@
           "date": "2026-10-29",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/oil_wavers_on_conflicting_reports_of_usa_military_moves-29-oct-2026-184969-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Goldman Sachs, RBC lead oil M&A advisers in Q1-Q3 2026",
+          "summary": "Goldman Sachs is leading oil and gas M&A financial advisers by deal value in Q1-Q3 of 2026, while RBC Capital Markets ranked first by volume.",
+          "date": "2026-10-29",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/goldman-rbc-oil-ma-advisers-q3-2026/",
           "relevant": false
         },
         {
