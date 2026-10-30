@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T20:01:01Z",
+  "last_updated": "2026-10-30T21:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4585,14 +4585,6 @@
           "relevant": false
         },
         {
-          "title": "Maritime Unions Sound Alarm Over Jones Act Waiver Compliance, Foreign Crews and National Security",
-          "summary": "Nine maritime labor organizations say the Trump administration’s prolonged Jones Act waiver raises serious questions about compliance with federal law, including reporting requirements, immigration restrictions and the…",
-          "date": "2026-10-29",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/maritime-unions-sound-alarm-over-jones-act-waiver-compliance-foreign-crews-and-national-security/",
-          "relevant": false
-        },
-        {
           "title": "Oil Wavers on Conflicting Reports of USA Military Moves",
           "summary": "Oil fluctuated in a choppy session as traders weighed conflicting signals on the direction of U.S. military strategy in Iran.",
           "date": "2026-10-29",
@@ -4606,6 +4598,14 @@
           "date": "2026-10-29",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/goldman-rbc-oil-ma-advisers-q3-2026/",
+          "relevant": false
+        },
+        {
+          "title": "Maritime Unions Sound Alarm Over Jones Act Waiver Compliance, Foreign Crews and National Security",
+          "summary": "Nine maritime labor organizations say the Trump administration’s prolonged Jones Act waiver raises serious questions about compliance with federal law, including reporting requirements, immigration restrictions and the…",
+          "date": "2026-10-29",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/maritime-unions-sound-alarm-over-jones-act-waiver-compliance-foreign-crews-and-national-security/",
           "relevant": false
         },
         {
@@ -4641,19 +4641,19 @@
           "relevant": false
         },
         {
-          "title": "Oil Rises with Iran Attack Report, Israeli Election in Focus",
-          "summary": "Oil rose as traders weighed whether the U.S. and Israel would resume military strikes on Iran.",
-          "date": "2026-10-28",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/oil_rises_with_iran_attack_report_israeli_election_in_focus-28-oct-2026-184958-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "BAE Systems completes first live-fire test of Adaptable Deck Launcher",
           "summary": "BAE Systems has completed the first live-fire test of its Adaptable Deck Launcher (ADL), a deck-mounted missile launching system developed for the US Navy and allied fleets. The post BAE Systems completes first…",
           "date": "2026-10-28",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/bae-systems-adl-test/",
+          "relevant": false
+        },
+        {
+          "title": "Oil Rises with Iran Attack Report, Israeli Election in Focus",
+          "summary": "Oil rose as traders weighed whether the U.S. and Israel would resume military strikes on Iran.",
+          "date": "2026-10-28",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/oil_rises_with_iran_attack_report_israeli_election_in_focus-28-oct-2026-184958-article/?rss=true",
           "relevant": false
         },
         {
