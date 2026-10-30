@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T11:01:02Z",
+  "last_updated": "2026-10-30T12:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -192,6 +192,30 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Solstad vessel nets two subsea contracts in Asia Pacific",
+          "summary": "Solstad Maritime (SOMA) has secured two firm contracts for its 2009-built construction support vessel (CSV) for subsea and ROV support activities...",
+          "date": "2026-10-30",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/30/solstad-vessel-nets-two-subsea-contracts-in-asia-pacific",
+          "relevant": false
+        },
+        {
+          "title": "When Contractors Collide: Managing Interfaces to Keep Offshore Oil and Gas Projects on Schedule",
+          "summary": "An offshore project can appear to be progressing on schedule until one contractor is ready to move forward and the next cannot start. What appears to be a relatively…",
+          "date": "2026-10-30",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544021-when-contractors-collide-managing-interfaces-to-keep-offshore-oil-and-gas-projects-on-schedule",
+          "relevant": false
+        },
+        {
+          "title": "Noble Secures $560M in Rig Deals, Backlog Hits $6.7B",
+          "summary": "Offshore drilling contractor Noble Corporation has secured approximately $560 million in new rig contracts across Africa, South America and Norway since its July fleet status report…",
+          "date": "2026-10-30",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544020-noble-secures-560m-in-rig-deals-backlog-hits-6-7b",
+          "relevant": false
+        },
         {
           "title": "Norway Pours $424M Into Floating Offshore Wind Development",
           "summary": "Norwegian government agency Enova has awarded $424.5 million (NOK 3.94 billion) in funding to Fortius Offshore Wind and Fram Wind Solutions for two floating offshore…",
