@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T07:01:04Z",
+  "last_updated": "2026-10-30T08:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -193,11 +193,11 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Wallenius Wilhelmsen locks in $1bn contract haul",
-          "summary": "Norwegian car carrier and logistics giant Wallenius Wilhelmsen has secured two contracts worth more than $1bn with a major equipment manufacturer, adding another sizeable commitment to its shipping and logistics…",
-          "date": "2026-10-29",
+          "title": "Seatrium bags FPSO integration job from SBM Offshore",
+          "summary": "Singapore offshore engineering group Seatrium has secured a contract worth more than S$200m ($156.5m) from Dutch floater specialist SBM Offshore to integrate an FPSO vessel destined for South America. The contract…",
+          "date": "2026-10-30",
           "source_name": "Splash247",
-          "source_url": "https://splash247.com/wallenius-wilhelmsen-locks-in-1bn-contract-haul/",
+          "source_url": "https://splash247.com/seatrium-bags-fpso-integration-job-from-sbm-offshore/",
           "relevant": false
         },
         {
@@ -254,6 +254,14 @@
           "date": "2026-10-29",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/543994-subsea-vessel-market-shifting-dynamics-fleet-expansion",
+          "relevant": false
+        },
+        {
+          "title": "Wallenius Wilhelmsen locks in $1bn contract haul",
+          "summary": "Norwegian car carrier and logistics giant Wallenius Wilhelmsen has secured two contracts worth more than $1bn with a major equipment manufacturer, adding another sizeable commitment to its shipping and logistics…",
+          "date": "2026-10-29",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/wallenius-wilhelmsen-locks-in-1bn-contract-haul/",
           "relevant": false
         },
         {
@@ -6696,6 +6704,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "CVC takes majority stake in Spanish ship repair yard Cernaval",
+          "summary": "Infrastructure investor CVC DIF has completed the acquisition of a majority stake in Spanish ship repair specialist Cernaval, giving the private equity group a foothold in one of Europe’s busiest maritime crossroads…",
+          "date": "2026-10-30",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/cvc-takes-majority-stake-in-spanish-ship-repair-yard-cernaval/",
+          "relevant": false
+        },
         {
           "title": "CO2 storage appraisal campaign in UK North Sea yields positive results",
           "summary": "The Northern Endurance Partnership (NEP), a joint venture of BP, Equinor and TotalEnergies, has completed an appraisal program offshore the UK...",
