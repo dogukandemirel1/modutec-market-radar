@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T10:01:05Z",
+  "last_updated": "2026-10-30T10:49:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4497,6 +4497,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "China Merchants tanker arm targets Yangtze fleet renewal",
+          "summary": "China Merchants-controlled Nanjing Tanker is planning to invest up to RMB191.72m ($28.7m) in ten 4,000 dwt crude oil barges as it moves to upgrade its fleet serving refineries along the Yangtze River. The…",
+          "date": "2026-10-30",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/china-merchants-tanker-arm-targets-yangtze-fleet-renewal/",
+          "relevant": false
+        },
+        {
           "title": "Splash Wrap: New networks, old faultlines",
           "summary": "Two significant European consolidation deals this week illustrated the shipping industry’s appetite for greater control over supply chains. Spanish shipping group Boluda agreed to acquire Dutch multimodal operator…",
           "date": "2026-10-30",
@@ -4577,14 +4585,6 @@
           "relevant": false
         },
         {
-          "title": "Woodside Exits Planned Greater Sunrise Project",
-          "summary": "Timor-Leste's national oil and gas company will take full control of the Greater Sunrise fields in the jointly managed maritime area agreed between the Southeast Asian country and Australia.",
-          "date": "2026-10-28",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/woodside_exits_planned_greater_sunrise_project-28-oct-2026-184952-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "US EPA proposes changes to oil and gas emissions regulations",
           "summary": "The US EPA proposed changes to Clean Air Act oil and gas emissions rules, including provisions for marginal wells and associated gas flaring.",
           "date": "2026-10-28",
@@ -4598,6 +4598,14 @@
           "date": "2026-10-28",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/bae-systems-adl-test/",
+          "relevant": false
+        },
+        {
+          "title": "Woodside Exits Planned Greater Sunrise Project",
+          "summary": "Timor-Leste's national oil and gas company will take full control of the Greater Sunrise fields in the jointly managed maritime area agreed between the Southeast Asian country and Australia.",
+          "date": "2026-10-28",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/woodside_exits_planned_greater_sunrise_project-28-oct-2026-184952-article/?rss=true",
           "relevant": false
         },
         {
