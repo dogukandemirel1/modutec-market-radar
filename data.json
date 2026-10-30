@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T15:01:05Z",
+  "last_updated": "2026-10-30T16:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -193,6 +193,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Eni/PETRONAS venture Searah starts gas from Maha",
+          "summary": "Searah, the 50-50 joint venture of Eni and PETRONAS, started gas production from the Maha field in the Kutei Basin offshore Indonesia, 21 months after the final investment decision. The field lies in the West Ganal…",
+          "date": "2026-10-30",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/eni-petronas-venture-searah-starts-gas-from-maha-80779",
+          "relevant": false
+        },
+        {
           "title": "Solstad vessel nets two subsea contracts in Asia Pacific",
           "summary": "Solstad Maritime (SOMA) has secured two firm contracts for its 2009-built construction support vessel (CSV) for subsea and ROV support activities...",
           "date": "2026-10-30",
@@ -353,14 +361,6 @@
           "relevant": false
         },
         {
-          "title": "ADES books Indonesia contract, one-year Angola extension for Shelf Drilling jackups",
-          "summary": "ADES secured new work for two jackups from its Shelf Drilling fleet, signing the Shelf Drilling Perseverance to PT Pertamina Hulu Mahakam (PHM) in Indonesia and receiving notice that a major international oil company…",
-          "date": "2026-10-28",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/ades-books-indonesia-contract-and-one-year-angola-extension-for-shelf-drilling-jackups-80637",
-          "relevant": false
-        },
-        {
           "title": "Shell ups its production ante with first oil from US Gulf project’s third chapter",
           "summary": "Shell has tied new wells into an existing floating oil facility, boosting deepwater output in the U.S. Gulf of Mexico (Gulf of America).",
           "date": "2026-10-28",
@@ -390,6 +390,14 @@
           "date": "2026-10-28",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/fmd-us-navy-submarine-overhaul/",
+          "relevant": false
+        },
+        {
+          "title": "ADES books Indonesia contract, one-year Angola extension for Shelf Drilling jackups",
+          "summary": "ADES secured new work for two jackups from its Shelf Drilling fleet, signing the Shelf Drilling Perseverance to PT Pertamina Hulu Mahakam (PHM) in Indonesia and receiving notice that a major international oil company…",
+          "date": "2026-10-28",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/ades-books-indonesia-contract-and-one-year-angola-extension-for-shelf-drilling-jackups-80637",
           "relevant": false
         },
         {
