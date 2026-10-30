@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T16:01:05Z",
+  "last_updated": "2026-10-30T17:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -6792,6 +6792,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "Tanker Hit by Limpet Mines in Strait of Hormuz as New Threat to Shipping Emerges",
+          "summary": "A tanker transiting the Strait of Hormuz was attacked by a small boat that attached two explosive devices to its hull, triggering an engine room fire and temporarily disabling the...",
+          "date": "2026-10-30",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/tanker-hit-by-limpet-mines-in-strait-of-hormuz-as-new-threat-to-shipping-emerges/",
+          "relevant": false
+        },
         {
           "title": "CVC takes majority stake in Spanish ship repair yard Cernaval",
           "summary": "Infrastructure investor CVC DIF has completed the acquisition of a majority stake in Spanish ship repair specialist Cernaval, giving the private equity group a foothold in one of Europe’s busiest maritime crossroads…",
