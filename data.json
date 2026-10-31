@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T18:01:00Z",
+  "last_updated": "2026-10-31T19:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8048,6 +8048,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Iran’s IRGC Navy Says Four Tankers Catch Fire In Strait Of Hormuz",
+          "summary": "DUBAI, Oct 30 (Reuters) – Iran’s Revolutionary Guards Navy said on Friday that four oil tankers had caught fire and exploded in the Strait of Hormuz, while attempting to use what it described as unauthorised routes,...",
+          "date": "2026-10-31",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/irans-irgc-navy-says-four-tankers-catch-fire-in-strait-of-hormuz/",
+          "relevant": true,
+          "region": "UAE"
+        },
         {
           "title": "New Details on PT PAL’s Very Light Attack Craft (KSSR)",
           "summary": "New details have emerged about Very Light Attack Craft (Kapal Serang Sangat Ringan / KSSR), developed by PT PAL Indonesia The post New Details on PT PAL’s Very Light Attack Craft (KSSR) appeared first on Naval News .",
