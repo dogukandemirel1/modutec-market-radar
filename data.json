@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T03:01:03Z",
+  "last_updated": "2026-10-31T04:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4569,22 +4569,6 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
-          "title": "Hellenic Navy Receives Its Second FDI Frigate Built by Naval Group",
-          "summary": "The Hellenic Navy has received the second of four Defense and Intervention Frigates (FDI HN) built by Naval Group. The second frigate, Nearchos (F602), differs from the lead ship, Kimon, by featuring enhanced combat…",
-          "date": "2026-10-30",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/hellenic-navy-receives-its-second-fdi-frigate-built-by-naval-group/",
-          "relevant": false
-        },
-        {
-          "title": "Oil Creeps Higher Amid Uncertainty Over USA Strategy in Iran",
-          "summary": "Oil climbed as traders gauged Washington's appetite for renewed military escalation against Iran.",
-          "date": "2026-10-30",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/oil_creeps_higher_amid_uncertainty_over_usa_strategy_in_iran-30-oct-2026-184984-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "China Merchants tanker arm targets Yangtze fleet renewal",
           "summary": "China Merchants-controlled Nanjing Tanker is planning to invest up to RMB191.72m ($28.7m) in ten 4,000 dwt crude oil barges as it moves to upgrade its fleet serving refineries along the Yangtze River. The…",
           "date": "2026-10-30",
@@ -4598,6 +4582,22 @@
           "date": "2026-10-30",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/splash-wrap-new-networks-old-faultlines/",
+          "relevant": false
+        },
+        {
+          "title": "Hellenic Navy Receives Its Second FDI Frigate Built by Naval Group",
+          "summary": "The Hellenic Navy has received the second of four Defense and Intervention Frigates (FDI HN) built by Naval Group. The second frigate, Nearchos (F602), differs from the lead ship, Kimon, by featuring enhanced combat…",
+          "date": "2026-10-30",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/hellenic-navy-receives-its-second-fdi-frigate-built-by-naval-group/",
+          "relevant": false
+        },
+        {
+          "title": "Oil Creeps Higher Amid Uncertainty Over USA Strategy in Iran",
+          "summary": "Oil climbed as traders gauged Washington's appetite for renewed military escalation against Iran.",
+          "date": "2026-10-30",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/oil_creeps_higher_amid_uncertainty_over_usa_strategy_in_iran-30-oct-2026-184984-article/?rss=true",
           "relevant": false
         },
         {
