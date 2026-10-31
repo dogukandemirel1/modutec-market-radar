@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T00:01:06Z",
+  "last_updated": "2026-10-31T01:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -206,6 +206,14 @@
           "date": "2026-10-30",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/eni-petronas-venture-searah-starts-gas-from-maha-80779",
+          "relevant": false
+        },
+        {
+          "title": "KONGSBERG secures US government contract for underwater capabilities",
+          "summary": "Kongsberg Gruppen ASA has been awarded a major contract modification by the Department of War Innovation Unit (DIU) for autonomous underwater capabilities. Kongsberg press release The modification to the Prototype Other…",
+          "date": "2026-10-30",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/kongsberg-secures-us-government-contract-for-underwater-capabilities/",
           "relevant": false
         },
         {
@@ -4577,6 +4585,14 @@
           "relevant": false
         },
         {
+          "title": "Hellenic Navy Receives Its Second FDI Frigate Built by Naval Group",
+          "summary": "The Hellenic Navy has received the second of four Defense and Intervention Frigates (FDI HN) built by Naval Group. The second frigate, Nearchos (F602), differs from the lead ship, Kimon, by featuring enhanced combat…",
+          "date": "2026-10-30",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/hellenic-navy-receives-its-second-fdi-frigate-built-by-naval-group/",
+          "relevant": false
+        },
+        {
           "title": "Oil Creeps Higher Amid Uncertainty Over USA Strategy in Iran",
           "summary": "Oil climbed as traders gauged Washington's appetite for renewed military escalation against Iran.",
           "date": "2026-10-30",
@@ -8024,6 +8040,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "New Details on PT PAL’s Very Light Attack Craft (KSSR)",
+          "summary": "New details have emerged about Very Light Attack Craft (Kapal Serang Sangat Ringan / KSSR), developed by PT PAL Indonesia The post New Details on PT PAL’s Very Light Attack Craft (KSSR) appeared first on Naval News .",
+          "date": "2026-10-30",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/new-details-on-pt-pals-very-light-attack-craft-kssr/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Indonesia Energy begins drilling deeper WK-5 well at Kruh Block in Sumatra",
           "summary": "Indonesia Energy (IEC) commenced drilling operations on 21 October 2026 at its WK-5 well at the Kruh Block in Sumatra, Indonesia. The well follows K-29, which was drilled to about 3,400 ft and has recently started oil…",
