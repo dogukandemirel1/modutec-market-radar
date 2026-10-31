@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T07:01:02Z",
+  "last_updated": "2026-10-31T08:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -192,6 +192,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Chess Dynamics Wins £3M Contract for Indonesian Bung Tomo-Class Frigates",
+          "summary": "UK-based Chess Dynamics announced on October 28 that it had secured a contract worth around £ 3 million from Indonesian state-owned defense electronics company PT Len Industri to supply SeaEagle Fire Control…",
+          "date": "2026-10-31",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/chess-dynamics-wins-3m-contract-for-indonesian-bung-tomo-class-frigates/",
+          "relevant": false
+        },
         {
           "title": "Hanwha Philly Shipyard Wins $269 Million U.S. Navy Landing Ship Contract",
           "summary": "Hanwha Philly Shipyard has secured a $269 million contract to build a Medium Landing Ship (LSM) for the U.S. Navy and Marine Corps, marking a major milestone in the South...",
