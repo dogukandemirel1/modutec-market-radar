@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T16:01:00Z",
+  "last_updated": "2026-11-01T17:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -192,6 +192,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Venture Global Begins Supplying Plaquemines Customers Under Long-Term LNG Contracts",
+          "summary": "By Curtis Williams HOUSTON, Nov 1 (Reuters) – Energy major Shell SHEL.L was the first customer to receive LNG under a long-term sales contract from Venture Global’s VG.N Plaquemines export plant in Louisiana, after it…",
+          "date": "2026-11-01",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/venture-global-begins-supplying-plaquemines-customers-under-long-term-lng-contracts/",
+          "relevant": false
+        },
         {
           "title": "Chess Dynamics Wins £3M Contract for Indonesian Bung Tomo-Class Frigates",
           "summary": "UK-based Chess Dynamics announced on October 28 that it had secured a contract worth around £ 3 million from Indonesian state-owned defense electronics company PT Len Industri to supply SeaEagle Fire Control…",
