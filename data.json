@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T11:13:08Z",
+  "last_updated": "2026-11-01T12:00:57Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -313,14 +313,6 @@
           "relevant": false
         },
         {
-          "title": "TotalEnergies Expects to Sustain Tailwinds behind Blockbuster Q3",
-          "summary": "TotalEnergies reported $9.1 billion or $4.03 per diluted share in net profit adjusted for nonrecurring items for Q3, and expressed confidence high LNG prices and refining margins would continue to underpin results…",
-          "date": "2026-10-29",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/totalenergies_expects_to_sustain_tailwinds_behind_blockbuster_q3-29-oct-2026-184961-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "IMCA Launches 2030 Strategy to Guide Offshore Construction Industry",
           "summary": "The International Marine Contractors Association (IMCA) has launched IMCA 2030, a four-year strategy designed to ensure the association remains relevant, authoritative…",
           "date": "2026-10-29",
@@ -334,6 +326,14 @@
           "date": "2026-10-29",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544002-tullow-oil-taps-deepocean-for-subsea-riser-job-off-ghana",
+          "relevant": false
+        },
+        {
+          "title": "TotalEnergies Expects to Sustain Tailwinds behind Blockbuster Q3",
+          "summary": "TotalEnergies reported $9.1 billion or $4.03 per diluted share in net profit adjusted for nonrecurring items for Q3, and expressed confidence high LNG prices and refining margins would continue to underpin results…",
+          "date": "2026-10-29",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/totalenergies_expects_to_sustain_tailwinds_behind_blockbuster_q3-29-oct-2026-184961-article/?rss=true",
           "relevant": false
         },
         {
