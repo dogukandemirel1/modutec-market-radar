@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T18:01:06Z",
+  "last_updated": "2026-11-01T19:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -238,6 +238,14 @@
           "date": "2026-10-30",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/30/solstad-vessel-nets-two-subsea-contracts-in-asia-pacific",
+          "relevant": false
+        },
+        {
+          "title": "India clears $4.2bn plan for eight next-generation Navy corvettes",
+          "summary": "India’s Cabinet Committee on Security has reportedly approved a plan to build eight next-generation corvettes (NGCs) for the Indian Navy, with contracts expected to be signed with two state-owned shipyards in the coming…",
+          "date": "2026-10-30",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/indian-navy-corvette-approval/",
           "relevant": false
         },
         {
