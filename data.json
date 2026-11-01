@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T13:00:57Z",
+  "last_updated": "2026-11-01T14:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -217,6 +217,14 @@
           "relevant": false
         },
         {
+          "title": "KONGSBERG secures US government contract for underwater capabilities",
+          "summary": "Kongsberg Gruppen ASA has been awarded a major contract modification by the Department of War Innovation Unit (DIU) for autonomous underwater capabilities. Kongsberg press release The modification to the Prototype Other…",
+          "date": "2026-10-30",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/kongsberg-secures-us-government-contract-for-underwater-capabilities/",
+          "relevant": false
+        },
+        {
           "title": "Solstad vessel nets two subsea contracts in Asia Pacific",
           "summary": "Solstad Maritime (SOMA) has secured two firm contracts for its 2009-built construction support vessel (CSV) for subsea and ROV support activities...",
           "date": "2026-10-30",
@@ -278,14 +286,6 @@
           "date": "2026-10-30",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544015-st-lng-targets-2027-investment-decision-for-8-2-texas-offshore-lng-project",
-          "relevant": false
-        },
-        {
-          "title": "KONGSBERG secures US government contract for underwater capabilities",
-          "summary": "Kongsberg Gruppen ASA has been awarded a major contract modification by the Department of War Innovation Unit (DIU) for autonomous underwater capabilities. Kongsberg press release The modification to the Prototype Other…",
-          "date": "2026-10-30",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/kongsberg-secures-us-government-contract-for-underwater-capabilities/",
           "relevant": false
         },
         {
@@ -4577,14 +4577,6 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
-          "title": "Oil Creeps Higher Amid Uncertainty Over USA Strategy in Iran",
-          "summary": "Oil climbed as traders gauged Washington's appetite for renewed military escalation against Iran.",
-          "date": "2026-10-30",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/oil_creeps_higher_amid_uncertainty_over_usa_strategy_in_iran-30-oct-2026-184984-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "China Merchants tanker arm targets Yangtze fleet renewal",
           "summary": "China Merchants-controlled Nanjing Tanker is planning to invest up to RMB191.72m ($28.7m) in ten 4,000 dwt crude oil barges as it moves to upgrade its fleet serving refineries along the Yangtze River. The…",
           "date": "2026-10-30",
@@ -4606,6 +4598,14 @@
           "date": "2026-10-30",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/10/hellenic-navy-receives-its-second-fdi-frigate-built-by-naval-group/",
+          "relevant": false
+        },
+        {
+          "title": "Oil Creeps Higher Amid Uncertainty Over USA Strategy in Iran",
+          "summary": "Oil climbed as traders gauged Washington's appetite for renewed military escalation against Iran.",
+          "date": "2026-10-30",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/oil_creeps_higher_amid_uncertainty_over_usa_strategy_in_iran-30-oct-2026-184984-article/?rss=true",
           "relevant": false
         },
         {
@@ -8048,6 +8048,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Sarawat and Tuwaiq Strategic Projects Strengthen Royal Saudi Naval Forces, Localize Maritime Defense",
+          "summary": "The Saudi Ministry of Defense is accelerating the development of a modern naval force equipped with advanced combat systems, high operational efficiency, and qualified national personnel. This drive stems from the…",
+          "date": "2026-11-01",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/sarawat-and-tuwaiq-strategic-projects-strengthen-royal-saudi-naval-forces-localize-maritime-defense/",
+          "relevant": false,
+          "region": "KSA"
+        },
         {
           "title": "Iran’s IRGC Navy Says Four Tankers Catch Fire In Strait Of Hormuz",
           "summary": "DUBAI, Oct 30 (Reuters) – Iran’s Revolutionary Guards Navy said on Friday that four oil tankers had caught fire and exploded in the Strait of Hormuz, while attempting to use what it described as unauthorised routes,...",
