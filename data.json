@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T14:01:07Z",
+  "last_updated": "2026-11-02T15:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -254,6 +254,14 @@
           "date": "2026-11-02",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/11/02/subsea7-wins-epci-contract-for-fast-track-oil-development-off-norway",
+          "relevant": false
+        },
+        {
+          "title": "Kistos to Acquire 30 Percent in Abbey, Baker Gas Fields",
+          "summary": "Kistos agreed to acquire a 30 percent stake in the Seaward Production Licenses containing the planned Abbey and Baker natural gas projects on the United Kingdom's side of the North Sea.",
+          "date": "2026-11-02",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/kistos_to_acquire_30_percent_in_abbey_baker_gas_fields-02-nov-2026-184988-article/?rss=true",
           "relevant": false
         },
         {
@@ -513,14 +521,6 @@
           "relevant": false
         },
         {
-          "title": "Eni awards Saipem drilling contracts for Cyprus and Ghana",
-          "summary": "Saipem won two offshore drilling contracts from Eni subsidiaries, one for the drillship Saipem 10000 offshore Cyprus and one for the semisubmersible Scarabeo 9 offshore Ghana. The awards add visibility on fleet…",
-          "date": "2026-10-28",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/eni-awards-saipem-drilling-contracts-for-cyprus-and-ghana-80644",
-          "relevant": false
-        },
-        {
           "title": "Shell ups its production ante with first oil from US Gulf project’s third chapter",
           "summary": "Shell has tied new wells into an existing floating oil facility, boosting deepwater output in the U.S. Gulf of Mexico (Gulf of America).",
           "date": "2026-10-28",
@@ -550,6 +550,14 @@
           "date": "2026-10-28",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/fmd-us-navy-submarine-overhaul/",
+          "relevant": false
+        },
+        {
+          "title": "Eni awards Saipem drilling contracts for Cyprus and Ghana",
+          "summary": "Saipem won two offshore drilling contracts from Eni subsidiaries, one for the drillship Saipem 10000 offshore Cyprus and one for the semisubmersible Scarabeo 9 offshore Ghana. The awards add visibility on fleet…",
+          "date": "2026-10-28",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/eni-awards-saipem-drilling-contracts-for-cyprus-and-ghana-80644",
           "relevant": false
         },
         {
@@ -4704,6 +4712,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "UAE to Protect Energy Infrastructure, Invest in New Export Routes to Prepare for Iran War, Minister Says",
+          "summary": "The UAE will protect its energy infrastructure and invest in new export routes, storage capacity abroad and shipping fleets to be better prepared for the US-Israeli war on Iran, its energy minister said on Monday.",
+          "date": "2026-11-02",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/uae-to-protect-energy-infrastructure-invest-in-new-export-routes-to-prepare-for-iran-war-minister-says/",
+          "relevant": true
+        },
         {
           "title": "UK's 2 GW subsea power cable gets government's approval",
           "summary": "The UK government has granted development consent for the 2 GW Sea Link subsea high-voltage direct current (HVDC) electricity connection between...",
