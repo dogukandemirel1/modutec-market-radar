@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T07:01:02Z",
+  "last_updated": "2026-11-02T08:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8,6 +8,14 @@
       "short_title": "Day-Rates",
       "description": "Benchmark day-rate trends for jackups, floaters and offshore support vessels across key regions.",
       "items": [
+        {
+          "title": "Odfjell to manage reactivated semisub for Serica’s North Sea campaign",
+          "summary": "Norwegian offshore drilling contractor Odfjell Drilling has secured a management agreement for the sixth-generation Beacon Pacific semisubmersible, contracted by Serica Energy for a six-well campaign in the UK North…",
+          "date": "2026-11-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/odfjell-to-manage-reactivated-semisub-for-sericas-north-sea-campaign/",
+          "relevant": false
+        },
         {
           "title": "Saipem wins multimillion-dollar rig jobs with Eni in Mediterranean and West Africa",
           "summary": "Saipem has picked up offshore drilling assignments with Eni off the coasts of Cyprus and Ghana, boosting fleet utilization for 2026 and 2027.",
@@ -192,6 +200,30 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Independent probe follows recovery of final Borr rig victim",
+          "summary": "The body of the fifth and final missing worker from Borr Drilling’s Prospector 5 jackup sinking offshore Gabon has been located, according to the country’s state news agency, as the Norwegian-listed drilling contractor…",
+          "date": "2026-11-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/independent-probe-follows-recovery-of-final-borr-rig-victim/",
+          "relevant": false
+        },
+        {
+          "title": "Solstad CSV wins two APAC subsea contracts",
+          "summary": "Norwegian offshore vessel owner Solstad Maritime has secured two contracts for its construction support vessel Normand Australis, covering subsea and remotely operated vehicle (ROV) operations in the Asia-Pacific…",
+          "date": "2026-11-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/solstad-csv-wins-two-apac-subsea-contracts/",
+          "relevant": false
+        },
+        {
+          "title": "South Korea opens 2.2GW offshore wind auction with lower price caps",
+          "summary": "South Korea has launched a new offshore wind auction offering 2.2GW of capacity, including 500MW reserved for floating wind developments, as the country accelerates its renewable energy programme. The Ministry of…",
+          "date": "2026-11-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/south-korea-opens-2-2gw-offshore-wind-auction-with-lower-price-caps/",
+          "relevant": false
+        },
         {
           "title": "Venture Global Begins Supplying Plaquemines Customers Under Long-Term LNG Contracts",
           "summary": "By Curtis Williams HOUSTON, Nov 1 (Reuters) – Energy major Shell SHEL.L was the first customer to receive LNG under a long-term sales contract from Venture Global’s VG.N Plaquemines export plant in Louisiana, after it…",
@@ -4593,22 +4625,6 @@
           "relevant": false
         },
         {
-          "title": "China Merchants tanker arm targets Yangtze fleet renewal",
-          "summary": "China Merchants-controlled Nanjing Tanker is planning to invest up to RMB191.72m ($28.7m) in ten 4,000 dwt crude oil barges as it moves to upgrade its fleet serving refineries along the Yangtze River. The…",
-          "date": "2026-10-30",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/china-merchants-tanker-arm-targets-yangtze-fleet-renewal/",
-          "relevant": false
-        },
-        {
-          "title": "Splash Wrap: New networks, old faultlines",
-          "summary": "Two significant European consolidation deals this week illustrated the shipping industry’s appetite for greater control over supply chains. Spanish shipping group Boluda agreed to acquire Dutch multimodal operator…",
-          "date": "2026-10-30",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/splash-wrap-new-networks-old-faultlines/",
-          "relevant": false
-        },
-        {
           "title": "Hellenic Navy Receives Its Second FDI Frigate Built by Naval Group",
           "summary": "The Hellenic Navy has received the second of four Defense and Intervention Frigates (FDI HN) built by Naval Group. The second frigate, Nearchos (F602), differs from the lead ship, Kimon, by featuring enhanced combat…",
           "date": "2026-10-30",
@@ -4622,6 +4638,22 @@
           "date": "2026-10-30",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/oil_creeps_higher_amid_uncertainty_over_usa_strategy_in_iran-30-oct-2026-184984-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "China Merchants tanker arm targets Yangtze fleet renewal",
+          "summary": "China Merchants-controlled Nanjing Tanker is planning to invest up to RMB191.72m ($28.7m) in ten 4,000 dwt crude oil barges as it moves to upgrade its fleet serving refineries along the Yangtze River. The…",
+          "date": "2026-10-30",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/china-merchants-tanker-arm-targets-yangtze-fleet-renewal/",
+          "relevant": false
+        },
+        {
+          "title": "Splash Wrap: New networks, old faultlines",
+          "summary": "Two significant European consolidation deals this week illustrated the shipping industry’s appetite for greater control over supply chains. Spanish shipping group Boluda agreed to acquire Dutch multimodal operator…",
+          "date": "2026-10-30",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/splash-wrap-new-networks-old-faultlines/",
           "relevant": false
         },
         {
