@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T11:01:02Z",
+  "last_updated": "2026-11-02T12:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -200,6 +200,22 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Oceanity bags Petrobras charter for oil spill response vessel",
+          "summary": "Offshore vessel operator Oceanity, formerly known as CMM Offshore, has secured a four-year charter contract with Brazilian state-controlled oil major Petrobras for its fast oil spill response vessel CMM Purity. Oceanity…",
+          "date": "2026-11-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/oceanity-bags-petrobras-charter-for-oil-spill-response-vessel/",
+          "relevant": false
+        },
+        {
+          "title": "Norway hands out $430m for floating offshore wind projects",
+          "summary": "Norway’s state-backed Enova has awarded NOK3.94bn ($430m) in funding to two floating offshore wind projects to install four next-generation turbines off Karmøy. Fortius Offshore Wind and Fram Wind Solutions have been…",
+          "date": "2026-11-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/norway-hands-out-430m-for-floating-offshore-wind-projects/",
+          "relevant": false
+        },
         {
           "title": "Wallenius Wilhelmsen adds $700m Asian carmaker deal to contract haul",
           "summary": "Norwegian car carrier giant Wallenius Wilhelmsen has secured a three-year shipping contract worth around $700m with a major Asian automaker, taking its newly announced contract wins to more than $1.7bn in the space of…",
@@ -4665,6 +4681,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "UK's 2 GW subsea power cable gets government's approval",
+          "summary": "The UK government has granted development consent for the 2 GW Sea Link subsea high-voltage direct current (HVDC) electricity connection between...",
+          "date": "2026-11-02",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/11/02/uks-2-gw-subsea-power-cable-gets-governments-approval",
+          "relevant": false
+        },
+        {
           "title": "OPEC Keeps December Output Targets Unchanged",
           "summary": "Major OPEC+ nations reaffirmed plans to keep oil production quotas unchanged in December as conflict in the Middle East continues to curb swaths of the group's output.",
           "date": "2026-11-02",
@@ -8166,6 +8190,15 @@
           "date": "2026-11-02",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/asia-break-bulk-adds-heavylift-muscle-in-schoeller-deal/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "TotalEnergies strikes deal for Lang Lebah and B14 fields in Malaysia",
+          "summary": "TotalEnergies has signed farm-out agreements to acquire a 30% operated interest in the Lang Lebah and B14 offshore gas fields.",
+          "date": "2026-11-02",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/totalenergies-lang-lebah-b14-fields/",
           "relevant": false,
           "region": "SEA"
         },
