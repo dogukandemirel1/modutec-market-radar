@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T12:16:07Z",
+  "last_updated": "2026-11-02T13:01:17Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -6976,6 +6976,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "Eni, Petronas JV Brings Indonesian Offshore Gas Field Online",
+          "summary": "Searah, the joint venture between Eni and Petronas, has started gas production from the Maha field offshore Indonesia, with output expected to ramp up to 230 million…",
+          "date": "2026-11-02",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544066-eni-petronas-jv-brings-indonesian-offshore-gas-field-online",
+          "relevant": false
+        },
         {
           "title": "Portugal Mulls Bigger Galp Stake After Moeve Deal Collapse",
           "summary": "Portugal's government is assessing whether to increase its 8% stake in oil company Galp Energia after the collapse of merger talks with Spain's Moeve, the economy…",
