@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T13:01:17Z",
+  "last_updated": "2026-11-02T14:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -257,11 +257,27 @@
           "relevant": false
         },
         {
+          "title": "Eni Starts Production at Maha Gas Field offshore Indonesia",
+          "summary": "Eni and Petronas began production at the Maha field in Indonesia's Kutei Basin, a tieback project that grows the capacity of the Jangkrik Floating Production Unit by up to 250 million standard cubic feet per day of…",
+          "date": "2026-11-02",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/eni_starts_production_at_maha_gas_field_offshore_indonesia-02-nov-2026-184987-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "BP Completes $6B Sale of 65 Percent Stake in Castrol",
           "summary": "BP completed a deal to offload its Castrol lubricants business, giving the oil and gas major $6 billion to pay down debt as it works to repair the balance sheet.",
           "date": "2026-11-02",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/bp_completes_6b_sale_of_65_percent_stake_in_castrol-02-nov-2026-184986-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Global OTEC's Floating Prototype Withstands 19 Storms in Offshore Trial",
+          "summary": "Ocean energy company Global OTEC has completed a year of continuous offshore testing of its floating Ocean Thermal Energy Conversion (OTEC) structural prototype off Gran Canaria…",
+          "date": "2026-11-02",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544068-global-otec-s-floating-prototype-withstands-19-storms-in-offshore-trial",
           "relevant": false
         },
         {
