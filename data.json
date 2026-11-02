@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T09:01:04Z",
+  "last_updated": "2026-11-02T10:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -200,6 +200,30 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Subsea 7 lands North Sea subsea contract from Aker BP",
+          "summary": "Offshore engineering and construction specialist Subsea 7 has secured a contract worth between $150m and $300m from Aker BP for the fast-track development of the Lyra field in the Norwegian North Sea. The award covers…",
+          "date": "2026-11-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/subsea-7-lands-north-sea-subsea-contract-from-aker-bp/",
+          "relevant": false
+        },
+        {
+          "title": "Subsea7 wins EPCI contract for fast-track oil development off Norway",
+          "summary": "Subsea7 has secured an engineering, procurement, construction and installation (EPCI) contract with Aker BP for the fast-track Lyra field...",
+          "date": "2026-11-02",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/11/02/subsea7-wins-epci-contract-for-fast-track-oil-development-off-norway",
+          "relevant": false
+        },
+        {
+          "title": "Subsea7 Lands North Sea Tieback Job from Aker BP",
+          "summary": "Subsea7 has secured a contract from Aker BP for subsea pipeline and infrastructure work on the Lyra field development in the North Sea offshore Norway.The contract…",
+          "date": "2026-11-02",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544050-subsea7-lands-north-sea-tieback-job-from-aker-bp",
+          "relevant": false
+        },
         {
           "title": "Independent probe follows recovery of final Borr rig victim",
           "summary": "The body of the fifth and final missing worker from Borr Drilling’s Prospector 5 jackup sinking offshore Gabon has been located, according to the country’s state news agency, as the Norwegian-listed drilling contractor…",
@@ -4617,11 +4641,11 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
-          "title": "General cargo ship in unresolved abandonment case found sinking off Cyprus",
-          "summary": "The Tanzanian-flagged general cargo ship AS Dream, which remains listed in the ILO/IMO seafarer abandonment database, has been involved in a sinking incident off Cyprus, with all 10 crew members rescued. Cyprus’s Joint…",
+          "title": "OPEC Keeps December Output Targets Unchanged",
+          "summary": "Major OPEC+ nations reaffirmed plans to keep oil production quotas unchanged in December as conflict in the Middle East continues to curb swaths of the group's output.",
           "date": "2026-11-02",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/general-cargo-ship-in-unresolved-abandonment-case-found-sinking-off-cyprus/",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/opec_keeps_december_output_targets_unchanged-02-nov-2026-184985-article/?rss=true",
           "relevant": false
         },
         {
@@ -4630,6 +4654,14 @@
           "date": "2026-11-02",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544046-big-oil-pockets-near-record-profits-but-spending-restraint-signals-long-term-doubts",
+          "relevant": false
+        },
+        {
+          "title": "General cargo ship in unresolved abandonment case found sinking off Cyprus",
+          "summary": "The Tanzanian-flagged general cargo ship AS Dream, which remains listed in the ILO/IMO seafarer abandonment database, has been involved in a sinking incident off Cyprus, with all 10 crew members rescued. Cyprus’s Joint…",
+          "date": "2026-11-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/general-cargo-ship-in-unresolved-abandonment-case-found-sinking-off-cyprus/",
           "relevant": false
         },
         {
@@ -8104,6 +8136,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Asia Break Bulk adds heavylift muscle in Schoeller deal",
+          "summary": "Singapore-based Asia Break Bulk has secured four 12,600 dwt multipurpose heavylift newbuildings through a long-term deal with Schoeller Holdings. The COLI Group-controlled carrier said the Octopus-type vessels, designed…",
+          "date": "2026-11-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/asia-break-bulk-adds-heavylift-muscle-in-schoeller-deal/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "TotalEnergies to Take Operatorship of Two Major Gas Fields Offshore Malaysia",
           "summary": "TotalEnergies has signed agreements to acquire a 30% operated interest in the Lang Lebah and B14 gas fields offshore Malaysia, paving the way for an integrated development…",
