@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T12:01:03Z",
+  "last_updated": "2026-11-02T12:16:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -238,6 +238,14 @@
           "date": "2026-11-02",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/subsea-7-lands-north-sea-subsea-contract-from-aker-bp/",
+          "relevant": false
+        },
+        {
+          "title": "Gas flows from Southeast Asian offshore field 21 months after FID",
+          "summary": "Eni and Petronas’ Searah has brought online an Asian gas field, flowing 250 million standard cubic feet per day (scfd) to domestic and export markets.",
+          "date": "2026-11-02",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/11/02/gas-flows-from-southeast-asian-offshore-field-21-months-after-fid",
           "relevant": false
         },
         {
