@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T16:01:05Z",
+  "last_updated": "2026-11-02T17:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8,6 +8,14 @@
       "short_title": "Day-Rates",
       "description": "Benchmark day-rate trends for jackups, floaters and offshore support vessels across key regions.",
       "items": [
+        {
+          "title": "Odfjell Drilling to manage Beacon Pacific for Serica’s UK program",
+          "summary": "Serica Energy signed a drilling contract for the sixth-generation semisubmersible Beacon Pacific to carry out a multi-well campaign on the UK Continental Shelf. The firm scope covers six wells, with options for further…",
+          "date": "2026-11-02",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/odfjell-drilling-to-manage-beacon-pacific-for-sericas-uk-program-80791",
+          "relevant": false
+        },
         {
           "title": "Odfjell to manage reactivated semisub for Serica’s North Sea campaign",
           "summary": "Norwegian offshore drilling contractor Odfjell Drilling has secured a management agreement for the sixth-generation Beacon Pacific semisubmersible, contracted by Serica Energy for a six-well campaign in the UK North…",
@@ -337,14 +345,6 @@
           "relevant": false
         },
         {
-          "title": "Hanwha Philly Shipyard Wins $269 Million U.S. Navy Landing Ship Contract",
-          "summary": "Hanwha Philly Shipyard has secured a $269 million contract to build a Medium Landing Ship (LSM) for the U.S. Navy and Marine Corps, marking a major milestone in the South...",
-          "date": "2026-10-30",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/hanwha-philly-shipyard-wins-269-million-u-s-navy-landing-ship-contract/",
-          "relevant": false
-        },
-        {
           "title": "Eni/PETRONAS venture Searah starts gas from Maha",
           "summary": "Searah, the 50-50 joint venture of Eni and PETRONAS, started gas production from the Maha field in the Kutei Basin offshore Indonesia, 21 months after the final investment decision. The field lies in the West Ganal…",
           "date": "2026-10-30",
@@ -366,6 +366,14 @@
           "date": "2026-10-30",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/indian-navy-corvette-approval/",
+          "relevant": false
+        },
+        {
+          "title": "Hanwha Philly Shipyard Wins $269 Million U.S. Navy Landing Ship Contract",
+          "summary": "Hanwha Philly Shipyard has secured a $269 million contract to build a Medium Landing Ship (LSM) for the U.S. Navy and Marine Corps, marking a major milestone in the South...",
+          "date": "2026-10-30",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/hanwha-philly-shipyard-wins-269-million-u-s-navy-landing-ship-contract/",
           "relevant": false
         },
         {
@@ -8238,6 +8246,15 @@
           "date": "2026-11-02",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/asia-break-bulk-adds-heavylift-muscle-in-schoeller-deal/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "TotalEnergies to Take Control of Upstream Projects for Malaysia LNG",
+          "summary": "TotalEnergies agreed to acquire a 30 percent operating stake in the SK410B Lang Lebah and B14 gas fields off the coast of the Malaysian state of Sarawak.",
+          "date": "2026-11-02",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/totalenergies_to_take_control_of_upstream_projects_for_malaysia_lng-02-nov-2026-184991-article/?rss=true",
           "relevant": false,
           "region": "SEA"
         },
