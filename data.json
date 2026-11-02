@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T08:01:02Z",
+  "last_updated": "2026-11-02T09:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4625,6 +4625,14 @@
           "relevant": false
         },
         {
+          "title": "Big Oil Pockets Near-Record Profits but Spending Restraint Signals Long-Term Doubts",
+          "summary": "Big Oil is reaping near record cash windfalls from the eight-month-old Iran war, but Western energy producers’ reluctance to ramp up spending reveals persistent…",
+          "date": "2026-11-02",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544046-big-oil-pockets-near-record-profits-but-spending-restraint-signals-long-term-doubts",
+          "relevant": false
+        },
+        {
           "title": "Hellenic Navy Receives Its Second FDI Frigate Built by Naval Group",
           "summary": "The Hellenic Navy has received the second of four Defense and Intervention Frigates (FDI HN) built by Naval Group. The second frigate, Nearchos (F602), differs from the lead ship, Kimon, by featuring enhanced combat…",
           "date": "2026-10-30",
@@ -6881,6 +6889,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Portugal Mulls Bigger Galp Stake After Moeve Deal Collapse",
+          "summary": "Portugal's government is assessing whether to increase its 8% stake in oil company Galp Energia after the collapse of merger talks with Spain's Moeve, the economy…",
+          "date": "2026-11-02",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544047-portugal-mulls-bigger-galp-stake-after-moeve-deal-collapse",
+          "relevant": false
+        },
+        {
           "title": "CVC takes majority stake in Spanish ship repair yard Cernaval",
           "summary": "Infrastructure investor CVC DIF has completed the acquisition of a majority stake in Spanish ship repair specialist Cernaval, giving the private equity group a foothold in one of Europe’s busiest maritime crossroads…",
           "date": "2026-10-30",
@@ -8088,6 +8104,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "TotalEnergies to Take Operatorship of Two Major Gas Fields Offshore Malaysia",
+          "summary": "TotalEnergies has signed agreements to acquire a 30% operated interest in the Lang Lebah and B14 gas fields offshore Malaysia, paving the way for an integrated development…",
+          "date": "2026-11-02",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544045-totalenergies-to-take-operatorship-of-two-major-gas-fields-offshore-malaysia",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Sarawat and Tuwaiq Strategic Projects Strengthen Royal Saudi Naval Forces, Localize Maritime Defense",
           "summary": "The Saudi Ministry of Defense is accelerating the development of a modern naval force equipped with advanced combat systems, high operational efficiency, and qualified national personnel. This drive stems from the…",
