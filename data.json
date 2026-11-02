@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T20:01:03Z",
+  "last_updated": "2026-11-02T21:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -208,6 +208,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "When the ship pays back before the owner does",
+          "summary": "Fuel-saving retrofits can pay for themselves long before the shipowner who funded them sees a return. A new BIMCO contract seeks to resolve shipping’s longstanding divide between who pays for efficiency and who pockets…",
+          "date": "2026-11-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/when-the-ship-pays-back-before-the-owner-does/",
+          "relevant": false
+        },
         {
           "title": "Oceanity bags Petrobras charter for oil spill response vessel",
           "summary": "Offshore vessel operator Oceanity, formerly known as CMM Offshore, has secured a four-year charter contract with Brazilian state-controlled oil major Petrobras for its fast oil spill response vessel CMM Purity. Oceanity…",
@@ -4727,6 +4735,14 @@
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/uae-to-protect-energy-infrastructure-invest-in-new-export-routes-to-prepare-for-iran-war-minister-says/",
           "relevant": true
+        },
+        {
+          "title": "CNO Caudle Gets Up-Close Look at U.S. Navy’s Newest Hypersonic Missile",
+          "summary": "Chief of Naval Operations Adm. Daryl Caudle got an up-close look at the U.S. Navy’s new Blackbeard air-launched hypersonic missile during a visit to Naval Air Station Patuxent River, Maryland, on Oct. 28, offering a…",
+          "date": "2026-11-02",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/cno-caudle-gets-up-close-look-at-u-s-navys-newest-hypersonic-missile/",
+          "relevant": false
         },
         {
           "title": "UK's 2 GW subsea power cable gets government's approval",
