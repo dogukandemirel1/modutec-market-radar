@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T10:01:07Z",
+  "last_updated": "2026-11-02T11:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -201,6 +201,22 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Wallenius Wilhelmsen adds $700m Asian carmaker deal to contract haul",
+          "summary": "Norwegian car carrier giant Wallenius Wilhelmsen has secured a three-year shipping contract worth around $700m with a major Asian automaker, taking its newly announced contract wins to more than $1.7bn in the space of…",
+          "date": "2026-11-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/wallenius-wilhelmsen-adds-700m-asian-carmaker-deal-to-contract-haul/",
+          "relevant": false
+        },
+        {
+          "title": "Yangzijiang Maritime extends tanker buying spree at Haifeng",
+          "summary": "Singapore-listed Yangzijiang Maritime Development has signed a contract for four 50,000 dwt MR product tankers at Jiangsu Haifeng Shipbuilding, extending its extensive newbuilding programme in China. The Ren Yuanlin-led…",
+          "date": "2026-11-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/yangzijiang-maritime-extends-tanker-buying-spree-at-haifeng/",
+          "relevant": false
+        },
+        {
           "title": "Subsea 7 lands North Sea subsea contract from Aker BP",
           "summary": "Offshore engineering and construction specialist Subsea 7 has secured a contract worth between $150m and $300m from Aker BP for the fast-track development of the Lyra field in the Norwegian North Sea. The award covers…",
           "date": "2026-11-02",
@@ -214,6 +230,14 @@
           "date": "2026-11-02",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/11/02/subsea7-wins-epci-contract-for-fast-track-oil-development-off-norway",
+          "relevant": false
+        },
+        {
+          "title": "BP Completes $6B Sale of 65 Percent Stake in Castrol",
+          "summary": "BP completed a deal to offload its Castrol lubricants business, giving the oil and gas major $6 billion to pay down debt as it works to repair the balance sheet.",
+          "date": "2026-11-02",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/bp_completes_6b_sale_of_65_percent_stake_in_castrol-02-nov-2026-184986-article/?rss=true",
           "relevant": false
         },
         {
@@ -281,14 +305,6 @@
           "relevant": false
         },
         {
-          "title": "KONGSBERG secures US government contract for underwater capabilities",
-          "summary": "Kongsberg Gruppen ASA has been awarded a major contract modification by the Department of War Innovation Unit (DIU) for autonomous underwater capabilities. Kongsberg press release The modification to the Prototype Other…",
-          "date": "2026-10-30",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/kongsberg-secures-us-government-contract-for-underwater-capabilities/",
-          "relevant": false
-        },
-        {
           "title": "Solstad vessel nets two subsea contracts in Asia Pacific",
           "summary": "Solstad Maritime (SOMA) has secured two firm contracts for its 2009-built construction support vessel (CSV) for subsea and ROV support activities...",
           "date": "2026-10-30",
@@ -326,6 +342,14 @@
           "date": "2026-10-30",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544022-solstad-s-normand-australis-wins-250-day-subsea-campaign",
+          "relevant": false
+        },
+        {
+          "title": "KONGSBERG secures US government contract for underwater capabilities",
+          "summary": "Kongsberg Gruppen ASA has been awarded a major contract modification by the Department of War Innovation Unit (DIU) for autonomous underwater capabilities. Kongsberg press release The modification to the Prototype Other…",
+          "date": "2026-10-30",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/kongsberg-secures-us-government-contract-for-underwater-capabilities/",
           "relevant": false
         },
         {
@@ -4665,19 +4689,19 @@
           "relevant": false
         },
         {
-          "title": "Hellenic Navy Receives Its Second FDI Frigate Built by Naval Group",
-          "summary": "The Hellenic Navy has received the second of four Defense and Intervention Frigates (FDI HN) built by Naval Group. The second frigate, Nearchos (F602), differs from the lead ship, Kimon, by featuring enhanced combat…",
-          "date": "2026-10-30",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/10/hellenic-navy-receives-its-second-fdi-frigate-built-by-naval-group/",
-          "relevant": false
-        },
-        {
           "title": "Oil Creeps Higher Amid Uncertainty Over USA Strategy in Iran",
           "summary": "Oil climbed as traders gauged Washington's appetite for renewed military escalation against Iran.",
           "date": "2026-10-30",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/oil_creeps_higher_amid_uncertainty_over_usa_strategy_in_iran-30-oct-2026-184984-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Hellenic Navy Receives Its Second FDI Frigate Built by Naval Group",
+          "summary": "The Hellenic Navy has received the second of four Defense and Intervention Frigates (FDI HN) built by Naval Group. The second frigate, Nearchos (F602), differs from the lead ship, Kimon, by featuring enhanced combat…",
+          "date": "2026-10-30",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/10/hellenic-navy-receives-its-second-fdi-frigate-built-by-naval-group/",
           "relevant": false
         },
         {
@@ -8142,6 +8166,24 @@
           "date": "2026-11-02",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/asia-break-bulk-adds-heavylift-muscle-in-schoeller-deal/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Eni begins gas production at Maha field offshore Indonesia",
+          "summary": "Eni has commenced gas production from the Maha field, situated in the West Ganal block of the Kutei Basin offshore Indonesia.",
+          "date": "2026-11-02",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/eni-gas-production-maha-field-indonesia/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "TotalEnergies to Take Operatorship of Two Major Gas Fields off Malaysia",
+          "summary": "TotalEnergies has signed agreements to acquire a 30% operated interest in the Lang Lebah and B14 gas fields offshore Malaysia, paving the way for an integrated development…",
+          "date": "2026-11-02",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544045-totalenergies-to-take-operatorship-of-two-major-gas-fields-off-malaysia",
           "relevant": false,
           "region": "SEA"
         },
