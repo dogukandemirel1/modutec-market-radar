@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T06:01:04Z",
+  "last_updated": "2026-11-02T07:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4584,6 +4584,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "General cargo ship in unresolved abandonment case found sinking off Cyprus",
+          "summary": "The Tanzanian-flagged general cargo ship AS Dream, which remains listed in the ILO/IMO seafarer abandonment database, has been involved in a sinking incident off Cyprus, with all 10 crew members rescued. Cyprus’s Joint…",
+          "date": "2026-11-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/general-cargo-ship-in-unresolved-abandonment-case-found-sinking-off-cyprus/",
+          "relevant": false
+        },
         {
           "title": "China Merchants tanker arm targets Yangtze fleet renewal",
           "summary": "China Merchants-controlled Nanjing Tanker is planning to invest up to RMB191.72m ($28.7m) in ten 4,000 dwt crude oil barges as it moves to upgrade its fleet serving refineries along the Yangtze River. The…",
