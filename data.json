@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T21:01:08Z",
+  "last_updated": "2026-11-03T22:01:14Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4817,6 +4817,14 @@
           "relevant": false
         },
         {
+          "title": "Oil Prices Swing on Conflicting Iran Signals",
+          "summary": "Oil markets remain volatile as traders weigh Iran war risks against improving regional supply.",
+          "date": "2026-11-03",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/oil_prices_swing_on_conflicting_iran_signals-03-nov-2026-185001-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "Diamondback Bets on Permian Becoming Biggest US Gas Play",
           "summary": "Diamondback Energy expects the Permian Basin to remain the United States' leading oil play into the 2030s while also becoming the country's biggest natural gas play by that period.",
           "date": "2026-11-03",
@@ -4841,14 +4849,6 @@
           "relevant": false
         },
         {
-          "title": "CNO Caudle Gets Up-Close Look at U.S. Navy’s Newest Hypersonic Missile",
-          "summary": "Chief of Naval Operations Adm. Daryl Caudle got an up-close look at the U.S. Navy’s new Blackbeard air-launched hypersonic missile during a visit to Naval Air Station Patuxent River, Maryland, on Oct. 28, offering a…",
-          "date": "2026-11-02",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/cno-caudle-gets-up-close-look-at-u-s-navys-newest-hypersonic-missile/",
-          "relevant": false
-        },
-        {
           "title": "UK's 2 GW subsea power cable gets government's approval",
           "summary": "The UK government has granted development consent for the 2 GW Sea Link subsea high-voltage direct current (HVDC) electricity connection between...",
           "date": "2026-11-02",
@@ -4862,6 +4862,14 @@
           "date": "2026-11-02",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/opec_keeps_december_output_targets_unchanged-02-nov-2026-184985-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "CNO Caudle Gets Up-Close Look at U.S. Navy’s Newest Hypersonic Missile",
+          "summary": "Chief of Naval Operations Adm. Daryl Caudle got an up-close look at the U.S. Navy’s new Blackbeard air-launched hypersonic missile during a visit to Naval Air Station Patuxent River, Maryland, on Oct. 28, offering a…",
+          "date": "2026-11-02",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/cno-caudle-gets-up-close-look-at-u-s-navys-newest-hypersonic-missile/",
           "relevant": false
         },
         {
