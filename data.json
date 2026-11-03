@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T12:01:09Z",
+  "last_updated": "2026-11-03T13:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -238,6 +238,22 @@
           "date": "2026-11-03",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/11/03/wison-new-energies-lays-keel-for-turkiyes-ultra-deepwater-fpu",
+          "relevant": false
+        },
+        {
+          "title": "Eni Kicks Off Coral North FLNG Drilling Campaign Off Mozambique",
+          "summary": "Eni and its Area 4 partners have launched a drilling and completion campaign for the Coral North floating liquefied natural gas (FLNG) project offshore Mozambique…",
+          "date": "2026-11-03",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544108-eni-kicks-off-coral-north-flng-drilling-campaign-off-mozambique",
+          "relevant": false
+        },
+        {
+          "title": "Valaris Secures $600M in New Contracts as Backlog Rises to $4.8B",
+          "summary": "Offshore drilling contractor Valaris has secured approximately $600 million in new contracts and extensions since its previous fleet status report in August 2026…",
+          "date": "2026-11-03",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544106-valaris-secures-600m-in-new-contracts-as-backlog-rises-to-4-8b",
           "relevant": false
         },
         {
@@ -4729,6 +4745,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "War Widens in the Black Sea in a Test of NATO Red Lines",
+          "summary": "After seven strikes on cargo ships near NATO members Romania and Bulgaria last month, the US-led military alliance said it would deploy maritime patrol aircraft, radars and drones to bolster its eastern flank in the…",
+          "date": "2026-11-03",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/war-widens-in-the-black-sea-in-a-test-of-nato-red-lines/",
+          "relevant": false
+        },
+        {
           "title": "UAE to Protect Energy Infrastructure, Invest in New Export Routes to Prepare for Iran War, Minister Says",
           "summary": "The UAE will protect its energy infrastructure and invest in new export routes, storage capacity abroad and shipping fleets to be better prepared for the US-Israeli war on Iran, its energy minister said on Monday.",
           "date": "2026-11-02",
@@ -7024,6 +7048,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "Taihan renames CLV recently acquired from DOF",
+          "summary": "Taihan Cable & Solution has renamed the cable-laying vessel (CLV) that the South Korean cable supplier acquired from DOF Group earlier this year....",
+          "date": "2026-11-03",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/11/03/taihan-renames-clv-recently-acquired-from-dof",
+          "relevant": false
+        },
         {
           "title": "Indian Navy Places Orders for Eight Next Generation Corvettes",
           "summary": "On November 2, 2026, India’s Ministry of Defence signed contracts worth ₹53,866.5 crore ($5.7 billion) with Garden Reach Shipbuilders & Engineers Limited (GRSE) and Goa Shipyard Limited (GSL) for the acquisition of a…",
