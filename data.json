@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T13:01:07Z",
+  "last_updated": "2026-11-03T14:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4753,6 +4753,22 @@
           "relevant": false
         },
         {
+          "title": "Saab unveils CB90 CX for modern naval operations",
+          "summary": "Defence contractor Saab has unveiled the Combat Boat 90 Capability X, an optionally crewed successor to its CB90 fast military assault craft. The post Saab unveils CB90 CX for modern naval operations appeared first on…",
+          "date": "2026-11-03",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/saab-cb90-cx-euronaval/",
+          "relevant": false
+        },
+        {
+          "title": "Baker Hughes Sets Up Global Network to Bolster Mature Oil and Gas Fields Production",
+          "summary": "Energy technology company Baker Hughes has launched a global Mature Assets Solutions (MAS) hub network aimed at helping oil and gas operators increase production efficiency…",
+          "date": "2026-11-03",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544111-baker-hughes-sets-up-global-network-to-bolster-mature-oil-and-gas-fields-production",
+          "relevant": false
+        },
+        {
           "title": "UAE to Protect Energy Infrastructure, Invest in New Export Routes to Prepare for Iran War, Minister Says",
           "summary": "The UAE will protect its energy infrastructure and invest in new export routes, storage capacity abroad and shipping fleets to be better prepared for the US-Israeli war on Iran, its energy minister said on Monday.",
           "date": "2026-11-02",
@@ -8315,6 +8331,24 @@
           "source_url": "https://splash247.com/splash-singapore-unveils-2027-agenda-with-three-new-sessions-tackling-shippings-biggest-challenges/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Shell rakes in $1.45 billion for shedding its stake in Australian gas and LNG project",
+          "summary": "As Shell heads for the exit, ADNOC’s XRG is buying a stake in a Woodside-operated LNG and gas development in Western Australia.",
+          "date": "2026-11-03",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/11/03/shell-rakes-in-dollar145-billion-for-shedding-its-stake-in-australian-gas-and-lng-project",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
+          "title": "ADNOC Greenlights Abu Dhabi Upstream Gas Project",
+          "summary": "ADNOC announced a final investment decision to proceed with what it said is its first large-scale unconventional natural gas project.",
+          "date": "2026-11-03",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/adnoc_greenlights_abu_dhabi_upstream_gas_project-03-nov-2026-184997-article/?rss=true",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "XRG to Buy Shell Stake in Australian LNG Project",
