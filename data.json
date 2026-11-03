@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T10:01:03Z",
+  "last_updated": "2026-11-03T11:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8249,6 +8249,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Keppel secures $51m extension for Saudi jackup",
+          "summary": "Singapore’s Keppel has secured a five-year bareboat charter extension worth approximately $51m for its AD110 jackup rig with Saudi drilling contractor Arabian Drilling Company. The agreement, signed through Keppel…",
+          "date": "2026-11-03",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/keppel-secures-51m-extension-for-saudi-jackup/",
+          "relevant": false,
+          "region": "KSA"
+        },
+        {
           "title": "Singapore VLSFO back above $1,000 for first time since March",
           "summary": "The cost of fuelling ships has climbed back above $1,000 a tonne in Singapore for the first time since March, as the prolonged Iran conflict continues to drive up bunker bills across the global merchant fleet. Data from…",
           "date": "2026-11-03",
@@ -8265,6 +8274,15 @@
           "source_url": "https://splash247.com/splash-singapore-unveils-2027-agenda-with-three-new-sessions-tackling-shippings-biggest-challenges/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "XRG to Buy Shell Stake in Australian LNG Project",
+          "summary": "Shell agreed to sell its 16.67 percent stake in the North West Shelf Project, which produces liquefied natural gas and domestic gas in Western Australia, to ADNOC's XRG.",
+          "date": "2026-11-03",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/xrg_to_buy_shell_stake_in_australian_lng_project-03-nov-2026-184995-article/?rss=true",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Aramco Logs 9 Pct Higher Profit",
