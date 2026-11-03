@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T02:01:03Z",
+  "last_updated": "2026-11-03T03:01:16Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -208,6 +208,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Wison New Energies lays keel for Türkiye’s ultra-deepwater FPU",
+          "summary": "This ultra-deepwater floating production unit (FPU) is being built for Türkiye Petrolleri A.O. (TPAO) to boost Türkiye's natural gas supply.",
+          "date": "2026-11-03",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/11/03/wison-new-energies-lays-keel-for-turkiyes-ultra-deepwater-fpu",
+          "relevant": false
+        },
         {
           "title": "When the ship pays back before the owner does",
           "summary": "Fuel-saving retrofits can pay for themselves long before the shipowner who funded them sees a return. A new BIMCO contract seeks to resolve shipping’s longstanding divide between who pays for efficiency and who pockets…",
