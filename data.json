@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T16:01:07Z",
+  "last_updated": "2026-11-03T17:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8,6 +8,14 @@
       "short_title": "Day-Rates",
       "description": "Benchmark day-rate trends for jackups, floaters and offshore support vessels across key regions.",
       "items": [
+        {
+          "title": "Well-Safe Defender completes three-well P&A campaign off UK",
+          "summary": "Well-Safe Solutions completed a three-well plug and abandonment (P&A) campaign with its Well-Safe Defender semisubmersible, decommissioning one subsea well West of Shetland and two in the northern North Sea. After…",
+          "date": "2026-11-03",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/well-safe-defender-completes-three-well-pa-campaign-off-uk-80807",
+          "relevant": false
+        },
         {
           "title": "Odfjell Drilling to manage Beacon Pacific for Serica’s UK program",
           "summary": "Serica Energy signed a drilling contract for the sixth-generation semisubmersible Beacon Pacific to carry out a multi-well campaign on the UK Continental Shelf. The firm scope covers six wells, with options for further…",
@@ -241,6 +249,14 @@
           "relevant": false
         },
         {
+          "title": "Saipem 12000 drillship begins Coral North campaign for Eni",
+          "summary": "Eni and its Area 4 partners started the drilling and completion campaign for the Coral North floating liquefied natural gas (FLNG) project offshore Mozambique, the operator announced 2 November 2026. The project, in the…",
+          "date": "2026-11-03",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/saipem-12000-drillship-begins-coral-north-campaign-for-eni-80810",
+          "relevant": false
+        },
+        {
           "title": "Wison New Energies lays keel for Türkiye’s ultra-deepwater FPU",
           "summary": "This ultra-deepwater floating production unit (FPU) is being built for Türkiye Petrolleri A.O. (TPAO) to boost Türkiye's natural gas supply.",
           "date": "2026-11-03",
@@ -433,14 +449,6 @@
           "relevant": false
         },
         {
-          "title": "Eni/PETRONAS venture Searah starts gas from Maha",
-          "summary": "Searah, the 50-50 joint venture of Eni and PETRONAS, started gas production from the Maha field in the Kutei Basin offshore Indonesia, 21 months after the final investment decision. The field lies in the West Ganal…",
-          "date": "2026-10-30",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/eni-petronas-venture-searah-starts-gas-from-maha-80779",
-          "relevant": false
-        },
-        {
           "title": "Solstad vessel nets two subsea contracts in Asia Pacific",
           "summary": "Solstad Maritime (SOMA) has secured two firm contracts for its 2009-built construction support vessel (CSV) for subsea and ROV support activities...",
           "date": "2026-10-30",
@@ -454,6 +462,14 @@
           "date": "2026-10-30",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/indian-navy-corvette-approval/",
+          "relevant": false
+        },
+        {
+          "title": "Eni/PETRONAS venture Searah starts gas from Maha",
+          "summary": "Searah, the 50-50 joint venture of Eni and PETRONAS, started gas production from the Maha field in the Kutei Basin offshore Indonesia, 21 months after the final investment decision. The field lies in the West Ganal…",
+          "date": "2026-10-30",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/eni-petronas-venture-searah-starts-gas-from-maha-80779",
           "relevant": false
         },
         {
@@ -4766,6 +4782,14 @@
           "date": "2026-11-03",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/war-widens-in-the-black-sea-in-a-test-of-nato-red-lines/",
+          "relevant": false
+        },
+        {
+          "title": "Diamondback Bets on Permian Becoming Biggest US Gas Play",
+          "summary": "Diamondback Energy expects the Permian Basin to remain the United States' leading oil play into the 2030s while also becoming the country's biggest natural gas play by that period.",
+          "date": "2026-11-03",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/diamondback_bets_on_permian_becoming_biggest_us_gas_play-03-nov-2026-184999-article/?rss=true",
           "relevant": false
         },
         {
