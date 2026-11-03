@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T05:01:04Z",
+  "last_updated": "2026-11-03T06:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -6976,6 +6976,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "Indian Navy Places Orders for Eight Next Generation Corvettes",
+          "summary": "On November 2, 2026, India’s Ministry of Defence signed contracts worth ₹53,866.5 crore ($5.7 billion) with Garden Reach Shipbuilders & Engineers Limited (GRSE) and Goa Shipyard Limited (GSL) for the acquisition of a…",
+          "date": "2026-11-03",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/indian-navy-places-orders-for-eight-next-generation-corvettes/",
+          "relevant": false
+        },
         {
           "title": "Eni, Petronas JV Brings Indonesian Offshore Gas Field Online",
           "summary": "Searah, the joint venture between Eni and Petronas, has started gas production from the Maha field offshore Indonesia, with output expected to ramp up to 230 million…",
