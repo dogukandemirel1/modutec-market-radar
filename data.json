@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T11:51:19Z",
+  "last_updated": "2026-11-03T12:01:09Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8248,6 +8248,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "ELPI nets double Middle East offshore vessel deal",
+          "summary": "Indonesian offshore vessel operator PT Pelayaran Nasional Ekalya Purnamasari (ELPI) has secured a three-year charter contract worth $12.04m with UAE-based Atlantic Maritime Group. The contract covers two crewboat…",
+          "date": "2026-11-03",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/elpi-nets-double-middle-east-offshore-vessel-deal/",
+          "relevant": true,
+          "region": "UAE"
+        },
         {
           "title": "Keppel secures $51m extension for Saudi jackup",
           "summary": "Singapore’s Keppel has secured a five-year bareboat charter extension worth approximately $51m for its AD110 jackup rig with Saudi drilling contractor Arabian Drilling Company. The agreement, signed through Keppel…",
