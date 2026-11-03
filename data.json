@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T07:01:08Z",
+  "last_updated": "2026-11-03T08:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -217,54 +217,6 @@
           "relevant": false
         },
         {
-          "title": "When the ship pays back before the owner does",
-          "summary": "Fuel-saving retrofits can pay for themselves long before the shipowner who funded them sees a return. A new BIMCO contract seeks to resolve shipping’s longstanding divide between who pays for efficiency and who pockets…",
-          "date": "2026-11-02",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/when-the-ship-pays-back-before-the-owner-does/",
-          "relevant": false
-        },
-        {
-          "title": "Oceanity bags Petrobras charter for oil spill response vessel",
-          "summary": "Offshore vessel operator Oceanity, formerly known as CMM Offshore, has secured a four-year charter contract with Brazilian state-controlled oil major Petrobras for its fast oil spill response vessel CMM Purity. Oceanity…",
-          "date": "2026-11-02",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/oceanity-bags-petrobras-charter-for-oil-spill-response-vessel/",
-          "relevant": false
-        },
-        {
-          "title": "Norway hands out $430m for floating offshore wind projects",
-          "summary": "Norway’s state-backed Enova has awarded NOK3.94bn ($430m) in funding to two floating offshore wind projects to install four next-generation turbines off Karmøy. Fortius Offshore Wind and Fram Wind Solutions have been…",
-          "date": "2026-11-02",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/norway-hands-out-430m-for-floating-offshore-wind-projects/",
-          "relevant": false
-        },
-        {
-          "title": "Wallenius Wilhelmsen adds $700m Asian carmaker deal to contract haul",
-          "summary": "Norwegian car carrier giant Wallenius Wilhelmsen has secured a three-year shipping contract worth around $700m with a major Asian automaker, taking its newly announced contract wins to more than $1.7bn in the space of…",
-          "date": "2026-11-02",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/wallenius-wilhelmsen-adds-700m-asian-carmaker-deal-to-contract-haul/",
-          "relevant": false
-        },
-        {
-          "title": "Yangzijiang Maritime extends tanker buying spree at Haifeng",
-          "summary": "Singapore-listed Yangzijiang Maritime Development has signed a contract for four 50,000 dwt MR product tankers at Jiangsu Haifeng Shipbuilding, extending its extensive newbuilding programme in China. The Ren Yuanlin-led…",
-          "date": "2026-11-02",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/yangzijiang-maritime-extends-tanker-buying-spree-at-haifeng/",
-          "relevant": false
-        },
-        {
-          "title": "Subsea 7 lands North Sea subsea contract from Aker BP",
-          "summary": "Offshore engineering and construction specialist Subsea 7 has secured a contract worth between $150m and $300m from Aker BP for the fast-track development of the Lyra field in the Norwegian North Sea. The award covers…",
-          "date": "2026-11-02",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/subsea-7-lands-north-sea-subsea-contract-from-aker-bp/",
-          "relevant": false
-        },
-        {
           "title": "Gas flows from Southeast Asian offshore field 21 months after FID",
           "summary": "Eni and Petronas’ Searah has brought online an Asian gas field, flowing 250 million standard cubic feet per day (scfd) to domestic and export markets.",
           "date": "2026-11-02",
@@ -318,6 +270,54 @@
           "date": "2026-11-02",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544050-subsea7-lands-north-sea-tieback-job-from-aker-bp",
+          "relevant": false
+        },
+        {
+          "title": "When the ship pays back before the owner does",
+          "summary": "Fuel-saving retrofits can pay for themselves long before the shipowner who funded them sees a return. A new BIMCO contract seeks to resolve shipping’s longstanding divide between who pays for efficiency and who pockets…",
+          "date": "2026-11-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/when-the-ship-pays-back-before-the-owner-does/",
+          "relevant": false
+        },
+        {
+          "title": "Oceanity bags Petrobras charter for oil spill response vessel",
+          "summary": "Offshore vessel operator Oceanity, formerly known as CMM Offshore, has secured a four-year charter contract with Brazilian state-controlled oil major Petrobras for its fast oil spill response vessel CMM Purity. Oceanity…",
+          "date": "2026-11-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/oceanity-bags-petrobras-charter-for-oil-spill-response-vessel/",
+          "relevant": false
+        },
+        {
+          "title": "Norway hands out $430m for floating offshore wind projects",
+          "summary": "Norway’s state-backed Enova has awarded NOK3.94bn ($430m) in funding to two floating offshore wind projects to install four next-generation turbines off Karmøy. Fortius Offshore Wind and Fram Wind Solutions have been…",
+          "date": "2026-11-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/norway-hands-out-430m-for-floating-offshore-wind-projects/",
+          "relevant": false
+        },
+        {
+          "title": "Wallenius Wilhelmsen adds $700m Asian carmaker deal to contract haul",
+          "summary": "Norwegian car carrier giant Wallenius Wilhelmsen has secured a three-year shipping contract worth around $700m with a major Asian automaker, taking its newly announced contract wins to more than $1.7bn in the space of…",
+          "date": "2026-11-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/wallenius-wilhelmsen-adds-700m-asian-carmaker-deal-to-contract-haul/",
+          "relevant": false
+        },
+        {
+          "title": "Yangzijiang Maritime extends tanker buying spree at Haifeng",
+          "summary": "Singapore-listed Yangzijiang Maritime Development has signed a contract for four 50,000 dwt MR product tankers at Jiangsu Haifeng Shipbuilding, extending its extensive newbuilding programme in China. The Ren Yuanlin-led…",
+          "date": "2026-11-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/yangzijiang-maritime-extends-tanker-buying-spree-at-haifeng/",
+          "relevant": false
+        },
+        {
+          "title": "Subsea 7 lands North Sea subsea contract from Aker BP",
+          "summary": "Offshore engineering and construction specialist Subsea 7 has secured a contract worth between $150m and $300m from Aker BP for the fast-track development of the Lyra field in the Norwegian North Sea. The award covers…",
+          "date": "2026-11-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/subsea-7-lands-north-sea-subsea-contract-from-aker-bp/",
           "relevant": false
         },
         {
