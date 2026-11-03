@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T03:01:16Z",
+  "last_updated": "2026-11-03T04:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8193,11 +8193,11 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Asia Break Bulk adds heavylift muscle in Schoeller deal",
-          "summary": "Singapore-based Asia Break Bulk has secured four 12,600 dwt multipurpose heavylift newbuildings through a long-term deal with Schoeller Holdings. The COLI Group-controlled carrier said the Octopus-type vessels, designed…",
-          "date": "2026-11-02",
+          "title": "Splash Singapore unveils 2027 agenda with three new sessions tackling shipping’s biggest challenges",
+          "summary": "Splash Singapore has unveiled the agenda for its 2027 edition, introducing three new sessions examining crewing, operational efficiency and maritime investment alongside traditional tanker and dry bulk market outlooks…",
+          "date": "2026-11-03",
           "source_name": "Splash247",
-          "source_url": "https://splash247.com/asia-break-bulk-adds-heavylift-muscle-in-schoeller-deal/",
+          "source_url": "https://splash247.com/splash-singapore-unveils-2027-agenda-with-three-new-sessions-tackling-shippings-biggest-challenges/",
           "relevant": false,
           "region": "SEA"
         },
@@ -8234,6 +8234,15 @@
           "date": "2026-11-02",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544045-totalenergies-to-take-operatorship-of-two-major-gas-fields-off-malaysia",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Asia Break Bulk adds heavylift muscle in Schoeller deal",
+          "summary": "Singapore-based Asia Break Bulk has secured four 12,600 dwt multipurpose heavylift newbuildings through a long-term deal with Schoeller Holdings. The COLI Group-controlled carrier said the Octopus-type vessels, designed…",
+          "date": "2026-11-02",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/asia-break-bulk-adds-heavylift-muscle-in-schoeller-deal/",
           "relevant": false,
           "region": "SEA"
         },
