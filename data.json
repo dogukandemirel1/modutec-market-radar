@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T11:01:07Z",
+  "last_updated": "2026-11-03T11:51:19Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8290,6 +8290,15 @@
           "date": "2026-11-03",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/aramco_logs_9_pct_higher_profit-03-nov-2026-184994-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "Aramco Targets Hormuz Bypass with East-West Pipeline Expansion",
+          "summary": "Saudi state oil giant Aramco is working to expand a crude pipeline that circumvents the Strait of Hormuz as the world continues to experience the biggest energy supply shock in history…",
+          "date": "2026-11-03",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544099-aramco-targets-hormuz-bypass-with-east-west-pipeline-expansion",
           "relevant": true,
           "region": "KSA"
         },
