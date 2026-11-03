@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T08:01:05Z",
+  "last_updated": "2026-11-03T09:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -209,6 +209,30 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "When the ship pays back before the owner does",
+          "summary": "Fuel-saving retrofits can pay for themselves long before the shipowner who funded them sees a return. A new BIMCO contract seeks to resolve shipping’s longstanding divide between who pays for efficiency and who pockets…",
+          "date": "2026-11-03",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/when-the-ship-pays-back-before-the-owner-does/",
+          "relevant": false
+        },
+        {
+          "title": "Transocean’s latest contract haul boosts backlog to $8bn",
+          "summary": "Offshore drilling giant Transocean has secured approximately $2bn in additional contract backlog following a string of new drilling awards and extensions across its global fleet, including fresh work for two drillships…",
+          "date": "2026-11-03",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/transoceans-latest-contract-haul-boosts-backlog-to-8bn/",
+          "relevant": false
+        },
+        {
+          "title": "Valaris keeps rigs busy with latest contracting spree",
+          "summary": "Offshore drilling company Valaris has racked up $600m in new contracts and extensions, led by a $290m deal with BP in the US Gulf of Mexico and a string of fresh drilling awards across its global fleet, pushing its…",
+          "date": "2026-11-03",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/valaris-keeps-rigs-busy-with-latest-contracting-spree/",
+          "relevant": false
+        },
+        {
           "title": "Wison New Energies lays keel for Türkiye’s ultra-deepwater FPU",
           "summary": "This ultra-deepwater floating production unit (FPU) is being built for Türkiye Petrolleri A.O. (TPAO) to boost Türkiye's natural gas supply.",
           "date": "2026-11-03",
@@ -270,14 +294,6 @@
           "date": "2026-11-02",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544050-subsea7-lands-north-sea-tieback-job-from-aker-bp",
-          "relevant": false
-        },
-        {
-          "title": "When the ship pays back before the owner does",
-          "summary": "Fuel-saving retrofits can pay for themselves long before the shipowner who funded them sees a return. A new BIMCO contract seeks to resolve shipping’s longstanding divide between who pays for efficiency and who pockets…",
-          "date": "2026-11-02",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/when-the-ship-pays-back-before-the-owner-does/",
           "relevant": false
         },
         {
@@ -8201,6 +8217,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Singapore VLSFO back above $1,000 for first time since March",
+          "summary": "The cost of fuelling ships has climbed back above $1,000 a tonne in Singapore for the first time since March, as the prolonged Iran conflict continues to drive up bunker bills across the global merchant fleet. Data from…",
+          "date": "2026-11-03",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/singapore-vlsfo-back-above-1000-for-first-time-since-march/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Splash Singapore unveils 2027 agenda with three new sessions tackling shipping’s biggest challenges",
           "summary": "Splash Singapore has unveiled the agenda for its 2027 edition, introducing three new sessions examining crewing, operational efficiency and maritime investment alongside traditional tanker and dry bulk market outlooks…",
           "date": "2026-11-03",
@@ -8208,6 +8233,33 @@
           "source_url": "https://splash247.com/splash-singapore-unveils-2027-agenda-with-three-new-sessions-tackling-shippings-biggest-challenges/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Aramco Logs 9 Pct Higher Profit",
+          "summary": "Aramco posted a nine percent increase in third-quarter profit after a jump in earnings from its refineries and as the Iran war drove oil prices higher.",
+          "date": "2026-11-03",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/aramco_logs_9_pct_higher_profit-03-nov-2026-184994-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "TotalEnergies, ADNOC Gas Sign Five-Year LNG Supply Deal",
+          "summary": "TotalEnergies and ADNOC Gas have signed a five-year agreement under which ADNOC Gas will supply up to 1.6 million tonnes of liquefied natural gas (LNG) to TotalEnergies…",
+          "date": "2026-11-03",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544090-totalenergies-adnoc-gas-sign-five-year-lng-supply-deal",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
+          "title": "Aramco Third Quarter Profit Up 35% Despite War Disruptions",
+          "summary": "Saudi state oil company Aramco reported on Tuesday a 34.5% increase in third-quarter net profit despite attacks on its facilities, mainly due to higher revenue and its exit from a joint venture…",
+          "date": "2026-11-03",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544088-aramco-third-quarter-profit-up-35-despite-war-disruptions",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "TotalEnergies to Take Control of Upstream Projects for Malaysia LNG",
