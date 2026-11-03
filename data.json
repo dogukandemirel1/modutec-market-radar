@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T14:01:03Z",
+  "last_updated": "2026-11-03T15:01:11Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -208,6 +208,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Dronemaker Stark Designs Uncrewed Ship to Hunt Russia’s Shadow Fleet",
+          "summary": "German startup Stark Defence plans to launch a 24-meter uncrewed surface vessel next year, marking an expansion beyond small drones to more closely resemble an established defense contractor.",
+          "date": "2026-11-03",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/dronemaker-stark-designs-uncrewed-ship-to-hunt-russias-shadow-fleet/",
+          "relevant": false
+        },
         {
           "title": "BW Offshore gets Norwegian funding boost for floating wind ambitions",
           "summary": "Norwegian floater specialist BW Offshore is planning to deploy two of the world’s largest floating wind turbines on its BW Ideol foundations after its Fram Wind Solutions joint venture secured NOK1.94bn ($210m) in state…",
@@ -4745,6 +4753,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Norway Detains Sanctioned Chinese Vessel Over False Flag Registration",
+          "summary": "Norway has detained a Chinese-owned heavy-lift vessel sanctioned for its role in delivering equipment to Russia’s Arctic LNG 2 project, in what appears to be the first known detention in the Arctic of a Chinese vessel…",
+          "date": "2026-11-03",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/norway-detains-sanctioned-chinese-vessel-over-false-flag-registration/",
+          "relevant": false
+        },
+        {
           "title": "War Widens in the Black Sea in a Test of NATO Red Lines",
           "summary": "After seven strikes on cargo ships near NATO members Romania and Bulgaria last month, the US-led military alliance said it would deploy maritime patrol aircraft, radars and drones to bolster its eastern flank in the…",
           "date": "2026-11-03",
@@ -4769,14 +4785,6 @@
           "relevant": false
         },
         {
-          "title": "UAE to Protect Energy Infrastructure, Invest in New Export Routes to Prepare for Iran War, Minister Says",
-          "summary": "The UAE will protect its energy infrastructure and invest in new export routes, storage capacity abroad and shipping fleets to be better prepared for the US-Israeli war on Iran, its energy minister said on Monday.",
-          "date": "2026-11-02",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/uae-to-protect-energy-infrastructure-invest-in-new-export-routes-to-prepare-for-iran-war-minister-says/",
-          "relevant": true
-        },
-        {
           "title": "UK's 2 GW subsea power cable gets government's approval",
           "summary": "The UK government has granted development consent for the 2 GW Sea Link subsea high-voltage direct current (HVDC) electricity connection between...",
           "date": "2026-11-02",
@@ -4791,6 +4799,14 @@
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/opec_keeps_december_output_targets_unchanged-02-nov-2026-184985-article/?rss=true",
           "relevant": false
+        },
+        {
+          "title": "UAE to Protect Energy Infrastructure, Invest in New Export Routes to Prepare for Iran War, Minister Says",
+          "summary": "The UAE will protect its energy infrastructure and invest in new export routes, storage capacity abroad and shipping fleets to be better prepared for the US-Israeli war on Iran, its energy minister said on Monday.",
+          "date": "2026-11-02",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/uae-to-protect-energy-infrastructure-invest-in-new-export-routes-to-prepare-for-iran-war-minister-says/",
+          "relevant": true
         },
         {
           "title": "CNO Caudle Gets Up-Close Look at U.S. Navy’s Newest Hypersonic Missile",
@@ -8338,6 +8354,15 @@
           "date": "2026-11-03",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/11/03/shell-rakes-in-dollar145-billion-for-shedding-its-stake-in-australian-gas-and-lng-project",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
+          "title": "ADNOC to Become 1st Energy Firm to Deploy OpenAI Frontier",
+          "summary": "Under a partnership agreement, ADNOC will open up its proprietary industrial data to OpenAI models for the development of intelligence capabilities using G42's AI infrastructure in the UAE.",
+          "date": "2026-11-03",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/adnoc_to_become_1st_energy_firm_to_deploy_openai_frontier-03-nov-2026-184998-article/?rss=true",
           "relevant": true,
           "region": "UAE"
         },
