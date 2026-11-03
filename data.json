@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T23:01:06Z",
+  "last_updated": "2026-11-03T00:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4663,62 +4663,6 @@
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/misc-explores-consortium-role-in-potential-yinson-privatization/",
           "relevant": false
-        },
-        {
-          "title": "RH Petrogas well test flows gas, condensate and oil in Papua",
-          "summary": "RH Petrogas confirmed strong gas and condensate deliverability, along with an unexpected oil discovery, from well testing at the Northwest Klagagi-1 (NWK-1) well in the Kepala Burung production sharing contract in…",
-          "date": "2026-09-03",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/rh-petrogas-well-test-flows-gas-condensate-and-oil-in-papua-79782",
-          "relevant": false
-        },
-        {
-          "title": "Baker Hughes partners with OGDCL on Pakistan well optimization",
-          "summary": "Baker Hughes signed a multi-year contract with OGDCL to maximize production performance from OGDCL’s mature oil and gas fields in Pakistan. The agreement builds on a decades-long relationship between the two companies…",
-          "date": "2026-09-03",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/baker-hughes-partners-with-ogdcl-on-pakistan-well-optimization-79779",
-          "relevant": false
-        },
-        {
-          "title": "Germany Leans Toward Watercat M18 AMC for Sea Battalion Combat Boat Requirement",
-          "summary": "Germany is set to award Marine Alutech a contract for up to 15 Watercat M18 AMC combat boats to equip the German Navy's Sea Battalion. The post Germany Leans Toward Watercat M18 AMC for Sea Battalion Combat Boat…",
-          "date": "2026-09-03",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/germany-leans-toward-watercat-m18-amc-for-sea-battalion-combat-boat-requirement/",
-          "relevant": false
-        },
-        {
-          "title": "Subsea7 secures contract from LLOG Exploration in US Gulf",
-          "summary": "Subsea7 has secured a contract from LLOG Exploration for offshore work related to the Who Dat East development in the US Gulf of Mexico.",
-          "date": "2026-09-03",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/subsea7-offshore-contract-llog-exploration/",
-          "relevant": false
-        },
-        {
-          "title": "ABS to Support Floating Offshore Wind Development in Brazil",
-          "summary": "ABS and JB Energy have signed a memorandum of understanding (MOU) to collaborate on strategic studies for the proposed Aura Sul Wind Project, a floating offshore…",
-          "date": "2026-09-03",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/542722-abs-to-support-floating-offshore-wind-development-in-brazil",
-          "relevant": false
-        },
-        {
-          "title": "Proserv Secures Equinor Contract for Dudgeon Offshore Wind Farm",
-          "summary": "Proserv has secured a full deployment contract with Equinor to install its ECG™ cable monitoring technology at the 402 MW Dudgeon Offshore Wind Farm off the Norfolk coast…",
-          "date": "2026-09-03",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/542721-proserv-secures-equinor-contract-for-dudgeon-offshore-wind-farm",
-          "relevant": false
-        },
-        {
-          "title": "Kongsberg Maritime to Supply Technology Package for Two Cadeler WTIVs",
-          "summary": "Kongsberg Maritime has secured a contract from COSCO Shipping (Qidong) Offshore Co., Ltd. to supply an integrated technology package for two new Wind Turbine Installation…",
-          "date": "2026-09-03",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/542701-kongsberg-maritime-to-supply-technology-package-for-two-cadeler-wtivs",
-          "relevant": false
         }
       ]
     },
@@ -7015,14 +6959,6 @@
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542726-milei-vows-tougher-sanctions-defense-push-over-falklands-oil-drilling",
           "relevant": false
-        },
-        {
-          "title": "Texas Oil Regulator Hails 'Oil Theft Bust'",
-          "summary": "RRC Commissioner Wayne Christian hailed an 'oil theft bust' stemming from a multistate investigation as a 'victory for Texas oil and gas'.",
-          "date": "2026-09-03",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/texas_oil_regulator_hails_oil_theft_bust-03-sep-2026-184533-article/?rss=true",
-          "relevant": false
         }
       ]
     },
@@ -8238,14 +8174,6 @@
           "date": "2026-09-04",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/williams-closes-momentum-deal/",
-          "relevant": false
-        },
-        {
-          "title": "Kongsberg expands US presence with Sonatech acquisition",
-          "summary": "Kongsberg has completed its acquisition of Sonatech, a California-based engineering firm specialising in underwater acoustics. The post Kongsberg expands US presence with Sonatech acquisition appeared first on Naval…",
-          "date": "2026-09-03",
-          "source_name": "Naval Technology",
-          "source_url": "https://www.naval-technology.com/news/kongsberg-sonatech-acquisition-us/",
           "relevant": false
         }
       ]
@@ -10727,15 +10655,6 @@
           "date": "2026-09-04",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/bass-oil-new-oil-pay-bunian-6/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Singapore Lays Keel for Third Multi-Role Combat Vessel",
-          "summary": "On September 3, 2026, ST Engineering announced the keel-laying ceremony of the third Multi-Role Combat Vessel (MRCV) for the Republic of Singapore Navy The ceremony took place at ST Engineering Marine and was officiated…",
-          "date": "2026-09-03",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/singapore-lays-keel-for-third-multi-role-combat-vessel/",
           "relevant": false,
           "region": "SEA"
         }
