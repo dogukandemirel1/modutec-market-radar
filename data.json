@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T18:01:08Z",
+  "last_updated": "2026-11-03T19:01:16Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -216,6 +216,22 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Qatar’s US LNG Bet Signals a New Energy Order",
+          "summary": "Turning to your biggest rival is rarely a sign of confidence. Yet Qatar's decision to sign long-term contracts for US supplies suggests the world's second-largest LNG exporter is increasingly concerned that instability…",
+          "date": "2026-11-03",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/qatars-us-lng-bet-signals-a-new-energy-order/",
+          "relevant": false
+        },
+        {
+          "title": "Damen wins KNVTS Ship of the Year Award with CSOV Windcat Rotterdam",
+          "summary": "Damen Shipyards Group and Windcat are pleased to announce that Commissioning Service Operations Vessel (CSOV) Windcat Rotterdam has received the KNVTS Ship of the Year Award. The award was presented at the Maritime…",
+          "date": "2026-11-03",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/damen-wins-knvts-ship-of-the-year-award-with-csov-windcat-rotterdam/",
+          "relevant": false
+        },
         {
           "title": "Dronemaker Stark Designs Uncrewed Ship to Hunt Russia’s Shadow Fleet",
           "summary": "German startup Stark Defence plans to launch a 24-meter uncrewed surface vessel next year, marking an expansion beyond small drones to more closely resemble an established defense contractor.",
