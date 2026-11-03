@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T09:01:04Z",
+  "last_updated": "2026-11-03T10:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -209,6 +209,46 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "BW Offshore gets Norwegian funding boost for floating wind ambitions",
+          "summary": "Norwegian floater specialist BW Offshore is planning to deploy two of the world’s largest floating wind turbines on its BW Ideol foundations after its Fram Wind Solutions joint venture secured NOK1.94bn ($210m) in state…",
+          "date": "2026-11-03",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/bw-offshore-gets-norwegian-funding-boost-for-floating-wind-ambitions/",
+          "relevant": false
+        },
+        {
+          "title": "Ernst Russ offloads another feeder in fleet reshuffle",
+          "summary": "German shipowner Ernst Russ has sold another feeder containership, continuing to trim its older boxship exposure while building up its tanker and multipurpose fleet. The Frankfurt-listed company has confirmed the sale…",
+          "date": "2026-11-03",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/ernst-russ-offloads-another-feeder-in-fleet-reshuffle/",
+          "relevant": false
+        },
+        {
+          "title": "Contships locks in fresh CMA CGM and ONE feeder deals",
+          "summary": "Greek feeder containership owner Contships Logistics has secured two new charter deals with CMA CGM and Ocean Network Express (ONE), adding contracted employment as it prepares for an extensive fleet renewal programme…",
+          "date": "2026-11-03",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/contships-locks-in-fresh-cma-cgm-and-one-feeder-deals/",
+          "relevant": false
+        },
+        {
+          "title": "Wison New Energies lays keel for Türkiye’s ultra-deepwater FPU",
+          "summary": "This ultra-deepwater floating production unit (FPU) is being built for Türkiye Petrolleri A.O. (TPAO) to boost Türkiye's natural gas supply.",
+          "date": "2026-11-03",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/11/03/wison-new-energies-lays-keel-for-turkiyes-ultra-deepwater-fpu",
+          "relevant": false
+        },
+        {
+          "title": "ADES Lands New Offshore Drilling Rig Deals in Angola and Indonesia",
+          "summary": "ADES Holding has secured a one-year contract extension for the Shelf Drilling Tenacious jack-up rig offshore Angola and a new drilling contract for the Shelf Drilling Perseverance in Indonesia…",
+          "date": "2026-11-03",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544092-ades-lands-new-offshore-drilling-rig-deals-in-angola-and-indonesia",
+          "relevant": false
+        },
+        {
           "title": "When the ship pays back before the owner does",
           "summary": "Fuel-saving retrofits can pay for themselves long before the shipowner who funded them sees a return. A new BIMCO contract seeks to resolve shipping’s longstanding divide between who pays for efficiency and who pockets…",
           "date": "2026-11-03",
@@ -230,14 +270,6 @@
           "date": "2026-11-03",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/valaris-keeps-rigs-busy-with-latest-contracting-spree/",
-          "relevant": false
-        },
-        {
-          "title": "Wison New Energies lays keel for Türkiye’s ultra-deepwater FPU",
-          "summary": "This ultra-deepwater floating production unit (FPU) is being built for Türkiye Petrolleri A.O. (TPAO) to boost Türkiye's natural gas supply.",
-          "date": "2026-11-03",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/11/03/wison-new-energies-lays-keel-for-turkiyes-ultra-deepwater-fpu",
           "relevant": false
         },
         {
@@ -4705,14 +4737,6 @@
           "relevant": true
         },
         {
-          "title": "CNO Caudle Gets Up-Close Look at U.S. Navy’s Newest Hypersonic Missile",
-          "summary": "Chief of Naval Operations Adm. Daryl Caudle got an up-close look at the U.S. Navy’s new Blackbeard air-launched hypersonic missile during a visit to Naval Air Station Patuxent River, Maryland, on Oct. 28, offering a…",
-          "date": "2026-11-02",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/cno-caudle-gets-up-close-look-at-u-s-navys-newest-hypersonic-missile/",
-          "relevant": false
-        },
-        {
           "title": "UK's 2 GW subsea power cable gets government's approval",
           "summary": "The UK government has granted development consent for the 2 GW Sea Link subsea high-voltage direct current (HVDC) electricity connection between...",
           "date": "2026-11-02",
@@ -4726,6 +4750,14 @@
           "date": "2026-11-02",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/opec_keeps_december_output_targets_unchanged-02-nov-2026-184985-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "CNO Caudle Gets Up-Close Look at U.S. Navy’s Newest Hypersonic Missile",
+          "summary": "Chief of Naval Operations Adm. Daryl Caudle got an up-close look at the U.S. Navy’s new Blackbeard air-launched hypersonic missile during a visit to Naval Air Station Patuxent River, Maryland, on Oct. 28, offering a…",
+          "date": "2026-11-02",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/cno-caudle-gets-up-close-look-at-u-s-navys-newest-hypersonic-missile/",
           "relevant": false
         },
         {
