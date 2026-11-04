@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T04:01:01Z",
+  "last_updated": "2026-11-04T05:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8296,6 +8296,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "TotalEnergies forges pacts with Petronas, Sonangol, and Oil India to slash methane footprint",
+          "summary": "TotalEnergies has deepened partnerships across Malaysia, Angola, and India to expand advanced methane detection and accelerate emissions cuts.",
+          "date": "2026-11-04",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/11/04/totalenergies-forges-pacts-with-petronas-sonangol-and-oil-india-to-slash-methane-footprint",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "ELPI nets double Middle East offshore vessel deal",
           "summary": "Indonesian offshore vessel operator PT Pelayaran Nasional Ekalya Purnamasari (ELPI) has secured a three-year charter contract worth $12.04m with UAE-based Atlantic Maritime Group. The contract covers two crewboat…",
