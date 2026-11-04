@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T21:01:05Z",
+  "last_updated": "2026-11-04T22:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4937,14 +4937,6 @@
           "relevant": false
         },
         {
-          "title": "HII and Thales Demonstrate Expeditionary PathMaster’s Ability to Deliver an End-to-End Autonomous MCM",
-          "summary": "HII, America’s largest military shipbuilder and the global leader in autonomous seapower, and Thales, a global leader in advanced technologies, have successfully demonstrated an end-to-end autonomous mine countermeasure…",
-          "date": "2026-11-03",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/hii-and-thales-successfully-demonstrate-expeditionary-pathmasters-ability-to-deliver-an-end-to-end-autonomous-mine-countermeasure-mission/",
-          "relevant": false
-        },
-        {
           "title": "Oil Prices Swing on Conflicting Iran Signals",
           "summary": "Oil markets remain volatile as traders weigh Iran war risks against improving regional supply.",
           "date": "2026-11-03",
@@ -4974,6 +4966,14 @@
           "date": "2026-11-03",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544111-baker-hughes-sets-up-global-network-to-bolster-mature-oil-and-gas-fields-production",
+          "relevant": false
+        },
+        {
+          "title": "HII and Thales Demonstrate Expeditionary PathMaster’s Ability to Deliver an End-to-End Autonomous MCM",
+          "summary": "HII, America’s largest military shipbuilder and the global leader in autonomous seapower, and Thales, a global leader in advanced technologies, have successfully demonstrated an end-to-end autonomous mine countermeasure…",
+          "date": "2026-11-03",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/hii-and-thales-successfully-demonstrate-expeditionary-pathmasters-ability-to-deliver-an-end-to-end-autonomous-mine-countermeasure-mission/",
           "relevant": false
         },
         {
