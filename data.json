@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T12:01:53Z",
+  "last_updated": "2026-11-04T13:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -217,6 +217,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Torm strikes eight-tanker newbuild deal in joint venture push",
+          "summary": "Danish product tanker giant Torm has stepped up its fleet expansion with agreements for eight LR2 newbuildings through a 50:50 joint venture. The Copenhagen- and New York-listed owner disclosed the latest contracts in…",
+          "date": "2026-11-04",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/torm-strikes-eight-tanker-newbuild-deal-through-joint-venture/",
+          "relevant": false
+        },
+        {
           "title": "Laskaridis doubles Hengli LR2 bet with fresh pair",
           "summary": "Greek owner Thanassis Laskaridis has doubled his LR2 tanker newbuilding commitment at China’s Hengli Heavy Industries, adding another two 114,000 dwt vessels to an existing programme. The latest contracts cover two…",
           "date": "2026-11-04",
@@ -238,6 +246,14 @@
           "date": "2026-11-04",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/11/04/fugro-wins-east-anglia-two-post-installation-survey-contract",
+          "relevant": false
+        },
+        {
+          "title": "TotalEnergies Bags 15-Year Deal to Supply LNG to China's Jiangsu",
+          "summary": "Jiangsu Guoxin awarded TotalEnergies a 15-year contract to supply 900,000 metric tons per year of liquefied natural gas to the Chinese province for city gas supply and flexible power generation.",
+          "date": "2026-11-04",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/totalenergies_bags_15year_deal_to_supply_lng_to_chinas_jiangsu-04-nov-2026-185003-article/?rss=true",
           "relevant": false
         },
         {
@@ -270,14 +286,6 @@
           "date": "2026-11-04",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544130-mauritania-signs-two-offshore-exploration-contracts-with-murphy-oil",
-          "relevant": false
-        },
-        {
-          "title": "TotalEnergies Bags 15-Year Deal to Supply LNG to China's Jiangsu",
-          "summary": "Jiangsu Guoxin awarded TotalEnergies a 15-year contract to supply 900,000 metric tons per year of liquefied natural gas to the Chinese province for city gas supply and flexible power generation.",
-          "date": "2026-11-04",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/totalenergies_bags_15year_deal_to_supply_lng_to_chinas_jiangsu-04-nov-2026-185003-article/?rss=true",
           "relevant": false
         },
         {
