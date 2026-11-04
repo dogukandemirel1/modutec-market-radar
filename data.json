@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T20:01:08Z",
+  "last_updated": "2026-11-04T21:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -321,14 +321,6 @@
           "relevant": false
         },
         {
-          "title": "Qatar’s US LNG Bet Signals a New Energy Order",
-          "summary": "Turning to your biggest rival is rarely a sign of confidence. Yet Qatar's decision to sign long-term contracts for US supplies suggests the world's second-largest LNG exporter is increasingly concerned that instability…",
-          "date": "2026-11-03",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/qatars-us-lng-bet-signals-a-new-energy-order/",
-          "relevant": false
-        },
-        {
           "title": "Saipem 12000 drillship begins Coral North campaign for Eni",
           "summary": "Eni and its Area 4 partners started the drilling and completion campaign for the Coral North floating liquefied natural gas (FLNG) project offshore Mozambique, the operator announced 2 November 2026. The project, in the…",
           "date": "2026-11-03",
@@ -342,6 +334,14 @@
           "date": "2026-11-03",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/11/03/wison-new-energies-lays-keel-for-turkiyes-ultra-deepwater-fpu",
+          "relevant": false
+        },
+        {
+          "title": "Qatar’s US LNG Bet Signals a New Energy Order",
+          "summary": "Turning to your biggest rival is rarely a sign of confidence. Yet Qatar's decision to sign long-term contracts for US supplies suggests the world's second-largest LNG exporter is increasingly concerned that instability…",
+          "date": "2026-11-03",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/qatars-us-lng-bet-signals-a-new-energy-order/",
           "relevant": false
         },
         {
@@ -4864,6 +4864,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "U.S. Targets Fraudulent Ship Registries Used by Iran’s Shadow Fleet",
+          "summary": "The United States on Wednesday sanctioned a network of individuals and companies accused of operating fraudulent ship registries that helped Iran’s shadow fleet evade sanctions, while issuing a new warning...",
+          "date": "2026-11-04",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/u-s-targets-fraudulent-ship-registries-used-by-irans-shadow-fleet/",
+          "relevant": false
+        },
         {
           "title": "Greenland Parliament Backs Scrubber Discharge Ban for Ships in Its Waters",
           "summary": "Greenland's parliament has unanimously backed a phased ban on discharges from ships' exhaust gas cleaning systems, adding another layer of environmental restrictions for vessels operating in Arctic waters and…",
