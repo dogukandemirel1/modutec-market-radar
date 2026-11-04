@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T15:01:11Z",
+  "last_updated": "2026-11-04T16:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4857,11 +4857,27 @@
           "relevant": false
         },
         {
+          "title": "Babcock launches transformative digital platform to connect shipbuilding, fleet operations and support",
+          "summary": "Babcock International Group has launched Pelorus, a transformative digital platform designed to connect the build, operation and support of maritime assets across their entire lifecycle. Babcock press release The…",
+          "date": "2026-11-04",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/babcock-launches-transformative-digital-platform-to-connect-shipbuilding-fleet-operations-and-support/",
+          "relevant": false
+        },
+        {
           "title": "Multi-year US deal brings liquidity boost to New Fortress Energy as Mexican FLNG targets 4Q restart",
           "summary": "NFE has sealed a long-term lease for 300 MW of mobile turbines with a U.S. company, while its FLNG in Mexico edges closer to a Q4 resumption.",
           "date": "2026-11-04",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/11/04/multi-year-us-deal-brings-liquidity-boost-to-new-fortress-energy-as-mexican-flng-targets-4q-restart",
+          "relevant": false
+        },
+        {
+          "title": "Democrat Wins Texas Oil Regulator Seat",
+          "summary": "Democrat Jon Rosenthal defeated Republican firebrand Bo French.",
+          "date": "2026-11-04",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/democrat_wins_texas_oil_regulator_seat-04-nov-2026-185008-article/?rss=true",
           "relevant": false
         },
         {
