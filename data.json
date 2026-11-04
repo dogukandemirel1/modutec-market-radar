@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T09:01:15Z",
+  "last_updated": "2026-11-04T11:01:09Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -217,19 +217,35 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "TS Lines adds $246m boxship brace in China",
-          "summary": "Taiwanese liner operator TS Lines has returned to Shanghai Waigaoqiao Shipbuilding (SWS) for another pair of containerships in a deal worth $246m. The Hong Kong-listed carrier has contracted two 11,000 teu vessels at…",
+          "title": "Orkim books $38m product tanker pair in China",
+          "summary": "Malaysian tanker owner Orkim has signed contracts for two more product tankers in China, committing about $37.6m as it presses ahead with fleet expansion following last year’s stock market listing. The Bursa…",
           "date": "2026-11-04",
           "source_name": "Splash247",
-          "source_url": "https://splash247.com/ts-lines-adds-246m-boxship-brace-in-china/",
+          "source_url": "https://splash247.com/orkim-books-38m-product-tanker-pair-in-china/",
           "relevant": false
         },
         {
-          "title": "Cadeler newbuild to debut on Dogger Bank turbine campaign",
-          "summary": "Danish offshore wind contractor Cadeler has secured the first assignment for its newbuild installation vessel, Wind Apex, signing a firm contract to transport and install turbines at the Dogger Bank C offshore wind farm…",
+          "title": "Fugro wins East Anglia Two post-installation survey contract",
+          "summary": "Fugro has secured a contract from Cadeler to carry out post-installation seabed surveys at the 960 MW East Anglia Two offshore wind farm in the...",
           "date": "2026-11-04",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/cadeler-newbuild-to-debut-on-dogger-bank-turbine-campaign/",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/11/04/fugro-wins-east-anglia-two-post-installation-survey-contract",
+          "relevant": false
+        },
+        {
+          "title": "TotalEnergies Bags 15-Year Deal to Supply LNG to China's Jiangsu",
+          "summary": "Jiangsu Guoxin awarded TotalEnergies a 15-year contract to supply 900,000 metric tons per year of liquefied natural gas to the Chinese province for city gas supply and flexible power generation.",
+          "date": "2026-11-04",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/totalenergies_bags_15year_deal_to_supply_lng_to_chinas_jiangsu-04-nov-2026-185003-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Energy Transfer sanctions $1.6bn South Mississippi pipeline project",
+          "summary": "Energy Transfer has approved a final investment decision (FID) for the $1.6bn South Mississippi Pipeline Project in southern Mississippi, US.",
+          "date": "2026-11-04",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/energy-transfer-south-mississippi-pipeline/",
           "relevant": false
         },
         {
@@ -254,6 +270,22 @@
           "date": "2026-11-04",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544130-mauritania-signs-two-offshore-exploration-contracts-with-murphy-oil",
+          "relevant": false
+        },
+        {
+          "title": "TS Lines adds $246m boxship brace in China",
+          "summary": "Taiwanese liner operator TS Lines has returned to Shanghai Waigaoqiao Shipbuilding (SWS) for another pair of containerships in a deal worth $246m. The Hong Kong-listed carrier has contracted two 11,000 teu vessels at…",
+          "date": "2026-11-04",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/ts-lines-adds-246m-boxship-brace-in-china/",
+          "relevant": false
+        },
+        {
+          "title": "Cadeler newbuild to debut on Dogger Bank turbine campaign",
+          "summary": "Danish offshore wind contractor Cadeler has secured the first assignment for its newbuild installation vessel, Wind Apex, signing a firm contract to transport and install turbines at the Dogger Bank C offshore wind farm…",
+          "date": "2026-11-04",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/cadeler-newbuild-to-debut-on-dogger-bank-turbine-campaign/",
           "relevant": false
         },
         {
@@ -289,6 +321,14 @@
           "relevant": false
         },
         {
+          "title": "Türkiye’s MKE Debuts PIRANA Armed USV Variant with Drone Payload",
+          "summary": "MKE’s latest PIRANA unmanned surface vessel variant is designed to enable enhanced control of kamikaze drone swarms and deliver strikes against targets through a payload bay. The Turkish defense firm revealed the new…",
+          "date": "2026-11-03",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/turkiyes-mke-debuts-pirana-armed-usv-variant-with-drone-payload/",
+          "relevant": false
+        },
+        {
           "title": "Wison New Energies lays keel for Türkiye’s ultra-deepwater FPU",
           "summary": "This ultra-deepwater floating production unit (FPU) is being built for Türkiye Petrolleri A.O. (TPAO) to boost Türkiye's natural gas supply.",
           "date": "2026-11-03",
@@ -318,14 +358,6 @@
           "date": "2026-11-03",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/bw-offshore-gets-norwegian-funding-boost-for-floating-wind-ambitions/",
-          "relevant": false
-        },
-        {
-          "title": "Türkiye’s MKE Debuts PIRANA Armed USV Variant with Drone Payload",
-          "summary": "MKE’s latest PIRANA unmanned surface vessel variant is designed to enable enhanced control of kamikaze drone swarms and deliver strikes against targets through a payload bay. The Turkish defense firm revealed the new…",
-          "date": "2026-11-03",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/turkiyes-mke-debuts-pirana-armed-usv-variant-with-drone-payload/",
           "relevant": false
         },
         {
@@ -4817,6 +4849,14 @@
           "relevant": false
         },
         {
+          "title": "BP Finds Hydrocarbons in Brazil's Tupinambá Offshore Block as Drilling Continues",
+          "summary": "BP has identified hydrocarbons in an exploration well at the deepwater Tupinambá block in Brazil's Santos Basin, where Shell's 50% working interest remains subject to regulatory approval…",
+          "date": "2026-11-04",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544136-bp-finds-hydrocarbons-in-brazil-s-tupinamb-offshore-block-as-drilling-continues",
+          "relevant": false
+        },
+        {
           "title": "Energy security to keep running the show into 2027 amid market shifts, IEA Chief warns",
           "summary": "$3.4 trillion global energy spend: Clean tech outpaces fossil fuels nearly 2-to-1 in 2026. IEA Chief says energy markets will not normalize in 2027.",
           "date": "2026-11-04",
@@ -4838,6 +4878,14 @@
           "date": "2026-11-03",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/war-widens-in-the-black-sea-in-a-test-of-nato-red-lines/",
+          "relevant": false
+        },
+        {
+          "title": "HII and Thales Demonstrate Expeditionary PathMaster’s Ability to Deliver an End-to-End Autonomous MCM",
+          "summary": "HII, America’s largest military shipbuilder and the global leader in autonomous seapower, and Thales, a global leader in advanced technologies, have successfully demonstrated an end-to-end autonomous mine countermeasure…",
+          "date": "2026-11-03",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/hii-and-thales-successfully-demonstrate-expeditionary-pathmasters-ability-to-deliver-an-end-to-end-autonomous-mine-countermeasure-mission/",
           "relevant": false
         },
         {
@@ -4870,14 +4918,6 @@
           "date": "2026-11-03",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544111-baker-hughes-sets-up-global-network-to-bolster-mature-oil-and-gas-fields-production",
-          "relevant": false
-        },
-        {
-          "title": "HII and Thales Demonstrate Expeditionary PathMaster’s Ability to Deliver an End-to-End Autonomous MCM",
-          "summary": "HII, America’s largest military shipbuilder and the global leader in autonomous seapower, and Thales, a global leader in advanced technologies, have successfully demonstrated an end-to-end autonomous mine countermeasure…",
-          "date": "2026-11-03",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/hii-and-thales-successfully-demonstrate-expeditionary-pathmasters-ability-to-deliver-an-end-to-end-autonomous-mine-countermeasure-mission/",
           "relevant": false
         },
         {
@@ -8361,6 +8401,24 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "EDGE Launches Second Corvette for Angolan Navy, First of Its Class Built in UAE",
+          "summary": "EDGE has launched NRA Nimi-ya-Lukeni (F301), the second BR71 MK II multi-mission corvette for the Angolan Navy, at the Abu Dhabi shipyard of its naval shipbuilding entity, Abu Dhabi Ship Building (ADSB), on 29 October…",
+          "date": "2026-11-04",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/edge-launches-second-corvette-for-angolan-navy-first-of-its-class-built-in-uae/",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
+          "title": "TotalEnergies forges pacts with Petronas, Sonangol, and Oil India to slash methane footprint",
+          "summary": "TotalEnergies has deepened partnerships across Malaysia, Angola, and India to expand advanced methane detection and accelerate emissions cuts.",
+          "date": "2026-11-04",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/11/04/totalenergies-forges-pacts-with-petronas-sonangol-and-oil-india-to-slash-methane-footprint",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Samudera taps Yangzijiang yards for boxship duo",
           "summary": "Singapore-listed Samudera Shipping Line has ordered two containerships in China, adding 6,000 teu of capacity to its newbuilding pipeline. The Indonesian-controlled carrier disclosed in a filing that it had signed…",
           "date": "2026-11-04",
@@ -8377,15 +8435,6 @@
           "source_url": "https://splash247.com/aramco-starts-production-from-giant-oilfield-expansion-project/",
           "relevant": true,
           "region": "KSA"
-        },
-        {
-          "title": "TotalEnergies forges pacts with Petronas, Sonangol, and Oil India to slash methane footprint",
-          "summary": "TotalEnergies has deepened partnerships across Malaysia, Angola, and India to expand advanced methane detection and accelerate emissions cuts.",
-          "date": "2026-11-04",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/11/04/totalenergies-forges-pacts-with-petronas-sonangol-and-oil-india-to-slash-methane-footprint",
-          "relevant": false,
-          "region": "SEA"
         },
         {
           "title": "Shell rakes in $1.45 billion for shedding its stake in Australian gas and LNG project",
