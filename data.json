@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T02:01:03Z",
+  "last_updated": "2026-11-04T03:01:10Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4760,6 +4760,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "Multi-year US deal brings liquidity boost to New Fortress Energy as Mexican FLNG targets 4Q restart",
+          "summary": "NFE has sealed a long-term lease for 300 MW of mobile turbines with a U.S. company, while its FLNG in Mexico edges closer to a Q4 resumption.",
+          "date": "2026-11-04",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/11/04/multi-year-us-deal-brings-liquidity-boost-to-new-fortress-energy-as-mexican-flng-targets-4q-restart",
+          "relevant": false
+        },
         {
           "title": "Norway Detains Sanctioned Chinese Vessel Over False Flag Registration",
           "summary": "Norway has detained a Chinese-owned heavy-lift vessel sanctioned for its role in delivering equipment to Russia’s Arctic LNG 2 project, in what appears to be the first known detention in the Arctic of a Chinese vessel…",
