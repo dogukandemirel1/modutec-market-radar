@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T19:01:05Z",
+  "last_updated": "2026-11-04T20:01:08Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -337,19 +337,19 @@
           "relevant": false
         },
         {
-          "title": "Türkiye’s MKE Debuts PIRANA Armed USV Variant with Drone Payload",
-          "summary": "MKE’s latest PIRANA unmanned surface vessel variant is designed to enable enhanced control of kamikaze drone swarms and deliver strikes against targets through a payload bay. The Turkish defense firm revealed the new…",
-          "date": "2026-11-03",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/turkiyes-mke-debuts-pirana-armed-usv-variant-with-drone-payload/",
-          "relevant": false
-        },
-        {
           "title": "Wison New Energies lays keel for Türkiye’s ultra-deepwater FPU",
           "summary": "This ultra-deepwater floating production unit (FPU) is being built for Türkiye Petrolleri A.O. (TPAO) to boost Türkiye's natural gas supply.",
           "date": "2026-11-03",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/11/03/wison-new-energies-lays-keel-for-turkiyes-ultra-deepwater-fpu",
+          "relevant": false
+        },
+        {
+          "title": "Türkiye’s MKE Debuts PIRANA Armed USV Variant with Drone Payload",
+          "summary": "MKE’s latest PIRANA unmanned surface vessel variant is designed to enable enhanced control of kamikaze drone swarms and deliver strikes against targets through a payload bay. The Turkish defense firm revealed the new…",
+          "date": "2026-11-03",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/turkiyes-mke-debuts-pirana-armed-usv-variant-with-drone-payload/",
           "relevant": false
         },
         {
@@ -7241,6 +7241,22 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Transpacific emerges as liner shipping’s golden trade",
+          "summary": "The transpacific has become the most lucrative major container shipping trade in the world, with carriers generating five times more spot revenue per nautical mile on the Shanghai–Los Angeles route than on shipments to…",
+          "date": "2026-11-04",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/transpacific-emerges-as-liner-shippings-golden-trade/",
+          "relevant": false
+        },
+        {
+          "title": "Saipem, Subsea7 Merger Approved",
+          "summary": "The tribunal of Brazil's antitrust agency (CADE) has approved the merger of Italian oilfield services company Saipem and Norway's Subsea7, Saipem said on Wednesday…",
+          "date": "2026-11-04",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544149-saipem-subsea7-merger-approved",
+          "relevant": false
+        },
+        {
           "title": "Halliburton buys Keystone to link well planning with rig execution",
           "summary": "Halliburton acquired Keystone AS, a Norway-based software company that develops digital tools for well planning and execution, the company announced 2 November 2026. Keystone’s applications cover well planning and…",
           "date": "2026-11-03",
@@ -8492,6 +8508,15 @@
           "region": "SEA"
         },
         {
+          "title": "UAE Mulls 3rd Crude Oil Pipeline to Avoid Hormuz",
+          "summary": "The United Arab Emirates is considering a third oil-export pipeline that will deliver crude outside the Strait of Hormuz, according to people familiar with the matter.",
+          "date": "2026-11-04",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/uae_mulls_3rd_crude_oil_pipeline_to_avoid_hormuz-04-nov-2026-185009-article/?rss=true",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
           "title": "BOURBON Takes Delivery of First of Two 34-Meter Crew Boats",
           "summary": "BOURBON has taken delivery of the first of two new 34-meter crew boats from Grandweld Shipyards in Dubai, expanding its fleet of offshore personnel transport vessels…",
           "date": "2026-11-04",
@@ -8627,15 +8652,6 @@
           "region": "KSA"
         },
         {
-          "title": "TotalEnergies to Take Control of Upstream Projects for Malaysia LNG",
-          "summary": "TotalEnergies agreed to acquire a 30 percent operating stake in the SK410B Lang Lebah and B14 gas fields off the coast of the Malaysian state of Sarawak.",
-          "date": "2026-11-02",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/totalenergies_to_take_control_of_upstream_projects_for_malaysia_lng-02-nov-2026-184991-article/?rss=true",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "TotalEnergies strikes deal for Lang Lebah and B14 fields in Malaysia",
           "summary": "TotalEnergies has signed farm-out agreements to acquire a 30% operated interest in the Lang Lebah and B14 offshore gas fields.",
           "date": "2026-11-02",
@@ -8650,6 +8666,15 @@
           "date": "2026-11-02",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/eni-gas-production-maha-field-indonesia/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "TotalEnergies to Take Control of Upstream Projects for Malaysia LNG",
+          "summary": "TotalEnergies agreed to acquire a 30 percent operating stake in the SK410B Lang Lebah and B14 gas fields off the coast of the Malaysian state of Sarawak.",
+          "date": "2026-11-02",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/totalenergies_to_take_control_of_upstream_projects_for_malaysia_lng-02-nov-2026-184991-article/?rss=true",
           "relevant": false,
           "region": "SEA"
         },
