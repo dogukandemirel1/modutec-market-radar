@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T07:01:03Z",
+  "last_updated": "2026-11-04T08:01:12Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -217,6 +217,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Cadeler newbuild to debut on Dogger Bank turbine campaign",
+          "summary": "Danish offshore wind contractor Cadeler has secured the first assignment for its newbuild installation vessel, Wind Apex, signing a firm contract to transport and install turbines at the Dogger Bank C offshore wind farm…",
+          "date": "2026-11-04",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/cadeler-newbuild-to-debut-on-dogger-bank-turbine-campaign/",
+          "relevant": false
+        },
+        {
           "title": "Qatar’s US LNG Bet Signals a New Energy Order",
           "summary": "Turning to your biggest rival is rarely a sign of confidence. Yet Qatar's decision to sign long-term contracts for US supplies suggests the world's second-largest LNG exporter is increasingly concerned that instability…",
           "date": "2026-11-03",
@@ -246,22 +254,6 @@
           "date": "2026-11-03",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/bw-offshore-gets-norwegian-funding-boost-for-floating-wind-ambitions/",
-          "relevant": false
-        },
-        {
-          "title": "Ernst Russ offloads another feeder in fleet reshuffle",
-          "summary": "German shipowner Ernst Russ has sold another feeder containership, continuing to trim its older boxship exposure while building up its tanker and multipurpose fleet. The Frankfurt-listed company has confirmed the sale…",
-          "date": "2026-11-03",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/ernst-russ-offloads-another-feeder-in-fleet-reshuffle/",
-          "relevant": false
-        },
-        {
-          "title": "Contships locks in fresh CMA CGM and ONE feeder deals",
-          "summary": "Greek feeder containership owner Contships Logistics has secured two new charter deals with CMA CGM and Ocean Network Express (ONE), adding contracted employment as it prepares for an extensive fleet renewal programme…",
-          "date": "2026-11-03",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/contships-locks-in-fresh-cma-cgm-and-one-feeder-deals/",
           "relevant": false
         },
         {
@@ -302,6 +294,22 @@
           "date": "2026-11-03",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544106-valaris-secures-600m-in-new-contracts-as-backlog-rises-to-4-8b",
+          "relevant": false
+        },
+        {
+          "title": "Ernst Russ offloads another feeder in fleet reshuffle",
+          "summary": "German shipowner Ernst Russ has sold another feeder containership, continuing to trim its older boxship exposure while building up its tanker and multipurpose fleet. The Frankfurt-listed company has confirmed the sale…",
+          "date": "2026-11-03",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/ernst-russ-offloads-another-feeder-in-fleet-reshuffle/",
+          "relevant": false
+        },
+        {
+          "title": "Contships locks in fresh CMA CGM and ONE feeder deals",
+          "summary": "Greek feeder containership owner Contships Logistics has secured two new charter deals with CMA CGM and Ocean Network Express (ONE), adding contracted employment as it prepares for an extensive fleet renewal programme…",
+          "date": "2026-11-03",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/contships-locks-in-fresh-cma-cgm-and-one-feeder-deals/",
           "relevant": false
         },
         {
@@ -673,19 +681,19 @@
           "relevant": false
         },
         {
-          "title": "Fairbanks Morse Defense wins $99m US Navy submarine overhaul contract",
-          "summary": "Fairbanks Morse Defence (FMD) has secured a $99.09m contract from the US Naval Sea Systems Command (NAVSEA) to provide overhaul and life extension services for emergency diesel generators on six US Navy nuclear…",
-          "date": "2026-10-28",
-          "source_name": "Naval Technology",
-          "source_url": "https://www.naval-technology.com/news/fmd-us-navy-submarine-overhaul/",
-          "relevant": false
-        },
-        {
           "title": "DeepOcean to employ recently upgraded subsea vessel offshore Ghana",
           "summary": "DeepOcean has secured a contract with Tullow Ghana Ltd, a subsidiary of the UK-headquartered Tullow Oil, for a riser retermination project in...",
           "date": "2026-10-28",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/10/28/deepocean-to-employ-recently-upgraded-subsea-vessel-offshore-ghana",
+          "relevant": false
+        },
+        {
+          "title": "Fairbanks Morse Defense wins $99m US Navy submarine overhaul contract",
+          "summary": "Fairbanks Morse Defence (FMD) has secured a $99.09m contract from the US Naval Sea Systems Command (NAVSEA) to provide overhaul and life extension services for emergency diesel generators on six US Navy nuclear…",
+          "date": "2026-10-28",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/fmd-us-navy-submarine-overhaul/",
           "relevant": false
         },
         {
@@ -4761,6 +4769,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "CVR Energy to acquire two US refineries from Marathon for $4.2bn",
+          "summary": "CVR Energy to acquire two US refineries and associated marketing assets from Marathon Petroleum for about $4.2bn plus net working capital.",
+          "date": "2026-11-04",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/cvr-energy-acquire-refineries-marathon-4-2bn/",
+          "relevant": false
+        },
+        {
           "title": "Energy security to keep running the show into 2027 amid market shifts, IEA Chief warns",
           "summary": "$3.4 trillion global energy spend: Clean tech outpaces fossil fuels nearly 2-to-1 in 2026. IEA Chief says energy markets will not normalize in 2027.",
           "date": "2026-11-04",
@@ -7113,6 +7129,14 @@
           "relevant": false
         },
         {
+          "title": "Shell to divest North West Shelf stake to XRG for $1.5bn",
+          "summary": "Shell is set to exit the North West Shelf (NWS) venture in Western Australia after agreeing to sell its 16.67% non-operated stake to XRG.",
+          "date": "2026-11-03",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/shell-north-west-shelf-stake-xrg/",
+          "relevant": false
+        },
+        {
           "title": "Eni, Petronas JV Brings Indonesian Offshore Gas Field Online",
           "summary": "Searah, the joint venture between Eni and Petronas, has started gas production from the Maha field offshore Indonesia, with output expected to ramp up to 230 million…",
           "date": "2026-11-02",
@@ -8305,6 +8329,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Aramco starts production from giant oilfield expansion project",
+          "summary": "Saudi state oil giant Aramco has started crude production from its major Zuluf offshore expansion project, bringing a development designed to process up to 600,000 barrels per day closer to full operations. Located in…",
+          "date": "2026-11-04",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/aramco-starts-production-from-giant-oilfield-expansion-project/",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
           "title": "TotalEnergies forges pacts with Petronas, Sonangol, and Oil India to slash methane footprint",
           "summary": "TotalEnergies has deepened partnerships across Malaysia, Angola, and India to expand advanced methane detection and accelerate emissions cuts.",
           "date": "2026-11-04",
@@ -8330,24 +8363,6 @@
           "source_url": "https://splash247.com/keppel-secures-51m-extension-for-saudi-jackup/",
           "relevant": false,
           "region": "KSA"
-        },
-        {
-          "title": "Singapore VLSFO back above $1,000 for first time since March",
-          "summary": "The cost of fuelling ships has climbed back above $1,000 a tonne in Singapore for the first time since March, as the prolonged Iran conflict continues to drive up bunker bills across the global merchant fleet. Data from…",
-          "date": "2026-11-03",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/singapore-vlsfo-back-above-1000-for-first-time-since-march/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Splash Singapore unveils 2027 agenda with three new sessions tackling shipping’s biggest challenges",
-          "summary": "Splash Singapore has unveiled the agenda for its 2027 edition, introducing three new sessions examining crewing, operational efficiency and maritime investment alongside traditional tanker and dry bulk market outlooks…",
-          "date": "2026-11-03",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/splash-singapore-unveils-2027-agenda-with-three-new-sessions-tackling-shippings-biggest-challenges/",
-          "relevant": false,
-          "region": "SEA"
         },
         {
           "title": "Shell rakes in $1.45 billion for shedding its stake in Australian gas and LNG project",
@@ -8402,6 +8417,24 @@
           "source_url": "https://www.oedigital.com/news/544099-aramco-targets-hormuz-bypass-with-east-west-pipeline-expansion",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Singapore VLSFO back above $1,000 for first time since March",
+          "summary": "The cost of fuelling ships has climbed back above $1,000 a tonne in Singapore for the first time since March, as the prolonged Iran conflict continues to drive up bunker bills across the global merchant fleet. Data from…",
+          "date": "2026-11-03",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/singapore-vlsfo-back-above-1000-for-first-time-since-march/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Splash Singapore unveils 2027 agenda with three new sessions tackling shipping’s biggest challenges",
+          "summary": "Splash Singapore has unveiled the agenda for its 2027 edition, introducing three new sessions examining crewing, operational efficiency and maritime investment alongside traditional tanker and dry bulk market outlooks…",
+          "date": "2026-11-03",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/splash-singapore-unveils-2027-agenda-with-three-new-sessions-tackling-shippings-biggest-challenges/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "TotalEnergies, ADNOC Gas Sign Five-Year LNG Supply Deal",
