@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T11:01:09Z",
+  "last_updated": "2026-11-04T12:01:08Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -216,6 +216,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Laskaridis doubles Hengli LR2 bet with fresh pair",
+          "summary": "Greek owner Thanassis Laskaridis has doubled his LR2 tanker newbuilding commitment at China’s Hengli Heavy Industries, adding another two 114,000 dwt vessels to an existing programme. The latest contracts cover two…",
+          "date": "2026-11-04",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/laskaridis-doubles-hengli-lr2-bet-with-fresh-pair/",
+          "relevant": false
+        },
         {
           "title": "Orkim books $38m product tanker pair in China",
           "summary": "Malaysian tanker owner Orkim has signed contracts for two more product tankers in China, committing about $37.6m as it presses ahead with fleet expansion following last year’s stock market listing. The Bursa…",
@@ -8417,6 +8425,15 @@
           "source_url": "https://offshore-energy.biz/2026/11/04/totalenergies-forges-pacts-with-petronas-sonangol-and-oil-india-to-slash-methane-footprint",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "BOURBON Takes Delivery of First of Two 34-Meter Crew Boats",
+          "summary": "BOURBON has taken delivery of the first of two new 34-meter crew boats from Grandweld Shipyards in Dubai, expanding its fleet of offshore personnel transport vessels…",
+          "date": "2026-11-04",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544140-bourbon-takes-delivery-of-first-of-two-34-meter-crew-boats",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Samudera taps Yangzijiang yards for boxship duo",
