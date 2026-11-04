@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T16:01:07Z",
+  "last_updated": "2026-11-04T17:01:18Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8440,6 +8440,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Valaris lines up four rig extensions, reverses VALARIS 111 recycling sale",
+          "summary": "Valaris and its ARO Drilling joint venture secured contract extensions with BP, Saudi Aramco, Ithaca Energy and INEOS, and Valaris reversed the recycling sale of jackup VALARIS 111, according to its 2 November fleet…",
+          "date": "2026-11-04",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/valaris-lines-up-four-rig-extensions-reverses-valaris-111-recycling-sale-80816",
+          "relevant": true,
+          "region": "KSA"
+        },
         {
           "title": "EDGE Launches Second Corvette for Angolan Navy, First of Its Class Built in UAE",
           "summary": "EDGE has launched NRA Nimi-ya-Lukeni (F301), the second BR71 MK II multi-mission corvette for the Angolan Navy, at the Abu Dhabi shipyard of its naval shipbuilding entity, Abu Dhabi Ship Building (ADSB), on 29 October…",
