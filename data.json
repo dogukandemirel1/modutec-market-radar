@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T18:01:11Z",
+  "last_updated": "2026-11-04T19:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -241,6 +241,14 @@
           "relevant": false
         },
         {
+          "title": "Velesto puts jackup NAGA 3 to work for PETRONAS Carigali",
+          "summary": "Velesto secured a contract from PETRONAS Carigali to deploy the jackup NAGA 3 for one firm well and one optional well. Operations began in November. The award went to Velesto Drilling, a wholly owned subsidiary of…",
+          "date": "2026-11-04",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/velesto-puts-jackup-naga-3-to-work-for-petronas-carigali-80818",
+          "relevant": false
+        },
+        {
           "title": "Safran Secures Inertial Navigation Contracts for French Nuclear Deterrence",
           "summary": "On November 2, 2026, Safran Electronics announced a new contract to provide inertial navigation systems for the French Navy’s submarines. Safran press release Safran Electronics & Defense has been selected this year for…",
           "date": "2026-11-04",
@@ -321,14 +329,6 @@
           "relevant": false
         },
         {
-          "title": "Damen wins KNVTS Ship of the Year Award with CSOV Windcat Rotterdam",
-          "summary": "Damen Shipyards Group and Windcat are pleased to announce that Commissioning Service Operations Vessel (CSOV) Windcat Rotterdam has received the KNVTS Ship of the Year Award. The award was presented at the Maritime…",
-          "date": "2026-11-03",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/damen-wins-knvts-ship-of-the-year-award-with-csov-windcat-rotterdam/",
-          "relevant": false
-        },
-        {
           "title": "Saipem 12000 drillship begins Coral North campaign for Eni",
           "summary": "Eni and its Area 4 partners started the drilling and completion campaign for the Coral North floating liquefied natural gas (FLNG) project offshore Mozambique, the operator announced 2 November 2026. The project, in the…",
           "date": "2026-11-03",
@@ -358,6 +358,14 @@
           "date": "2026-11-03",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544108-eni-kicks-off-coral-north-flng-drilling-campaign-off-mozambique",
+          "relevant": false
+        },
+        {
+          "title": "Damen wins KNVTS Ship of the Year Award with CSOV Windcat Rotterdam",
+          "summary": "Damen Shipyards Group and Windcat are pleased to announce that Commissioning Service Operations Vessel (CSOV) Windcat Rotterdam has received the KNVTS Ship of the Year Award. The award was presented at the Maritime…",
+          "date": "2026-11-03",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/damen-wins-knvts-ship-of-the-year-award-with-csov-windcat-rotterdam/",
           "relevant": false
         },
         {
@@ -4894,6 +4902,14 @@
           "date": "2026-11-04",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/cvr-energy-acquire-refineries-marathon-4-2bn/",
+          "relevant": false
+        },
+        {
+          "title": "US midterms: Trump class, F-47, Golden Dome, and budgets",
+          "summary": "The US is likely to see a period of change in defence, following the results of the midterm elections that saw Democrats make large gains. The post US midterms: Trump class, F-47, Golden Dome, and budgets appeared first…",
+          "date": "2026-11-04",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/features/us-midterms-trump-class-f-47-golden-dome-and-budgets/",
           "relevant": false
         },
         {
