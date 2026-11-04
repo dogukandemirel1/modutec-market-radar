@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T14:01:05Z",
+  "last_updated": "2026-11-04T15:01:11Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -321,14 +321,6 @@
           "relevant": false
         },
         {
-          "title": "Dronemaker Stark Designs Uncrewed Ship to Hunt Russia’s Shadow Fleet",
-          "summary": "German startup Stark Defence plans to launch a 24-meter uncrewed surface vessel next year, marking an expansion beyond small drones to more closely resemble an established defense contractor.",
-          "date": "2026-11-03",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/dronemaker-stark-designs-uncrewed-ship-to-hunt-russias-shadow-fleet/",
-          "relevant": false
-        },
-        {
           "title": "Saipem 12000 drillship begins Coral North campaign for Eni",
           "summary": "Eni and its Area 4 partners started the drilling and completion campaign for the Coral North floating liquefied natural gas (FLNG) project offshore Mozambique, the operator announced 2 November 2026. The project, in the…",
           "date": "2026-11-03",
@@ -358,6 +350,14 @@
           "date": "2026-11-03",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544108-eni-kicks-off-coral-north-flng-drilling-campaign-off-mozambique",
+          "relevant": false
+        },
+        {
+          "title": "Dronemaker Stark Designs Uncrewed Ship to Hunt Russia’s Shadow Fleet",
+          "summary": "German startup Stark Defence plans to launch a 24-meter uncrewed surface vessel next year, marking an expansion beyond small drones to more closely resemble an established defense contractor.",
+          "date": "2026-11-03",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/dronemaker-stark-designs-uncrewed-ship-to-hunt-russias-shadow-fleet/",
           "relevant": false
         },
         {
@@ -4849,6 +4849,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Greenland Parliament Backs Scrubber Discharge Ban for Ships in Its Waters",
+          "summary": "Greenland's parliament has unanimously backed a phased ban on discharges from ships' exhaust gas cleaning systems, adding another layer of environmental restrictions for vessels operating in Arctic waters and…",
+          "date": "2026-11-04",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/greenland-parliament-backs-scrubber-discharge-ban-for-ships-in-its-waters/",
+          "relevant": false
+        },
+        {
           "title": "Multi-year US deal brings liquidity boost to New Fortress Energy as Mexican FLNG targets 4Q restart",
           "summary": "NFE has sealed a long-term lease for 300 MW of mobile turbines with a U.S. company, while its FLNG in Mexico edges closer to a Q4 resumption.",
           "date": "2026-11-04",
@@ -4878,22 +4886,6 @@
           "date": "2026-11-04",
           "source_name": "Offshore Energy",
           "source_url": "https://offshore-energy.biz/2026/11/04/energy-security-to-keep-running-the-show-into-2027-amid-market-shifts-iea-chief-warns",
-          "relevant": false
-        },
-        {
-          "title": "Norway Detains Sanctioned Chinese Vessel Over False Flag Registration",
-          "summary": "Norway has detained a Chinese-owned heavy-lift vessel sanctioned for its role in delivering equipment to Russia’s Arctic LNG 2 project, in what appears to be the first known detention in the Arctic of a Chinese vessel…",
-          "date": "2026-11-03",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/norway-detains-sanctioned-chinese-vessel-over-false-flag-registration/",
-          "relevant": false
-        },
-        {
-          "title": "War Widens in the Black Sea in a Test of NATO Red Lines",
-          "summary": "After seven strikes on cargo ships near NATO members Romania and Bulgaria last month, the US-led military alliance said it would deploy maritime patrol aircraft, radars and drones to bolster its eastern flank in the…",
-          "date": "2026-11-03",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/war-widens-in-the-black-sea-in-a-test-of-nato-red-lines/",
           "relevant": false
         },
         {
@@ -4934,6 +4926,22 @@
           "date": "2026-11-03",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544111-baker-hughes-sets-up-global-network-to-bolster-mature-oil-and-gas-fields-production",
+          "relevant": false
+        },
+        {
+          "title": "Norway Detains Sanctioned Chinese Vessel Over False Flag Registration",
+          "summary": "Norway has detained a Chinese-owned heavy-lift vessel sanctioned for its role in delivering equipment to Russia’s Arctic LNG 2 project, in what appears to be the first known detention in the Arctic of a Chinese vessel…",
+          "date": "2026-11-03",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/norway-detains-sanctioned-chinese-vessel-over-false-flag-registration/",
+          "relevant": false
+        },
+        {
+          "title": "War Widens in the Black Sea in a Test of NATO Red Lines",
+          "summary": "After seven strikes on cargo ships near NATO members Romania and Bulgaria last month, the US-led military alliance said it would deploy maritime patrol aircraft, radars and drones to bolster its eastern flank in the…",
+          "date": "2026-11-03",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/war-widens-in-the-black-sea-in-a-test-of-nato-red-lines/",
           "relevant": false
         },
         {
