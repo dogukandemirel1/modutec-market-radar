@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T12:01:08Z",
+  "last_updated": "2026-11-04T12:01:53Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -241,14 +241,6 @@
           "relevant": false
         },
         {
-          "title": "TotalEnergies Bags 15-Year Deal to Supply LNG to China's Jiangsu",
-          "summary": "Jiangsu Guoxin awarded TotalEnergies a 15-year contract to supply 900,000 metric tons per year of liquefied natural gas to the Chinese province for city gas supply and flexible power generation.",
-          "date": "2026-11-04",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/totalenergies_bags_15year_deal_to_supply_lng_to_chinas_jiangsu-04-nov-2026-185003-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Energy Transfer sanctions $1.6bn South Mississippi pipeline project",
           "summary": "Energy Transfer has approved a final investment decision (FID) for the $1.6bn South Mississippi Pipeline Project in southern Mississippi, US.",
           "date": "2026-11-04",
@@ -278,6 +270,14 @@
           "date": "2026-11-04",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544130-mauritania-signs-two-offshore-exploration-contracts-with-murphy-oil",
+          "relevant": false
+        },
+        {
+          "title": "TotalEnergies Bags 15-Year Deal to Supply LNG to China's Jiangsu",
+          "summary": "Jiangsu Guoxin awarded TotalEnergies a 15-year contract to supply 900,000 metric tons per year of liquefied natural gas to the Chinese province for city gas supply and flexible power generation.",
+          "date": "2026-11-04",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/totalenergies_bags_15year_deal_to_supply_lng_to_chinas_jiangsu-04-nov-2026-185003-article/?rss=true",
           "relevant": false
         },
         {
