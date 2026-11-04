@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T05:01:07Z",
+  "last_updated": "2026-11-04T06:01:08Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -673,19 +673,19 @@
           "relevant": false
         },
         {
-          "title": "DeepOcean to employ recently upgraded subsea vessel offshore Ghana",
-          "summary": "DeepOcean has secured a contract with Tullow Ghana Ltd, a subsidiary of the UK-headquartered Tullow Oil, for a riser retermination project in...",
-          "date": "2026-10-28",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/28/deepocean-to-employ-recently-upgraded-subsea-vessel-offshore-ghana",
-          "relevant": false
-        },
-        {
           "title": "Fairbanks Morse Defense wins $99m US Navy submarine overhaul contract",
           "summary": "Fairbanks Morse Defence (FMD) has secured a $99.09m contract from the US Naval Sea Systems Command (NAVSEA) to provide overhaul and life extension services for emergency diesel generators on six US Navy nuclear…",
           "date": "2026-10-28",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/fmd-us-navy-submarine-overhaul/",
+          "relevant": false
+        },
+        {
+          "title": "DeepOcean to employ recently upgraded subsea vessel offshore Ghana",
+          "summary": "DeepOcean has secured a contract with Tullow Ghana Ltd, a subsidiary of the UK-headquartered Tullow Oil, for a riser retermination project in...",
+          "date": "2026-10-28",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/28/deepocean-to-employ-recently-upgraded-subsea-vessel-offshore-ghana",
           "relevant": false
         },
         {
@@ -4760,6 +4760,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "Energy security to keep running the show into 2027 amid market shifts, IEA Chief warns",
+          "summary": "$3.4 trillion global energy spend: Clean tech outpaces fossil fuels nearly 2-to-1 in 2026. IEA Chief says energy markets will not normalize in 2027.",
+          "date": "2026-11-04",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/11/04/energy-security-to-keep-running-the-show-into-2027-amid-market-shifts-iea-chief-warns",
+          "relevant": false
+        },
         {
           "title": "Multi-year US deal brings liquidity boost to New Fortress Energy as Mexican FLNG targets 4Q restart",
           "summary": "NFE has sealed a long-term lease for 300 MW of mobile turbines with a U.S. company, while its FLNG in Mexico edges closer to a Q4 resumption.",
