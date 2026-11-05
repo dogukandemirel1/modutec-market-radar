@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T16:01:15Z",
+  "last_updated": "2026-11-05T17:01:18Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -278,6 +278,14 @@
           "date": "2026-11-05",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/worley-epc-venture-globals-cp2-expansion/",
+          "relevant": false
+        },
+        {
+          "title": "Tender-Assist Rigs: Southeast Asia’s Quiet Workhorses Head for Full Utilization",
+          "summary": "Often overshadowed by the towering jackup and ultra-deepwater floating rig fleets that dominate offshore headlines, tender-assist rigs are enjoying a resurgence in Southeast Asia…",
+          "date": "2026-11-05",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544178-tender-assist-rigs-southeast-asia-s-quiet-workhorses-head-for-full-utilization",
           "relevant": false
         },
         {
