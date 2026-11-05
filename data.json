@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T17:01:18Z",
+  "last_updated": "2026-11-05T18:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -278,6 +278,14 @@
           "date": "2026-11-05",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/worley-epc-venture-globals-cp2-expansion/",
+          "relevant": false
+        },
+        {
+          "title": "Finland to Tender Four Offshore Wind Areas",
+          "summary": "Finland will put four offshore wind areas in the Nordic country's exclusive economic zone out to tender, with the first auction possible in early 2027, the government said in a statement on Thursday…",
+          "date": "2026-11-05",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544181-finland-to-tender-four-offshore-wind-areas",
           "relevant": false
         },
         {
@@ -8860,6 +8868,15 @@
           "source_url": "https://www.rigzone.com/news/aramco_looks_to_strengthen_supply_network_ceo_reveals-05-nov-2026-185016-article/?rss=true",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "EDGE launches first BR71 MK II corvette built in UAE for Angolan Navy",
+          "summary": "EDGE has launched the NRA Nimi-ya-Lukeni (F301), the first BR71 MK II multi-mission corvette of its class to be constructed in the United Arab Emirates. The post EDGE launches first BR71 MK II corvette built in UAE for…",
+          "date": "2026-11-05",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/edge-ae-angola-navy-corvette/",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "PIL lines up former PSA executive as next CEO",
