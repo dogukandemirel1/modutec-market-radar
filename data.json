@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T22:01:05Z",
+  "last_updated": "2026-11-05T23:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -217,6 +217,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "MARAD Approves $1 Billion Offshore Crude Oil Export Port Off Louisiana",
+          "summary": "The Trump administration has approved a $1 billion offshore crude oil export project off the coast of Louisiana, clearing a major regulatory hurdle for a facility designed to load some...",
+          "date": "2026-11-05",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/marad-approves-1-billion-offshore-crude-oil-export-port-off-louisiana/",
+          "relevant": false
+        },
+        {
           "title": "Brazilian builds boat from rubbish to collect more rubbish",
           "summary": "A former Brazilian ocean canoeing champion has taken recycling to a floating extreme, constructing a boat from 230 discarded plastic containers so he can collect even more rubbish from the sea. Marcos Arnhold spent two…",
           "date": "2026-11-05",
@@ -361,19 +369,19 @@
           "relevant": false
         },
         {
-          "title": "TotalEnergies Bags 15-Year Deal to Supply LNG to China's Jiangsu",
-          "summary": "Jiangsu Guoxin awarded TotalEnergies a 15-year contract to supply 900,000 metric tons per year of liquefied natural gas to the Chinese province for city gas supply and flexible power generation.",
-          "date": "2026-11-04",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/totalenergies_bags_15year_deal_to_supply_lng_to_chinas_jiangsu-04-nov-2026-185003-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Energy Transfer sanctions $1.6bn South Mississippi pipeline project",
           "summary": "Energy Transfer has approved a final investment decision (FID) for the $1.6bn South Mississippi Pipeline Project in southern Mississippi, US.",
           "date": "2026-11-04",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/energy-transfer-south-mississippi-pipeline/",
+          "relevant": false
+        },
+        {
+          "title": "TotalEnergies Bags 15-Year Deal to Supply LNG to China's Jiangsu",
+          "summary": "Jiangsu Guoxin awarded TotalEnergies a 15-year contract to supply 900,000 metric tons per year of liquefied natural gas to the Chinese province for city gas supply and flexible power generation.",
+          "date": "2026-11-04",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/totalenergies_bags_15year_deal_to_supply_lng_to_chinas_jiangsu-04-nov-2026-185003-article/?rss=true",
           "relevant": false
         },
         {
