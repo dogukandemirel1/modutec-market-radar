@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T23:01:06Z",
+  "last_updated": "2026-11-05T00:01:09Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4846,14 +4846,6 @@
           "date": "2026-09-06",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/09/us-navy-accelerates-tomahawk-missile-production/",
-          "relevant": false
-        },
-        {
-          "title": "DOF secures transport and installation deal for North Sea floating wind",
-          "summary": "DOF ASA was awarded a Transport & Installation contract for a floating offshore wind project in the North Sea, covering inshore marine operations, mooring system pre-lay, floating turbine tow-out and installation, and dynamic/static export cable installation. Contract value was not disclosed.",
-          "date": "2026-09-05",
-          "source_name": "Ocean Energy Resources",
-          "source_url": "https://ocean-energyresources.com/2026/09/05/dof-executing-floating-offshore-wind-project-in-north-sea/",
           "relevant": false
         }
       ]
