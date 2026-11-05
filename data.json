@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T13:01:07Z",
+  "last_updated": "2026-11-05T14:01:08Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -233,6 +233,14 @@
           "relevant": false
         },
         {
+          "title": "HGH receives the French Navy’s Perséus label for its SPYNEL-F Maritime Surveillance System",
+          "summary": "HGH announced that its SPYNEL-F maritime surveillance system has been awarded the Perséus Label, a distinction recognizing innovative technologies tested in real-world conditions with the French Navy. HGH press release…",
+          "date": "2026-11-05",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/hgh-receives-the-french-navys-perseus-label-for-its-spynel-f-maritime-surveillance-system/",
+          "relevant": false
+        },
+        {
           "title": "Chevron contract takes EnerMech offshore Equatorial Guinea",
           "summary": "Aberdeen-headquartered integrated solutions specialist EnerMech has won a contract with U.S.-headquartered energy giant Chevron for specialist...",
           "date": "2026-11-05",
@@ -254,6 +262,14 @@
           "date": "2026-11-05",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/worley-epc-venture-globals-cp2-expansion/",
+          "relevant": false
+        },
+        {
+          "title": "Aker BP Picks OneSubsea for Subsea Tieback Scheme off Norway",
+          "summary": "OneSubsea joint venture, backed by SLB, Aker Solutions and Subsea7, has secured a contract from Aker BP to supply subsea production systems, umbilicals and associated…",
+          "date": "2026-11-05",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544171-aker-bp-picks-onesubsea-for-subsea-tieback-scheme-off-norway",
           "relevant": false
         },
         {
@@ -289,14 +305,6 @@
           "relevant": false
         },
         {
-          "title": "Safran Secures Inertial Navigation Contracts for French Nuclear Deterrence",
-          "summary": "On November 2, 2026, Safran Electronics announced a new contract to provide inertial navigation systems for the French Navy’s submarines. Safran press release Safran Electronics & Defense has been selected this year for…",
-          "date": "2026-11-04",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/safran-secures-inertial-navigation-contracts-for-french-nuclear-deterrence/",
-          "relevant": false
-        },
-        {
           "title": "Fugro wins East Anglia Two post-installation survey contract",
           "summary": "Fugro has secured a contract from Cadeler to carry out post-installation seabed surveys at the 960 MW East Anglia Two offshore wind farm in the...",
           "date": "2026-11-04",
@@ -318,6 +326,14 @@
           "date": "2026-11-04",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/energy-transfer-south-mississippi-pipeline/",
+          "relevant": false
+        },
+        {
+          "title": "Safran Secures Inertial Navigation Contracts for French Nuclear Deterrence",
+          "summary": "On November 2, 2026, Safran Electronics announced a new contract to provide inertial navigation systems for the French Navy’s submarines. Safran press release Safran Electronics & Defense has been selected this year for…",
+          "date": "2026-11-04",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/safran-secures-inertial-navigation-contracts-for-french-nuclear-deterrence/",
           "relevant": false
         },
         {
