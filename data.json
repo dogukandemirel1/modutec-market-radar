@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T09:01:06Z",
+  "last_updated": "2026-11-05T10:01:11Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -216,6 +216,22 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Fugro wins survey contract at UK offshore wind project",
+          "summary": "Dutch geo-data specialist Fugro has secured a contract from Danish offshore wind contractor Cadeler to carry out post-installation seabed surveys at the 960MW East Anglia Two offshore wind farm in the UK North Sea. The…",
+          "date": "2026-11-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/fugro-wins-survey-contract-at-uk-offshore-wind-project/",
+          "relevant": false
+        },
+        {
+          "title": "Klaveness Combination Carriers clinches record-rate three-year tanker charter",
+          "summary": "Norwegian shipowner Klaveness Combination Carriers (KCC) has secured a three-year time charter for one of its Cleanbu combination carriers, locking in a new contract as product tanker earnings remain exceptionally…",
+          "date": "2026-11-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/klaveness-combination-carriers-clinches-record-rate-three-year-tanker-charter/",
+          "relevant": false
+        },
         {
           "title": "PLSV owned by DOF and TechnipFMC to work longer for Petrobras",
           "summary": "A pipe-laying support vessel (PLSV) owned by a joint venture between DOF Group and TechnipFMC has secured a new long-term contract extension with...",
@@ -4945,6 +4961,14 @@
           "relevant": false
         },
         {
+          "title": "Woodside Targets $400M in Savings, Plans 500 Job Cuts",
+          "summary": "Australia's Woodside Energy on Thursday unveiled a new payout policy for investors and flagged it would axe around 10% of its workforce globally, as it set out higher…",
+          "date": "2026-11-05",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544159-woodside-targets-400m-in-savings-plans-500-job-cuts",
+          "relevant": false
+        },
+        {
           "title": "U.S. Targets Fraudulent Ship Registries Used by Iran’s Shadow Fleet",
           "summary": "The United States on Wednesday sanctioned a network of individuals and companies accused of operating fraudulent ship registries that helped Iran’s shadow fleet evade sanctions, while issuing a new warning...",
           "date": "2026-11-04",
@@ -7361,19 +7385,19 @@
           "relevant": false
         },
         {
-          "title": "Brazil approves Saipem-Subsea 7 merger on condition of vessel sale",
-          "summary": "Brazil’s competition watchdog CADE has given conditional approval to the proposed merger between Italian offshore engineering giant Saipem and Norway’s Subsea 7, requiring the companies to sell a specialised pipelay…",
-          "date": "2026-11-05",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/brazil-approves-saipem-subsea-7-merger-on-condition-of-vessel-sale/",
-          "relevant": false
-        },
-        {
           "title": "Saipem7 closing in on its debut as Brazil clears Saipem-Subsea7 merger",
           "summary": "The multibillion-dollar merger between Saipem and Subsea7 has secured Brazil’s blessing, pending divestment of a vessel.",
           "date": "2026-11-05",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/05/saipem7-closing-in-on-its-debut-as-brazil-clears-saipem-subsea7-merger",
+          "relevant": false
+        },
+        {
+          "title": "Brazil approves Saipem-Subsea 7 merger on condition of vessel sale",
+          "summary": "Brazil’s competition watchdog CADE has given conditional approval to the proposed merger between Italian offshore engineering giant Saipem and Norway’s Subsea 7, requiring the companies to sell a specialised pipelay…",
+          "date": "2026-11-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/brazil-approves-saipem-subsea-7-merger-on-condition-of-vessel-sale/",
           "relevant": false
         },
         {
