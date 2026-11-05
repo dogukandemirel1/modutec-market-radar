@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T19:01:10Z",
+  "last_updated": "2026-11-05T20:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -230,6 +230,14 @@
           "date": "2026-11-05",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/aker-solutions-bags-engineering-deal-for-qatar-oilfield-redevelopment/",
+          "relevant": false
+        },
+        {
+          "title": "Archer to deploy DLS-156 rig for Vista in Argentina",
+          "summary": "Vista tapped Archer to drill in Argentina’s Vaca Muerta shale play under a two-year contract that carries a one-year option. Archer will deploy its AC drilling rig DLS-156 to support Vista’s development program in the…",
+          "date": "2026-11-05",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/archer-to-deploy-dls-156-rig-for-vista-in-argentina-80860",
           "relevant": false
         },
         {
