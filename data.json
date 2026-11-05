@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T07:01:09Z",
+  "last_updated": "2026-11-05T08:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -233,14 +233,6 @@
           "relevant": false
         },
         {
-          "title": "Orkim books $38m product tanker pair in China",
-          "summary": "Malaysian tanker owner Orkim has signed contracts for two more product tankers in China, committing about $37.6m as it presses ahead with fleet expansion following last year’s stock market listing. The Bursa…",
-          "date": "2026-11-04",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/orkim-books-38m-product-tanker-pair-in-china/",
-          "relevant": false
-        },
-        {
           "title": "Velesto puts jackup NAGA 3 to work for PETRONAS Carigali",
           "summary": "Velesto secured a contract from PETRONAS Carigali to deploy the jackup NAGA 3 for one firm well and one optional well. Operations began in November. The award went to Velesto Drilling, a wholly owned subsidiary of…",
           "date": "2026-11-04",
@@ -302,6 +294,14 @@
           "date": "2026-11-04",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544130-mauritania-signs-two-offshore-exploration-contracts-with-murphy-oil",
+          "relevant": false
+        },
+        {
+          "title": "Orkim books $38m product tanker pair in China",
+          "summary": "Malaysian tanker owner Orkim has signed contracts for two more product tankers in China, committing about $37.6m as it presses ahead with fleet expansion following last year’s stock market listing. The Bursa…",
+          "date": "2026-11-04",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/orkim-books-38m-product-tanker-pair-in-china/",
           "relevant": false
         },
         {
@@ -4913,6 +4913,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Woodside to Cut Over 500 Jobs",
+          "summary": "Australia's largest natural gas producer said it would cut about 11 percent of its workforce as it targets $400 million of annual cost reductions from 2028.",
+          "date": "2026-11-05",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/woodside_to_cut_over_500_jobs-05-nov-2026-185013-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "U.S. Targets Fraudulent Ship Registries Used by Iran’s Shadow Fleet",
           "summary": "The United States on Wednesday sanctioned a network of individuals and companies accused of operating fraudulent ship registries that helped Iran’s shadow fleet evade sanctions, while issuing a new warning...",
           "date": "2026-11-04",
@@ -4958,6 +4966,14 @@
           "date": "2026-11-04",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/cvr-energy-acquire-refineries-marathon-4-2bn/",
+          "relevant": false
+        },
+        {
+          "title": "Babcock launches Pelorus to integrate management of maritime assets",
+          "summary": "Babcock has launched Pelorus, a digital platform intended to link the design, construction, operation and long-term support of maritime assets. The post Babcock launches Pelorus to integrate management of maritime…",
+          "date": "2026-11-04",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/babcock-pelorus-digitalplatform/",
           "relevant": false
         },
         {
@@ -7318,6 +7334,14 @@
           "date": "2026-11-05",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/transpacific-emerges-as-liner-shippings-golden-trade/",
+          "relevant": false
+        },
+        {
+          "title": "Brazil approves Saipem-Subsea 7 merger on condition of vessel sale",
+          "summary": "Brazil’s competition watchdog CADE has given conditional approval to the proposed merger between Italian offshore engineering giant Saipem and Norway’s Subsea 7, requiring the companies to sell a specialised pipelay…",
+          "date": "2026-11-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/brazil-approves-saipem-subsea-7-merger-on-condition-of-vessel-sale/",
           "relevant": false
         },
         {
