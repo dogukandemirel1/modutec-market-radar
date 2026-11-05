@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T12:13:18Z",
+  "last_updated": "2026-11-05T13:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -233,14 +233,6 @@
           "relevant": false
         },
         {
-          "title": "Fugro wins survey contract at UK offshore wind project",
-          "summary": "Dutch geo-data specialist Fugro has secured a contract from Danish offshore wind contractor Cadeler to carry out post-installation seabed surveys at the 960MW East Anglia Two offshore wind farm in the UK North Sea. The…",
-          "date": "2026-11-05",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/fugro-wins-survey-contract-at-uk-offshore-wind-project/",
-          "relevant": false
-        },
-        {
           "title": "Chevron contract takes EnerMech offshore Equatorial Guinea",
           "summary": "Aberdeen-headquartered integrated solutions specialist EnerMech has won a contract with U.S.-headquartered energy giant Chevron for specialist...",
           "date": "2026-11-05",
@@ -270,6 +262,14 @@
           "date": "2026-11-05",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544164-aker-solutions-lands-major-role-in-qatar-s-offshore-oil-field-revamp",
+          "relevant": false
+        },
+        {
+          "title": "Fugro wins survey contract at UK offshore wind project",
+          "summary": "Dutch geo-data specialist Fugro has secured a contract from Danish offshore wind contractor Cadeler to carry out post-installation seabed surveys at the 960MW East Anglia Two offshore wind farm in the UK North Sea. The…",
+          "date": "2026-11-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/fugro-wins-survey-contract-at-uk-offshore-wind-project/",
           "relevant": false
         },
         {
@@ -4977,6 +4977,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "10 MW tidal energy project gets EU seal for contribution to energy goals",
+          "summary": "Swedish ocean energy developer Minesto has received the European Commission's Strategic Technologies for Europe Platform (STEP) Seal for its...",
+          "date": "2026-11-05",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/05/10-mw-tidal-energy-project-gets-eu-seal-for-contribution-to-energy-goals",
+          "relevant": false
+        },
+        {
           "title": "Energy security to keep running the show into 2027 amid market shifts, IEA Chief warns",
           "summary": "$3.4 trillion global energy spend: Clean tech outpaces fossil fuels nearly 2-to-1 in 2026. IEA Chief says energy markets will not normalize in 2027.",
           "date": "2026-11-05",
@@ -5041,14 +5049,6 @@
           "relevant": false
         },
         {
-          "title": "Babcock launches transformative digital platform to connect shipbuilding, fleet operations and support",
-          "summary": "Babcock International Group has launched Pelorus, a transformative digital platform designed to connect the build, operation and support of maritime assets across their entire lifecycle. Babcock press release The…",
-          "date": "2026-11-04",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/babcock-launches-transformative-digital-platform-to-connect-shipbuilding-fleet-operations-and-support/",
-          "relevant": false
-        },
-        {
           "title": "Multi-year US deal brings liquidity boost to New Fortress Energy as Mexican FLNG targets 4Q restart",
           "summary": "NFE has sealed a long-term lease for 300 MW of mobile turbines with a U.S. company, while its FLNG in Mexico edges closer to a Q4 resumption.",
           "date": "2026-11-04",
@@ -5094,6 +5094,14 @@
           "date": "2026-11-04",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544136-bp-finds-hydrocarbons-in-brazil-s-tupinamb-offshore-block-as-drilling-continues",
+          "relevant": false
+        },
+        {
+          "title": "Babcock launches transformative digital platform to connect shipbuilding, fleet operations and support",
+          "summary": "Babcock International Group has launched Pelorus, a transformative digital platform designed to connect the build, operation and support of maritime assets across their entire lifecycle. Babcock press release The…",
+          "date": "2026-11-04",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/babcock-launches-transformative-digital-platform-to-connect-shipbuilding-fleet-operations-and-support/",
           "relevant": false
         },
         {
@@ -7432,6 +7440,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "Woodside to cut more than 500 jobs in $400m savings drive",
+          "summary": "Australian energy giant Woodside is planning to cut more than 500 jobs worldwide as part of a restructuring programme aimed at delivering $400m in annual cost savings from 2028. The workforce reduction, equivalent to…",
+          "date": "2026-11-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/woodside-to-cut-more-than-500-jobs-in-400m-savings-drive/",
+          "relevant": false
+        },
         {
           "title": "BP raises over $1bn from Aker BP stake sale",
           "summary": "British energy major BP has raised about $1.06bn by selling part of its stake in Norwegian oil and gas producer Aker BP as it continues efforts to strengthen its balance sheet. The company sold 31.6m shares…",
