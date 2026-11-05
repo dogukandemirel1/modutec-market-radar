@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T08:01:06Z",
+  "last_updated": "2026-11-05T09:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -217,19 +217,11 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Torm strikes eight-tanker newbuild deal in joint venture push",
-          "summary": "Danish product tanker giant Torm has stepped up its fleet expansion with agreements for eight LR2 newbuildings through a 50:50 joint venture. The Copenhagen- and New York-listed owner disclosed the latest contracts in…",
-          "date": "2026-11-04",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/torm-strikes-eight-tanker-newbuild-deal-through-joint-venture/",
-          "relevant": false
-        },
-        {
-          "title": "Laskaridis doubles Hengli LR2 bet with fresh pair",
-          "summary": "Greek owner Thanassis Laskaridis has doubled his LR2 tanker newbuilding commitment at China’s Hengli Heavy Industries, adding another two 114,000 dwt vessels to an existing programme. The latest contracts cover two…",
-          "date": "2026-11-04",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/laskaridis-doubles-hengli-lr2-bet-with-fresh-pair/",
+          "title": "PLSV owned by DOF and TechnipFMC to work longer for Petrobras",
+          "summary": "A pipe-laying support vessel (PLSV) owned by a joint venture between DOF Group and TechnipFMC has secured a new long-term contract extension with...",
+          "date": "2026-11-05",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/05/plsv-owned-by-dof-and-technipfmc-to-work-longer-for-petrobras",
           "relevant": false
         },
         {
@@ -294,6 +286,22 @@
           "date": "2026-11-04",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544130-mauritania-signs-two-offshore-exploration-contracts-with-murphy-oil",
+          "relevant": false
+        },
+        {
+          "title": "Torm strikes eight-tanker newbuild deal in joint venture push",
+          "summary": "Danish product tanker giant Torm has stepped up its fleet expansion with agreements for eight LR2 newbuildings through a 50:50 joint venture. The Copenhagen- and New York-listed owner disclosed the latest contracts in…",
+          "date": "2026-11-04",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/torm-strikes-eight-tanker-newbuild-deal-through-joint-venture/",
+          "relevant": false
+        },
+        {
+          "title": "Laskaridis doubles Hengli LR2 bet with fresh pair",
+          "summary": "Greek owner Thanassis Laskaridis has doubled his LR2 tanker newbuilding commitment at China’s Hengli Heavy Industries, adding another two 114,000 dwt vessels to an existing programme. The latest contracts cover two…",
+          "date": "2026-11-04",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/laskaridis-doubles-hengli-lr2-bet-with-fresh-pair/",
           "relevant": false
         },
         {
@@ -4913,6 +4921,22 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "US sanctions Indian couple behind fake flag empire serving Iran’s shadow fleet",
+          "summary": "Washington has sanctioned an India-based husband-and-wife operation accused of running a sprawling network of fake ship registries supplying flags and certificates to tankers moving Iranian oil. The US Treasury named…",
+          "date": "2026-11-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/us-sanctions-indian-couple-behind-fake-flag-empire-serving-irans-shadow-fleet/",
+          "relevant": false
+        },
+        {
+          "title": "EU court hands Russian Maritime Register partial sanctions victory",
+          "summary": "Russia’s state-owned ship classification society has secured a partial legal victory against European Union sanctions, with judges overturning a decision to permanently withdraw its recognition while upholding the…",
+          "date": "2026-11-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/eu-court-hands-russian-maritime-register-partial-sanctions-victory/",
+          "relevant": false
+        },
+        {
           "title": "Woodside to Cut Over 500 Jobs",
           "summary": "Australia's largest natural gas producer said it would cut about 11 percent of its workforce as it targets $400 million of annual cost reductions from 2028.",
           "date": "2026-11-05",
@@ -7345,6 +7369,22 @@
           "relevant": false
         },
         {
+          "title": "Saipem7 closing in on its debut as Brazil clears Saipem-Subsea7 merger",
+          "summary": "The multibillion-dollar merger between Saipem and Subsea7 has secured Brazil’s blessing, pending divestment of a vessel.",
+          "date": "2026-11-05",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/05/saipem7-closing-in-on-its-debut-as-brazil-clears-saipem-subsea7-merger",
+          "relevant": false
+        },
+        {
+          "title": "Saipem, Subsea7 Merger Approved in Brazil",
+          "summary": "The tribunal of Brazil's antitrust agency (CADE) has approved the merger of Italian oilfield services company Saipem and Norway's Subsea7, Saipem said on Wednesday…",
+          "date": "2026-11-04",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544149-saipem-subsea7-merger-approved-in-brazil",
+          "relevant": false
+        },
+        {
           "title": "Saipem, Subsea7 Merger Approved",
           "summary": "The tribunal of Brazil's antitrust agency (CADE) has approved the merger of Italian oilfield services company Saipem and Norway's Subsea7, Saipem said on Wednesday…",
           "date": "2026-11-04",
@@ -8592,6 +8632,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "PIL lines up former PSA executive as next CEO",
+          "summary": "Singapore’s Pacific International Lines (PIL) has named former PSA International executive Wan Chee Foong as its next chief executive, with the veteran ports and logistics manager set to succeed Lars Kastrup in April…",
+          "date": "2026-11-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/pil-lines-up-former-psa-executive-as-next-ceo/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Valaris lines up four rig extensions, reverses VALARIS 111 recycling sale",
           "summary": "Valaris and its ARO Drilling joint venture secured contract extensions with BP, Saudi Aramco, Ithaca Energy and INEOS, and Valaris reversed the recycling sale of jackup VALARIS 111, according to its 2 November fleet…",
