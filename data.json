@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T05:01:08Z",
+  "last_updated": "2026-11-05T06:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -261,7 +261,7 @@
           "summary": "Fugro has secured a contract from Cadeler to carry out post-installation seabed surveys at the 960 MW East Anglia Two offshore wind farm in the...",
           "date": "2026-11-04",
           "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/11/04/fugro-wins-east-anglia-two-post-installation-survey-contract",
+          "source_url": "https://www.offshore-energy.biz/2026/11/04/fugro-wins-east-anglia-two-post-installation-survey-contract",
           "relevant": false
         },
         {
@@ -305,6 +305,14 @@
           "relevant": false
         },
         {
+          "title": "Fugro wins East Anglia Two post-installation survey contract",
+          "summary": "Fugro has secured a contract from Cadeler to carry out post-installation seabed surveys at the 960 MW East Anglia Two offshore wind farm in the...",
+          "date": "2026-11-04",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/11/04/fugro-wins-east-anglia-two-post-installation-survey-contract",
+          "relevant": false
+        },
+        {
           "title": "TS Lines adds $246m boxship brace in China",
           "summary": "Taiwanese liner operator TS Lines has returned to Shanghai Waigaoqiao Shipbuilding (SWS) for another pair of containerships in a deal worth $246m. The Hong Kong-listed carrier has contracted two 11,000 teu vessels at…",
           "date": "2026-11-04",
@@ -326,6 +334,14 @@
           "date": "2026-11-03",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/saipem-12000-drillship-begins-coral-north-campaign-for-eni-80810",
+          "relevant": false
+        },
+        {
+          "title": "Wison New Energies lays keel for Türkiye’s ultra-deepwater FPU",
+          "summary": "This ultra-deepwater floating production unit (FPU) is being built for Türkiye Petrolleri A.O. (TPAO) to boost Türkiye's natural gas supply.",
+          "date": "2026-11-03",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/03/wison-new-energies-lays-keel-for-turkiyes-ultra-deepwater-fpu",
           "relevant": false
         },
         {
@@ -438,6 +454,22 @@
           "date": "2026-11-03",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/valaris-keeps-rigs-busy-with-latest-contracting-spree/",
+          "relevant": false
+        },
+        {
+          "title": "Gas flows from Southeast Asian offshore field 21 months after FID",
+          "summary": "Eni and Petronas’ Searah has brought online an Asian gas field, flowing 250 million standard cubic feet per day (scfd) to domestic and export markets.",
+          "date": "2026-11-02",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/02/gas-flows-from-southeast-asian-offshore-field-21-months-after-fid",
+          "relevant": false
+        },
+        {
+          "title": "Subsea7 wins EPCI contract for fast-track oil development off Norway",
+          "summary": "Subsea7 has secured an engineering, procurement, construction and installation (EPCI) contract with Aker BP for the fast-track Lyra field...",
+          "date": "2026-11-02",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/02/subsea7-wins-epci-contract-for-fast-track-oil-development-off-norway",
           "relevant": false
         },
         {
@@ -581,7 +613,7 @@
           "summary": "Solstad Maritime (SOMA) has secured two firm contracts for its 2009-built construction support vessel (CSV) for subsea and ROV support activities...",
           "date": "2026-10-30",
           "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/10/30/solstad-vessel-nets-two-subsea-contracts-in-asia-pacific",
+          "source_url": "https://www.offshore-energy.biz/2026/10/30/solstad-vessel-nets-two-subsea-contracts-in-asia-pacific",
           "relevant": false
         },
         {
@@ -590,6 +622,14 @@
           "date": "2026-10-30",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/indian-navy-corvette-approval/",
+          "relevant": false
+        },
+        {
+          "title": "Solstad vessel nets two subsea contracts in Asia Pacific",
+          "summary": "Solstad Maritime (SOMA) has secured two firm contracts for its 2009-built construction support vessel (CSV) for subsea and ROV support activities...",
+          "date": "2026-10-30",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/10/30/solstad-vessel-nets-two-subsea-contracts-in-asia-pacific",
           "relevant": false
         },
         {
@@ -758,6 +798,22 @@
           "date": "2026-10-29",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/baker-hughes-lands-eni-offshore-double-and-golar-flng-order/",
+          "relevant": false
+        },
+        {
+          "title": "Shell ups its production ante with first oil from US Gulf project’s third chapter",
+          "summary": "Shell has tied new wells into an existing floating oil facility, boosting deepwater output in the U.S. Gulf of Mexico (Gulf of America).",
+          "date": "2026-10-28",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/10/28/shell-ups-its-production-ante-with-first-oil-from-us-gulf-projects-third-chapter",
+          "relevant": false
+        },
+        {
+          "title": "Baker Hughes' subsea systems to help fast-track Cyprus's first commercial gas project",
+          "summary": "Baker Hughes has been awarded a contract by Italy’s energy giant Eni for the supply of subsea production systems and services for Cyprus's...",
+          "date": "2026-10-28",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/10/28/baker-hughes-subsea-systems-to-help-fast-track-cypruss-first-commercial-gas-project",
           "relevant": false
         },
         {
@@ -4885,7 +4941,7 @@
           "summary": "NFE has sealed a long-term lease for 300 MW of mobile turbines with a U.S. company, while its FLNG in Mexico edges closer to a Q4 resumption.",
           "date": "2026-11-04",
           "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/11/04/multi-year-us-deal-brings-liquidity-boost-to-new-fortress-energy-as-mexican-flng-targets-4q-restart",
+          "source_url": "https://www.offshore-energy.biz/2026/11/04/multi-year-us-deal-brings-liquidity-boost-to-new-fortress-energy-as-mexican-flng-targets-4q-restart",
           "relevant": false
         },
         {
@@ -4918,6 +4974,14 @@
           "date": "2026-11-04",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544136-bp-finds-hydrocarbons-in-brazil-s-tupinamb-offshore-block-as-drilling-continues",
+          "relevant": false
+        },
+        {
+          "title": "Multi-year US deal brings liquidity boost to New Fortress Energy as Mexican FLNG targets 4Q restart",
+          "summary": "NFE has sealed a long-term lease for 300 MW of mobile turbines with a U.S. company, while its FLNG in Mexico edges closer to a Q4 resumption.",
+          "date": "2026-11-04",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/11/04/multi-year-us-deal-brings-liquidity-boost-to-new-fortress-energy-as-mexican-flng-targets-4q-restart",
           "relevant": false
         },
         {
@@ -4982,6 +5046,14 @@
           "date": "2026-11-03",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/war-widens-in-the-black-sea-in-a-test-of-nato-red-lines/",
+          "relevant": false
+        },
+        {
+          "title": "UK's 2 GW subsea power cable gets government's approval",
+          "summary": "The UK government has granted development consent for the 2 GW Sea Link subsea high-voltage direct current (HVDC) electricity connection between...",
+          "date": "2026-11-02",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/02/uks-2-gw-subsea-power-cable-gets-governments-approval",
           "relevant": false
         },
         {
@@ -7269,7 +7341,7 @@
           "summary": "Taihan Cable & Solution has renamed the cable-laying vessel (CLV) that the South Korean cable supplier acquired from DOF Group earlier this year....",
           "date": "2026-11-03",
           "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/11/03/taihan-renames-clv-recently-acquired-from-dof",
+          "source_url": "https://www.offshore-energy.biz/2026/11/03/taihan-renames-clv-recently-acquired-from-dof",
           "relevant": false
         },
         {
@@ -7278,6 +7350,14 @@
           "date": "2026-11-03",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/shell-north-west-shelf-stake-xrg/",
+          "relevant": false
+        },
+        {
+          "title": "Taihan renames CLV recently acquired from DOF",
+          "summary": "Taihan Cable & Solution has renamed the cable-laying vessel (CLV) that the South Korean cable supplier acquired from DOF Group earlier this year....",
+          "date": "2026-11-03",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/11/03/taihan-renames-clv-recently-acquired-from-dof",
           "relevant": false
         },
         {
@@ -7318,6 +7398,14 @@
           "date": "2026-10-30",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/tanker-hit-by-limpet-mines-in-strait-of-hormuz-as-new-threat-to-shipping-emerges/",
+          "relevant": false
+        },
+        {
+          "title": "CO2 storage appraisal campaign in UK North Sea yields positive results",
+          "summary": "The Northern Endurance Partnership (NEP), a joint venture of BP, Equinor and TotalEnergies, has completed an appraisal program offshore the UK...",
+          "date": "2026-10-29",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/10/29/co2-storage-appraisal-campaign-in-uk-north-sea-yields-positive-results",
           "relevant": false
         },
         {
@@ -8503,7 +8591,7 @@
           "summary": "TotalEnergies has deepened partnerships across Malaysia, Angola, and India to expand advanced methane detection and accelerate emissions cuts.",
           "date": "2026-11-04",
           "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/11/04/totalenergies-forges-pacts-with-petronas-sonangol-and-oil-india-to-slash-methane-footprint",
+          "source_url": "https://www.offshore-energy.biz/2026/11/04/totalenergies-forges-pacts-with-petronas-sonangol-and-oil-india-to-slash-methane-footprint",
           "relevant": false,
           "region": "SEA"
         },
@@ -8524,6 +8612,15 @@
           "source_url": "https://www.oedigital.com/news/544140-bourbon-takes-delivery-of-first-of-two-34-meter-crew-boats",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "TotalEnergies forges pacts with Petronas, Sonangol, and Oil India to slash methane footprint",
+          "summary": "TotalEnergies has deepened partnerships across Malaysia, Angola, and India to expand advanced methane detection and accelerate emissions cuts.",
+          "date": "2026-11-04",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/11/04/totalenergies-forges-pacts-with-petronas-sonangol-and-oil-india-to-slash-methane-footprint",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Samudera taps Yangzijiang yards for boxship duo",
@@ -8548,7 +8645,7 @@
           "summary": "As Shell heads for the exit, ADNOC’s XRG is buying a stake in a Woodside-operated LNG and gas development in Western Australia.",
           "date": "2026-11-03",
           "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/11/03/shell-rakes-in-dollar145-billion-for-shedding-its-stake-in-australian-gas-and-lng-project",
+          "source_url": "https://www.offshore-energy.biz/2026/11/03/shell-rakes-in-dollar145-billion-for-shedding-its-stake-in-australian-gas-and-lng-project",
           "relevant": true,
           "region": "UAE"
         },
@@ -8587,6 +8684,15 @@
           "source_url": "https://www.rigzone.com/news/wire/aramco_logs_9_pct_higher_profit-03-nov-2026-184994-article/?rss=true",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Shell rakes in $1.45 billion for shedding its stake in Australian gas and LNG project",
+          "summary": "As Shell heads for the exit, ADNOC’s XRG is buying a stake in a Woodside-operated LNG and gas development in Western Australia.",
+          "date": "2026-11-03",
+          "source_name": "Offshore Energy",
+          "source_url": "https://offshore-energy.biz/2026/11/03/shell-rakes-in-dollar145-billion-for-shedding-its-stake-in-australian-gas-and-lng-project",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Aramco Targets Hormuz Bypass with East-West Pipeline Expansion",
