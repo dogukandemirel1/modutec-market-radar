@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T11:01:10Z",
+  "last_updated": "2026-11-05T12:01:09Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -217,19 +217,27 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Deutsche Windtechnik lands maintenance deal at Germany’s first offshore wind farm",
+          "summary": "German offshore wind services specialist Deutsche Windtechnik has secured a comprehensive maintenance contract from Ocean Breeze Energy covering all 12 turbines at the Alpha Ventus offshore wind farm in the North Sea…",
+          "date": "2026-11-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/deutsche-windtechnik-lands-maintenance-deal-at-germanys-first-offshore-wind-farm/",
+          "relevant": false
+        },
+        {
+          "title": "Aker Solutions bags engineering deal for Qatar oilfield redevelopment",
+          "summary": "Norwegian offshore engineering group Aker Solutions has received a letter of award from Vietnam’s PTSC Mechanical & Construction for work on QatarEnergy’s Maydan Mahzam oilfield redevelopment project. The contract…",
+          "date": "2026-11-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/aker-solutions-bags-engineering-deal-for-qatar-oilfield-redevelopment/",
+          "relevant": false
+        },
+        {
           "title": "Fugro wins survey contract at UK offshore wind project",
           "summary": "Dutch geo-data specialist Fugro has secured a contract from Danish offshore wind contractor Cadeler to carry out post-installation seabed surveys at the 960MW East Anglia Two offshore wind farm in the UK North Sea. The…",
           "date": "2026-11-05",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/fugro-wins-survey-contract-at-uk-offshore-wind-project/",
-          "relevant": false
-        },
-        {
-          "title": "Klaveness Combination Carriers clinches record-rate three-year tanker charter",
-          "summary": "Norwegian shipowner Klaveness Combination Carriers (KCC) has secured a three-year time charter for one of its Cleanbu combination carriers, locking in a new contract as product tanker earnings remain exceptionally…",
-          "date": "2026-11-05",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/klaveness-combination-carriers-clinches-record-rate-three-year-tanker-charter/",
           "relevant": false
         },
         {
@@ -246,6 +254,30 @@
           "date": "2026-11-05",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/05/plsv-owned-by-dof-and-technipfmc-to-work-longer-for-petrobras",
+          "relevant": false
+        },
+        {
+          "title": "Worley signs EPC contract for Venture Global’s CP2 expansion project",
+          "summary": "Worley has been awarded a reimbursable EPC contract by Venture Global for the CP2 expansion project, a LNG export facility in US.",
+          "date": "2026-11-05",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/worley-epc-venture-globals-cp2-expansion/",
+          "relevant": false
+        },
+        {
+          "title": "Aker Solutions Lands Major Role in Qatar’s Offshore Oil Field Revamp",
+          "summary": "Aker Solutions has received a letter of award (LOA) from PTSC Mechanical and Construction (PTSC M&C) for detailed engineering work on the redevelopment of QatarEnergy's…",
+          "date": "2026-11-05",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544164-aker-solutions-lands-major-role-in-qatar-s-offshore-oil-field-revamp",
+          "relevant": false
+        },
+        {
+          "title": "Klaveness Combination Carriers clinches record-rate three-year tanker charter",
+          "summary": "Norwegian shipowner Klaveness Combination Carriers (KCC) has secured a three-year time charter for one of its Cleanbu combination carriers, locking in a new contract as product tanker earnings remain exceptionally…",
+          "date": "2026-11-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/klaveness-combination-carriers-clinches-record-rate-three-year-tanker-charter/",
           "relevant": false
         },
         {
@@ -4945,14 +4977,6 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
-          "title": "US sanctions Indian couple behind fake flag empire serving Iran’s shadow fleet",
-          "summary": "Washington has sanctioned an India-based husband-and-wife operation accused of running a sprawling network of fake ship registries supplying flags and certificates to tankers moving Iranian oil. The US Treasury named…",
-          "date": "2026-11-05",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/us-sanctions-indian-couple-behind-fake-flag-empire-serving-irans-shadow-fleet/",
-          "relevant": false
-        },
-        {
           "title": "Energy security to keep running the show into 2027 amid market shifts, IEA Chief warns",
           "summary": "$3.4 trillion global energy spend: Clean tech outpaces fossil fuels nearly 2-to-1 in 2026. IEA Chief says energy markets will not normalize in 2027.",
           "date": "2026-11-05",
@@ -4969,11 +4993,27 @@
           "relevant": false
         },
         {
+          "title": "Fugro Gets Multi-Year Offshore Wind Survey Deal in German North Sea",
+          "summary": "Fugro has secured a multiyear framework agreement with Germany's Federal Maritime and Hydrographic Agency (BSH) to conduct geotechnical site investigations in the German North Sea…",
+          "date": "2026-11-05",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544165-fugro-gets-multi-year-offshore-wind-survey-deal-in-german-north-sea",
+          "relevant": false
+        },
+        {
           "title": "Woodside Targets $400M in Savings, Plans 500 Job Cuts",
           "summary": "Australia's Woodside Energy on Thursday unveiled a new payout policy for investors and flagged it would axe around 10% of its workforce globally, as it set out higher…",
           "date": "2026-11-05",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544159-woodside-targets-400m-in-savings-plans-500-job-cuts",
+          "relevant": false
+        },
+        {
+          "title": "US sanctions Indian couple behind fake flag empire serving Iran’s shadow fleet",
+          "summary": "Washington has sanctioned an India-based husband-and-wife operation accused of running a sprawling network of fake ship registries supplying flags and certificates to tankers moving Iranian oil. The US Treasury named…",
+          "date": "2026-11-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/us-sanctions-indian-couple-behind-fake-flag-empire-serving-irans-shadow-fleet/",
           "relevant": false
         },
         {
@@ -7409,19 +7449,19 @@
           "relevant": false
         },
         {
-          "title": "Transpacific emerges as liner shipping’s golden trade",
-          "summary": "The transpacific has become the most lucrative major container shipping trade in the world, with carriers generating five times more spot revenue per nautical mile on the Shanghai–Los Angeles route than on shipments to…",
-          "date": "2026-11-05",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/transpacific-emerges-as-liner-shippings-golden-trade/",
-          "relevant": false
-        },
-        {
           "title": "Saipem7 closing in on its debut as Brazil clears Saipem-Subsea7 merger",
           "summary": "The multibillion-dollar merger between Saipem and Subsea7 has secured Brazil’s blessing, pending divestment of a vessel.",
           "date": "2026-11-05",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/05/saipem7-closing-in-on-its-debut-as-brazil-clears-saipem-subsea7-merger",
+          "relevant": false
+        },
+        {
+          "title": "Transpacific emerges as liner shipping’s golden trade",
+          "summary": "The transpacific has become the most lucrative major container shipping trade in the world, with carriers generating five times more spot revenue per nautical mile on the Shanghai–Los Angeles route than on shipments to…",
+          "date": "2026-11-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/transpacific-emerges-as-liner-shippings-golden-trade/",
           "relevant": false
         },
         {
@@ -8689,6 +8729,24 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "HEA Energy snaps up Subsea7’s six-ship heavy transport business",
+          "summary": "Abu Dhabi-based HEA Energy has struck a deal to acquire Subsea7’s heavy transportation business, adding a six-vessel operation to its growing offshore fleet. The transaction will see Subsea7’s offshore renewables arm…",
+          "date": "2026-11-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/hea-energy-snaps-up-subsea7s-six-ship-heavy-transport-business/",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
+          "title": "Seacon snaps up fresh tanker in $19.6m deal",
+          "summary": "Hong Kong-listed Seacon Shipping has struck a $19.6m deal for a newly built oil and chemical tanker, adding to its fleet amid reports of a four-vessel MR tanker disposal. The Qingdao-based owner’s Singapore subsidiary…",
+          "date": "2026-11-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/seacon-snaps-up-fresh-tanker-in-19-6m-deal/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "PIL lines up former PSA executive as next CEO",
           "summary": "Singapore’s Pacific International Lines (PIL) has named former PSA International executive Wan Chee Foong as its next chief executive, with the veteran ports and logistics manager set to succeed Lars Kastrup in April…",
           "date": "2026-11-05",
@@ -8705,15 +8763,6 @@
           "source_url": "https://drillingcontractor.org/valaris-lines-up-four-rig-extensions-reverses-valaris-111-recycling-sale-80816",
           "relevant": true,
           "region": "KSA"
-        },
-        {
-          "title": "EDGE Launches Second Corvette for Angolan Navy, First of Its Class Built in UAE",
-          "summary": "EDGE has launched NRA Nimi-ya-Lukeni (F301), the second BR71 MK II multi-mission corvette for the Angolan Navy, at the Abu Dhabi shipyard of its naval shipbuilding entity, Abu Dhabi Ship Building (ADSB), on 29 October…",
-          "date": "2026-11-04",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/edge-launches-second-corvette-for-angolan-navy-first-of-its-class-built-in-uae/",
-          "relevant": true,
-          "region": "UAE"
         },
         {
           "title": "TotalEnergies forges pacts with Petronas, Sonangol, and Oil India to slash methane footprint",
@@ -8739,6 +8788,15 @@
           "date": "2026-11-04",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544140-bourbon-takes-delivery-of-first-of-two-34-meter-crew-boats",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
+          "title": "EDGE Launches Second Corvette for Angolan Navy, First of Its Class Built in UAE",
+          "summary": "EDGE has launched NRA Nimi-ya-Lukeni (F301), the second BR71 MK II multi-mission corvette for the Angolan Navy, at the Abu Dhabi shipyard of its naval shipbuilding entity, Abu Dhabi Ship Building (ADSB), on 29 October…",
+          "date": "2026-11-04",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/edge-launches-second-corvette-for-angolan-navy-first-of-its-class-built-in-uae/",
           "relevant": true,
           "region": "UAE"
         },
