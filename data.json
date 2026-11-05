@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T14:01:08Z",
+  "last_updated": "2026-11-05T15:01:09Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -238,6 +238,22 @@
           "date": "2026-11-05",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/hgh-receives-the-french-navys-perseus-label-for-its-spynel-f-maritime-surveillance-system/",
+          "relevant": false
+        },
+        {
+          "title": "After Subsea7, Aker BP contracts OneSubsea for Norwegian fast-track oil project",
+          "summary": "Shortly after awarding Subsea7 a contract for the project, Aker BP has revealed that OneSubsea, a joint venture backed by SLB, Aker Solutions and...",
+          "date": "2026-11-05",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/05/after-subsea7-aker-bp-contracts-onesubsea-for-norwegian-fast-track-oil-project",
+          "relevant": false
+        },
+        {
+          "title": "RINA to mobilize up to 83 experts for €11 million contract with Petrobras",
+          "summary": "Inspection, certification and consulting engineering group RINA has signed a three-year €11 million contract with Brazilian oil & gas giant...",
+          "date": "2026-11-05",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/05/rina-to-mobilize-up-to-83-experts-for-euro11-million-contract-with-petrobras",
           "relevant": false
         },
         {
@@ -4993,6 +5009,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Dominguez gets nod for second term at IMO helm",
+          "summary": "Arsenio Dominguez is set to remain at the helm of the International Maritime Organization (IMO) until the end of 2031 after the UN shipping agency’s Council backed his appointment for another four-year term. The…",
+          "date": "2026-11-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/dominguez-gets-nod-for-second-term-at-imo-helm/",
+          "relevant": false
+        },
+        {
           "title": "10 MW tidal energy project gets EU seal for contribution to energy goals",
           "summary": "Swedish ocean energy developer Minesto has received the European Commission's Strategic Technologies for Europe Platform (STEP) Seal for its...",
           "date": "2026-11-05",
@@ -5057,14 +5081,6 @@
           "relevant": false
         },
         {
-          "title": "Greenland Parliament Backs Scrubber Discharge Ban for Ships in Its Waters",
-          "summary": "Greenland's parliament has unanimously backed a phased ban on discharges from ships' exhaust gas cleaning systems, adding another layer of environmental restrictions for vessels operating in Arctic waters and…",
-          "date": "2026-11-04",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/greenland-parliament-backs-scrubber-discharge-ban-for-ships-in-its-waters/",
-          "relevant": false
-        },
-        {
           "title": "Multi-year US deal brings liquidity boost to New Fortress Energy as Mexican FLNG targets 4Q restart",
           "summary": "NFE has sealed a long-term lease for 300 MW of mobile turbines with a U.S. company, while its FLNG in Mexico edges closer to a Q4 resumption.",
           "date": "2026-11-04",
@@ -5102,6 +5118,14 @@
           "date": "2026-11-04",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/features/us-midterms-trump-class-f-47-golden-dome-and-budgets/",
+          "relevant": false
+        },
+        {
+          "title": "Greenland Parliament Backs Scrubber Discharge Ban for Ships in Its Waters",
+          "summary": "Greenland's parliament has unanimously backed a phased ban on discharges from ships' exhaust gas cleaning systems, adding another layer of environmental restrictions for vessels operating in Arctic waters and…",
+          "date": "2026-11-04",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/greenland-parliament-backs-scrubber-discharge-ban-for-ships-in-its-waters/",
           "relevant": false
         },
         {
@@ -7457,6 +7481,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "The Hidden Liabilities In Maritime Acquisitions",
+          "summary": "What Buyers, Sellers and Investors Often Miss During Due DiligenceBy Sabrina Brigance, CMIP, Managing Director, Marine Practice, Hylant Maritime mergers and acquisitions can create significant opportunities for growth…",
+          "date": "2026-11-05",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/the-hidden-liabilities-in-maritime-acquistions/",
+          "relevant": false
+        },
+        {
           "title": "Woodside to cut more than 500 jobs in $400m savings drive",
           "summary": "Australian energy giant Woodside is planning to cut more than 500 jobs worldwide as part of a restructuring programme aimed at delivering $400m in annual cost savings from 2028. The workforce reduction, equivalent to…",
           "date": "2026-11-05",
@@ -8785,6 +8817,33 @@
           "source_url": "https://splash247.com/seacon-snaps-up-fresh-tanker-in-19-6m-deal/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Velesto’s 2010-built rig finds drilling job with Petronas",
+          "summary": "Velesto’s 16-year-old jack-up has landed a new offshore drilling assignment with Petronas off the coast of Malaysia.",
+          "date": "2026-11-05",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/05/velestos-2010-built-rig-finds-drilling-job-with-petronas",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "ADNOC, ADQ Chemicals JV Secures Additional $1.39B Financing",
+          "summary": "TA'ZIZ, tasked with establishing a 'world-scale chemicals and transition fuels ecosystem' in the Ruwais Industrial City in the United Arab Emirates, finalized $1.39 billion in additional financing to support two of its…",
+          "date": "2026-11-05",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/adnoc_adq_chemicals_jv_secures_additional_139b_financing-05-nov-2026-185017-article/?rss=true",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
+          "title": "Aramco Looks to Strengthen Supply Network, CEO Reveals",
+          "summary": "Aramco's CEO announced that the company is continuing to 'explore additional overseas storage capacity', as well as 'alternative export routes', in order to 'further strengthen' Aramco's global supply network.",
+          "date": "2026-11-05",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/aramco_looks_to_strengthen_supply_network_ceo_reveals-05-nov-2026-185016-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "PIL lines up former PSA executive as next CEO",
