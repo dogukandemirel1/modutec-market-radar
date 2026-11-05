@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T10:01:11Z",
+  "last_updated": "2026-11-05T11:01:10Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -231,6 +231,14 @@
           "source_name": "Splash247",
           "source_url": "https://splash247.com/klaveness-combination-carriers-clinches-record-rate-three-year-tanker-charter/",
           "relevant": false
+        },
+        {
+          "title": "Chevron contract takes EnerMech offshore Equatorial Guinea",
+          "summary": "Aberdeen-headquartered integrated solutions specialist EnerMech has won a contract with U.S.-headquartered energy giant Chevron for specialist...",
+          "date": "2026-11-05",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/05/chevron-contract-takes-enermech-offshore-equatorial-guinea",
+          "relevant": true
         },
         {
           "title": "PLSV owned by DOF and TechnipFMC to work longer for Petrobras",
@@ -4945,11 +4953,11 @@
           "relevant": false
         },
         {
-          "title": "EU court hands Russian Maritime Register partial sanctions victory",
-          "summary": "Russia’s state-owned ship classification society has secured a partial legal victory against European Union sanctions, with judges overturning a decision to permanently withdraw its recognition while upholding the…",
+          "title": "Energy security to keep running the show into 2027 amid market shifts, IEA Chief warns",
+          "summary": "$3.4 trillion global energy spend: Clean tech outpaces fossil fuels nearly 2-to-1 in 2026. IEA Chief says energy markets will not normalize in 2027.",
           "date": "2026-11-05",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/eu-court-hands-russian-maritime-register-partial-sanctions-victory/",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/05/energy-security-to-keep-running-the-show-into-2027-amid-market-shifts-iea-chief-warns",
           "relevant": false
         },
         {
@@ -4966,6 +4974,14 @@
           "date": "2026-11-05",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544159-woodside-targets-400m-in-savings-plans-500-job-cuts",
+          "relevant": false
+        },
+        {
+          "title": "EU court hands Russian Maritime Register partial sanctions victory",
+          "summary": "Russia’s state-owned ship classification society has secured a partial legal victory against European Union sanctions, with judges overturning a decision to permanently withdraw its recognition while upholding the…",
+          "date": "2026-11-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/eu-court-hands-russian-maritime-register-partial-sanctions-victory/",
           "relevant": false
         },
         {
@@ -7376,6 +7392,22 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "BP raises over $1bn from Aker BP stake sale",
+          "summary": "British energy major BP has raised about $1.06bn by selling part of its stake in Norwegian oil and gas producer Aker BP as it continues efforts to strengthen its balance sheet. The company sold 31.6m shares…",
+          "date": "2026-11-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/bp-raises-over-1bn-from-aker-bp-stake-sale/",
+          "relevant": false
+        },
+        {
+          "title": "Navios adds $215m tanker trio to newbuild pipeline",
+          "summary": "Angeliki Frangou’s Navios Maritime Partners has revealed another $215.2m in tanker newbuilding acquisitions, adding a VLCC and two MR product carriers to its expanding fleet investment programme. The New York-listed…",
+          "date": "2026-11-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/navios-adds-215m-tanker-trio-to-newbuild-pipeline/",
+          "relevant": false
+        },
         {
           "title": "Transpacific emerges as liner shipping’s golden trade",
           "summary": "The transpacific has become the most lucrative major container shipping trade in the world, with carriers generating five times more spot revenue per nautical mile on the Shanghai–Los Angeles route than on shipments to…",
