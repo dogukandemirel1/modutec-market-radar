@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T20:01:05Z",
+  "last_updated": "2026-11-05T21:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -216,6 +216,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Brazilian builds boat from rubbish to collect more rubbish",
+          "summary": "A former Brazilian ocean canoeing champion has taken recycling to a floating extreme, constructing a boat from 230 discarded plastic containers so he can collect even more rubbish from the sea. Marcos Arnhold spent two…",
+          "date": "2026-11-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/brazilian-builds-boat-from-rubbish-to-collect-more-rubbish/",
+          "relevant": false
+        },
         {
           "title": "Deutsche Windtechnik lands maintenance deal at Germany’s first offshore wind farm",
           "summary": "German offshore wind services specialist Deutsche Windtechnik has secured a comprehensive maintenance contract from Ocean Breeze Energy covering all 12 turbines at the Alpha Ventus offshore wind farm in the North Sea…",
@@ -7545,14 +7553,6 @@
           "relevant": false
         },
         {
-          "title": "Navios adds $215m tanker trio to newbuild pipeline",
-          "summary": "Angeliki Frangou’s Navios Maritime Partners has revealed another $215.2m in tanker newbuilding acquisitions, adding a VLCC and two MR product carriers to its expanding fleet investment programme. The New York-listed…",
-          "date": "2026-11-05",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/navios-adds-215m-tanker-trio-to-newbuild-pipeline/",
-          "relevant": false
-        },
-        {
           "title": "ELT Group and Thales announce the establishment of a Joint Venture in naval Electronic Warfare for the export market",
           "summary": "ELT Group and Thales DMS formally announce the establishment of a joint venture, equally owned by the two companies. ELT Group press release The joint venture, named ‘Thales ELT Naval EW Solutions’, is set to strengthen…",
           "date": "2026-11-05",
@@ -7566,6 +7566,14 @@
           "date": "2026-11-05",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/05/saipem7-closing-in-on-its-debut-as-brazil-clears-saipem-subsea7-merger",
+          "relevant": false
+        },
+        {
+          "title": "Navios adds $215m tanker trio to newbuild pipeline",
+          "summary": "Angeliki Frangou’s Navios Maritime Partners has revealed another $215.2m in tanker newbuilding acquisitions, adding a VLCC and two MR product carriers to its expanding fleet investment programme. The New York-listed…",
+          "date": "2026-11-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/navios-adds-215m-tanker-trio-to-newbuild-pipeline/",
           "relevant": false
         },
         {
