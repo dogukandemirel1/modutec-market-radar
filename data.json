@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T18:01:07Z",
+  "last_updated": "2026-11-05T19:01:10Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5024,6 +5024,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "IMO Backs Dominguez for Second Term Amid Shipping Attacks and Climate Deadlock",
+          "summary": "The International Maritime Organization (IMO) Council has backed Secretary-General Arsenio Dominguez for a second four-year term, extending its support for his leadership despite the organization’s failure to adopt its…",
+          "date": "2026-11-05",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/imo-backs-dominguez-for-second-term-amid-shipping-attacks-and-climate-deadlock/",
+          "relevant": false
+        },
         {
           "title": "Dominguez gets nod for second term at IMO helm",
           "summary": "Arsenio Dominguez is set to remain at the helm of the International Maritime Organization (IMO) until the end of 2031 after the UN shipping agency’s Council backed his appointment for another four-year term. The…",
