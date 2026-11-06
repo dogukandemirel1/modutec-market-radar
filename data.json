@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T06:01:04Z",
+  "last_updated": "2026-11-06T07:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -216,6 +216,22 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "SLB OneSubsea picks up subsea deal for Aker BP’s North Sea project",
+          "summary": "SLB’s OneSubsea joint venture has secured a contract from Aker BP to supply subsea production systems, umbilicals, and associated services for the Lyra oilfield development in the Norwegian North Sea. The contract…",
+          "date": "2026-11-06",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/slb-onesubsea-picks-up-subsea-deal-for-aker-bps-north-sea-project/",
+          "relevant": false
+        },
+        {
+          "title": "Fugro lands German offshore wind survey contract",
+          "summary": "Dutch marine survey specialist Fugro has secured a multi-year framework agreement with Germany’s Federal Maritime and Hydrographic Agency (BSH) for geotechnical site investigations in the German North Sea. The agreement…",
+          "date": "2026-11-06",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/fugro-lands-german-offshore-wind-survey-contract/",
+          "relevant": false
+        },
         {
           "title": "MARAD Approves $1 Billion Offshore Crude Oil Export Port Off Louisiana",
           "summary": "The Trump administration has approved a $1 billion offshore crude oil export project off the coast of Louisiana, clearing a major regulatory hurdle for a facility designed to load some...",
@@ -7529,6 +7545,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "LD Armateurs buys three PSVs for cable-layer conversions",
+          "summary": "French shipowner LD Armateurs (LDA) has acquired three platform supply vessels currently under construction for conversion into cable-laying ships as it looks to expand its presence in the subsea telecommunications…",
+          "date": "2026-11-06",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/ld-armateurs-buys-three-psvs-for-cable-layer-conversions/",
+          "relevant": false
+        },
+        {
           "title": "The Hidden Liabilities In Maritime Acquisitions",
           "summary": "What Buyers, Sellers and Investors Often Miss During Due DiligenceBy Sabrina Brigance, CMIP, Managing Director, Marine Practice, Hylant Maritime mergers and acquisitions can create significant opportunities for growth…",
           "date": "2026-11-05",
@@ -7545,19 +7569,19 @@
           "relevant": false
         },
         {
-          "title": "BP raises over $1bn from Aker BP stake sale",
-          "summary": "British energy major BP has raised about $1.06bn by selling part of its stake in Norwegian oil and gas producer Aker BP as it continues efforts to strengthen its balance sheet. The company sold 31.6m shares…",
-          "date": "2026-11-05",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/bp-raises-over-1bn-from-aker-bp-stake-sale/",
-          "relevant": false
-        },
-        {
           "title": "Saipem7 closing in on its debut as Brazil clears Saipem-Subsea7 merger",
           "summary": "The multibillion-dollar merger between Saipem and Subsea7 has secured Brazil’s blessing, pending divestment of a vessel.",
           "date": "2026-11-05",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/05/saipem7-closing-in-on-its-debut-as-brazil-clears-saipem-subsea7-merger",
+          "relevant": false
+        },
+        {
+          "title": "BP raises over $1bn from Aker BP stake sale",
+          "summary": "British energy major BP has raised about $1.06bn by selling part of its stake in Norwegian oil and gas producer Aker BP as it continues efforts to strengthen its balance sheet. The company sold 31.6m shares…",
+          "date": "2026-11-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/bp-raises-over-1bn-from-aker-bp-stake-sale/",
           "relevant": false
         },
         {
@@ -8851,20 +8875,11 @@
         {
           "title": "HEA Energy snaps up Subsea7’s six-ship heavy transport business",
           "summary": "Abu Dhabi-based HEA Energy has struck a deal to acquire Subsea7’s heavy transportation business, adding a six-vessel operation to its growing offshore fleet. The transaction will see Subsea7’s offshore renewables arm…",
-          "date": "2026-11-05",
+          "date": "2026-11-06",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/hea-energy-snaps-up-subsea7s-six-ship-heavy-transport-business/",
           "relevant": true,
           "region": "UAE"
-        },
-        {
-          "title": "Seacon snaps up fresh tanker in $19.6m deal",
-          "summary": "Hong Kong-listed Seacon Shipping has struck a $19.6m deal for a newly built oil and chemical tanker, adding to its fleet amid reports of a four-vessel MR tanker disposal. The Qingdao-based owner’s Singapore subsidiary…",
-          "date": "2026-11-05",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/seacon-snaps-up-fresh-tanker-in-19-6m-deal/",
-          "relevant": false,
-          "region": "SEA"
         },
         {
           "title": "Velesto’s 2010-built rig finds drilling job with Petronas",
@@ -8901,6 +8916,15 @@
           "source_url": "https://www.naval-technology.com/news/edge-ae-angola-navy-corvette/",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "Seacon snaps up fresh tanker in $19.6m deal",
+          "summary": "Hong Kong-listed Seacon Shipping has struck a $19.6m deal for a newly built oil and chemical tanker, adding to its fleet amid reports of a four-vessel MR tanker disposal. The Qingdao-based owner’s Singapore subsidiary…",
+          "date": "2026-11-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/seacon-snaps-up-fresh-tanker-in-19-6m-deal/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "PIL lines up former PSA executive as next CEO",
