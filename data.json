@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T16:01:07Z",
+  "last_updated": "2026-11-06T17:01:08Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -7673,6 +7673,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Hapag-Lloyd Acquires 25% Stake in Maersk’s Maasvlakte II Terminal in Rotterdam",
+          "summary": "German container shipping giant Hapag-Lloyd has completed its acquisition of a 25% stake in APM Terminals Maasvlakte II in Rotterdam, strengthening its ties with Maersk at one of Europe’s most...",
+          "date": "2026-11-06",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/hapag-lloyd-acquires-25-stake-in-maersks-maasvlakte-ii-terminal-in-rotterdam/",
+          "relevant": false
+        },
+        {
           "title": "Subsea7 Strikes Deal to Sell Seaway7 Heavy Transport Unit to HEA Energy",
           "summary": "Subsea7 has agreed to sell its Seaway7 heavy transportation business, comprising six semi-submersible vessels, to HEA Energy in a transaction linked to its proposed merger with Saipem…",
           "date": "2026-11-06",
@@ -9014,6 +9022,15 @@
           "date": "2026-11-06",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/khalid-hashim-set-to-pass-the-baton-at-precious-shipping/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "First gas gushes out of Southeast Asian deepwater project",
+          "summary": "This nearly $1-billion development has unlocked new deepwater reserves to boost energy security and stabilize power costs.",
+          "date": "2026-11-06",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/06/first-gas-gushes-out-of-southeast-asian-deepwater-project",
           "relevant": false,
           "region": "SEA"
         },
