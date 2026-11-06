@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T10:01:09Z",
+  "last_updated": "2026-11-06T11:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -222,6 +222,14 @@
           "date": "2026-11-06",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/enermech-picks-up-chevron-pipeline-work-off-equatorial-guinea/",
+          "relevant": false
+        },
+        {
+          "title": "Turkish marine survey specialist secures work on country’s first offshore wind site investigation programme",
+          "summary": "DenAr Ocean Engineering Services has been awarded a contract by Türkiye’s Ministry of Energy and Natural Resources (MENR) to carry out...",
+          "date": "2026-11-06",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/06/turkish-marine-survey-specialist-secures-work-on-countrys-first-offshore-wind-site-investigation-programme",
           "relevant": false
         },
         {
@@ -5217,14 +5225,6 @@
           "relevant": false
         },
         {
-          "title": "CVR Energy to acquire two US refineries from Marathon for $4.2bn",
-          "summary": "CVR Energy to acquire two US refineries and associated marketing assets from Marathon Petroleum for about $4.2bn plus net working capital.",
-          "date": "2026-11-04",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/cvr-energy-acquire-refineries-marathon-4-2bn/",
-          "relevant": false
-        },
-        {
           "title": "Babcock launches Pelorus to integrate management of maritime assets",
           "summary": "Babcock has launched Pelorus, a digital platform intended to link the design, construction, operation and long-term support of maritime assets. The post Babcock launches Pelorus to integrate management of maritime…",
           "date": "2026-11-04",
@@ -5238,6 +5238,14 @@
           "date": "2026-11-04",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/features/us-midterms-trump-class-f-47-golden-dome-and-budgets/",
+          "relevant": false
+        },
+        {
+          "title": "CVR Energy to acquire two US refineries from Marathon for $4.2bn",
+          "summary": "CVR Energy to acquire two US refineries and associated marketing assets from Marathon Petroleum for about $4.2bn plus net working capital.",
+          "date": "2026-11-04",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/cvr-energy-acquire-refineries-marathon-4-2bn/",
           "relevant": false
         },
         {
@@ -7609,6 +7617,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Subsea7 Strikes Deal to Sell Seaway7 Heavy Transport Unit to HEA Energy",
+          "summary": "Subsea7 has agreed to sell its Seaway7 heavy transportation business, comprising six semi-submersible vessels, to HEA Energy in a transaction linked to its proposed merger with Saipem…",
+          "date": "2026-11-06",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544198-subsea7-strikes-deal-to-sell-seaway7-heavy-transport-unit-to-hea-energy",
+          "relevant": false
+        },
+        {
           "title": "LD Armateurs buys three PSVs for cable-layer conversions",
           "summary": "French shipowner LD Armateurs (LDA) has acquired three platform supply vessels currently under construction for conversion into cable-laying ships as it looks to expand its presence in the subsea telecommunications…",
           "date": "2026-11-06",
@@ -8936,6 +8952,33 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "TotalEnergies locks in LNG supply from ADNOC and offtake deal with Chinese firm",
+          "summary": "TotalEnergies is deepening its LNG footprint on both sides of its supply chain with new supply from the UAE and a long-term offtake deal in China.",
+          "date": "2026-11-06",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/06/totalenergies-locks-in-lng-supply-from-adnoc-and-offtake-deal-with-chinese-firm",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
+          "title": "ADNOC to Supply Gujarat Energy 4 MMtpa of LNG for 10 Years",
+          "summary": "'The agreement is ADNOC's fifth LNG supply agreement in India'.",
+          "date": "2026-11-06",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/adnoc_to_supply_gujarat_energy_4_mmtpa_of_lng_for_10_years-06-nov-2026-185025-article/?rss=true",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
+          "title": "Prime Energy achieves first gas at Malampaya Phase 4 in Philippines",
+          "summary": "Prime Energy has started producing gas from its Malampaya Phase 4 project offshore the Philippines, bringing output from two new wells into the existing production system.",
+          "date": "2026-11-06",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/prime-energy-first-gas-malampaya-phase-4/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "HEA Energy snaps up Subsea7’s six-ship heavy transport business",
           "summary": "Abu Dhabi-based HEA Energy has struck a deal to acquire Subsea7’s heavy transportation business, adding a six-vessel operation to its growing offshore fleet. The transaction will see Subsea7’s offshore renewables arm…",
