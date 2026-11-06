@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T00:01:12Z",
+  "last_updated": "2026-11-06T01:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -257,14 +257,6 @@
           "relevant": false
         },
         {
-          "title": "HGH receives the French Navy’s Perséus label for its SPYNEL-F Maritime Surveillance System",
-          "summary": "HGH announced that its SPYNEL-F maritime surveillance system has been awarded the Perséus Label, a distinction recognizing innovative technologies tested in real-world conditions with the French Navy. HGH press release…",
-          "date": "2026-11-05",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/hgh-receives-the-french-navys-perseus-label-for-its-spynel-f-maritime-surveillance-system/",
-          "relevant": false
-        },
-        {
           "title": "After Subsea7, Aker BP contracts OneSubsea for Norwegian fast-track oil project",
           "summary": "Shortly after awarding Subsea7 a contract for the project, Aker BP has revealed that OneSubsea, a joint venture backed by SLB, Aker Solutions and...",
           "date": "2026-11-05",
@@ -334,6 +326,14 @@
           "date": "2026-11-05",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544164-aker-solutions-lands-major-role-in-qatar-s-offshore-oil-field-revamp",
+          "relevant": false
+        },
+        {
+          "title": "HGH receives the French Navy’s Perséus label for its SPYNEL-F Maritime Surveillance System",
+          "summary": "HGH announced that its SPYNEL-F maritime surveillance system has been awarded the Perséus Label, a distinction recognizing innovative technologies tested in real-world conditions with the French Navy. HGH press release…",
+          "date": "2026-11-05",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/hgh-receives-the-french-navys-perseus-label-for-its-spynel-f-maritime-surveillance-system/",
           "relevant": false
         },
         {
@@ -5057,14 +5057,6 @@
           "relevant": false
         },
         {
-          "title": "RTsys Group Strengthens Its Presence in Canada with the Sale of Several SEMA Training Targets",
-          "summary": "At Euronaval 2026, the Morbihan-based RTsys Group announced the sale of several SEMA training targets to two Canadian defense agencies: Defense Research and Development Canada (DRDC) and the Naval Engineering Test…",
-          "date": "2026-11-05",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/rtsys-group-strengthens-its-presence-in-canada-with-the-sale-of-several-sema-training-targets/",
-          "relevant": false
-        },
-        {
           "title": "10 MW tidal energy project gets EU seal for contribution to energy goals",
           "summary": "Swedish ocean energy developer Minesto has received the European Commission's Strategic Technologies for Europe Platform (STEP) Seal for its...",
           "date": "2026-11-05",
@@ -5105,6 +5097,14 @@
           "relevant": false
         },
         {
+          "title": "RTsys Group Strengthens Its Presence in Canada with the Sale of Several SEMA Training Targets",
+          "summary": "At Euronaval 2026, the Morbihan-based RTsys Group announced the sale of several SEMA training targets to two Canadian defense agencies: Defense Research and Development Canada (DRDC) and the Naval Engineering Test…",
+          "date": "2026-11-05",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/rtsys-group-strengthens-its-presence-in-canada-with-the-sale-of-several-sema-training-targets/",
+          "relevant": false
+        },
+        {
           "title": "US sanctions Indian couple behind fake flag empire serving Iran’s shadow fleet",
           "summary": "Washington has sanctioned an India-based husband-and-wife operation accused of running a sprawling network of fake ship registries supplying flags and certificates to tankers moving Iranian oil. The US Treasury named…",
           "date": "2026-11-05",
@@ -5118,14 +5118,6 @@
           "date": "2026-11-05",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/eu-court-hands-russian-maritime-register-partial-sanctions-victory/",
-          "relevant": false
-        },
-        {
-          "title": "U.S. Targets Fraudulent Ship Registries Used by Iran’s Shadow Fleet",
-          "summary": "The United States on Wednesday sanctioned a network of individuals and companies accused of operating fraudulent ship registries that helped Iran’s shadow fleet evade sanctions, while issuing a new warning...",
-          "date": "2026-11-04",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/u-s-targets-fraudulent-ship-registries-used-by-irans-shadow-fleet/",
           "relevant": false
         },
         {
@@ -5166,6 +5158,14 @@
           "date": "2026-11-04",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/features/us-midterms-trump-class-f-47-golden-dome-and-budgets/",
+          "relevant": false
+        },
+        {
+          "title": "U.S. Targets Fraudulent Ship Registries Used by Iran’s Shadow Fleet",
+          "summary": "The United States on Wednesday sanctioned a network of individuals and companies accused of operating fraudulent ship registries that helped Iran’s shadow fleet evade sanctions, while issuing a new warning...",
+          "date": "2026-11-04",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/u-s-targets-fraudulent-ship-registries-used-by-irans-shadow-fleet/",
           "relevant": false
         },
         {
@@ -7553,19 +7553,19 @@
           "relevant": false
         },
         {
-          "title": "ELT Group and Thales announce the establishment of a Joint Venture in naval Electronic Warfare for the export market",
-          "summary": "ELT Group and Thales DMS formally announce the establishment of a joint venture, equally owned by the two companies. ELT Group press release The joint venture, named ‘Thales ELT Naval EW Solutions’, is set to strengthen…",
-          "date": "2026-11-05",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/elt-group-and-thales-announce-the-establishment-of-a-joint-venture-in-naval-electronic-warfare-for-the-export-market/",
-          "relevant": false
-        },
-        {
           "title": "Saipem7 closing in on its debut as Brazil clears Saipem-Subsea7 merger",
           "summary": "The multibillion-dollar merger between Saipem and Subsea7 has secured Brazil’s blessing, pending divestment of a vessel.",
           "date": "2026-11-05",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/05/saipem7-closing-in-on-its-debut-as-brazil-clears-saipem-subsea7-merger",
+          "relevant": false
+        },
+        {
+          "title": "ELT Group and Thales announce the establishment of a Joint Venture in naval Electronic Warfare for the export market",
+          "summary": "ELT Group and Thales DMS formally announce the establishment of a joint venture, equally owned by the two companies. ELT Group press release The joint venture, named ‘Thales ELT Naval EW Solutions’, is set to strengthen…",
+          "date": "2026-11-05",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/elt-group-and-thales-announce-the-establishment-of-a-joint-venture-in-naval-electronic-warfare-for-the-export-market/",
           "relevant": false
         },
         {
