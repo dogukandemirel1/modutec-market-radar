@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T18:01:09Z",
+  "last_updated": "2026-11-06T19:01:09Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -233,6 +233,14 @@
           "relevant": false
         },
         {
+          "title": "Saab receives order to equip Sweden’s new frigates",
+          "summary": "On November 6, 2026, Saab announced that it had signed a contract with Naval Group to equip the FDI frigates ordered by the Swedish Navy. Saab press release Saab has signed a contract with the French defence company…",
+          "date": "2026-11-06",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/saab-receives-order-to-equip-swedens-new-frigates/",
+          "relevant": false
+        },
+        {
           "title": "Tubular package provider selected for first commercial gas project off Cyprus",
           "summary": "Luxembourg-headquartered Tenaris has secured contracts to supply oil country tubular goods (OCTG), line pipe and coating services for Cyprus's...",
           "date": "2026-11-06",
@@ -369,14 +377,6 @@
           "relevant": false
         },
         {
-          "title": "HGH receives the French Navy’s Perséus label for its SPYNEL-F Maritime Surveillance System",
-          "summary": "HGH announced that its SPYNEL-F maritime surveillance system has been awarded the Perséus Label, a distinction recognizing innovative technologies tested in real-world conditions with the French Navy. HGH press release…",
-          "date": "2026-11-05",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/hgh-receives-the-french-navys-perseus-label-for-its-spynel-f-maritime-surveillance-system/",
-          "relevant": false
-        },
-        {
           "title": "After Subsea7, Aker BP contracts OneSubsea for Norwegian fast-track oil project",
           "summary": "Shortly after awarding Subsea7 a contract for the project, Aker BP has revealed that OneSubsea, a joint venture backed by SLB, Aker Solutions and...",
           "date": "2026-11-05",
@@ -438,6 +438,14 @@
           "date": "2026-11-05",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544171-aker-bp-picks-onesubsea-for-subsea-tieback-scheme-off-norway",
+          "relevant": false
+        },
+        {
+          "title": "HGH receives the French Navy’s Perséus label for its SPYNEL-F Maritime Surveillance System",
+          "summary": "HGH announced that its SPYNEL-F maritime surveillance system has been awarded the Perséus Label, a distinction recognizing innovative technologies tested in real-world conditions with the French Navy. HGH press release…",
+          "date": "2026-11-05",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/hgh-receives-the-french-navys-perseus-label-for-its-spynel-f-maritime-surveillance-system/",
           "relevant": false
         },
         {
@@ -5169,6 +5177,22 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "U.S. Targets Cuba’s Oil Tanker Fleet in New Sanctions Crackdown",
+          "summary": "The Trump administration has expanded sanctions targeting Cuba’s maritime and energy sectors, identifying five Cuban-flagged vessels as blocked property and opening the door to further sanctions against foreign…",
+          "date": "2026-11-06",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/u-s-targets-cubas-oil-tanker-fleet-in-new-sanctions-crackdown/",
+          "relevant": false
+        },
+        {
+          "title": "China Adopts Law on Antarctic Activities and Environmental Protection",
+          "summary": "Beijing has approved a law to improve China's Antarctic research and strengthen regulation of its exploration activities, the official Xinhua news agency reported on Friday.",
+          "date": "2026-11-06",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/china-adopts-law-on-antarctic-activities-and-environmental-protection/",
+          "relevant": false
+        },
+        {
           "title": "TC Energy approves $2bn in pipeline expansions in US and Canada",
           "summary": "Canadian pipeline operator TC Energy has announced approximately C$3bn ($2.1bn) of new in-corridor growth projects, taking 2026 sanctions to about C$6bn at a weighted average build multiple of 6.5 times.",
           "date": "2026-11-06",
@@ -5190,14 +5214,6 @@
           "date": "2026-11-06",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/us-sanctions-five-cuban-tankers-in-fresh-crackdown-on-oil-shipping-networks/",
-          "relevant": false
-        },
-        {
-          "title": "IMO Backs Dominguez for Second Term Amid Shipping Attacks and Climate Deadlock",
-          "summary": "The International Maritime Organization (IMO) Council has backed Secretary-General Arsenio Dominguez for a second four-year term, extending its support for his leadership despite the organization’s failure to adopt its…",
-          "date": "2026-11-05",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/imo-backs-dominguez-for-second-term-amid-shipping-attacks-and-climate-deadlock/",
           "relevant": false
         },
         {
@@ -5230,6 +5246,14 @@
           "date": "2026-11-05",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/woodside_to_cut_over_500_jobs-05-nov-2026-185013-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "IMO Backs Dominguez for Second Term Amid Shipping Attacks and Climate Deadlock",
+          "summary": "The International Maritime Organization (IMO) Council has backed Secretary-General Arsenio Dominguez for a second four-year term, extending its support for his leadership despite the organization’s failure to adopt its…",
+          "date": "2026-11-05",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/imo-backs-dominguez-for-second-term-amid-shipping-attacks-and-climate-deadlock/",
           "relevant": false
         },
         {
@@ -7697,19 +7721,19 @@
           "relevant": false
         },
         {
-          "title": "The Hidden Liabilities In Maritime Acquisitions",
-          "summary": "What Buyers, Sellers and Investors Often Miss During Due DiligenceBy Sabrina Brigance, CMIP, Managing Director, Marine Practice, Hylant Maritime mergers and acquisitions can create significant opportunities for growth…",
-          "date": "2026-11-05",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/the-hidden-liabilities-in-maritime-acquistions/",
-          "relevant": false
-        },
-        {
           "title": "Saipem7 closing in on its debut as Brazil clears Saipem-Subsea7 merger",
           "summary": "The multibillion-dollar merger between Saipem and Subsea7 has secured Brazil’s blessing, pending divestment of a vessel.",
           "date": "2026-11-05",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/05/saipem7-closing-in-on-its-debut-as-brazil-clears-saipem-subsea7-merger",
+          "relevant": false
+        },
+        {
+          "title": "The Hidden Liabilities In Maritime Acquisitions",
+          "summary": "What Buyers, Sellers and Investors Often Miss During Due DiligenceBy Sabrina Brigance, CMIP, Managing Director, Marine Practice, Hylant Maritime mergers and acquisitions can create significant opportunities for growth…",
+          "date": "2026-11-05",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/the-hidden-liabilities-in-maritime-acquistions/",
           "relevant": false
         },
         {
@@ -9069,6 +9093,15 @@
           "source_url": "https://www.offshore-technology.com/news/prime-energy-first-gas-malampaya-phase-4/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "TII and Naval Group explore joint development of underwater drones",
+          "summary": "Naval Group has signed a cooperation agreement with Abu Dhabi’s Technology Innovation Institute (TII), aimed at accelerating the “joint development” of autonomous underwater vehicles. The post TII and Naval Group…",
+          "date": "2026-11-06",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/tii-naval-group-underwater-drones/",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "HEA Energy snaps up Subsea7’s six-ship heavy transport business",
