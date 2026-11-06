@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T12:01:07Z",
+  "last_updated": "2026-11-06T13:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -225,6 +225,14 @@
           "relevant": false
         },
         {
+          "title": "Worley on EPC duty at Venture Global's US LNG expansion project",
+          "summary": "This award comes ahead of a final investment decision (FID) for Venture Global's LNG expansion project in Louisiana, which is targeted for early 2027.",
+          "date": "2026-11-06",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/06/worley-on-epc-duty-at-venture-globals-us-lng-expansion-project",
+          "relevant": false
+        },
+        {
           "title": "Turkish marine survey specialist secures work on country’s first offshore wind site investigation program",
           "summary": "DenAr Ocean Engineering Services has been awarded a contract by Türkiye’s Ministry of Energy and Natural Resources (MENR) to carry out...",
           "date": "2026-11-06",
@@ -246,6 +254,14 @@
           "date": "2026-11-06",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/slb-onesubsea-aker-bp-contract-lyra-field/",
+          "relevant": false
+        },
+        {
+          "title": "Worley Lands EPC Contract for Venture Global's CP2 LNG Expansion",
+          "summary": "Worley has signed a reimbursable engineering, procurement and construction (EPC) contract with Venture Global for the CP2 Expansion project in Louisiana, United States…",
+          "date": "2026-11-06",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544200-worley-lands-epc-contract-for-venture-global-s-cp2-lng-expansion",
           "relevant": false
         },
         {
