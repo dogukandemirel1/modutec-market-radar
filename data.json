@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T11:01:07Z",
+  "last_updated": "2026-11-06T12:00:11Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -225,11 +225,11 @@
           "relevant": false
         },
         {
-          "title": "Turkish marine survey specialist secures work on country’s first offshore wind site investigation programme",
+          "title": "Turkish marine survey specialist secures work on country’s first offshore wind site investigation program",
           "summary": "DenAr Ocean Engineering Services has been awarded a contract by Türkiye’s Ministry of Energy and Natural Resources (MENR) to carry out...",
           "date": "2026-11-06",
           "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/2026/11/06/turkish-marine-survey-specialist-secures-work-on-countrys-first-offshore-wind-site-investigation-programme",
+          "source_url": "https://www.offshore-energy.biz/2026/11/06/turkish-marine-survey-specialist-secures-work-on-countrys-first-offshore-wind-site-investigation-program",
           "relevant": false
         },
         {
@@ -246,6 +246,14 @@
           "date": "2026-11-06",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/slb-onesubsea-aker-bp-contract-lyra-field/",
+          "relevant": false
+        },
+        {
+          "title": "Velesto’s Jack-Up Rig Up for Drilling Job with Petronas",
+          "summary": "Malaysia's Velesto Energy has secured a contract from Petronas Carigali for its NAGA 3 jack-up drilling rig, covering one firm well and an option for a second well…",
+          "date": "2026-11-06",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544199-velesto-s-jack-up-rig-up-for-drilling-job-with-petronas",
           "relevant": false
         },
         {
@@ -270,6 +278,14 @@
           "date": "2026-11-06",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544193-tenaris-nets-pipe-supply-contracts-for-eni-s-cronos-gas-project-off-cyprus",
+          "relevant": false
+        },
+        {
+          "title": "Turkish marine survey specialist secures work on country’s first offshore wind site investigation programme",
+          "summary": "DenAr Ocean Engineering Services has been awarded a contract by Türkiye’s Ministry of Energy and Natural Resources (MENR) to carry out...",
+          "date": "2026-11-06",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/06/turkish-marine-survey-specialist-secures-work-on-countrys-first-offshore-wind-site-investigation-programme",
           "relevant": false
         },
         {
@@ -5113,19 +5129,19 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
-          "title": "Dominguez gets nod for second term at IMO helm",
-          "summary": "Arsenio Dominguez is set to remain at the helm of the International Maritime Organization (IMO) until the end of 2031 after the UN shipping agency’s Council backed his appointment for another four-year term. The…",
-          "date": "2026-11-06",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/dominguez-gets-nod-for-second-term-at-imo-helm/",
-          "relevant": false
-        },
-        {
           "title": "TC Energy approves $2bn in pipeline expansions in US and Canada",
           "summary": "Canadian pipeline operator TC Energy has announced approximately C$3bn ($2.1bn) of new in-corridor growth projects, taking 2026 sanctions to about C$6bn at a weighted average build multiple of 6.5 times.",
           "date": "2026-11-06",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/tc-energy-2bn-pipeline-expansions-us-canada/",
+          "relevant": false
+        },
+        {
+          "title": "Dominguez gets nod for second term at IMO helm",
+          "summary": "Arsenio Dominguez is set to remain at the helm of the International Maritime Organization (IMO) until the end of 2031 after the UN shipping agency’s Council backed his appointment for another four-year term. The…",
+          "date": "2026-11-06",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/dominguez-gets-nod-for-second-term-at-imo-helm/",
           "relevant": false
         },
         {
@@ -8952,6 +8968,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Khalid Hashim set to pass the baton at Precious Shipping",
+          "summary": "Thailand’s Precious Shipping is preparing a change at the top, with longtime managing director Khalid Moinuddin Hashim moving to executive vice chairman and finance chief Gautam Khurana taking over the running of the…",
+          "date": "2026-11-06",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/khalid-hashim-set-to-pass-the-baton-at-precious-shipping/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "TotalEnergies locks in LNG supply from ADNOC and offtake deal with Chinese firm",
           "summary": "TotalEnergies is deepening its LNG footprint on both sides of its supply chain with new supply from the UAE and a long-term offtake deal in China.",
