@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T07:01:06Z",
+  "last_updated": "2026-11-06T08:01:12Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -233,6 +233,14 @@
           "relevant": false
         },
         {
+          "title": "SLB OneSubsea secures Aker BP contract for Lyra field in Norway",
+          "summary": "SLB OneSubsea has been selected by Aker BP to provide subsea production systems, umbilicals and related services for the Lyra field on NCS.",
+          "date": "2026-11-06",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/slb-onesubsea-aker-bp-contract-lyra-field/",
+          "relevant": false
+        },
+        {
           "title": "MARAD Approves $1 Billion Offshore Crude Oil Export Port Off Louisiana",
           "summary": "The Trump administration has approved a $1 billion offshore crude oil export project off the coast of Louisiana, clearing a major regulatory hurdle for a facility designed to load some...",
           "date": "2026-11-05",
@@ -246,22 +254,6 @@
           "date": "2026-11-05",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/brazilian-builds-boat-from-rubbish-to-collect-more-rubbish/",
-          "relevant": false
-        },
-        {
-          "title": "Deutsche Windtechnik lands maintenance deal at Germany’s first offshore wind farm",
-          "summary": "German offshore wind services specialist Deutsche Windtechnik has secured a comprehensive maintenance contract from Ocean Breeze Energy covering all 12 turbines at the Alpha Ventus offshore wind farm in the North Sea…",
-          "date": "2026-11-05",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/deutsche-windtechnik-lands-maintenance-deal-at-germanys-first-offshore-wind-farm/",
-          "relevant": false
-        },
-        {
-          "title": "Aker Solutions bags engineering deal for Qatar oilfield redevelopment",
-          "summary": "Norwegian offshore engineering group Aker Solutions has received a letter of award from Vietnam’s PTSC Mechanical & Construction for work on QatarEnergy’s Maydan Mahzam oilfield redevelopment project. The contract…",
-          "date": "2026-11-05",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/aker-solutions-bags-engineering-deal-for-qatar-oilfield-redevelopment/",
           "relevant": false
         },
         {
@@ -342,6 +334,22 @@
           "date": "2026-11-05",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544164-aker-solutions-lands-major-role-in-qatar-s-offshore-oil-field-revamp",
+          "relevant": false
+        },
+        {
+          "title": "Deutsche Windtechnik lands maintenance deal at Germany’s first offshore wind farm",
+          "summary": "German offshore wind services specialist Deutsche Windtechnik has secured a comprehensive maintenance contract from Ocean Breeze Energy covering all 12 turbines at the Alpha Ventus offshore wind farm in the North Sea…",
+          "date": "2026-11-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/deutsche-windtechnik-lands-maintenance-deal-at-germanys-first-offshore-wind-farm/",
+          "relevant": false
+        },
+        {
+          "title": "Aker Solutions bags engineering deal for Qatar oilfield redevelopment",
+          "summary": "Norwegian offshore engineering group Aker Solutions has received a letter of award from Vietnam’s PTSC Mechanical & Construction for work on QatarEnergy’s Maydan Mahzam oilfield redevelopment project. The contract…",
+          "date": "2026-11-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/aker-solutions-bags-engineering-deal-for-qatar-oilfield-redevelopment/",
           "relevant": false
         },
         {
@@ -5056,6 +5064,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "US sanctions five Cuban tankers in fresh crackdown on oil shipping networks",
+          "summary": "Washington has widened its sanctions campaign against Cuba’s oil shipping network, identifying five tankers as blocked property and targeting companies in Cyprus, Panama and Havana involved in managing the vessels. The…",
+          "date": "2026-11-06",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/us-sanctions-five-cuban-tankers-in-fresh-crackdown-on-oil-shipping-networks/",
+          "relevant": false
+        },
         {
           "title": "IMO Backs Dominguez for Second Term Amid Shipping Attacks and Climate Deadlock",
           "summary": "The International Maritime Organization (IMO) Council has backed Secretary-General Arsenio Dominguez for a second four-year term, extending its support for his leadership despite the organization’s failure to adopt its…",
