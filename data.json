@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T13:01:07Z",
+  "last_updated": "2026-11-06T14:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -222,6 +222,14 @@
           "date": "2026-11-06",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/enermech-picks-up-chevron-pipeline-work-off-equatorial-guinea/",
+          "relevant": false
+        },
+        {
+          "title": "Nexans to deliver 420 kilometers of cable for Greek interconnection",
+          "summary": "Nexans has signed a subcontract with Hellenic Cables, in consortium with Asso.subsea, to deliver the 110 kV cable system for the Corinth-Kos HVDC...",
+          "date": "2026-11-06",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/06/nexans-to-deliver-420-kilometers-of-cable-for-greek-interconnection",
           "relevant": false
         },
         {
@@ -7673,19 +7681,19 @@
           "relevant": false
         },
         {
-          "title": "ELT Group and Thales announce the establishment of a Joint Venture in naval Electronic Warfare for the export market",
-          "summary": "ELT Group and Thales DMS formally announce the establishment of a joint venture, equally owned by the two companies. ELT Group press release The joint venture, named ‘Thales ELT Naval EW Solutions’, is set to strengthen…",
-          "date": "2026-11-05",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/elt-group-and-thales-announce-the-establishment-of-a-joint-venture-in-naval-electronic-warfare-for-the-export-market/",
-          "relevant": false
-        },
-        {
           "title": "Saipem7 closing in on its debut as Brazil clears Saipem-Subsea7 merger",
           "summary": "The multibillion-dollar merger between Saipem and Subsea7 has secured Brazil’s blessing, pending divestment of a vessel.",
           "date": "2026-11-05",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/05/saipem7-closing-in-on-its-debut-as-brazil-clears-saipem-subsea7-merger",
+          "relevant": false
+        },
+        {
+          "title": "ELT Group and Thales announce the establishment of a Joint Venture in naval Electronic Warfare for the export market",
+          "summary": "ELT Group and Thales DMS formally announce the establishment of a joint venture, equally owned by the two companies. ELT Group press release The joint venture, named ‘Thales ELT Naval EW Solutions’, is set to strengthen…",
+          "date": "2026-11-05",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/elt-group-and-thales-announce-the-establishment-of-a-joint-venture-in-naval-electronic-warfare-for-the-export-market/",
           "relevant": false
         },
         {
