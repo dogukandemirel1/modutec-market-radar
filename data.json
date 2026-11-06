@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T15:01:09Z",
+  "last_updated": "2026-11-06T16:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -225,6 +225,14 @@
           "relevant": false
         },
         {
+          "title": "Georgina orders Cactus wellheads, calls Ensign 970 rig to Hussar",
+          "summary": "Georgina Energy placed an order with Cactus Wellhead for wellhead equipment for its planned drilling program at the Hussar prospect in EP513, onshore Western Australia, and notified Ensign to mobilize the contracted…",
+          "date": "2026-11-06",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/georgina-orders-cactus-wellheads-calls-ensign-970-rig-to-hussar-80866",
+          "relevant": false
+        },
+        {
           "title": "Tubular package provider selected for first commercial gas project off Cyprus",
           "summary": "Luxembourg-headquartered Tenaris has secured contracts to supply oil country tubular goods (OCTG), line pipe and coating services for Cyprus's...",
           "date": "2026-11-06",
@@ -361,6 +369,14 @@
           "relevant": false
         },
         {
+          "title": "HGH receives the French Navy’s Perséus label for its SPYNEL-F Maritime Surveillance System",
+          "summary": "HGH announced that its SPYNEL-F maritime surveillance system has been awarded the Perséus Label, a distinction recognizing innovative technologies tested in real-world conditions with the French Navy. HGH press release…",
+          "date": "2026-11-05",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/hgh-receives-the-french-navys-perseus-label-for-its-spynel-f-maritime-surveillance-system/",
+          "relevant": false
+        },
+        {
           "title": "After Subsea7, Aker BP contracts OneSubsea for Norwegian fast-track oil project",
           "summary": "Shortly after awarding Subsea7 a contract for the project, Aker BP has revealed that OneSubsea, a joint venture backed by SLB, Aker Solutions and...",
           "date": "2026-11-05",
@@ -422,14 +438,6 @@
           "date": "2026-11-05",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544171-aker-bp-picks-onesubsea-for-subsea-tieback-scheme-off-norway",
-          "relevant": false
-        },
-        {
-          "title": "HGH receives the French Navy’s Perséus label for its SPYNEL-F Maritime Surveillance System",
-          "summary": "HGH announced that its SPYNEL-F maritime surveillance system has been awarded the Perséus Label, a distinction recognizing innovative technologies tested in real-world conditions with the French Navy. HGH press release…",
-          "date": "2026-11-05",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/hgh-receives-the-french-navys-perseus-label-for-its-spynel-f-maritime-surveillance-system/",
           "relevant": false
         },
         {
@@ -5193,6 +5201,14 @@
           "relevant": false
         },
         {
+          "title": "RTsys Group Strengthens Its Presence in Canada with the Sale of Several SEMA Training Targets",
+          "summary": "At Euronaval 2026, the Morbihan-based RTsys Group announced the sale of several SEMA training targets to two Canadian defense agencies: Defense Research and Development Canada (DRDC) and the Naval Engineering Test…",
+          "date": "2026-11-05",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/rtsys-group-strengthens-its-presence-in-canada-with-the-sale-of-several-sema-training-targets/",
+          "relevant": false
+        },
+        {
           "title": "10 MW tidal energy project gets EU seal for contribution to energy goals",
           "summary": "Swedish ocean energy developer Minesto has received the European Commission's Strategic Technologies for Europe Platform (STEP) Seal for its...",
           "date": "2026-11-05",
@@ -5214,14 +5230,6 @@
           "date": "2026-11-05",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/woodside_to_cut_over_500_jobs-05-nov-2026-185013-article/?rss=true",
-          "relevant": false
-        },
-        {
-          "title": "RTsys Group Strengthens Its Presence in Canada with the Sale of Several SEMA Training Targets",
-          "summary": "At Euronaval 2026, the Morbihan-based RTsys Group announced the sale of several SEMA training targets to two Canadian defense agencies: Defense Research and Development Canada (DRDC) and the Naval Engineering Test…",
-          "date": "2026-11-05",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/rtsys-group-strengthens-its-presence-in-canada-with-the-sale-of-several-sema-training-targets/",
           "relevant": false
         },
         {
