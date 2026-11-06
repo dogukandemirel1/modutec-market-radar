@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T08:01:12Z",
+  "last_updated": "2026-11-06T09:01:10Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -217,19 +217,19 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Brazilian builds boat from rubbish to collect more rubbish",
+          "summary": "A former Brazilian ocean canoeing champion has taken recycling to a floating extreme, constructing a boat from 230 discarded plastic containers so he can collect even more rubbish from the sea. Marcos Arnhold spent two…",
+          "date": "2026-11-06",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/brazilian-builds-boat-from-rubbish-to-collect-more-rubbish/",
+          "relevant": false
+        },
+        {
           "title": "SLB OneSubsea picks up subsea deal for Aker BP’s North Sea project",
           "summary": "SLB’s OneSubsea joint venture has secured a contract from Aker BP to supply subsea production systems, umbilicals, and associated services for the Lyra oilfield development in the Norwegian North Sea. The contract…",
           "date": "2026-11-06",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/slb-onesubsea-picks-up-subsea-deal-for-aker-bps-north-sea-project/",
-          "relevant": false
-        },
-        {
-          "title": "Fugro lands German offshore wind survey contract",
-          "summary": "Dutch marine survey specialist Fugro has secured a multi-year framework agreement with Germany’s Federal Maritime and Hydrographic Agency (BSH) for geotechnical site investigations in the German North Sea. The agreement…",
-          "date": "2026-11-06",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/fugro-lands-german-offshore-wind-survey-contract/",
           "relevant": false
         },
         {
@@ -241,6 +241,14 @@
           "relevant": false
         },
         {
+          "title": "Fugro lands German offshore wind survey contract",
+          "summary": "Dutch marine survey specialist Fugro has secured a multi-year framework agreement with Germany’s Federal Maritime and Hydrographic Agency (BSH) for geotechnical site investigations in the German North Sea. The agreement…",
+          "date": "2026-11-06",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/fugro-lands-german-offshore-wind-survey-contract/",
+          "relevant": false
+        },
+        {
           "title": "MARAD Approves $1 Billion Offshore Crude Oil Export Port Off Louisiana",
           "summary": "The Trump administration has approved a $1 billion offshore crude oil export project off the coast of Louisiana, clearing a major regulatory hurdle for a facility designed to load some...",
           "date": "2026-11-05",
@@ -249,19 +257,19 @@
           "relevant": false
         },
         {
-          "title": "Brazilian builds boat from rubbish to collect more rubbish",
-          "summary": "A former Brazilian ocean canoeing champion has taken recycling to a floating extreme, constructing a boat from 230 discarded plastic containers so he can collect even more rubbish from the sea. Marcos Arnhold spent two…",
-          "date": "2026-11-05",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/brazilian-builds-boat-from-rubbish-to-collect-more-rubbish/",
-          "relevant": false
-        },
-        {
           "title": "Archer to deploy DLS-156 rig for Vista in Argentina",
           "summary": "Vista tapped Archer to drill in Argentina’s Vaca Muerta shale play under a two-year contract that carries a one-year option. Archer will deploy its AC drilling rig DLS-156 to support Vista’s development program in the…",
           "date": "2026-11-05",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/archer-to-deploy-dls-156-rig-for-vista-in-argentina-80860",
+          "relevant": false
+        },
+        {
+          "title": "HGH receives the French Navy’s Perséus label for its SPYNEL-F Maritime Surveillance System",
+          "summary": "HGH announced that its SPYNEL-F maritime surveillance system has been awarded the Perséus Label, a distinction recognizing innovative technologies tested in real-world conditions with the French Navy. HGH press release…",
+          "date": "2026-11-05",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/hgh-receives-the-french-navys-perseus-label-for-its-spynel-f-maritime-surveillance-system/",
           "relevant": false
         },
         {
@@ -350,14 +358,6 @@
           "date": "2026-11-05",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/aker-solutions-bags-engineering-deal-for-qatar-oilfield-redevelopment/",
-          "relevant": false
-        },
-        {
-          "title": "HGH receives the French Navy’s Perséus label for its SPYNEL-F Maritime Surveillance System",
-          "summary": "HGH announced that its SPYNEL-F maritime surveillance system has been awarded the Perséus Label, a distinction recognizing innovative technologies tested in real-world conditions with the French Navy. HGH press release…",
-          "date": "2026-11-05",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/hgh-receives-the-french-navys-perseus-label-for-its-spynel-f-maritime-surveillance-system/",
           "relevant": false
         },
         {
@@ -5065,6 +5065,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Dominguez gets nod for second term at IMO helm",
+          "summary": "Arsenio Dominguez is set to remain at the helm of the International Maritime Organization (IMO) until the end of 2031 after the UN shipping agency’s Council backed his appointment for another four-year term. The…",
+          "date": "2026-11-06",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/dominguez-gets-nod-for-second-term-at-imo-helm/",
+          "relevant": false
+        },
+        {
           "title": "US sanctions five Cuban tankers in fresh crackdown on oil shipping networks",
           "summary": "Washington has widened its sanctions campaign against Cuba’s oil shipping network, identifying five tankers as blocked property and targeting companies in Cyprus, Panama and Havana involved in managing the vessels. The…",
           "date": "2026-11-06",
@@ -5081,11 +5089,11 @@
           "relevant": false
         },
         {
-          "title": "Dominguez gets nod for second term at IMO helm",
-          "summary": "Arsenio Dominguez is set to remain at the helm of the International Maritime Organization (IMO) until the end of 2031 after the UN shipping agency’s Council backed his appointment for another four-year term. The…",
+          "title": "RTsys Group Strengthens Its Presence in Canada with the Sale of Several SEMA Training Targets",
+          "summary": "At Euronaval 2026, the Morbihan-based RTsys Group announced the sale of several SEMA training targets to two Canadian defense agencies: Defense Research and Development Canada (DRDC) and the Naval Engineering Test…",
           "date": "2026-11-05",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/dominguez-gets-nod-for-second-term-at-imo-helm/",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/rtsys-group-strengthens-its-presence-in-canada-with-the-sale-of-several-sema-training-targets/",
           "relevant": false
         },
         {
@@ -5126,14 +5134,6 @@
           "date": "2026-11-05",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544159-woodside-targets-400m-in-savings-plans-500-job-cuts",
-          "relevant": false
-        },
-        {
-          "title": "RTsys Group Strengthens Its Presence in Canada with the Sale of Several SEMA Training Targets",
-          "summary": "At Euronaval 2026, the Morbihan-based RTsys Group announced the sale of several SEMA training targets to two Canadian defense agencies: Defense Research and Development Canada (DRDC) and the Naval Engineering Test…",
-          "date": "2026-11-05",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/rtsys-group-strengthens-its-presence-in-canada-with-the-sale-of-several-sema-training-targets/",
           "relevant": false
         },
         {
@@ -7577,11 +7577,11 @@
           "relevant": false
         },
         {
-          "title": "Woodside to cut more than 500 jobs in $400m savings drive",
-          "summary": "Australian energy giant Woodside is planning to cut more than 500 jobs worldwide as part of a restructuring programme aimed at delivering $400m in annual cost savings from 2028. The workforce reduction, equivalent to…",
+          "title": "ELT Group and Thales announce the establishment of a Joint Venture in naval Electronic Warfare for the export market",
+          "summary": "ELT Group and Thales DMS formally announce the establishment of a joint venture, equally owned by the two companies. ELT Group press release The joint venture, named ‘Thales ELT Naval EW Solutions’, is set to strengthen…",
           "date": "2026-11-05",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/woodside-to-cut-more-than-500-jobs-in-400m-savings-drive/",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/elt-group-and-thales-announce-the-establishment-of-a-joint-venture-in-naval-electronic-warfare-for-the-export-market/",
           "relevant": false
         },
         {
@@ -7593,19 +7593,19 @@
           "relevant": false
         },
         {
+          "title": "Woodside to cut more than 500 jobs in $400m savings drive",
+          "summary": "Australian energy giant Woodside is planning to cut more than 500 jobs worldwide as part of a restructuring programme aimed at delivering $400m in annual cost savings from 2028. The workforce reduction, equivalent to…",
+          "date": "2026-11-05",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/woodside-to-cut-more-than-500-jobs-in-400m-savings-drive/",
+          "relevant": false
+        },
+        {
           "title": "BP raises over $1bn from Aker BP stake sale",
           "summary": "British energy major BP has raised about $1.06bn by selling part of its stake in Norwegian oil and gas producer Aker BP as it continues efforts to strengthen its balance sheet. The company sold 31.6m shares…",
           "date": "2026-11-05",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/bp-raises-over-1bn-from-aker-bp-stake-sale/",
-          "relevant": false
-        },
-        {
-          "title": "ELT Group and Thales announce the establishment of a Joint Venture in naval Electronic Warfare for the export market",
-          "summary": "ELT Group and Thales DMS formally announce the establishment of a joint venture, equally owned by the two companies. ELT Group press release The joint venture, named ‘Thales ELT Naval EW Solutions’, is set to strengthen…",
-          "date": "2026-11-05",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/elt-group-and-thales-announce-the-establishment-of-a-joint-venture-in-naval-electronic-warfare-for-the-export-market/",
           "relevant": false
         },
         {
