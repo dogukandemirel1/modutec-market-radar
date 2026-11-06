@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T09:01:10Z",
+  "last_updated": "2026-11-06T10:01:09Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -217,6 +217,54 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "EnerMech picks up Chevron pipeline work off Equatorial Guinea",
+          "summary": "UK-headquartered oilfield services specialist EnerMech has secured a contract from Chevron for pipeline pre-commissioning services on the Aseng gas development offshore Equatorial Guinea. The contract covers preparation…",
+          "date": "2026-11-06",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/enermech-picks-up-chevron-pipeline-work-off-equatorial-guinea/",
+          "relevant": false
+        },
+        {
+          "title": "Fugro nets multi-year offshore wind contract in Germany",
+          "summary": "Germany’s Federal Maritime and Hydrographic Agency (BSH) has awarded Fugro a multi-year framework agreement to carry out geotechnical site...",
+          "date": "2026-11-06",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/06/fugro-nets-multi-year-offshore-wind-contract-in-germany",
+          "relevant": false
+        },
+        {
+          "title": "SLB OneSubsea secures Aker BP contract for Lyra field in Norway",
+          "summary": "SLB OneSubsea has been selected by Aker BP to provide subsea production systems, umbilicals and related services for the Lyra field on NCS.",
+          "date": "2026-11-06",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/slb-onesubsea-aker-bp-contract-lyra-field/",
+          "relevant": false
+        },
+        {
+          "title": "Petrobras Advances Tupi Oil Field Redevelopment with FPSO Design Approval",
+          "summary": "Petrobras has secured Approval in Principle (AiP) from Lloyd's Register (LR) for the conceptual design of its proposed REVIT I TUPI floating production, storage and offloading (FPSO) unit…",
+          "date": "2026-11-06",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544196-petrobras-advances-tupi-oil-field-redevelopment-with-fpso-design-approval",
+          "relevant": false
+        },
+        {
+          "title": "RINA Secures $12.3M Subsea Engineering and Decom Work for Petrobras",
+          "summary": "Italian engineering, certification and consulting company RINA has secured a three-year contract worth $12.3 million (€11 million) from Petrobras to provide engineering…",
+          "date": "2026-11-06",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544195-rina-secures-12-3m-subsea-engineering-and-decom-work-for-petrobras",
+          "relevant": false
+        },
+        {
+          "title": "Tenaris Nets Pipe Supply Contracts for Eni's Cronos Gas Project Off Cyprus",
+          "summary": "Tenaris has secured contracts to supply pipes, offshore drilling tubulars and coating services for the Cronos gas development offshore Cyprus, operated by Eni in partnership with TotalEnergies…",
+          "date": "2026-11-06",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544193-tenaris-nets-pipe-supply-contracts-for-eni-s-cronos-gas-project-off-cyprus",
+          "relevant": false
+        },
+        {
           "title": "Brazilian builds boat from rubbish to collect more rubbish",
           "summary": "A former Brazilian ocean canoeing champion has taken recycling to a floating extreme, constructing a boat from 230 discarded plastic containers so he can collect even more rubbish from the sea. Marcos Arnhold spent two…",
           "date": "2026-11-06",
@@ -230,14 +278,6 @@
           "date": "2026-11-06",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/slb-onesubsea-picks-up-subsea-deal-for-aker-bps-north-sea-project/",
-          "relevant": false
-        },
-        {
-          "title": "SLB OneSubsea secures Aker BP contract for Lyra field in Norway",
-          "summary": "SLB OneSubsea has been selected by Aker BP to provide subsea production systems, umbilicals and related services for the Lyra field on NCS.",
-          "date": "2026-11-06",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/slb-onesubsea-aker-bp-contract-lyra-field/",
           "relevant": false
         },
         {
@@ -5070,6 +5110,14 @@
           "date": "2026-11-06",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/dominguez-gets-nod-for-second-term-at-imo-helm/",
+          "relevant": false
+        },
+        {
+          "title": "TC Energy approves $2bn in pipeline expansions in US and Canada",
+          "summary": "Canadian pipeline operator TC Energy has announced approximately C$3bn ($2.1bn) of new in-corridor growth projects, taking 2026 sanctions to about C$6bn at a weighted average build multiple of 6.5 times.",
+          "date": "2026-11-06",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/tc-energy-2bn-pipeline-expansions-us-canada/",
           "relevant": false
         },
         {
