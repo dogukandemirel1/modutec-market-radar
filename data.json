@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T14:01:06Z",
+  "last_updated": "2026-11-07T15:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -217,6 +217,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "LA Port Strike Threat Deferred Again As Labor Talks Drag On",
+          "summary": "By Laura Curtis Nov 7, 2026 (Bloomberg) –The union representing about 250 security workers at the US’s busiest ports agreed to continue negotiations on a new labor contract for two more...",
+          "date": "2026-11-07",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/la-port-strike-threat-deferred-again-as-labor-talks-drag-on/",
+          "relevant": false
+        },
+        {
           "title": "EnerMech picks up Chevron pipeline work off Equatorial Guinea",
           "summary": "UK-headquartered oilfield services specialist EnerMech has secured a contract from Chevron for pipeline pre-commissioning services on the Aseng gas development offshore Equatorial Guinea. The contract covers preparation…",
           "date": "2026-11-06",
@@ -361,14 +369,6 @@
           "relevant": false
         },
         {
-          "title": "MARAD Approves $1 Billion Offshore Crude Oil Export Port Off Louisiana",
-          "summary": "The Trump administration has approved a $1 billion offshore crude oil export project off the coast of Louisiana, clearing a major regulatory hurdle for a facility designed to load some...",
-          "date": "2026-11-05",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/marad-approves-1-billion-offshore-crude-oil-export-port-off-louisiana/",
-          "relevant": false
-        },
-        {
           "title": "Archer to deploy DLS-156 rig for Vista in Argentina",
           "summary": "Vista tapped Archer to drill in Argentina’s Vaca Muerta shale play under a two-year contract that carries a one-year option. Archer will deploy its AC drilling rig DLS-156 to support Vista’s development program in the…",
           "date": "2026-11-05",
@@ -438,6 +438,14 @@
           "date": "2026-11-05",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544171-aker-bp-picks-onesubsea-for-subsea-tieback-scheme-off-norway",
+          "relevant": false
+        },
+        {
+          "title": "MARAD Approves $1 Billion Offshore Crude Oil Export Port Off Louisiana",
+          "summary": "The Trump administration has approved a $1 billion offshore crude oil export project off the coast of Louisiana, clearing a major regulatory hurdle for a facility designed to load some...",
+          "date": "2026-11-05",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/marad-approves-1-billion-offshore-crude-oil-export-port-off-louisiana/",
           "relevant": false
         },
         {
