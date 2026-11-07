@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T22:01:03Z",
+  "last_updated": "2026-11-07T23:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5096,6 +5096,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "US Military Says It Disabled Cargo Vessel In Gulf Of Oman",
+          "summary": "Nov 7 (Reuters) – An American military aircraft fired on and disabled a commercial vessel that tried to break the US blockade of Iran on Saturday, US Central Command said. The St....",
+          "date": "2026-11-07",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/us-military-says-it-disabled-cargo-vessel-in-gulf-of-oman/",
+          "relevant": false
+        },
         {
           "title": "U.S. Targets Cuba’s Oil Tanker Fleet in New Sanctions Crackdown",
           "summary": "The Trump administration has expanded sanctions targeting Cuba’s maritime and energy sectors, identifying five Cuban-flagged vessels as blocked property and opening the door to further sanctions against foreign…",
