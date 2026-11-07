@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T12:01:07Z",
+  "last_updated": "2026-11-07T13:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8920,6 +8920,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Survey Shows OPEC Output Neared Pre-War Levels",
+          "summary": "OPEC's crude production rose toward pre-war levels last month as Saudi Arabia led a further recovery in Persian Gulf supplies, according to a Bloomberg survey.",
+          "date": "2026-11-07",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/survey_shows_opec_output_neared_prewar_levels-07-nov-2026-185030-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
+        },
         {
           "title": "Khalid Hashim set to pass the baton at Precious Shipping",
           "summary": "Thailand’s Precious Shipping is preparing a change at the top, with longtime managing director Khalid Moinuddin Hashim moving to executive vice chairman and finance chief Gautam Khurana taking over the running of the…",
