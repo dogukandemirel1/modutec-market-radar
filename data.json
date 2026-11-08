@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T14:01:04Z",
+  "last_updated": "2026-11-08T15:01:13Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5008,6 +5008,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "Oil Traders In Talks With US To Get Sanctioned Ships Back To Sea",
+          "summary": "By Lucia Kassai, Devika Krishna Kumar, Charles Gorrivan and Archie Hunter Nov 8, 2026 (Bloomberg) –Oil traders are seeking approval from the US government to use some tankers that were sanctioned...",
+          "date": "2026-11-08",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/oil-traders-in-talks-with-us-to-get-sanctioned-ships-back-to-sea/",
+          "relevant": false
+        },
         {
           "title": "US Military Says It Disabled Cargo Vessel In Gulf Of Oman",
           "summary": "Nov 7 (Reuters) – An American military aircraft fired on and disabled a commercial vessel that tried to break the US blockade of Iran on Saturday, US Central Command said. The St....",
