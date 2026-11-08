@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T22:01:05Z",
+  "last_updated": "2026-11-08T23:01:08Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -7497,19 +7497,19 @@
           "relevant": false
         },
         {
-          "title": "Hapag-Lloyd Acquires 25% Stake in Maersk’s Maasvlakte II Terminal in Rotterdam",
-          "summary": "German container shipping giant Hapag-Lloyd has completed its acquisition of a 25% stake in APM Terminals Maasvlakte II in Rotterdam, strengthening its ties with Maersk at one of Europe’s most...",
-          "date": "2026-11-06",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/hapag-lloyd-acquires-25-stake-in-maersks-maasvlakte-ii-terminal-in-rotterdam/",
-          "relevant": false
-        },
-        {
           "title": "Subsea7 Strikes Deal to Sell Seaway7 Heavy Transport Unit to HEA Energy",
           "summary": "Subsea7 has agreed to sell its Seaway7 heavy transportation business, comprising six semi-submersible vessels, to HEA Energy in a transaction linked to its proposed merger with Saipem…",
           "date": "2026-11-06",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544198-subsea7-strikes-deal-to-sell-seaway7-heavy-transport-unit-to-hea-energy",
+          "relevant": false
+        },
+        {
+          "title": "Hapag-Lloyd Acquires 25% Stake in Maersk’s Maasvlakte II Terminal in Rotterdam",
+          "summary": "German container shipping giant Hapag-Lloyd has completed its acquisition of a 25% stake in APM Terminals Maasvlakte II in Rotterdam, strengthening its ties with Maersk at one of Europe’s most...",
+          "date": "2026-11-06",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/hapag-lloyd-acquires-25-stake-in-maersks-maasvlakte-ii-terminal-in-rotterdam/",
           "relevant": false
         },
         {
