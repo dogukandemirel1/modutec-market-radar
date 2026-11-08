@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T18:01:04Z",
+  "last_updated": "2026-11-08T19:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -225,14 +225,6 @@
           "relevant": false
         },
         {
-          "title": "EnerMech picks up Chevron pipeline work off Equatorial Guinea",
-          "summary": "UK-headquartered oilfield services specialist EnerMech has secured a contract from Chevron for pipeline pre-commissioning services on the Aseng gas development offshore Equatorial Guinea. The contract covers preparation…",
-          "date": "2026-11-06",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/enermech-picks-up-chevron-pipeline-work-off-equatorial-guinea/",
-          "relevant": false
-        },
-        {
           "title": "Georgina orders Cactus wellheads, calls Ensign 970 rig to Hussar",
           "summary": "Georgina Energy placed an order with Cactus Wellhead for wellhead equipment for its planned drilling program at the Hussar prospect in EP513, onshore Western Australia, and notified Ensign to mobilize the contracted…",
           "date": "2026-11-06",
@@ -334,6 +326,14 @@
           "date": "2026-11-06",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544193-tenaris-nets-pipe-supply-contracts-for-eni-s-cronos-gas-project-off-cyprus",
+          "relevant": false
+        },
+        {
+          "title": "EnerMech picks up Chevron pipeline work off Equatorial Guinea",
+          "summary": "UK-headquartered oilfield services specialist EnerMech has secured a contract from Chevron for pipeline pre-commissioning services on the Aseng gas development offshore Equatorial Guinea. The contract covers preparation…",
+          "date": "2026-11-06",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/enermech-picks-up-chevron-pipeline-work-off-equatorial-guinea/",
           "relevant": false
         },
         {
@@ -8802,15 +8802,6 @@
           "region": "KSA"
         },
         {
-          "title": "Khalid Hashim set to pass the baton at Precious Shipping",
-          "summary": "Thailand’s Precious Shipping is preparing a change at the top, with longtime managing director Khalid Moinuddin Hashim moving to executive vice chairman and finance chief Gautam Khurana taking over the running of the…",
-          "date": "2026-11-06",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/khalid-hashim-set-to-pass-the-baton-at-precious-shipping/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "First gas gushes out of Southeast Asian deepwater project",
           "summary": "This nearly $1-billion development has unlocked new deepwater reserves to boost energy security and stabilize power costs.",
           "date": "2026-11-06",
@@ -8863,6 +8854,15 @@
           "source_url": "https://www.naval-technology.com/news/tii-naval-group-underwater-drones/",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "Khalid Hashim set to pass the baton at Precious Shipping",
+          "summary": "Thailand’s Precious Shipping is preparing a change at the top, with longtime managing director Khalid Moinuddin Hashim moving to executive vice chairman and finance chief Gautam Khurana taking over the running of the…",
+          "date": "2026-11-06",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/khalid-hashim-set-to-pass-the-baton-at-precious-shipping/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "HEA Energy snaps up Subsea7’s six-ship heavy transport business",
