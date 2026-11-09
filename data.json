@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T13:01:09Z",
+  "last_updated": "2026-11-09T14:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -294,6 +294,14 @@
           "date": "2026-11-09",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/ades-contracts-ongc-jackup-rigs-india/",
+          "relevant": false
+        },
+        {
+          "title": "DOF Nets Extension for Skandi Mariner AHTS",
+          "summary": "DOF Group has secured a contract extension for its anchor handling tug supply (AHTS) vessel Skandi Mariner, keeping the vessel under firm contract until the third quarter of 2028…",
+          "date": "2026-11-09",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544221-dof-nets-extension-for-skandi-mariner-ahts",
           "relevant": false
         },
         {
