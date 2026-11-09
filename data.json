@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T07:01:08Z",
+  "last_updated": "2026-11-09T08:01:09Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -217,19 +217,27 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "ADES bags $117m ONGC drilling contracts for jackup duo",
+          "summary": "Saudi offshore drilling contractor ADES has secured two three-year contracts from India’s Oil and Natural Gas Corporation (ONGC) worth a combined SAR439.6m ($117.2m). The awards cover the standard jackup rigs Key…",
+          "date": "2026-11-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/ades-bags-117m-ongc-drilling-contracts-for-jackup-duo/",
+          "relevant": false
+        },
+        {
+          "title": "ADNOC Drilling chosen for $315m Kuwait offshore rig deals",
+          "summary": "ADNOC Drilling has been selected for two offshore drilling rig contracts in Kuwait with a combined maximum value of KWD96.55m ($315m). Kuwait Oil Company awarded the two contracts to the Abu Dhabi-listed drilling…",
+          "date": "2026-11-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/adnoc-drilling-chosen-for-315m-kuwait-offshore-rig-deals/",
+          "relevant": true
+        },
+        {
           "title": "LA Port Strike Threat Deferred Again As Labor Talks Drag On",
           "summary": "By Laura Curtis Nov 7, 2026 (Bloomberg) –The union representing about 250 security workers at the US’s busiest ports agreed to continue negotiations on a new labor contract for two more...",
           "date": "2026-11-07",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/la-port-strike-threat-deferred-again-as-labor-talks-drag-on/",
-          "relevant": false
-        },
-        {
-          "title": "EnerMech picks up Chevron pipeline work off Equatorial Guinea",
-          "summary": "UK-headquartered oilfield services specialist EnerMech has secured a contract from Chevron for pipeline pre-commissioning services on the Aseng gas development offshore Equatorial Guinea. The contract covers preparation…",
-          "date": "2026-11-06",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/enermech-picks-up-chevron-pipeline-work-off-equatorial-guinea/",
           "relevant": false
         },
         {
@@ -334,6 +342,14 @@
           "date": "2026-11-06",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544193-tenaris-nets-pipe-supply-contracts-for-eni-s-cronos-gas-project-off-cyprus",
+          "relevant": false
+        },
+        {
+          "title": "EnerMech picks up Chevron pipeline work off Equatorial Guinea",
+          "summary": "UK-headquartered oilfield services specialist EnerMech has secured a contract from Chevron for pipeline pre-commissioning services on the Aseng gas development offshore Equatorial Guinea. The contract covers preparation…",
+          "date": "2026-11-06",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/enermech-picks-up-chevron-pipeline-work-off-equatorial-guinea/",
           "relevant": false
         },
         {
@@ -4953,6 +4969,30 @@
           "relevant": false
         },
         {
+          "title": "Hormuz suffers weekend of fire",
+          "summary": "Merchant shipping has been caught in an extraordinary escalation of the war around the Strait of Hormuz over the past 72 hours, with tankers set ablaze, the US military bombing a bulk carrier, fresh Iranian warnings…",
+          "date": "2026-11-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/hormuz-suffers-weekend-of-fire/",
+          "relevant": false
+        },
+        {
+          "title": "Banks step up pressure on Havila Shipping over $78m debt dispute",
+          "summary": "Norwegian offshore vessel owner Havila Shipping is facing renewed enforcement action from three major banks seeking to establish security liens over the company’s assets in connection with a long-running debt…",
+          "date": "2026-11-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/banks-step-up-pressure-on-havila-shipping-over-78m-debt-dispute/",
+          "relevant": false
+        },
+        {
+          "title": "Meyer Werft sets up offshore business to handle $2.8bn converter orderbook",
+          "summary": "German shipbuilding group Meyer Werft is setting up a dedicated offshore business to manage its growing involvement in North Sea converter platform construction. The new company, Neptun Offshore, will bring together the…",
+          "date": "2026-11-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/meyer-werft-sets-up-offshore-business-to-handle-2-8bn-converter-orderbook/",
+          "relevant": false
+        },
+        {
           "title": "Iran Suggests Blasts Are Not US Attacks As Both Sides Report Ships Hit",
           "summary": "CAIRO, Nov 8 (Reuters) – Iranian media suggested explosions in southern Iran on Saturday evening were related to Iranian military activities rather than US strikes while both sides reported that shipping had been hit...",
           "date": "2026-11-08",
@@ -7393,6 +7433,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Lila Global adds third vintage LNG carrier with Diamond deal",
+          "summary": "Lila Global, GMS’s shipowning arm, is expanding its presence in the ageing LNG carrier market, adding its third LNG carrier since September. While the first two acquisitions were steam-powered vessels, the latest…",
+          "date": "2026-11-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/lila-global-adds-third-vintage-lng-carrier-with-diamond-deal/",
+          "relevant": false
+        },
+        {
           "title": "Adani Ports Makes Major Push Into Europe With $2.9 Billion Evos Acquisition",
           "summary": "India’s Adani Ports and Special Economic Zone (APSEZ) has agreed to acquire Netherlands-based liquid storage operator Evos B.V. in a €2.56 billion ($2.88 billion) deal that will give the company...",
           "date": "2026-11-06",
@@ -8682,15 +8730,6 @@
           "region": "KSA"
         },
         {
-          "title": "Khalid Hashim set to pass the baton at Precious Shipping",
-          "summary": "Thailand’s Precious Shipping is preparing a change at the top, with longtime managing director Khalid Moinuddin Hashim moving to executive vice chairman and finance chief Gautam Khurana taking over the running of the…",
-          "date": "2026-11-06",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/khalid-hashim-set-to-pass-the-baton-at-precious-shipping/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "First gas gushes out of Southeast Asian deepwater project",
           "summary": "This nearly $1-billion development has unlocked new deepwater reserves to boost energy security and stabilize power costs.",
           "date": "2026-11-06",
@@ -8727,6 +8766,15 @@
           "region": "UAE"
         },
         {
+          "title": "ADNOC agrees 10-year LNG supply deal with Gujarat Energy",
+          "summary": "ADNOC has signed a 10-year sales and purchase agreement to supply GEL with up to four mt of liquefied natural gas (LNG) from 2028.",
+          "date": "2026-11-06",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/adnoc-10-year-lng-gujarat-energy/",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
           "title": "Prime Energy achieves first gas at Malampaya Phase 4 in Philippines",
           "summary": "Prime Energy has started producing gas from its Malampaya Phase 4 project offshore the Philippines, bringing output from two new wells into the existing production system.",
           "date": "2026-11-06",
@@ -8743,6 +8791,15 @@
           "source_url": "https://www.naval-technology.com/news/tii-naval-group-underwater-drones/",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "Khalid Hashim set to pass the baton at Precious Shipping",
+          "summary": "Thailand’s Precious Shipping is preparing a change at the top, with longtime managing director Khalid Moinuddin Hashim moving to executive vice chairman and finance chief Gautam Khurana taking over the running of the…",
+          "date": "2026-11-06",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/khalid-hashim-set-to-pass-the-baton-at-precious-shipping/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "HEA Energy snaps up Subsea7’s six-ship heavy transport business",
