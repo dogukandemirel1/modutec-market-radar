@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T08:01:09Z",
+  "last_updated": "2026-11-09T09:01:09Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -216,6 +216,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "ADES Lands $117M ONGC Drilling Contracts for Two Jack-Ups",
+          "summary": "ADES Holding has secured three-year contracts from India's Oil and Natural Gas Corporation Limited (ONGC) for two jack-up drilling rigs, with a combined firm contract value of approximately $117…",
+          "date": "2026-11-09",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544212-ades-lands-117m-ongc-drilling-contracts-for-two-jack-ups",
+          "relevant": false
+        },
         {
           "title": "ADES bags $117m ONGC drilling contracts for jackup duo",
           "summary": "Saudi offshore drilling contractor ADES has secured two three-year contracts from India’s Oil and Natural Gas Corporation (ONGC) worth a combined SAR439.6m ($117.2m). The awards cover the standard jackup rigs Key…",
@@ -7441,6 +7449,14 @@
           "relevant": false
         },
         {
+          "title": "QatarEnergy buying 25% interest in Namibian offshore exploration license from Chevron",
+          "summary": "Qatar’s state-owned oil & gas firm QatarEnergy has entered into an agreement with Chevron's Namibian subsidiary for the acquisition of a...",
+          "date": "2026-11-09",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/09/qatarenergy-buying-25percent-interest-in-namibian-offshore-exploration-license-from-chevron",
+          "relevant": false
+        },
+        {
           "title": "Adani Ports Makes Major Push Into Europe With $2.9 Billion Evos Acquisition",
           "summary": "India’s Adani Ports and Special Economic Zone (APSEZ) has agreed to acquire Netherlands-based liquid storage operator Evos B.V. in a €2.56 billion ($2.88 billion) deal that will give the company...",
           "date": "2026-11-06",
@@ -8721,6 +8737,24 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Khalid Hashim set to pass the baton at Precious Shipping",
+          "summary": "Thailand’s Precious Shipping is preparing a change at the top, with longtime managing director Khalid Moinuddin Hashim moving to executive vice chairman and finance chief Gautam Khurana taking over the running of the…",
+          "date": "2026-11-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/khalid-hashim-set-to-pass-the-baton-at-precious-shipping/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "ADNOC Gas and SNOC agree to assess UAE gas infrastructure projects",
+          "summary": "ADNOC Gas, a subsidiary of ADNOC, and Sharjah National Oil Corporation (SNOC) have signed a strategic collaboration agreement to explore a range of potential projects to advance integration of the UAE's gas…",
+          "date": "2026-11-09",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/adnoc-gas-snoc-uae-gas-projects/",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
           "title": "Survey Shows OPEC Output Neared Pre-War Levels",
           "summary": "OPEC's crude production rose toward pre-war levels last month as Saudi Arabia led a further recovery in Persian Gulf supplies, according to a Bloomberg survey.",
           "date": "2026-11-07",
@@ -8791,15 +8825,6 @@
           "source_url": "https://www.naval-technology.com/news/tii-naval-group-underwater-drones/",
           "relevant": true,
           "region": "UAE"
-        },
-        {
-          "title": "Khalid Hashim set to pass the baton at Precious Shipping",
-          "summary": "Thailand’s Precious Shipping is preparing a change at the top, with longtime managing director Khalid Moinuddin Hashim moving to executive vice chairman and finance chief Gautam Khurana taking over the running of the…",
-          "date": "2026-11-06",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/khalid-hashim-set-to-pass-the-baton-at-precious-shipping/",
-          "relevant": false,
-          "region": "SEA"
         },
         {
           "title": "HEA Energy snaps up Subsea7’s six-ship heavy transport business",
