@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T16:01:10Z",
+  "last_updated": "2026-11-09T17:01:13Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -262,6 +262,30 @@
           "date": "2026-11-09",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/tende-energy-hires-rig-for-drilling-work-offshore-tunisia/",
+          "relevant": false
+        },
+        {
+          "title": "Ocean Oilfield wins Tunisia contract for Ocean MVM jackup",
+          "summary": "Ocean Oilfield secured a contract from Tende Energy to deploy the jackup Ocean MVM on the Abiod well program on the Maamoura license in the Gulf of Hammamet offshore Tunisia. The contractor said it will work closely…",
+          "date": "2026-11-09",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/ocean-oilfield-wins-tunisia-contract-for-ocean-mvm-jackup-80919",
+          "relevant": false
+        },
+        {
+          "title": "ADES extends India presence with two-rig ONGC award",
+          "summary": "ADES Holding secured contracts from Oil and Natural Gas Corp. (ONGC) for two standard jackups in India, the Key Singapore and the Admarine 10. Each rig received a three-year firm term. Both rigs are due to finish their…",
+          "date": "2026-11-09",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/ades-extends-india-presence-with-two-rig-ongc-award-80916",
+          "relevant": false
+        },
+        {
+          "title": "General Atomics Ranger UUV to Support Large Payloads, UAVs",
+          "summary": "At Euronaval 2026, General Atomics revealed its Ranger and GA-Ray long-range UUVs, built for multi-year missions and launching sub-drones and payloads. The post General Atomics Ranger UUV to Support Large Payloads, UAVs…",
+          "date": "2026-11-09",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/general-atomics-ranger-uuv-to-support-large-payloads-uavs/",
           "relevant": false
         },
         {
@@ -761,19 +785,19 @@
           "relevant": false
         },
         {
-          "title": "Saipem 12000 drillship begins Coral North campaign for Eni",
-          "summary": "Eni and its Area 4 partners started the drilling and completion campaign for the Coral North floating liquefied natural gas (FLNG) project offshore Mozambique, the operator announced 2 November 2026. The project, in the…",
-          "date": "2026-11-03",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/saipem-12000-drillship-begins-coral-north-campaign-for-eni-80810",
-          "relevant": false
-        },
-        {
           "title": "Wison New Energies lays keel for Türkiye’s ultra-deepwater FPU",
           "summary": "This ultra-deepwater floating production unit (FPU) is being built for Türkiye Petrolleri A.O. (TPAO) to boost Türkiye's natural gas supply.",
           "date": "2026-11-03",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/03/wison-new-energies-lays-keel-for-turkiyes-ultra-deepwater-fpu",
+          "relevant": false
+        },
+        {
+          "title": "Saipem 12000 drillship begins Coral North campaign for Eni",
+          "summary": "Eni and its Area 4 partners started the drilling and completion campaign for the Coral North floating liquefied natural gas (FLNG) project offshore Mozambique, the operator announced 2 November 2026. The project, in the…",
+          "date": "2026-11-03",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/saipem-12000-drillship-begins-coral-north-campaign-for-eni-80810",
           "relevant": false
         },
         {
@@ -5177,19 +5201,19 @@
           "relevant": false
         },
         {
-          "title": "U.S. Targets Cuba’s Oil Tanker Fleet in New Sanctions Crackdown",
-          "summary": "The Trump administration has expanded sanctions targeting Cuba’s maritime and energy sectors, identifying five Cuban-flagged vessels as blocked property and opening the door to further sanctions against foreign…",
-          "date": "2026-11-06",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/u-s-targets-cubas-oil-tanker-fleet-in-new-sanctions-crackdown/",
-          "relevant": false
-        },
-        {
           "title": "TC Energy approves $2bn in pipeline expansions in US and Canada",
           "summary": "Canadian pipeline operator TC Energy has announced approximately C$3bn ($2.1bn) of new in-corridor growth projects, taking 2026 sanctions to about C$6bn at a weighted average build multiple of 6.5 times.",
           "date": "2026-11-06",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/tc-energy-2bn-pipeline-expansions-us-canada/",
+          "relevant": false
+        },
+        {
+          "title": "U.S. Targets Cuba’s Oil Tanker Fleet in New Sanctions Crackdown",
+          "summary": "The Trump administration has expanded sanctions targeting Cuba’s maritime and energy sectors, identifying five Cuban-flagged vessels as blocked property and opening the door to further sanctions against foreign…",
+          "date": "2026-11-06",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/u-s-targets-cubas-oil-tanker-fleet-in-new-sanctions-crackdown/",
           "relevant": false
         },
         {
@@ -7745,19 +7769,19 @@
           "relevant": false
         },
         {
-          "title": "Halliburton buys Keystone to link well planning with rig execution",
-          "summary": "Halliburton acquired Keystone AS, a Norway-based software company that develops digital tools for well planning and execution, the company announced 2 November 2026. Keystone’s applications cover well planning and…",
-          "date": "2026-11-03",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/halliburton-buys-keystone-to-link-well-planning-with-rig-execution-80805",
-          "relevant": false
-        },
-        {
           "title": "Taihan renames CLV recently acquired from DOF",
           "summary": "Taihan Cable & Solution has renamed the cable-laying vessel (CLV) that the South Korean cable supplier acquired from DOF Group earlier this year....",
           "date": "2026-11-03",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/03/taihan-renames-clv-recently-acquired-from-dof",
+          "relevant": false
+        },
+        {
+          "title": "Halliburton buys Keystone to link well planning with rig execution",
+          "summary": "Halliburton acquired Keystone AS, a Norway-based software company that develops digital tools for well planning and execution, the company announced 2 November 2026. Keystone’s applications cover well planning and…",
+          "date": "2026-11-03",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/halliburton-buys-keystone-to-link-well-planning-with-rig-execution-80805",
           "relevant": false
         },
         {
@@ -8922,6 +8946,15 @@
           "region": "SEA"
         },
         {
+          "title": "Lion spuds Bula Karang-1 exploration well onshore Seram Island",
+          "summary": "Lion Energy spudded the Bula Karang-1 exploration well in the East Seram PSC in Indonesia on 9 November. Lion operates the block with a 45% working interest, and OPIC holds the remaining 55%. Silver City Drilling Rig 20…",
+          "date": "2026-11-09",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/lion-spuds-bula-karang-1-exploration-well-onshore-seram-island-80914",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "ADNOC, SNOC to Explore Gas Partnership",
           "summary": "ADNOC Gas and Sharjah National Oil agreed to study potential collaboration aligned with strengthening natural gas supply security in the United Arab Emirates.",
           "date": "2026-11-09",
@@ -9093,15 +9126,6 @@
           "region": "SEA"
         },
         {
-          "title": "Valaris lines up four rig extensions, reverses VALARIS 111 recycling sale",
-          "summary": "Valaris and its ARO Drilling joint venture secured contract extensions with BP, Saudi Aramco, Ithaca Energy and INEOS, and Valaris reversed the recycling sale of jackup VALARIS 111, according to its 2 November fleet…",
-          "date": "2026-11-04",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/valaris-lines-up-four-rig-extensions-reverses-valaris-111-recycling-sale-80816",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
           "title": "TotalEnergies forges pacts with Petronas, Sonangol, and Oil India to slash methane footprint",
           "summary": "TotalEnergies has deepened partnerships across Malaysia, Angola, and India to expand advanced methane detection and accelerate emissions cuts.",
           "date": "2026-11-04",
@@ -9109,6 +9133,15 @@
           "source_url": "https://www.offshore-energy.biz/2026/11/04/totalenergies-forges-pacts-with-petronas-sonangol-and-oil-india-to-slash-methane-footprint",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Valaris lines up four rig extensions, reverses VALARIS 111 recycling sale",
+          "summary": "Valaris and its ARO Drilling joint venture secured contract extensions with BP, Saudi Aramco, Ithaca Energy and INEOS, and Valaris reversed the recycling sale of jackup VALARIS 111, according to its 2 November fleet…",
+          "date": "2026-11-04",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/valaris-lines-up-four-rig-extensions-reverses-valaris-111-recycling-sale-80816",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "UAE Mulls 3rd Crude Oil Pipeline to Avoid Hormuz",
