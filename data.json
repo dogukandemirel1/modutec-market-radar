@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T22:01:05Z",
+  "last_updated": "2026-11-09T23:01:08Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -262,6 +262,22 @@
           "date": "2026-11-09",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/tende-energy-hires-rig-for-drilling-work-offshore-tunisia/",
+          "relevant": false
+        },
+        {
+          "title": "Nov26_McKinsey2",
+          "summary": "The post Nov26_McKinsey2 appeared first on Drilling Contractor .",
+          "date": "2026-11-09",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/nov26_mckinsey2-80935",
+          "relevant": false
+        },
+        {
+          "title": "Nov26_McKinsey1",
+          "summary": "The post Nov26_McKinsey1 appeared first on Drilling Contractor .",
+          "date": "2026-11-09",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/nov26_mckinsey1-80933",
           "relevant": false
         },
         {
@@ -561,14 +577,6 @@
           "relevant": false
         },
         {
-          "title": "Archer to deploy DLS-156 rig for Vista in Argentina",
-          "summary": "Vista tapped Archer to drill in Argentina’s Vaca Muerta shale play under a two-year contract that carries a one-year option. Archer will deploy its AC drilling rig DLS-156 to support Vista’s development program in the…",
-          "date": "2026-11-05",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/archer-to-deploy-dls-156-rig-for-vista-in-argentina-80860",
-          "relevant": false
-        },
-        {
           "title": "After Subsea7, Aker BP contracts OneSubsea for Norwegian fast-track oil project",
           "summary": "Shortly after awarding Subsea7 a contract for the project, Aker BP has revealed that OneSubsea, a joint venture backed by SLB, Aker Solutions and...",
           "date": "2026-11-05",
@@ -606,6 +614,14 @@
           "date": "2026-11-05",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/worley-epc-venture-globals-cp2-expansion/",
+          "relevant": false
+        },
+        {
+          "title": "Archer to deploy DLS-156 rig for Vista in Argentina",
+          "summary": "Vista tapped Archer to drill in Argentina’s Vaca Muerta shale play under a two-year contract that carries a one-year option. Archer will deploy its AC drilling rig DLS-156 to support Vista’s development program in the…",
+          "date": "2026-11-05",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/archer-to-deploy-dls-156-rig-for-vista-in-argentina-80860",
           "relevant": false
         },
         {
@@ -689,19 +705,19 @@
           "relevant": false
         },
         {
-          "title": "Velesto puts jackup NAGA 3 to work for PETRONAS Carigali",
-          "summary": "Velesto secured a contract from PETRONAS Carigali to deploy the jackup NAGA 3 for one firm well and one optional well. Operations began in November. The award went to Velesto Drilling, a wholly owned subsidiary of…",
-          "date": "2026-11-04",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/velesto-puts-jackup-naga-3-to-work-for-petronas-carigali-80818",
-          "relevant": false
-        },
-        {
           "title": "Fugro wins East Anglia Two post-installation survey contract",
           "summary": "Fugro has secured a contract from Cadeler to carry out post-installation seabed surveys at the 960 MW East Anglia Two offshore wind farm in the...",
           "date": "2026-11-04",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/04/fugro-wins-east-anglia-two-post-installation-survey-contract",
+          "relevant": false
+        },
+        {
+          "title": "Velesto puts jackup NAGA 3 to work for PETRONAS Carigali",
+          "summary": "Velesto secured a contract from PETRONAS Carigali to deploy the jackup NAGA 3 for one firm well and one optional well. Operations began in November. The award went to Velesto Drilling, a wholly owned subsidiary of…",
+          "date": "2026-11-04",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/velesto-puts-jackup-naga-3-to-work-for-petronas-carigali-80818",
           "relevant": false
         },
         {
