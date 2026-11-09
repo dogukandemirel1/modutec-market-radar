@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T14:01:05Z",
+  "last_updated": "2026-11-09T15:01:14Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -216,6 +216,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "COSCO unveils massive supertanker fleet push",
+          "summary": "Chinese tanker giant COSCO Shipping Energy Transportation has unveiled a sweeping fleet expansion involving 24 VLCC newbuildings, signing contracts worth RMB9.48bn ($1.42bn) for ten supertankers and lining up another 14…",
+          "date": "2026-11-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/cosco-unveils-massive-supertanker-fleet-push/",
+          "relevant": false
+        },
         {
           "title": "PowerChina picks up trio of offshore wind contracts",
           "summary": "PowerChina’s East China Engineering Institute has secured three offshore wind survey and engineering design contracts in China worth a combined RMB124.23m ($17.5m). The awards cover the 308MW China Resources Xiangshui…",
@@ -7593,6 +7601,14 @@
           "relevant": false
         },
         {
+          "title": "QatarEnergy, Chevron Expand Exploration Partnership offshore Namibia",
+          "summary": "QatarEnergy is entering into another partnership with Chevron offshore Namibia with the acquisition of a 25 percent stake in Petroleum Exploration License 82.",
+          "date": "2026-11-09",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/qatarenergy_chevron_expand_exploration_partnership_offshore_namibia-09-nov-2026-185039-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "Lila Global adds third vintage LNG carrier with Diamond deal",
           "summary": "Lila Global, GMS’s shipowning arm, is expanding its presence in the ageing LNG carrier market, adding its third LNG carrier since September. While the first two acquisitions were steam-powered vessels, the latest…",
           "date": "2026-11-09",
@@ -8880,6 +8896,24 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "RCL adds $213m boxship pair to growing orderbook",
+          "summary": "Thailand’s Regional Container Lines (RCL) has added another two neo-panamax containerships to its expanding newbuilding programme, committing around $213m for a pair of 9,200 teu vessels. The Bangkok-listed carrier has…",
+          "date": "2026-11-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/rcl-adds-213m-boxship-pair-to-growing-orderbook/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "ADNOC, SNOC to Explore Gas Partnership",
+          "summary": "ADNOC Gas and Sharjah National Oil agreed to study potential collaboration aligned with strengthening natural gas supply security in the United Arab Emirates.",
+          "date": "2026-11-09",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/adnoc_snoc_to_explore_gas_partnership-09-nov-2026-185041-article/?rss=true",
+          "relevant": true,
+          "region": "UAE"
+        },
         {
           "title": "ADNOC Gas and SNOC agree to assess UAE gas infrastructure projects",
           "summary": "ADNOC Gas, a subsidiary of ADNOC, and Sharjah National Oil Corporation (SNOC) have signed a strategic collaboration agreement to explore a range of potential projects to advance integration of the UAE's gas…",
