@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T09:01:09Z",
+  "last_updated": "2026-11-09T10:01:10Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -216,6 +216,38 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Safran and MSI-DS Partner on Next-Gen Counter-Drone Naval Turrets",
+          "summary": "Safran and MSI-Defence Systems highlighted their new counter-drone turret partnership at Euronaval 2026, securing a C-UAS contract for a European NATO navy. The post Safran and MSI-DS Partner on Next-Gen Counter-Drone…",
+          "date": "2026-11-09",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/safran-and-msi-ds-partner-on-next-gen-counter-drone-naval-turrets/",
+          "relevant": false
+        },
+        {
+          "title": "VIKING to build seven high-speed patrol vessels for the Hellenic Coast Guard",
+          "summary": "VIKING Life-Saving Equipment has signed a €23.8 million contract, through its Greek company VIKING Life-Saving Equipment Hellas, to supply seven new high-speed patrol vessels to the Hellenic Coast Guard. Viking press…",
+          "date": "2026-11-09",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/viking-to-build-seven-high-speed-patrol-vessels-for-the-hellenic-coast-guard/",
+          "relevant": false
+        },
+        {
+          "title": "DOF's 2017-built AHTS vessel lands contract extension through Q3 2028",
+          "summary": "DOF Group has secured a contract extension for its 2017-built anchor handling tug supply (AHTS) vessel that will keep the vessel busy until the...",
+          "date": "2026-11-09",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/09/dofs-2017-built-ahts-vessel-lands-contract-extension-through-q3-2028",
+          "relevant": false
+        },
+        {
+          "title": "Kongsberg Maritime Gets Safety, Automation Deal for Equinor's Wisting FPSO",
+          "summary": "Kongsberg Maritime has secured a contract to provide safety and automation systems for Equinor's planned Wisting floating production, storage and offloading (FPSO) vessel…",
+          "date": "2026-11-09",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544214-kongsberg-maritime-gets-safety-automation-deal-for-equinor-s-wisting-fpso",
+          "relevant": false
+        },
         {
           "title": "ADES Lands $117M ONGC Drilling Contracts for Two Jack-Ups",
           "summary": "ADES Holding has secured three-year contracts from India's Oil and Natural Gas Corporation Limited (ONGC) for two jack-up drilling rigs, with a combined firm contract value of approximately $117…",
@@ -5065,14 +5097,6 @@
           "relevant": false
         },
         {
-          "title": "RTsys Group Strengthens Its Presence in Canada with the Sale of Several SEMA Training Targets",
-          "summary": "At Euronaval 2026, the Morbihan-based RTsys Group announced the sale of several SEMA training targets to two Canadian defense agencies: Defense Research and Development Canada (DRDC) and the Naval Engineering Test…",
-          "date": "2026-11-05",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/rtsys-group-strengthens-its-presence-in-canada-with-the-sale-of-several-sema-training-targets/",
-          "relevant": false
-        },
-        {
           "title": "10 MW tidal energy project gets EU seal for contribution to energy goals",
           "summary": "Swedish ocean energy developer Minesto has received the European Commission's Strategic Technologies for Europe Platform (STEP) Seal for its...",
           "date": "2026-11-05",
@@ -5086,6 +5110,14 @@
           "date": "2026-11-05",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/05/energy-security-to-keep-running-the-show-into-2027-amid-market-shifts-iea-chief-warns",
+          "relevant": false
+        },
+        {
+          "title": "RTsys Group Strengthens Its Presence in Canada with the Sale of Several SEMA Training Targets",
+          "summary": "At Euronaval 2026, the Morbihan-based RTsys Group announced the sale of several SEMA training targets to two Canadian defense agencies: Defense Research and Development Canada (DRDC) and the Naval Engineering Test…",
+          "date": "2026-11-05",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/rtsys-group-strengthens-its-presence-in-canada-with-the-sale-of-several-sema-training-targets/",
           "relevant": false
         },
         {
@@ -7441,6 +7473,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Boluda buys Dutch offshore towage specialist",
+          "summary": "Spanish towage giant Boluda has acquired Dutch offshore towage and heavy transport specialist Muller Dordrecht, adding 16 tugs and eight barges to its growing global fleet. The takeover gives Boluda full ownership of…",
+          "date": "2026-11-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/boluda-buys-dutch-offshore-towage-specialist/",
+          "relevant": false
+        },
+        {
           "title": "Lila Global adds third vintage LNG carrier with Diamond deal",
           "summary": "Lila Global, GMS’s shipowning arm, is expanding its presence in the ageing LNG carrier market, adding its third LNG carrier since September. While the first two acquisitions were steam-powered vessels, the latest…",
           "date": "2026-11-09",
@@ -8755,6 +8795,15 @@
           "region": "UAE"
         },
         {
+          "title": "Aramco’s Building in Riyadh Damaged by Houthi Attack",
+          "summary": "Windows were blown out across several floors of Saudi oil giant Aramco's corporate office in the heart of the financial district of the capital Riyadh on Sunday…",
+          "date": "2026-11-09",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544215-aramco-s-building-in-riyadh-damaged-by-houthi-attack",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
           "title": "Survey Shows OPEC Output Neared Pre-War Levels",
           "summary": "OPEC's crude production rose toward pre-war levels last month as Saudi Arabia led a further recovery in Persian Gulf supplies, according to a Bloomberg survey.",
           "date": "2026-11-07",
@@ -8854,15 +8903,6 @@
           "region": "UAE"
         },
         {
-          "title": "Aramco Looks to Strengthen Supply Network, CEO Reveals",
-          "summary": "Aramco's CEO announced that the company is continuing to 'explore additional overseas storage capacity', as well as 'alternative export routes', in order to 'further strengthen' Aramco's global supply network.",
-          "date": "2026-11-05",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/aramco_looks_to_strengthen_supply_network_ceo_reveals-05-nov-2026-185016-article/?rss=true",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
           "title": "EDGE launches first BR71 MK II corvette built in UAE for Angolan Navy",
           "summary": "EDGE has launched the NRA Nimi-ya-Lukeni (F301), the first BR71 MK II multi-mission corvette of its class to be constructed in the United Arab Emirates. The post EDGE launches first BR71 MK II corvette built in UAE for…",
           "date": "2026-11-05",
@@ -8870,6 +8910,15 @@
           "source_url": "https://www.naval-technology.com/news/edge-ae-angola-navy-corvette/",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "Aramco Looks to Strengthen Supply Network, CEO Reveals",
+          "summary": "Aramco's CEO announced that the company is continuing to 'explore additional overseas storage capacity', as well as 'alternative export routes', in order to 'further strengthen' Aramco's global supply network.",
+          "date": "2026-11-05",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/aramco_looks_to_strengthen_supply_network_ceo_reveals-05-nov-2026-185016-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "Seacon snaps up fresh tanker in $19.6m deal",
