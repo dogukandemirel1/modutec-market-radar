@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T10:01:10Z",
+  "last_updated": "2026-11-09T11:01:14Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -217,6 +217,30 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "DOF wins more AHTS work offshore Canada",
+          "summary": "Norwegian offshore vessel owner DOF has secured a contract extension for its anchor handling tug supply (AHTS) vessel Skandi Mariner, which is working offshore Canada. The company said an option under the vessel’s…",
+          "date": "2026-11-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/dof-wins-more-ahts-work-offshore-canada/",
+          "relevant": false
+        },
+        {
+          "title": "A2B-online turns to China for methanol-ready boxship pair",
+          "summary": "Dutch shortsea container operator A2B-online has ordered two more methanol-capable vessels at China Merchants Industry Weihai Shipyard, doubling its fleet renewal programme to four ships. The latest contract marks a…",
+          "date": "2026-11-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/a2b-online-turns-to-china-for-methanol-ready-boxship-pair/",
+          "relevant": false
+        },
+        {
+          "title": "Tende Energy hires rig for drilling work offshore Tunisia",
+          "summary": "Offshore drilling contractor Ocean Oilfield has secured a contract from Tende Energy to deploy its Ocean MVM jackup rig for a drilling campaign offshore Tunisia. The rig will be used for the Abiod well programme on the…",
+          "date": "2026-11-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/tende-energy-hires-rig-for-drilling-work-offshore-tunisia/",
+          "relevant": false
+        },
+        {
           "title": "Safran and MSI-DS Partner on Next-Gen Counter-Drone Naval Turrets",
           "summary": "Safran and MSI-Defence Systems highlighted their new counter-drone turret partnership at Euronaval 2026, securing a C-UAS contract for a European NATO navy. The post Safran and MSI-DS Partner on Next-Gen Counter-Drone…",
           "date": "2026-11-09",
@@ -241,6 +265,14 @@
           "relevant": false
         },
         {
+          "title": "ADES wins contracts from ONGC for two jackup rigs in India",
+          "summary": "Oil and gas drilling services provider ADES has been awarded contracts by India’s state-controlled oil and gas company Oil and Natural Gas Corporation (ONGC) to provide two standard jackup rigs in India.",
+          "date": "2026-11-09",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/ades-contracts-ongc-jackup-rigs-india/",
+          "relevant": false
+        },
+        {
           "title": "Kongsberg Maritime Gets Safety, Automation Deal for Equinor's Wisting FPSO",
           "summary": "Kongsberg Maritime has secured a contract to provide safety and automation systems for Equinor's planned Wisting floating production, storage and offloading (FPSO) vessel…",
           "date": "2026-11-09",
@@ -250,7 +282,7 @@
         },
         {
           "title": "ADES Lands $117M ONGC Drilling Contracts for Two Jack-Ups",
-          "summary": "ADES Holding has secured three-year contracts from India's Oil and Natural Gas Corporation Limited (ONGC) for two jack-up drilling rigs, with a combined firm contract value of approximately $117…",
+          "summary": "ADES Holding has secured three-year contracts from India's Oil and Natural Gas Corporation (ONGC) for two jack-up drilling rigs, with a combined firm contract value of approximately $117…",
           "date": "2026-11-09",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544212-ades-lands-117m-ongc-drilling-contracts-for-two-jack-ups",
@@ -5001,6 +5033,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Russia Takes Control of Two Chinese Heavy-Lift Ships Used for Arctic LNG 2 Deliveries",
+          "summary": "Russia has taken control of two modern heavy-lift carriers previously involved in transporting equipment for the sanctioned Arctic LNG 2 project, adding specialized project cargo vessels to an expanding network of…",
+          "date": "2026-11-09",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/russia-takes-control-of-two-chinese-heavy-lift-ships-used-for-arctic-lng-2-deliveries/",
+          "relevant": false
+        },
+        {
           "title": "Russia Says It Hit Three Cargo Ships In Black Sea",
           "summary": "MOSCOW, Nov 8 (Reuters) – Russia said on Sunday overnight strikes by its forces had hit three cargo vessels that were carrying military goods for Ukraine and two electricity substations, which it said supplied...",
           "date": "2026-11-09",
@@ -5014,6 +5054,22 @@
           "date": "2026-11-09",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/hormuz-suffers-weekend-of-fire/",
+          "relevant": false
+        },
+        {
+          "title": "Kongsberg Maritime launches Arctic Hunter USV for the Hybrid Navy",
+          "summary": "Kongsberg Maritime has unveiled the Arctic Hunter USV, a new class of uncrewed surface vessels designed for rapid integration and deployment into Hybrid Fleets. The post Kongsberg Maritime launches Arctic Hunter USV for…",
+          "date": "2026-11-09",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/kongsberg-maritime-launches-arctic-hunter-usv-for-the-hybrid-navy/",
+          "relevant": false
+        },
+        {
+          "title": "Oil prices fall as Trump signals no immediate strikes on Iran",
+          "summary": "Oil prices declined on Monday, 9 November, following comments from US President Donald Trump that suggested a reduced probability of further military action against Iran, reported Reuters.",
+          "date": "2026-11-09",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/oil-prices-fall-trump-no-strikes-iran/",
           "relevant": false
         },
         {
@@ -5065,19 +5121,19 @@
           "relevant": false
         },
         {
-          "title": "China Adopts Law on Antarctic Activities and Environmental Protection",
-          "summary": "Beijing has approved a law to improve China's Antarctic research and strengthen regulation of its exploration activities, the official Xinhua news agency reported on Friday.",
-          "date": "2026-11-06",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/china-adopts-law-on-antarctic-activities-and-environmental-protection/",
-          "relevant": false
-        },
-        {
           "title": "TC Energy approves $2bn in pipeline expansions in US and Canada",
           "summary": "Canadian pipeline operator TC Energy has announced approximately C$3bn ($2.1bn) of new in-corridor growth projects, taking 2026 sanctions to about C$6bn at a weighted average build multiple of 6.5 times.",
           "date": "2026-11-06",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/tc-energy-2bn-pipeline-expansions-us-canada/",
+          "relevant": false
+        },
+        {
+          "title": "China Adopts Law on Antarctic Activities and Environmental Protection",
+          "summary": "Beijing has approved a law to improve China's Antarctic research and strengthen regulation of its exploration activities, the official Xinhua news agency reported on Friday.",
+          "date": "2026-11-06",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/china-adopts-law-on-antarctic-activities-and-environmental-protection/",
           "relevant": false
         },
         {
@@ -7481,19 +7537,19 @@
           "relevant": false
         },
         {
-          "title": "Lila Global adds third vintage LNG carrier with Diamond deal",
-          "summary": "Lila Global, GMS’s shipowning arm, is expanding its presence in the ageing LNG carrier market, adding its third LNG carrier since September. While the first two acquisitions were steam-powered vessels, the latest…",
-          "date": "2026-11-09",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/lila-global-adds-third-vintage-lng-carrier-with-diamond-deal/",
-          "relevant": false
-        },
-        {
           "title": "QatarEnergy buying 25% interest in Namibian offshore exploration license from Chevron",
           "summary": "Qatar’s state-owned oil & gas firm QatarEnergy has entered into an agreement with Chevron's Namibian subsidiary for the acquisition of a...",
           "date": "2026-11-09",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/09/qatarenergy-buying-25percent-interest-in-namibian-offshore-exploration-license-from-chevron",
+          "relevant": false
+        },
+        {
+          "title": "Lila Global adds third vintage LNG carrier with Diamond deal",
+          "summary": "Lila Global, GMS’s shipowning arm, is expanding its presence in the ageing LNG carrier market, adding its third LNG carrier since September. While the first two acquisitions were steam-powered vessels, the latest…",
+          "date": "2026-11-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/lila-global-adds-third-vintage-lng-carrier-with-diamond-deal/",
           "relevant": false
         },
         {
@@ -8777,15 +8833,6 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Khalid Hashim set to pass the baton at Precious Shipping",
-          "summary": "Thailand’s Precious Shipping is preparing a change at the top, with longtime managing director Khalid Moinuddin Hashim moving to executive vice chairman and finance chief Gautam Khurana taking over the running of the…",
-          "date": "2026-11-09",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/khalid-hashim-set-to-pass-the-baton-at-precious-shipping/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "ADNOC Gas and SNOC agree to assess UAE gas infrastructure projects",
           "summary": "ADNOC Gas, a subsidiary of ADNOC, and Sharjah National Oil Corporation (SNOC) have signed a strategic collaboration agreement to explore a range of potential projects to advance integration of the UAE's gas…",
           "date": "2026-11-09",
@@ -8802,6 +8849,15 @@
           "source_url": "https://www.oedigital.com/news/544215-aramco-s-building-in-riyadh-damaged-by-houthi-attack",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Khalid Hashim set to pass the baton at Precious Shipping",
+          "summary": "Thailand’s Precious Shipping is preparing a change at the top, with longtime managing director Khalid Moinuddin Hashim moving to executive vice chairman and finance chief Gautam Khurana taking over the running of the…",
+          "date": "2026-11-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/khalid-hashim-set-to-pass-the-baton-at-precious-shipping/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Survey Shows OPEC Output Neared Pre-War Levels",
