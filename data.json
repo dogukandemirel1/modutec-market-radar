@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T04:01:03Z",
+  "last_updated": "2026-11-09T05:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -4944,6 +4944,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "Russia Says It Hit Three Cargo Ships In Black Sea",
+          "summary": "MOSCOW, Nov 8 (Reuters) – Russia said on Sunday overnight strikes by its forces had hit three cargo vessels that were carrying military goods for Ukraine and two electricity substations, which it said supplied...",
+          "date": "2026-11-09",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/russia-says-it-hit-three-cargo-ships-in-black-sea/",
+          "relevant": false
+        },
         {
           "title": "Iran Suggests Blasts Are Not US Attacks As Both Sides Report Ships Hit",
           "summary": "CAIRO, Nov 8 (Reuters) – Iranian media suggested explosions in southern Iran on Saturday evening were related to Iranian military activities rather than US strikes while both sides reported that shipping had been hit...",
