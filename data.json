@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T11:01:14Z",
+  "last_updated": "2026-11-09T12:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -217,6 +217,22 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "PowerChina picks up trio of offshore wind contracts",
+          "summary": "PowerChina’s East China Engineering Institute has secured three offshore wind survey and engineering design contracts in China worth a combined RMB124.23m ($17.5m). The awards cover the 308MW China Resources Xiangshui…",
+          "date": "2026-11-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/powerchina-picks-up-trio-of-offshore-wind-contracts/",
+          "relevant": false
+        },
+        {
+          "title": "Sinopec awards offshore platform and pipeline contract in China",
+          "summary": "Chinese energy giant Sinopec has awarded an engineering, procurement and construction contract for the Weizhou oilfield expansion in the Beibu Gulf, involving a new offshore processing platform, subsea pipelines, and…",
+          "date": "2026-11-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/sinopec-awards-offshore-platform-and-pipeline-contract-in-china/",
+          "relevant": false
+        },
+        {
           "title": "DOF wins more AHTS work offshore Canada",
           "summary": "Norwegian offshore vessel owner DOF has secured a contract extension for its anchor handling tug supply (AHTS) vessel Skandi Mariner, which is working offshore Canada. The company said an option under the vessel’s…",
           "date": "2026-11-09",
@@ -270,6 +286,14 @@
           "date": "2026-11-09",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/ades-contracts-ongc-jackup-rigs-india/",
+          "relevant": false
+        },
+        {
+          "title": "TotalEnergies Keeps Bilfinger on Offshore Inspection Duty in Denmark",
+          "summary": "Bilfinger has secured a contract extension with TotalEnergies EP Denmark to provide inspection and access services across Danish Underground Consortium (DUC) offshore…",
+          "date": "2026-11-09",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544218-totalenergies-keeps-bilfinger-on-offshore-inspection-duty-in-denmark",
           "relevant": false
         },
         {
@@ -5049,14 +5073,6 @@
           "relevant": false
         },
         {
-          "title": "Hormuz suffers weekend of fire",
-          "summary": "Merchant shipping has been caught in an extraordinary escalation of the war around the Strait of Hormuz over the past 72 hours, with tankers set ablaze, the US military bombing a bulk carrier, fresh Iranian warnings…",
-          "date": "2026-11-09",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/hormuz-suffers-weekend-of-fire/",
-          "relevant": false
-        },
-        {
           "title": "Kongsberg Maritime launches Arctic Hunter USV for the Hybrid Navy",
           "summary": "Kongsberg Maritime has unveiled the Arctic Hunter USV, a new class of uncrewed surface vessels designed for rapid integration and deployment into Hybrid Fleets. The post Kongsberg Maritime launches Arctic Hunter USV for…",
           "date": "2026-11-09",
@@ -5070,6 +5086,14 @@
           "date": "2026-11-09",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/oil-prices-fall-trump-no-strikes-iran/",
+          "relevant": false
+        },
+        {
+          "title": "Hormuz suffers weekend of fire",
+          "summary": "Merchant shipping has been caught in an extraordinary escalation of the war around the Strait of Hormuz over the past 72 hours, with tankers set ablaze, the US military bombing a bulk carrier, fresh Iranian warnings…",
+          "date": "2026-11-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/hormuz-suffers-weekend-of-fire/",
           "relevant": false
         },
         {
