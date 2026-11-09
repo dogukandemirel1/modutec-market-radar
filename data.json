@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T15:01:14Z",
+  "last_updated": "2026-11-09T16:01:10Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -265,6 +265,14 @@
           "relevant": false
         },
         {
+          "title": "MBDA on contract to study Aster 30 missile integration in MK 41 VLS",
+          "summary": "MBDA has received a UK MoD contract to examine the viability of integrating the Aster 30 surface-to-air missile with the Lockheed Martin MK 41 VLS The post MBDA on contract to study Aster 30 missile integration in MK 41…",
+          "date": "2026-11-09",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/mbda-on-contract-to-study-aster-30-missile-integration-in-mk-41-vls/",
+          "relevant": false
+        },
+        {
           "title": "Safran and MSI-DS Partner on Next-Gen Counter-Drone Naval Turrets",
           "summary": "Safran and MSI-Defence Systems highlighted their new counter-drone turret partnership at Euronaval 2026, securing a C-UAS contract for a European NATO navy. The post Safran and MSI-DS Partner on Next-Gen Counter-Drone…",
           "date": "2026-11-09",
@@ -377,14 +385,6 @@
           "relevant": false
         },
         {
-          "title": "Saab receives order to equip Sweden’s new frigates",
-          "summary": "On November 6, 2026, Saab announced that it had signed a contract with Naval Group to equip the FDI frigates ordered by the Swedish Navy. Saab press release Saab has signed a contract with the French defence company…",
-          "date": "2026-11-06",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/saab-receives-order-to-equip-swedens-new-frigates/",
-          "relevant": false
-        },
-        {
           "title": "Tubular package provider selected for first commercial gas project off Cyprus",
           "summary": "Luxembourg-headquartered Tenaris has secured contracts to supply oil country tubular goods (OCTG), line pipe and coating services for Cyprus's...",
           "date": "2026-11-06",
@@ -438,6 +438,14 @@
           "date": "2026-11-06",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544200-worley-lands-epc-contract-for-venture-global-s-cp2-lng-expansion",
+          "relevant": false
+        },
+        {
+          "title": "Saab receives order to equip Sweden’s new frigates",
+          "summary": "On November 6, 2026, Saab announced that it had signed a contract with Naval Group to equip the FDI frigates ordered by the Swedish Navy. Saab press release Saab has signed a contract with the French defence company…",
+          "date": "2026-11-06",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/saab-receives-order-to-equip-swedens-new-frigates/",
           "relevant": false
         },
         {
@@ -7598,6 +7606,14 @@
           "date": "2026-11-09",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/09/qatarenergy-buying-25percent-interest-in-namibian-offshore-exploration-license-from-chevron",
+          "relevant": false
+        },
+        {
+          "title": "Strathcona, Greenfire Agree Oil Sands Merger",
+          "summary": "Strathcona agreed to acquire Greenfire for up to around $2.06 billion, a combination that the Canadian companies said would create an oil sands major that offers faster growth than larger rivals.",
+          "date": "2026-11-09",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/strathcona_greenfire_agree_oil_sands_merger-09-nov-2026-185042-article/?rss=true",
           "relevant": false
         },
         {
