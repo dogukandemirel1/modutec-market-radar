@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T19:01:10Z",
+  "last_updated": "2026-11-09T20:01:10Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5150,6 +5150,14 @@
           "date": "2026-11-09",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/russia-says-it-hit-three-cargo-ships-in-black-sea/",
+          "relevant": false
+        },
+        {
+          "title": "Splash Crew launches to put seafarers at the heart of maritime news",
+          "summary": "Splash Maritime Group has unveiled Splash Crew, its latest specialist news platform, with the ambition of becoming essential daily reading for seafarers, crewing professionals, shipmanagers, regulators and maritime…",
+          "date": "2026-11-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/splash-crew-launches-to-put-seafarers-at-the-heart-of-maritime-news/",
           "relevant": false
         },
         {
