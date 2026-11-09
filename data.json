@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T20:01:10Z",
+  "last_updated": "2026-11-09T21:01:11Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8979,6 +8979,15 @@
           "region": "SEA"
         },
         {
+          "title": "Aramco Tower Targeted",
+          "summary": "A Houthi attack damaged one of the landmarks of the Saudi Arabian capital's financial district.",
+          "date": "2026-11-09",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/aramco_tower_targeted-09-nov-2026-185044-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
           "title": "ADNOC, SNOC to Explore Gas Partnership",
           "summary": "ADNOC Gas and Sharjah National Oil agreed to study potential collaboration aligned with strengthening natural gas supply security in the United Arab Emirates.",
           "date": "2026-11-09",
@@ -9051,15 +9060,6 @@
           "region": "UAE"
         },
         {
-          "title": "ADNOC to Supply Gujarat Energy 4 MMtpa of LNG for 10 Years",
-          "summary": "'The agreement is ADNOC's fifth LNG supply agreement in India'.",
-          "date": "2026-11-06",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/adnoc_to_supply_gujarat_energy_4_mmtpa_of_lng_for_10_years-06-nov-2026-185025-article/?rss=true",
-          "relevant": true,
-          "region": "UAE"
-        },
-        {
           "title": "ADNOC agrees 10-year LNG supply deal with Gujarat Energy",
           "summary": "ADNOC has signed a 10-year sales and purchase agreement to supply GEL with up to four mt of liquefied natural gas (LNG) from 2028.",
           "date": "2026-11-06",
@@ -9083,6 +9083,15 @@
           "date": "2026-11-06",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/tii-naval-group-underwater-drones/",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
+          "title": "ADNOC to Supply Gujarat Energy 4 MMtpa of LNG for 10 Years",
+          "summary": "'The agreement is ADNOC's fifth LNG supply agreement in India'.",
+          "date": "2026-11-06",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/adnoc_to_supply_gujarat_energy_4_mmtpa_of_lng_for_10_years-06-nov-2026-185025-article/?rss=true",
           "relevant": true,
           "region": "UAE"
         },
