@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T18:01:14Z",
+  "last_updated": "2026-11-09T19:01:10Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -334,6 +334,14 @@
           "date": "2026-11-09",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/ades-contracts-ongc-jackup-rigs-india/",
+          "relevant": false
+        },
+        {
+          "title": "Saab to equip Swedish Luleå-class frigates with weapon, sensor systems",
+          "summary": "Saab has been contracted by France’s Naval Group to deliver and integrate combat-systems for four FDI frigates being built for Sweden. The post Saab to equip Swedish Luleå-class frigates with weapon, sensor systems…",
+          "date": "2026-11-09",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/saab-sweden-lulea-frigates/",
           "relevant": false
         },
         {
@@ -5120,6 +5128,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "IMO Warns of Mounting Human Toll as Attacks on Commercial Shipping Continue",
+          "summary": "The International Maritime Organization (IMO) is calling for stronger protections for merchant ships and their crews as continued attacks in the Middle East, Red Sea and Black Sea put seafarers...",
+          "date": "2026-11-09",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/imo-warns-of-mounting-human-toll-as-attacks-on-commercial-shipping-continue/",
+          "relevant": false
+        },
         {
           "title": "Russia Takes Control of Two Chinese Heavy-Lift Ships Used for Arctic LNG 2 Deliveries",
           "summary": "Russia has taken control of two modern heavy-lift carriers previously involved in transporting equipment for the sanctioned Arctic LNG 2 project, adding specialized project cargo vessels to an expanding network of…",
