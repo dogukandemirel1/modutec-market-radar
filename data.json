@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T21:01:11Z",
+  "last_updated": "2026-11-09T22:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -343,6 +343,14 @@
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/saab-sweden-lulea-frigates/",
           "relevant": false
+        },
+        {
+          "title": "ADNOC Drilling Awarded Two Offshore Jack-Up Rig Contracts",
+          "summary": "ADNOC Drilling Company PJSC announced that Kuwait Petroleum Corporation Higher Procurement Committee (KPCHPC) has approved the award to ADNOC Drilling of two separate…",
+          "date": "2026-11-09",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544246-adnoc-drilling-awarded-two-offshore-jack-up-rig-contracts",
+          "relevant": true
         },
         {
           "title": "DOF Nets Extension for Skandi Mariner AHTS",
