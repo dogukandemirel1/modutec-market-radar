@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T12:31:49Z",
+  "last_updated": "2026-11-10T13:01:12Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -262,6 +262,14 @@
           "date": "2026-11-10",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/qatar_lng_loadings_gain_pace-10-nov-2026-185047-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Harbour Energy Hires Elemental Energies for Viking CCS Expansion in North Sea",
+          "summary": "Elemental Energies has secured a two-year contract from Harbour Energy to provide subsurface and well engineering support for the expansion of the Viking carbon…",
+          "date": "2026-11-10",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544260-harbour-energy-hires-elemental-energies-for-viking-ccs-expansion-in-north-sea",
           "relevant": false
         },
         {
@@ -5145,6 +5153,14 @@
           "relevant": false
         },
         {
+          "title": "Ofgem names preferred bidder for Dogger Bank B offshore transmission assets",
+          "summary": "A consortium of Diamond Transmission UK (DTUK) and Japan’s Chubu Electric Power has been selected as the preferred bidder to acquire and operate...",
+          "date": "2026-11-10",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/10/ofgem-names-preferred-bidder-for-dogger-bank-b-offshore-transmission-assets",
+          "relevant": false
+        },
+        {
           "title": "Oil drops further as Trump eases Middle East conflict fears",
           "summary": "Crude oil benchmarks extended their decline on Tuesday after US President Donald Trump indicated he has no immediate plans to escalate military operations against Iran, tempering weeks of anxiety over Middle East supply…",
           "date": "2026-11-10",
@@ -9080,15 +9096,6 @@
           "region": "UAE"
         },
         {
-          "title": "Prime Energy achieves first gas at Malampaya Phase 4 in Philippines",
-          "summary": "Prime Energy has started producing gas from its Malampaya Phase 4 project offshore the Philippines, bringing output from two new wells into the existing production system.",
-          "date": "2026-11-06",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/prime-energy-first-gas-malampaya-phase-4/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "TII and Naval Group explore joint development of underwater drones",
           "summary": "Naval Group has signed a cooperation agreement with Abu Dhabi’s Technology Innovation Institute (TII), aimed at accelerating the “joint development” of autonomous underwater vehicles. The post TII and Naval Group…",
           "date": "2026-11-06",
@@ -9096,6 +9103,15 @@
           "source_url": "https://www.naval-technology.com/news/tii-naval-group-underwater-drones/",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "Prime Energy achieves first gas at Malampaya Phase 4 in Philippines",
+          "summary": "Prime Energy has started producing gas from its Malampaya Phase 4 project offshore the Philippines, bringing output from two new wells into the existing production system.",
+          "date": "2026-11-06",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/prime-energy-first-gas-malampaya-phase-4/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "ADNOC to Supply Gujarat Energy 4 MMtpa of LNG for 10 Years",
