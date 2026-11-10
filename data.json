@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T07:01:11Z",
+  "last_updated": "2026-11-10T08:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8,6 +8,14 @@
       "short_title": "Day-Rates",
       "description": "Benchmark day-rate trends for jackups, floaters and offshore support vessels across key regions.",
       "items": [
+        {
+          "title": "Odfjell Drilling seals $518m semisub deal",
+          "summary": "Norwegian offshore rig owner Odfjell Drilling has formally signed a three-year contract with Vår Energi for its harsh-environment semisubmersible Deepsea Bergen, worth an estimated $518m. The agreement follows a letter…",
+          "date": "2026-11-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/odfjell-drilling-seals-518m-semisub-deal/",
+          "relevant": false
+        },
         {
           "title": "Well-Safe Defender completes three-well P&A campaign off UK",
           "summary": "Well-Safe Solutions completed a three-well plug and abandonment (P&A) campaign with its Well-Safe Defender semisubmersible, decommissioning one subsea well West of Shetland and two in the northern North Sea. After…",
@@ -219,33 +227,17 @@
         {
           "title": "COSCO unveils massive supertanker fleet push",
           "summary": "Chinese tanker giant COSCO Shipping Energy Transportation has unveiled a sweeping fleet expansion involving 24 VLCC newbuildings, signing contracts worth RMB9.48bn ($1.42bn) for ten supertankers and lining up another 14…",
-          "date": "2026-11-09",
+          "date": "2026-11-10",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/cosco-unveils-massive-supertanker-fleet-push/",
           "relevant": false
         },
         {
-          "title": "PowerChina picks up trio of offshore wind contracts",
-          "summary": "PowerChina’s East China Engineering Institute has secured three offshore wind survey and engineering design contracts in China worth a combined RMB124.23m ($17.5m). The awards cover the 308MW China Resources Xiangshui…",
-          "date": "2026-11-09",
+          "title": "Cable tender dispute lands Reach Subsea in court",
+          "summary": "Norwegian subsea services player Reach Subsea is facing a compensation claim of up to NOK158.5m ($16m), plus interest, from state-owned electricity transmission operator Statnett following a dispute over a cable…",
+          "date": "2026-11-10",
           "source_name": "Splash247",
-          "source_url": "https://splash247.com/powerchina-picks-up-trio-of-offshore-wind-contracts/",
-          "relevant": false
-        },
-        {
-          "title": "Sinopec awards offshore platform and pipeline contract in China",
-          "summary": "Chinese energy giant Sinopec has awarded an engineering, procurement and construction contract for the Weizhou oilfield expansion in the Beibu Gulf, involving a new offshore processing platform, subsea pipelines, and…",
-          "date": "2026-11-09",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/sinopec-awards-offshore-platform-and-pipeline-contract-in-china/",
-          "relevant": false
-        },
-        {
-          "title": "DOF wins more AHTS work offshore Canada",
-          "summary": "Norwegian offshore vessel owner DOF has secured a contract extension for its anchor handling tug supply (AHTS) vessel Skandi Mariner, which is working offshore Canada. The company said an option under the vessel’s…",
-          "date": "2026-11-09",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/dof-wins-more-ahts-work-offshore-canada/",
+          "source_url": "https://splash247.com/cable-tender-dispute-lands-reach-subsea-in-court/",
           "relevant": false
         },
         {
@@ -302,14 +294,6 @@
           "date": "2026-11-09",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/safran-and-msi-ds-partner-on-next-gen-counter-drone-naval-turrets/",
-          "relevant": false
-        },
-        {
-          "title": "VIKING to build seven high-speed patrol vessels for the Hellenic Coast Guard",
-          "summary": "VIKING Life-Saving Equipment has signed a €23.8 million contract, through its Greek company VIKING Life-Saving Equipment Hellas, to supply seven new high-speed patrol vessels to the Hellenic Coast Guard. Viking press…",
-          "date": "2026-11-09",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/viking-to-build-seven-high-speed-patrol-vessels-for-the-hellenic-coast-guard/",
           "relevant": false
         },
         {
@@ -390,6 +374,38 @@
           "date": "2026-11-09",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544212-ades-lands-117m-ongc-drilling-contracts-for-two-jack-ups",
+          "relevant": false
+        },
+        {
+          "title": "PowerChina picks up trio of offshore wind contracts",
+          "summary": "PowerChina’s East China Engineering Institute has secured three offshore wind survey and engineering design contracts in China worth a combined RMB124.23m ($17.5m). The awards cover the 308MW China Resources Xiangshui…",
+          "date": "2026-11-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/powerchina-picks-up-trio-of-offshore-wind-contracts/",
+          "relevant": false
+        },
+        {
+          "title": "Sinopec awards offshore platform and pipeline contract in China",
+          "summary": "Chinese energy giant Sinopec has awarded an engineering, procurement and construction contract for the Weizhou oilfield expansion in the Beibu Gulf, involving a new offshore processing platform, subsea pipelines, and…",
+          "date": "2026-11-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/sinopec-awards-offshore-platform-and-pipeline-contract-in-china/",
+          "relevant": false
+        },
+        {
+          "title": "DOF wins more AHTS work offshore Canada",
+          "summary": "Norwegian offshore vessel owner DOF has secured a contract extension for its anchor handling tug supply (AHTS) vessel Skandi Mariner, which is working offshore Canada. The company said an option under the vessel’s…",
+          "date": "2026-11-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/dof-wins-more-ahts-work-offshore-canada/",
+          "relevant": false
+        },
+        {
+          "title": "VIKING to build seven high-speed patrol vessels for the Hellenic Coast Guard",
+          "summary": "VIKING Life-Saving Equipment has signed a €23.8 million contract, through its Greek company VIKING Life-Saving Equipment Hellas, to supply seven new high-speed patrol vessels to the Hellenic Coast Guard. Viking press…",
+          "date": "2026-11-09",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/viking-to-build-seven-high-speed-patrol-vessels-for-the-hellenic-coast-guard/",
           "relevant": false
         },
         {
@@ -5041,6 +5057,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Splash Crew launches to put seafarers at the heart of maritime news",
+          "summary": "Splash Maritime Group has unveiled Splash Crew, its latest specialist news platform, with the ambition of becoming essential daily reading for seafarers, crewing professionals, shipmanagers, regulators and maritime…",
+          "date": "2026-11-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/splash-crew-launches-to-put-seafarers-at-the-heart-of-maritime-news/",
+          "relevant": false
+        },
+        {
           "title": "South Korea clears Sinar Mas takeover of Hyundai LNG Shipping",
           "summary": "South Korea has given conditional approval for the sale of Hyundai LNG Shipping to Indonesia’s Sinar Mas Group, removing the final regulatory hurdle in a deal that has been held up for months by national energy security…",
           "date": "2026-11-10",
@@ -5078,14 +5102,6 @@
           "date": "2026-11-09",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/russia-says-it-hit-three-cargo-ships-in-black-sea/",
-          "relevant": false
-        },
-        {
-          "title": "Splash Crew launches to put seafarers at the heart of maritime news",
-          "summary": "Splash Maritime Group has unveiled Splash Crew, its latest specialist news platform, with the ambition of becoming essential daily reading for seafarers, crewing professionals, shipmanagers, regulators and maritime…",
-          "date": "2026-11-09",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/splash-crew-launches-to-put-seafarers-at-the-heart-of-maritime-news/",
           "relevant": false
         },
         {
@@ -7529,6 +7545,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Seagems PLSV lined up for Petrobras work from 2028",
+          "summary": "Paratus Energy Services has confirmed that Petrobras has accepted a bid from its Seagems joint venture for the pipelay support vessel (PLSV) Jade, bringing the vessel closer to securing employment in Brazil from 2028…",
+          "date": "2026-11-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/seagems-plsv-lined-up-for-petrobras-work-from-2028/",
+          "relevant": false
+        },
+        {
           "title": "QatarEnergy buying 25% interest in Namibian offshore exploration license from Chevron",
           "summary": "Qatar’s state-owned oil & gas firm QatarEnergy has entered into an agreement with Chevron's Namibian subsidiary for the acquisition of a...",
           "date": "2026-11-09",
@@ -8817,15 +8841,6 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "RCL adds $213m boxship pair to growing orderbook",
-          "summary": "Thailand’s Regional Container Lines (RCL) has added another two neo-panamax containerships to its expanding newbuilding programme, committing around $213m for a pair of 9,200 teu vessels. The Bangkok-listed carrier has…",
-          "date": "2026-11-09",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/rcl-adds-213m-boxship-pair-to-growing-orderbook/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Lion spuds Bula Karang-1 exploration well onshore Seram Island",
           "summary": "Lion Energy spudded the Bula Karang-1 exploration well in the East Seram PSC in Indonesia on 9 November. Lion operates the block with a 45% working interest, and OPIC holds the remaining 55%. Silver City Drilling Rig 20…",
           "date": "2026-11-09",
@@ -8869,6 +8884,15 @@
           "source_url": "https://www.oedigital.com/news/544215-aramco-s-building-in-riyadh-damaged-by-houthi-attack",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "RCL adds $213m boxship pair to growing orderbook",
+          "summary": "Thailand’s Regional Container Lines (RCL) has added another two neo-panamax containerships to its expanding newbuilding programme, committing around $213m for a pair of 9,200 teu vessels. The Bangkok-listed carrier has…",
+          "date": "2026-11-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/rcl-adds-213m-boxship-pair-to-growing-orderbook/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Khalid Hashim set to pass the baton at Precious Shipping",
