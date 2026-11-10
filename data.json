@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T11:01:07Z",
+  "last_updated": "2026-11-10T12:01:10Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -249,14 +249,6 @@
           "relevant": false
         },
         {
-          "title": "COSCO unveils massive supertanker fleet push",
-          "summary": "Chinese tanker giant COSCO Shipping Energy Transportation has unveiled a sweeping fleet expansion involving 24 VLCC newbuildings, signing contracts worth RMB9.48bn ($1.42bn) for ten supertankers and lining up another 14…",
-          "date": "2026-11-10",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/cosco-unveils-massive-supertanker-fleet-push/",
-          "relevant": false
-        },
-        {
           "title": "Energean selects Swedish firm for post-decommissioning surveys in UK",
           "summary": "Swedish offshore survey company Njord Survey has won a contract with UK-based oil & gas player Energean for the provision of post-decommissioning...",
           "date": "2026-11-10",
@@ -294,6 +286,14 @@
           "date": "2026-11-10",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544248-finland-to-auction-four-offshore-wind-areas-starting-in-2027",
+          "relevant": false
+        },
+        {
+          "title": "COSCO unveils massive supertanker fleet push",
+          "summary": "Chinese tanker giant COSCO Shipping Energy Transportation has unveiled a sweeping fleet expansion involving 24 VLCC newbuildings, signing contracts worth RMB9.48bn ($1.42bn) for ten supertankers and lining up another 14…",
+          "date": "2026-11-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/cosco-unveils-massive-supertanker-fleet-push/",
           "relevant": false
         },
         {
@@ -5129,6 +5129,14 @@
           "relevant": false
         },
         {
+          "title": "Oil drops further as Trump eases Middle East conflict fears",
+          "summary": "Crude oil benchmarks extended their decline on Tuesday after US President Donald Trump indicated he has no immediate plans to escalate military operations against Iran, tempering weeks of anxiety over Middle East supply…",
+          "date": "2026-11-10",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/oil-drops-trump-eases-middle-east-conflict/",
+          "relevant": false
+        },
+        {
           "title": "Ofgem Selects Consortium for Dogger Bank B Offshore Transmission Assets",
           "summary": "A consortium comprising Diamond Transmission UK (DTUK) and Chubu Electric Power has been selected as the preferred bidder for offshore electricity transmission assets valued at approximately $1…",
           "date": "2026-11-10",
@@ -8926,6 +8934,15 @@
           "date": "2026-11-10",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/10/dollar3136-million-deal-takes-adnoc-drillings-rig-duo-beyond-uae-waters-to-kuwait",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
+          "title": "AIQ, Quartermaster Join Forces on AI-Powered Offshore Security",
+          "summary": "Abu Dhabi-based industrial AI company AIQ and US maritime intelligence firm Quartermaster have signed a strategic collaboration agreement to explore AI-enabled maritime…",
+          "date": "2026-11-10",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544257-aiq-quartermaster-join-forces-on-ai-powered-offshore-security",
           "relevant": true,
           "region": "UAE"
         },
