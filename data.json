@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T08:01:06Z",
+  "last_updated": "2026-11-10T09:01:11Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -230,6 +230,14 @@
           "date": "2026-11-10",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/cosco-unveils-massive-supertanker-fleet-push/",
+          "relevant": false
+        },
+        {
+          "title": "Finland to Auction Four Offshore Wind Areas Starting in 2027",
+          "summary": "Finland will put four offshore wind areas in the Nordic country's exclusive economic zone out to tender, with the first auction possible in early 2027, the government said in a statement on Thursday…",
+          "date": "2026-11-10",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544248-finland-to-auction-four-offshore-wind-areas-starting-in-2027",
           "relevant": false
         },
         {
@@ -8841,6 +8849,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "RCL adds $213m boxship pair to growing orderbook",
+          "summary": "Thailand’s Regional Container Lines (RCL) has added another two neo-panamax containerships to its expanding newbuilding programme, committing around $213m for a pair of 9,200 teu vessels. The Bangkok-listed carrier has…",
+          "date": "2026-11-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/rcl-adds-213m-boxship-pair-to-growing-orderbook/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Lion spuds Bula Karang-1 exploration well onshore Seram Island",
           "summary": "Lion Energy spudded the Bula Karang-1 exploration well in the East Seram PSC in Indonesia on 9 November. Lion operates the block with a 45% working interest, and OPIC holds the remaining 55%. Silver City Drilling Rig 20…",
           "date": "2026-11-09",
@@ -8884,15 +8901,6 @@
           "source_url": "https://www.oedigital.com/news/544215-aramco-s-building-in-riyadh-damaged-by-houthi-attack",
           "relevant": true,
           "region": "KSA"
-        },
-        {
-          "title": "RCL adds $213m boxship pair to growing orderbook",
-          "summary": "Thailand’s Regional Container Lines (RCL) has added another two neo-panamax containerships to its expanding newbuilding programme, committing around $213m for a pair of 9,200 teu vessels. The Bangkok-listed carrier has…",
-          "date": "2026-11-09",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/rcl-adds-213m-boxship-pair-to-growing-orderbook/",
-          "relevant": false,
-          "region": "SEA"
         },
         {
           "title": "Khalid Hashim set to pass the baton at Precious Shipping",
