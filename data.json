@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T10:01:08Z",
+  "last_updated": "2026-11-10T11:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -233,6 +233,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Energean taps Njord Survey for North Sea decom work",
+          "summary": "Swedish marine survey specialist Njord Survey has secured a contract from Energean to undertake post-decommissioning seabed surveys at three gas fields in the southern North Sea. The contract covers Wenlock, Garrow, and…",
+          "date": "2026-11-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/energean-taps-njord-survey-for-north-sea-decom-work/",
+          "relevant": false
+        },
+        {
           "title": "China Energy Engineering wins offshore wind EPC contract",
           "summary": "China Energy Engineering’s Guangdong Electric Power Design Institute has won an engineering, procurement, and construction (EPC) contract to deliver offshore electrical infrastructure for two wind farms totalling 800MW…",
           "date": "2026-11-10",
@@ -262,6 +270,14 @@
           "date": "2026-11-10",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/qatar_lng_loadings_gain_pace-10-nov-2026-185047-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Energean Picks Njord Survey for Post-Decom Seabed Checks at UK Gas Fields",
+          "summary": "Swedish offshore survey company Njord Survey has secured a contract from Energean UK to carry out post-decommissioning seabed surveys at the Wenlock, Garrow and…",
+          "date": "2026-11-10",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544252-energean-picks-njord-survey-for-post-decom-seabed-checks-at-uk-gas-fields",
           "relevant": false
         },
         {
@@ -5113,6 +5129,22 @@
           "relevant": false
         },
         {
+          "title": "Ofgem Selects Consortium for Dogger Bank B Offshore Transmission Assets",
+          "summary": "A consortium comprising Diamond Transmission UK (DTUK) and Chubu Electric Power has been selected as the preferred bidder for offshore electricity transmission assets valued at approximately $1…",
+          "date": "2026-11-10",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544255-ofgem-selects-consortium-for-dogger-bank-b-offshore-transmission-assets",
+          "relevant": false
+        },
+        {
+          "title": "Oil Prices Slide as Trump Signals Pause in Iran Strikes",
+          "summary": "Oil prices fell on Tuesday, extending losses from the previous session after US President Donald Trump downplayed the need for additional military action against Iran 'at this point…",
+          "date": "2026-11-10",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544249-oil-prices-slide-as-trump-signals-pause-in-iran-strikes",
+          "relevant": false
+        },
+        {
           "title": "South Korea clears Sinar Mas takeover of Hyundai LNG Shipping",
           "summary": "South Korea has given conditional approval for the sale of Hyundai LNG Shipping to Indonesia’s Sinar Mas Group, removing the final regulatory hurdle in a deal that has been held up for months by national energy security…",
           "date": "2026-11-10",
@@ -5127,14 +5159,6 @@
           "source_name": "Splash247",
           "source_url": "https://splash247.com/best-oasis-becomes-second-cash-buyer-to-secure-us-sanctions-clearance/",
           "relevant": true
-        },
-        {
-          "title": "Oil Prices Slide as Trump Signals Pause in Iran Strikes",
-          "summary": "Oil prices fell on Tuesday, extending losses from the previous session after US President Donald Trump downplayed the need for additional military action against Iran 'at this point…",
-          "date": "2026-11-10",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/544249-oil-prices-slide-as-trump-signals-pause-in-iran-strikes",
-          "relevant": false
         },
         {
           "title": "IMO Warns of Mounting Human Toll as Attacks on Commercial Shipping Continue",
@@ -8897,15 +8921,6 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "RCL adds $213m boxship pair to growing orderbook",
-          "summary": "Thailand’s Regional Container Lines (RCL) has added another two neo-panamax containerships to its expanding newbuilding programme, committing around $213m for a pair of 9,200 teu vessels. The Bangkok-listed carrier has…",
-          "date": "2026-11-10",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/rcl-adds-213m-boxship-pair-to-growing-orderbook/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "$313.6 million deal takes ADNOC Drilling’s rig duo beyond UAE waters to Kuwait",
           "summary": "ADNOC Drilling has lined up multimillion-dollar jobs for two jack-ups, marking its first offshore rig operations outside the UAE.",
           "date": "2026-11-10",
@@ -8913,6 +8928,15 @@
           "source_url": "https://www.offshore-energy.biz/2026/11/10/dollar3136-million-deal-takes-adnoc-drillings-rig-duo-beyond-uae-waters-to-kuwait",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "RCL adds $213m boxship pair to growing orderbook",
+          "summary": "Thailand’s Regional Container Lines (RCL) has added another two neo-panamax containerships to its expanding newbuilding programme, committing around $213m for a pair of 9,200 teu vessels. The Bangkok-listed carrier has…",
+          "date": "2026-11-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/rcl-adds-213m-boxship-pair-to-growing-orderbook/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Lion spuds Bula Karang-1 exploration well onshore Seram Island",
