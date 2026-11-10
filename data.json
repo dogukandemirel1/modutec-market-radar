@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T09:01:11Z",
+  "last_updated": "2026-11-10T10:01:08Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8,6 +8,14 @@
       "short_title": "Day-Rates",
       "description": "Benchmark day-rate trends for jackups, floaters and offshore support vessels across key regions.",
       "items": [
+        {
+          "title": "Tidewater Q3 Revenue Rises 5.3% as Offshore Vessel Day Rates Strengthen",
+          "summary": "Tidewater Inc. reported third-quarter 2026 revenue of $360.4 million, up 5.3% sequentially, as improving offshore support vessel (OSV) day rates and utilization supported earnings growth…",
+          "date": "2026-11-10",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544254-tidewater-q3-revenue-rises-5-3-as-offshore-vessel-day-rates-strengthen",
+          "relevant": false
+        },
         {
           "title": "Odfjell Drilling seals $518m semisub deal",
           "summary": "Norwegian offshore rig owner Odfjell Drilling has formally signed a three-year contract with Vår Energi for its harsh-environment semisubmersible Deepsea Bergen, worth an estimated $518m. The agreement follows a letter…",
@@ -225,11 +233,43 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "China Energy Engineering wins offshore wind EPC contract",
+          "summary": "China Energy Engineering’s Guangdong Electric Power Design Institute has won an engineering, procurement, and construction (EPC) contract to deliver offshore electrical infrastructure for two wind farms totalling 800MW…",
+          "date": "2026-11-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/china-energy-engineering-wins-offshore-wind-epc-contract/",
+          "relevant": false
+        },
+        {
           "title": "COSCO unveils massive supertanker fleet push",
           "summary": "Chinese tanker giant COSCO Shipping Energy Transportation has unveiled a sweeping fleet expansion involving 24 VLCC newbuildings, signing contracts worth RMB9.48bn ($1.42bn) for ten supertankers and lining up another 14…",
           "date": "2026-11-10",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/cosco-unveils-massive-supertanker-fleet-push/",
+          "relevant": false
+        },
+        {
+          "title": "Energean selects Swedish firm for post-decommissioning surveys in UK",
+          "summary": "Swedish offshore survey company Njord Survey has won a contract with UK-based oil & gas player Energean for the provision of post-decommissioning...",
+          "date": "2026-11-10",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/10/energean-selects-swedish-firm-for-post-decommissioning-surveys-in-uk",
+          "relevant": false
+        },
+        {
+          "title": "Qatar LNG Loadings Gain Pace",
+          "summary": "Liquefied natural gas loadings onto tankers from Qatar have picked up over the past few weeks, suggesting the major exporter is seeking to get more cargoes to the global market despite ongoing disruptions in the Strait…",
+          "date": "2026-11-10",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/qatar_lng_loadings_gain_pace-10-nov-2026-185047-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Odfjell Drilling Seals Three-Year Rig Deal with Vår Energi",
+          "summary": "Odfjell Drilling has formally signed a three-year drilling contract with Vår Energi for its Deepsea Bergen semi-submersible rig, securing firm employment for the unit until early 2031…",
+          "date": "2026-11-10",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544250-odfjell-drilling-seals-three-year-rig-deal-with-v-r-energi",
           "relevant": false
         },
         {
@@ -5089,6 +5129,14 @@
           "relevant": true
         },
         {
+          "title": "Oil Prices Slide as Trump Signals Pause in Iran Strikes",
+          "summary": "Oil prices fell on Tuesday, extending losses from the previous session after US President Donald Trump downplayed the need for additional military action against Iran 'at this point…",
+          "date": "2026-11-10",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544249-oil-prices-slide-as-trump-signals-pause-in-iran-strikes",
+          "relevant": false
+        },
+        {
           "title": "IMO Warns of Mounting Human Toll as Attacks on Commercial Shipping Continue",
           "summary": "The International Maritime Organization (IMO) is calling for stronger protections for merchant ships and their crews as continued attacks in the Middle East, Red Sea and Black Sea put seafarers...",
           "date": "2026-11-09",
@@ -8856,6 +8904,15 @@
           "source_url": "https://splash247.com/rcl-adds-213m-boxship-pair-to-growing-orderbook/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "$313.6 million deal takes ADNOC Drilling’s rig duo beyond UAE waters to Kuwait",
+          "summary": "ADNOC Drilling has lined up multimillion-dollar jobs for two jack-ups, marking its first offshore rig operations outside the UAE.",
+          "date": "2026-11-10",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/10/dollar3136-million-deal-takes-adnoc-drillings-rig-duo-beyond-uae-waters-to-kuwait",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Lion spuds Bula Karang-1 exploration well onshore Seram Island",
