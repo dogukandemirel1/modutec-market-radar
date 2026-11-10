@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T13:01:12Z",
+  "last_updated": "2026-11-10T14:01:09Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8,6 +8,14 @@
       "short_title": "Day-Rates",
       "description": "Benchmark day-rate trends for jackups, floaters and offshore support vessels across key regions.",
       "items": [
+        {
+          "title": "Vår Energi, Odfjell Drilling formalize three-year Deepsea Bergen deal",
+          "summary": "Odfjell Drilling signed an agreement with Vår Energi for the Deepsea Bergen, a CS 60 E harsh-environment semisubmersible built in 2019. The firm scope covers three years of work beginning in early 2028, after the rig…",
+          "date": "2026-11-10",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/var-energi-odfjell-drilling-formalize-three-year-deepsea-bergen-deal-80953",
+          "relevant": false
+        },
         {
           "title": "Tidewater Q3 Revenue Rises 5.3% as Offshore Vessel Day Rates Strengthen",
           "summary": "Tidewater Inc. reported third-quarter 2026 revenue of $360.4 million, up 5.3% sequentially, as improving offshore support vessel (OSV) day rates and utilization supported earnings growth…",
@@ -249,6 +257,38 @@
           "relevant": false
         },
         {
+          "title": "First offshore drilling campaign in Philippines in over a decade reaches first gas at Malampaya",
+          "summary": "Prime Energy, operator of Service Contract 38 (SC 38), delivered first gas from the Malampaya Phase 4 (MP4) project, bringing the Malampaya East-1 and Camago-3 wells into the existing Malampaya production system. The…",
+          "date": "2026-11-10",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/first-offshore-drilling-campaign-in-philippines-in-over-a-decade-reaches-first-gas-at-malampaya-80942",
+          "relevant": false
+        },
+        {
+          "title": "SNOC awards SLB expanded underbalanced coiled tubing drilling contract",
+          "summary": "Sharjah National Oil (SNOC) awarded SLB an expanded framework agreement for underbalanced coiled tubing drilling (UBCTD), signed on the sidelines of ADIPEC 2026. The new campaign, about twice the size of the first…",
+          "date": "2026-11-10",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/snoc-awards-slb-expanded-underbalanced-coiled-tubing-drilling-contract-80950",
+          "relevant": false
+        },
+        {
+          "title": "ADNOC Drilling wins two jackup contracts offshore Kuwait",
+          "summary": "ADNOC Drilling received letters of award from Kuwait Oil Company (KOC) for two high-specification jackup rigs to operate offshore Kuwait. The Kuwait Petroleum Corporation Higher Procurement Committee approved the two…",
+          "date": "2026-11-10",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/adnoc-drilling-wins-two-jackup-contracts-offshore-kuwait-80948",
+          "relevant": true
+        },
+        {
+          "title": "ARA Petroleum Tanzania signs rig for Ntorya-3 well",
+          "summary": "ARA Petroleum Tanzania (APT), operator of the Ruvuma PSA, signed a drilling rig contract for the Ntorya-3 (NT-3) well. Maurel & Prom has released the rig, which is due on site in mid-December 2026. NT-3 is expected to…",
+          "date": "2026-11-10",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/ara-petroleum-tanzania-signs-rig-for-ntorya-3-well-80945",
+          "relevant": false
+        },
+        {
           "title": "Energean selects Swedish firm for post-decommissioning surveys in UK",
           "summary": "Swedish offshore survey company Njord Survey has won a contract with UK-based oil & gas player Energean for the provision of post-decommissioning...",
           "date": "2026-11-10",
@@ -263,6 +303,14 @@
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/qatar_lng_loadings_gain_pace-10-nov-2026-185047-article/?rss=true",
           "relevant": false
+        },
+        {
+          "title": "HPR Secures Taiwan Offshore Wind Deal After High-Current ROV Trials",
+          "summary": "Aberdeen-based High Performance Robotics (HPR) has secured its first commercial contract in Taiwan, deploying its subsea robotic technology and personnel to support IOG on an offshore wind project…",
+          "date": "2026-11-10",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544262-hpr-secures-taiwan-offshore-wind-deal-after-high-current-rov-trials",
+          "relevant": true
         },
         {
           "title": "Harbour Energy Hires Elemental Energies for Viking CCS Expansion in North Sea",
@@ -377,14 +425,6 @@
           "relevant": false
         },
         {
-          "title": "Safran and MSI-DS Partner on Next-Gen Counter-Drone Naval Turrets",
-          "summary": "Safran and MSI-Defence Systems highlighted their new counter-drone turret partnership at Euronaval 2026, securing a C-UAS contract for a European NATO navy. The post Safran and MSI-DS Partner on Next-Gen Counter-Drone…",
-          "date": "2026-11-09",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/safran-and-msi-ds-partner-on-next-gen-counter-drone-naval-turrets/",
-          "relevant": false
-        },
-        {
           "title": "Heerema renews Fugro deal for offshore survey and positioning services",
           "summary": "Heerema Marine Contractors has extended its global framework agreement with Fugro for another four years. The agreement covers the provision of...",
           "date": "2026-11-09",
@@ -423,6 +463,14 @@
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544246-adnoc-drilling-awarded-two-offshore-jack-up-rig-contracts",
           "relevant": true
+        },
+        {
+          "title": "Safran and MSI-DS Partner on Next-Gen Counter-Drone Naval Turrets",
+          "summary": "Safran and MSI-Defence Systems highlighted their new counter-drone turret partnership at Euronaval 2026, securing a C-UAS contract for a European NATO navy. The post Safran and MSI-DS Partner on Next-Gen Counter-Drone…",
+          "date": "2026-11-09",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/safran-and-msi-ds-partner-on-next-gen-counter-drone-naval-turrets/",
+          "relevant": false
         },
         {
           "title": "DOF Nets Extension for Skandi Mariner AHTS",
@@ -537,14 +585,6 @@
           "relevant": false
         },
         {
-          "title": "Georgina orders Cactus wellheads, calls Ensign 970 rig to Hussar",
-          "summary": "Georgina Energy placed an order with Cactus Wellhead for wellhead equipment for its planned drilling program at the Hussar prospect in EP513, onshore Western Australia, and notified Ensign to mobilize the contracted…",
-          "date": "2026-11-06",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/georgina-orders-cactus-wellheads-calls-ensign-970-rig-to-hussar-80866",
-          "relevant": false
-        },
-        {
           "title": "Tubular package provider selected for first commercial gas project off Cyprus",
           "summary": "Luxembourg-headquartered Tenaris has secured contracts to supply oil country tubular goods (OCTG), line pipe and coating services for Cyprus's...",
           "date": "2026-11-06",
@@ -582,6 +622,14 @@
           "date": "2026-11-06",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/06/fugro-nets-multi-year-offshore-wind-contract-in-germany",
+          "relevant": false
+        },
+        {
+          "title": "Georgina orders Cactus wellheads, calls Ensign 970 rig to Hussar",
+          "summary": "Georgina Energy placed an order with Cactus Wellhead for wellhead equipment for its planned drilling program at the Hussar prospect in EP513, onshore Western Australia, and notified Ensign to mobilize the contracted…",
+          "date": "2026-11-06",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/georgina-orders-cactus-wellheads-calls-ensign-970-rig-to-hussar-80866",
           "relevant": false
         },
         {
@@ -8960,6 +9008,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "First oil from Southeast Asian offshore project flows sooner than expected",
+          "summary": "The start of production from an offshore platform at an oil field in Vietnamese waters comes 36 days ahead of schedule.",
+          "date": "2026-11-10",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/10/first-oil-from-southeast-asian-offshore-project-flows-sooner-than-expected",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "$313.6 million deal takes ADNOC Drilling’s rig duo beyond UAE waters to Kuwait",
           "summary": "ADNOC Drilling has lined up multimillion-dollar jobs for two jack-ups, marking its first offshore rig operations outside the UAE.",
