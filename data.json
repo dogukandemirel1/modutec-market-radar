@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T14:01:09Z",
+  "last_updated": "2026-11-10T15:01:11Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -241,6 +241,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Qatar LNG Loadings Pick Up to Around Half of Pre-War Levels",
+          "summary": "Liquefied natural gas loadings onto tankers from Qatar have picked up over the past few weeks, suggesting the major exporter is seeking to get more cargoes to the global market despite ongoing disruptions in the Strait…",
+          "date": "2026-11-10",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/qatar-lng-loadings-pick-up-to-around-half-of-pre-war-levels/",
+          "relevant": false
+        },
+        {
           "title": "Energean taps Njord Survey for North Sea decom work",
           "summary": "Swedish marine survey specialist Njord Survey has secured a contract from Energean to undertake post-decommissioning seabed surveys at three gas fields in the southern North Sea. The contract covers Wenlock, Garrow, and…",
           "date": "2026-11-10",
@@ -254,6 +262,14 @@
           "date": "2026-11-10",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/china-energy-engineering-wins-offshore-wind-epc-contract/",
+          "relevant": false
+        },
+        {
+          "title": "McKinsey: AI is forcing a rethink of drilling contracts, from who owns the data to who gets the upside",
+          "summary": "By Stephen Whitfield, Senior Editor At the 2026 IADC Contracts & Risk Management Conference in Houston on 6 October, Bill Ambrose, Partner at McKinsey & Company, asked the audience if they had used AI in the past 48…",
+          "date": "2026-11-10",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/mckinsey-ai-is-forcing-a-rethink-of-drilling-contracts-from-who-owns-the-data-to-who-gets-the-upside-80922",
           "relevant": false
         },
         {
@@ -286,6 +302,14 @@
           "date": "2026-11-10",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/ara-petroleum-tanzania-signs-rig-for-ntorya-3-well-80945",
+          "relevant": false
+        },
+        {
+          "title": "Multi-license awards open Eastern Mediterranean doors for Murphy Oil",
+          "summary": "Murphy Oil has made its first foray into the Eastern Mediterranean by securing six offshore exploration licenses close to a giant gas field.",
+          "date": "2026-11-10",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/10/multi-license-awards-open-eastern-mediterranean-doors-for-murphy-oil",
           "relevant": false
         },
         {
@@ -329,14 +353,6 @@
           "relevant": false
         },
         {
-          "title": "UK's Endurance CCS Project Expands Seabed Seismic Monitoring Ops",
-          "summary": "The Northern Endurance Partnership (NEP) has expanded its offshore monitoring program for the Endurance CO2 storage project in the UK North Sea, awarding Sonardyne…",
-          "date": "2026-11-10",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/544258-uk-s-endurance-ccs-project-expands-seabed-seismic-monitoring-ops",
-          "relevant": false
-        },
-        {
           "title": "Energean Picks Njord Survey for Post-Decom Seabed Checks at UK Gas Fields",
           "summary": "Swedish offshore survey company Njord Survey has secured a contract from Energean UK to carry out post-decommissioning seabed surveys at the Wenlock, Garrow and…",
           "date": "2026-11-10",
@@ -358,6 +374,14 @@
           "date": "2026-11-10",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544248-finland-to-auction-four-offshore-wind-areas-starting-in-2027",
+          "relevant": false
+        },
+        {
+          "title": "UK's Endurance CCS Project Expands Seabed Seismic Monitoring Ops",
+          "summary": "The Northern Endurance Partnership (NEP) has expanded its offshore monitoring program for the Endurance CO2 storage project in the UK North Sea, awarding Sonardyne…",
+          "date": "2026-11-10",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544258-uk-s-endurance-ccs-project-expands-seabed-seismic-monitoring-ops",
           "relevant": false
         },
         {
@@ -398,14 +422,6 @@
           "date": "2026-11-09",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/ocean-oilfield-wins-tunisia-contract-for-ocean-mvm-jackup-80919",
-          "relevant": false
-        },
-        {
-          "title": "ADES extends India presence with two-rig ONGC award",
-          "summary": "ADES Holding secured contracts from Oil and Natural Gas Corp. (ONGC) for two standard jackups in India, the Key Singapore and the Admarine 10. Each rig received a three-year firm term. Both rigs are due to finish their…",
-          "date": "2026-11-09",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/ades-extends-india-presence-with-two-rig-ongc-award-80916",
           "relevant": false
         },
         {
@@ -463,6 +479,14 @@
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544246-adnoc-drilling-awarded-two-offshore-jack-up-rig-contracts",
           "relevant": true
+        },
+        {
+          "title": "ADES extends India presence with two-rig ONGC award",
+          "summary": "ADES Holding secured contracts from Oil and Natural Gas Corp. (ONGC) for two standard jackups in India, the Key Singapore and the Admarine 10. Each rig received a three-year firm term. Both rigs are due to finish their…",
+          "date": "2026-11-09",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/ades-extends-india-presence-with-two-rig-ongc-award-80916",
+          "relevant": false
         },
         {
           "title": "Safran and MSI-DS Partner on Next-Gen Counter-Drone Naval Turrets",
@@ -5201,6 +5225,14 @@
           "relevant": false
         },
         {
+          "title": "Patterson-UTI Digital Series, Part 2: Machine learning meets the rig through automation feedback loop",
+          "summary": "DC recently spoke with Alex Groh, Patterson-UTI Senior Manager – Data Science, about how the PTEN Digital Performance Center monitors automation products in the field and relay lessons learned to design teams. In turn…",
+          "date": "2026-11-10",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/patterson-uti-digital-series-part-2-machine-learning-meets-the-rig-through-automation-feedback-loop-80824",
+          "relevant": false
+        },
+        {
           "title": "Ofgem names preferred bidder for Dogger Bank B offshore transmission assets",
           "summary": "A consortium of Diamond Transmission UK (DTUK) and Japan’s Chubu Electric Power has been selected as the preferred bidder to acquire and operate...",
           "date": "2026-11-10",
@@ -5265,6 +5297,14 @@
           "relevant": false
         },
         {
+          "title": "Oil prices fall as Trump signals no immediate strikes on Iran",
+          "summary": "Oil prices declined on Monday, 9 November, following comments from US President Donald Trump that suggested a reduced probability of further military action against Iran, reported Reuters.",
+          "date": "2026-11-09",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/oil-prices-fall-trump-no-strikes-iran/",
+          "relevant": false
+        },
+        {
           "title": "Russia Says It Hit Three Cargo Ships In Black Sea",
           "summary": "MOSCOW, Nov 8 (Reuters) – Russia said on Sunday overnight strikes by its forces had hit three cargo vessels that were carrying military goods for Ukraine and two electricity substations, which it said supplied...",
           "date": "2026-11-09",
@@ -5278,14 +5318,6 @@
           "date": "2026-11-09",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/11/kongsberg-maritime-launches-arctic-hunter-usv-for-the-hybrid-navy/",
-          "relevant": false
-        },
-        {
-          "title": "Oil prices fall as Trump signals no immediate strikes on Iran",
-          "summary": "Oil prices declined on Monday, 9 November, following comments from US President Donald Trump that suggested a reduced probability of further military action against Iran, reported Reuters.",
-          "date": "2026-11-09",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/oil-prices-fall-trump-no-strikes-iran/",
           "relevant": false
         },
         {
@@ -9054,15 +9086,6 @@
           "region": "SEA"
         },
         {
-          "title": "Lion spuds Bula Karang-1 exploration well onshore Seram Island",
-          "summary": "Lion Energy spudded the Bula Karang-1 exploration well in the East Seram PSC in Indonesia on 9 November. Lion operates the block with a 45% working interest, and OPIC holds the remaining 55%. Silver City Drilling Rig 20…",
-          "date": "2026-11-09",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/lion-spuds-bula-karang-1-exploration-well-onshore-seram-island-80914",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Aramco Tower Targeted",
           "summary": "A Houthi attack damaged one of the landmarks of the Saudi Arabian capital's financial district.",
           "date": "2026-11-09",
@@ -9088,6 +9111,15 @@
           "source_url": "https://www.offshore-technology.com/news/adnoc-gas-snoc-uae-gas-projects/",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "Lion spuds Bula Karang-1 exploration well onshore Seram Island",
+          "summary": "Lion Energy spudded the Bula Karang-1 exploration well in the East Seram PSC in Indonesia on 9 November. Lion operates the block with a 45% working interest, and OPIC holds the remaining 55%. Silver City Drilling Rig 20…",
+          "date": "2026-11-09",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/lion-spuds-bula-karang-1-exploration-well-onshore-seram-island-80914",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Aramco’s Building in Riyadh Damaged by Houthi Attack",
