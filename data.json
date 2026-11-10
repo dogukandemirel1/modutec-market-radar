@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T20:01:12Z",
+  "last_updated": "2026-11-10T21:01:09Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -240,6 +240,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "U.S. Closes First Oil and Gas Production Loan Under Revamped Energy Financing Program",
+          "summary": "The U.S. Department of Energy has closed a $480 million loan to modernize 22 offshore platforms in the Gulf of Mexico, marking the department’s first completed loan financing domestic oil...",
+          "date": "2026-11-10",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/u-s-closes-first-oil-and-gas-production-loan-under-revamped-energy-financing-program/",
+          "relevant": false
+        },
         {
           "title": "VIKING wins €23.8 million contract to build seven high-speed patrol vessels for the Hellenic Coast Guard",
           "summary": "Seven VIKING Norsafe Magnar 1950 vessels to be built entirely in Greece, with an option for another seven. VIKING Life-Saving Equipment has signed a €23.8 million contract, through its Greek...",
@@ -5225,6 +5233,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "‘Nonsense Rate’: Iran War Exposes Turmoil Behind Key Tanker Benchmark",
+          "summary": "In March this year, inside a 282-year-old institution responsible for one of the most important prices in global oil markets, one man staged a quiet protest.",
+          "date": "2026-11-10",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/nonsense-rate-iran-war-exposes-turmoil-behind-key-tanker-benchmark/",
+          "relevant": false
+        },
+        {
           "title": "Rubico targets five-ship MR fleet with latest Top Ships newbuild swoop",
           "summary": "Nasdaq-listed Rubico has struck a deal to take another two MR tanker newbuildings from Top Ships in a $14.5m deal, continuing the reshuffle of Evangelos Pistiolis-linked tanker orders in China. The Athens-based owner is…",
           "date": "2026-11-10",
@@ -5313,19 +5329,19 @@
           "relevant": true
         },
         {
-          "title": "IMO Warns of Mounting Human Toll as Attacks on Commercial Shipping Continue",
-          "summary": "The International Maritime Organization (IMO) is calling for stronger protections for merchant ships and their crews as continued attacks in the Middle East, Red Sea and Black Sea put seafarers...",
-          "date": "2026-11-09",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/imo-warns-of-mounting-human-toll-as-attacks-on-commercial-shipping-continue/",
-          "relevant": false
-        },
-        {
           "title": "Oil prices fall as Trump signals no immediate strikes on Iran",
           "summary": "Oil prices declined on Monday, 9 November, following comments from US President Donald Trump that suggested a reduced probability of further military action against Iran, reported Reuters.",
           "date": "2026-11-09",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/oil-prices-fall-trump-no-strikes-iran/",
+          "relevant": false
+        },
+        {
+          "title": "IMO Warns of Mounting Human Toll as Attacks on Commercial Shipping Continue",
+          "summary": "The International Maritime Organization (IMO) is calling for stronger protections for merchant ships and their crews as continued attacks in the Middle East, Red Sea and Black Sea put seafarers...",
+          "date": "2026-11-09",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/imo-warns-of-mounting-human-toll-as-attacks-on-commercial-shipping-continue/",
           "relevant": false
         },
         {
