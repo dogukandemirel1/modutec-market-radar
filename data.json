@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T15:01:11Z",
+  "last_updated": "2026-11-10T16:01:12Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5233,11 +5233,27 @@
           "relevant": false
         },
         {
+          "title": "BAE Systems accelerates delivery of advanced LRASM missile sensors",
+          "summary": "BAE Systems accelerates the delivery of advanced RF sensors for the Long-Range Anti-Ship Missile (LRASM) to Lockheed Martin to meet U.S. military needs. BAE Systems press release BAE Systems has delivered all Lot 8…",
+          "date": "2026-11-10",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/bae-systems-accelerates-delivery-of-advanced-lrasm-missile-sensors/",
+          "relevant": false
+        },
+        {
           "title": "Ofgem names preferred bidder for Dogger Bank B offshore transmission assets",
           "summary": "A consortium of Diamond Transmission UK (DTUK) and Japan’s Chubu Electric Power has been selected as the preferred bidder to acquire and operate...",
           "date": "2026-11-10",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/10/ofgem-names-preferred-bidder-for-dogger-bank-b-offshore-transmission-assets",
+          "relevant": false
+        },
+        {
+          "title": "ORLEN Cites Foreign Operations as Profit Rises",
+          "summary": "Poland's majority state-owned ORLEN reported a 40 percent increase in revenue from foreign markets, saying expansion abroad has allowed it to pursue profitability while holding down its prices at home.",
+          "date": "2026-11-10",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/orlen_cites_foreign_operations_as_profit_rises-10-nov-2026-185051-article/?rss=true",
           "relevant": false
         },
         {
