@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T06:01:07Z",
+  "last_updated": "2026-11-10T07:01:11Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -249,22 +249,6 @@
           "relevant": false
         },
         {
-          "title": "A2B-online turns to China for methanol-ready boxship pair",
-          "summary": "Dutch shortsea container operator A2B-online has ordered two more methanol-capable vessels at China Merchants Industry Weihai Shipyard, doubling its fleet renewal programme to four ships. The latest contract marks a…",
-          "date": "2026-11-09",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/a2b-online-turns-to-china-for-methanol-ready-boxship-pair/",
-          "relevant": false
-        },
-        {
-          "title": "Tende Energy hires rig for drilling work offshore Tunisia",
-          "summary": "Offshore drilling contractor Ocean Oilfield has secured a contract from Tende Energy to deploy its Ocean MVM jackup rig for a drilling campaign offshore Tunisia. The rig will be used for the Abiod well programme on the…",
-          "date": "2026-11-09",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/tende-energy-hires-rig-for-drilling-work-offshore-tunisia/",
-          "relevant": false
-        },
-        {
           "title": "Nov26_McKinsey2",
           "summary": "The post Nov26_McKinsey2 appeared first on Drilling Contractor .",
           "date": "2026-11-09",
@@ -406,6 +390,22 @@
           "date": "2026-11-09",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544212-ades-lands-117m-ongc-drilling-contracts-for-two-jack-ups",
+          "relevant": false
+        },
+        {
+          "title": "A2B-online turns to China for methanol-ready boxship pair",
+          "summary": "Dutch shortsea container operator A2B-online has ordered two more methanol-capable vessels at China Merchants Industry Weihai Shipyard, doubling its fleet renewal programme to four ships. The latest contract marks a…",
+          "date": "2026-11-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/a2b-online-turns-to-china-for-methanol-ready-boxship-pair/",
+          "relevant": false
+        },
+        {
+          "title": "Tende Energy hires rig for drilling work offshore Tunisia",
+          "summary": "Offshore drilling contractor Ocean Oilfield has secured a contract from Tende Energy to deploy its Ocean MVM jackup rig for a drilling campaign offshore Tunisia. The rig will be used for the Abiod well programme on the…",
+          "date": "2026-11-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/tende-energy-hires-rig-for-drilling-work-offshore-tunisia/",
           "relevant": false
         },
         {
@@ -5041,6 +5041,22 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "South Korea clears Sinar Mas takeover of Hyundai LNG Shipping",
+          "summary": "South Korea has given conditional approval for the sale of Hyundai LNG Shipping to Indonesia’s Sinar Mas Group, removing the final regulatory hurdle in a deal that has been held up for months by national energy security…",
+          "date": "2026-11-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/south-korea-clears-sinar-mas-takeover-of-hyundai-lng-shipping/",
+          "relevant": false
+        },
+        {
+          "title": "Best Oasis becomes second cash buyer to secure US sanctions clearance",
+          "summary": "Dubai-based ship recycling cash buyer Best Oasis has secured authorisation from the US Treasury’s Office of Foreign Assets Control (OFAC) to negotiate deals involving sanctioned vessels, becoming the second company…",
+          "date": "2026-11-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/best-oasis-becomes-second-cash-buyer-to-secure-us-sanctions-clearance/",
+          "relevant": true
+        },
+        {
           "title": "IMO Warns of Mounting Human Toll as Attacks on Commercial Shipping Continue",
           "summary": "The International Maritime Organization (IMO) is calling for stronger protections for merchant ships and their crews as continued attacks in the Middle East, Red Sea and Black Sea put seafarers...",
           "date": "2026-11-09",
@@ -7513,14 +7529,6 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
-          "title": "Boluda buys Dutch offshore towage specialist",
-          "summary": "Spanish towage giant Boluda has acquired Dutch offshore towage and heavy transport specialist Muller Dordrecht, adding 16 tugs and eight barges to its growing global fleet. The takeover gives Boluda full ownership of…",
-          "date": "2026-11-09",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/boluda-buys-dutch-offshore-towage-specialist/",
-          "relevant": false
-        },
-        {
           "title": "QatarEnergy buying 25% interest in Namibian offshore exploration license from Chevron",
           "summary": "Qatar’s state-owned oil & gas firm QatarEnergy has entered into an agreement with Chevron's Namibian subsidiary for the acquisition of a...",
           "date": "2026-11-09",
@@ -7542,6 +7550,14 @@
           "date": "2026-11-09",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/qatarenergy_chevron_expand_exploration_partnership_offshore_namibia-09-nov-2026-185039-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Boluda buys Dutch offshore towage specialist",
+          "summary": "Spanish towage giant Boluda has acquired Dutch offshore towage and heavy transport specialist Muller Dordrecht, adding 16 tugs and eight barges to its growing global fleet. The takeover gives Boluda full ownership of…",
+          "date": "2026-11-09",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/boluda-buys-dutch-offshore-towage-specialist/",
           "relevant": false
         },
         {
