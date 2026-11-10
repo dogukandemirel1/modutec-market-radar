@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T22:01:09Z",
+  "last_updated": "2026-11-10T23:01:08Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -257,19 +257,19 @@
           "relevant": false
         },
         {
-          "title": "Qatar LNG Loadings Pick Up to Around Half of Pre-War Levels",
-          "summary": "Liquefied natural gas loadings onto tankers from Qatar have picked up over the past few weeks, suggesting the major exporter is seeking to get more cargoes to the global market despite ongoing disruptions in the Strait…",
-          "date": "2026-11-10",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/qatar-lng-loadings-pick-up-to-around-half-of-pre-war-levels/",
-          "relevant": false
-        },
-        {
           "title": "Energean taps Njord Survey for North Sea decom work",
           "summary": "Swedish marine survey specialist Njord Survey has secured a contract from Energean to undertake post-decommissioning seabed surveys at three gas fields in the southern North Sea. The contract covers Wenlock, Garrow, and…",
           "date": "2026-11-10",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/energean-taps-njord-survey-for-north-sea-decom-work/",
+          "relevant": false
+        },
+        {
+          "title": "Roddie Mackenzie named 2026 IADC Contractor of the Year",
+          "summary": "By Stephen Whitfield, Senior Editor Roddie Mackenzie, Executive VP and Chief Commercial Officer at Transocean and 2026 IADC Chairman, has named 2026 IADC Contractor of the Year. The annual award was established in 1988…",
+          "date": "2026-11-10",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/roddie-mackenzie-named-2026-iadc-contractor-of-the-year-80975",
           "relevant": false
         },
         {
@@ -385,6 +385,14 @@
           "relevant": false
         },
         {
+          "title": "Qatar LNG Loadings Pick Up to Around Half of Pre-War Levels",
+          "summary": "Liquefied natural gas loadings onto tankers from Qatar have picked up over the past few weeks, suggesting the major exporter is seeking to get more cargoes to the global market despite ongoing disruptions in the Strait…",
+          "date": "2026-11-10",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/qatar-lng-loadings-pick-up-to-around-half-of-pre-war-levels/",
+          "relevant": false
+        },
+        {
           "title": "China Energy Engineering wins offshore wind EPC contract",
           "summary": "China Energy Engineering’s Guangdong Electric Power Design Institute has won an engineering, procurement, and construction (EPC) contract to deliver offshore electrical infrastructure for two wind farms totalling 800MW…",
           "date": "2026-11-10",
@@ -425,30 +433,6 @@
           "relevant": false
         },
         {
-          "title": "Nov26_McKinsey1",
-          "summary": "The post Nov26_McKinsey1 appeared first on Drilling Contractor .",
-          "date": "2026-11-09",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/nov26_mckinsey1-80933",
-          "relevant": false
-        },
-        {
-          "title": "General Atomics Ranger UUV to Support Large Payloads, UAVs",
-          "summary": "At Euronaval 2026, General Atomics revealed its Ranger and GA-Ray long-range UUVs, built for multi-year missions and launching sub-drones and payloads. The post General Atomics Ranger UUV to Support Large Payloads, UAVs…",
-          "date": "2026-11-09",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/general-atomics-ranger-uuv-to-support-large-payloads-uavs/",
-          "relevant": false
-        },
-        {
-          "title": "MBDA on contract to study Aster 30 missile integration in MK 41 VLS",
-          "summary": "MBDA has received a UK MoD contract to examine the viability of integrating the Aster 30 surface-to-air missile with the Lockheed Martin MK 41 VLS The post MBDA on contract to study Aster 30 missile integration in MK 41…",
-          "date": "2026-11-09",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/mbda-on-contract-to-study-aster-30-missile-integration-in-mk-41-vls/",
-          "relevant": false
-        },
-        {
           "title": "Heerema renews Fugro deal for offshore survey and positioning services",
           "summary": "Heerema Marine Contractors has extended its global framework agreement with Fugro for another four years. The agreement covers the provision of...",
           "date": "2026-11-09",
@@ -478,6 +462,30 @@
           "date": "2026-11-09",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/saab-sweden-lulea-frigates/",
+          "relevant": false
+        },
+        {
+          "title": "Nov26_McKinsey1",
+          "summary": "The post Nov26_McKinsey1 appeared first on Drilling Contractor .",
+          "date": "2026-11-09",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/nov26_mckinsey1-80933",
+          "relevant": false
+        },
+        {
+          "title": "General Atomics Ranger UUV to Support Large Payloads, UAVs",
+          "summary": "At Euronaval 2026, General Atomics revealed its Ranger and GA-Ray long-range UUVs, built for multi-year missions and launching sub-drones and payloads. The post General Atomics Ranger UUV to Support Large Payloads, UAVs…",
+          "date": "2026-11-09",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/general-atomics-ranger-uuv-to-support-large-payloads-uavs/",
+          "relevant": false
+        },
+        {
+          "title": "MBDA on contract to study Aster 30 missile integration in MK 41 VLS",
+          "summary": "MBDA has received a UK MoD contract to examine the viability of integrating the Aster 30 surface-to-air missile with the Lockheed Martin MK 41 VLS The post MBDA on contract to study Aster 30 missile integration in MK 41…",
+          "date": "2026-11-09",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/mbda-on-contract-to-study-aster-30-missile-integration-in-mk-41-vls/",
           "relevant": false
         },
         {
@@ -5257,14 +5265,6 @@
           "relevant": false
         },
         {
-          "title": "BAE Systems accelerates delivery of advanced LRASM missile sensors",
-          "summary": "BAE Systems accelerates the delivery of advanced RF sensors for the Long-Range Anti-Ship Missile (LRASM) to Lockheed Martin to meet U.S. military needs. BAE Systems press release BAE Systems has delivered all Lot 8…",
-          "date": "2026-11-10",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/bae-systems-accelerates-delivery-of-advanced-lrasm-missile-sensors/",
-          "relevant": false
-        },
-        {
           "title": "Ofgem names preferred bidder for Dogger Bank B offshore transmission assets",
           "summary": "A consortium of Diamond Transmission UK (DTUK) and Japan’s Chubu Electric Power has been selected as the preferred bidder to acquire and operate...",
           "date": "2026-11-10",
@@ -5302,6 +5302,14 @@
           "date": "2026-11-10",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544249-oil-prices-slide-as-trump-signals-pause-in-iran-strikes",
+          "relevant": false
+        },
+        {
+          "title": "BAE Systems accelerates delivery of advanced LRASM missile sensors",
+          "summary": "BAE Systems accelerates the delivery of advanced RF sensors for the Long-Range Anti-Ship Missile (LRASM) to Lockheed Martin to meet U.S. military needs. BAE Systems press release BAE Systems has delivered all Lot 8…",
+          "date": "2026-11-10",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/bae-systems-accelerates-delivery-of-advanced-lrasm-missile-sensors/",
           "relevant": false
         },
         {
