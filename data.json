@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T12:01:10Z",
+  "last_updated": "2026-11-10T12:31:49Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -262,6 +262,22 @@
           "date": "2026-11-10",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/qatar_lng_loadings_gain_pace-10-nov-2026-185047-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Golar's New FLNG Unit to Feature Techouse Fuel-Saving Systems",
+          "summary": "Techouse has secured a contract from Black & Veatch to supply heat recovery steam generation (HRSG) modules for Golar LNG's fourth floating liquefied natural gas (FLNG) project…",
+          "date": "2026-11-10",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544259-golar-s-new-flng-unit-to-feature-techouse-fuel-saving-systems",
+          "relevant": false
+        },
+        {
+          "title": "UK's Endurance CCS Project Expands Seabed Seismic Monitoring Ops",
+          "summary": "The Northern Endurance Partnership (NEP) has expanded its offshore monitoring program for the Endurance CO2 storage project in the UK North Sea, awarding Sonardyne…",
+          "date": "2026-11-10",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544258-uk-s-endurance-ccs-project-expands-seabed-seismic-monitoring-ops",
           "relevant": false
         },
         {
@@ -8934,6 +8950,15 @@
           "date": "2026-11-10",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/10/dollar3136-million-deal-takes-adnoc-drillings-rig-duo-beyond-uae-waters-to-kuwait",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
+          "title": "ADNOC Gas Profit Flat YoY as Hormuz Continues to Weigh on Exports",
+          "summary": "The natural gas processing and sales arm of Abu Dhabi National Oil Co reported $1.34 billion in net profit for Q3, stable compared to the same three-month period in 2025 as high prices offset lower sales volumes.",
+          "date": "2026-11-10",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/adnoc_gas_profit_flat_yoy_as_hormuz_continues_to_weigh_on_exports-10-nov-2026-185049-article/?rss=true",
           "relevant": true,
           "region": "UAE"
         },
