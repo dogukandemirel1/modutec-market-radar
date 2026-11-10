@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T17:01:09Z",
+  "last_updated": "2026-11-10T18:01:09Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -265,14 +265,6 @@
           "relevant": false
         },
         {
-          "title": "China Energy Engineering wins offshore wind EPC contract",
-          "summary": "China Energy Engineering’s Guangdong Electric Power Design Institute has won an engineering, procurement, and construction (EPC) contract to deliver offshore electrical infrastructure for two wind farms totalling 800MW…",
-          "date": "2026-11-10",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/china-energy-engineering-wins-offshore-wind-epc-contract/",
-          "relevant": false
-        },
-        {
           "title": "McKinsey: AI is forcing a rethink of drilling contracts, from who owns the data to who gets the upside",
           "summary": "By Stephen Whitfield, Senior Editor At the 2026 IADC Contracts & Risk Management Conference in Houston on 6 October, Bill Ambrose, Partner at McKinsey & Company, asked the audience if they had used AI in the past 48…",
           "date": "2026-11-10",
@@ -382,6 +374,14 @@
           "date": "2026-11-10",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544248-finland-to-auction-four-offshore-wind-areas-starting-in-2027",
+          "relevant": false
+        },
+        {
+          "title": "China Energy Engineering wins offshore wind EPC contract",
+          "summary": "China Energy Engineering’s Guangdong Electric Power Design Institute has won an engineering, procurement, and construction (EPC) contract to deliver offshore electrical infrastructure for two wind farms totalling 800MW…",
+          "date": "2026-11-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/china-energy-engineering-wins-offshore-wind-epc-contract/",
           "relevant": false
         },
         {
@@ -5225,8 +5225,16 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Rubico targets five-ship MR fleet with latest Top Ships newbuild swoop",
+          "summary": "Nasdaq-listed Rubico has struck a deal to take another two MR tanker newbuildings from Top Ships in a $14.5m deal, continuing the reshuffle of Evangelos Pistiolis-linked tanker orders in China. The Athens-based owner is…",
+          "date": "2026-11-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/rubico-targets-five-ship-mr-fleet-with-latest-top-ships-newbuild-swoop/",
+          "relevant": false
+        },
+        {
           "title": "Patterson-UTI Digital Series, Part 2: Machine learning meets the rig through automation feedback loop",
-          "summary": "DC recently spoke with Alex Groh, Patterson-UTI Senior Manager – Data Science, about how the PTEN Digital Performance Center monitors automation products in the field and relay lessons learned to design teams. In turn…",
+          "summary": "DC recently spoke with Alex Groh, Patterson-UTI Senior Manager – Data Science, about how Patterson-UTI’s PTEN Digital Performance Center monitors automation products in the field and relay lessons learned to design…",
           "date": "2026-11-10",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/patterson-uti-digital-series-part-2-machine-learning-meets-the-rig-through-automation-feedback-loop-80824",
