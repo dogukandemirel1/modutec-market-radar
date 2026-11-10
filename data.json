@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T18:01:09Z",
+  "last_updated": "2026-11-10T19:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -425,14 +425,6 @@
           "relevant": false
         },
         {
-          "title": "Ocean Oilfield wins Tunisia contract for Ocean MVM jackup",
-          "summary": "Ocean Oilfield secured a contract from Tende Energy to deploy the jackup Ocean MVM on the Abiod well program on the Maamoura license in the Gulf of Hammamet offshore Tunisia. The contractor said it will work closely…",
-          "date": "2026-11-09",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/ocean-oilfield-wins-tunisia-contract-for-ocean-mvm-jackup-80919",
-          "relevant": false
-        },
-        {
           "title": "General Atomics Ranger UUV to Support Large Payloads, UAVs",
           "summary": "At Euronaval 2026, General Atomics revealed its Ranger and GA-Ray long-range UUVs, built for multi-year missions and launching sub-drones and payloads. The post General Atomics Ranger UUV to Support Large Payloads, UAVs…",
           "date": "2026-11-09",
@@ -478,6 +470,14 @@
           "date": "2026-11-09",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/saab-sweden-lulea-frigates/",
+          "relevant": false
+        },
+        {
+          "title": "Ocean Oilfield wins Tunisia contract for Ocean MVM jackup",
+          "summary": "Ocean Oilfield secured a contract from Tende Energy to deploy the jackup Ocean MVM on the Abiod well program on the Maamoura license in the Gulf of Hammamet offshore Tunisia. The contractor said it will work closely…",
+          "date": "2026-11-09",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/ocean-oilfield-wins-tunisia-contract-for-ocean-mvm-jackup-80919",
           "relevant": false
         },
         {
@@ -5234,7 +5234,7 @@
         },
         {
           "title": "Patterson-UTI Digital Series, Part 2: Machine learning meets the rig through automation feedback loop",
-          "summary": "DC recently spoke with Alex Groh, Patterson-UTI Senior Manager – Data Science, about how Patterson-UTI’s PTEN Digital Performance Center monitors automation products in the field and relay lessons learned to design…",
+          "summary": "DC recently spoke with Alex Groh, Patterson-UTI Senior Manager – Data Science, about how Patterson-UTI’s PTEN Digital Performance Center monitors automation products in the field and relays lessons learned to design…",
           "date": "2026-11-10",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/patterson-uti-digital-series-part-2-machine-learning-meets-the-rig-through-automation-feedback-loop-80824",
@@ -9072,6 +9072,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "ADNOC Vessel Damaged in Gulf Attack as UKMTO Reports Fresh Tanker Strike Near Hormuz",
+          "summary": "A vessel operated by ADNOC Logistics & Services was damaged in an attack in UAE territorial waters on Tuesday, as maritime authorities reported a separate apparent projectile strike against a...",
+          "date": "2026-11-10",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/adnoc-vessel-damaged-in-gulf-attack-as-ukmto-reports-fresh-tanker-strike-near-hormuz/",
+          "relevant": true,
+          "region": "UAE"
+        },
         {
           "title": "First oil from Southeast Asian offshore project flows sooner than expected",
           "summary": "The start of production from an offshore platform at an oil field in Vietnamese waters comes 36 days ahead of schedule.",
