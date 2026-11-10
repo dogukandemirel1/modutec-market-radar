@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T16:01:12Z",
+  "last_updated": "2026-11-10T17:01:09Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -240,6 +240,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "VIKING wins €23.8 million contract to build seven high-speed patrol vessels for the Hellenic Coast Guard",
+          "summary": "Seven VIKING Norsafe Magnar 1950 vessels to be built entirely in Greece, with an option for another seven. VIKING Life-Saving Equipment has signed a €23.8 million contract, through its Greek...",
+          "date": "2026-11-10",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/viking-wins-e23-8-million-contract-to-build-seven-high-speed-patrol-vessels-for-the-hellenic-coast-guard/",
+          "relevant": false
+        },
         {
           "title": "Qatar LNG Loadings Pick Up to Around Half of Pre-War Levels",
           "summary": "Liquefied natural gas loadings onto tankers from Qatar have picked up over the past few weeks, suggesting the major exporter is seeking to get more cargoes to the global market despite ongoing disruptions in the Strait…",
@@ -5217,14 +5225,6 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
-          "title": "Splash Crew launches to put seafarers at the heart of maritime news",
-          "summary": "Splash Maritime Group has unveiled Splash Crew, its latest specialist news platform, with the ambition of becoming essential daily reading for seafarers, crewing professionals, shipmanagers, regulators and maritime…",
-          "date": "2026-11-10",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/splash-crew-launches-to-put-seafarers-at-the-heart-of-maritime-news/",
-          "relevant": false
-        },
-        {
           "title": "Patterson-UTI Digital Series, Part 2: Machine learning meets the rig through automation feedback loop",
           "summary": "DC recently spoke with Alex Groh, Patterson-UTI Senior Manager – Data Science, about how the PTEN Digital Performance Center monitors automation products in the field and relay lessons learned to design teams. In turn…",
           "date": "2026-11-10",
@@ -5281,6 +5281,14 @@
           "relevant": false
         },
         {
+          "title": "Splash Crew launches to put seafarers at the heart of maritime news",
+          "summary": "Splash Maritime Group has unveiled Splash Crew, its latest specialist news platform, with the ambition of becoming essential daily reading for seafarers, crewing professionals, shipmanagers, regulators and maritime…",
+          "date": "2026-11-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/splash-crew-launches-to-put-seafarers-at-the-heart-of-maritime-news/",
+          "relevant": false
+        },
+        {
           "title": "South Korea clears Sinar Mas takeover of Hyundai LNG Shipping",
           "summary": "South Korea has given conditional approval for the sale of Hyundai LNG Shipping to Indonesia’s Sinar Mas Group, removing the final regulatory hurdle in a deal that has been held up for months by national energy security…",
           "date": "2026-11-10",
@@ -5305,19 +5313,19 @@
           "relevant": false
         },
         {
-          "title": "Russia Takes Control of Two Chinese Heavy-Lift Ships Used for Arctic LNG 2 Deliveries",
-          "summary": "Russia has taken control of two modern heavy-lift carriers previously involved in transporting equipment for the sanctioned Arctic LNG 2 project, adding specialized project cargo vessels to an expanding network of…",
-          "date": "2026-11-09",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/russia-takes-control-of-two-chinese-heavy-lift-ships-used-for-arctic-lng-2-deliveries/",
-          "relevant": false
-        },
-        {
           "title": "Oil prices fall as Trump signals no immediate strikes on Iran",
           "summary": "Oil prices declined on Monday, 9 November, following comments from US President Donald Trump that suggested a reduced probability of further military action against Iran, reported Reuters.",
           "date": "2026-11-09",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/oil-prices-fall-trump-no-strikes-iran/",
+          "relevant": false
+        },
+        {
+          "title": "Russia Takes Control of Two Chinese Heavy-Lift Ships Used for Arctic LNG 2 Deliveries",
+          "summary": "Russia has taken control of two modern heavy-lift carriers previously involved in transporting equipment for the sanctioned Arctic LNG 2 project, adding specialized project cargo vessels to an expanding network of…",
+          "date": "2026-11-09",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/russia-takes-control-of-two-chinese-heavy-lift-ships-used-for-arctic-lng-2-deliveries/",
           "relevant": false
         },
         {
@@ -9073,6 +9081,15 @@
           "source_url": "https://www.offshore-energy.biz/2026/11/10/dollar3136-million-deal-takes-adnoc-drillings-rig-duo-beyond-uae-waters-to-kuwait",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "Macron Negotiates Hormuz Insurance with Gulf States",
+          "summary": "Discussions are ongoing with Saudi Arabia and other Gulf states to design a publicly backed vehicle that would assume parts of the insurance risk for vessels to go through the waterway and facilitate deliveries of…",
+          "date": "2026-11-10",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/macron_negotiates_hormuz_insurance_with_gulf_states-10-nov-2026-185053-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "ADNOC Gas Profit Flat YoY as Hormuz Continues to Weigh on Exports",
