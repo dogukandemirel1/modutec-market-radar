@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T09:01:07Z",
+  "last_updated": "2026-11-11T10:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -249,6 +249,22 @@
           "relevant": false
         },
         {
+          "title": "Elemental Energies wins offshore CCS deal from Harbour Energy",
+          "summary": "Aberdeen-based well engineering specialist Elemental Energies has secured a two-year contract from Harbour Energy to support the expansion of the Viking carbon capture and storage (CCS) project in the UK southern North…",
+          "date": "2026-11-11",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/elemental-energies-wins-offshore-ccs-deal-from-harbour-energy/",
+          "relevant": true
+        },
+        {
+          "title": "Orlen Terminates QatarEnergy LNG Deal Over Supply Disruptions",
+          "summary": "Poland's largest energy group Orlen said on Tuesday it terminated one of its two long-term liquefied natural gas supply contracts with QatarEnergy after a force…",
+          "date": "2026-11-11",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544275-orlen-terminates-qatarenergy-lng-deal-over-supply-disruptions",
+          "relevant": false
+        },
+        {
           "title": "Cadeler lines up three vessels for UK offshore wind project",
           "summary": "Danish offshore wind contractor Cadeler has signed an exclusivity agreement with an unnamed client for foundation and turbine installation work at a large-scale offshore wind farm in the UK. The installation campaign is…",
           "date": "2026-11-11",
@@ -457,14 +473,6 @@
           "relevant": false
         },
         {
-          "title": "MBDA on contract to study Aster 30 missile integration in MK 41 VLS",
-          "summary": "MBDA has received a UK MoD contract to examine the viability of integrating the Aster 30 surface-to-air missile with the Lockheed Martin MK 41 VLS The post MBDA on contract to study Aster 30 missile integration in MK 41…",
-          "date": "2026-11-09",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/mbda-on-contract-to-study-aster-30-missile-integration-in-mk-41-vls/",
-          "relevant": false
-        },
-        {
           "title": "Heerema renews Fugro deal for offshore survey and positioning services",
           "summary": "Heerema Marine Contractors has extended its global framework agreement with Fugro for another four years. The agreement covers the provision of...",
           "date": "2026-11-09",
@@ -494,6 +502,14 @@
           "date": "2026-11-09",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/saab-sweden-lulea-frigates/",
+          "relevant": false
+        },
+        {
+          "title": "MBDA on contract to study Aster 30 missile integration in MK 41 VLS",
+          "summary": "MBDA has received a UK MoD contract to examine the viability of integrating the Aster 30 surface-to-air missile with the Lockheed Martin MK 41 VLS The post MBDA on contract to study Aster 30 missile integration in MK 41…",
+          "date": "2026-11-09",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/mbda-on-contract-to-study-aster-30-missile-integration-in-mk-41-vls/",
           "relevant": false
         },
         {
@@ -7728,6 +7744,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "Monjasa seals biggest-ever fleet deal with five-tanker swoop",
+          "summary": "Danish bunker supplier and shipowner Monjasa has acquired five sister product tankers from Germany’s Bernhard Schulte in its largest-ever fleet deal, strengthening its marine fuels operations in West Africa. The…",
+          "date": "2026-11-11",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/monjasa-seals-biggest-ever-fleet-deal-with-five-tanker-swoop/",
+          "relevant": false
+        },
         {
           "title": "Seagems PLSV lined up for Petrobras work from 2028",
           "summary": "Paratus Energy Services has confirmed that Petrobras has accepted a bid from its Seagems joint venture for the pipelay support vessel (PLSV) Jade, bringing the vessel closer to securing employment in Brazil from 2028…",
