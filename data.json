@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T20:01:03Z",
+  "last_updated": "2026-11-11T21:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -345,14 +345,6 @@
           "relevant": false
         },
         {
-          "title": "U.S. Closes First Oil and Gas Production Loan Under Revamped Energy Financing Program",
-          "summary": "The U.S. Department of Energy has closed a $480 million loan to modernize 22 offshore platforms in the Gulf of Mexico, marking the department’s first completed loan financing domestic oil...",
-          "date": "2026-11-10",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/u-s-closes-first-oil-and-gas-production-loan-under-revamped-energy-financing-program/",
-          "relevant": false
-        },
-        {
           "title": "Roddie Mackenzie named 2026 IADC Contractor of the Year",
           "summary": "By Stephen Whitfield, Senior Editor Roddie Mackenzie, Executive VP and Chief Commercial Officer at Transocean and 2026 IADC Chairman, was named 2026 IADC Contractor of the Year. The annual award was established in 1988…",
           "date": "2026-11-10",
@@ -406,6 +398,14 @@
           "date": "2026-11-10",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544260-harbour-energy-hires-elemental-energies-for-viking-ccs-expansion-in-north-sea",
+          "relevant": false
+        },
+        {
+          "title": "U.S. Closes First Oil and Gas Production Loan Under Revamped Energy Financing Program",
+          "summary": "The U.S. Department of Energy has closed a $480 million loan to modernize 22 offshore platforms in the Gulf of Mexico, marking the department’s first completed loan financing domestic oil...",
+          "date": "2026-11-10",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/u-s-closes-first-oil-and-gas-production-loan-under-revamped-energy-financing-program/",
           "relevant": false
         },
         {
@@ -5289,6 +5289,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Russian Diesel Faces U.S. Buyer Resistance Despite Trump Sanctions Waiver",
+          "summary": "US companies are unlikely to import Russian diesel as a tanker full of the fuel idles off the US Eastern Seaboard, experts said, despite President Donald Trump's temporary waiver of some sanctions on Moscow's fuel…",
+          "date": "2026-11-11",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/russian-diesel-faces-u-s-buyer-resistance-despite-trump-sanctions-waiver/",
+          "relevant": false
+        },
+        {
           "title": "Tankers Continue to Burn in the Middle East Despite Hopes for De-escalation",
           "summary": "Despite market bets on a de-escalation in the Iran war, new evidence has emerged in recent days of strikes on tankers in the Strait of Hormuz and on energy infrastructure in the Middle East.",
           "date": "2026-11-11",
@@ -5337,14 +5345,6 @@
           "relevant": false
         },
         {
-          "title": "‘Nonsense Rate’: Iran War Exposes Turmoil Behind Key Tanker Benchmark",
-          "summary": "In March this year, inside a 282-year-old institution responsible for one of the most important prices in global oil markets, one man staged a quiet protest.",
-          "date": "2026-11-10",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/nonsense-rate-iran-war-exposes-turmoil-behind-key-tanker-benchmark/",
-          "relevant": false
-        },
-        {
           "title": "Patterson-UTI Digital Series, Part 2: Machine learning meets the rig through automation feedback loop",
           "summary": "DC recently spoke with Alex Groh, Patterson-UTI Senior Manager – Data Science, about how Patterson-UTI’s PTEN Digital Performance Center monitors automation products in the field and relays lessons learned to design…",
           "date": "2026-11-10",
@@ -5374,6 +5374,14 @@
           "date": "2026-11-10",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/oil-drops-trump-eases-middle-east-conflict/",
+          "relevant": false
+        },
+        {
+          "title": "‘Nonsense Rate’: Iran War Exposes Turmoil Behind Key Tanker Benchmark",
+          "summary": "In March this year, inside a 282-year-old institution responsible for one of the most important prices in global oil markets, one man staged a quiet protest.",
+          "date": "2026-11-10",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/nonsense-rate-iran-war-exposes-turmoil-behind-key-tanker-benchmark/",
           "relevant": false
         },
         {
@@ -9162,15 +9170,6 @@
           "region": "SEA"
         },
         {
-          "title": "Coal’s new world order takes shape",
-          "summary": "Coal’s changing trade map is creating winners and losers across dry bulk shipping in 2026, with Indonesian exports retreating, southern African shipments setting records and Asian import demand increasingly fractured…",
-          "date": "2026-11-11",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/coals-new-world-order-takes-shape/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "ADNOC widens its Asian footprint with decade-long LNG offtake deal",
           "summary": "This ten-year agreement will enable ADNOC to supply up to 4 million tonnes of liquefied natural gas (LNG) to India's Gujarat Energy.",
           "date": "2026-11-11",
@@ -9196,6 +9195,15 @@
           "source_url": "https://www.rigzone.com/news/wire/russia_and_ukraine_resume_push_for_peace_deal-11-nov-2026-185056-article/?rss=true",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "Coal’s new world order takes shape",
+          "summary": "Coal’s changing trade map is creating winners and losers across dry bulk shipping in 2026, with Indonesian exports retreating, southern African shipments setting records and Asian import demand increasingly fractured…",
+          "date": "2026-11-11",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/coals-new-world-order-takes-shape/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "First oil from Southeast Asian offshore project flows sooner than expected",
