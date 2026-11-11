@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T14:01:05Z",
+  "last_updated": "2026-11-11T15:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -241,6 +241,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Qatar Loses First LNG Customer Since War Disrupted Flows",
+          "summary": "Polish energy company Orlen SA terminated one of its long-term liquefied natural gas contracts with QatarEnergy, citing the export giant’s inability to deliver as the conflict in the Middle East disrupts shipments.",
+          "date": "2026-11-11",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/qatar-loses-first-lng-customer-since-war-disrupted-flows/",
+          "relevant": false
+        },
+        {
           "title": "Russian Diesel Tanker Awaits Orders Off U.S. Coast Amid Import Ban Dispute",
           "summary": "OSLO, Nov 10 (Reuters) – President Donald Trump’s energy chief said on Tuesday the US was confident that the first cargo of Russian diesel headed for the US would eventually...",
           "date": "2026-11-11",
@@ -255,6 +263,22 @@
           "source_name": "Splash247",
           "source_url": "https://splash247.com/elemental-energies-wins-offshore-ccs-deal-from-harbour-energy/",
           "relevant": true
+        },
+        {
+          "title": "IADC subcommittee brings industry together to create best practices for rig moves",
+          "summary": "Rig moves bring together drilling contractors, operators and a long list of third-party personnel, and that complexity is what makes them so risky, says Jose “Butter” Rodriguez, a member of the IADC Rig Moving…",
+          "date": "2026-11-11",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/rig-move-safety-getting-a-playbook-as-iadc-subcommittee-brings-operators-contractors-and-movers-together-on-best-practices-80938",
+          "relevant": false
+        },
+        {
+          "title": "Murphy Oil gains stronger foothold offshore Cameroon with block quartet",
+          "summary": "Murphy Oil has signed four production sharing contracts (PSCs) for more offshore acreage in Cameroon.",
+          "date": "2026-11-11",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/11/murphy-oil-gains-stronger-foothold-offshore-cameroon-with-block-quartet",
+          "relevant": false
         },
         {
           "title": "ADES rig duo picks up multimillion-dollar assignments offshore India",
@@ -313,16 +337,8 @@
           "relevant": false
         },
         {
-          "title": "VIKING wins €23.8 million contract to build seven high-speed patrol vessels for the Hellenic Coast Guard",
-          "summary": "Seven VIKING Norsafe Magnar 1950 vessels to be built entirely in Greece, with an option for another seven. VIKING Life-Saving Equipment has signed a €23.8 million contract, through its Greek...",
-          "date": "2026-11-10",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/viking-wins-e23-8-million-contract-to-build-seven-high-speed-patrol-vessels-for-the-hellenic-coast-guard/",
-          "relevant": false
-        },
-        {
           "title": "Roddie Mackenzie named 2026 IADC Contractor of the Year",
-          "summary": "By Stephen Whitfield, Senior Editor Roddie Mackenzie, Executive VP and Chief Commercial Officer at Transocean and 2026 IADC Chairman, has named 2026 IADC Contractor of the Year. The annual award was established in 1988…",
+          "summary": "By Stephen Whitfield, Senior Editor Roddie Mackenzie, Executive VP and Chief Commercial Officer at Transocean and 2026 IADC Chairman, was named 2026 IADC Contractor of the Year. The annual award was established in 1988…",
           "date": "2026-11-10",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/roddie-mackenzie-named-2026-iadc-contractor-of-the-year-80975",
@@ -417,6 +433,14 @@
           "relevant": false
         },
         {
+          "title": "VIKING wins €23.8 million contract to build seven high-speed patrol vessels for the Hellenic Coast Guard",
+          "summary": "Seven VIKING Norsafe Magnar 1950 vessels to be built entirely in Greece, with an option for another seven. VIKING Life-Saving Equipment has signed a €23.8 million contract, through its Greek...",
+          "date": "2026-11-10",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/viking-wins-e23-8-million-contract-to-build-seven-high-speed-patrol-vessels-for-the-hellenic-coast-guard/",
+          "relevant": false
+        },
+        {
           "title": "Energean Picks Njord Survey for Post-Decom Seabed Checks at UK Gas Fields",
           "summary": "Swedish offshore survey company Njord Survey has secured a contract from Energean UK to carry out post-decommissioning seabed surveys at the Wenlock, Garrow and…",
           "date": "2026-11-10",
@@ -489,14 +513,6 @@
           "relevant": false
         },
         {
-          "title": "Nov26_McKinsey2",
-          "summary": "The post Nov26_McKinsey2 appeared first on Drilling Contractor .",
-          "date": "2026-11-09",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/nov26_mckinsey2-80935",
-          "relevant": false
-        },
-        {
           "title": "Heerema renews Fugro deal for offshore survey and positioning services",
           "summary": "Heerema Marine Contractors has extended its global framework agreement with Fugro for another four years. The agreement covers the provision of...",
           "date": "2026-11-09",
@@ -513,19 +529,27 @@
           "relevant": false
         },
         {
-          "title": "ADES wins contracts from ONGC for two jackup rigs in India",
-          "summary": "Oil and gas drilling services provider ADES has been awarded contracts by India’s state-controlled oil and gas company Oil and Natural Gas Corporation (ONGC) to provide two standard jackup rigs in India.",
-          "date": "2026-11-09",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/ades-contracts-ongc-jackup-rigs-india/",
-          "relevant": false
-        },
-        {
           "title": "Saab to equip Swedish Luleå-class frigates with weapon, sensor systems",
           "summary": "Saab has been contracted by France’s Naval Group to deliver and integrate combat-systems for four FDI frigates being built for Sweden. The post Saab to equip Swedish Luleå-class frigates with weapon, sensor systems…",
           "date": "2026-11-09",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/saab-sweden-lulea-frigates/",
+          "relevant": false
+        },
+        {
+          "title": "Nov26_McKinsey2",
+          "summary": "The post Nov26_McKinsey2 appeared first on Drilling Contractor .",
+          "date": "2026-11-09",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/nov26_mckinsey2-80935",
+          "relevant": false
+        },
+        {
+          "title": "ADES wins contracts from ONGC for two jackup rigs in India",
+          "summary": "Oil and gas drilling services provider ADES has been awarded contracts by India’s state-controlled oil and gas company Oil and Natural Gas Corporation (ONGC) to provide two standard jackup rigs in India.",
+          "date": "2026-11-09",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/ades-contracts-ongc-jackup-rigs-india/",
           "relevant": false
         },
         {
@@ -5248,6 +5272,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "Germany to Set Up State Gas Reserve After Missing Winter Storage Targets",
+          "summary": "The German government will go ahead with a planned 24-terawatt-hour crisis gas reserve to be funded by user surcharges, the economy ministry said, following criticism over missed storage targets for the winter heating…",
+          "date": "2026-11-11",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/germany-to-set-up-state-gas-reserve-after-missing-winter-storage-targets/",
+          "relevant": false
+        },
         {
           "title": "Maritime coalition targets 20% electrification by 2035",
           "summary": "More than 30 maritime organisations have joined forces at the COP31 climate summit in Turkey to push for electricity to account for at least 20% of international shipping’s energy consumption by 2035. The Maritime…",
