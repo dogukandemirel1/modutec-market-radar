@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T06:01:05Z",
+  "last_updated": "2026-11-11T07:01:08Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -265,14 +265,6 @@
           "relevant": false
         },
         {
-          "title": "Energean taps Njord Survey for North Sea decom work",
-          "summary": "Swedish marine survey specialist Njord Survey has secured a contract from Energean to undertake post-decommissioning seabed surveys at three gas fields in the southern North Sea. The contract covers Wenlock, Garrow, and…",
-          "date": "2026-11-10",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/energean-taps-njord-survey-for-north-sea-decom-work/",
-          "relevant": false
-        },
-        {
           "title": "Roddie Mackenzie named 2026 IADC Contractor of the Year",
           "summary": "By Stephen Whitfield, Senior Editor Roddie Mackenzie, Executive VP and Chief Commercial Officer at Transocean and 2026 IADC Chairman, has named 2026 IADC Contractor of the Year. The annual award was established in 1988…",
           "date": "2026-11-10",
@@ -390,6 +382,14 @@
           "date": "2026-11-10",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544248-finland-to-auction-four-offshore-wind-areas-starting-in-2027",
+          "relevant": false
+        },
+        {
+          "title": "Energean taps Njord Survey for North Sea decom work",
+          "summary": "Swedish marine survey specialist Njord Survey has secured a contract from Energean to undertake post-decommissioning seabed surveys at three gas fields in the southern North Sea. The contract covers Wenlock, Garrow, and…",
+          "date": "2026-11-10",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/energean-taps-njord-survey-for-north-sea-decom-work/",
           "relevant": false
         },
         {
@@ -5193,6 +5193,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Maritime coalition targets 20% electrification by 2035",
+          "summary": "More than 30 maritime organisations have joined forces at the COP31 climate summit in Turkey to push for electricity to account for at least 20% of international shipping’s energy consumption by 2035. The Maritime…",
+          "date": "2026-11-11",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/maritime-coalition-targets-20-electrification-by-2035/",
+          "relevant": false
+        },
+        {
           "title": "‘Nonsense Rate’: Iran War Exposes Turmoil Behind Key Tanker Benchmark",
           "summary": "In March this year, inside a 282-year-old institution responsible for one of the most important prices in global oil markets, one man staged a quiet protest.",
           "date": "2026-11-10",
@@ -9000,6 +9008,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Coal’s new world order takes shape",
+          "summary": "Coal’s changing trade map is creating winners and losers across dry bulk shipping in 2026, with Indonesian exports retreating, southern African shipments setting records and Asian import demand increasingly fractured…",
+          "date": "2026-11-11",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/coals-new-world-order-takes-shape/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "ADNOC Vessel Damaged in Gulf Attack as UKMTO Reports Fresh Tanker Strike Near Hormuz",
           "summary": "A vessel operated by ADNOC Logistics & Services was damaged in an attack in UAE territorial waters on Tuesday, as maritime authorities reported a separate apparent projectile strike against a...",
