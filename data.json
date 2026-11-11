@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T16:01:06Z",
+  "last_updated": "2026-11-11T17:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -313,6 +313,14 @@
           "relevant": false
         },
         {
+          "title": "DOF Group Announces CSV Contract Award and Extension",
+          "summary": "DOF Group ASA announced a 7-year contract for one of its smaller construction support vessels (CSV) including ROV services. The contract adds approximately $110 million to DOF’s backlog…",
+          "date": "2026-11-11",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544300-dof-group-announces-csv-contract-award-and-extension",
+          "relevant": false
+        },
+        {
           "title": "Murphy Oil Signs Four Production Sharing Contracts Offshore Cameroon",
           "summary": "Murphy Oil Corporation has signed four production sharing contracts covering approximately 2.6 million acres offshore Cameroon, expanding its offshore exploration portfolio…",
           "date": "2026-11-11",
@@ -361,14 +369,6 @@
           "relevant": false
         },
         {
-          "title": "First offshore drilling campaign in Philippines in over a decade reaches first gas at Malampaya",
-          "summary": "Prime Energy, operator of Service Contract 38 (SC 38), delivered first gas from the Malampaya Phase 4 (MP4) project, bringing the Malampaya East-1 and Camago-3 wells into the existing Malampaya production system. The…",
-          "date": "2026-11-10",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/first-offshore-drilling-campaign-in-philippines-in-over-a-decade-reaches-first-gas-at-malampaya-80942",
-          "relevant": false
-        },
-        {
           "title": "Multi-license awards open Eastern Mediterranean doors for Murphy Oil",
           "summary": "Murphy Oil has made its first foray into the Eastern Mediterranean by securing six offshore exploration licenses close to a giant gas field.",
           "date": "2026-11-10",
@@ -406,6 +406,14 @@
           "date": "2026-11-10",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544260-harbour-energy-hires-elemental-energies-for-viking-ccs-expansion-in-north-sea",
+          "relevant": false
+        },
+        {
+          "title": "First offshore drilling campaign in Philippines in over a decade reaches first gas at Malampaya",
+          "summary": "Prime Energy, operator of Service Contract 38 (SC 38), delivered first gas from the Malampaya Phase 4 (MP4) project, bringing the Malampaya East-1 and Camago-3 wells into the existing Malampaya production system. The…",
+          "date": "2026-11-10",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/first-offshore-drilling-campaign-in-philippines-in-over-a-decade-reaches-first-gas-at-malampaya-80942",
           "relevant": false
         },
         {
@@ -5281,6 +5289,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "IMO Chief Calls for Strict Enforcement of SOLAS Rules in Strait of Hormuz",
+          "summary": "International Maritime Organization (IMO) Secretary-General Arsenio Dominguez has called on governments to step up enforcement of international maritime regulations in the Strait of Hormuz, warning that unsafe shipping…",
+          "date": "2026-11-11",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/imo-chief-calls-for-strict-enforcement-of-solas-rules-in-strait-of-hormuz/",
+          "relevant": false
+        },
+        {
           "title": "Germany to Set Up State Gas Reserve After Missing Winter Storage Targets",
           "summary": "The German government will go ahead with a planned 24-terawatt-hour crisis gas reserve to be funded by user surcharges, the economy ministry said, following criticism over missed storage targets for the winter heating…",
           "date": "2026-11-11",
@@ -5289,11 +5305,11 @@
           "relevant": false
         },
         {
-          "title": "Maritime coalition targets 20% electrification by 2035",
-          "summary": "More than 30 maritime organisations have joined forces at the COP31 climate summit in Turkey to push for electricity to account for at least 20% of international shipping’s energy consumption by 2035. The Maritime…",
+          "title": "Canada puts Iranian tanker giant back under sanctions",
+          "summary": "Canada has reinstated sanctions against the National Iranian Tanker Company (NITC), reversing relief granted a decade ago under the international nuclear agreement with Tehran. The move forms part of a package targeting…",
           "date": "2026-11-11",
           "source_name": "Splash247",
-          "source_url": "https://splash247.com/maritime-coalition-targets-20-electrification-by-2035/",
+          "source_url": "https://splash247.com/canada-puts-iranian-tanker-giant-back-under-sanctions/",
           "relevant": false
         },
         {
@@ -5302,6 +5318,14 @@
           "date": "2026-11-11",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544281-first-oil-flows-from-vietsovpetro-s-platform-offshore-vietnam",
+          "relevant": false
+        },
+        {
+          "title": "Maritime coalition targets 20% electrification by 2035",
+          "summary": "More than 30 maritime organisations have joined forces at the COP31 climate summit in Turkey to push for electricity to account for at least 20% of international shipping’s energy consumption by 2035. The Maritime…",
+          "date": "2026-11-11",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/maritime-coalition-targets-20-electrification-by-2035/",
           "relevant": false
         },
         {
@@ -9157,15 +9181,6 @@
           "region": "UAE"
         },
         {
-          "title": "ADNOC Vessel Damaged in Gulf Attack as UKMTO Reports Fresh Tanker Strike Near Hormuz",
-          "summary": "A vessel operated by ADNOC Logistics & Services was damaged in an attack in UAE territorial waters on Tuesday, as maritime authorities reported a separate apparent projectile strike against a...",
-          "date": "2026-11-10",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/adnoc-vessel-damaged-in-gulf-attack-as-ukmto-reports-fresh-tanker-strike-near-hormuz/",
-          "relevant": true,
-          "region": "UAE"
-        },
-        {
           "title": "First oil from Southeast Asian offshore project flows sooner than expected",
           "summary": "The start of production from an offshore platform at an oil field in Vietnamese waters comes 36 days ahead of schedule.",
           "date": "2026-11-10",
@@ -9198,6 +9213,15 @@
           "date": "2026-11-10",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/adnoc_gas_profit_flat_yoy_as_hormuz_continues_to_weigh_on_exports-10-nov-2026-185049-article/?rss=true",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
+          "title": "ADNOC Vessel Damaged in Gulf Attack as UKMTO Reports Fresh Tanker Strike Near Hormuz",
+          "summary": "A vessel operated by ADNOC Logistics & Services was damaged in an attack in UAE territorial waters on Tuesday, as maritime authorities reported a separate apparent projectile strike against a...",
+          "date": "2026-11-10",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/adnoc-vessel-damaged-in-gulf-attack-as-ukmto-reports-fresh-tanker-strike-near-hormuz/",
           "relevant": true,
           "region": "UAE"
         },
