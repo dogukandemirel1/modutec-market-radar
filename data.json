@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T12:01:05Z",
+  "last_updated": "2026-11-11T13:01:09Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -278,6 +278,14 @@
           "date": "2026-11-11",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/doe-480m-arena-energys-project-elkhorn/",
+          "relevant": false
+        },
+        {
+          "title": "Murphy Oil Signs Four Production Sharing Contracts Offshore Cameroon",
+          "summary": "Murphy Oil Corporation has signed four production sharing contracts covering approximately 2.6 million acres offshore Cameroon, expanding its offshore exploration portfolio…",
+          "date": "2026-11-11",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544289-murphy-oil-signs-four-production-sharing-contracts-offshore-cameroon",
           "relevant": false
         },
         {
