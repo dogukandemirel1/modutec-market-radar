@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T23:01:08Z",
+  "last_updated": "2026-11-11T00:01:09Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -433,6 +433,22 @@
           "relevant": false
         },
         {
+          "title": "General Atomics Ranger UUV to Support Large Payloads, UAVs",
+          "summary": "At Euronaval 2026, General Atomics revealed its Ranger and GA-Ray long-range UUVs, built for multi-year missions and launching sub-drones and payloads. The post General Atomics Ranger UUV to Support Large Payloads, UAVs…",
+          "date": "2026-11-09",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/general-atomics-ranger-uuv-to-support-large-payloads-uavs/",
+          "relevant": false
+        },
+        {
+          "title": "MBDA on contract to study Aster 30 missile integration in MK 41 VLS",
+          "summary": "MBDA has received a UK MoD contract to examine the viability of integrating the Aster 30 surface-to-air missile with the Lockheed Martin MK 41 VLS The post MBDA on contract to study Aster 30 missile integration in MK 41…",
+          "date": "2026-11-09",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/mbda-on-contract-to-study-aster-30-missile-integration-in-mk-41-vls/",
+          "relevant": false
+        },
+        {
           "title": "Heerema renews Fugro deal for offshore survey and positioning services",
           "summary": "Heerema Marine Contractors has extended its global framework agreement with Fugro for another four years. The agreement covers the provision of...",
           "date": "2026-11-09",
@@ -470,22 +486,6 @@
           "date": "2026-11-09",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/nov26_mckinsey1-80933",
-          "relevant": false
-        },
-        {
-          "title": "General Atomics Ranger UUV to Support Large Payloads, UAVs",
-          "summary": "At Euronaval 2026, General Atomics revealed its Ranger and GA-Ray long-range UUVs, built for multi-year missions and launching sub-drones and payloads. The post General Atomics Ranger UUV to Support Large Payloads, UAVs…",
-          "date": "2026-11-09",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/general-atomics-ranger-uuv-to-support-large-payloads-uavs/",
-          "relevant": false
-        },
-        {
-          "title": "MBDA on contract to study Aster 30 missile integration in MK 41 VLS",
-          "summary": "MBDA has received a UK MoD contract to examine the viability of integrating the Aster 30 surface-to-air missile with the Lockheed Martin MK 41 VLS The post MBDA on contract to study Aster 30 missile integration in MK 41…",
-          "date": "2026-11-09",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/mbda-on-contract-to-study-aster-30-missile-integration-in-mk-41-vls/",
           "relevant": false
         },
         {
@@ -5175,62 +5175,6 @@
           "source_name": "Splash247",
           "source_url": "https://splash247.com/vroon-enters-offshore-wind-errv-market-with-scottishpower-deal/",
           "relevant": false
-        },
-        {
-          "title": "Oslo-listed drilling contractors combine in all-share deal",
-          "summary": "Oslo-listed SED Energy Holdings and Ventura Offshore signed a letter of intent on 11 September 2026 for an all-share combination that would create a larger offshore drilling and energy services group. Energy Holdings…",
-          "date": "2026-09-11",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/oslo-listed-drilling-contractors-combine-in-all-share-deal-79935",
-          "relevant": false
-        },
-        {
-          "title": "U.S. Special Operations Forces Tap Sea Machines for Vessel Autonomy Kits",
-          "summary": "Sea Machines has secured a 5-year IDIQ contract to supply U.S. Special Operations Forces with rapid \"drop-in\" vessel autonomy and command kits. The post U.S. Special Operations Forces Tap Sea Machines for Vessel…",
-          "date": "2026-09-11",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/u-s-special-operations-forces-tap-sea-machines-for-vessel-autonomy-kits/",
-          "relevant": false
-        },
-        {
-          "title": "Saipem, Jan De Nul sign LoI for Mozambique Rovuma LNG project",
-          "summary": "Saipem, in partnership with Jan De Nul, has entered into a letter of intent (LoI) with ExxonMobil Moçambique for a contract related to the phase 1 of the Rovuma LNG project, located offshore Mozambique.",
-          "date": "2026-09-11",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/saipem-jan-de-nul-loi-rovuma-lng/",
-          "relevant": false
-        },
-        {
-          "title": "Norway Sees 'Strong Confidence' in New Discoveries Potential",
-          "summary": "The Norwegian Energy Ministry received applications from 21 companies including international majors for the country's expanded exploration licensing round.",
-          "date": "2026-09-11",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/norway_sees_strong_confidence_in_new_discoveries_potential-11-sep-2026-184599-article/?rss=true",
-          "relevant": false
-        },
-        {
-          "title": "Saipem Signs New Preliminary Contract for Rovuma LNG",
-          "summary": "A consortium of Belgium's Jan De Nul and Italy's Saipem signed a letter of intent with ExxonMobil for the upstream infrastructure of the planned Rovuma LNG project in Mozambique.",
-          "date": "2026-09-11",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/saipem_signs_new_preliminary_contract_for_rovuma_lng-11-sep-2026-184592-article/?rss=true",
-          "relevant": false
-        },
-        {
-          "title": "Korea Line locks in $31m Zhejiang bulker charter",
-          "summary": "South Korea’s Korea Line has secured a new long-term bulker charter with China’s Zhejiang Shipping worth an estimated KRW42.08bn ($31.38m). The SM Group-controlled owner will provide one bulk carrier under a contract…",
-          "date": "2026-09-11",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/korea-line-locks-in-31m-zhejiang-bulker-charter/",
-          "relevant": false
-        },
-        {
-          "title": "Saipem and Jan de Nul bag work on ExxonMobil’s LNG project in Mozambique",
-          "summary": "Italian offshore engineering contractor Saipem, in consortium with Belgian marine contractor Jan De Nul, has signed a letter of intent (LOI) with ExxonMobil for the Rovuma LNG Phase 1 development in Mozambique. The LOI…",
-          "date": "2026-09-11",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/saipem-bags-work-on-exxonmobils-lng-project-in-mozambique/",
-          "relevant": false
         }
       ]
     },
@@ -5262,6 +5206,14 @@
           "date": "2026-11-10",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/patterson-uti-digital-series-part-2-machine-learning-meets-the-rig-through-automation-feedback-loop-80824",
+          "relevant": false
+        },
+        {
+          "title": "BAE Systems accelerates delivery of advanced LRASM missile sensors",
+          "summary": "BAE Systems accelerates the delivery of advanced RF sensors for the Long-Range Anti-Ship Missile (LRASM) to Lockheed Martin to meet U.S. military needs. BAE Systems press release BAE Systems has delivered all Lot 8…",
+          "date": "2026-11-10",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/bae-systems-accelerates-delivery-of-advanced-lrasm-missile-sensors/",
           "relevant": false
         },
         {
@@ -5302,14 +5254,6 @@
           "date": "2026-11-10",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544249-oil-prices-slide-as-trump-signals-pause-in-iran-strikes",
-          "relevant": false
-        },
-        {
-          "title": "BAE Systems accelerates delivery of advanced LRASM missile sensors",
-          "summary": "BAE Systems accelerates the delivery of advanced RF sensors for the Long-Range Anti-Ship Missile (LRASM) to Lockheed Martin to meet U.S. military needs. BAE Systems press release BAE Systems has delivered all Lot 8…",
-          "date": "2026-11-10",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/bae-systems-accelerates-delivery-of-advanced-lrasm-missile-sensors/",
           "relevant": false
         },
         {
@@ -7751,46 +7695,6 @@
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/us-limits-air-defense-time-slots-for-tankers-sailing-through-hormuz/",
           "relevant": false
-        },
-        {
-          "title": "Oil Posts Biggest Weekly Gain Since July",
-          "summary": "Oil posted a strong weekly gain as Middle East conflict and mounting supply risks kept markets on edge.",
-          "date": "2026-09-11",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/oil_posts_biggest_weekly_gain_since_july-11-sep-2026-184602-article/?rss=true",
-          "relevant": false
-        },
-        {
-          "title": "Ørsted Gets Favorable Tax Opinion on Two UK Wind Farms",
-          "summary": "Ørsted has received a favorable final opinion in a long-running tax dispute between Denmark and the United Kingdom over taxation rights related to the Walney Extension…",
-          "date": "2026-09-11",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/542879-rsted-gets-favorable-tax-opinion-on-two-uk-wind-farms",
-          "relevant": false
-        },
-        {
-          "title": "World Shipping Council Calls for IMO Action on Lithium Battery Cargo Safety Gap",
-          "summary": "The World Shipping Council is urging governments to close what it says is a dangerous loophole in international shipping rules that can allow containers packed with thousands of lithium batteries...",
-          "date": "2026-09-11",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/world-shipping-council-calls-for-imo-action-on-lithium-battery-cargo-safety-gap/",
-          "relevant": false
-        },
-        {
-          "title": "IMO Urged to Give Shipping Clear Investment Signal on Net Zero Pathway",
-          "summary": "The Getting to Zero Coalition is calling on International Maritime Organization member states to preserve a strong and predictable Net-Zero Framework as negotiations over shipping’s global emissions rules head into...",
-          "date": "2026-09-11",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/imo-urged-to-give-shipping-clear-investment-signal-on-net-zero-pathway/",
-          "relevant": false
-        },
-        {
-          "title": "The common language shipping still lacks",
-          "summary": "Shipping’s digital ambitions are accelerating faster than the structures beneath them. The industry largely agrees on the need for open standards, but adoption remains constrained by proprietary interests, regulatory…",
-          "date": "2026-09-11",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/the-common-language-shipping-still-lacks/",
-          "relevant": false
         }
       ]
     },
@@ -9078,14 +8982,6 @@
           "date": "2026-09-14",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542917-kership-launches-first-of-two-offshore-patrol-vessels-for-montenegrin-navy",
-          "relevant": false
-        },
-        {
-          "title": "Shell Acquires PJM Gas Power Plant",
-          "summary": "Shell agreed to acquire a 169-megawatt natural gas-fired power plant in Pennsylvania, while selling a 609-MW combined-cycle gas power plant in New England.",
-          "date": "2026-09-11",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/shell_acquires_pjm_gas_power_plant-11-sep-2026-184601-article/?rss=true",
           "relevant": false
         }
       ]
@@ -11803,24 +11699,6 @@
           "source_url": "https://gcaptain.com/iraq-under-pressure-after-drone-strikes-close-key-saudi-pipeline/",
           "relevant": true,
           "region": "KSA"
-        },
-        {
-          "title": "Wealth Holdings grows MPP pipeline with up to six more newbuilds in China",
-          "summary": "Singapore-based Wealth Holdings has added a third multipurpose newbuilding programme this year, signing for up to six 25,000 dwt ships at China’s Hubei Guangji Green Energy Shipbuilding. The deal covers two firm vessels…",
-          "date": "2026-09-11",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/wealth-holdings-grows-mpp-pipeline-with-up-to-six-more-newbuilds-in-china/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Onex linked to record $200m VLCC deal",
-          "summary": "The tanker sale that has dominated market chatter this month has finally taken shape, with Dubai-based trading house Onex DMCC linked to an extraordinary $200m purchase of a near-new VLCC from George Procopiou’s Dynacom…",
-          "date": "2026-09-11",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/onex-linked-to-record-200m-vlcc-deal/",
-          "relevant": true,
-          "region": "UAE"
         }
       ]
     }
