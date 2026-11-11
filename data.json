@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T15:01:06Z",
+  "last_updated": "2026-11-11T16:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8,6 +8,14 @@
       "short_title": "Day-Rates",
       "description": "Benchmark day-rate trends for jackups, floaters and offshore support vessels across key regions.",
       "items": [
+        {
+          "title": "Amplitude completes Annie-2 development well offshore Victoria",
+          "summary": "Amplitude Energy drilled the Annie-2 development well to a total depth of 2,253 m measured depth on 28 October 2026 with the semisubmersible Transocean Equinox, then cased and completed it with a subsea tree. The well…",
+          "date": "2026-11-11",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/amplitude-completes-annie-2-development-well-offshore-victoria-81013",
+          "relevant": false
+        },
         {
           "title": "Vår Energi, Odfjell Drilling formalize three-year Deepsea Bergen deal",
           "summary": "Odfjell Drilling signed an agreement with Vår Energi for the Deepsea Bergen, a CS 60 E harsh-environment semisubmersible built in 2019. The firm scope covers three years of work beginning in early 2028, after the rig…",
@@ -361,30 +369,6 @@
           "relevant": false
         },
         {
-          "title": "SNOC awards SLB expanded underbalanced coiled tubing drilling contract",
-          "summary": "Sharjah National Oil (SNOC) awarded SLB an expanded framework agreement for underbalanced coiled tubing drilling (UBCTD), signed on the sidelines of ADIPEC 2026. The new campaign, about twice the size of the first…",
-          "date": "2026-11-10",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/snoc-awards-slb-expanded-underbalanced-coiled-tubing-drilling-contract-80950",
-          "relevant": false
-        },
-        {
-          "title": "ADNOC Drilling wins two jackup contracts offshore Kuwait",
-          "summary": "ADNOC Drilling received letters of award from Kuwait Oil Company (KOC) for two high-specification jackup rigs to operate offshore Kuwait. The Kuwait Petroleum Corporation Higher Procurement Committee approved the two…",
-          "date": "2026-11-10",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/adnoc-drilling-wins-two-jackup-contracts-offshore-kuwait-80948",
-          "relevant": true
-        },
-        {
-          "title": "ARA Petroleum Tanzania signs rig for Ntorya-3 well",
-          "summary": "ARA Petroleum Tanzania (APT), operator of the Ruvuma PSA, signed a drilling rig contract for the Ntorya-3 (NT-3) well. Maurel & Prom has released the rig, which is due on site in mid-December 2026. NT-3 is expected to…",
-          "date": "2026-11-10",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/ara-petroleum-tanzania-signs-rig-for-ntorya-3-well-80945",
-          "relevant": false
-        },
-        {
           "title": "Multi-license awards open Eastern Mediterranean doors for Murphy Oil",
           "summary": "Murphy Oil has made its first foray into the Eastern Mediterranean by securing six offshore exploration licenses close to a giant gas field.",
           "date": "2026-11-10",
@@ -430,6 +414,30 @@
           "date": "2026-11-10",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544259-golar-s-new-flng-unit-to-feature-techouse-fuel-saving-systems",
+          "relevant": false
+        },
+        {
+          "title": "SNOC awards SLB expanded underbalanced coiled tubing drilling contract",
+          "summary": "Sharjah National Oil (SNOC) awarded SLB an expanded framework agreement for underbalanced coiled tubing drilling (UBCTD), signed on the sidelines of ADIPEC 2026. The new campaign, about twice the size of the first…",
+          "date": "2026-11-10",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/snoc-awards-slb-expanded-underbalanced-coiled-tubing-drilling-contract-80950",
+          "relevant": false
+        },
+        {
+          "title": "ADNOC Drilling wins two jackup contracts offshore Kuwait",
+          "summary": "ADNOC Drilling received letters of award from Kuwait Oil Company (KOC) for two high-specification jackup rigs to operate offshore Kuwait. The Kuwait Petroleum Corporation Higher Procurement Committee approved the two…",
+          "date": "2026-11-10",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/adnoc-drilling-wins-two-jackup-contracts-offshore-kuwait-80948",
+          "relevant": true
+        },
+        {
+          "title": "ARA Petroleum Tanzania signs rig for Ntorya-3 well",
+          "summary": "ARA Petroleum Tanzania (APT), operator of the Ruvuma PSA, signed a drilling rig contract for the Ntorya-3 (NT-3) well. Maurel & Prom has released the rig, which is due on site in mid-December 2026. NT-3 is expected to…",
+          "date": "2026-11-10",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/ara-petroleum-tanzania-signs-rig-for-ntorya-3-well-80945",
           "relevant": false
         },
         {
@@ -9129,6 +9137,15 @@
           "source_url": "https://www.offshore-energy.biz/2026/11/11/adnoc-widens-its-asian-footprint-with-decade-long-lng-offtake-deal",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "Saudis Tell OPEC Production Surged to Highest Since War Began",
+          "summary": "Saudi Arabia told OPEC that its crude oil production climbed by 26 percent last month to the highest since before the outbreak of the war.",
+          "date": "2026-11-11",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/saudis_tell_opec_production_surged_to_highest_since_war_began-11-nov-2026-185059-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "Russia and Ukraine Resume Push for Peace Deal",
