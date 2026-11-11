@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T11:01:09Z",
+  "last_updated": "2026-11-11T11:49:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -489,14 +489,6 @@
           "relevant": false
         },
         {
-          "title": "General Atomics Ranger UUV to Support Large Payloads, UAVs",
-          "summary": "At Euronaval 2026, General Atomics revealed its Ranger and GA-Ray long-range UUVs, built for multi-year missions and launching sub-drones and payloads. The post General Atomics Ranger UUV to Support Large Payloads, UAVs…",
-          "date": "2026-11-09",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/general-atomics-ranger-uuv-to-support-large-payloads-uavs/",
-          "relevant": false
-        },
-        {
           "title": "Heerema renews Fugro deal for offshore survey and positioning services",
           "summary": "Heerema Marine Contractors has extended its global framework agreement with Fugro for another four years. The agreement covers the provision of...",
           "date": "2026-11-09",
@@ -526,6 +518,14 @@
           "date": "2026-11-09",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/saab-sweden-lulea-frigates/",
+          "relevant": false
+        },
+        {
+          "title": "General Atomics Ranger UUV to Support Large Payloads, UAVs",
+          "summary": "At Euronaval 2026, General Atomics revealed its Ranger and GA-Ray long-range UUVs, built for multi-year missions and launching sub-drones and payloads. The post General Atomics Ranger UUV to Support Large Payloads, UAVs…",
+          "date": "2026-11-09",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/general-atomics-ranger-uuv-to-support-large-payloads-uavs/",
           "relevant": false
         },
         {
@@ -5273,14 +5273,6 @@
           "relevant": false
         },
         {
-          "title": "BAE Systems accelerates delivery of advanced LRASM missile sensors",
-          "summary": "BAE Systems accelerates the delivery of advanced RF sensors for the Long-Range Anti-Ship Missile (LRASM) to Lockheed Martin to meet U.S. military needs. BAE Systems press release BAE Systems has delivered all Lot 8…",
-          "date": "2026-11-10",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/bae-systems-accelerates-delivery-of-advanced-lrasm-missile-sensors/",
-          "relevant": false
-        },
-        {
           "title": "Ofgem names preferred bidder for Dogger Bank B offshore transmission assets",
           "summary": "A consortium of Diamond Transmission UK (DTUK) and Japan’s Chubu Electric Power has been selected as the preferred bidder to acquire and operate...",
           "date": "2026-11-10",
@@ -5302,6 +5294,14 @@
           "date": "2026-11-10",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/oil-drops-trump-eases-middle-east-conflict/",
+          "relevant": false
+        },
+        {
+          "title": "BAE Systems accelerates delivery of advanced LRASM missile sensors",
+          "summary": "BAE Systems accelerates the delivery of advanced RF sensors for the Long-Range Anti-Ship Missile (LRASM) to Lockheed Martin to meet U.S. military needs. BAE Systems press release BAE Systems has delivered all Lot 8…",
+          "date": "2026-11-10",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/bae-systems-accelerates-delivery-of-advanced-lrasm-missile-sensors/",
           "relevant": false
         },
         {
@@ -9080,6 +9080,15 @@
           "source_url": "https://splash247.com/coals-new-world-order-takes-shape/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "ADNOC widens its Asian footprint with decade-long LNG offtake deal",
+          "summary": "This ten-year agreement will enable ADNOC to supply up to 4 million tonnes of liquefied natural gas (LNG) to India's Gujarat Energy.",
+          "date": "2026-11-11",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/11/adnoc-widens-its-asian-footprint-with-decade-long-lng-offtake-deal",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Russia and Ukraine Resume Push for Peace Deal",
