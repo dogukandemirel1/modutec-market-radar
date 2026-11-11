@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T17:01:07Z",
+  "last_updated": "2026-11-11T18:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -9144,6 +9144,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Yangzijiang tied to Torm’s LR2 newbuild push",
+          "summary": "Singapore-listed Yangzijiang Maritime Development has been linked to Danish tanker giant Torm’s latest LR2 newbuilding venture, putting a name to the mystery partner behind an eight-ship programme announced last week…",
+          "date": "2026-11-11",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/yangzijiang-tied-to-torms-lr2-newbuild-push/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Coal’s new world order takes shape",
           "summary": "Coal’s changing trade map is creating winners and losers across dry bulk shipping in 2026, with Indonesian exports retreating, southern African shipments setting records and Asian import demand increasingly fractured…",
