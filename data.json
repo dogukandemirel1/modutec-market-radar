@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T10:01:03Z",
+  "last_updated": "2026-11-11T11:01:09Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -255,6 +255,30 @@
           "source_name": "Splash247",
           "source_url": "https://splash247.com/elemental-energies-wins-offshore-ccs-deal-from-harbour-energy/",
           "relevant": true
+        },
+        {
+          "title": "ADES rig duo picks up multimillion-dollar assignments offshore India",
+          "summary": "Two of ADES’ jack-up rigs have secured multi-year contracts with Oil and Natural Gas Corporation (ONGC).",
+          "date": "2026-11-11",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/11/ades-rig-duo-picks-up-multimillion-dollar-assignments-offshore-india",
+          "relevant": false
+        },
+        {
+          "title": "Orlen terminates QatarEnergy LNG deal after force majeure",
+          "summary": "Orlen has terminated one of its two long-term liquefied natural gas (LNG) supply contracts with QatarEnergy, following an ongoing force majeure event that prevented the supplier from fulfilling its delivery obligations.",
+          "date": "2026-11-11",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/orlen-terminates-qatarenergy-lng-deal/",
+          "relevant": false
+        },
+        {
+          "title": "US DOE approves $480m loan for Arena Energy’s Project Elkhorn",
+          "summary": "The US Department of Energy (DOE) has finalised a $480m loan for Arena Energy’s wholly owned subsidiary Elkhorn Offshore for Project Elkhorn, an offshore oil and gas project off Louisiana in the Gulf of Mexico.",
+          "date": "2026-11-11",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/doe-480m-arena-energys-project-elkhorn/",
+          "relevant": false
         },
         {
           "title": "Orlen Terminates QatarEnergy LNG Deal Over Supply Disruptions",
@@ -5225,6 +5249,14 @@
           "relevant": false
         },
         {
+          "title": "First Oil Flows from Vietsovpetro's Platform Offshore Vietnam",
+          "summary": "Vietnam-Russia joint venture Vietsovpetro has started commercial oil production from the BK-26 platform at the Bach Ho field in Block 09-1, bringing the facility online 36 days ahead of schedule…",
+          "date": "2026-11-11",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544281-first-oil-flows-from-vietsovpetro-s-platform-offshore-vietnam",
+          "relevant": false
+        },
+        {
           "title": "‘Nonsense Rate’: Iran War Exposes Turmoil Behind Key Tanker Benchmark",
           "summary": "In March this year, inside a 282-year-old institution responsible for one of the most important prices in global oil markets, one man staged a quiet protest.",
           "date": "2026-11-10",
@@ -9050,6 +9082,15 @@
           "region": "SEA"
         },
         {
+          "title": "Russia and Ukraine Resume Push for Peace Deal",
+          "summary": "Ukraine and Russia started a second day of U.S.-led peace talks in Abu Dhabi.",
+          "date": "2026-11-11",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/russia_and_ukraine_resume_push_for_peace_deal-11-nov-2026-185056-article/?rss=true",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
           "title": "ADNOC Vessel Damaged in Gulf Attack as UKMTO Reports Fresh Tanker Strike Near Hormuz",
           "summary": "A vessel operated by ADNOC Logistics & Services was damaged in an attack in UAE territorial waters on Tuesday, as maritime authorities reported a separate apparent projectile strike against a...",
           "date": "2026-11-10",
@@ -9203,20 +9244,20 @@
           "region": "UAE"
         },
         {
-          "title": "ADNOC agrees 10-year LNG supply deal with Gujarat Energy",
-          "summary": "ADNOC has signed a 10-year sales and purchase agreement to supply GEL with up to four mt of liquefied natural gas (LNG) from 2028.",
-          "date": "2026-11-06",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/adnoc-10-year-lng-gujarat-energy/",
-          "relevant": true,
-          "region": "UAE"
-        },
-        {
           "title": "TII and Naval Group explore joint development of underwater drones",
           "summary": "Naval Group has signed a cooperation agreement with Abu Dhabi’s Technology Innovation Institute (TII), aimed at accelerating the “joint development” of autonomous underwater vehicles. The post TII and Naval Group…",
           "date": "2026-11-06",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/tii-naval-group-underwater-drones/",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
+          "title": "ADNOC agrees 10-year LNG supply deal with Gujarat Energy",
+          "summary": "ADNOC has signed a 10-year sales and purchase agreement to supply GEL with up to four mt of liquefied natural gas (LNG) from 2028.",
+          "date": "2026-11-06",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/adnoc-10-year-lng-gujarat-energy/",
           "relevant": true,
           "region": "UAE"
         },
