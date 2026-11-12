@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T09:01:06Z",
+  "last_updated": "2026-11-12T10:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -249,11 +249,27 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "DOF adds up to $160m in offshore vessel work",
-          "summary": "Norwegian offshore vessel owner DOF has secured a seven-year contract for an unnamed construction support vessel and an extension for the Skandi Constructor, adding between $135m and $160m in potential firm contract…",
+          "title": "TGS lands seismic contract offshore Namibia",
+          "summary": "Oslo-listed seismic specialist TGS has secured an ocean bottom node contract offshore Namibia from an undisclosed repeat customer. A deepwater crew is scheduled to mobilise in the fourth quarter of 2026, with the survey…",
           "date": "2026-11-12",
           "source_name": "Splash247",
-          "source_url": "https://splash247.com/dof-adds-up-to-160m-in-offshore-vessel-work/",
+          "source_url": "https://splash247.com/tgs-lands-seismic-contract-offshore-namibia/",
+          "relevant": false
+        },
+        {
+          "title": "Why shipowners might be better off sharing profits than taking on debt",
+          "summary": "Traditional loans demand repayments regardless of freight markets. Earnings-sharing structures offer a different proposition: investors participate in a vessel’s fortunes while owners retain control. Captain Vikas…",
+          "date": "2026-11-12",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/why-shipowners-might-be-better-off-sharing-profits-than-taking-on-debt/",
+          "relevant": false
+        },
+        {
+          "title": "Murphy Oil signs four production sharing contracts in Cameroon",
+          "summary": "US-based Murphy Oil has signed four production sharing contracts covering approximately 2.6 million acres offshore Cameroon.",
+          "date": "2026-11-12",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/murphy-oil-sings-contracts-cameroon/",
           "relevant": false
         },
         {
@@ -262,6 +278,14 @@
           "date": "2026-11-12",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544310-sbm-offshore-raises-revenue-forecast-as-fpso-sales-surge",
+          "relevant": false
+        },
+        {
+          "title": "DOF adds up to $160m in offshore vessel work",
+          "summary": "Norwegian offshore vessel owner DOF has secured a seven-year contract for an unnamed construction support vessel and an extension for the Skandi Constructor, adding between $135m and $160m in potential firm contract…",
+          "date": "2026-11-12",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/dof-adds-up-to-160m-in-offshore-vessel-work/",
           "relevant": false
         },
         {
@@ -5337,6 +5361,14 @@
           "relevant": false
         },
         {
+          "title": "Norway Regulator Widens Audit of AI Deployment in Oil Industry",
+          "summary": "The Norwegian Ocean Industry Authority is reviewing how oil and gas companies vet artificial intelligence systems and manage risks from AI use in their workflows.",
+          "date": "2026-11-12",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/norway_regulator_widens_audit_of_ai_deployment_in_oil_industry-12-nov-2026-185064-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "Russian Diesel Faces U.S. Buyer Resistance Despite Trump Sanctions Waiver",
           "summary": "US companies are unlikely to import Russian diesel as a tanker full of the fuel idles off the US Eastern Seaboard, experts said, despite President Donald Trump's temporary waiver of some sanctions on Moscow's fuel…",
           "date": "2026-11-11",
@@ -7921,6 +7953,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "With restructuring done, Impact Oil & Gas turns into pure-play Namibia explorer",
+          "summary": "The corporate restructuring has established a pure-play Namibia-focused development and exploration business, anchored by the Venus project.",
+          "date": "2026-11-12",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/12/with-restructuring-done-impact-oil-and-gas-turns-into-pure-play-namibia-explorer",
+          "relevant": false
+        },
+        {
           "title": "Monjasa seals biggest-ever fleet deal with five-tanker swoop",
           "summary": "Danish bunker supplier and shipowner Monjasa has acquired five sister product tankers from Germany’s Bernhard Schulte in its largest-ever fleet deal, strengthening its marine fuels operations in West Africa. The…",
           "date": "2026-11-11",
@@ -9224,6 +9264,14 @@
           "source_url": "https://splash247.com/singapore-strait-robbery-spike-sparks-fresh-security-warning/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Gulf Overtakes Russia in Oil Sales to India",
+          "summary": "Crude shipments reaching India through the crucial Middle East chokepoint have climbed to 2.1 million barrels a day so far this month, surpassing Russian imports of 1.8 million barrels a day, according to Kpler.",
+          "date": "2026-11-12",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/gulf_overtakes_russia_in_oil_sales_to_india-12-nov-2026-185063-article/?rss=true",
+          "relevant": false
         },
         {
           "title": "ADNOC widens its Asian footprint with decade-long LNG offtake deal",
