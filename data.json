@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T14:01:03Z",
+  "last_updated": "2026-11-12T15:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -337,14 +337,6 @@
           "relevant": false
         },
         {
-          "title": "Russian Diesel Tanker Awaits Orders Off U.S. Coast Amid Import Ban Dispute",
-          "summary": "OSLO, Nov 10 (Reuters) – President Donald Trump’s energy chief said on Tuesday the US was confident that the first cargo of Russian diesel headed for the US would eventually...",
-          "date": "2026-11-11",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/russian-diesel-tanker-awaits-orders-off-u-s-coast-amid-import-ban-dispute/",
-          "relevant": false
-        },
-        {
           "title": "IADC subcommittee brings industry together to create best practices for rig moves",
           "summary": "Rig moves bring together drilling contractors, operators and a long list of third-party personnel, and that complexity is what makes them so risky, says Jose “Butter” Rodriguez, a member of the IADC Rig Moving…",
           "date": "2026-11-11",
@@ -398,6 +390,14 @@
           "date": "2026-11-11",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544289-murphy-oil-signs-four-production-sharing-contracts-offshore-cameroon",
+          "relevant": false
+        },
+        {
+          "title": "Russian Diesel Tanker Awaits Orders Off U.S. Coast Amid Import Ban Dispute",
+          "summary": "OSLO, Nov 10 (Reuters) – President Donald Trump’s energy chief said on Tuesday the US was confident that the first cargo of Russian diesel headed for the US would eventually...",
+          "date": "2026-11-11",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/russian-diesel-tanker-awaits-orders-off-u-s-coast-amid-import-ban-dispute/",
           "relevant": false
         },
         {
