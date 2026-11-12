@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T08:01:08Z",
+  "last_updated": "2026-11-12T09:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -254,6 +254,14 @@
           "date": "2026-11-12",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/dof-adds-up-to-160m-in-offshore-vessel-work/",
+          "relevant": false
+        },
+        {
+          "title": "SBM Offshore Raises Revenue Forecast as FPSO Sales Surge",
+          "summary": "Dutch floating production specialist SBM Offshore on Thursday raised its full-year revenue and core profit guidance for the third time this year, citing a strong…",
+          "date": "2026-11-12",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544310-sbm-offshore-raises-revenue-forecast-as-fpso-sales-surge",
           "relevant": false
         },
         {
@@ -5321,6 +5329,14 @@
           "relevant": false
         },
         {
+          "title": "NYK charts the great reshuffling of global commodity trades",
+          "summary": "One of the world’s largest shipowners has given its take on where it sees the gas, dry bulk, and tanker markets heading in the coming years. The global VLCC fleet will see a significant expansion despite the…",
+          "date": "2026-11-12",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/nyk-charts-the-great-reshuffling-of-global-commodity-trades/",
+          "relevant": false
+        },
+        {
           "title": "Russian Diesel Faces U.S. Buyer Resistance Despite Trump Sanctions Waiver",
           "summary": "US companies are unlikely to import Russian diesel as a tanker full of the fuel idles off the US Eastern Seaboard, experts said, despite President Donald Trump's temporary waiver of some sanctions on Moscow's fuel…",
           "date": "2026-11-11",
@@ -5353,19 +5369,19 @@
           "relevant": false
         },
         {
-          "title": "MQ-9B Fills Critical Gaps for Europe’s Militaries in Trying Times",
-          "summary": "European nations face growing security challenges across the Arctic, the Baltic, NATO’s eastern flank, and the Mediterranean. In this environment, early detection and persistent awareness are essential to deterring…",
-          "date": "2026-11-11",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/mq-9b-fills-critical-gaps-for-europes-militaries-in-trying-times/",
-          "relevant": false
-        },
-        {
           "title": "First Oil Flows from Vietsovpetro's Platform Offshore Vietnam",
           "summary": "Vietnam-Russia joint venture Vietsovpetro has started commercial oil production from the BK-26 platform at the Bach Ho field in Block 09-1, bringing the facility online 36 days ahead of schedule…",
           "date": "2026-11-11",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544281-first-oil-flows-from-vietsovpetro-s-platform-offshore-vietnam",
+          "relevant": false
+        },
+        {
+          "title": "MQ-9B Fills Critical Gaps for Europe’s Militaries in Trying Times",
+          "summary": "European nations face growing security challenges across the Arctic, the Baltic, NATO’s eastern flank, and the Mediterranean. In this environment, early detection and persistent awareness are essential to deterring…",
+          "date": "2026-11-11",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/mq-9b-fills-critical-gaps-for-europes-militaries-in-trying-times/",
           "relevant": false
         },
         {
@@ -5393,14 +5409,6 @@
           "relevant": false
         },
         {
-          "title": "BAE Systems accelerates delivery of advanced LRASM missile sensors",
-          "summary": "BAE Systems accelerates the delivery of advanced RF sensors for the Long-Range Anti-Ship Missile (LRASM) to Lockheed Martin to meet U.S. military needs. BAE Systems press release BAE Systems has delivered all Lot 8…",
-          "date": "2026-11-10",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/bae-systems-accelerates-delivery-of-advanced-lrasm-missile-sensors/",
-          "relevant": false
-        },
-        {
           "title": "Ofgem names preferred bidder for Dogger Bank B offshore transmission assets",
           "summary": "A consortium of Diamond Transmission UK (DTUK) and Japan’s Chubu Electric Power has been selected as the preferred bidder to acquire and operate...",
           "date": "2026-11-10",
@@ -5422,6 +5430,14 @@
           "date": "2026-11-10",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/oil-drops-trump-eases-middle-east-conflict/",
+          "relevant": false
+        },
+        {
+          "title": "BAE Systems accelerates delivery of advanced LRASM missile sensors",
+          "summary": "BAE Systems accelerates the delivery of advanced RF sensors for the Long-Range Anti-Ship Missile (LRASM) to Lockheed Martin to meet U.S. military needs. BAE Systems press release BAE Systems has delivered all Lot 8…",
+          "date": "2026-11-10",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/bae-systems-accelerates-delivery-of-advanced-lrasm-missile-sensors/",
           "relevant": false
         },
         {
