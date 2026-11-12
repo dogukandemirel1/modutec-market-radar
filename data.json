@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T07:01:25Z",
+  "last_updated": "2026-11-12T08:01:08Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -265,6 +265,14 @@
           "relevant": false
         },
         {
+          "title": "Australian naval propulsion specialist VEEM wins work on US Navy submarines",
+          "summary": "The Australian government has announced a contract for Perth-based naval propulsion specialist VEEM, supplying parts for US submarines. The post Australian naval propulsion specialist VEEM wins work on US Navy…",
+          "date": "2026-11-12",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/australian-propulsion-specialist-veem-wins-work-on-us-submarines/",
+          "relevant": false
+        },
+        {
           "title": "Qatar Loses First LNG Customer Since War Disrupted Flows",
           "summary": "Polish energy company Orlen SA terminated one of its long-term liquefied natural gas contracts with QatarEnergy, citing the export giant’s inability to deliver as the conflict in the Middle East disrupts shipments.",
           "date": "2026-11-11",
@@ -321,14 +329,6 @@
           "relevant": false
         },
         {
-          "title": "Elemental Energies wins offshore CCS deal from Harbour Energy",
-          "summary": "Aberdeen-based well engineering specialist Elemental Energies has secured a two-year contract from Harbour Energy to support the expansion of the Viking carbon capture and storage (CCS) project in the UK southern North…",
-          "date": "2026-11-11",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/elemental-energies-wins-offshore-ccs-deal-from-harbour-energy/",
-          "relevant": true
-        },
-        {
           "title": "DOF Group Announces CSV Contract Award and Extension",
           "summary": "DOF Group ASA announced a 7-year contract for one of its smaller construction support vessels (CSV) including ROV services. The contract adds approximately $110 million to DOF’s backlog…",
           "date": "2026-11-11",
@@ -351,6 +351,14 @@
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544275-orlen-terminates-qatarenergy-lng-deal-over-supply-disruptions",
           "relevant": false
+        },
+        {
+          "title": "Elemental Energies wins offshore CCS deal from Harbour Energy",
+          "summary": "Aberdeen-based well engineering specialist Elemental Energies has secured a two-year contract from Harbour Energy to support the expansion of the Viking carbon capture and storage (CCS) project in the UK southern North…",
+          "date": "2026-11-11",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/elemental-energies-wins-offshore-ccs-deal-from-harbour-energy/",
+          "relevant": true
         },
         {
           "title": "Cadeler lines up three vessels for UK offshore wind project",
@@ -5353,19 +5361,19 @@
           "relevant": false
         },
         {
-          "title": "Canada puts Iranian tanker giant back under sanctions",
-          "summary": "Canada has reinstated sanctions against the National Iranian Tanker Company (NITC), reversing relief granted a decade ago under the international nuclear agreement with Tehran. The move forms part of a package targeting…",
-          "date": "2026-11-11",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/canada-puts-iranian-tanker-giant-back-under-sanctions/",
-          "relevant": false
-        },
-        {
           "title": "First Oil Flows from Vietsovpetro's Platform Offshore Vietnam",
           "summary": "Vietnam-Russia joint venture Vietsovpetro has started commercial oil production from the BK-26 platform at the Bach Ho field in Block 09-1, bringing the facility online 36 days ahead of schedule…",
           "date": "2026-11-11",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544281-first-oil-flows-from-vietsovpetro-s-platform-offshore-vietnam",
+          "relevant": false
+        },
+        {
+          "title": "Canada puts Iranian tanker giant back under sanctions",
+          "summary": "Canada has reinstated sanctions against the National Iranian Tanker Company (NITC), reversing relief granted a decade ago under the international nuclear agreement with Tehran. The move forms part of a package targeting…",
+          "date": "2026-11-11",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/canada-puts-iranian-tanker-giant-back-under-sanctions/",
           "relevant": false
         },
         {
