@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T06:01:05Z",
+  "last_updated": "2026-11-12T07:01:25Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -249,6 +249,22 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "DOF adds up to $160m in offshore vessel work",
+          "summary": "Norwegian offshore vessel owner DOF has secured a seven-year contract for an unnamed construction support vessel and an extension for the Skandi Constructor, adding between $135m and $160m in potential firm contract…",
+          "date": "2026-11-12",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/dof-adds-up-to-160m-in-offshore-vessel-work/",
+          "relevant": false
+        },
+        {
+          "title": "EU clears $2.2bn support to revive Belgian offshore wind tender",
+          "summary": "The European Commission has approved a €2.04bn ($2.26bn) state aid scheme for Belgium’s first offshore wind farm in the Princess Elisabeth Zone, clearing the way for a new tender after the original process was cancelled…",
+          "date": "2026-11-12",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/eu-clears-2-2bn-support-to-revive-belgian-offshore-wind-tender/",
+          "relevant": false
+        },
+        {
           "title": "Qatar Loses First LNG Customer Since War Disrupted Flows",
           "summary": "Polish energy company Orlen SA terminated one of its long-term liquefied natural gas contracts with QatarEnergy, citing the export giant’s inability to deliver as the conflict in the Middle East disrupts shipments.",
           "date": "2026-11-11",
@@ -263,14 +279,6 @@
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/russian-diesel-tanker-awaits-orders-off-u-s-coast-amid-import-ban-dispute/",
           "relevant": false
-        },
-        {
-          "title": "Elemental Energies wins offshore CCS deal from Harbour Energy",
-          "summary": "Aberdeen-based well engineering specialist Elemental Energies has secured a two-year contract from Harbour Energy to support the expansion of the Viking carbon capture and storage (CCS) project in the UK southern North…",
-          "date": "2026-11-11",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/elemental-energies-wins-offshore-ccs-deal-from-harbour-energy/",
-          "relevant": true
         },
         {
           "title": "IADC subcommittee brings industry together to create best practices for rig moves",
@@ -311,6 +319,14 @@
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/doe-480m-arena-energys-project-elkhorn/",
           "relevant": false
+        },
+        {
+          "title": "Elemental Energies wins offshore CCS deal from Harbour Energy",
+          "summary": "Aberdeen-based well engineering specialist Elemental Energies has secured a two-year contract from Harbour Energy to support the expansion of the Viking carbon capture and storage (CCS) project in the UK southern North…",
+          "date": "2026-11-11",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/elemental-energies-wins-offshore-ccs-deal-from-harbour-energy/",
+          "relevant": true
         },
         {
           "title": "DOF Group Announces CSV Contract Award and Extension",
@@ -5289,6 +5305,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Bunker prices plunge 20%",
+          "summary": "Bunker prices have plunged by as much as 20% in less than two weeks as hopes of an easing of the Iran conflict send oil markets tumbling, offering shipowners some relief from what is still expected to be the most…",
+          "date": "2026-11-12",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/bunker-prices-plunge-20/",
+          "relevant": false
+        },
+        {
           "title": "Russian Diesel Faces U.S. Buyer Resistance Despite Trump Sanctions Waiver",
           "summary": "US companies are unlikely to import Russian diesel as a tanker full of the fuel idles off the US Eastern Seaboard, experts said, despite President Donald Trump's temporary waiver of some sanctions on Moscow's fuel…",
           "date": "2026-11-11",
@@ -5321,19 +5345,19 @@
           "relevant": false
         },
         {
-          "title": "Canada puts Iranian tanker giant back under sanctions",
-          "summary": "Canada has reinstated sanctions against the National Iranian Tanker Company (NITC), reversing relief granted a decade ago under the international nuclear agreement with Tehran. The move forms part of a package targeting…",
-          "date": "2026-11-11",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/canada-puts-iranian-tanker-giant-back-under-sanctions/",
-          "relevant": false
-        },
-        {
           "title": "MQ-9B Fills Critical Gaps for Europe’s Militaries in Trying Times",
           "summary": "European nations face growing security challenges across the Arctic, the Baltic, NATO’s eastern flank, and the Mediterranean. In this environment, early detection and persistent awareness are essential to deterring…",
           "date": "2026-11-11",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/11/mq-9b-fills-critical-gaps-for-europes-militaries-in-trying-times/",
+          "relevant": false
+        },
+        {
+          "title": "Canada puts Iranian tanker giant back under sanctions",
+          "summary": "Canada has reinstated sanctions against the National Iranian Tanker Company (NITC), reversing relief granted a decade ago under the international nuclear agreement with Tehran. The move forms part of a package targeting…",
+          "date": "2026-11-11",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/canada-puts-iranian-tanker-giant-back-under-sanctions/",
           "relevant": false
         },
         {
@@ -9169,11 +9193,11 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Yangzijiang tied to Torm’s LR2 newbuild push",
-          "summary": "Singapore-listed Yangzijiang Maritime Development has been linked to Danish tanker giant Torm’s latest LR2 newbuilding venture, putting a name to the mystery partner behind an eight-ship programme announced last week…",
-          "date": "2026-11-11",
+          "title": "Singapore Strait robbery spike sparks fresh security warning",
+          "summary": "A sudden resurgence in robberies aboard merchant ships in the Singapore Strait has prompted regional maritime security authorities to issue an urgent warning, with three vessels boarded in nine days and one seafarer…",
+          "date": "2026-11-12",
           "source_name": "Splash247",
-          "source_url": "https://splash247.com/yangzijiang-tied-to-torms-lr2-newbuild-push/",
+          "source_url": "https://splash247.com/singapore-strait-robbery-spike-sparks-fresh-security-warning/",
           "relevant": false,
           "region": "SEA"
         },
@@ -9203,6 +9227,15 @@
           "source_url": "https://www.rigzone.com/news/wire/russia_and_ukraine_resume_push_for_peace_deal-11-nov-2026-185056-article/?rss=true",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "Yangzijiang tied to Torm’s LR2 newbuild push",
+          "summary": "Singapore-listed Yangzijiang Maritime Development has been linked to Danish tanker giant Torm’s latest LR2 newbuilding venture, putting a name to the mystery partner behind an eight-ship programme announced last week…",
+          "date": "2026-11-11",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/yangzijiang-tied-to-torms-lr2-newbuild-push/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Coal’s new world order takes shape",
