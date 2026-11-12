@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T16:01:04Z",
+  "last_updated": "2026-11-12T17:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8,6 +8,14 @@
       "short_title": "Day-Rates",
       "description": "Benchmark day-rate trends for jackups, floaters and offshore support vessels across key regions.",
       "items": [
+        {
+          "title": "Brava starts Atlanta drilling after completing Papa-Terra wells",
+          "summary": "Brava Energia moved Constellation Oil Services’ Lone Star semisubmersible to the Atlanta field offshore Brazil and began drilling the first of two planned wells, ATL-9H and ATL-10H, after completing its Papa-Terra…",
+          "date": "2026-11-12",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/brava-starts-atlanta-drilling-after-completing-papa-terra-wells-81036",
+          "relevant": false
+        },
         {
           "title": "Amplitude completes Annie-2 development well offshore Victoria",
           "summary": "Amplitude Energy drilled the Annie-2 development well to a total depth of 2,253 m measured depth on 28 October 2026 with the semisubmersible Transocean Equinox, then cased and completed it with a subsea tree. The well…",
@@ -273,6 +281,22 @@
           "relevant": false
         },
         {
+          "title": "SLB wins NCS integrated drilling services contract from Vår Energi",
+          "summary": "Vår Energi selected SLB as its main integrated drilling services supplier offshore Norway. The model combines technical expertise, digital workflows and operational execution across well delivery, with SLB working…",
+          "date": "2026-11-12",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/slb-wins-ncs-integrated-drilling-services-contract-from-var-energi-81038",
+          "relevant": false
+        },
+        {
+          "title": "USA DOE Closes $480MM Loan to Expand American Energy Output",
+          "summary": "The U.S. Department of Energy's Office of Energy Dominance Financing announced the financial close of a $480 million loan for Arena Energy's Project Elkhorn.",
+          "date": "2026-11-12",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/usa_doe_closes_480mm_loan_to_expand_american_energy_output-12-nov-2026-185069-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "Murphy Oil signs four production sharing contracts in Cameroon",
           "summary": "US-based Murphy Oil has signed four production sharing contracts covering approximately 2.6 million acres offshore Cameroon.",
           "date": "2026-11-12",
@@ -329,22 +353,6 @@
           "relevant": false
         },
         {
-          "title": "Qatar Loses First LNG Customer Since War Disrupted Flows",
-          "summary": "Polish energy company Orlen SA terminated one of its long-term liquefied natural gas contracts with QatarEnergy, citing the export giant’s inability to deliver as the conflict in the Middle East disrupts shipments.",
-          "date": "2026-11-11",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/qatar-loses-first-lng-customer-since-war-disrupted-flows/",
-          "relevant": false
-        },
-        {
-          "title": "IADC subcommittee brings industry together to create best practices for rig moves",
-          "summary": "Rig moves bring together drilling contractors, operators and a long list of third-party personnel, and that complexity is what makes them so risky, says Jose “Butter” Rodriguez, a member of the IADC Rig Moving…",
-          "date": "2026-11-11",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/rig-move-safety-getting-a-playbook-as-iadc-subcommittee-brings-operators-contractors-and-movers-together-on-best-practices-80938",
-          "relevant": false
-        },
-        {
           "title": "Murphy Oil gains stronger foothold offshore Cameroon with block quartet",
           "summary": "Murphy Oil has signed four production sharing contracts (PSCs) for more offshore acreage in Cameroon.",
           "date": "2026-11-11",
@@ -393,6 +401,22 @@
           "relevant": false
         },
         {
+          "title": "Qatar Loses First LNG Customer Since War Disrupted Flows",
+          "summary": "Polish energy company Orlen SA terminated one of its long-term liquefied natural gas contracts with QatarEnergy, citing the export giant’s inability to deliver as the conflict in the Middle East disrupts shipments.",
+          "date": "2026-11-11",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/qatar-loses-first-lng-customer-since-war-disrupted-flows/",
+          "relevant": false
+        },
+        {
+          "title": "IADC subcommittee brings industry together to create best practices for rig moves",
+          "summary": "Rig moves bring together drilling contractors, operators and a long list of third-party personnel, and that complexity is what makes them so risky, says Jose “Butter” Rodriguez, a member of the IADC Rig Moving…",
+          "date": "2026-11-11",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/rig-move-safety-getting-a-playbook-as-iadc-subcommittee-brings-operators-contractors-and-movers-together-on-best-practices-80938",
+          "relevant": false
+        },
+        {
           "title": "Russian Diesel Tanker Awaits Orders Off U.S. Coast Amid Import Ban Dispute",
           "summary": "OSLO, Nov 10 (Reuters) – President Donald Trump’s energy chief said on Tuesday the US was confident that the first cargo of Russian diesel headed for the US would eventually...",
           "date": "2026-11-11",
@@ -425,14 +449,6 @@
           "relevant": false
         },
         {
-          "title": "Roddie Mackenzie named 2026 IADC Contractor of the Year",
-          "summary": "By Stephen Whitfield, Senior Editor Roddie Mackenzie, Executive VP and Chief Commercial Officer at Transocean and 2026 IADC Chairman, was named 2026 IADC Contractor of the Year. The annual award was established in 1988…",
-          "date": "2026-11-10",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/roddie-mackenzie-named-2026-iadc-contractor-of-the-year-80975",
-          "relevant": false
-        },
-        {
           "title": "Multi-license awards open Eastern Mediterranean doors for Murphy Oil",
           "summary": "Murphy Oil has made its first foray into the Eastern Mediterranean by securing six offshore exploration licenses close to a giant gas field.",
           "date": "2026-11-10",
@@ -446,6 +462,14 @@
           "date": "2026-11-10",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/10/energean-selects-swedish-firm-for-post-decommissioning-surveys-in-uk",
+          "relevant": false
+        },
+        {
+          "title": "Roddie Mackenzie named 2026 IADC Contractor of the Year",
+          "summary": "By Stephen Whitfield, Senior Editor Roddie Mackenzie, Executive VP and Chief Commercial Officer at Transocean and 2026 IADC Chairman, was named 2026 IADC Contractor of the Year. The annual award was established in 1988…",
+          "date": "2026-11-10",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/roddie-mackenzie-named-2026-iadc-contractor-of-the-year-80975",
           "relevant": false
         },
         {
@@ -5385,11 +5409,27 @@
           "relevant": false
         },
         {
+          "title": "Naftogaz Gets Dutch Grant to Secure Winter Gas",
+          "summary": "Ukraine's state-owned Naftogaz secured an agreement for a Dutch government grant of over $25 million through the EBRD to help secure natural gas supply, as Ukraine and Russia continue to exchange attacks on energy…",
+          "date": "2026-11-12",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/naftogaz_gets_dutch_grant_to_secure_winter_gas-12-nov-2026-185070-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "Norway Regulator Widens Audit of AI Deployment in Oil Industry",
           "summary": "The Norwegian Ocean Industry Authority is reviewing how oil and gas companies vet artificial intelligence systems and manage risks from AI use in their workflows.",
           "date": "2026-11-12",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/norway_regulator_widens_audit_of_ai_deployment_in_oil_industry-12-nov-2026-185064-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "BAE Systems completes Lot 8 LRASM sensor deliveries to Lockheed Martin",
+          "summary": "BAE Systems has completed the delivery of all Lot 8 radio-frequency (RF) sensors to Lockheed Martin for integration into the US military’s Long-Range Anti-Ship Missile (LRASM) programme. The post BAE Systems completes…",
+          "date": "2026-11-12",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/bae-systems-lrasm-lockheed-martin/",
           "relevant": false
         },
         {
@@ -5417,19 +5457,19 @@
           "relevant": false
         },
         {
-          "title": "Germany to Set Up State Gas Reserve After Missing Winter Storage Targets",
-          "summary": "The German government will go ahead with a planned 24-terawatt-hour crisis gas reserve to be funded by user surcharges, the economy ministry said, following criticism over missed storage targets for the winter heating…",
-          "date": "2026-11-11",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/germany-to-set-up-state-gas-reserve-after-missing-winter-storage-targets/",
-          "relevant": false
-        },
-        {
           "title": "First Oil Flows from Vietsovpetro's Platform Offshore Vietnam",
           "summary": "Vietnam-Russia joint venture Vietsovpetro has started commercial oil production from the BK-26 platform at the Bach Ho field in Block 09-1, bringing the facility online 36 days ahead of schedule…",
           "date": "2026-11-11",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544281-first-oil-flows-from-vietsovpetro-s-platform-offshore-vietnam",
+          "relevant": false
+        },
+        {
+          "title": "Germany to Set Up State Gas Reserve After Missing Winter Storage Targets",
+          "summary": "The German government will go ahead with a planned 24-terawatt-hour crisis gas reserve to be funded by user surcharges, the economy ministry said, following criticism over missed storage targets for the winter heating…",
+          "date": "2026-11-11",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/germany-to-set-up-state-gas-reserve-after-missing-winter-storage-targets/",
           "relevant": false
         },
         {
@@ -5465,19 +5505,19 @@
           "relevant": false
         },
         {
-          "title": "ORLEN Cites Foreign Operations as Profit Rises",
-          "summary": "Poland's majority state-owned ORLEN reported a 40 percent increase in revenue from foreign markets, saying expansion abroad has allowed it to pursue profitability while holding down its prices at home.",
-          "date": "2026-11-10",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/orlen_cites_foreign_operations_as_profit_rises-10-nov-2026-185051-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Oil drops further as Trump eases Middle East conflict fears",
           "summary": "Crude oil benchmarks extended their decline on Tuesday after US President Donald Trump indicated he has no immediate plans to escalate military operations against Iran, tempering weeks of anxiety over Middle East supply…",
           "date": "2026-11-10",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/oil-drops-trump-eases-middle-east-conflict/",
+          "relevant": false
+        },
+        {
+          "title": "ORLEN Cites Foreign Operations as Profit Rises",
+          "summary": "Poland's majority state-owned ORLEN reported a 40 percent increase in revenue from foreign markets, saying expansion abroad has allowed it to pursue profitability while holding down its prices at home.",
+          "date": "2026-11-10",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/orlen_cites_foreign_operations_as_profit_rises-10-nov-2026-185051-article/?rss=true",
           "relevant": false
         },
         {
@@ -9297,6 +9337,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Singapore Retains Crown as World’s Leading Maritime Hub",
+          "summary": "Singapore has retained its position as the world’s leading maritime hub, while Shanghai has climbed to second place and Asia now accounts for three of the world’s five highest-ranked maritime...",
+          "date": "2026-11-12",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/singapore-retains-crown-as-worlds-leading-maritime-hub/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "GULF broadens LNG trading horizons beyond Thailand with PetroChina deal",
           "summary": "This deal enables GULF to supply 0.3 million tonnes of LNG to PetroChina in 2027, marking its strategic expansion into international trading.",
           "date": "2026-11-12",
@@ -9328,6 +9377,24 @@
           "date": "2026-11-11",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/11/adnoc-widens-its-asian-footprint-with-decade-long-lng-offtake-deal",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
+          "title": "Saudi Oil Production Surges to One of Highest Levels in Years",
+          "summary": "Saudi Arabia told OPEC that its crude oil production climbed 26 percent in October to one of the highest monthly levels in years.",
+          "date": "2026-11-11",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/saudi_oil_production_surges_to_one_of_highest_levels_in_years-11-nov-2026-185059-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
+        },
+        {
+          "title": "USA Envoys to Meet Putin, Zelenskyy After Abu Dhabi Talks",
+          "summary": "U.S. envoys Steve Witkoff and Jared Kushner plan to meet with President Vladimir Putin in Moscow on Thursday to continue a push for a peace deal between Russia and Ukraine.",
+          "date": "2026-11-11",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/usa_envoys_to_meet_putin_zelenskyy_after_abu_dhabi_talks-11-nov-2026-185056-article/?rss=true",
           "relevant": true,
           "region": "UAE"
         },
