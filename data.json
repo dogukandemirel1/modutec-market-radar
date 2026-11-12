@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T13:01:08Z",
+  "last_updated": "2026-11-12T14:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -278,6 +278,14 @@
           "date": "2026-11-12",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/murphy-oil-sings-contracts-cameroon/",
+          "relevant": false
+        },
+        {
+          "title": "Singapore Seeks LNG Floating Storage Operators to Expand Bunkering Ops",
+          "summary": "The Maritime and Port Authority of Singapore (MPA) has opened applications for licenses to operate up to two liquefied natural gas (LNG) floating storage units (FSUs) in Singapore anchorages…",
+          "date": "2026-11-12",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544323-singapore-seeks-lng-floating-storage-operators-to-expand-bunkering-ops",
           "relevant": false
         },
         {
