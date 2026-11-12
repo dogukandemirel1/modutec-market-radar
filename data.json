@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T18:01:04Z",
+  "last_updated": "2026-11-12T19:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5393,19 +5393,19 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Finland Says it Detects Strike on Russian Warship in Baltic Sea",
+          "summary": "Finland's military said on Thursday its forces had detected \"a strike\" on a Russian warship in the Baltic Sea a day earlier, but that the security situation in the area remained stable.",
+          "date": "2026-11-12",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/finland-says-it-detects-strike-on-russian-warship-in-baltic-sea/",
+          "relevant": false
+        },
+        {
           "title": "Bunker prices plunge 20%",
           "summary": "Bunker prices have plunged by as much as 20% in less than two weeks as hopes of an easing of the Iran conflict send oil markets tumbling, offering shipowners some relief from what is still expected to be the most…",
           "date": "2026-11-12",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/bunker-prices-plunge-20/",
-          "relevant": false
-        },
-        {
-          "title": "NYK charts the great reshuffling of global commodity trades",
-          "summary": "One of the world’s largest shipowners has given its take on where it sees the gas, dry bulk, and tanker markets heading in the coming years. The global VLCC fleet will see a significant expansion despite the…",
-          "date": "2026-11-12",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/nyk-charts-the-great-reshuffling-of-global-commodity-trades/",
           "relevant": false
         },
         {
@@ -5433,11 +5433,27 @@
           "relevant": false
         },
         {
+          "title": "NYK charts the great reshuffling of global commodity trades",
+          "summary": "One of the world’s largest shipowners has given its take on where it sees the gas, dry bulk, and tanker markets heading in the coming years. The global VLCC fleet will see a significant expansion despite the…",
+          "date": "2026-11-12",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/nyk-charts-the-great-reshuffling-of-global-commodity-trades/",
+          "relevant": false
+        },
+        {
           "title": "Russian Diesel Faces U.S. Buyer Resistance Despite Trump Sanctions Waiver",
           "summary": "US companies are unlikely to import Russian diesel as a tanker full of the fuel idles off the US Eastern Seaboard, experts said, despite President Donald Trump's temporary waiver of some sanctions on Moscow's fuel…",
           "date": "2026-11-11",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/russian-diesel-faces-u-s-buyer-resistance-despite-trump-sanctions-waiver/",
+          "relevant": false
+        },
+        {
+          "title": "First Oil Flows from Vietsovpetro's Platform Offshore Vietnam",
+          "summary": "Vietnam-Russia joint venture Vietsovpetro has started commercial oil production from the BK-26 platform at the Bach Ho field in Block 09-1, bringing the facility online 36 days ahead of schedule…",
+          "date": "2026-11-11",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544281-first-oil-flows-from-vietsovpetro-s-platform-offshore-vietnam",
           "relevant": false
         },
         {
@@ -5454,14 +5470,6 @@
           "date": "2026-11-11",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/imo-chief-calls-for-strict-enforcement-of-solas-rules-in-strait-of-hormuz/",
-          "relevant": false
-        },
-        {
-          "title": "First Oil Flows from Vietsovpetro's Platform Offshore Vietnam",
-          "summary": "Vietnam-Russia joint venture Vietsovpetro has started commercial oil production from the BK-26 platform at the Bach Ho field in Block 09-1, bringing the facility online 36 days ahead of schedule…",
-          "date": "2026-11-11",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/544281-first-oil-flows-from-vietsovpetro-s-platform-offshore-vietnam",
           "relevant": false
         },
         {
@@ -9336,6 +9344,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Tanker Ablaze Off UAE as More Attacks Rattle Gulf Shipping",
+          "summary": "A projectile struck the engine room of the Liberia-flagged crude oil tanker Dominica Prosperity off the United Arab Emirates on Wednesday, forcing the evacuation of all 22 crew members as...",
+          "date": "2026-11-12",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/tanker-ablaze-off-uae-as-more-attacks-rattle-gulf-shipping/",
+          "relevant": true,
+          "region": "UAE"
+        },
         {
           "title": "Singapore Retains Crown as World’s Leading Maritime Hub",
           "summary": "Singapore has retained its position as the world’s leading maritime hub, while Shanghai has climbed to second place and Asia now accounts for three of the world’s five highest-ranked maritime...",
