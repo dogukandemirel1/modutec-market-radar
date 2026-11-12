@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T12:01:02Z",
+  "last_updated": "2026-11-12T12:35:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -9281,11 +9281,11 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Singapore Strait robbery spike sparks fresh security warning",
-          "summary": "A sudden resurgence in robberies aboard merchant ships in the Singapore Strait has prompted regional maritime security authorities to issue an urgent warning, with three vessels boarded in nine days and one seafarer…",
+          "title": "GULF broadens LNG trading horizons beyond Thailand with PetroChina deal",
+          "summary": "This deal enables GULF to supply 0.3 million tonnes of LNG to PetroChina in 2027, marking its strategic expansion into international trading.",
           "date": "2026-11-12",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/singapore-strait-robbery-spike-sparks-fresh-security-warning/",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/12/gulf-broadens-lng-trading-horizons-beyond-thailand-with-petrochina-deal",
           "relevant": false,
           "region": "SEA"
         },
@@ -9296,6 +9296,15 @@
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/gulf_overtakes_russia_in_oil_sales_to_india-12-nov-2026-185063-article/?rss=true",
           "relevant": false
+        },
+        {
+          "title": "Singapore Strait robbery spike sparks fresh security warning",
+          "summary": "A sudden resurgence in robberies aboard merchant ships in the Singapore Strait has prompted regional maritime security authorities to issue an urgent warning, with three vessels boarded in nine days and one seafarer…",
+          "date": "2026-11-12",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/singapore-strait-robbery-spike-sparks-fresh-security-warning/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "ADNOC widens its Asian footprint with decade-long LNG offtake deal",
