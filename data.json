@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T11:01:05Z",
+  "last_updated": "2026-11-12T12:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -249,6 +249,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Chinese shipbuilder wins AHTS order from South American owner",
+          "summary": "Chinese shipbuilder Rainbow Offshore Engineering (ROC), part of Shenzhen-listed Jiangsu Rainbow Heavy Industries, has secured a contract to build an anchor-handling tug supply (AHTS) vessel for an undisclosed South…",
+          "date": "2026-11-12",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/chinese-shipbuilder-wins-ahts-order-from-south-american-owner/",
+          "relevant": false
+        },
+        {
           "title": "TGS lands seismic contract offshore Namibia",
           "summary": "Oslo-listed seismic specialist TGS has secured an ocean bottom node contract offshore Namibia from an undisclosed repeat customer. A deepwater crew is scheduled to mobilise in the fourth quarter of 2026, with the survey…",
           "date": "2026-11-12",
@@ -270,6 +278,14 @@
           "date": "2026-11-12",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/murphy-oil-sings-contracts-cameroon/",
+          "relevant": false
+        },
+        {
+          "title": "SeaBird's Fulmar Explorer Lands Six-Month Seismic Contract in West Africa",
+          "summary": "SeaBird Exploration, a wholly owned subsidiary of SED Energy Holdings, has secured a contract for ocean bottom node (OBN) source work in West Africa, extending employment…",
+          "date": "2026-11-12",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544315-seabird-s-fulmar-explorer-lands-six-month-seismic-contract-in-west-africa",
           "relevant": false
         },
         {
@@ -7952,6 +7968,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "Marine Platforms plans full takeover of former Technip pipelay vessel",
+          "summary": "Nigerian offshore services contractor Marine Platforms is moving towards full ownership of the pipelay and heavy-lift construction vessel Zhong Fei Huan Qiu 1200, formerly known as Global 1200. The company acquired a…",
+          "date": "2026-11-12",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/marine-platforms-plans-full-takeover-of-former-technip-pipelay-vessel/",
+          "relevant": false
+        },
         {
           "title": "With restructuring done, Impact Oil & Gas turns into pure-play Namibia explorer",
           "summary": "The corporate restructuring has established a pure-play Namibia-focused development and exploration business, anchored by the Venus project.",
