@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T20:01:00Z",
+  "last_updated": "2026-11-12T21:01:10Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -256,6 +256,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Saronic Awards $100 Million-Plus Contract for World’s Largest Shiplift at Texas Shipyard",
+          "summary": "Saronic has awarded a contract worth more than $100 million to Norway’s Syncrolift to design and supply what the companies say will be the world’s largest shiplift at its planned...",
+          "date": "2026-11-12",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/saronic-awards-100-million-plus-contract-for-worlds-largest-shiplift-at-texas-shipyard/",
+          "relevant": false
+        },
         {
           "title": "Chinese shipbuilder wins AHTS order from South American owner",
           "summary": "Chinese shipbuilder Rainbow Offshore Engineering (ROC), part of Shenzhen-listed Jiangsu Rainbow Heavy Industries, has secured a contract to build an anchor-handling tug supply (AHTS) vessel for an undisclosed South…",
@@ -5393,6 +5401,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Port of Los Angeles Sets October Cargo Record as Strike Threat and Rail Delays Loom",
+          "summary": "By Lori-Ann LaRocco The Port of Los Angeles handled a record 1,026,872 twenty-foot equivalent units (TEUs) in October, marking its second-busiest month ever and extending the strongest five-month cargo run...",
+          "date": "2026-11-12",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/port-of-los-angeles-sets-october-cargo-record-as-strike-threat-and-rail-delays-loom/",
+          "relevant": false
+        },
+        {
           "title": "Finland Says it Detects Strike on Russian Warship in Baltic Sea",
           "summary": "Finland's military said on Thursday its forces had detected \"a strike\" on a Russian warship in the Baltic Sea a day earlier, but that the security situation in the area remained stable.",
           "date": "2026-11-12",
@@ -5441,19 +5457,19 @@
           "relevant": false
         },
         {
-          "title": "Russian Diesel Faces U.S. Buyer Resistance Despite Trump Sanctions Waiver",
-          "summary": "US companies are unlikely to import Russian diesel as a tanker full of the fuel idles off the US Eastern Seaboard, experts said, despite President Donald Trump's temporary waiver of some sanctions on Moscow's fuel…",
-          "date": "2026-11-11",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/russian-diesel-faces-u-s-buyer-resistance-despite-trump-sanctions-waiver/",
-          "relevant": false
-        },
-        {
           "title": "First Oil Flows from Vietsovpetro's Platform Offshore Vietnam",
           "summary": "Vietnam-Russia joint venture Vietsovpetro has started commercial oil production from the BK-26 platform at the Bach Ho field in Block 09-1, bringing the facility online 36 days ahead of schedule…",
           "date": "2026-11-11",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544281-first-oil-flows-from-vietsovpetro-s-platform-offshore-vietnam",
+          "relevant": false
+        },
+        {
+          "title": "Russian Diesel Faces U.S. Buyer Resistance Despite Trump Sanctions Waiver",
+          "summary": "US companies are unlikely to import Russian diesel as a tanker full of the fuel idles off the US Eastern Seaboard, experts said, despite President Donald Trump's temporary waiver of some sanctions on Moscow's fuel…",
+          "date": "2026-11-11",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/russian-diesel-faces-u-s-buyer-resistance-despite-trump-sanctions-waiver/",
           "relevant": false
         },
         {
