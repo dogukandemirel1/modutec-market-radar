@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T00:01:16Z",
+  "last_updated": "2026-11-12T01:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5329,6 +5329,14 @@
           "relevant": false
         },
         {
+          "title": "MQ-9B Fills Critical Gaps for Europe’s Militaries in Trying Times",
+          "summary": "European nations face growing security challenges across the Arctic, the Baltic, NATO’s eastern flank, and the Mediterranean. In this environment, early detection and persistent awareness are essential to deterring…",
+          "date": "2026-11-11",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/mq-9b-fills-critical-gaps-for-europes-militaries-in-trying-times/",
+          "relevant": false
+        },
+        {
           "title": "First Oil Flows from Vietsovpetro's Platform Offshore Vietnam",
           "summary": "Vietnam-Russia joint venture Vietsovpetro has started commercial oil production from the BK-26 platform at the Bach Ho field in Block 09-1, bringing the facility online 36 days ahead of schedule…",
           "date": "2026-11-11",
@@ -5350,6 +5358,14 @@
           "date": "2026-11-10",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/patterson-uti-digital-series-part-2-machine-learning-meets-the-rig-through-automation-feedback-loop-80824",
+          "relevant": false
+        },
+        {
+          "title": "BAE Systems accelerates delivery of advanced LRASM missile sensors",
+          "summary": "BAE Systems accelerates the delivery of advanced RF sensors for the Long-Range Anti-Ship Missile (LRASM) to Lockheed Martin to meet U.S. military needs. BAE Systems press release BAE Systems has delivered all Lot 8…",
+          "date": "2026-11-10",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/bae-systems-accelerates-delivery-of-advanced-lrasm-missile-sensors/",
           "relevant": false
         },
         {
@@ -5382,14 +5398,6 @@
           "date": "2026-11-10",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/nonsense-rate-iran-war-exposes-turmoil-behind-key-tanker-benchmark/",
-          "relevant": false
-        },
-        {
-          "title": "BAE Systems accelerates delivery of advanced LRASM missile sensors",
-          "summary": "BAE Systems accelerates the delivery of advanced RF sensors for the Long-Range Anti-Ship Missile (LRASM) to Lockheed Martin to meet U.S. military needs. BAE Systems press release BAE Systems has delivered all Lot 8…",
-          "date": "2026-11-10",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/bae-systems-accelerates-delivery-of-advanced-lrasm-missile-sensors/",
           "relevant": false
         },
         {
