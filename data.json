@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T15:01:05Z",
+  "last_updated": "2026-11-12T16:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -433,14 +433,6 @@
           "relevant": false
         },
         {
-          "title": "McKinsey: AI is forcing a rethink of drilling contracts, from who owns the data to who gets the upside",
-          "summary": "By Stephen Whitfield, Senior Editor At the 2026 IADC Contracts & Risk Management Conference in Houston on 6 October, Bill Ambrose, Partner at McKinsey & Company, asked the audience if they had used AI in the past 48…",
-          "date": "2026-11-10",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/mckinsey-ai-is-forcing-a-rethink-of-drilling-contracts-from-who-owns-the-data-to-who-gets-the-upside-80922",
-          "relevant": false
-        },
-        {
           "title": "Multi-license awards open Eastern Mediterranean doors for Murphy Oil",
           "summary": "Murphy Oil has made its first foray into the Eastern Mediterranean by securing six offshore exploration licenses close to a giant gas field.",
           "date": "2026-11-10",
@@ -454,6 +446,14 @@
           "date": "2026-11-10",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/10/energean-selects-swedish-firm-for-post-decommissioning-surveys-in-uk",
+          "relevant": false
+        },
+        {
+          "title": "McKinsey: AI is forcing a rethink of drilling contracts, from who owns the data to who gets the upside",
+          "summary": "By Stephen Whitfield, Senior Editor At the 2026 IADC Contracts & Risk Management Conference in Houston on 6 October, Bill Ambrose, Partner at McKinsey & Company, asked the audience if they had used AI in the past 48…",
+          "date": "2026-11-10",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/mckinsey-ai-is-forcing-a-rethink-of-drilling-contracts-from-who-owns-the-data-to-who-gets-the-upside-80922",
           "relevant": false
         },
         {
@@ -5457,14 +5457,6 @@
           "relevant": false
         },
         {
-          "title": "Patterson-UTI Digital Series, Part 2: Machine learning meets the rig through automation feedback loop",
-          "summary": "DC recently spoke with Alex Groh, Patterson-UTI Senior Manager – Data Science, about how Patterson-UTI’s PTEN Digital Performance Center monitors automation products in the field and relays lessons learned to design…",
-          "date": "2026-11-10",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/patterson-uti-digital-series-part-2-machine-learning-meets-the-rig-through-automation-feedback-loop-80824",
-          "relevant": false
-        },
-        {
           "title": "Ofgem names preferred bidder for Dogger Bank B offshore transmission assets",
           "summary": "A consortium of Diamond Transmission UK (DTUK) and Japan’s Chubu Electric Power has been selected as the preferred bidder to acquire and operate...",
           "date": "2026-11-10",
@@ -5486,6 +5478,14 @@
           "date": "2026-11-10",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/oil-drops-trump-eases-middle-east-conflict/",
+          "relevant": false
+        },
+        {
+          "title": "Patterson-UTI Digital Series, Part 2: Machine learning meets the rig through automation feedback loop",
+          "summary": "DC recently spoke with Alex Groh, Patterson-UTI Senior Manager – Data Science, about how Patterson-UTI’s PTEN Digital Performance Center monitors automation products in the field and relays lessons learned to design…",
+          "date": "2026-11-10",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/patterson-uti-digital-series-part-2-machine-learning-meets-the-rig-through-automation-feedback-loop-80824",
           "relevant": false
         },
         {
@@ -7982,6 +7982,14 @@
           "date": "2026-11-12",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/marine-platforms-plans-full-takeover-of-former-technip-pipelay-vessel/",
+          "relevant": false
+        },
+        {
+          "title": "Santos, partners add Pavo South-1 to firm 2027 Bedout program",
+          "summary": "The Santos-operated Bedout joint venture added Pavo South-1 as a second firm exploration well in its 2027 drilling campaign offshore Western Australia, partner Carnarvon Energy announced on 12 November. The group…",
+          "date": "2026-11-12",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/santos-partners-add-pavo-south-1-to-firm-2027-bedout-program-81031",
           "relevant": false
         },
         {
