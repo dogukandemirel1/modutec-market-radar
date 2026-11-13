@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T08:01:01Z",
+  "last_updated": "2026-11-13T09:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -265,11 +265,43 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Thenamaris returns to LNG newbuilds with HD Hyundai deal",
+          "summary": "Greek shipowner Thenamaris has returned to LNG carrier contracting after an eight-year absence, booking two 174,000 cu m newbuildings at HD Hyundai Heavy Industries in South Korea in a deal worth nearly $500m. The…",
+          "date": "2026-11-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/thenamaris-returns-to-lng-newbuilds-with-hd-hyundai-deal/",
+          "relevant": false
+        },
+        {
           "title": "ExxonMobil greenlights $12.5bn offshore gas project in Guyana",
           "summary": "US supermajor ExxonMobil has taken a final investment decision on the $12.5bn Longtail gas and condensate project offshore Guyana after receiving the necessary government and regulatory approvals. The development is the…",
           "date": "2026-11-13",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/exxonmobil-greenlights-12-5bn-offshore-gas-project-in-guyana/",
+          "relevant": false
+        },
+        {
+          "title": "ExxonMobil reaches FID on eighth project offshore Guyana",
+          "summary": "U.S.-headquartered oil & gas company ExxonMobil has made the final investment decision (FID) for its Longtail development offshore Guyana after...",
+          "date": "2026-11-13",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/13/exxonmobil-reaches-fid-on-eighth-project-offshore-guyana",
+          "relevant": false
+        },
+        {
+          "title": "ExxonMobil to invest $12.5bn in Longtail development offshore Guyana",
+          "summary": "ExxonMobil, through its subsidiary ExxonMobil Guyana, has reached a final investment decision (FID) to move forward with the development of the Longtail field, located offshore Guyana.",
+          "date": "2026-11-13",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/exxonmobil-12-5bn-longtail-offshore-guyana/",
+          "relevant": false
+        },
+        {
+          "title": "ExxonMobil Greenlights $12.5B Longtail Development Offshore Guyana",
+          "summary": "ExxonMobil has made a final investment decision (FID) for the Longtail gas and condensate development offshore Guyana following government and regulatory approvals…",
+          "date": "2026-11-13",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544342-exxonmobil-greenlights-12-5b-longtail-development-offshore-guyana",
           "relevant": false
         },
         {
@@ -294,22 +326,6 @@
           "date": "2026-11-12",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/slb-wins-ncs-integrated-drilling-services-contract-from-var-energi-81038",
-          "relevant": false
-        },
-        {
-          "title": "Royal Navy Orders Saab Sea Giraffe 1X Radars for K3 Scout Counter-Drone USVs",
-          "summary": "The Royal Navy has awarded Saab a £15 million contract for its Sea Giraffe 1X radar system as part of the development of an autonomous “drone seeker” capability first unveiled earlier this year. Saab press release The…",
-          "date": "2026-11-12",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/royal-navy-orders-saab-sea-giraffe-1x-radars-for-k3-scout-counter-drone-usvs/",
-          "relevant": false
-        },
-        {
-          "title": "Australian naval propulsion specialist VEEM wins work on US Navy submarines",
-          "summary": "The Australian government has announced a contract for Perth-based naval propulsion specialist VEEM, supplying parts for US submarines. The post Australian naval propulsion specialist VEEM wins work on US Navy…",
-          "date": "2026-11-12",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/australian-propulsion-specialist-veem-wins-work-on-us-submarines/",
           "relevant": false
         },
         {
@@ -350,6 +366,22 @@
           "date": "2026-11-12",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544310-sbm-offshore-raises-revenue-forecast-as-fpso-sales-surge",
+          "relevant": false
+        },
+        {
+          "title": "Royal Navy Orders Saab Sea Giraffe 1X Radars for K3 Scout Counter-Drone USVs",
+          "summary": "The Royal Navy has awarded Saab a £15 million contract for its Sea Giraffe 1X radar system as part of the development of an autonomous “drone seeker” capability first unveiled earlier this year. Saab press release The…",
+          "date": "2026-11-12",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/royal-navy-orders-saab-sea-giraffe-1x-radars-for-k3-scout-counter-drone-usvs/",
+          "relevant": false
+        },
+        {
+          "title": "Australian naval propulsion specialist VEEM wins work on US Navy submarines",
+          "summary": "The Australian government has announced a contract for Perth-based naval propulsion specialist VEEM, supplying parts for US submarines. The post Australian naval propulsion specialist VEEM wins work on US Navy…",
+          "date": "2026-11-12",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/australian-propulsion-specialist-veem-wins-work-on-us-submarines/",
           "relevant": false
         },
         {
