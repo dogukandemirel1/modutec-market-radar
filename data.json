@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T23:01:00Z",
+  "last_updated": "2026-11-13T00:01:15Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8023,14 +8023,6 @@
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/542899-greater-sunrise-gas-project-targets-2029-investment-decision",
           "relevant": false
-        },
-        {
-          "title": "US Limits Air Defense Time Slots For Tankers Sailing Through Hormuz",
-          "summary": "Sept 12 (Reuters) – The U.S. has asked tankers traveling through the Strait of Hormuz to sail only at specific times to guarantee military protection after Iran stepped up attacks on ships...",
-          "date": "2026-09-13",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/us-limits-air-defense-time-slots-for-tankers-sailing-through-hormuz/",
-          "relevant": false
         }
       ]
     },
@@ -12154,24 +12146,6 @@
           "date": "2026-09-14",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/saudi-pipeline-outage-threatens-loss-of-4-of-global-oil-supply/",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
-          "title": "Harvester Energy Bags New Malaysian PSC",
-          "summary": "The Estuary Cluster 'is expected to unlock stranded marginal oil resources through a technology-led development concept centered on a novel shallow-water subsea development approach', Petronas said.",
-          "date": "2026-09-13",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/harvester_energy_bags_new_malaysian_psc-13-sep-2026-184598-article/?rss=true",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Iraq Under Pressure After Drone Strikes Close Key Saudi Pipeline",
-          "summary": "By Khalid Al-Ansary and Devika Krishna Kumar Sep 12, 2026 (Bloomberg) –Iraq is moving to contain the fallout from attacks that caused the closure of Saudi Arabia’s East-West pipeline, after the...",
-          "date": "2026-09-13",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/iraq-under-pressure-after-drone-strikes-close-key-saudi-pipeline/",
           "relevant": true,
           "region": "KSA"
         }
