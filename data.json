@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T18:01:15Z",
+  "last_updated": "2026-11-13T19:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -377,6 +377,14 @@
           "relevant": false
         },
         {
+          "title": "Royal Navy Orders Saab Sea Giraffe 1X Radars for K3 Scout Counter-Drone USVs",
+          "summary": "The Royal Navy has awarded Saab a £15 million contract for its Sea Giraffe 1X radar system as part of the development of an autonomous “drone seeker” capability first unveiled earlier this year. Saab press release The…",
+          "date": "2026-11-12",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/royal-navy-orders-saab-sea-giraffe-1x-radars-for-k3-scout-counter-drone-usvs/",
+          "relevant": false
+        },
+        {
           "title": "USA DOE Closes $480MM Loan to Expand American Energy Output",
           "summary": "The U.S. Department of Energy's Office of Energy Dominance Financing announced the financial close of a $480 million loan for Arena Energy's Project Elkhorn.",
           "date": "2026-11-12",
@@ -406,14 +414,6 @@
           "date": "2026-11-12",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544315-seabird-s-fulmar-explorer-lands-six-month-seismic-contract-in-west-africa",
-          "relevant": false
-        },
-        {
-          "title": "Royal Navy Orders Saab Sea Giraffe 1X Radars for K3 Scout Counter-Drone USVs",
-          "summary": "The Royal Navy has awarded Saab a £15 million contract for its Sea Giraffe 1X radar system as part of the development of an autonomous “drone seeker” capability first unveiled earlier this year. Saab press release The…",
-          "date": "2026-11-12",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/royal-navy-orders-saab-sea-giraffe-1x-radars-for-k3-scout-counter-drone-usvs/",
           "relevant": false
         },
         {
@@ -5513,11 +5513,27 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Gulf Oil Exports Recover as Hormuz Shipping Struggles",
+          "summary": "Global oil markets are beginning to recover from the Iran war, but shipping through the Strait of Hormuz remains severely disrupted, with vessel traffic roughly 65% below pre-conflict levels and...",
+          "date": "2026-11-13",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/gulf-oil-exports-recover-as-hormuz-shipping-struggles/",
+          "relevant": false
+        },
+        {
           "title": "UK blacklists 11 ships in fresh Russia sanctions sweep",
           "summary": "Britain has slapped fresh sanctions on 11 ships linked to Russian energy exports, targeting five LNG carriers, five oil tankers and a floating storage unit in its latest effort to disrupt Moscow’s seaborne oil and gas…",
           "date": "2026-11-13",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/uk-blacklists-11-ships-in-fresh-russia-sanctions-sweep/",
+          "relevant": false
+        },
+        {
+          "title": "SUBPAC Commander Warns of Rapid Expansion in Chinese and Russian Submarine Fleets",
+          "summary": "U.S. Pacific Fleet (SUBPAC) Commander Rear Adm. Chris Cavanaugh outlines the rapid expansion and growing undersea threats of the PLAN and Russian submarine fleets. The post SUBPAC Commander Warns of Rapid Expansion in…",
+          "date": "2026-11-13",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/subpac-commander-warns-of-rapid-expansion-in-chinese-and-russian-submarine-fleets/",
           "relevant": false
         },
         {
@@ -5553,14 +5569,6 @@
           "relevant": false
         },
         {
-          "title": "Finland Says it Detects Strike on Russian Warship in Baltic Sea",
-          "summary": "Finland's military said on Thursday its forces had detected \"a strike\" on a Russian warship in the Baltic Sea a day earlier, but that the security situation in the area remained stable.",
-          "date": "2026-11-12",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/finland-says-it-detects-strike-on-russian-warship-in-baltic-sea/",
-          "relevant": false
-        },
-        {
           "title": "Naftogaz Gets Dutch Grant to Secure Winter Gas",
           "summary": "Ukraine's state-owned Naftogaz secured an agreement for a Dutch government grant of over $25 million through the EBRD to help secure natural gas supply, as Ukraine and Russia continue to exchange attacks on energy…",
           "date": "2026-11-12",
@@ -5590,6 +5598,14 @@
           "date": "2026-11-12",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/bae-systems-lrasm-lockheed-martin/",
+          "relevant": false
+        },
+        {
+          "title": "Finland Says it Detects Strike on Russian Warship in Baltic Sea",
+          "summary": "Finland's military said on Thursday its forces had detected \"a strike\" on a Russian warship in the Baltic Sea a day earlier, but that the security situation in the area remained stable.",
+          "date": "2026-11-12",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/finland-says-it-detects-strike-on-russian-warship-in-baltic-sea/",
           "relevant": false
         },
         {
@@ -9529,6 +9545,14 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "World Oil Market is Returning to Surplus as Gulf Exports Recover",
+          "summary": "The world oil market will return to a surplus in the fourth quarter of this year, the International Energy Agency said on Friday, as Middle East exports recover faster than global oil demand despite continued attacks on…",
+          "date": "2026-11-13",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/world-oil-market-is-returning-to-surplus-as-gulf-exports-recover/",
+          "relevant": false
+        },
+        {
           "title": "Singapore-Flagged Bulk Carrier Strikes Delaware River Bridge, Coast Guard Investigating",
           "summary": "A Singapore-flagged bulk carrier struck the Tacony-Palmyra Bridge on the Delaware River Thursday afternoon, leaving the movable span temporarily unable to close and prompting a U.S. Coast Guard inspection of...",
           "date": "2026-11-13",
@@ -9574,15 +9598,6 @@
           "region": "UAE"
         },
         {
-          "title": "Singapore Retains Crown as World’s Leading Maritime Hub",
-          "summary": "Singapore has retained its position as the world’s leading maritime hub, while Shanghai has climbed to second place and Asia now accounts for three of the world’s five highest-ranked maritime...",
-          "date": "2026-11-12",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/singapore-retains-crown-as-worlds-leading-maritime-hub/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "GULF broadens LNG trading horizons beyond Thailand with PetroChina deal",
           "summary": "This deal enables GULF to supply 0.3 million tonnes of LNG to PetroChina in 2027, marking its strategic expansion into international trading.",
           "date": "2026-11-12",
@@ -9598,6 +9613,15 @@
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/gulf_overtakes_russia_in_oil_sales_to_india-12-nov-2026-185063-article/?rss=true",
           "relevant": false
+        },
+        {
+          "title": "Singapore Retains Crown as World’s Leading Maritime Hub",
+          "summary": "Singapore has retained its position as the world’s leading maritime hub, while Shanghai has climbed to second place and Asia now accounts for three of the world’s five highest-ranked maritime...",
+          "date": "2026-11-12",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/singapore-retains-crown-as-worlds-leading-maritime-hub/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Singapore Strait robbery spike sparks fresh security warning",
