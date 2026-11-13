@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T16:01:04Z",
+  "last_updated": "2026-11-13T17:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -294,6 +294,14 @@
           "date": "2026-11-13",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/13/exxonmobil-reaches-fid-on-eighth-project-offshore-guyana",
+          "relevant": false
+        },
+        {
+          "title": "ExxonMobil Greenlights Eighth Stabroek Project",
+          "summary": "ExxonMobil announced a $12.5-billion final investment decision to proceed with Longtail - the first development that is primarily gas and condensate - in the Stabroek block offshore Guyana, after securing government…",
+          "date": "2026-11-13",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/exxonmobil_greenlights_eighth_stabroek_project-13-nov-2026-185080-article/?rss=true",
           "relevant": false
         },
         {
@@ -5513,6 +5521,14 @@
           "relevant": false
         },
         {
+          "title": "Ukraine Hits 9th Russian Oil Refinery Since Start of Nov",
+          "summary": "Ukraine continued its campaign of near daily strikes on Russian oil assets.",
+          "date": "2026-11-13",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/ukraine_hits_9th_russian_oil_refinery_since_start_of_nov-13-nov-2026-185083-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "Aramco, PIF Close HUMAIN AI Deal",
           "summary": "The deal involves approximately $2.6 billion in cash contributions in 2026 from Aramco to HUMAIN, in addition to AI, compute, and digital assets.",
           "date": "2026-11-13",
@@ -9512,6 +9528,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Singapore-Flagged Bulk Carrier Strikes Delaware River Bridge, Coast Guard Investigating",
+          "summary": "A Singapore-flagged bulk carrier struck the Tacony-Palmyra Bridge on the Delaware River Thursday afternoon, leaving the movable span temporarily unable to close and prompting a U.S. Coast Guard inspection of...",
+          "date": "2026-11-13",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/singapore-flagged-bulk-carrier-strikes-delaware-river-bridge-coast-guard-investigating/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "From ocean liner to artificial reef: A warning for container shipping",
           "summary": "Dr Raymon Krishnan, president of Singapore’s Logistics & Supply Chain Management Society, writes for Splash today, reflecting on one of this week’s most talked about stories in the mainstream press. On Wednesday, the…",
