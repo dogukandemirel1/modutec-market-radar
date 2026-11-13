@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T12:06:07Z",
+  "last_updated": "2026-11-13T13:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -289,6 +289,14 @@
           "relevant": false
         },
         {
+          "title": "BAE Systems receives US Navy contract for Virginia propulsors",
+          "summary": "BAE Systems has received a $138m contract from the US Navy to continue producing propulsors for the Virginia-class submarine programme. The post BAE Systems receives US Navy contract for Virginia propulsors appeared…",
+          "date": "2026-11-13",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/bae-systems-submarine-propulsors/",
+          "relevant": false
+        },
+        {
           "title": "ExxonMobil Greenlights $12.5B Longtail Development Offshore Guyana",
           "summary": "ExxonMobil has made a final investment decision (FID) for the Longtail gas and condensate development offshore Guyana following government and regulatory approvals…",
           "date": "2026-11-13",
@@ -337,14 +345,6 @@
           "relevant": false
         },
         {
-          "title": "Royal Navy Orders Saab Sea Giraffe 1X Radars for K3 Scout Counter-Drone USVs",
-          "summary": "The Royal Navy has awarded Saab a £15 million contract for its Sea Giraffe 1X radar system as part of the development of an autonomous “drone seeker” capability first unveiled earlier this year. Saab press release The…",
-          "date": "2026-11-12",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/royal-navy-orders-saab-sea-giraffe-1x-radars-for-k3-scout-counter-drone-usvs/",
-          "relevant": false
-        },
-        {
           "title": "USA DOE Closes $480MM Loan to Expand American Energy Output",
           "summary": "The U.S. Department of Energy's Office of Energy Dominance Financing announced the financial close of a $480 million loan for Arena Energy's Project Elkhorn.",
           "date": "2026-11-12",
@@ -374,6 +374,14 @@
           "date": "2026-11-12",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544315-seabird-s-fulmar-explorer-lands-six-month-seismic-contract-in-west-africa",
+          "relevant": false
+        },
+        {
+          "title": "Royal Navy Orders Saab Sea Giraffe 1X Radars for K3 Scout Counter-Drone USVs",
+          "summary": "The Royal Navy has awarded Saab a £15 million contract for its Sea Giraffe 1X radar system as part of the development of an autonomous “drone seeker” capability first unveiled earlier this year. Saab press release The…",
+          "date": "2026-11-12",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/royal-navy-orders-saab-sea-giraffe-1x-radars-for-k3-scout-counter-drone-usvs/",
           "relevant": false
         },
         {
@@ -5481,20 +5489,20 @@
           "relevant": false
         },
         {
-          "title": "Nova Scotia, Massachusetts Explore Joint Offshore Wind Power Developments",
-          "summary": "Nova Scotia and Massachusetts have launched a joint request for information to explore offshore wind development in the Canadian province and potential electricity exports to New England markets…",
-          "date": "2026-11-13",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/544347-nova-scotia-massachusetts-explore-joint-offshore-wind-power-developments",
-          "relevant": false
-        },
-        {
           "title": "Aramco, PIF Close HUMAIN AI Deal",
           "summary": "The deal involves approximately $2.6 billion in cash contributions in 2026 from Aramco to HUMAIN, in addition to AI, compute, and digital assets.",
           "date": "2026-11-13",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/aramco_pif_close_humain_ai_deal-13-nov-2026-185076-article/?rss=true",
           "relevant": true
+        },
+        {
+          "title": "Nova Scotia, Massachusetts Explore Joint Offshore Wind Power Developments",
+          "summary": "Nova Scotia and Massachusetts have launched a joint request for information to explore offshore wind development in the Canadian province and potential electricity exports to New England markets…",
+          "date": "2026-11-13",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544347-nova-scotia-massachusetts-explore-joint-offshore-wind-power-developments",
+          "relevant": false
         },
         {
           "title": "Port of Los Angeles Sets October Cargo Record as Strike Threat and Rail Delays Loom",
