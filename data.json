@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T11:01:03Z",
+  "last_updated": "2026-11-13T12:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5478,6 +5478,22 @@
           "date": "2026-11-13",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/uk-blacklists-11-ships-in-fresh-russia-sanctions-sweep/",
+          "relevant": false
+        },
+        {
+          "title": "Aramco, PIF Close HUMAIN AI Deal",
+          "summary": "The deal involves approximately $2.6 billion in cash contributions in 2026 from Aramco to HUMAIN, in addition to AI, compute, and digital assets.",
+          "date": "2026-11-13",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/aramco_pif_close_humain_ai_deal-13-nov-2026-185076-article/?rss=true",
+          "relevant": true
+        },
+        {
+          "title": "Nova Scotia, Massachusetts Explore Joint Offshore Wind Power Developments",
+          "summary": "Nova Scotia and Massachusetts have launched a joint request for information to explore offshore wind development in the Canadian province and potential electricity exports to New England markets…",
+          "date": "2026-11-13",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544347-nova-scotia-massachusetts-explore-joint-offshore-wind-power-developments",
           "relevant": false
         },
         {
