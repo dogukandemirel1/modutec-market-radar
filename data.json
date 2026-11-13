@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T14:00:59Z",
+  "last_updated": "2026-11-13T15:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -278,6 +278,14 @@
           "date": "2026-11-13",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/13/exxonmobil-reaches-fid-on-eighth-project-offshore-guyana",
+          "relevant": false
+        },
+        {
+          "title": "Murphy Oil Re-Enters Cameroon",
+          "summary": "Cameroon awarded Murphy Oil four production sharing contracts, marking the company's re-entry into the Central African country after exiting a decade ago.",
+          "date": "2026-11-13",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/murphy_oil_reenters_cameroon-13-nov-2026-185079-article/?rss=true",
           "relevant": false
         },
         {
