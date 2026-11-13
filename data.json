@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T10:00:59Z",
+  "last_updated": "2026-11-13T11:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8129,6 +8129,14 @@
           "relevant": false
         },
         {
+          "title": "Three bidders in the run for seismic surveys offshore Greece",
+          "summary": "Three companies have submitted bids to perform the acquisition and processing of non-exclusive seismic data offshore Greece that will help assess...",
+          "date": "2026-11-13",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/13/three-bidders-in-the-run-for-seismic-surveys-offshore-greece",
+          "relevant": false
+        },
+        {
           "title": "Maersk’s cyber breach is a warning for every secondhand ship sale",
           "summary": "The door was a system that came with an acquisition. Every owner who buys a secondhand vessel takes the same risk on board, and few check for it at delivery. By Argyris Zafeiropoulos from Athens-based Resilience &…",
           "date": "2026-11-13",
@@ -9456,6 +9464,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "From ocean liner to artificial reef: A warning for container shipping",
+          "summary": "Dr Raymon Krishnan, president of Singapore’s Logistics & Supply Chain Management Society, writes for Splash today, reflecting on one of this week’s most talked about stories in the mainstream press. On Wednesday, the…",
+          "date": "2026-11-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/from-ocean-liner-to-artificial-reef-a-warning-for-container-shipping/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Singapore-flagged cargo ship strikes US bridge",
           "summary": "A Singapore-flagged cargoship has struck a bridge spanning the Delaware River between Philadelphia and New Jersey, forcing its closure and renewing concerns about the vulnerability of American bridges to vessel…",
