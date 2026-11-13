@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T06:01:01Z",
+  "last_updated": "2026-11-13T07:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -257,6 +257,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "ExxonMobil greenlights $12.5bn offshore gas project in Guyana",
+          "summary": "US supermajor ExxonMobil has taken a final investment decision on the $12.5bn Longtail gas and condensate project offshore Guyana after receiving the necessary government and regulatory approvals. The development is the…",
+          "date": "2026-11-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/exxonmobil-greenlights-12-5bn-offshore-gas-project-in-guyana/",
+          "relevant": false
+        },
+        {
           "title": "Saronic Awards $100 Million-Plus Contract for World’s Largest Shiplift at Texas Shipyard",
           "summary": "Saronic has awarded a contract worth more than $100 million to Norway’s Syncrolift to design and supply what the companies say will be the world’s largest shiplift at its planned...",
           "date": "2026-11-12",
@@ -270,14 +278,6 @@
           "date": "2026-11-12",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/chinese-shipbuilder-wins-ahts-order-from-south-american-owner/",
-          "relevant": false
-        },
-        {
-          "title": "TGS lands seismic contract offshore Namibia",
-          "summary": "Oslo-listed seismic specialist TGS has secured an ocean bottom node contract offshore Namibia from an undisclosed repeat customer. A deepwater crew is scheduled to mobilise in the fourth quarter of 2026, with the survey…",
-          "date": "2026-11-12",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/tgs-lands-seismic-contract-offshore-namibia/",
           "relevant": false
         },
         {
@@ -342,6 +342,14 @@
           "date": "2026-11-12",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544310-sbm-offshore-raises-revenue-forecast-as-fpso-sales-surge",
+          "relevant": false
+        },
+        {
+          "title": "TGS lands seismic contract offshore Namibia",
+          "summary": "Oslo-listed seismic specialist TGS has secured an ocean bottom node contract offshore Namibia from an undisclosed repeat customer. A deepwater crew is scheduled to mobilise in the fourth quarter of 2026, with the survey…",
+          "date": "2026-11-12",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/tgs-lands-seismic-contract-offshore-namibia/",
           "relevant": false
         },
         {
@@ -5465,19 +5473,19 @@
           "relevant": false
         },
         {
-          "title": "MQ-9B Fills Critical Gaps for Europe’s Militaries in Trying Times",
-          "summary": "European nations face growing security challenges across the Arctic, the Baltic, NATO’s eastern flank, and the Mediterranean. In this environment, early detection and persistent awareness are essential to deterring…",
-          "date": "2026-11-11",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/mq-9b-fills-critical-gaps-for-europes-militaries-in-trying-times/",
-          "relevant": false
-        },
-        {
           "title": "First Oil Flows from Vietsovpetro's Platform Offshore Vietnam",
           "summary": "Vietnam-Russia joint venture Vietsovpetro has started commercial oil production from the BK-26 platform at the Bach Ho field in Block 09-1, bringing the facility online 36 days ahead of schedule…",
           "date": "2026-11-11",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544281-first-oil-flows-from-vietsovpetro-s-platform-offshore-vietnam",
+          "relevant": false
+        },
+        {
+          "title": "MQ-9B Fills Critical Gaps for Europe’s Militaries in Trying Times",
+          "summary": "European nations face growing security challenges across the Arctic, the Baltic, NATO’s eastern flank, and the Mediterranean. In this environment, early detection and persistent awareness are essential to deterring…",
+          "date": "2026-11-11",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/mq-9b-fills-critical-gaps-for-europes-militaries-in-trying-times/",
           "relevant": false
         },
         {
@@ -8049,14 +8057,6 @@
           "relevant": false
         },
         {
-          "title": "Marine Platforms plans full takeover of former Technip pipelay vessel",
-          "summary": "Nigerian offshore services contractor Marine Platforms is moving towards full ownership of the pipelay and heavy-lift construction vessel Zhong Fei Huan Qiu 1200, formerly known as Global 1200. The company acquired a…",
-          "date": "2026-11-12",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/marine-platforms-plans-full-takeover-of-former-technip-pipelay-vessel/",
-          "relevant": false
-        },
-        {
           "title": "Santos, partners add Pavo South-1 to firm 2027 Bedout program",
           "summary": "The Santos-operated Bedout joint venture added Pavo South-1 as a second firm exploration well in its 2027 drilling campaign offshore Western Australia, partner Carnarvon Energy announced on 12 November. The group…",
           "date": "2026-11-12",
@@ -8070,6 +8070,14 @@
           "date": "2026-11-12",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/12/with-restructuring-done-impact-oil-and-gas-turns-into-pure-play-namibia-explorer",
+          "relevant": false
+        },
+        {
+          "title": "Marine Platforms plans full takeover of former Technip pipelay vessel",
+          "summary": "Nigerian offshore services contractor Marine Platforms is moving towards full ownership of the pipelay and heavy-lift construction vessel Zhong Fei Huan Qiu 1200, formerly known as Global 1200. The company acquired a…",
+          "date": "2026-11-12",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/marine-platforms-plans-full-takeover-of-former-technip-pipelay-vessel/",
           "relevant": false
         },
         {
