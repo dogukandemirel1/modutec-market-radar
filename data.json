@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T15:01:06Z",
+  "last_updated": "2026-11-13T16:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -270,6 +270,22 @@
           "date": "2026-11-13",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/deutsche-windtechnik-picked-for-uk-offshore-wind-maintenance-job/",
+          "relevant": false
+        },
+        {
+          "title": "Trailblazer exploration well set for 2027 with Deepwater Pontus",
+          "summary": "Transocean’s drillship Deepwater Pontus is contracted to drill the Trailblazer exploration well for Shell and Kosmos Energy in the US Gulf. Drilling is expected to begin in the first half of 2027. Trailblazer holds an…",
+          "date": "2026-11-13",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/trailblazer-exploration-well-set-for-2027-with-deepwater-pontus-81050",
+          "relevant": false
+        },
+        {
+          "title": "ExxonMobil takes FID on Longtail gas and condensate project offshore Guyana",
+          "summary": "ExxonMobil reached a final investment decision (FID) on Longtail, the eighth development in the southeastern part of the Stabroek block offshore Guyana. The project targets non-associated gas and condensate-rich…",
+          "date": "2026-11-13",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/exxonmobil-takes-fid-on-longtail-gas-and-condensate-project-offshore-guyana-81048",
           "relevant": false
         },
         {
@@ -9504,6 +9520,15 @@
           "source_url": "https://splash247.com/from-ocean-liner-to-artificial-reef-a-warning-for-container-shipping/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Abu Dhabi Shipbuilding and the UAE as a defence exporter",
+          "summary": "Abu Dhabi Shipbuilding's extensive partnerships with foreign shipbuilders has contributed to the UAE's role as a defence exporter. The post Abu Dhabi Shipbuilding and the UAE as a defence exporter appeared first on…",
+          "date": "2026-11-13",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/analyst-comment/abu-dhabi-shipbuilding-uae-defence-exporter/",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Singapore-flagged cargo ship strikes US bridge",
