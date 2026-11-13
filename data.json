@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T05:01:08Z",
+  "last_updated": "2026-11-13T06:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -281,14 +281,6 @@
           "relevant": false
         },
         {
-          "title": "Why shipowners might be better off sharing profits than taking on debt",
-          "summary": "Traditional loans demand repayments regardless of freight markets. Earnings-sharing structures offer a different proposition: investors participate in a vessel’s fortunes while owners retain control. Captain Vikas…",
-          "date": "2026-11-12",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/why-shipowners-might-be-better-off-sharing-profits-than-taking-on-debt/",
-          "relevant": false
-        },
-        {
           "title": "SLB wins NCS integrated drilling services contract from Vår Energi",
           "summary": "Vår Energi selected SLB as its main integrated drilling services supplier offshore Norway. The model combines technical expertise, digital workflows and operational execution across well delivery, with SLB working…",
           "date": "2026-11-12",
@@ -350,6 +342,14 @@
           "date": "2026-11-12",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544310-sbm-offshore-raises-revenue-forecast-as-fpso-sales-surge",
+          "relevant": false
+        },
+        {
+          "title": "Why shipowners might be better off sharing profits than taking on debt",
+          "summary": "Traditional loans demand repayments regardless of freight markets. Earnings-sharing structures offer a different proposition: investors participate in a vessel’s fortunes while owners retain control. Captain Vikas…",
+          "date": "2026-11-12",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/why-shipowners-might-be-better-off-sharing-profits-than-taking-on-debt/",
           "relevant": false
         },
         {
@@ -9368,6 +9368,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Singapore-flagged cargo ship strikes US bridge",
+          "summary": "A Singapore-flagged cargoship has struck a bridge spanning the Delaware River between Philadelphia and New Jersey, forcing its closure and renewing concerns about the vulnerability of American bridges to vessel…",
+          "date": "2026-11-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/singapore-flagged-cargo-ship-strikes-us-bridge/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Tanker Ablaze Off UAE as More Attacks Rattle Gulf Shipping",
           "summary": "A projectile struck the engine room of the Liberia-flagged crude oil tanker Dominica Prosperity off the United Arab Emirates on Wednesday, forcing the evacuation of all 22 crew members as...",
