@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T07:01:04Z",
+  "last_updated": "2026-11-13T08:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8,6 +8,14 @@
       "short_title": "Day-Rates",
       "description": "Benchmark day-rate trends for jackups, floaters and offshore support vessels across key regions.",
       "items": [
+        {
+          "title": "SLB bags offshore drilling services deal with Vår Energi",
+          "summary": "US oilfield services giant SLB has secured a four-year integrated drilling services contract with Vår Energi covering two semisubmersible drilling rigs on the Norwegian continental shelf. The agreement covers the…",
+          "date": "2026-11-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/slb-bags-offshore-drilling-services-deal-with-var-energi/",
+          "relevant": false
+        },
         {
           "title": "Brava starts Atlanta drilling after completing Papa-Terra wells",
           "summary": "Brava Energia moved Constellation Oil Services’ Lone Star semisubmersible to the Atlanta field offshore Brazil and began drilling the first of two planned wells, ATL-9H and ATL-10H, after completing its Papa-Terra…",
@@ -265,19 +273,19 @@
           "relevant": false
         },
         {
+          "title": "SeaBird secures seismic vessel work in West Africa",
+          "summary": "Marine seismic specialist SeaBird Exploration has secured a new contract for ocean bottom node (OBN) source work in West Africa. The company, a wholly owned subsidiary of SED Energy Holdings, will deploy its 2009-built…",
+          "date": "2026-11-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/seabird-secures-seismic-vessel-work-in-west-africa/",
+          "relevant": false
+        },
+        {
           "title": "Saronic Awards $100 Million-Plus Contract for World’s Largest Shiplift at Texas Shipyard",
           "summary": "Saronic has awarded a contract worth more than $100 million to Norway’s Syncrolift to design and supply what the companies say will be the world’s largest shiplift at its planned...",
           "date": "2026-11-12",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/saronic-awards-100-million-plus-contract-for-worlds-largest-shiplift-at-texas-shipyard/",
-          "relevant": false
-        },
-        {
-          "title": "Chinese shipbuilder wins AHTS order from South American owner",
-          "summary": "Chinese shipbuilder Rainbow Offshore Engineering (ROC), part of Shenzhen-listed Jiangsu Rainbow Heavy Industries, has secured a contract to build an anchor-handling tug supply (AHTS) vessel for an undisclosed South…",
-          "date": "2026-11-12",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/chinese-shipbuilder-wins-ahts-order-from-south-american-owner/",
           "relevant": false
         },
         {
@@ -342,6 +350,14 @@
           "date": "2026-11-12",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544310-sbm-offshore-raises-revenue-forecast-as-fpso-sales-surge",
+          "relevant": false
+        },
+        {
+          "title": "Chinese shipbuilder wins AHTS order from South American owner",
+          "summary": "Chinese shipbuilder Rainbow Offshore Engineering (ROC), part of Shenzhen-listed Jiangsu Rainbow Heavy Industries, has secured a contract to build an anchor-handling tug supply (AHTS) vessel for an undisclosed South…",
+          "date": "2026-11-12",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/chinese-shipbuilder-wins-ahts-order-from-south-american-owner/",
           "relevant": false
         },
         {
@@ -5446,6 +5462,14 @@
           "date": "2026-11-12",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/norway_regulator_widens_audit_of_ai_deployment_in_oil_industry-12-nov-2026-185064-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Impact Oil & Gas completes split of Namibian and South African assets",
+          "summary": "Impact Oil & Gas has completed a reorganisation separating its offshore Namibian assets, including the Venus oil discovery, from its South African exploration portfolio.",
+          "date": "2026-11-12",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/impact-split-namibian-south-african-assets/",
           "relevant": false
         },
         {
