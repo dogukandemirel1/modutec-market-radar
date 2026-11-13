@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T09:01:03Z",
+  "last_updated": "2026-11-13T10:00:59Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -265,19 +265,11 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Thenamaris returns to LNG newbuilds with HD Hyundai deal",
-          "summary": "Greek shipowner Thenamaris has returned to LNG carrier contracting after an eight-year absence, booking two 174,000 cu m newbuildings at HD Hyundai Heavy Industries in South Korea in a deal worth nearly $500m. The…",
+          "title": "Deutsche Windtechnik picked for UK offshore wind maintenance job",
+          "summary": "German offshore wind services specialist Deutsche Windtechnik has secured a five-year operations and maintenance contract covering two offshore wind farms in the UK. The agreement, awarded by asset manager XceCo, covers…",
           "date": "2026-11-13",
           "source_name": "Splash247",
-          "source_url": "https://splash247.com/thenamaris-returns-to-lng-newbuilds-with-hd-hyundai-deal/",
-          "relevant": false
-        },
-        {
-          "title": "ExxonMobil greenlights $12.5bn offshore gas project in Guyana",
-          "summary": "US supermajor ExxonMobil has taken a final investment decision on the $12.5bn Longtail gas and condensate project offshore Guyana after receiving the necessary government and regulatory approvals. The development is the…",
-          "date": "2026-11-13",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/exxonmobil-greenlights-12-5bn-offshore-gas-project-in-guyana/",
+          "source_url": "https://splash247.com/deutsche-windtechnik-picked-for-uk-offshore-wind-maintenance-job/",
           "relevant": false
         },
         {
@@ -302,6 +294,22 @@
           "date": "2026-11-13",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544342-exxonmobil-greenlights-12-5b-longtail-development-offshore-guyana",
+          "relevant": false
+        },
+        {
+          "title": "Thenamaris returns to LNG newbuilds with HD Hyundai deal",
+          "summary": "Greek shipowner Thenamaris has returned to LNG carrier contracting after an eight-year absence, booking two 174,000 cu m newbuildings at HD Hyundai Heavy Industries in South Korea in a deal worth nearly $500m. The…",
+          "date": "2026-11-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/thenamaris-returns-to-lng-newbuilds-with-hd-hyundai-deal/",
+          "relevant": false
+        },
+        {
+          "title": "ExxonMobil greenlights $12.5bn offshore gas project in Guyana",
+          "summary": "US supermajor ExxonMobil has taken a final investment decision on the $12.5bn Longtail gas and condensate project offshore Guyana after receiving the necessary government and regulatory approvals. The development is the…",
+          "date": "2026-11-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/exxonmobil-greenlights-12-5bn-offshore-gas-project-in-guyana/",
           "relevant": false
         },
         {
@@ -5465,6 +5473,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "UK blacklists 11 ships in fresh Russia sanctions sweep",
+          "summary": "Britain has slapped fresh sanctions on 11 ships linked to Russian energy exports, targeting five LNG carriers, five oil tankers and a floating storage unit in its latest effort to disrupt Moscow’s seaborne oil and gas…",
+          "date": "2026-11-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/uk-blacklists-11-ships-in-fresh-russia-sanctions-sweep/",
+          "relevant": false
+        },
+        {
           "title": "Port of Los Angeles Sets October Cargo Record as Strike Threat and Rail Delays Loom",
           "summary": "By Lori-Ann LaRocco The Port of Los Angeles handled a record 1,026,872 twenty-foot equivalent units (TEUs) in October, marking its second-busiest month ever and extending the strongest five-month cargo run...",
           "date": "2026-11-12",
@@ -8104,6 +8120,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "BW LPG scores another lucrative Avance VLGC flip",
+          "summary": "BW LPG has struck another lucrative vessel sale, offloading a VLGC acquired in John Fredriksen’s Avance Gas fleet deal less than two years ago for well over $100m. The New York- and Oslo-listed gas carrier giant has…",
+          "date": "2026-11-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/bw-lpg-scores-another-lucrative-avance-vlgc-flip/",
+          "relevant": false
+        },
         {
           "title": "Maersk’s cyber breach is a warning for every secondhand ship sale",
           "summary": "The door was a system that came with an acquisition. Every owner who buys a secondhand vessel takes the same risk on board, and few check for it at delivery. By Argyris Zafeiropoulos from Athens-based Resilience &…",
