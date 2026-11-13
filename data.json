@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T04:01:01Z",
+  "last_updated": "2026-11-13T05:01:08Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -297,6 +297,22 @@
           "relevant": false
         },
         {
+          "title": "Royal Navy Orders Saab Sea Giraffe 1X Radars for K3 Scout Counter-Drone USVs",
+          "summary": "The Royal Navy has awarded Saab a £15 million contract for its Sea Giraffe 1X radar system as part of the development of an autonomous “drone seeker” capability first unveiled earlier this year. Saab press release The…",
+          "date": "2026-11-12",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/royal-navy-orders-saab-sea-giraffe-1x-radars-for-k3-scout-counter-drone-usvs/",
+          "relevant": false
+        },
+        {
+          "title": "Australian naval propulsion specialist VEEM wins work on US Navy submarines",
+          "summary": "The Australian government has announced a contract for Perth-based naval propulsion specialist VEEM, supplying parts for US submarines. The post Australian naval propulsion specialist VEEM wins work on US Navy…",
+          "date": "2026-11-12",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/australian-propulsion-specialist-veem-wins-work-on-us-submarines/",
+          "relevant": false
+        },
+        {
           "title": "USA DOE Closes $480MM Loan to Expand American Energy Output",
           "summary": "The U.S. Department of Energy's Office of Energy Dominance Financing announced the financial close of a $480 million loan for Arena Energy's Project Elkhorn.",
           "date": "2026-11-12",
@@ -350,14 +366,6 @@
           "date": "2026-11-12",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/eu-clears-2-2bn-support-to-revive-belgian-offshore-wind-tender/",
-          "relevant": false
-        },
-        {
-          "title": "Australian naval propulsion specialist VEEM wins work on US Navy submarines",
-          "summary": "The Australian government has announced a contract for Perth-based naval propulsion specialist VEEM, supplying parts for US submarines. The post Australian naval propulsion specialist VEEM wins work on US Navy…",
-          "date": "2026-11-12",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/australian-propulsion-specialist-veem-wins-work-on-us-submarines/",
           "relevant": false
         },
         {
@@ -5417,14 +5425,6 @@
           "relevant": false
         },
         {
-          "title": "Bunker prices plunge 20%",
-          "summary": "Bunker prices have plunged by as much as 20% in less than two weeks as hopes of an easing of the Iran conflict send oil markets tumbling, offering shipowners some relief from what is still expected to be the most…",
-          "date": "2026-11-12",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/bunker-prices-plunge-20/",
-          "relevant": false
-        },
-        {
           "title": "Naftogaz Gets Dutch Grant to Secure Winter Gas",
           "summary": "Ukraine's state-owned Naftogaz secured an agreement for a Dutch government grant of over $25 million through the EBRD to help secure natural gas supply, as Ukraine and Russia continue to exchange attacks on energy…",
           "date": "2026-11-12",
@@ -5449,11 +5449,27 @@
           "relevant": false
         },
         {
+          "title": "Bunker prices plunge 20%",
+          "summary": "Bunker prices have plunged by as much as 20% in less than two weeks as hopes of an easing of the Iran conflict send oil markets tumbling, offering shipowners some relief from what is still expected to be the most…",
+          "date": "2026-11-12",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/bunker-prices-plunge-20/",
+          "relevant": false
+        },
+        {
           "title": "NYK charts the great reshuffling of global commodity trades",
           "summary": "One of the world’s largest shipowners has given its take on where it sees the gas, dry bulk, and tanker markets heading in the coming years. The global VLCC fleet will see a significant expansion despite the…",
           "date": "2026-11-12",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/nyk-charts-the-great-reshuffling-of-global-commodity-trades/",
+          "relevant": false
+        },
+        {
+          "title": "MQ-9B Fills Critical Gaps for Europe’s Militaries in Trying Times",
+          "summary": "European nations face growing security challenges across the Arctic, the Baltic, NATO’s eastern flank, and the Mediterranean. In this environment, early detection and persistent awareness are essential to deterring…",
+          "date": "2026-11-11",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/mq-9b-fills-critical-gaps-for-europes-militaries-in-trying-times/",
           "relevant": false
         },
         {
@@ -5494,14 +5510,6 @@
           "date": "2026-11-11",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/germany-to-set-up-state-gas-reserve-after-missing-winter-storage-targets/",
-          "relevant": false
-        },
-        {
-          "title": "MQ-9B Fills Critical Gaps for Europe’s Militaries in Trying Times",
-          "summary": "European nations face growing security challenges across the Arctic, the Baltic, NATO’s eastern flank, and the Mediterranean. In this environment, early detection and persistent awareness are essential to deterring…",
-          "date": "2026-11-11",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/mq-9b-fills-critical-gaps-for-europes-militaries-in-trying-times/",
           "relevant": false
         },
         {
@@ -8032,6 +8040,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "Maersk’s cyber breach is a warning for every secondhand ship sale",
+          "summary": "The door was a system that came with an acquisition. Every owner who buys a secondhand vessel takes the same risk on board, and few check for it at delivery. By Argyris Zafeiropoulos from Athens-based Resilience &…",
+          "date": "2026-11-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/maersks-cyber-breach-is-a-warning-for-every-secondhand-ship-sale/",
+          "relevant": false
+        },
         {
           "title": "Marine Platforms plans full takeover of former Technip pipelay vessel",
           "summary": "Nigerian offshore services contractor Marine Platforms is moving towards full ownership of the pipelay and heavy-lift construction vessel Zhong Fei Huan Qiu 1200, formerly known as Global 1200. The company acquired a…",
