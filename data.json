@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T02:01:10Z",
+  "last_updated": "2026-11-14T03:01:08Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -9469,15 +9469,6 @@
           "region": "SEA"
         },
         {
-          "title": "Tanker Ablaze Off UAE as More Attacks Rattle Gulf Shipping",
-          "summary": "A projectile struck the engine room of the Liberia-flagged crude oil tanker Dominica Prosperity off the United Arab Emirates on Wednesday, forcing the evacuation of all 22 crew members as...",
-          "date": "2026-11-12",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/tanker-ablaze-off-uae-as-more-attacks-rattle-gulf-shipping/",
-          "relevant": true,
-          "region": "UAE"
-        },
-        {
           "title": "GULF broadens LNG trading horizons beyond Thailand with PetroChina deal",
           "summary": "This deal enables GULF to supply 0.3 million tonnes of LNG to PetroChina in 2027, marking its strategic expansion into international trading.",
           "date": "2026-11-12",
@@ -9485,6 +9476,15 @@
           "source_url": "https://www.offshore-energy.biz/2026/11/12/gulf-broadens-lng-trading-horizons-beyond-thailand-with-petrochina-deal",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Tanker Ablaze Off UAE as More Attacks Rattle Gulf Shipping",
+          "summary": "A projectile struck the engine room of the Liberia-flagged crude oil tanker Dominica Prosperity off the United Arab Emirates on Wednesday, forcing the evacuation of all 22 crew members as...",
+          "date": "2026-11-12",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/tanker-ablaze-off-uae-as-more-attacks-rattle-gulf-shipping/",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Gulf Overtakes Russia in Oil Sales to India",
