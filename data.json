@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T18:01:03Z",
+  "last_updated": "2026-11-14T19:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5497,14 +5497,6 @@
           "relevant": false
         },
         {
-          "title": "Port of Los Angeles Sets October Cargo Record as Strike Threat and Rail Delays Loom",
-          "summary": "By Lori-Ann LaRocco The Port of Los Angeles handled a record 1,026,872 twenty-foot equivalent units (TEUs) in October, marking its second-busiest month ever and extending the strongest five-month cargo run...",
-          "date": "2026-11-12",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/port-of-los-angeles-sets-october-cargo-record-as-strike-threat-and-rail-delays-loom/",
-          "relevant": false
-        },
-        {
           "title": "Naftogaz Gets Dutch Grant to Secure Winter Gas",
           "summary": "Ukraine's state-owned Naftogaz secured an agreement for a Dutch government grant of over $25 million through the EBRD to help secure natural gas supply, as Ukraine and Russia continue to exchange attacks on energy…",
           "date": "2026-11-12",
@@ -5526,6 +5518,14 @@
           "date": "2026-11-12",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/bae-systems-lrasm-lockheed-martin/",
+          "relevant": false
+        },
+        {
+          "title": "Port of Los Angeles Sets October Cargo Record as Strike Threat and Rail Delays Loom",
+          "summary": "By Lori-Ann LaRocco The Port of Los Angeles handled a record 1,026,872 twenty-foot equivalent units (TEUs) in October, marking its second-busiest month ever and extending the strongest five-month cargo run...",
+          "date": "2026-11-12",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/port-of-los-angeles-sets-october-cargo-record-as-strike-threat-and-rail-delays-loom/",
           "relevant": false
         },
         {
