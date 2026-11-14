@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T16:01:04Z",
+  "last_updated": "2026-11-14T17:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -361,14 +361,6 @@
           "relevant": false
         },
         {
-          "title": "Saronic Awards $100 Million-Plus Contract for World’s Largest Shiplift at Texas Shipyard",
-          "summary": "Saronic has awarded a contract worth more than $100 million to Norway’s Syncrolift to design and supply what the companies say will be the world’s largest shiplift at its planned...",
-          "date": "2026-11-12",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/saronic-awards-100-million-plus-contract-for-worlds-largest-shiplift-at-texas-shipyard/",
-          "relevant": false
-        },
-        {
           "title": "SLB wins NCS integrated drilling services contract from Vår Energi",
           "summary": "Vår Energi selected SLB as its main integrated drilling services supplier offshore Norway. The model combines technical expertise, digital workflows and operational execution across well delivery, with SLB working…",
           "date": "2026-11-12",
@@ -414,6 +406,14 @@
           "date": "2026-11-12",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544315-seabird-s-fulmar-explorer-lands-six-month-seismic-contract-in-west-africa",
+          "relevant": false
+        },
+        {
+          "title": "Saronic Awards $100 Million-Plus Contract for World’s Largest Shiplift at Texas Shipyard",
+          "summary": "Saronic has awarded a contract worth more than $100 million to Norway’s Syncrolift to design and supply what the companies say will be the world’s largest shiplift at its planned...",
+          "date": "2026-11-12",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/saronic-awards-100-million-plus-contract-for-worlds-largest-shiplift-at-texas-shipyard/",
           "relevant": false
         },
         {
