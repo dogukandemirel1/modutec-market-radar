@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T12:01:04Z",
+  "last_updated": "2026-11-14T13:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5513,14 +5513,6 @@
           "relevant": false
         },
         {
-          "title": "Norway Regulator Widens Audit of AI Deployment in Oil Industry",
-          "summary": "The Norwegian Ocean Industry Authority is reviewing how oil and gas companies vet artificial intelligence systems and manage risks from AI use in their workflows.",
-          "date": "2026-11-12",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/norway_regulator_widens_audit_of_ai_deployment_in_oil_industry-12-nov-2026-185064-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Impact Oil & Gas completes split of Namibian and South African assets",
           "summary": "Impact Oil & Gas has completed a reorganisation separating its offshore Namibian assets, including the Venus oil discovery, from its South African exploration portfolio.",
           "date": "2026-11-12",
@@ -5534,6 +5526,14 @@
           "date": "2026-11-12",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/bae-systems-lrasm-lockheed-martin/",
+          "relevant": false
+        },
+        {
+          "title": "Norway Regulator Widens Audit of AI Deployment in Oil Industry",
+          "summary": "The Norwegian Ocean Industry Authority is reviewing how oil and gas companies vet artificial intelligence systems and manage risks from AI use in their workflows.",
+          "date": "2026-11-12",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/norway_regulator_widens_audit_of_ai_deployment_in_oil_industry-12-nov-2026-185064-article/?rss=true",
           "relevant": false
         },
         {
