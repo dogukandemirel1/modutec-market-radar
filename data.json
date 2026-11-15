@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T08:00:59Z",
+  "last_updated": "2026-11-15T09:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -265,14 +265,6 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Deutsche Windtechnik picked for UK offshore wind maintenance job",
-          "summary": "German offshore wind services specialist Deutsche Windtechnik has secured a five-year operations and maintenance contract covering two offshore wind farms in the UK. The agreement, awarded by asset manager XceCo, covers…",
-          "date": "2026-11-13",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/deutsche-windtechnik-picked-for-uk-offshore-wind-maintenance-job/",
-          "relevant": false
-        },
-        {
           "title": "Trailblazer exploration well set for 2027 with Deepwater Pontus",
           "summary": "Transocean’s drillship Deepwater Pontus is contracted to drill the Trailblazer exploration well for Shell and Kosmos Energy in the US Gulf. Drilling is expected to begin in the first half of 2027. Trailblazer holds an…",
           "date": "2026-11-13",
@@ -337,6 +329,14 @@
           "relevant": false
         },
         {
+          "title": "Deutsche Windtechnik picked for UK offshore wind maintenance job",
+          "summary": "German offshore wind services specialist Deutsche Windtechnik has secured a five-year operations and maintenance contract covering two offshore wind farms in the UK. The agreement, awarded by asset manager XceCo, covers…",
+          "date": "2026-11-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/deutsche-windtechnik-picked-for-uk-offshore-wind-maintenance-job/",
+          "relevant": false
+        },
+        {
           "title": "Thenamaris returns to LNG newbuilds with HD Hyundai deal",
           "summary": "Greek shipowner Thenamaris has returned to LNG carrier contracting after an eight-year absence, booking two 174,000 cu m newbuildings at HD Hyundai Heavy Industries in South Korea in a deal worth nearly $500m. The…",
           "date": "2026-11-13",
@@ -369,14 +369,6 @@
           "relevant": false
         },
         {
-          "title": "Royal Navy Orders Saab Sea Giraffe 1X Radars for K3 Scout Counter-Drone USVs",
-          "summary": "The Royal Navy has awarded Saab a £15 million contract for its Sea Giraffe 1X radar system as part of the development of an autonomous “drone seeker” capability first unveiled earlier this year. Saab press release The…",
-          "date": "2026-11-12",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/royal-navy-orders-saab-sea-giraffe-1x-radars-for-k3-scout-counter-drone-usvs/",
-          "relevant": false
-        },
-        {
           "title": "USA DOE Closes $480MM Loan to Expand American Energy Output",
           "summary": "The U.S. Department of Energy's Office of Energy Dominance Financing announced the financial close of a $480 million loan for Arena Energy's Project Elkhorn.",
           "date": "2026-11-12",
@@ -406,6 +398,14 @@
           "date": "2026-11-12",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544315-seabird-s-fulmar-explorer-lands-six-month-seismic-contract-in-west-africa",
+          "relevant": false
+        },
+        {
+          "title": "Royal Navy Orders Saab Sea Giraffe 1X Radars for K3 Scout Counter-Drone USVs",
+          "summary": "The Royal Navy has awarded Saab a £15 million contract for its Sea Giraffe 1X radar system as part of the development of an autonomous “drone seeker” capability first unveiled earlier this year. Saab press release The…",
+          "date": "2026-11-12",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/royal-navy-orders-saab-sea-giraffe-1x-radars-for-k3-scout-counter-drone-usvs/",
           "relevant": false
         },
         {
@@ -5369,19 +5369,19 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Malaysia Selects Roketsan’s ATMACA to Replace NSM on Littoral Combat Ships",
+          "summary": "Malaysia picks Roketsan’s ATMACA anti-ship missile to replace Kongsberg’s NSM on its LCS vessels, with French SETIS CMS integration still unresolved. The post Malaysia Selects Roketsan’s ATMACA to Replace NSM on…",
+          "date": "2026-11-15",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/malaysia-selects-roketsans-atmaca-to-replace-nsm-on-littoral-combat-ships/",
+          "relevant": false
+        },
+        {
           "title": "Gulf Oil Exports Recover as Hormuz Shipping Struggles",
           "summary": "Global oil markets are beginning to recover from the Iran war, but shipping through the Strait of Hormuz remains severely disrupted, with vessel traffic roughly 65% below pre-conflict levels and...",
           "date": "2026-11-13",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/gulf-oil-exports-recover-as-hormuz-shipping-struggles/",
-          "relevant": false
-        },
-        {
-          "title": "UK blacklists 11 ships in fresh Russia sanctions sweep",
-          "summary": "Britain has slapped fresh sanctions on 11 ships linked to Russian energy exports, targeting five LNG carriers, five oil tankers and a floating storage unit in its latest effort to disrupt Moscow’s seaborne oil and gas…",
-          "date": "2026-11-13",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/uk-blacklists-11-ships-in-fresh-russia-sanctions-sweep/",
           "relevant": false
         },
         {
@@ -5414,6 +5414,14 @@
           "date": "2026-11-13",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544347-nova-scotia-massachusetts-explore-joint-offshore-wind-power-developments",
+          "relevant": false
+        },
+        {
+          "title": "UK blacklists 11 ships in fresh Russia sanctions sweep",
+          "summary": "Britain has slapped fresh sanctions on 11 ships linked to Russian energy exports, targeting five LNG carriers, five oil tankers and a floating storage unit in its latest effort to disrupt Moscow’s seaborne oil and gas…",
+          "date": "2026-11-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/uk-blacklists-11-ships-in-fresh-russia-sanctions-sweep/",
           "relevant": false
         },
         {
@@ -7993,19 +8001,19 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
-          "title": "BW LPG scores another lucrative Avance VLGC flip",
-          "summary": "BW LPG has struck another lucrative vessel sale, offloading a VLGC acquired in John Fredriksen’s Avance Gas fleet deal less than two years ago for well over $100m. The New York- and Oslo-listed gas carrier giant has…",
-          "date": "2026-11-13",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/bw-lpg-scores-another-lucrative-avance-vlgc-flip/",
-          "relevant": false
-        },
-        {
           "title": "Three bidders in the run for seismic surveys offshore Greece",
           "summary": "Three companies have submitted bids to perform the acquisition and processing of non-exclusive seismic data offshore Greece that will help assess...",
           "date": "2026-11-13",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/13/three-bidders-in-the-run-for-seismic-surveys-offshore-greece",
+          "relevant": false
+        },
+        {
+          "title": "BW LPG scores another lucrative Avance VLGC flip",
+          "summary": "BW LPG has struck another lucrative vessel sale, offloading a VLGC acquired in John Fredriksen’s Avance Gas fleet deal less than two years ago for well over $100m. The New York- and Oslo-listed gas carrier giant has…",
+          "date": "2026-11-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/bw-lpg-scores-another-lucrative-avance-vlgc-flip/",
           "relevant": false
         },
         {
@@ -9274,15 +9282,6 @@
           "region": "SEA"
         },
         {
-          "title": "From ocean liner to artificial reef: A warning for container shipping",
-          "summary": "Dr Raymon Krishnan, president of Singapore’s Logistics & Supply Chain Management Society, writes for Splash today, reflecting on one of this week’s most talked about stories in the mainstream press. On Wednesday, the…",
-          "date": "2026-11-13",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/from-ocean-liner-to-artificial-reef-a-warning-for-container-shipping/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Abu Dhabi Shipbuilding and the UAE as a defence exporter",
           "summary": "Abu Dhabi Shipbuilding's extensive partnerships with foreign shipbuilders has contributed to the UAE's role as a defence exporter. The post Abu Dhabi Shipbuilding and the UAE as a defence exporter appeared first on…",
           "date": "2026-11-13",
@@ -9290,6 +9289,15 @@
           "source_url": "https://www.naval-technology.com/analyst-comment/abu-dhabi-shipbuilding-uae-defence-exporter/",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "From ocean liner to artificial reef: A warning for container shipping",
+          "summary": "Dr Raymon Krishnan, president of Singapore’s Logistics & Supply Chain Management Society, writes for Splash today, reflecting on one of this week’s most talked about stories in the mainstream press. On Wednesday, the…",
+          "date": "2026-11-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/from-ocean-liner-to-artificial-reef-a-warning-for-container-shipping/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Singapore-flagged cargo ship strikes US bridge",
