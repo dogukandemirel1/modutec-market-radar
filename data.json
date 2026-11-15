@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T20:00:59Z",
+  "last_updated": "2026-11-15T21:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -265,14 +265,6 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Deutsche Windtechnik picked for UK offshore wind maintenance job",
-          "summary": "German offshore wind services specialist Deutsche Windtechnik has secured a five-year operations and maintenance contract covering two offshore wind farms in the UK. The agreement, awarded by asset manager XceCo, covers…",
-          "date": "2026-11-13",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/deutsche-windtechnik-picked-for-uk-offshore-wind-maintenance-job/",
-          "relevant": false
-        },
-        {
           "title": "Trailblazer exploration well set for 2027 with Deepwater Pontus",
           "summary": "Transocean’s drillship Deepwater Pontus is contracted to drill the Trailblazer exploration well for Shell and Kosmos Energy in the US Gulf. Drilling is expected to begin in the first half of 2027. Trailblazer holds an…",
           "date": "2026-11-13",
@@ -334,6 +326,14 @@
           "date": "2026-11-13",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544342-exxonmobil-greenlights-12-5b-longtail-development-offshore-guyana",
+          "relevant": false
+        },
+        {
+          "title": "Deutsche Windtechnik picked for UK offshore wind maintenance job",
+          "summary": "German offshore wind services specialist Deutsche Windtechnik has secured a five-year operations and maintenance contract covering two offshore wind farms in the UK. The agreement, awarded by asset manager XceCo, covers…",
+          "date": "2026-11-13",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/deutsche-windtechnik-picked-for-uk-offshore-wind-maintenance-job/",
           "relevant": false
         },
         {
