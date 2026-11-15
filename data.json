@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T18:01:02Z",
+  "last_updated": "2026-11-15T19:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -9273,15 +9273,6 @@
           "relevant": false
         },
         {
-          "title": "Singapore-Flagged Bulk Carrier Strikes Delaware River Bridge, Coast Guard Investigating",
-          "summary": "A Singapore-flagged bulk carrier struck the Tacony-Palmyra Bridge on the Delaware River Thursday afternoon, leaving the movable span temporarily unable to close and prompting a U.S. Coast Guard inspection of...",
-          "date": "2026-11-13",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/singapore-flagged-bulk-carrier-strikes-delaware-river-bridge-coast-guard-investigating/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "From ocean liner to artificial reef: A warning for container shipping",
           "summary": "Dr Raymon Krishnan, president of Singapore’s Logistics & Supply Chain Management Society, writes for Splash today, reflecting on one of this week’s most talked about stories in the mainstream press. On Wednesday, the…",
           "date": "2026-11-13",
@@ -9298,6 +9289,15 @@
           "source_url": "https://www.naval-technology.com/analyst-comment/abu-dhabi-shipbuilding-uae-defence-exporter/",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "Singapore-Flagged Bulk Carrier Strikes Delaware River Bridge, Coast Guard Investigating",
+          "summary": "A Singapore-flagged bulk carrier struck the Tacony-Palmyra Bridge on the Delaware River Thursday afternoon, leaving the movable span temporarily unable to close and prompting a U.S. Coast Guard inspection of...",
+          "date": "2026-11-13",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/singapore-flagged-bulk-carrier-strikes-delaware-river-bridge-coast-guard-investigating/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Singapore-flagged cargo ship strikes US bridge",
