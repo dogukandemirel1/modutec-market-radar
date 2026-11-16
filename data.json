@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T23:01:06Z",
+  "last_updated": "2026-11-16T00:01:08Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5231,134 +5231,6 @@
           "source_name": "Splash247",
           "source_url": "https://splash247.com/exmar-lands-10-year-abidjan-fsru-deal/",
           "relevant": false
-        },
-        {
-          "title": "Northrop Grumman wins contract for Marine UH-1Y, AH-1Z Link 16 kits",
-          "summary": "Northrop Grumman received a $34.39m contract to provide Link 16 upgrade kits and spares for the US Marine Corps’ UH-1Y and AH-1Z helicopters. The post Northrop Grumman wins contract for Marine UH-1Y, AH-1Z Link 16 kits…",
-          "date": "2026-09-16",
-          "source_name": "Naval Technology",
-          "source_url": "https://www.naval-technology.com/news/northrop-grumman-marines-helicopters/",
-          "relevant": false
-        },
-        {
-          "title": "Transocean drillship lands new work offshore Equatorial Guinea",
-          "summary": "Transocean secured a two-well contract for the ultra-deepwater drillship Deepwater Conqueror to work offshore Equatorial Guinea for an undisclosed operator. The estimated 170-day campaign is expected to begin in 2027…",
-          "date": "2026-09-16",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/transocean-drillship-lands-new-work-offshore-equatorial-guinea-79964",
-          "relevant": false
-        },
-        {
-          "title": "Lithuania’s Klaipėda Port lands $115m EIB loan to bolster defence role",
-          "summary": "Lithuania’s Klaipėda State Seaport has secured a €100m ($115m) loan from the European Investment Bank (EIB) to upgrade its defence and energy infrastructure as security concerns rise in the Baltic region following…",
-          "date": "2026-09-16",
-          "source_name": "Naval Technology",
-          "source_url": "https://www.naval-technology.com/news/lithuania-klaipeda-port-eib-loan/",
-          "relevant": false
-        },
-        {
-          "title": "First Virginia Payload Module (VPM) Spotted for U.S. Navy’s Block V Submarines",
-          "summary": "General Dynamics Electric Boat has shared a photo showing the first completed Virginia Payload Module (VPM) for the U.S. Navy's Block V submarines, expanding strike capacity. The post First Virginia Payload Module (VPM)…",
-          "date": "2026-09-16",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/slug-first-virginia-payload-module-vpm-spotted-block-v-submarines/",
-          "relevant": false
-        },
-        {
-          "title": "Castelion Secures U.S. Navy Production Order for Blackbeard Hypersonic Weapon",
-          "summary": "U.S. Navy awards Castelion a production delivery order valued at up to $200 million to manufacture Blackbeard hypersonic strike weapons for carrier-based aviation. The post Castelion Secures U.S. Navy Production Order…",
-          "date": "2026-09-16",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/castelion-secures-u-s-navy-production-order-for-blackbeard-hypersonic-weapon/",
-          "relevant": false
-        },
-        {
-          "title": "Halliburton bags Eni’s deepwater bundle as Eastern Mediterranean gas buildout continues",
-          "summary": "U.S.-headquartered oilfield services player Halliburton has secured a multi-year contract with Italy’s energy giant Eni to provide bundled well construction and completions services for an ultra-deepwater development in…",
-          "date": "2026-09-16",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/halliburton-bags-enis-deepwater-bundle-as-eastern-mediterranean-gas-buildout-continues/",
-          "relevant": false
-        },
-        {
-          "title": "Saudi Export Disruptions Push Oil to Four-Month Highs",
-          "summary": "Oil prices settled $3 higher on Tuesday after shipping industry sources said crude loadings at Saudi Arabia's Red Sea export hub of Yanbu had been suspended and…",
-          "date": "2026-09-16",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/542985-saudi-export-disruptions-push-oil-to-four-month-highs",
-          "relevant": true
-        },
-        {
-          "title": "TechnipFMC picks up multimillion-dollar subsea scope for Petronas’ deepwater project",
-          "summary": "UK-headquartered energy technology provider TechnipFMC has been tasked with an integrated engineering, procurement, construction, and installation (iEPCI) assignment for the development of a long-delayed deepwater…",
-          "date": "2026-09-16",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/technipfmc-picks-up-multimillion-dollar-subsea-scope-for-petronas-deepwater-project/",
-          "relevant": false
-        },
-        {
-          "title": "Hanwha Ocean to Conduct ROK Navy’s First Outsourced Destroyer Overhaul",
-          "summary": "Hanwha Ocean has won a contract to overhaul ROKS Sejong-the-Great, marking the ROK Navy's first outsourced depot-level maintenance for a surface combatant. The post Hanwha Ocean to Conduct ROK Navy’s First Outsourced…",
-          "date": "2026-09-16",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/hanwha-ocean-roks-sejong-the-great-overhaul/",
-          "relevant": false
-        },
-        {
-          "title": "FSRU docks in Stade as LNG terminal prepares to feed gas into German grid from November",
-          "summary": "A 294-meter floating storage and regasification unit (FSRU) has arrived at the new liquefied natural gas (LNG) terminal in Stade, marking the start of commissioning preparations and bringing the facility a step closer…",
-          "date": "2026-09-16",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/fsru-docks-in-stade-as-lng-terminal-prepares-to-feed-gas-into-german-grid-from-november/",
-          "relevant": false
-        },
-        {
-          "title": "Fox News: Iran Attack Hits U.S.-Contracted Ship Carrying American Personnel",
-          "summary": "A U.S.-contracted vessel carrying American personnel was struck in an Iranian drone and missile attack near the Strait of Hormuz earlier this week, Fox News reported Wednesday, citing two sources...",
-          "date": "2026-09-16",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/fox-news-iran-attack-hits-u-s-contracted-ship-carrying-american-personnel/",
-          "relevant": false
-        },
-        {
-          "title": "Halliburton wins well services contract for Eni’s Cronos project",
-          "summary": "Halliburton has been awarded a contract by Eni to provide a bundled package of well construction and completions services for the Cronos project offshore Cyprus.",
-          "date": "2026-09-16",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/halliburton-well-services-contract-cronos-project/",
-          "relevant": false
-        },
-        {
-          "title": "Eni adds Halliburton to Cronos contractor lineup",
-          "summary": "Houston-headquartered energy services giant Halliburton has won a bundled well construction and completions contract from Eni for the Cronos ultra-deepwater development off Cyprus. Under the contract, Halliburton will…",
-          "date": "2026-09-16",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/eni-adds-halliburton-to-cronos-contractor-lineup/",
-          "relevant": false
-        },
-        {
-          "title": "Transocean wins fresh Equatorial Guinea drillship contract",
-          "summary": "Swiss-based offshore drilling giant Transocean has won drillship work in Equatorial Guinea with an undisclosed operator. Transocean said it was awarded a two-well contract for its 2016-built drillship Deepwater…",
-          "date": "2026-09-16",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/transocean-lands-drillship-work-in-equatorial-guinea/",
-          "relevant": false
-        },
-        {
-          "title": "Borr lines up fresh work for jackup duo",
-          "summary": "The Oslo- and New York-listed offshore driller Borr Drilling has won a new contract and an extension for two of its rigs. The 2013-built jackup Idun won a contract with an undisclosed operator in Vietnam. The three-well…",
-          "date": "2026-09-16",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/borr-lines-up-fresh-work-for-jackup-duo/",
-          "relevant": false
-        },
-        {
-          "title": "TechnipFMC scores Petronas subsea contract",
-          "summary": "Offshore contracting giant TechnipFMC has been awarded an integrated engineering, procurement, construction, and installation (iEPCI) contract by Petronas Carigali for the Limbayong deepwater project offshore Malaysia…",
-          "date": "2026-09-16",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/technipfmc-scores-petronas-subsea-contract/",
-          "relevant": false
         }
       ]
     },
@@ -7967,30 +7839,6 @@
           "source_name": "Splash247",
           "source_url": "https://splash247.com/lawmakers-vote-to-block-california-ship-emissions-rules/",
           "relevant": false
-        },
-        {
-          "title": "Equinor Gets Clearance for Drilling Ops in North Sea",
-          "summary": "The Norwegian Offshore Directorate has granted Equinor a drilling permit for a wildcat well in the North Sea.The permit is for wellbore 25/9-5 S in production license 1042…",
-          "date": "2026-09-16",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/542981-equinor-gets-clearance-for-drilling-ops-in-north-sea",
-          "relevant": false
-        },
-        {
-          "title": "South Korean Carrier Bets on 20-Day Arctic Route to Europe",
-          "summary": "South Korea’s PanStar Group plans to expand Arctic container voyages from next year after completing a trial run to Europe in about 20 days, betting that a seasonal service focused on high-value cargo can compete with…",
-          "date": "2026-09-16",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/south-korean-carrier-bets-on-20-day-arctic-route-to-europe/",
-          "relevant": false
-        },
-        {
-          "title": "Maritime’s next digital leap is organisational",
-          "summary": "Shipping’s resistance to digital change is often blamed on age, regulation and risk aversion. It’s more nuanced than that as this latest from our new SplashTech magazine explains. The most revealing answer to a…",
-          "date": "2026-09-16",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/maritimes-next-digital-leap-is-organisational/",
-          "relevant": false
         }
       ]
     },
@@ -9191,70 +9039,6 @@
           "source_name": "Splash247",
           "source_url": "https://splash247.com/bower-offshore-takes-ownership-of-managed-psv/",
           "relevant": true
-        },
-        {
-          "title": "ADES completes acquisition of five Saipem jackups in Saudi Arabia",
-          "summary": "Saipem completed the sale of its entire shareholding in Saudi Arabian Saipem to ADES. The transaction, announced 24 June 2026, closed after Saipem obtained all applicable regulatory approvals and satisfied customary…",
-          "date": "2026-09-16",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/ades-completes-acquisition-of-five-saipem-jackups-in-saudi-arabia-79955",
-          "relevant": true
-        },
-        {
-          "title": "Kimmeridge, Mubadala to Nearly Double Commonwealth LNG Capacity",
-          "summary": "Caturus, the joint venture of Kimmeridge and Mubadala, plans to add five liquefaction trains with a combined capacity of 7.75 million metric tons per annum to the Commonwealth LNG export project in Louisiana.",
-          "date": "2026-09-16",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/kimmeridge_mubadala_to_nearly_double_commonwealth_lng_capacity-16-sep-2026-184634-article/?rss=true",
-          "relevant": false
-        },
-        {
-          "title": "BKV Expands Barnett Shale Footprint",
-          "summary": "BKV said it had acquired upstream, midstream and carbon capture and storage assets in the Barnett Shale that grow its proven developed producing reserves by about 350 billion cubic feet equivalent.",
-          "date": "2026-09-16",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/bkv_expands_barnett_shale_footprint-16-sep-2026-184630-article/?rss=true",
-          "relevant": false
-        },
-        {
-          "title": "Implications of the Hangor-class for Pakistan’s operational naval posture and strategic sovereignty",
-          "summary": "This Naval News outline examines the importance of the Hangor-class submarines acquisition for the operational priorities of the Pakistan Navy, the industrial perspective for Islamabad and Beijing. The feature also…",
-          "date": "2026-09-16",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/features/2026/09/pakistans-hangor-class-and-naval-strategic-souvereignty/",
-          "relevant": false
-        },
-        {
-          "title": "EU Set to Restart Scrutiny of Subsea 7-Saipem Combination",
-          "summary": "The European Commission will likely comment within the next 24 hours on a reopening of its antitrust probe of the merger between Norway's Subsea 7 and Italy's Saipem…",
-          "date": "2026-09-16",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/542983-eu-set-to-restart-scrutiny-of-subsea-7-saipem-combination",
-          "relevant": false
-        },
-        {
-          "title": "Borr Drilling to sell 51% stake in Perfomex to Mexican partner",
-          "summary": "Borr Drilling has signed definitive agreements to sell its 51% equity interest in the Mexican well services joint venture (JV) Perfomex to its local partner.",
-          "date": "2026-09-16",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/borr-drilling-to-sell-51-stake-perfomex/",
-          "relevant": false
-        },
-        {
-          "title": "Borr Drilling Reshapes Mexico Operations, Extends Rig Backlog",
-          "summary": "Borr Drilling has agreed to sell its 51% stake in two Mexican joint ventures to its local partner, while retaining ownership of three jack-up rigs working for Pemex…",
-          "date": "2026-09-16",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/542979-borr-drilling-reshapes-mexico-operations-extends-rig-backlog",
-          "relevant": false
-        },
-        {
-          "title": "SGMF completes three-fuel lifecycle picture",
-          "summary": "Shipping’s alternative fuel debate has acquired a useful new reference point with an important fuel body completing lifecycle assessments of LNG, ammonia and now methanol — and the clearest conclusion is that the…",
-          "date": "2026-09-16",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/sgmf-completes-three-fuel-lifecycle-picture/",
-          "relevant": false
         }
       ]
     },
@@ -11888,78 +11672,6 @@
           "source_name": "Splash247",
           "source_url": "https://splash247.com/china-fills-gulf-void-as-war-redraws-cement-feedstock-trade/",
           "relevant": false
-        },
-        {
-          "title": "Valeura completes Jasmine drilling campaign, announces Suraphi discovery",
-          "summary": "Valeura Energy discovered a new oil field, named Suraphi, near its Manora field in the Gulf of Thailand, following the drilling of the Manora-9 exploration well and associated sidetracks. The D and E prospects each…",
-          "date": "2026-09-16",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/valeura-completes-jasmine-drilling-campaign-announces-suraphi-discovery-79961",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Oil Falls as Saudi Supply Outlook Improves",
-          "summary": "Crude futures fell as Saudi and Libyan supply disruptions showed signs of easing.",
-          "date": "2026-09-16",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/oil_falls_as_saudi_supply_outlook_improves-16-sep-2026-184635-article/?rss=true",
-          "relevant": false,
-          "region": "KSA"
-        },
-        {
-          "title": "First Turbine Stands Tall at Vietnam’s 128MW Offshore Wind Farm",
-          "summary": "Chinese supplier Envision Energy has installed the first turbine at the 128 MW Vinh Long nearshore wind project in Vietnam, marking the first turbine installation…",
-          "date": "2026-09-16",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/542982-first-turbine-stands-tall-at-vietnam-s-128mw-offshore-wind-farm",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Saudis Pivot to Send More Oil Via Hormuz After Pipeline Shut",
-          "summary": "Saudi Arabia is ramping up prompt sales of crude from outside the Strait of Hormuz following the shutdown of the kingdom’s East-West pipeline, which halted cross-country flows to its Red Sea coast.",
-          "date": "2026-09-16",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/saudis-pivot-to-send-more-oil-via-hormuz-after-pipeline-shut/",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
-          "title": "Southeast Asia’s hydrocarbon push: Valeura hits oil pay, eyes new satellite development",
-          "summary": "Southeast Asia’s hydrocarbon sector has gained fresh momentum as Canadian oil and gas company Valeura Energy struck an oil discovery near its existing offshore field in the Gulf of Thailand, potentially supporting a new…",
-          "date": "2026-09-16",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/southeast-asias-hydrocarbon-push-valeura-hits-oil-pay-eyes-new-satellite-development/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "PTTEP Gets Thai Approval for Offshore Stake Transfer to Valeura Energy",
-          "summary": "PTTEP has received Thai government approval to transfer a 40% working interest in two offshore Gulf of Thailand blocks to Valeura Energy under a strategic farm-in agreement between the companies…",
-          "date": "2026-09-16",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/542980-pttep-gets-thai-approval-for-offshore-stake-transfer-to-valeura-energy",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Valeura Finds New Oil Near Manora Field in Gulf of Thailand",
-          "summary": "Valeura Energy has discovered a new oil accumulation near its Manora field in the Gulf of Thailand, with drilling results prompting the company to move immediately…",
-          "date": "2026-09-16",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/542978-valeura-finds-new-oil-near-manora-field-in-gulf-of-thailand",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "China opens Pinglu Canal, carving a new southwest route to the sea",
-          "summary": "China has opened the 134.2 km Pinglu Canal, creating a new river-to-sea artery from the country’s southwest directly to the Beibu Gulf and potentially redrawing inland freight flows towards Southeast Asia. Built at a…",
-          "date": "2026-09-16",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/china-opens-pinglu-canal-carving-a-new-southwest-route-to-the-sea/",
-          "relevant": false,
-          "region": "SEA"
         }
       ]
     }
