@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T08:01:04Z",
+  "last_updated": "2026-11-16T09:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -270,6 +270,22 @@
           "date": "2026-11-16",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/subsea-7-lands-us-gulf-deepwater-contract/",
+          "relevant": false
+        },
+        {
+          "title": "Subsea7 selected for deepwater tieback offshore US",
+          "summary": "Subsea7 has won a contract worth between $50 million and $150 million for a project located at a water depth of around 2,200 meters in the Gulf...",
+          "date": "2026-11-16",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/16/subsea7-selected-for-deepwater-tieback-offshore-us",
+          "relevant": false
+        },
+        {
+          "title": "Energos puts Hanwha Power in charge of FSRU conversion with another on the cards",
+          "summary": "This deal with Energos Infrastructure to transform an LNG carrier into an FSRU is Hanwha Power’s second turnkey FSRU conversion contract.",
+          "date": "2026-11-16",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/16/energos-puts-hanwha-power-in-charge-of-fsru-conversion-with-another-on-the-cards",
           "relevant": false
         },
         {
