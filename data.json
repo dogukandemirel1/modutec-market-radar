@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T10:01:07Z",
+  "last_updated": "2026-11-16T11:01:08Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -265,6 +265,22 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "JFE Engineering wins offshore wind maintenance contract",
+          "summary": "Japanese engineering company JFE Engineering and local partner Akita Maritime Service have secured a five-year maintenance contract for Japan’s 315MW Oga-Katagami-Akita offshore wind farm. The joint venture will provide…",
+          "date": "2026-11-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/jfe-engineering-wins-offshore-wind-maintenance-contract/",
+          "relevant": false
+        },
+        {
+          "title": "Seatrium adds another Guyana FPSO to its books",
+          "summary": "Singapore offshore engineering group Seatrium has secured another FPSO integration contract from Japan’s Modec, this time for a floating production unit destined for ExxonMobil’s $6.8bn Hammerhead development offshore…",
+          "date": "2026-11-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/seatrium-adds-another-guyana-fpso-to-its-books/",
+          "relevant": false
+        },
+        {
           "title": "DOF lands up to $100m Australian subsea contract",
           "summary": "Norwegian offshore vessel owner DOF has secured a subsea installation contract worth between $50m and $100m from Australia’s Amplitude Energy, lining up its construction vessel Skandi Inventor for work in the Otway…",
           "date": "2026-11-16",
@@ -425,19 +441,19 @@
           "relevant": false
         },
         {
-          "title": "Murphy Oil signs four production sharing contracts in Cameroon",
-          "summary": "US-based Murphy Oil has signed four production sharing contracts covering approximately 2.6 million acres offshore Cameroon.",
-          "date": "2026-11-12",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/murphy-oil-sings-contracts-cameroon/",
-          "relevant": false
-        },
-        {
           "title": "Singapore Seeks LNG Floating Storage Operators to Expand Bunkering Ops",
           "summary": "The Maritime and Port Authority of Singapore (MPA) has opened applications for licenses to operate up to two liquefied natural gas (LNG) floating storage units (FSUs) in Singapore anchorages…",
           "date": "2026-11-12",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544323-singapore-seeks-lng-floating-storage-operators-to-expand-bunkering-ops",
+          "relevant": false
+        },
+        {
+          "title": "Murphy Oil signs four production sharing contracts in Cameroon",
+          "summary": "US-based Murphy Oil has signed four production sharing contracts covering approximately 2.6 million acres offshore Cameroon.",
+          "date": "2026-11-12",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/murphy-oil-sings-contracts-cameroon/",
           "relevant": false
         },
         {
@@ -5294,6 +5310,14 @@
           "date": "2026-11-16",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/black-sea-drone-attacks-trigger-romanian-fighter-jet-scramble/",
+          "relevant": false
+        },
+        {
+          "title": "Safran Unveils NGDS HK Rocket Launcher and PASEO Master D at Euronaval 2026",
+          "summary": "Unveiled at Euronaval 2026, the Safran NGDS HK launcher carries up to 88 guided or unguided rockets paired with the new PASEO Master D designator. The post Safran Unveils NGDS HK Rocket Launcher and PASEO Master D at…",
+          "date": "2026-11-16",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/safran-ngds-hk-rocket-launcher-euronaval-2026/",
           "relevant": false
         },
         {
