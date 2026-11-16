@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T17:01:15Z",
+  "last_updated": "2026-11-16T18:01:11Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -286,6 +286,14 @@
           "date": "2026-11-16",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/dof-lands-up-to-100m-australian-subsea-contract/",
+          "relevant": false
+        },
+        {
+          "title": "Constellation taps Weatherford for MPD on Amaralina Star exploration campaign offshore Brazil",
+          "summary": "Weatherford secured a contract from Constellation Oil Services to provide deepwater managed pressure drilling (MPD) services for an exploration campaign offshore Brazil. The work will support the campaign being run by…",
+          "date": "2026-11-16",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/constellation-taps-weatherford-for-mpd-on-amaralina-star-exploration-campaign-offshore-brazil-81073",
           "relevant": false
         },
         {
@@ -5366,6 +5374,14 @@
           "date": "2026-11-16",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/uk-moves-toward-new-maritime-fuel-standard/",
+          "relevant": false
+        },
+        {
+          "title": "Greek shipowners put Brussels on the spot over IMO deadlock",
+          "summary": "Greek shipowners have launched a fresh attack on Brussels ahead of the next round of international shipping emissions negotiations, accusing the European Union of putting its own regulatory interests ahead of a global…",
+          "date": "2026-11-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/greek-shipowners-put-brussels-on-the-spot-over-imo-deadlock/",
           "relevant": false
         },
         {
