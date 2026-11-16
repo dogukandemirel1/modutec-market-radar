@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T07:01:10Z",
+  "last_updated": "2026-11-16T08:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -270,6 +270,14 @@
           "date": "2026-11-16",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/subsea-7-lands-us-gulf-deepwater-contract/",
+          "relevant": false
+        },
+        {
+          "title": "Rosetti Marino takes on $440m offshore gas project in Libya",
+          "summary": "Italian engineering and construction company Rosetti Marino has secured an offshore engineering, procurement, construction and installation (EPCI) contract worth more than €400m ($440m) to upgrade the Sabratha gas…",
+          "date": "2026-11-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/rosetti-marino-takes-on-440m-offshore-gas-project-in-libya/",
           "relevant": false
         },
         {
