@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T09:01:05Z",
+  "last_updated": "2026-11-16T10:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -265,11 +265,19 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Subsea 7 lands US Gulf deepwater contract",
-          "summary": "Norwegian offshore engineering and construction specialist Subsea 7 has secured a contract worth between $50m and $150m from Kosmos Energy for the Tiberius development in the US Gulf. The deal covers the fabrication…",
+          "title": "DOF lands up to $100m Australian subsea contract",
+          "summary": "Norwegian offshore vessel owner DOF has secured a subsea installation contract worth between $50m and $100m from Australia’s Amplitude Energy, lining up its construction vessel Skandi Inventor for work in the Otway…",
           "date": "2026-11-16",
           "source_name": "Splash247",
-          "source_url": "https://splash247.com/subsea-7-lands-us-gulf-deepwater-contract/",
+          "source_url": "https://splash247.com/dof-lands-up-to-100m-australian-subsea-contract/",
+          "relevant": false
+        },
+        {
+          "title": "DOF starts activities as part of 'large' contract in APAC",
+          "summary": "DOF Group has secured a subsea umbilicals, risers and flowlines (SURF) services contract with Amplitude Energy Limited (AEL) for a project in the...",
+          "date": "2026-11-16",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/16/dof-starts-activities-as-part-of-large-contract-in-apac",
           "relevant": false
         },
         {
@@ -286,6 +294,14 @@
           "date": "2026-11-16",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/16/energos-puts-hanwha-power-in-charge-of-fsru-conversion-with-another-on-the-cards",
+          "relevant": false
+        },
+        {
+          "title": "Subsea 7 lands US Gulf deepwater contract",
+          "summary": "Norwegian offshore engineering and construction specialist Subsea 7 has secured a contract worth between $50m and $150m from Kosmos Energy for the Tiberius development in the US Gulf. The deal covers the fabrication…",
+          "date": "2026-11-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/subsea-7-lands-us-gulf-deepwater-contract/",
           "relevant": false
         },
         {
