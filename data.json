@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T13:01:06Z",
+  "last_updated": "2026-11-16T14:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -289,6 +289,22 @@
           "relevant": false
         },
         {
+          "title": "Shortly after contract in APAC, DOF reports 'very large' one in Africa",
+          "summary": "DOF Group has won a contract described as very large for the provision of a field support vessel (FSV) in Africa. The contract was awarded by an...",
+          "date": "2026-11-16",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/16/shortly-after-contract-in-apac-dof-reports-very-large-one-in-africa",
+          "relevant": false
+        },
+        {
+          "title": "Aberdeen subsea robotics firm secures first offshore wind contract in Taiwan",
+          "summary": "Aberdeen-based High Performance Robotics (HPR) has been awarded its first commercial contract in Taiwan, where it will provide subsea inspection...",
+          "date": "2026-11-16",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/16/aberdeen-subsea-robotics-firm-secures-first-offshore-wind-contract-in-taiwan",
+          "relevant": true
+        },
+        {
           "title": "DOF starts activities as part of 'large' contract in APAC",
           "summary": "DOF Group has secured a subsea umbilicals, risers and flowlines (SURF) services contract with Amplitude Energy Limited (AEL) for a project in the...",
           "date": "2026-11-16",
@@ -310,6 +326,22 @@
           "date": "2026-11-16",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/16/energos-puts-hanwha-power-in-charge-of-fsru-conversion-with-another-on-the-cards",
+          "relevant": false
+        },
+        {
+          "title": "Subsea7 Gets Deepwater Tieback Job Offshore US",
+          "summary": "Subsea7 has secured a subsea contract from Kosmos Energy for the Tiberius deepwater development in the US Gulf, with offshore installation activities expected to begin in 2028…",
+          "date": "2026-11-16",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544369-subsea7-gets-deepwater-tieback-job-offshore-us",
+          "relevant": false
+        },
+        {
+          "title": "Amplitude Energy Taps DOF for Major Offshore Subsea Work",
+          "summary": "DOF Group has secured a subsea SURF services contract from Amplitude Energy for the East Coast Supply Project in Australia's Otway Basin.The contract award, valued…",
+          "date": "2026-11-16",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544368-amplitude-energy-taps-dof-for-major-offshore-subsea-work",
           "relevant": false
         },
         {
@@ -5393,14 +5425,6 @@
           "relevant": false
         },
         {
-          "title": "Naftogaz Gets Dutch Grant to Secure Winter Gas",
-          "summary": "Ukraine's state-owned Naftogaz secured an agreement for a Dutch government grant of over $25 million through the EBRD to help secure natural gas supply, as Ukraine and Russia continue to exchange attacks on energy…",
-          "date": "2026-11-12",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/naftogaz_gets_dutch_grant_to_secure_winter_gas-12-nov-2026-185070-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Impact Oil & Gas completes split of Namibian and South African assets",
           "summary": "Impact Oil & Gas has completed a reorganisation separating its offshore Namibian assets, including the Venus oil discovery, from its South African exploration portfolio.",
           "date": "2026-11-12",
@@ -5414,6 +5438,14 @@
           "date": "2026-11-12",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/bae-systems-lrasm-lockheed-martin/",
+          "relevant": false
+        },
+        {
+          "title": "Naftogaz Gets Dutch Grant to Secure Winter Gas",
+          "summary": "Ukraine's state-owned Naftogaz secured an agreement for a Dutch government grant of over $25 million through the EBRD to help secure natural gas supply, as Ukraine and Russia continue to exchange attacks on energy…",
+          "date": "2026-11-12",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/naftogaz_gets_dutch_grant_to_secure_winter_gas-12-nov-2026-185070-article/?rss=true",
           "relevant": false
         },
         {
@@ -7944,6 +7976,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "Sempra divest majority stake in its LNG and energy infrastructure business",
+          "summary": "KKR-led consortium has now upped its stake to 65% in Sempra Infrastructure Partners, as Sempra optimizes its portfolio.",
+          "date": "2026-11-16",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/16/sempra-divest-majority-stake-in-its-lng-and-energy-infrastructure-business",
+          "relevant": false
+        },
         {
           "title": "Adura Starts Gas Production at $2.8B North Sea Gas Field",
           "summary": "Adura, a joint venture between Shell and Equinor, has started gas production from its $2.8 million (£2.1 billion) Jackdaw development in the UK North Sea, marking…",
