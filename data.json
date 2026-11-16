@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T12:39:09Z",
+  "last_updated": "2026-11-16T13:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5313,19 +5313,19 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
-          "title": "Black Sea drone attacks trigger Romanian fighter jet scramble",
-          "summary": "Three commercial vessels have been struck by drones near Romania’s Black Sea coast, prompting the scrambling of fighter jets and fresh warnings from Bucharest as the maritime war between Russia and Ukraine moves…",
-          "date": "2026-11-16",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/black-sea-drone-attacks-trigger-romanian-fighter-jet-scramble/",
-          "relevant": false
-        },
-        {
           "title": "China to lead global polypropylene capacity growth through 2030",
           "summary": "Expanding automotive and packaging sectors to drive China to outpace all other markets in global polypropylene capacity additions.",
           "date": "2026-11-16",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/analyst-comment/china-global-polypropylene-capacity-growth-2030/",
+          "relevant": false
+        },
+        {
+          "title": "Black Sea drone attacks trigger Romanian fighter jet scramble",
+          "summary": "Three commercial vessels have been struck by drones near Romania’s Black Sea coast, prompting the scrambling of fighter jets and fresh warnings from Bucharest as the maritime war between Russia and Ukraine moves…",
+          "date": "2026-11-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/black-sea-drone-attacks-trigger-romanian-fighter-jet-scramble/",
           "relevant": false
         },
         {
