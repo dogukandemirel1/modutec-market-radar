@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T11:01:08Z",
+  "last_updated": "2026-11-16T12:01:10Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5313,6 +5313,14 @@
           "relevant": false
         },
         {
+          "title": "China to lead global polypropylene capacity growth through 2030",
+          "summary": "Expanding automotive and packaging sectors to drive China to outpace all other markets in global polypropylene capacity additions.",
+          "date": "2026-11-16",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/analyst-comment/china-global-polypropylene-capacity-growth-2030/",
+          "relevant": false
+        },
+        {
           "title": "Safran Unveils NGDS HK Rocket Launcher and PASEO Master D at Euronaval 2026",
           "summary": "Unveiled at Euronaval 2026, the Safran NGDS HK launcher carries up to 88 guided or unguided rockets paired with the new PASEO Master D designator. The post Safran Unveils NGDS HK Rocket Launcher and PASEO Master D at…",
           "date": "2026-11-16",
@@ -5337,14 +5345,6 @@
           "relevant": false
         },
         {
-          "title": "SUBPAC Commander Warns of Rapid Expansion in Chinese and Russian Submarine Fleets",
-          "summary": "U.S. Pacific Fleet (SUBPAC) Commander Rear Adm. Chris Cavanaugh outlines the rapid expansion and growing undersea threats of the PLAN and Russian submarine fleets. The post SUBPAC Commander Warns of Rapid Expansion in…",
-          "date": "2026-11-13",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/subpac-commander-warns-of-rapid-expansion-in-chinese-and-russian-submarine-fleets/",
-          "relevant": false
-        },
-        {
           "title": "Ukraine Hits 9th Russian Oil Refinery Since Start of Nov",
           "summary": "Ukraine continued its campaign of near daily strikes on Russian oil assets.",
           "date": "2026-11-13",
@@ -5366,6 +5366,14 @@
           "date": "2026-11-13",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544347-nova-scotia-massachusetts-explore-joint-offshore-wind-power-developments",
+          "relevant": false
+        },
+        {
+          "title": "SUBPAC Commander Warns of Rapid Expansion in Chinese and Russian Submarine Fleets",
+          "summary": "U.S. Pacific Fleet (SUBPAC) Commander Rear Adm. Chris Cavanaugh outlines the rapid expansion and growing undersea threats of the PLAN and Russian submarine fleets. The post SUBPAC Commander Warns of Rapid Expansion in…",
+          "date": "2026-11-13",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/subpac-commander-warns-of-rapid-expansion-in-chinese-and-russian-submarine-fleets/",
           "relevant": false
         },
         {
