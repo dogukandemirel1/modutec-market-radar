@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T16:01:06Z",
+  "last_updated": "2026-11-16T17:01:15Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -326,6 +326,14 @@
           "date": "2026-11-16",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/16/energos-puts-hanwha-power-in-charge-of-fsru-conversion-with-another-on-the-cards",
+          "relevant": false
+        },
+        {
+          "title": "DOF Group Awarded Field Support Vessel Contract in Africa",
+          "summary": "DOF Group ASA has been awarded a Very Large* integrated Field Support Vessel (FSV) contract with an international oil company in Africa.The project will utilize…",
+          "date": "2026-11-16",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544386-dof-group-awarded-field-support-vessel-contract-in-africa",
           "relevant": false
         },
         {
@@ -5353,6 +5361,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "UK Moves Toward New Maritime Fuel Standard",
+          "summary": "The United Kingdom has launched a consultation on new maritime fuel regulations that could require thousands of ships calling at British ports to progressively reduce the greenhouse gas emissions intensity...",
+          "date": "2026-11-16",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/uk-moves-toward-new-maritime-fuel-standard/",
+          "relevant": false
+        },
+        {
           "title": "EU Oil Watchers Say Supply Remains Stable",
           "summary": "Oil supply in the European Union continues to be 'stable', though oil markets remain tight, according to the bloc's Oil Coordination Group.",
           "date": "2026-11-16",
@@ -7993,6 +8009,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "GOWell acquires WellSense to add fiber optic well integrity sensing",
+          "summary": "GOWell Energy Technology completed its acquisition of WellSense, an Aberdeen-based provider of distributed fiber optic sensing (DFOS) and well integrity diagnostic technologies. The deal was carried out through GOWell’s…",
+          "date": "2026-11-16",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/gowell-acquires-wellsense-to-add-fiber-optic-well-integrity-sensing-81066",
+          "relevant": true
+        },
+        {
           "title": "Sempra divest majority stake in its LNG and energy infrastructure business",
           "summary": "KKR-led consortium has now upped its stake to 65% in Sempra Infrastructure Partners, as Sempra optimizes its portfolio.",
           "date": "2026-11-16",
@@ -8033,19 +8057,19 @@
           "relevant": false
         },
         {
-          "title": "Santos, partners add Pavo South-1 to firm 2027 Bedout program",
-          "summary": "The Santos-operated Bedout joint venture added Pavo South-1 as a second firm exploration well in its 2027 drilling campaign offshore Western Australia, partner Carnarvon Energy announced on 12 November. The group…",
-          "date": "2026-11-12",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/santos-partners-add-pavo-south-1-to-firm-2027-bedout-program-81031",
-          "relevant": false
-        },
-        {
           "title": "With restructuring done, Impact Oil & Gas turns into pure-play Namibia explorer",
           "summary": "The corporate restructuring has established a pure-play Namibia-focused development and exploration business, anchored by the Venus project.",
           "date": "2026-11-12",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/12/with-restructuring-done-impact-oil-and-gas-turns-into-pure-play-namibia-explorer",
+          "relevant": false
+        },
+        {
+          "title": "Santos, partners add Pavo South-1 to firm 2027 Bedout program",
+          "summary": "The Santos-operated Bedout joint venture added Pavo South-1 as a second firm exploration well in its 2027 drilling campaign offshore Western Australia, partner Carnarvon Energy announced on 12 November. The group…",
+          "date": "2026-11-12",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/santos-partners-add-pavo-south-1-to-firm-2027-bedout-program-81031",
           "relevant": false
         },
         {
