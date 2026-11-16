@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T18:01:11Z",
+  "last_updated": "2026-11-16T19:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -334,6 +334,14 @@
           "date": "2026-11-16",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/16/energos-puts-hanwha-power-in-charge-of-fsru-conversion-with-another-on-the-cards",
+          "relevant": false
+        },
+        {
+          "title": "Eni to Reach Investment Decision on Mozambique FLNG Expansion by 2027",
+          "summary": "Italian energy firm Eni said on Monday it anticipated reaching a final investment decision for a third floating liquefied natural gas (FLNG) unit offshore Mozambique at its Mamba East project by 2027…",
+          "date": "2026-11-16",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544389-eni-to-reach-investment-decision-on-mozambique-flng-expansion-by-2027",
           "relevant": false
         },
         {
