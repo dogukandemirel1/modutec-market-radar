@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T15:01:17Z",
+  "last_updated": "2026-11-16T16:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5352,6 +5352,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "EU Oil Watchers Say Supply Remains Stable",
+          "summary": "Oil supply in the European Union continues to be 'stable', though oil markets remain tight, according to the bloc's Oil Coordination Group.",
+          "date": "2026-11-16",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/eu_oil_watchers_say_supply_remains_stable-16-nov-2026-185091-article/?rss=true",
+          "relevant": false
+        },
         {
           "title": "China to lead global polypropylene capacity growth through 2030",
           "summary": "Expanding automotive and packaging sectors to drive China to outpace all other markets in global polypropylene capacity additions.",
