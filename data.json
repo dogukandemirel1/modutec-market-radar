@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T14:01:04Z",
+  "last_updated": "2026-11-16T15:01:17Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -326,6 +326,14 @@
           "date": "2026-11-16",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/16/energos-puts-hanwha-power-in-charge-of-fsru-conversion-with-another-on-the-cards",
+          "relevant": false
+        },
+        {
+          "title": "Weatherford Scores Fresh Deepwater Drilling Deal in Brazil",
+          "summary": "Weatherford International has secured a contract from Constellation Oil Services to provide managed pressure drilling (MPD) technology and services for a deepwater…",
+          "date": "2026-11-16",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544371-weatherford-scores-fresh-deepwater-drilling-deal-in-brazil",
           "relevant": false
         },
         {
@@ -5377,14 +5385,6 @@
           "relevant": false
         },
         {
-          "title": "Gulf Oil Exports Recover as Hormuz Shipping Struggles",
-          "summary": "Global oil markets are beginning to recover from the Iran war, but shipping through the Strait of Hormuz remains severely disrupted, with vessel traffic roughly 65% below pre-conflict levels and...",
-          "date": "2026-11-13",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/gulf-oil-exports-recover-as-hormuz-shipping-struggles/",
-          "relevant": false
-        },
-        {
           "title": "Ukraine Hits 9th Russian Oil Refinery Since Start of Nov",
           "summary": "Ukraine continued its campaign of near daily strikes on Russian oil assets.",
           "date": "2026-11-13",
@@ -5406,6 +5406,14 @@
           "date": "2026-11-13",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544347-nova-scotia-massachusetts-explore-joint-offshore-wind-power-developments",
+          "relevant": false
+        },
+        {
+          "title": "Gulf Oil Exports Recover as Hormuz Shipping Struggles",
+          "summary": "Global oil markets are beginning to recover from the Iran war, but shipping through the Strait of Hormuz remains severely disrupted, with vessel traffic roughly 65% below pre-conflict levels and...",
+          "date": "2026-11-13",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/gulf-oil-exports-recover-as-hormuz-shipping-struggles/",
           "relevant": false
         },
         {
@@ -9193,14 +9201,6 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "World Oil Market is Returning to Surplus as Gulf Exports Recover",
-          "summary": "The world oil market will return to a surplus in the fourth quarter of this year, the International Energy Agency said on Friday, as Middle East exports recover faster than global oil demand despite continued attacks on…",
-          "date": "2026-11-13",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/world-oil-market-is-returning-to-surplus-as-gulf-exports-recover/",
-          "relevant": false
-        },
-        {
           "title": "Abu Dhabi Shipbuilding and the UAE as a defence exporter",
           "summary": "Abu Dhabi Shipbuilding's extensive partnerships with foreign shipbuilders has contributed to the UAE's role as a defence exporter. The post Abu Dhabi Shipbuilding and the UAE as a defence exporter appeared first on…",
           "date": "2026-11-13",
@@ -9208,6 +9208,14 @@
           "source_url": "https://www.naval-technology.com/analyst-comment/abu-dhabi-shipbuilding-uae-defence-exporter/",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "World Oil Market is Returning to Surplus as Gulf Exports Recover",
+          "summary": "The world oil market will return to a surplus in the fourth quarter of this year, the International Energy Agency said on Friday, as Middle East exports recover faster than global oil demand despite continued attacks on…",
+          "date": "2026-11-13",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/world-oil-market-is-returning-to-surplus-as-gulf-exports-recover/",
+          "relevant": false
         },
         {
           "title": "From ocean liner to artificial reef: A warning for container shipping",
