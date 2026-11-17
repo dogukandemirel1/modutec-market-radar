@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T20:01:13Z",
+  "last_updated": "2026-11-17T21:01:11Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5392,6 +5392,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "U.S. Military Strikes Iranian Missile Site Near Strait of Hormuz",
+          "summary": "By Arsalan Shahla and Jen Judson (Bloomberg) — American warplanes hit an Iranian missile launch site on Qeshm Island in the Persian Gulf on Tuesday, a US military official said,...",
+          "date": "2026-11-17",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/u-s-military-strikes-iranian-missile-site-near-strait-of-hormuz/",
+          "relevant": false
+        },
         {
           "title": "Gulf Oil Flow at Risk From Lack of Empty Tankers, Tracker Says",
           "summary": "The number of empty tankers sailing to collect cargoes of Middle East crude is sliding, a trend that could jeopardize the recent revival in the region’s oil flows to global markets, according to Tankertrackers.com, a…",
