@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T06:01:04Z",
+  "last_updated": "2026-11-17T07:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -264,6 +264,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "ExxonMobil pushes past million-barrel daily output in Guyana",
+          "summary": "US supermajor ExxonMobil has pushed Guyana’s installed offshore oil production capacity beyond the one-million-barrel-per-day mark after starting up its fifth floating production unit in the country’s prolific Stabroek…",
+          "date": "2026-11-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/exxonmobil-pushes-past-million-barrel-daily-output-in-guyana/",
+          "relevant": false
+        },
         {
           "title": "JFE Engineering wins offshore wind maintenance contract",
           "summary": "Japanese engineering company JFE Engineering and local partner Akita Maritime Service have secured a five-year maintenance contract for Japan’s 315MW Oga-Katagami-Akita offshore wind farm. The joint venture will provide…",
@@ -7880,6 +7888,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "China emerges as dry bulk export powerhouse",
+          "summary": "China’s transformation from the world’s dominant dry bulk importer into an increasingly significant exporter is gathering pace, with outbound cargo volumes more than doubling since 2020 and accounting for nearly…",
+          "date": "2026-11-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/china-emerges-as-dry-bulk-export-powerhouse/",
+          "relevant": false
+        },
         {
           "title": "GOWell acquires WellSense to add fiber optic well integrity sensing",
           "summary": "GOWell Energy Technology completed its acquisition of WellSense, an Aberdeen-based provider of distributed fiber optic sensing (DFOS) and well integrity diagnostic technologies. The deal was carried out through GOWell’s…",
