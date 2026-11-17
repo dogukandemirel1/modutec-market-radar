@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T13:12:41Z",
+  "last_updated": "2026-11-17T14:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5398,6 +5398,14 @@
           "date": "2026-11-17",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/17/exxonmobil-pushes-ahead-with-guyanas-eighth-oil-project-as-saipem-gets-the-all-clear-and-sbm-offshore-bags-fpso-job",
+          "relevant": false
+        },
+        {
+          "title": "Diamondback to Acquire Double Eagle Assets in Midland Basin",
+          "summary": "Diamondback agreed to purchase Double Eagle assets that it said will raise its production in the Midland Basin next year by 92,000 barrels of oil equivalent a day.",
+          "date": "2026-11-17",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/diamondback_to_acquire_double_eagle_assets_in_midland_basin-17-nov-2026-185101-article/?rss=true",
           "relevant": false
         },
         {
