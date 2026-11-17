@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T08:01:07Z",
+  "last_updated": "2026-11-17T09:01:09Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -265,6 +265,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "COSL splashes $1.64bn on 59 offshore support vessel newbuilds",
+          "summary": "China Oilfield Services Limited (COSL) has signed shipbuilding contracts worth RMB10.93bn ($1.64bn) for 59 offshore support vessels at three Chinese shipyards as it expands and modernises its fleet. The order covers six…",
+          "date": "2026-11-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/cosl-splashes-1-64bn-on-59-offshore-support-vessel-newbuilds/",
+          "relevant": false
+        },
+        {
           "title": "ExxonMobil pushes past million-barrel daily output in Guyana",
           "summary": "US supermajor ExxonMobil has pushed Guyana’s installed offshore oil production capacity beyond the one-million-barrel-per-day mark after starting up its fifth floating production unit in the country’s prolific Stabroek…",
           "date": "2026-11-17",
@@ -326,6 +334,14 @@
           "date": "2026-11-16",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/16/energos-puts-hanwha-power-in-charge-of-fsru-conversion-with-another-on-the-cards",
+          "relevant": false
+        },
+        {
+          "title": "HD Hyundai and Anduril launch 600t autonomous surface vessel",
+          "summary": "HD Hyundai Heavy Industries (HHI) has launched an autonomous surface vessel (ASV) developed in partnership with US defence contractor Anduril Industries. The post HD Hyundai and Anduril launch 600t autonomous surface…",
+          "date": "2026-11-16",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/hd-hyundai-anduril-asv/",
           "relevant": false
         },
         {
@@ -5310,6 +5326,14 @@
           "date": "2026-11-17",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/eu-widens-shadow-fleet-crackdown-to-tanker-managers-and-oil-buyers/",
+          "relevant": false
+        },
+        {
+          "title": "ExxonMobil pushes ahead with Guyana’s eighth oil project as Saipem gets the all-clear and SBM Offshore bags FPSO job",
+          "summary": "Guyana’s deepwater expansion is gaining momentum as ExxonMobil moves to the execution phase of its recently sanctioned offshore oil development.",
+          "date": "2026-11-17",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/17/exxonmobil-pushes-ahead-with-guyanas-eighth-oil-project-as-saipem-gets-the-all-clear-and-sbm-offshore-bags-fpso-job",
           "relevant": false
         },
         {
