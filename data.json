@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T00:01:23Z",
+  "last_updated": "2026-11-17T01:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5288,6 +5288,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "EU Targets Shadow Fleet Shipowners, Managers and Insurers in New Russia Sanctions",
+          "summary": "The European Union has imposed a new round of sanctions targeting the shipowners, vessel managers, insurers and financial networks supporting Russia’s shadow fleet, expanding its efforts to disrupt the maritime...",
+          "date": "2026-11-16",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/eu-targets-shadow-fleet-shipowners-managers-and-insurers-in-new-russia-sanctions/",
+          "relevant": false
+        },
         {
           "title": "UK Moves Toward New Maritime Fuel Standard",
           "summary": "The United Kingdom has launched a consultation on new maritime fuel regulations that could require thousands of ships calling at British ports to progressively reduce the greenhouse gas emissions intensity...",
