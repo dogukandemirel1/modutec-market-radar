@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T10:01:04Z",
+  "last_updated": "2026-11-17T11:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -265,14 +265,6 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "COSL splashes $1.64bn on 59 offshore support vessel newbuilds",
-          "summary": "China Oilfield Services Limited (COSL) has signed shipbuilding contracts worth RMB10.93bn ($1.64bn) for 59 offshore support vessels at three Chinese shipyards as it expands and modernises its fleet. The order covers six…",
-          "date": "2026-11-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/cosl-splashes-1-64bn-on-59-offshore-support-vessel-newbuilds/",
-          "relevant": false
-        },
-        {
           "title": "DOF's largest vessel nets contract with TechnipFMC",
           "summary": "DOF Group has secured a new contract for its largest vessel, following the announcement of two other contracts this week. The new contract for...",
           "date": "2026-11-17",
@@ -302,6 +294,14 @@
           "date": "2026-11-17",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544398-sbm-offshore-lands-longtail-fpso-deal-saipem-gets-go-ahead-from-exxonmobil",
+          "relevant": false
+        },
+        {
+          "title": "COSL splashes $1.64bn on 59 offshore support vessel newbuilds",
+          "summary": "China Oilfield Services Limited (COSL) has signed shipbuilding contracts worth RMB10.93bn ($1.64bn) for 59 offshore support vessels at three Chinese shipyards as it expands and modernises its fleet. The order covers six…",
+          "date": "2026-11-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/cosl-splashes-1-64bn-on-59-offshore-support-vessel-newbuilds/",
           "relevant": false
         },
         {
@@ -489,22 +489,6 @@
           "relevant": false
         },
         {
-          "title": "ExxonMobil Greenlights Eighth Stabroek Project",
-          "summary": "ExxonMobil announced a $12.5-billion final investment decision to proceed with Longtail - the first development that is primarily gas and condensate - in the Stabroek block offshore Guyana, after securing government…",
-          "date": "2026-11-13",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/exxonmobil_greenlights_eighth_stabroek_project-13-nov-2026-185080-article/?rss=true",
-          "relevant": false
-        },
-        {
-          "title": "Murphy Oil Re-Enters Cameroon",
-          "summary": "Cameroon awarded Murphy Oil four production sharing contracts, marking the company's re-entry into the Central African country after exiting a decade ago.",
-          "date": "2026-11-13",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/murphy_oil_reenters_cameroon-13-nov-2026-185079-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "ExxonMobil to invest $12.5bn in Longtail development offshore Guyana",
           "summary": "ExxonMobil, through its subsidiary ExxonMobil Guyana, has reached a final investment decision (FID) to move forward with the development of the Longtail field, located offshore Guyana.",
           "date": "2026-11-13",
@@ -518,6 +502,22 @@
           "date": "2026-11-13",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/bae-systems-submarine-propulsors/",
+          "relevant": false
+        },
+        {
+          "title": "ExxonMobil Greenlights Eighth Stabroek Project",
+          "summary": "ExxonMobil announced a $12.5-billion final investment decision to proceed with Longtail - the first development that is primarily gas and condensate - in the Stabroek block offshore Guyana, after securing government…",
+          "date": "2026-11-13",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/exxonmobil_greenlights_eighth_stabroek_project-13-nov-2026-185080-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Murphy Oil Re-Enters Cameroon",
+          "summary": "Cameroon awarded Murphy Oil four production sharing contracts, marking the company's re-entry into the Central African country after exiting a decade ago.",
+          "date": "2026-11-13",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/murphy_oil_reenters_cameroon-13-nov-2026-185079-article/?rss=true",
           "relevant": false
         },
         {
