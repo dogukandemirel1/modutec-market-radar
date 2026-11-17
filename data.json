@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T18:01:07Z",
+  "last_updated": "2026-11-17T19:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -294,6 +294,14 @@
           "date": "2026-11-17",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/17/dofs-largest-vessel-nets-contract-with-technipfmc",
+          "relevant": false
+        },
+        {
+          "title": "HII secures US Navy order for 82 additional Lionfish SUUVs",
+          "summary": "HII has received an updated US Navy contract to produce 82 additional Lionfish small uncrewed undersea vehicles (SUUVs). The post HII secures US Navy order for 82 additional Lionfish SUUVs appeared first on Naval…",
+          "date": "2026-11-17",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/hii-us-navy-lionfish-order/",
           "relevant": false
         },
         {
@@ -5377,6 +5385,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Gulf Oil Flow at Risk From Lack of Empty Tankers, Tracker Says",
+          "summary": "The number of empty tankers sailing to collect cargoes of Middle East crude is sliding, a trend that could jeopardize the recent revival in the region’s oil flows to global markets, according to Tankertrackers.com, a…",
+          "date": "2026-11-17",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/gulf-oil-flow-at-risk-from-lack-of-empty-tankers-tracker-says/",
+          "relevant": false
+        },
+        {
           "title": "Apache keeps North Sea assets producing despite worker walkouts",
           "summary": "US energy company Apache said that production from its UK North Sea assets remains unaffected despite escalating industrial action involving around 170 offshore workers. Members of the Unite union staged a series of…",
           "date": "2026-11-17",
@@ -5441,14 +5457,6 @@
           "relevant": false
         },
         {
-          "title": "UK Moves Toward New Maritime Fuel Standard",
-          "summary": "The United Kingdom has launched a consultation on new maritime fuel regulations that could require thousands of ships calling at British ports to progressively reduce the greenhouse gas emissions intensity...",
-          "date": "2026-11-16",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/uk-moves-toward-new-maritime-fuel-standard/",
-          "relevant": false
-        },
-        {
           "title": "EU Oil Watchers Say Supply Remains Stable",
           "summary": "Oil supply in the European Union continues to be 'stable', though oil markets remain tight, according to the bloc's Oil Coordination Group.",
           "date": "2026-11-16",
@@ -5462,6 +5470,14 @@
           "date": "2026-11-16",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/analyst-comment/china-global-polypropylene-capacity-growth-2030/",
+          "relevant": false
+        },
+        {
+          "title": "UK Moves Toward New Maritime Fuel Standard",
+          "summary": "The United Kingdom has launched a consultation on new maritime fuel regulations that could require thousands of ships calling at British ports to progressively reduce the greenhouse gas emissions intensity...",
+          "date": "2026-11-16",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/uk-moves-toward-new-maritime-fuel-standard/",
           "relevant": false
         },
         {
