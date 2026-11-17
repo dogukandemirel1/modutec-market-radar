@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T07:01:07Z",
+  "last_updated": "2026-11-17T08:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -273,19 +273,11 @@
           "relevant": false
         },
         {
-          "title": "JFE Engineering wins offshore wind maintenance contract",
-          "summary": "Japanese engineering company JFE Engineering and local partner Akita Maritime Service have secured a five-year maintenance contract for Japan’s 315MW Oga-Katagami-Akita offshore wind farm. The joint venture will provide…",
-          "date": "2026-11-16",
+          "title": "DOF clinches three-year African offshore vessel contract",
+          "summary": "Norwegian offshore services player DOF Group has secured a three-year contract worth between $100m and $200m for its subsea construction vessel Skandi Seven in Africa. An unnamed international oil company awarded the…",
+          "date": "2026-11-17",
           "source_name": "Splash247",
-          "source_url": "https://splash247.com/jfe-engineering-wins-offshore-wind-maintenance-contract/",
-          "relevant": false
-        },
-        {
-          "title": "Seatrium adds another Guyana FPSO to its books",
-          "summary": "Singapore offshore engineering group Seatrium has secured another FPSO integration contract from Japan’s Modec, this time for a floating production unit destined for ExxonMobil’s $6.8bn Hammerhead development offshore…",
-          "date": "2026-11-16",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/seatrium-adds-another-guyana-fpso-to-its-books/",
+          "source_url": "https://splash247.com/dof-clinches-three-year-african-offshore-vessel-contract/",
           "relevant": false
         },
         {
@@ -382,6 +374,22 @@
           "date": "2026-11-16",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544367-hanwha-power-secures-fsru-conversion-deal-with-energos",
+          "relevant": false
+        },
+        {
+          "title": "JFE Engineering wins offshore wind maintenance contract",
+          "summary": "Japanese engineering company JFE Engineering and local partner Akita Maritime Service have secured a five-year maintenance contract for Japan’s 315MW Oga-Katagami-Akita offshore wind farm. The joint venture will provide…",
+          "date": "2026-11-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/jfe-engineering-wins-offshore-wind-maintenance-contract/",
+          "relevant": false
+        },
+        {
+          "title": "Seatrium adds another Guyana FPSO to its books",
+          "summary": "Singapore offshore engineering group Seatrium has secured another FPSO integration contract from Japan’s Modec, this time for a floating production unit destined for ExxonMobil’s $6.8bn Hammerhead development offshore…",
+          "date": "2026-11-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/seatrium-adds-another-guyana-fpso-to-its-books/",
           "relevant": false
         },
         {
@@ -5297,6 +5305,22 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "EU widens shadow fleet crackdown to tanker managers and oil buyers",
+          "summary": "The European Union has widened its sanctions campaign against Russia’s shadow fleet, targeting tanker owners, shipmanagers, insurers and oil buyers across several countries in a fresh effort to disrupt Moscow’s seaborne…",
+          "date": "2026-11-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/eu-widens-shadow-fleet-crackdown-to-tanker-managers-and-oil-buyers/",
+          "relevant": false
+        },
+        {
+          "title": "Chevron closes in on $5bn US Gulf offshore deal",
+          "summary": "US oil major Chevron is reportedly nearing a deal to acquire a majority interest in deepwater Gulf of Mexico assets backed by Blackstone, in a transaction valuing the business involved at approximately $5bn. According…",
+          "date": "2026-11-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/chevron-closes-in-on-5bn-us-gulf-offshore-deal/",
+          "relevant": false
+        },
+        {
           "title": "EU Targets Shadow Fleet Shipowners, Managers and Insurers in New Russia Sanctions",
           "summary": "The European Union has imposed a new round of sanctions targeting the shipowners, vessel managers, insurers and financial networks supporting Russia’s shadow fleet, expanding its efforts to disrupt the maritime...",
           "date": "2026-11-16",
@@ -5313,14 +5337,6 @@
           "relevant": false
         },
         {
-          "title": "Greek shipowners put Brussels on the spot over IMO deadlock",
-          "summary": "Greek shipowners have launched a fresh attack on Brussels ahead of the next round of international shipping emissions negotiations, accusing the European Union of putting its own regulatory interests ahead of a global…",
-          "date": "2026-11-16",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/greek-shipowners-put-brussels-on-the-spot-over-imo-deadlock/",
-          "relevant": false
-        },
-        {
           "title": "EU Oil Watchers Say Supply Remains Stable",
           "summary": "Oil supply in the European Union continues to be 'stable', though oil markets remain tight, according to the bloc's Oil Coordination Group.",
           "date": "2026-11-16",
@@ -5334,6 +5350,14 @@
           "date": "2026-11-16",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/analyst-comment/china-global-polypropylene-capacity-growth-2030/",
+          "relevant": false
+        },
+        {
+          "title": "Greek shipowners put Brussels on the spot over IMO deadlock",
+          "summary": "Greek shipowners have launched a fresh attack on Brussels ahead of the next round of international shipping emissions negotiations, accusing the European Union of putting its own regulatory interests ahead of a global…",
+          "date": "2026-11-16",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/greek-shipowners-put-brussels-on-the-spot-over-imo-deadlock/",
           "relevant": false
         },
         {
