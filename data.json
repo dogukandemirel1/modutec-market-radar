@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T21:01:11Z",
+  "last_updated": "2026-11-17T22:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5430,6 +5430,14 @@
           "date": "2026-11-17",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/17/exxonmobil-pushes-ahead-with-guyanas-eighth-oil-project-as-saipem-gets-the-all-clear-and-sbm-offshore-bags-fpso-job",
+          "relevant": false
+        },
+        {
+          "title": "Oil Prices Swing as Gulf Attacks Continue",
+          "summary": "Crude markets remained volatile as Iran tensions offset forecasts of a growing oil surplus.",
+          "date": "2026-11-17",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/oil_prices_swing_as_gulf_attacks_continue-17-nov-2026-185107-article/?rss=true",
           "relevant": false
         },
         {
