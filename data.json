@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T17:01:08Z",
+  "last_updated": "2026-11-17T18:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -489,22 +489,6 @@
           "relevant": false
         },
         {
-          "title": "Trailblazer exploration well set for 2027 with Deepwater Pontus",
-          "summary": "Transocean’s drillship Deepwater Pontus is contracted to drill the Trailblazer exploration well for Shell and Kosmos Energy in the US Gulf. Drilling is expected to begin in the first half of 2027. Trailblazer holds an…",
-          "date": "2026-11-13",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/trailblazer-exploration-well-set-for-2027-with-deepwater-pontus-81050",
-          "relevant": false
-        },
-        {
-          "title": "ExxonMobil takes FID on Longtail gas and condensate project offshore Guyana",
-          "summary": "ExxonMobil reached a final investment decision (FID) on Longtail, the eighth development in the southeastern part of the Stabroek block offshore Guyana. The project targets non-associated gas and condensate-rich…",
-          "date": "2026-11-13",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/exxonmobil-takes-fid-on-longtail-gas-and-condensate-project-offshore-guyana-81048",
-          "relevant": false
-        },
-        {
           "title": "ExxonMobil reaches FID on eighth project offshore Guyana",
           "summary": "U.S.-headquartered oil & gas company ExxonMobil has made the final investment decision (FID) for its Longtail development offshore Guyana after...",
           "date": "2026-11-13",
@@ -518,6 +502,22 @@
           "date": "2026-11-13",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/bae-systems-submarine-propulsors/",
+          "relevant": false
+        },
+        {
+          "title": "Trailblazer exploration well set for 2027 with Deepwater Pontus",
+          "summary": "Transocean’s drillship Deepwater Pontus is contracted to drill the Trailblazer exploration well for Shell and Kosmos Energy in the US Gulf. Drilling is expected to begin in the first half of 2027. Trailblazer holds an…",
+          "date": "2026-11-13",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/trailblazer-exploration-well-set-for-2027-with-deepwater-pontus-81050",
+          "relevant": false
+        },
+        {
+          "title": "ExxonMobil takes FID on Longtail gas and condensate project offshore Guyana",
+          "summary": "ExxonMobil reached a final investment decision (FID) on Longtail, the eighth development in the southeastern part of the Stabroek block offshore Guyana. The project targets non-associated gas and condensate-rich…",
+          "date": "2026-11-13",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/exxonmobil-takes-fid-on-longtail-gas-and-condensate-project-offshore-guyana-81048",
           "relevant": false
         },
         {
@@ -5393,6 +5393,14 @@
           "relevant": false
         },
         {
+          "title": "Vietsovpetro brings BK-26 platform onstream at Bach Ho field offshore Vietnam",
+          "summary": "Vietsovpetro started commercial production from the BK-26 wellhead platform at the Bach Ho (White Tiger) field in Block 09-1 offshore Vietnam. First oil came 36 days ahead of the 15 December target set by the…",
+          "date": "2026-11-17",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/vietsovpetro-brings-bk-26-platform-onstream-at-bach-ho-field-offshore-vietnam-81081",
+          "relevant": false
+        },
+        {
           "title": "ExxonMobil pushes ahead with Guyana’s eighth oil project as Saipem gets the all-clear and SBM Offshore bags FPSO job",
           "summary": "Guyana’s deepwater expansion is gaining momentum as ExxonMobil moves to the execution phase of its recently sanctioned offshore oil development.",
           "date": "2026-11-17",
@@ -9224,6 +9232,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Shell starts production from Rosmari-Marjoram gas fields offshore Malaysia",
+          "summary": "Sarawak Shell Berhad (SSB), a subsidiary of Shell, brought the Rosmari and Marjoram deepwater gas fields onstream 220 km off the coast of Sarawak, Malaysia. Gas from the fields will be piped to a new onshore gas plant…",
+          "date": "2026-11-17",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/shell-starts-production-from-rosmari-marjoram-gas-fields-offshore-malaysia-81090",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Shell kicks off gas production from its deepwater project in Southeast Asia",
           "summary": "Shell has brought online a natural gas development off the coast of Malaysia, which is home to an offshore platform designed to run on solar energy.",
