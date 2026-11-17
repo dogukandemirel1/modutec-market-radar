@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T19:01:05Z",
+  "last_updated": "2026-11-17T20:01:13Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -264,6 +264,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "How the Hormuz crisis handed America a lasting export advantage",
+          "summary": "As Middle Eastern supplies faltered, American exporters of LNG, LPG, jet fuel and plastics gained new customers, new shipping routes and, in some cases, contracts stretching decades into the future. Alex Byelyavtsev…",
+          "date": "2026-11-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/how-the-hormuz-crisis-handed-america-a-lasting-export-advantage/",
+          "relevant": false
+        },
         {
           "title": "Semco Maritime and PTSC bag Taiwan offshore wind deal",
           "summary": "Denmark’s Semco Maritime and Vietnam’s PTSC Mechanical & Construction have secured an offshore substation contract for Copenhagen Infrastructure Partners’ (CIP) 600MW Fengmiao II offshore wind project in Taiwan. The…",
@@ -5401,14 +5409,6 @@
           "relevant": false
         },
         {
-          "title": "EU widens shadow fleet crackdown to tanker managers and oil buyers",
-          "summary": "The European Union has widened its sanctions campaign against Russia’s shadow fleet, targeting tanker owners, shipmanagers, insurers and oil buyers across several countries in a fresh effort to disrupt Moscow’s seaborne…",
-          "date": "2026-11-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/eu-widens-shadow-fleet-crackdown-to-tanker-managers-and-oil-buyers/",
-          "relevant": false
-        },
-        {
           "title": "Vietsovpetro brings BK-26 platform onstream at Bach Ho field offshore Vietnam",
           "summary": "Vietsovpetro started commercial production from the BK-26 wellhead platform at the Bach Ho (White Tiger) field in Block 09-1 offshore Vietnam. First oil came 36 days ahead of the 15 December target set by the…",
           "date": "2026-11-17",
@@ -5438,6 +5438,14 @@
           "date": "2026-11-17",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/diamondback-to-acquire-double-eagle-assets/",
+          "relevant": false
+        },
+        {
+          "title": "EU widens shadow fleet crackdown to tanker managers and oil buyers",
+          "summary": "The European Union has widened its sanctions campaign against Russia’s shadow fleet, targeting tanker owners, shipmanagers, insurers and oil buyers across several countries in a fresh effort to disrupt Moscow’s seaborne…",
+          "date": "2026-11-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/eu-widens-shadow-fleet-crackdown-to-tanker-managers-and-oil-buyers/",
           "relevant": false
         },
         {
