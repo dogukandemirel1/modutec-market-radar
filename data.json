@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T11:01:03Z",
+  "last_updated": "2026-11-17T12:01:08Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -264,6 +264,22 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "TechnipFMC extends charter of DOF CSV",
+          "summary": "Norwegian offshore vessel owner DOF has secured a new contract from TechnipFMC for its subsea construction vessel (CSV) Skandi Africa, extending a partnership that dates back more than a decade. DOF has classified the…",
+          "date": "2026-11-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/technipfmc-extends-charter-of-dof-csv/",
+          "relevant": false
+        },
+        {
+          "title": "Fourth floating LNG terminal put into operation mode to fuel Germany’s energy security",
+          "summary": "Germany’s federally commissioned LNG terminal program is now complete, with four floating LNG terminals delivered in just four years.",
+          "date": "2026-11-17",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/17/fourth-floating-lng-terminal-put-into-operation-mode-to-fuel-germanys-energy-security",
+          "relevant": false
+        },
         {
           "title": "DOF's largest vessel nets contract with TechnipFMC",
           "summary": "DOF Group has secured a new contract for its largest vessel, following the announcement of two other contracts this week. The new contract for...",
