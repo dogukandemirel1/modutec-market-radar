@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T15:01:12Z",
+  "last_updated": "2026-11-17T16:01:10Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8022,6 +8022,14 @@
           "date": "2026-11-17",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/china-emerges-as-dry-bulk-export-powerhouse/",
+          "relevant": false
+        },
+        {
+          "title": "Canadian Natural to Acquire Advantage Energy for $1.8B",
+          "summary": "'The acquisition includes production of approximately 79,000 boe/d of high-quality Montney and Charlie Lake assets, representing a transaction value of approximately CAD 32,000 per flowing boe/d'.",
+          "date": "2026-11-17",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/canadian_natural_to_acquire_advantage_energy_for_18b-17-nov-2026-185106-article/?rss=true",
           "relevant": false
         },
         {
