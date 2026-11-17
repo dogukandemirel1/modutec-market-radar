@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T12:01:08Z",
+  "last_updated": "2026-11-17T13:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -265,6 +265,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Semco Maritime and PTSC bag Taiwan offshore wind deal",
+          "summary": "Denmark’s Semco Maritime and Vietnam’s PTSC Mechanical & Construction have secured an offshore substation contract for Copenhagen Infrastructure Partners’ (CIP) 600MW Fengmiao II offshore wind project in Taiwan. The…",
+          "date": "2026-11-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/semco-maritime-and-ptsc-bag-taiwan-offshore-wind-deal/",
+          "relevant": false
+        },
+        {
           "title": "TechnipFMC extends charter of DOF CSV",
           "summary": "Norwegian offshore vessel owner DOF has secured a new contract from TechnipFMC for its subsea construction vessel (CSV) Skandi Africa, extending a partnership that dates back more than a decade. DOF has classified the…",
           "date": "2026-11-17",
@@ -505,19 +513,19 @@
           "relevant": false
         },
         {
-          "title": "ExxonMobil to invest $12.5bn in Longtail development offshore Guyana",
-          "summary": "ExxonMobil, through its subsidiary ExxonMobil Guyana, has reached a final investment decision (FID) to move forward with the development of the Longtail field, located offshore Guyana.",
-          "date": "2026-11-13",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/exxonmobil-12-5bn-longtail-offshore-guyana/",
-          "relevant": false
-        },
-        {
           "title": "BAE Systems receives US Navy contract for Virginia propulsors",
           "summary": "BAE Systems has received a $138m contract from the US Navy to continue producing propulsors for the Virginia-class submarine programme. The post BAE Systems receives US Navy contract for Virginia propulsors appeared…",
           "date": "2026-11-13",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/bae-systems-submarine-propulsors/",
+          "relevant": false
+        },
+        {
+          "title": "ExxonMobil to invest $12.5bn in Longtail development offshore Guyana",
+          "summary": "ExxonMobil, through its subsidiary ExxonMobil Guyana, has reached a final investment decision (FID) to move forward with the development of the Longtail field, located offshore Guyana.",
+          "date": "2026-11-13",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/exxonmobil-12-5bn-longtail-offshore-guyana/",
           "relevant": false
         },
         {
@@ -5393,6 +5401,14 @@
           "relevant": false
         },
         {
+          "title": "Diamondback to acquire Double Eagle Midland Basin assets",
+          "summary": "Diamondback Energy has agreed to acquire subsidiaries of Double Eagle IV Midco and Double Eagle V Midco in a transaction valued at approximately $2.15bn in cash and around 15.56 million shares of Diamondback common…",
+          "date": "2026-11-17",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/diamondback-to-acquire-double-eagle-assets/",
+          "relevant": false
+        },
+        {
           "title": "Chevron closes in on $5bn US Gulf offshore deal",
           "summary": "US oil major Chevron is reportedly nearing a deal to acquire a majority interest in deepwater Gulf of Mexico assets backed by Blackstone, in a transaction valuing the business involved at approximately $5bn. According…",
           "date": "2026-11-17",
@@ -5513,19 +5529,19 @@
           "relevant": false
         },
         {
-          "title": "Impact Oil & Gas completes split of Namibian and South African assets",
-          "summary": "Impact Oil & Gas has completed a reorganisation separating its offshore Namibian assets, including the Venus oil discovery, from its South African exploration portfolio.",
-          "date": "2026-11-12",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/impact-split-namibian-south-african-assets/",
-          "relevant": false
-        },
-        {
           "title": "BAE Systems completes Lot 8 LRASM sensor deliveries to Lockheed Martin",
           "summary": "BAE Systems has completed the delivery of all Lot 8 radio-frequency (RF) sensors to Lockheed Martin for integration into the US military’s Long-Range Anti-Ship Missile (LRASM) programme. The post BAE Systems completes…",
           "date": "2026-11-12",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/bae-systems-lrasm-lockheed-martin/",
+          "relevant": false
+        },
+        {
+          "title": "Impact Oil & Gas completes split of Namibian and South African assets",
+          "summary": "Impact Oil & Gas has completed a reorganisation separating its offshore Namibian assets, including the Venus oil discovery, from its South African exploration portfolio.",
+          "date": "2026-11-12",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/impact-split-namibian-south-african-assets/",
           "relevant": false
         },
         {
@@ -9200,6 +9216,14 @@
           "source_url": "https://www.offshore-energy.biz/2026/11/17/shell-kicks-off-gas-production-from-its-deepwater-project-in-southeast-asia",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Oil prices fall as supply surplus forecasts outweigh Gulf tensions",
+          "summary": "Oil prices slipped on Tuesday, 17 November, with forecasts of a global supply surplus outweighing ongoing security concerns in the Middle East, reported Reuters.",
+          "date": "2026-11-17",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/oil-prices-fall-supply-surplus-gulf-tensions/",
+          "relevant": false
         },
         {
           "title": "Shell Brings Deepwater Gas Fields Onstream off Malaysia",
