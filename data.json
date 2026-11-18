@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T19:01:05Z",
+  "last_updated": "2026-11-18T20:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8113,14 +8113,6 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
-          "title": "Hafnia abandons Torm merger push and heads for exit",
-          "summary": "BW Group-backed Hafnia has abandoned its pursuit of Danish product tanker rival Torm and is preparing to unwind its near-20% holding after failing to win support for a combination of the two shipping giants. The Oslo-…",
-          "date": "2026-11-18",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/hafnia-abandons-torm-merger-push-and-heads-for-exit/",
-          "relevant": false
-        },
-        {
           "title": "Trump Calls Venezuela an 'Acquisition'",
           "summary": "President Donald Trump referred to Venezuela as an 'acquisition' while touting an increasing supply of U.S. energy he said will benefit American allies.",
           "date": "2026-11-18",
@@ -8134,6 +8126,14 @@
           "date": "2026-11-18",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/enquest_exits_uk_pivots_to_se_asia-18-nov-2026-185110-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Hafnia abandons Torm merger push and heads for exit",
+          "summary": "BW Group-backed Hafnia has abandoned its pursuit of Danish product tanker rival Torm and is preparing to unwind its near-20% holding after failing to win support for a combination of the two shipping giants. The Oslo-…",
+          "date": "2026-11-18",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/hafnia-abandons-torm-merger-push-and-heads-for-exit/",
           "relevant": false
         },
         {
