@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T07:01:07Z",
+  "last_updated": "2026-11-18T08:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -265,35 +265,27 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "SBM Offshore and Saipem move ahead with major Guyana contracts",
+          "summary": "Dutch floater specialist SBM Offshore and Italian offshore engineering giant Saipem have secured major contracts for ExxonMobil’s $12.5bn Longtail gas and condensate development offshore Guyana. SBM Offshore has been…",
+          "date": "2026-11-18",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/sbm-offshore-and-saipem-move-ahead-with-major-guyana-contracts/",
+          "relevant": false
+        },
+        {
+          "title": "Seagems locks in $410m of Brazilian pipelay work",
+          "summary": "Paratus Energy and Malaysia’s Vantris Energy have moved from tender success to a firm $410m contract with Petrobras for a new pipelay support vessel (PLSV) offshore Brazil. The agreement, signed in Rio de Janeiro, was…",
+          "date": "2026-11-18",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/seagems-locks-in-410m-of-brazilian-pipelay-work/",
+          "relevant": false
+        },
+        {
           "title": "TKMS and BAAINBw sign contract for four additional MEKO A-200 DEU frigates",
           "summary": "German naval shipbuilder TKMS and the Federal Office of Bundeswehr Equipment, Information Technology and In-Service Support (BAAINBw) have signed the contract for the second batch of four additional MEKO A-200 DEU…",
           "date": "2026-11-18",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/11/tkms-and-baainbw-sign-contract-for-four-additional-meko-a-200-deu-frigates/",
-          "relevant": false
-        },
-        {
-          "title": "How the Hormuz crisis handed America a lasting export advantage",
-          "summary": "As Middle Eastern supplies faltered, American exporters of LNG, LPG, jet fuel and plastics gained new customers, new shipping routes and, in some cases, contracts stretching decades into the future. Alex Byelyavtsev…",
-          "date": "2026-11-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/how-the-hormuz-crisis-handed-america-a-lasting-export-advantage/",
-          "relevant": false
-        },
-        {
-          "title": "Semco Maritime and PTSC bag Taiwan offshore wind deal",
-          "summary": "Denmark’s Semco Maritime and Vietnam’s PTSC Mechanical & Construction have secured an offshore substation contract for Copenhagen Infrastructure Partners’ (CIP) 600MW Fengmiao II offshore wind project in Taiwan. The…",
-          "date": "2026-11-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/semco-maritime-and-ptsc-bag-taiwan-offshore-wind-deal/",
-          "relevant": false
-        },
-        {
-          "title": "TechnipFMC extends charter of DOF CSV",
-          "summary": "Norwegian offshore vessel owner DOF has secured a new contract from TechnipFMC for its subsea construction vessel (CSV) Skandi Africa, extending a partnership that dates back more than a decade. DOF has classified the…",
-          "date": "2026-11-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/technipfmc-extends-charter-of-dof-csv/",
           "relevant": false
         },
         {
@@ -350,6 +342,30 @@
           "date": "2026-11-17",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544398-sbm-offshore-lands-longtail-fpso-deal-saipem-gets-go-ahead-from-exxonmobil",
+          "relevant": false
+        },
+        {
+          "title": "How the Hormuz crisis handed America a lasting export advantage",
+          "summary": "As Middle Eastern supplies faltered, American exporters of LNG, LPG, jet fuel and plastics gained new customers, new shipping routes and, in some cases, contracts stretching decades into the future. Alex Byelyavtsev…",
+          "date": "2026-11-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/how-the-hormuz-crisis-handed-america-a-lasting-export-advantage/",
+          "relevant": false
+        },
+        {
+          "title": "Semco Maritime and PTSC bag Taiwan offshore wind deal",
+          "summary": "Denmark’s Semco Maritime and Vietnam’s PTSC Mechanical & Construction have secured an offshore substation contract for Copenhagen Infrastructure Partners’ (CIP) 600MW Fengmiao II offshore wind project in Taiwan. The…",
+          "date": "2026-11-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/semco-maritime-and-ptsc-bag-taiwan-offshore-wind-deal/",
+          "relevant": false
+        },
+        {
+          "title": "TechnipFMC extends charter of DOF CSV",
+          "summary": "Norwegian offshore vessel owner DOF has secured a new contract from TechnipFMC for its subsea construction vessel (CSV) Skandi Africa, extending a partnership that dates back more than a decade. DOF has classified the…",
+          "date": "2026-11-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/technipfmc-extends-charter-of-dof-csv/",
           "relevant": false
         },
         {
@@ -5281,6 +5297,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Adura brings North Sea gas project onstream after years of delays",
+          "summary": "UK offshore producer Adura has started production at its £2.1bn ($2.8bn) Jackdaw gas development in the North Sea, less than a month after receiving fresh regulatory approval. Gas is now flowing from the Jackdaw…",
+          "date": "2026-11-18",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/adura-brings-north-sea-gas-project-onstream-after-years-of-delays/",
+          "relevant": false
+        },
+        {
           "title": "U.S. Military Strikes Iranian Missile Site Near Strait of Hormuz",
           "summary": "By Arsalan Shahla and Jen Judson (Bloomberg) — American warplanes hit an Iranian missile launch site on Qeshm Island in the Persian Gulf on Tuesday, a US military official said,...",
           "date": "2026-11-17",
@@ -5294,14 +5318,6 @@
           "date": "2026-11-17",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/gulf-oil-flow-at-risk-from-lack-of-empty-tankers-tracker-says/",
-          "relevant": false
-        },
-        {
-          "title": "Apache keeps North Sea assets producing despite worker walkouts",
-          "summary": "US energy company Apache said that production from its UK North Sea assets remains unaffected despite escalating industrial action involving around 170 offshore workers. Members of the Unite union staged a series of…",
-          "date": "2026-11-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/apache-keeps-north-sea-assets-producing-despite-worker-walkouts/",
           "relevant": false
         },
         {
@@ -5342,6 +5358,14 @@
           "date": "2026-11-17",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/diamondback-to-acquire-double-eagle-assets/",
+          "relevant": false
+        },
+        {
+          "title": "Apache keeps North Sea assets producing despite worker walkouts",
+          "summary": "US energy company Apache said that production from its UK North Sea assets remains unaffected despite escalating industrial action involving around 170 offshore workers. Members of the Unite union staged a series of…",
+          "date": "2026-11-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/apache-keeps-north-sea-assets-producing-despite-worker-walkouts/",
           "relevant": false
         },
         {
@@ -7896,6 +7920,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "Hafnia abandons Torm merger push and heads for exit",
+          "summary": "BW Group-backed Hafnia has abandoned its pursuit of Danish product tanker rival Torm and is preparing to unwind its near-20% holding after failing to win support for a combination of the two shipping giants. The Oslo-…",
+          "date": "2026-11-18",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/hafnia-abandons-torm-merger-push-and-heads-for-exit/",
+          "relevant": false
+        },
         {
           "title": "Canadian Natural to Acquire Advantage Energy for $1.8B",
           "summary": "'The acquisition includes production of approximately 79,000 boe/d of high-quality Montney and Charlie Lake assets, representing a transaction value of approximately CAD 32,000 per flowing boe/d'.",
