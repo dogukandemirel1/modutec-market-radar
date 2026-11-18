@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T16:01:06Z",
+  "last_updated": "2026-11-18T17:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -297,6 +297,22 @@
           "relevant": false
         },
         {
+          "title": "OMV targets late-November spud at Libya’s Marwa prospect",
+          "summary": "OMV lined up its first exploration well at the Marwa prospect in Libya’s Contract Area 103/3 (NC74B), with drilling set to begin by the end of November. The well will target a depth of about 6,500 ft (1,981 m). OMV…",
+          "date": "2026-11-18",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/omv-targets-late-november-spud-at-libyas-marwa-prospect-81095",
+          "relevant": false
+        },
+        {
+          "title": "Saipem lines up Scarabeo 9 work offshore Egypt and Suriname",
+          "summary": "Burullus Gas Company and TotalEnergies awarded Saipem two offshore drilling contracts for the semisubmersible Scarabeo 9, extending the rig’s work program into 2027 and 2028. In Egypt, the Scarabeo 9 will drill three…",
+          "date": "2026-11-18",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/saipem-lines-up-scarabeo-9-work-offshore-egypt-and-suriname-81093",
+          "relevant": false
+        },
+        {
           "title": "Greece: Dodecanese islands' link to mainland awarded €228.9 million EU grant",
           "summary": "An interconnector that will link Greece's Dodecanese islands to the mainland electricity grid has secured the largest grant ever awarded under...",
           "date": "2026-11-18",
@@ -321,11 +337,27 @@
           "relevant": false
         },
         {
+          "title": "Saipem wins $181m drilling contracts for Scarabeo 9 rig",
+          "summary": "Saipem has secured two offshore drilling contracts worth approximately $181m for its Scarabeo 9 semi-submersible in Egypt and Suriname, with work due to start in 2027.",
+          "date": "2026-11-18",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/saipem-181m-drilling-contracts-scarabeo-9/",
+          "relevant": false
+        },
+        {
           "title": "SBM Offshore wins FPSO contracts from ExxonMobil for Longtail project",
           "summary": "SBM Offshore has won contracts from ExxonMobil Guyana, a subsidiary of ExxonMobil, to build and install a floating production, storage and offloading vessel (FPSO) for the Longtail development project offshore Guyana.",
           "date": "2026-11-18",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/sbm-offshore-fpso-exxonmobil-longtail/",
+          "relevant": false
+        },
+        {
+          "title": "When Contractors Collide: Keeping Offshore Energy Projects on Schedule",
+          "summary": "An offshore project can appear to be progressing on schedule until one contractor is ready to move forward and the next cannot start. What appears to be a relatively…",
+          "date": "2026-11-18",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544450-when-contractors-collide-keeping-offshore-energy-projects-on-schedule",
           "relevant": false
         },
         {
@@ -481,14 +513,6 @@
           "relevant": false
         },
         {
-          "title": "Constellation taps Weatherford for MPD on Amaralina Star exploration campaign offshore Brazil",
-          "summary": "Weatherford secured a contract from Constellation Oil Services to provide deepwater managed pressure drilling (MPD) services for an exploration campaign offshore Brazil. The work will support the campaign being run by…",
-          "date": "2026-11-16",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/constellation-taps-weatherford-for-mpd-on-amaralina-star-exploration-campaign-offshore-brazil-81073",
-          "relevant": false
-        },
-        {
           "title": "Shortly after contract in APAC, DOF reports 'very large' one in Africa",
           "summary": "DOF Group has won a contract described as very large for the provision of a field support vessel (FSV) in Africa. The contract was awarded by an...",
           "date": "2026-11-16",
@@ -534,6 +558,14 @@
           "date": "2026-11-16",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/hd-hyundai-anduril-asv/",
+          "relevant": false
+        },
+        {
+          "title": "Constellation taps Weatherford for MPD on Amaralina Star exploration campaign offshore Brazil",
+          "summary": "Weatherford secured a contract from Constellation Oil Services to provide deepwater managed pressure drilling (MPD) services for an exploration campaign offshore Brazil. The work will support the campaign being run by…",
+          "date": "2026-11-16",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/constellation-taps-weatherford-for-mpd-on-amaralina-star-exploration-campaign-offshore-brazil-81073",
           "relevant": false
         },
         {
@@ -5401,6 +5433,14 @@
           "relevant": false
         },
         {
+          "title": "EnQuest exits UK upstream in deal with NEO NEXT+",
+          "summary": "EnQuest agreed to sell EnQuest Britain Ltd, which holds its UK upstream, midstream and decommissioning assets, to NEO NEXT+ Energy Upstream UK for up to $960 million. The buyer is part of NEO NEXT, formed from NEO…",
+          "date": "2026-11-18",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/enquest-exits-uk-upstream-in-deal-with-neo-next-81098",
+          "relevant": false
+        },
+        {
           "title": "Orlen spreads its wings across Central and Eastern Europe with new gas pacts",
           "summary": "U.S. LNG is expected to reach more European energy markets as Orlen’s new partnerships strengthen regional cooperation.",
           "date": "2026-11-18",
@@ -8097,20 +8137,20 @@
           "relevant": false
         },
         {
-          "title": "GOWell acquires WellSense to add fiber optic well integrity sensing",
-          "summary": "GOWell Energy Technology completed its acquisition of WellSense, an Aberdeen-based provider of distributed fiber optic sensing (DFOS) and well integrity diagnostic technologies. The deal was carried out through GOWell’s…",
-          "date": "2026-11-16",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/gowell-acquires-wellsense-to-add-fiber-optic-well-integrity-sensing-81066",
-          "relevant": true
-        },
-        {
           "title": "Sempra divest majority stake in its LNG and energy infrastructure business",
           "summary": "KKR-led consortium has now upped its stake to 65% in Sempra Infrastructure Partners, as Sempra optimizes its portfolio.",
           "date": "2026-11-16",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/16/sempra-divest-majority-stake-in-its-lng-and-energy-infrastructure-business",
           "relevant": false
+        },
+        {
+          "title": "GOWell acquires WellSense to add fiber optic well integrity sensing",
+          "summary": "GOWell Energy Technology completed its acquisition of WellSense, an Aberdeen-based provider of distributed fiber optic sensing (DFOS) and well integrity diagnostic technologies. The deal was carried out through GOWell’s…",
+          "date": "2026-11-16",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/gowell-acquires-wellsense-to-add-fiber-optic-well-integrity-sensing-81066",
+          "relevant": true
         },
         {
           "title": "Adura Starts Gas Production at $2.8B North Sea Gas Field",
