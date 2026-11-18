@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T11:01:04Z",
+  "last_updated": "2026-11-18T12:01:08Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -273,6 +273,22 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Eiffage secures offshore converter platform contract in Germany",
+          "summary": "French construction group Eiffage has secured a contract to fabricate the jacket foundation for the LanWin beta offshore converter platform in the German North Sea. Dragados Offshore awarded the contract to Eiffage’s…",
+          "date": "2026-11-18",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/eiffage-secures-offshore-converter-platform-contract-in-germany/",
+          "relevant": false
+        },
+        {
+          "title": "Chinese contractors land $238m in offshore wind installation deals",
+          "summary": "Three Chinese contractors have secured offshore wind construction and installation contracts worth a combined CNY1.58bn ($238m) for two projects being developed by Jiangsu Guoxin in the Yellow Sea. The awards cover the…",
+          "date": "2026-11-18",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/chinese-contractors-land-238m-in-offshore-wind-installation-deals/",
+          "relevant": false
+        },
+        {
           "title": "DEME orders pair of autonomous offshore survey vessels",
           "summary": "Belgian marine contractor DEME has ordered two uncrewed offshore survey vessels from Dutch technology specialist DEMCON Unmanned Systems, expanding its capabilities in remote and autonomous offshore operations. The…",
           "date": "2026-11-18",
@@ -281,19 +297,11 @@
           "relevant": false
         },
         {
-          "title": "How the Hormuz crisis handed America a lasting export advantage",
-          "summary": "As Middle Eastern supplies faltered, American exporters of LNG, LPG, jet fuel and plastics gained new customers, new shipping routes and, in some cases, contracts stretching decades into the future. Alex Byelyavtsev…",
+          "title": "Greece: Dodecanese islands' link to mainland awarded €228.9 million EU grant",
+          "summary": "An interconnector that will link Greece's Dodecanese islands to the mainland electricity grid has secured the largest grant ever awarded under...",
           "date": "2026-11-18",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/how-the-hormuz-crisis-handed-america-a-lasting-export-advantage/",
-          "relevant": false
-        },
-        {
-          "title": "TKMS and BAAINBw sign contract for four additional MEKO A-200 DEU frigates",
-          "summary": "German naval shipbuilder TKMS and the Federal Office of Bundeswehr Equipment, Information Technology and In-Service Support (BAAINBw) have signed the contract for the second batch of four additional MEKO A-200 DEU…",
-          "date": "2026-11-18",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/tkms-and-baainbw-sign-contract-for-four-additional-meko-a-200-deu-frigates/",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/18/greece-dodecanese-islands-link-to-mainland-awarded-euro2289-million-eu-grant",
           "relevant": false
         },
         {
@@ -321,6 +329,22 @@
           "relevant": false
         },
         {
+          "title": "How the Hormuz crisis handed America a lasting export advantage",
+          "summary": "As Middle Eastern supplies faltered, American exporters of LNG, LPG, jet fuel and plastics gained new customers, new shipping routes and, in some cases, contracts stretching decades into the future. Alex Byelyavtsev…",
+          "date": "2026-11-18",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/how-the-hormuz-crisis-handed-america-a-lasting-export-advantage/",
+          "relevant": false
+        },
+        {
+          "title": "TKMS and BAAINBw sign contract for four additional MEKO A-200 DEU frigates",
+          "summary": "German naval shipbuilder TKMS and the Federal Office of Bundeswehr Equipment, Information Technology and In-Service Support (BAAINBw) have signed the contract for the second batch of four additional MEKO A-200 DEU…",
+          "date": "2026-11-18",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/tkms-and-baainbw-sign-contract-for-four-additional-meko-a-200-deu-frigates/",
+          "relevant": false
+        },
+        {
           "title": "SBM Offshore and Saipem move ahead with major Guyana contracts",
           "summary": "Dutch floater specialist SBM Offshore and Italian offshore engineering giant Saipem have secured major contracts for ExxonMobil’s $12.5bn Longtail gas and condensate development offshore Guyana. SBM Offshore has been…",
           "date": "2026-11-18",
@@ -334,14 +358,6 @@
           "date": "2026-11-18",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/seagems-locks-in-410m-of-brazilian-pipelay-work/",
-          "relevant": false
-        },
-        {
-          "title": "Eastern Shipbuilding to Build Grand Block Units for Future USS Telesforo Trinidad (DDG 139)",
-          "summary": "HII’s Ingalls Shipbuilding awards Eastern Shipbuilding Group a contract to construct and outfit grand block units—including new cabling—for the U.S. Navy's DDG 139. The post Eastern Shipbuilding to Build Grand Block…",
-          "date": "2026-11-17",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/eastern-shipbuilding-to-build-grand-block-units-for-future-uss-telesforo-trinidad-ddg-139/",
           "relevant": false
         },
         {
@@ -393,6 +409,14 @@
           "relevant": false
         },
         {
+          "title": "Eastern Shipbuilding to Build Grand Block Units for Future USS Telesforo Trinidad (DDG 139)",
+          "summary": "HII’s Ingalls Shipbuilding awards Eastern Shipbuilding Group a contract to construct and outfit grand block units—including new cabling—for the U.S. Navy's DDG 139. The post Eastern Shipbuilding to Build Grand Block…",
+          "date": "2026-11-17",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/eastern-shipbuilding-to-build-grand-block-units-for-future-uss-telesforo-trinidad-ddg-139/",
+          "relevant": false
+        },
+        {
           "title": "Semco Maritime and PTSC bag Taiwan offshore wind deal",
           "summary": "Denmark’s Semco Maritime and Vietnam’s PTSC Mechanical & Construction have secured an offshore substation contract for Copenhagen Infrastructure Partners’ (CIP) 600MW Fengmiao II offshore wind project in Taiwan. The…",
           "date": "2026-11-17",
@@ -438,14 +462,6 @@
           "date": "2026-11-16",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/constellation-taps-weatherford-for-mpd-on-amaralina-star-exploration-campaign-offshore-brazil-81073",
-          "relevant": false
-        },
-        {
-          "title": "U.S. Navy Orders 82 Additional Lionfish UUVs from HII",
-          "summary": "HII has received a U.S. Navy contract for 82 additional Lionfish small unmanned undersea vehicles (UUVs), bringing total ordered units to 175 with 50 delivered. The post U.S. Navy Orders 82 Additional Lionfish UUVs from…",
-          "date": "2026-11-16",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/u-s-navy-orders-82-additional-lionfish-uuvs-from-hii/",
           "relevant": false
         },
         {
@@ -502,6 +518,14 @@
           "date": "2026-11-16",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544389-eni-to-reach-investment-decision-on-mozambique-flng-expansion-by-2027",
+          "relevant": false
+        },
+        {
+          "title": "U.S. Navy Orders 82 Additional Lionfish UUVs from HII",
+          "summary": "HII has received a U.S. Navy contract for 82 additional Lionfish small unmanned undersea vehicles (UUVs), bringing total ordered units to 175 with 50 delivered. The post U.S. Navy Orders 82 Additional Lionfish UUVs from…",
+          "date": "2026-11-16",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/u-s-navy-orders-82-additional-lionfish-uuvs-from-hii/",
           "relevant": false
         },
         {
@@ -7998,6 +8022,14 @@
           "date": "2026-11-18",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/hafnia-abandons-torm-merger-push-and-heads-for-exit/",
+          "relevant": false
+        },
+        {
+          "title": "EnQuest Exits UK, Pivots to SE Asia",
+          "summary": "EnQuest agreed to divest its British business, which produced over 31,000 barrels of oil equivalent a day last year, to a TotalEnergies-led consortium for up to $960 million.",
+          "date": "2026-11-18",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/enquest_exits_uk_pivots_to_se_asia-18-nov-2026-185110-article/?rss=true",
           "relevant": false
         },
         {
