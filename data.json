@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T15:01:11Z",
+  "last_updated": "2026-11-18T16:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -326,6 +326,14 @@
           "date": "2026-11-18",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/sbm-offshore-fpso-exxonmobil-longtail/",
+          "relevant": false
+        },
+        {
+          "title": "Floating Production Outlook: Pipeline Looks Huge, But Not All Projects Are Created Equal",
+          "summary": "Global floating hydrocarbons and electricity production and storage infrastructure (floating units) has a sizeable development pipeline through 2035, but the gap…",
+          "date": "2026-11-18",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544447-floating-production-outlook-pipeline-looks-huge-but-not-all-projects-are-created-equal",
           "relevant": false
         },
         {
@@ -5393,11 +5401,27 @@
           "relevant": false
         },
         {
+          "title": "Orlen spreads its wings across Central and Eastern Europe with new gas pacts",
+          "summary": "U.S. LNG is expected to reach more European energy markets as Orlen’s new partnerships strengthen regional cooperation.",
+          "date": "2026-11-18",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/18/orlen-spreads-its-wings-across-central-and-eastern-europe-with-new-gas-pacts",
+          "relevant": false
+        },
+        {
           "title": "Counting down to OEEC 2026: Amsterdam gets ready to welcome the offshore energy community",
           "summary": "The countdown is on! In less than a week, Offshore Energy Exhibition & Conference (OEEC) 2026 will open its doors at RAI Amsterdam. On 24 and 25...",
           "date": "2026-11-18",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/18/counting-down-to-oeec-2026-amsterdam-gets-ready-to-welcome-the-offshore-energy-community",
+          "relevant": false
+        },
+        {
+          "title": "Gulf militaries rewrite procurement priorities",
+          "summary": "Gulf Cooperation Council member states are assessing their defence needs in light of the US-Iran war and impact on the region. The post Gulf militaries rewrite procurement priorities appeared first on Naval Technology .",
+          "date": "2026-11-18",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/analyst-comment/gulf-militaries-rewrite-procurement-priorities/",
           "relevant": false
         },
         {
