@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T23:01:18Z",
+  "last_updated": "2026-11-18T00:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -265,6 +265,30 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "How the Hormuz crisis handed America a lasting export advantage",
+          "summary": "As Middle Eastern supplies faltered, American exporters of LNG, LPG, jet fuel and plastics gained new customers, new shipping routes and, in some cases, contracts stretching decades into the future. Alex Byelyavtsev…",
+          "date": "2026-11-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/how-the-hormuz-crisis-handed-america-a-lasting-export-advantage/",
+          "relevant": false
+        },
+        {
+          "title": "Semco Maritime and PTSC bag Taiwan offshore wind deal",
+          "summary": "Denmark’s Semco Maritime and Vietnam’s PTSC Mechanical & Construction have secured an offshore substation contract for Copenhagen Infrastructure Partners’ (CIP) 600MW Fengmiao II offshore wind project in Taiwan. The…",
+          "date": "2026-11-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/semco-maritime-and-ptsc-bag-taiwan-offshore-wind-deal/",
+          "relevant": false
+        },
+        {
+          "title": "TechnipFMC extends charter of DOF CSV",
+          "summary": "Norwegian offshore vessel owner DOF has secured a new contract from TechnipFMC for its subsea construction vessel (CSV) Skandi Africa, extending a partnership that dates back more than a decade. DOF has classified the…",
+          "date": "2026-11-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/technipfmc-extends-charter-of-dof-csv/",
+          "relevant": false
+        },
+        {
           "title": "Fourth floating LNG terminal put into operation mode to fuel Germany’s energy security",
           "summary": "Germany’s federally commissioned LNG terminal program is now complete, with four floating LNG terminals delivered in just four years.",
           "date": "2026-11-17",
@@ -310,30 +334,6 @@
           "date": "2026-11-17",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544398-sbm-offshore-lands-longtail-fpso-deal-saipem-gets-go-ahead-from-exxonmobil",
-          "relevant": false
-        },
-        {
-          "title": "How the Hormuz crisis handed America a lasting export advantage",
-          "summary": "As Middle Eastern supplies faltered, American exporters of LNG, LPG, jet fuel and plastics gained new customers, new shipping routes and, in some cases, contracts stretching decades into the future. Alex Byelyavtsev…",
-          "date": "2026-11-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/how-the-hormuz-crisis-handed-america-a-lasting-export-advantage/",
-          "relevant": false
-        },
-        {
-          "title": "Semco Maritime and PTSC bag Taiwan offshore wind deal",
-          "summary": "Denmark’s Semco Maritime and Vietnam’s PTSC Mechanical & Construction have secured an offshore substation contract for Copenhagen Infrastructure Partners’ (CIP) 600MW Fengmiao II offshore wind project in Taiwan. The…",
-          "date": "2026-11-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/semco-maritime-and-ptsc-bag-taiwan-offshore-wind-deal/",
-          "relevant": false
-        },
-        {
-          "title": "TechnipFMC extends charter of DOF CSV",
-          "summary": "Norwegian offshore vessel owner DOF has secured a new contract from TechnipFMC for its subsea construction vessel (CSV) Skandi Africa, extending a partnership that dates back more than a decade. DOF has classified the…",
-          "date": "2026-11-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/technipfmc-extends-charter-of-dof-csv/",
           "relevant": false
         },
         {
@@ -5239,150 +5239,6 @@
           "source_name": "Splash247",
           "source_url": "https://splash247.com/bumi-armada-joins-wison-in-flng-lease-and-operate-push/",
           "relevant": false
-        },
-        {
-          "title": "Exmar’s FLNG conversion earns Bureau Veritas’ seal of approval",
-          "summary": "An approval in principle (AiP) from Bureau Veritas Marine & Offshore (BV), part of Bureau Veritas Group, is paving the way for Belgian shipping company Exmar to breathe life into its floating liquefied natural gas…",
-          "date": "2026-09-18",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/09/18/exmars-flng-conversion-earns-bureau-veritas-seal-of-approval",
-          "relevant": false
-        },
-        {
-          "title": "Leonardo DRS to supply propulsion for South Korea’s KDDX vessels",
-          "summary": "Leonardo DRS has been awarded a contract by South Korea’s Doosan Enerbility to provide the electric propulsion system for the Republic of Korea Navy’s KDDX destroyer programme. The post Leonardo DRS to supply propulsion…",
-          "date": "2026-09-18",
-          "source_name": "Naval Technology",
-          "source_url": "https://www.naval-technology.com/news/leonardo-drs-south-korea-kddx/",
-          "relevant": false
-        },
-        {
-          "title": "TKMS ATLAS UK secures Royal Navy NGCM torpedo defence contract",
-          "summary": "TKMS ATLAS UK has been awarded the contract for the UK Ministry of Defence’s (MoD) Next Generation Countermeasure (NGCM) programme, intended to equip the Royal Navy’s submarine fleet with updated defences against…",
-          "date": "2026-09-18",
-          "source_name": "Naval Technology",
-          "source_url": "https://www.naval-technology.com/news/tkms-atlas-uk-ngcm-torpedo-defence/",
-          "relevant": false
-        },
-        {
-          "title": "Hornbeck wins multi-year North Sea P&A contract",
-          "summary": "Hornbeck Offshore Services secured a multi-year contract for riserless plug and abandonment work in the North Sea through its subsidiary Helix Well Ops, with an undisclosed major operator. The contract is set to begin…",
-          "date": "2026-09-18",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/hornbeck-wins-multi-year-north-sea-pa-contract-80036",
-          "relevant": false
-        },
-        {
-          "title": "Rig mobilization begins for Lion Energy’s East Seram well",
-          "summary": "Lion Energy began mobilizing the SCD-20 rig to its Bula Karang-1 exploration well site on Seram Island, Indonesia, with drilling targeted for September. The SCD-20, a Schramm Rotadrill TXD200 hydraulic unit contracted…",
-          "date": "2026-09-18",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/rig-mobilization-begins-for-lion-energys-east-seram-well-80034",
-          "relevant": false
-        },
-        {
-          "title": "Viridien wins five-year contract for UK North Sea monitoring",
-          "summary": "France-based Viridien has secured a five-year contract from Ithaca Energy to provide an integrated environmental monitoring and marine situational-awareness solution for the UK North Sea’s Greater Stella Area.",
-          "date": "2026-09-18",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/viridien-contract-uk-north-sea-monitoring/",
-          "relevant": false
-        },
-        {
-          "title": "Exmar FLNG Conversion Concept Gets Bureau Veritas Approval",
-          "summary": "Exmar has received Approval in Principle (AiP) from Bureau Veritas Marine & Offshore for a concept to convert an existing membrane-type LNG carrier into a floating…",
-          "date": "2026-09-18",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/543085-exmar-flng-conversion-concept-gets-bureau-veritas-approval",
-          "relevant": false
-        },
-        {
-          "title": "Transocean Drillship Secures $80M Equatorial Guinea Job",
-          "summary": "Transocean has been awarded a two-well contract for its Deepwater Conqueror ultra-deepwater drillship in Equatorial Guinea, adding about $80 million to the offshore driller's backlog…",
-          "date": "2026-09-18",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/543080-transocean-drillship-secures-80m-equatorial-guinea-job",
-          "relevant": false
-        },
-        {
-          "title": "Petrobras secures eight offshore PSCs in Côte d’Ivoire",
-          "summary": "Brazilian state oil company Petrobras has entered into eight production sharing contracts (PSCs) for offshore exploration blocks in Côte d’Ivoire.",
-          "date": "2026-09-18",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/petrobras-eight-offshore-pscs-cote-divoire/",
-          "relevant": false
-        },
-        {
-          "title": "Petrobras Signs Eight Production-Sharing Contracts in Côte d’Ivoire",
-          "summary": "Petrobras, through its wholly owned subsidiary Petrobras Netherlands (PNBV), the Republic of Côte d’Ivoire and PETROCI Holding signed Production Sharing Contracts…",
-          "date": "2026-09-18",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/543078-petrobras-signs-eight-production-sharing-contracts-in-c-te-d-ivoire",
-          "relevant": false
-        },
-        {
-          "title": "Exmar’s FLNG conversion earns Bureau Veritas’ seal of approval",
-          "summary": "An approval in principle (AiP) from Bureau Veritas Marine & Offshore (BV), part of Bureau Veritas Group, is paving the way for Belgian shipping company Exmar to breathe life into its floating liquefied natural gas…",
-          "date": "2026-09-18",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/exmars-flng-conversion-earns-bureau-veritas-seal-of-approval/",
-          "relevant": false
-        },
-        {
-          "title": "Apollo Tests Buyer Interest in $3B-Plus FLNG Business",
-          "summary": "Apollo Global Management is exploring strategic options for Energos Infrastructure, in a deal that could value the floating liquefied natural gas infrastructure provider at more than $3 billion…",
-          "date": "2026-09-18",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/543075-apollo-tests-buyer-interest-in-3b-plus-flng-business",
-          "relevant": false
-        },
-        {
-          "title": "Indonesia Picks Winners for Six Oil and Gas Blocks, Puts Eight More on Offer",
-          "summary": "Indonesia has awarded six oil and gas working areas to companies including Eni and Sinopec and opened a second 2026 tender round covering eight more areas as it seeks to expand upstream exploration…",
-          "date": "2026-09-18",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/543073-indonesia-picks-winners-for-six-oil-and-gas-blocks-puts-eight-more-on-offer",
-          "relevant": false
-        },
-        {
-          "title": "New contracts for Vallourec in Brazil and Greece for oil & gas and CO2 storage",
-          "summary": "French provider of tubular solutions Vallourec has won a contract with Subsea7 to supply carbon […] The post New contracts for Vallourec in Brazil and Greece for oil & gas and CO2 storage appeared first on Offshore…",
-          "date": "2026-09-18",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/new-contracts-for-vallourec-in-brazil-and-greece-for-oil-gas-and-co2-storage/",
-          "relevant": false
-        },
-        {
-          "title": "Splash Wrap: When the boom spills over",
-          "summary": "The most extraordinary numbers this week came from tankers, where the Baltic Exchange’s Middle East Gulf-China VLCC benchmark broke through the equivalent of $1m a day for the first time. VLCCs loading outside the Gulf…",
-          "date": "2026-09-18",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/splash-wrap-when-the-boom-spills-over/",
-          "relevant": false
-        },
-        {
-          "title": "Transocean Drillship Gets $80M Equatorial Guinea Job",
-          "summary": "Transocean has been awarded a two-well contract for its Deepwater Conqueror ultra-deepwater drillship in Equatorial Guinea, adding about $80 million to the offshore driller's backlog…",
-          "date": "2026-09-18",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/543080-transocean-drillship-gets-80m-equatorial-guinea-job",
-          "relevant": false
-        },
-        {
-          "title": "50Hertz awards fresh North Sea converter platform contract",
-          "summary": "German transmission system operator 50Hertz and Neptun Smulders Offshore Renewables have signed a contract to build an offshore converter station for the LanWin3 offshore grid connection project in the North Sea. In…",
-          "date": "2026-09-18",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/50hertz-awards-fresh-north-sea-converter-platform-contract/",
-          "relevant": false
-        },
-        {
-          "title": "SLB lands North Sea production surveillance work",
-          "summary": "Energy technology company SLB has been awarded a contract by Equinor to expand real-time leak detection, virtual flow metering, and digital production monitoring capabilities for the Johan Sverdrup Phase 3 development…",
-          "date": "2026-09-18",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/slb-lands-north-sea-production-surveillance-work/",
-          "relevant": false
         }
       ]
     },
@@ -5406,6 +5262,14 @@
           "date": "2026-11-17",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/gulf-oil-flow-at-risk-from-lack-of-empty-tankers-tracker-says/",
+          "relevant": false
+        },
+        {
+          "title": "Apache keeps North Sea assets producing despite worker walkouts",
+          "summary": "US energy company Apache said that production from its UK North Sea assets remains unaffected despite escalating industrial action involving around 170 offshore workers. Members of the Unite union staged a series of…",
+          "date": "2026-11-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/apache-keeps-north-sea-assets-producing-despite-worker-walkouts/",
           "relevant": false
         },
         {
@@ -5446,14 +5310,6 @@
           "date": "2026-11-17",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/diamondback-to-acquire-double-eagle-assets/",
-          "relevant": false
-        },
-        {
-          "title": "Apache keeps North Sea assets producing despite worker walkouts",
-          "summary": "US energy company Apache said that production from its UK North Sea assets remains unaffected despite escalating industrial action involving around 170 offshore workers. Members of the Unite union staged a series of…",
-          "date": "2026-11-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/apache-keeps-north-sea-assets-producing-despite-worker-walkouts/",
           "relevant": false
         },
         {
@@ -7999,62 +7855,6 @@
           "source_name": "Splash247",
           "source_url": "https://splash247.com/trump-signs-russia-sanctions-law-with-shadow-fleet-in-the-crosshairs/",
           "relevant": false
-        },
-        {
-          "title": "Hanwha Ocean’s design solution allowing LNG carrier’s switch to ammonia gets ABS’ thumbs-up",
-          "summary": "The American Bureau of Shipping (ABS), a classification society, has handed out approval in principle (AIP) for a multi-purpose fuel tank and fuel gas supply system design that enables a liquefied natural gas (LNG)…",
-          "date": "2026-09-18",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/09/18/hanwha-oceans-design-solution-allowing-lng-carriers-switch-to-ammonia-gets-abs-thumbs-up",
-          "relevant": false
-        },
-        {
-          "title": "The strategic metals behind modern military technology",
-          "summary": "Modern military technology requires strategic metals, with supply of critical important and a source of geopolitical tension. The post The strategic metals behind modern military technology appeared first on Naval…",
-          "date": "2026-09-18",
-          "source_name": "Naval Technology",
-          "source_url": "https://www.naval-technology.com/features/the-strategic-metals-behind-modern-military-technology/",
-          "relevant": false
-        },
-        {
-          "title": "Future USS Baltimore to Serve as U.S. Navy’s Elite Seabed Warfare Submarine",
-          "summary": "U.S. Navy and General Dynamics are converting the future USS Baltimore (SSN 812) into an elite seabed warfare submarine to succeed the USS Jimmy Carter. The post Future USS Baltimore to Serve as U.S. Navy’s Elite Seabed…",
-          "date": "2026-09-18",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/uss-baltimore-seabed-warfare-submarine/",
-          "relevant": false
-        },
-        {
-          "title": "TotalEnergies Secures $1.8B in Capital from GIP for African Assets",
-          "summary": "In exchange TotalEnergies will pay BlackRock's GIP a throughput-based tariff for up to 15 years.",
-          "date": "2026-09-18",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/totalenergies_secures_18b_in_capital_from_gip_for_african_assets-18-sep-2026-184649-article/?rss=true",
-          "relevant": false
-        },
-        {
-          "title": "Hanwha Ocean’s design solution allowing LNG carrier’s switch to ammonia gets ABS’ thumbs-up",
-          "summary": "The American Bureau of Shipping (ABS), a classification society, has handed out approval in principle (AIP) for a multi-purpose fuel tank and fuel gas supply system design that enables a liquefied natural gas (LNG)…",
-          "date": "2026-09-18",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/hanwha-oceans-design-solution-allowing-lng-carriers-switch-to-ammonia-gets-abs-thumbs-up/",
-          "relevant": false
-        },
-        {
-          "title": "AI Error Nearly Triggered U.S. Intercept of Chinese Ship, CNN Reports",
-          "summary": "A false intelligence report produced with the help of artificial intelligence nearly led the U.S. military to intercept and board a Chinese ship in the Middle East during the war...",
-          "date": "2026-09-18",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/ai-error-nearly-triggered-u-s-intercept-of-chinese-ship-cnn-reports/",
-          "relevant": false
-        },
-        {
-          "title": "U.S. Sanctions Crypto Exchange Tied to Iran’s Hormuz Transit Payments",
-          "summary": "The United States has sanctioned an Iranian cryptocurrency exchange that Treasury says was used to move payments collected from ships transiting the Strait of Hormuz into Iran’s financial system. The...",
-          "date": "2026-09-18",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/u-s-sanctions-crypto-exchange-tied-to-irans-hormuz-transit-payments/",
-          "relevant": false
         }
       ]
     },
@@ -8065,19 +7865,19 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
-          "title": "Canadian Natural to Acquire Advantage Energy for $1.8B",
-          "summary": "'The acquisition includes production of approximately 79,000 boe/d of high-quality Montney and Charlie Lake assets, representing a transaction value of approximately CAD 32,000 per flowing boe/d'.",
-          "date": "2026-11-17",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/canadian_natural_to_acquire_advantage_energy_for_18b-17-nov-2026-185106-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "China emerges as dry bulk export powerhouse",
           "summary": "China’s transformation from the world’s dominant dry bulk importer into an increasingly significant exporter is gathering pace, with outbound cargo volumes more than doubling since 2020 and accounting for nearly…",
           "date": "2026-11-17",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/china-emerges-as-dry-bulk-export-powerhouse/",
+          "relevant": false
+        },
+        {
+          "title": "Canadian Natural to Acquire Advantage Energy for $1.8B",
+          "summary": "'The acquisition includes production of approximately 79,000 boe/d of high-quality Montney and Charlie Lake assets, representing a transaction value of approximately CAD 32,000 per flowing boe/d'.",
+          "date": "2026-11-17",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/canadian_natural_to_acquire_advantage_energy_for_18b-17-nov-2026-185106-article/?rss=true",
           "relevant": false
         },
         {
@@ -9238,30 +9038,6 @@
           "date": "2026-09-21",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/toro-doubles-mr-fleet-with-83m-tanker-pair/",
-          "relevant": false
-        },
-        {
-          "title": "Turn Services takes over St. John Fleeting",
-          "summary": "US inland marine operator Turn Services has completed its acquisition of St. John Fleeting and its affiliated companies, expanding its barge operations on the Lower Mississippi River. The deal gives Turn Services…",
-          "date": "2026-09-18",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/turn-services-takes-over-st-john-fleeting/",
-          "relevant": false
-        },
-        {
-          "title": "Turkish yard wins race for Croatia’s Uljanik",
-          "summary": "Croatia has selected Turkey’s Kuzey Star Shipyard to take control of Uljanik Brodogradnja 1856, moving the historic Pula shipbuilding operation closer to private ownership after years of state-backed restructuring. The…",
-          "date": "2026-09-18",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/turkish-yard-wins-race-for-croatias-uljanik/",
-          "relevant": false
-        },
-        {
-          "title": "Tallvine expands US marine platform with Crosby takeover",
-          "summary": "US infrastructure investor Tallvine Partners has completed the acquisition of substantially all of Crosby Enterprises’ assets, adding more than 150 tugboats, dredges and support vessels to its rapidly expanding North…",
-          "date": "2026-09-18",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/tallvine-expands-us-marine-platform-with-crosby-takeover/",
           "relevant": false
         }
       ]
@@ -11806,60 +11582,6 @@
           "source_url": "https://gcaptain.com/indonesia-continues-search-for-hundreds-missing-in-capsized-ship/",
           "relevant": false,
           "region": "SEA"
-        },
-        {
-          "title": "Oil Falls as Supply Fears Ease",
-          "summary": "Oil fell for a third session as easing Saudi supply concerns outweighed lingering risks around the Strait of Hormuz.",
-          "date": "2026-09-18",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/oil_falls_as_supply_fears_ease-18-sep-2026-184657-article/?rss=true",
-          "relevant": false,
-          "region": "KSA"
-        },
-        {
-          "title": "Crude prices drop amid reduced concerns over Saudi oil supplies",
-          "summary": "Oil prices fell by around 2% on Friday, 18 September, continuing a three-session losing streak, as concerns over potential supply disruptions from Saudi Arabia showed signs of easing, reported Reuters.",
-          "date": "2026-09-18",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/crude-prices-drop-saudi-oil-supplies/",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
-          "title": "Vietnam-made cable layer enters into service in Taiwan",
-          "summary": "A new cable-laying vessel (CLV) built in Vietnam for ATE Energy International has entered […] The post Vietnam-made cable layer enters into service in Taiwan appeared first on Offshore Energy .",
-          "date": "2026-09-18",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/vietnam-made-cable-layer-enters-into-service-in-taiwan/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Oil Goes Down 2% as Saudi Supply Concerns Recede",
-          "summary": "Oil prices fell 2% on Friday, extending losses for a third straight session as easing concerns over Saudi supply disruptions outweighed anxiety about a widening of conflict across the Middle East…",
-          "date": "2026-09-18",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/543076-oil-goes-down-2-as-saudi-supply-concerns-recede",
-          "relevant": false,
-          "region": "KSA"
-        },
-        {
-          "title": "Equinor Signs Long-Term LNG Supply Deal with PTTT",
-          "summary": "Equinor has signed a long-term agreement to supply liquefied natural gas to Thailand's PTTT, expanding its LNG business in Asia.The company did not disclose the…",
-          "date": "2026-09-18",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/543072-equinor-signs-long-term-lng-supply-deal-with-pttt",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Three Tanker Attacks Hit Hormuz as Saudi Oil Is Forced Back Toward Strait",
-          "summary": "A new burst of attacks on commercial shipping in the Strait of Hormuz is hitting just as Saudi Arabia is being forced to send more oil back through the waterway...",
-          "date": "2026-09-18",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/three-tanker-attacks-hit-hormuz-as-saudi-oil-is-forced-back-toward-strait/",
-          "relevant": true,
-          "region": "KSA"
         }
       ]
     }
