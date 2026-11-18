@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T20:01:02Z",
+  "last_updated": "2026-11-18T21:01:14Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -273,35 +273,19 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "China Oilfield Services Orders 59 Offshore Vessels in $1.6 Billion Shipbuilding Deal",
+          "summary": "China Oilfield Services Limited (COSL) has signed contracts worth approximately $1.64 billion to build 59 offshore support vessels at three Chinese shipyards, marking a major investment in the country’s offshore...",
+          "date": "2026-11-18",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/china-oilfield-services-orders-59-offshore-vessels-in-1-6-billion-shipbuilding-deal/",
+          "relevant": false
+        },
+        {
           "title": "Strike Threat Looms at Ports of Los Angeles and Long Beach as Labor Talks Stall",
           "summary": "A potential strike at the nation’s busiest container port complex is back on the table after contract negotiations between waterfront employers and a union representing about 250 port security workers...",
           "date": "2026-11-18",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/strike-threat-looms-at-ports-of-los-angeles-and-long-beach-as-labor-talks-stall/",
-          "relevant": false
-        },
-        {
-          "title": "Eiffage secures offshore converter platform contract in Germany",
-          "summary": "French construction group Eiffage has secured a contract to fabricate the jacket foundation for the LanWin beta offshore converter platform in the German North Sea. Dragados Offshore awarded the contract to Eiffage’s…",
-          "date": "2026-11-18",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/eiffage-secures-offshore-converter-platform-contract-in-germany/",
-          "relevant": false
-        },
-        {
-          "title": "Chinese contractors land $238m in offshore wind installation deals",
-          "summary": "Three Chinese contractors have secured offshore wind construction and installation contracts worth a combined CNY1.58bn ($238m) for two projects being developed by Jiangsu Guoxin in the Yellow Sea. The awards cover the…",
-          "date": "2026-11-18",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/chinese-contractors-land-238m-in-offshore-wind-installation-deals/",
-          "relevant": false
-        },
-        {
-          "title": "DEME orders pair of autonomous offshore survey vessels",
-          "summary": "Belgian marine contractor DEME has ordered two uncrewed offshore survey vessels from Dutch technology specialist DEMCON Unmanned Systems, expanding its capabilities in remote and autonomous offshore operations. The…",
-          "date": "2026-11-18",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/deme-orders-pair-of-autonomous-offshore-survey-vessels/",
           "relevant": false
         },
         {
@@ -390,6 +374,30 @@
           "date": "2026-11-18",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544434-excelerate-energy-taps-nord-gas-for-reliquefaction-retrofit",
+          "relevant": false
+        },
+        {
+          "title": "Eiffage secures offshore converter platform contract in Germany",
+          "summary": "French construction group Eiffage has secured a contract to fabricate the jacket foundation for the LanWin beta offshore converter platform in the German North Sea. Dragados Offshore awarded the contract to Eiffage’s…",
+          "date": "2026-11-18",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/eiffage-secures-offshore-converter-platform-contract-in-germany/",
+          "relevant": false
+        },
+        {
+          "title": "Chinese contractors land $238m in offshore wind installation deals",
+          "summary": "Three Chinese contractors have secured offshore wind construction and installation contracts worth a combined CNY1.58bn ($238m) for two projects being developed by Jiangsu Guoxin in the Yellow Sea. The awards cover the…",
+          "date": "2026-11-18",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/chinese-contractors-land-238m-in-offshore-wind-installation-deals/",
+          "relevant": false
+        },
+        {
+          "title": "DEME orders pair of autonomous offshore survey vessels",
+          "summary": "Belgian marine contractor DEME has ordered two uncrewed offshore survey vessels from Dutch technology specialist DEMCON Unmanned Systems, expanding its capabilities in remote and autonomous offshore operations. The…",
+          "date": "2026-11-18",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/deme-orders-pair-of-autonomous-offshore-survey-vessels/",
           "relevant": false
         },
         {
@@ -5433,22 +5441,6 @@
           "relevant": false
         },
         {
-          "title": "Shipping heavyweights warn against double carbon charges",
-          "summary": "Nine of the world’s leading shipping associations have joined forces to push governments towards a global emissions deal, warning that a patchwork of regional regulations risks leaving shipowners paying multiple times…",
-          "date": "2026-11-18",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/shipping-heavyweights-warn-against-double-carbon-charges/",
-          "relevant": false
-        },
-        {
-          "title": "UK sets out 2030 marine fuel crackdown",
-          "summary": "Britain has laid out plans for a new shipping fuel regulation that could initially cover around 5,000 vessels calling at its ports, including ships operating on international routes. The Department for Transport opened…",
-          "date": "2026-11-18",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/uk-sets-out-2030-marine-fuel-crackdown/",
-          "relevant": false
-        },
-        {
           "title": "EnQuest exits UK upstream in deal with NEO NEXT+",
           "summary": "EnQuest agreed to sell EnQuest Britain Ltd, which holds its UK upstream, midstream and decommissioning assets, to NEO NEXT+ Energy Upstream UK for up to $960 million. The buyer is part of NEO NEXT, formed from NEO…",
           "date": "2026-11-18",
@@ -5473,6 +5465,14 @@
           "relevant": false
         },
         {
+          "title": "USA Strikes IRGC Site on Qeshm Island",
+          "summary": "American warplanes hit an Iranian missile launch site on Qeshm Island in the Persian Gulf on Tuesday, a U.S. military official said.",
+          "date": "2026-11-18",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/usa_strikes_irgc_site_on_qeshm_island-18-nov-2026-185116-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "Gulf militaries rewrite procurement priorities",
           "summary": "Gulf Cooperation Council member states are assessing their defence needs in light of the US-Iran war and impact on the region. The post Gulf militaries rewrite procurement priorities appeared first on Naval Technology .",
           "date": "2026-11-18",
@@ -5489,6 +5489,22 @@
           "relevant": false
         },
         {
+          "title": "Shipping heavyweights warn against double carbon charges",
+          "summary": "Nine of the world’s leading shipping associations have joined forces to push governments towards a global emissions deal, warning that a patchwork of regional regulations risks leaving shipowners paying multiple times…",
+          "date": "2026-11-18",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/shipping-heavyweights-warn-against-double-carbon-charges/",
+          "relevant": false
+        },
+        {
+          "title": "UK sets out 2030 marine fuel crackdown",
+          "summary": "Britain has laid out plans for a new shipping fuel regulation that could initially cover around 5,000 vessels calling at its ports, including ships operating on international routes. The Department for Transport opened…",
+          "date": "2026-11-18",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/uk-sets-out-2030-marine-fuel-crackdown/",
+          "relevant": false
+        },
+        {
           "title": "Adura brings North Sea gas project onstream after years of delays",
           "summary": "UK offshore producer Adura has started production at its £2.1bn ($2.8bn) Jackdaw gas development in the North Sea, less than a month after receiving fresh regulatory approval. Gas is now flowing from the Jackdaw…",
           "date": "2026-11-18",
@@ -5502,14 +5518,6 @@
           "date": "2026-11-17",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/u-s-military-strikes-iranian-missile-site-near-strait-of-hormuz/",
-          "relevant": false
-        },
-        {
-          "title": "Gulf Oil Flow at Risk From Lack of Empty Tankers, Tracker Says",
-          "summary": "The number of empty tankers sailing to collect cargoes of Middle East crude is sliding, a trend that could jeopardize the recent revival in the region’s oil flows to global markets, according to Tankertrackers.com, a…",
-          "date": "2026-11-17",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/gulf-oil-flow-at-risk-from-lack-of-empty-tankers-tracker-says/",
           "relevant": false
         },
         {
@@ -5550,6 +5558,14 @@
           "date": "2026-11-17",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/diamondback-to-acquire-double-eagle-assets/",
+          "relevant": false
+        },
+        {
+          "title": "Gulf Oil Flow at Risk From Lack of Empty Tankers, Tracker Says",
+          "summary": "The number of empty tankers sailing to collect cargoes of Middle East crude is sliding, a trend that could jeopardize the recent revival in the region’s oil flows to global markets, according to Tankertrackers.com, a…",
+          "date": "2026-11-17",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/gulf-oil-flow-at-risk-from-lack-of-empty-tankers-tracker-says/",
           "relevant": false
         },
         {
