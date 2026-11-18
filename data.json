@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T10:01:03Z",
+  "last_updated": "2026-11-18T11:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8,6 +8,14 @@
       "short_title": "Day-Rates",
       "description": "Benchmark day-rate trends for jackups, floaters and offshore support vessels across key regions.",
       "items": [
+        {
+          "title": "Saipem bags drilling double in Egypt and Suriname",
+          "summary": "Italian offshore engineering and drilling contractor Saipem has secured two new contracts worth approximately $181m for its Scarabeo 9 semisubmersible drilling rig. Burullus Gas Company, a joint venture between Shell…",
+          "date": "2026-11-18",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/saipem-bags-drilling-double-in-egypt-and-suriname/",
+          "relevant": false
+        },
         {
           "title": "SLB bags offshore drilling services deal with Vår Energi",
           "summary": "US oilfield services giant SLB has secured a four-year integrated drilling services contract with Vår Energi covering two semisubmersible drilling rigs on the Norwegian continental shelf. The agreement covers the…",
@@ -264,6 +272,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "DEME orders pair of autonomous offshore survey vessels",
+          "summary": "Belgian marine contractor DEME has ordered two uncrewed offshore survey vessels from Dutch technology specialist DEMCON Unmanned Systems, expanding its capabilities in remote and autonomous offshore operations. The…",
+          "date": "2026-11-18",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/deme-orders-pair-of-autonomous-offshore-survey-vessels/",
+          "relevant": false
+        },
         {
           "title": "How the Hormuz crisis handed America a lasting export advantage",
           "summary": "As Middle Eastern supplies faltered, American exporters of LNG, LPG, jet fuel and plastics gained new customers, new shipping routes and, in some cases, contracts stretching decades into the future. Alex Byelyavtsev…",
@@ -5321,6 +5337,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Shipping heavyweights warn against double carbon charges",
+          "summary": "Nine of the world’s leading shipping associations have joined forces to push governments towards a global emissions deal, warning that a patchwork of regional regulations risks leaving shipowners paying multiple times…",
+          "date": "2026-11-18",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/shipping-heavyweights-warn-against-double-carbon-charges/",
+          "relevant": false
+        },
+        {
           "title": "UK sets out 2030 marine fuel crackdown",
           "summary": "Britain has laid out plans for a new shipping fuel regulation that could initially cover around 5,000 vessels calling at its ports, including ships operating on international routes. The Department for Transport opened…",
           "date": "2026-11-18",
@@ -5334,6 +5358,14 @@
           "date": "2026-11-18",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/18/counting-down-to-oeec-2026-amsterdam-gets-ready-to-welcome-the-offshore-energy-community",
+          "relevant": false
+        },
+        {
+          "title": "Exail Secures Five DriX USV Orders in U.S.",
+          "summary": "Exail has secured five new orders for its DriX uncrewed surface vehicles (USVs) from U.S. customers in the commercial offshore and institutional markets, expanding…",
+          "date": "2026-11-18",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544433-exail-secures-five-drix-usv-orders-in-u-s",
           "relevant": false
         },
         {
@@ -9152,6 +9184,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "UAE’s ADNOC L&S Says One Crew Member Missing After Attack on Its Vessel in Hormuz",
+          "summary": "The United Arab Emirates' ADNOC L&S said on Wednesday that one crew member was missing and 11 injured after one of its vessels was attacked in the Strait of Hormuz on Tuesday.",
+          "date": "2026-11-18",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/uaes-adnoc-ls-says-one-crew-member-missing-after-attack-on-its-vessel-in-hormuz/",
+          "relevant": true,
+          "region": "UAE"
+        },
         {
           "title": "Shell starts production from Rosmari-Marjoram gas fields offshore Malaysia",
           "summary": "Sarawak Shell Berhad (SSB), a subsidiary of Shell, brought the Rosmari and Marjoram deepwater gas fields onstream 220 km off the coast of Sarawak, Malaysia. Gas from the fields will be piped to a new onshore gas plant…",
