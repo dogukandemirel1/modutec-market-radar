@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T14:01:33Z",
+  "last_updated": "2026-11-18T15:01:11Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -326,6 +326,22 @@
           "date": "2026-11-18",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/sbm-offshore-fpso-exxonmobil-longtail/",
+          "relevant": false
+        },
+        {
+          "title": "Saipem Awarded Two Offshore Drilling Contracts Worth $181m",
+          "summary": "Saipem has been awarded two new offshore drilling contracts, in Egypt and Suriname, with a total value of approximately $181 million, for the semi-submersible unit Scarabeo 9…",
+          "date": "2026-11-18",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544439-saipem-awarded-two-offshore-drilling-contracts-worth-181m",
+          "relevant": false
+        },
+        {
+          "title": "Excelerate Energy taps Nord Gas for  Reliquefaction Retrofit",
+          "summary": "Nord Gas Solutions (NGS) has been awarded a contract to supply its Compact Reliquefaction System for a floating storage and regasification Unit (FSRU) retrofit project…",
+          "date": "2026-11-18",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544434-excelerate-energy-taps-nord-gas-for-reliquefaction-retrofit",
           "relevant": false
         },
         {
@@ -5489,19 +5505,19 @@
           "relevant": false
         },
         {
-          "title": "EU Oil Watchers Say Supply Remains Stable",
-          "summary": "Oil supply in the European Union continues to be 'stable', though oil markets remain tight, according to the bloc's Oil Coordination Group.",
-          "date": "2026-11-16",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/eu_oil_watchers_say_supply_remains_stable-16-nov-2026-185091-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "China to lead global polypropylene capacity growth through 2030",
           "summary": "Expanding automotive and packaging sectors to drive China to outpace all other markets in global polypropylene capacity additions.",
           "date": "2026-11-16",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/analyst-comment/china-global-polypropylene-capacity-growth-2030/",
+          "relevant": false
+        },
+        {
+          "title": "EU Oil Watchers Say Supply Remains Stable",
+          "summary": "Oil supply in the European Union continues to be 'stable', though oil markets remain tight, according to the bloc's Oil Coordination Group.",
+          "date": "2026-11-16",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/eu_oil_watchers_say_supply_remains_stable-16-nov-2026-185091-article/?rss=true",
           "relevant": false
         },
         {
@@ -8025,6 +8041,14 @@
           "relevant": false
         },
         {
+          "title": "Trump Calls Venezuela an 'Acquisition'",
+          "summary": "President Donald Trump referred to Venezuela as an 'acquisition' while touting an increasing supply of U.S. energy he said will benefit American allies.",
+          "date": "2026-11-18",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/trump_calls_venezuela_an_acquisition-18-nov-2026-185114-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "EnQuest Exits UK, Pivots to SE Asia",
           "summary": "EnQuest agreed to divest its British business, which produced over 31,000 barrels of oil equivalent a day last year, to a TotalEnergies-led consortium for up to $960 million.",
           "date": "2026-11-18",
@@ -9224,6 +9248,24 @@
           "source_url": "https://gcaptain.com/uaes-adnoc-ls-says-one-crew-member-missing-after-attack-on-its-vessel-in-hormuz/",
           "relevant": true,
           "region": "UAE"
+        },
+        {
+          "title": "Shell Increases Gas Production offshore Malaysia",
+          "summary": "'Rosmari-Marjoram contributes to Shell's commitment to deliver upstream and integrated gas projects coming onstream between 2025 to 2030 with a total peak production of more than 1.4 million barrels of oil equivalent…",
+          "date": "2026-11-18",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/shell_increases_gas_production_offshore_malaysia-18-nov-2026-185113-article/?rss=true",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Woodside Bags 10-Year Deal to Supply LNG to Trafigura",
+          "summary": "The Singapore-based commodities trader agreed to buy one million metric tons per annum of liquefied natural gas for up to 10 years from Australia's Woodside.",
+          "date": "2026-11-18",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/woodside_bags_10year_deal_to_supply_lng_to_trafigura-18-nov-2026-185111-article/?rss=true",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Shell starts production from Rosmari-Marjoram gas fields offshore Malaysia",
