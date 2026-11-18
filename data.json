@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T22:01:03Z",
+  "last_updated": "2026-11-18T23:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5433,6 +5433,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Shipping Industry Presses for Global IMO Climate Deal as Divisions Over Rules Persist",
+          "summary": "Nine major shipping associations are urging governments to reach an agreement on global greenhouse gas regulations, warning that continued uncertainty threatens investment in cleaner ships and alternative fuels ahead…",
+          "date": "2026-11-18",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/shipping-industry-presses-for-global-imo-climate-deal-as-divisions-over-rules-persist/",
+          "relevant": false
+        },
+        {
           "title": "U.S. Targets Ship-to-Ship Transfers in Expanded Iran Maritime Blockade",
           "summary": "The US military will treat ships that receive cargo at sea from vessels loaded in Iran as attempting to evade its blockade of Iranian ports and could take action against them, according to an advisory issued by US…",
           "date": "2026-11-18",
@@ -5513,14 +5521,6 @@
           "relevant": false
         },
         {
-          "title": "U.S. Military Strikes Iranian Missile Site Near Strait of Hormuz",
-          "summary": "By Arsalan Shahla and Jen Judson (Bloomberg) — American warplanes hit an Iranian missile launch site on Qeshm Island in the Persian Gulf on Tuesday, a US military official said,...",
-          "date": "2026-11-17",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/u-s-military-strikes-iranian-missile-site-near-strait-of-hormuz/",
-          "relevant": false
-        },
-        {
           "title": "Vietsovpetro brings BK-26 platform onstream at Bach Ho field offshore Vietnam",
           "summary": "Vietsovpetro started commercial production from the BK-26 wellhead platform at the Bach Ho (White Tiger) field in Block 09-1 offshore Vietnam. First oil came 36 days ahead of the 15 December target set by the…",
           "date": "2026-11-17",
@@ -5558,6 +5558,14 @@
           "date": "2026-11-17",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/diamondback-to-acquire-double-eagle-assets/",
+          "relevant": false
+        },
+        {
+          "title": "U.S. Military Strikes Iranian Missile Site Near Strait of Hormuz",
+          "summary": "By Arsalan Shahla and Jen Judson (Bloomberg) — American warplanes hit an Iranian missile launch site on Qeshm Island in the Persian Gulf on Tuesday, a US military official said,...",
+          "date": "2026-11-17",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/u-s-military-strikes-iranian-missile-site-near-strait-of-hormuz/",
           "relevant": false
         },
         {
