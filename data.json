@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T04:01:22Z",
+  "last_updated": "2026-11-18T05:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -265,27 +265,11 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "How the Hormuz crisis handed America a lasting export advantage",
-          "summary": "As Middle Eastern supplies faltered, American exporters of LNG, LPG, jet fuel and plastics gained new customers, new shipping routes and, in some cases, contracts stretching decades into the future. Alex Byelyavtsev…",
+          "title": "Eastern Shipbuilding to Build Grand Block Units for Future USS Telesforo Trinidad (DDG 139)",
+          "summary": "HII’s Ingalls Shipbuilding awards Eastern Shipbuilding Group a contract to construct and outfit grand block units—including new cabling—for the U.S. Navy's DDG 139. The post Eastern Shipbuilding to Build Grand Block…",
           "date": "2026-11-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/how-the-hormuz-crisis-handed-america-a-lasting-export-advantage/",
-          "relevant": false
-        },
-        {
-          "title": "Semco Maritime and PTSC bag Taiwan offshore wind deal",
-          "summary": "Denmark’s Semco Maritime and Vietnam’s PTSC Mechanical & Construction have secured an offshore substation contract for Copenhagen Infrastructure Partners’ (CIP) 600MW Fengmiao II offshore wind project in Taiwan. The…",
-          "date": "2026-11-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/semco-maritime-and-ptsc-bag-taiwan-offshore-wind-deal/",
-          "relevant": false
-        },
-        {
-          "title": "TechnipFMC extends charter of DOF CSV",
-          "summary": "Norwegian offshore vessel owner DOF has secured a new contract from TechnipFMC for its subsea construction vessel (CSV) Skandi Africa, extending a partnership that dates back more than a decade. DOF has classified the…",
-          "date": "2026-11-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/technipfmc-extends-charter-of-dof-csv/",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/eastern-shipbuilding-to-build-grand-block-units-for-future-uss-telesforo-trinidad-ddg-139/",
           "relevant": false
         },
         {
@@ -337,6 +321,30 @@
           "relevant": false
         },
         {
+          "title": "How the Hormuz crisis handed America a lasting export advantage",
+          "summary": "As Middle Eastern supplies faltered, American exporters of LNG, LPG, jet fuel and plastics gained new customers, new shipping routes and, in some cases, contracts stretching decades into the future. Alex Byelyavtsev…",
+          "date": "2026-11-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/how-the-hormuz-crisis-handed-america-a-lasting-export-advantage/",
+          "relevant": false
+        },
+        {
+          "title": "Semco Maritime and PTSC bag Taiwan offshore wind deal",
+          "summary": "Denmark’s Semco Maritime and Vietnam’s PTSC Mechanical & Construction have secured an offshore substation contract for Copenhagen Infrastructure Partners’ (CIP) 600MW Fengmiao II offshore wind project in Taiwan. The…",
+          "date": "2026-11-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/semco-maritime-and-ptsc-bag-taiwan-offshore-wind-deal/",
+          "relevant": false
+        },
+        {
+          "title": "TechnipFMC extends charter of DOF CSV",
+          "summary": "Norwegian offshore vessel owner DOF has secured a new contract from TechnipFMC for its subsea construction vessel (CSV) Skandi Africa, extending a partnership that dates back more than a decade. DOF has classified the…",
+          "date": "2026-11-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/technipfmc-extends-charter-of-dof-csv/",
+          "relevant": false
+        },
+        {
           "title": "COSL splashes $1.64bn on 59 offshore support vessel newbuilds",
           "summary": "China Oilfield Services Limited (COSL) has signed shipbuilding contracts worth RMB10.93bn ($1.64bn) for 59 offshore support vessels at three Chinese shipyards as it expands and modernises its fleet. The order covers six…",
           "date": "2026-11-17",
@@ -366,6 +374,22 @@
           "date": "2026-11-16",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/constellation-taps-weatherford-for-mpd-on-amaralina-star-exploration-campaign-offshore-brazil-81073",
+          "relevant": false
+        },
+        {
+          "title": "U.S. Navy Orders 82 Additional Lionfish UUVs from HII",
+          "summary": "HII has received a U.S. Navy contract for 82 additional Lionfish small unmanned undersea vehicles (UUVs), bringing total ordered units to 175 with 50 delivered. The post U.S. Navy Orders 82 Additional Lionfish UUVs from…",
+          "date": "2026-11-16",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/u-s-navy-orders-82-additional-lionfish-uuvs-from-hii/",
+          "relevant": false
+        },
+        {
+          "title": "DIU Awards Saronic Contract to Deliver Autonomous Low Profile Vessel for USMC Contested Logistics",
+          "summary": "The Defense Innovation Unit has awarded Saronic Technologies a prototype contract to deliver the Autonomous Low Profile Vessel (ALPV) for U.S. Marine Corps resupply. The post DIU Awards Saronic Contract to Deliver…",
+          "date": "2026-11-16",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/diu-awards-saronic-contract-to-deliver-autonomous-low-profile-vessel-for-usmc-contested-logistics/",
           "relevant": false
         },
         {
@@ -5265,14 +5289,6 @@
           "relevant": false
         },
         {
-          "title": "Apache keeps North Sea assets producing despite worker walkouts",
-          "summary": "US energy company Apache said that production from its UK North Sea assets remains unaffected despite escalating industrial action involving around 170 offshore workers. Members of the Unite union staged a series of…",
-          "date": "2026-11-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/apache-keeps-north-sea-assets-producing-despite-worker-walkouts/",
-          "relevant": false
-        },
-        {
           "title": "Vietsovpetro brings BK-26 platform onstream at Bach Ho field offshore Vietnam",
           "summary": "Vietsovpetro started commercial production from the BK-26 wellhead platform at the Bach Ho (White Tiger) field in Block 09-1 offshore Vietnam. First oil came 36 days ahead of the 15 December target set by the…",
           "date": "2026-11-17",
@@ -5310,6 +5326,14 @@
           "date": "2026-11-17",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/diamondback-to-acquire-double-eagle-assets/",
+          "relevant": false
+        },
+        {
+          "title": "Apache keeps North Sea assets producing despite worker walkouts",
+          "summary": "US energy company Apache said that production from its UK North Sea assets remains unaffected despite escalating industrial action involving around 170 offshore workers. Members of the Unite union staged a series of…",
+          "date": "2026-11-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/apache-keeps-north-sea-assets-producing-despite-worker-walkouts/",
           "relevant": false
         },
         {
@@ -7865,19 +7889,19 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
-          "title": "China emerges as dry bulk export powerhouse",
-          "summary": "China’s transformation from the world’s dominant dry bulk importer into an increasingly significant exporter is gathering pace, with outbound cargo volumes more than doubling since 2020 and accounting for nearly…",
-          "date": "2026-11-17",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/china-emerges-as-dry-bulk-export-powerhouse/",
-          "relevant": false
-        },
-        {
           "title": "Canadian Natural to Acquire Advantage Energy for $1.8B",
           "summary": "'The acquisition includes production of approximately 79,000 boe/d of high-quality Montney and Charlie Lake assets, representing a transaction value of approximately CAD 32,000 per flowing boe/d'.",
           "date": "2026-11-17",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/canadian_natural_to_acquire_advantage_energy_for_18b-17-nov-2026-185106-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "China emerges as dry bulk export powerhouse",
+          "summary": "China’s transformation from the world’s dominant dry bulk importer into an increasingly significant exporter is gathering pace, with outbound cargo volumes more than doubling since 2020 and accounting for nearly…",
+          "date": "2026-11-17",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/china-emerges-as-dry-bulk-export-powerhouse/",
           "relevant": false
         },
         {
@@ -9063,6 +9087,15 @@
           "date": "2026-11-17",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/17/shell-kicks-off-gas-production-from-its-deepwater-project-in-southeast-asia",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Shell begins gas production from Rosmari and Marjoram fields",
+          "summary": "Sarawak Shell Berhad has begun producing gas from the Rosmari and Marjoram fields, around 220km off the coast of Sarawak, Malaysia.",
+          "date": "2026-11-17",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/shell-begins-gas-output-rosmari-marjoram/",
           "relevant": false,
           "region": "SEA"
         },
