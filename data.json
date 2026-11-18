@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T18:01:04Z",
+  "last_updated": "2026-11-18T19:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -272,6 +272,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Strike Threat Looms at Ports of Los Angeles and Long Beach as Labor Talks Stall",
+          "summary": "A potential strike at the nation’s busiest container port complex is back on the table after contract negotiations between waterfront employers and a union representing about 250 port security workers...",
+          "date": "2026-11-18",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/strike-threat-looms-at-ports-of-los-angeles-and-long-beach-as-labor-talks-stall/",
+          "relevant": false
+        },
         {
           "title": "Eiffage secures offshore converter platform contract in Germany",
           "summary": "French construction group Eiffage has secured a contract to fabricate the jacket foundation for the LanWin beta offshore converter platform in the German North Sea. Dragados Offshore awarded the contract to Eiffage’s…",
@@ -5416,6 +5424,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "U.S. Targets Ship-to-Ship Transfers in Expanded Iran Maritime Blockade",
+          "summary": "The US military will treat ships that receive cargo at sea from vessels loaded in Iran as attempting to evade its blockade of Iranian ports and could take action against them, according to an advisory issued by US…",
+          "date": "2026-11-18",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/u-s-targets-ship-to-ship-transfers-in-expanded-iran-maritime-blockade/",
+          "relevant": false
+        },
         {
           "title": "Shipping heavyweights warn against double carbon charges",
           "summary": "Nine of the world’s leading shipping associations have joined forces to push governments towards a global emissions deal, warning that a patchwork of regional regulations risks leaving shipowners paying multiple times…",
