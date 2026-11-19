@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T21:01:02Z",
+  "last_updated": "2026-11-19T22:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -326,6 +326,14 @@
           "date": "2026-11-19",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/19/boskalis-subsea-services-joins-one-of-uks-largest-offshore-decommissioning-programs",
+          "relevant": false
+        },
+        {
+          "title": "TPAO In Talks for $1B Loan",
+          "summary": "Turkey's state-owned oil and natural gas producer is in talks with banks for a loan of up to $1 billion, according to people familiar with the matter.",
+          "date": "2026-11-19",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/tpao_in_talks_for_1b_loan-19-nov-2026-185125-article/?rss=true",
           "relevant": false
         },
         {
