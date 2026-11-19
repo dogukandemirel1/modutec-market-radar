@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T22:01:04Z",
+  "last_updated": "2026-11-19T23:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5601,14 +5601,6 @@
           "relevant": false
         },
         {
-          "title": "U.S. Targets Ship-to-Ship Transfers in Expanded Iran Maritime Blockade",
-          "summary": "The US military will treat ships that receive cargo at sea from vessels loaded in Iran as attempting to evade its blockade of Iranian ports and could take action against them, according to an advisory issued by US…",
-          "date": "2026-11-18",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/u-s-targets-ship-to-ship-transfers-in-expanded-iran-maritime-blockade/",
-          "relevant": false
-        },
-        {
           "title": "EnQuest exits UK upstream in deal with NEO NEXT+",
           "summary": "EnQuest agreed to sell EnQuest Britain Ltd, which holds its UK upstream, midstream and decommissioning assets, to NEO NEXT+ Energy Upstream UK for up to $960 million. The buyer is part of NEO NEXT, formed from NEO…",
           "date": "2026-11-18",
@@ -5638,6 +5630,14 @@
           "date": "2026-11-18",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/analyst-comment/gulf-militaries-rewrite-procurement-priorities/",
+          "relevant": false
+        },
+        {
+          "title": "U.S. Targets Ship-to-Ship Transfers in Expanded Iran Maritime Blockade",
+          "summary": "The US military will treat ships that receive cargo at sea from vessels loaded in Iran as attempting to evade its blockade of Iranian ports and could take action against them, according to an advisory issued by US…",
+          "date": "2026-11-18",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/u-s-targets-ship-to-ship-transfers-in-expanded-iran-maritime-blockade/",
           "relevant": false
         },
         {
