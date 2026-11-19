@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T13:01:21Z",
+  "last_updated": "2026-11-19T14:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -294,6 +294,14 @@
           "date": "2026-11-19",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/weatherford-bags-new-deepwater-drilling-deal-in-brazil/",
+          "relevant": false
+        },
+        {
+          "title": "COSL Places $1.64B Order for 59 Offshore Support Vessels",
+          "summary": "China Oilfield Services Limited (COSL) has signed contracts worth $1.64 billion (RMB10.93 billion) for the construction of 59 offshore support vessels (OSVs), with…",
+          "date": "2026-11-19",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544467-cosl-places-1-64b-order-for-59-offshore-support-vessels",
           "relevant": false
         },
         {
@@ -8217,19 +8225,19 @@
           "relevant": false
         },
         {
-          "title": "Saipem, Subsea7 Target Early 2027 Merger Completion",
-          "summary": "Saipem and Subsea7 have secured approvals from 13 of the 16 relevant antitrust authorities for their proposed merger, with the companies continuing to target completion in early 2027…",
-          "date": "2026-11-19",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/544461-saipem-subsea7-target-early-2027-merger-completion",
-          "relevant": false
-        },
-        {
           "title": "Shell Divests West African Solar Unit",
           "summary": "'This transaction reflects Shell's ongoing work to high-grade its portfolio and focus on areas of the power value chain where it has differentiated capabilities, including asset-backed power trading and associated…",
           "date": "2026-11-19",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/shell_divests_west_african_solar_unit-19-nov-2026-185122-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Saipem, Subsea7 Target Early 2027 Merger Completion",
+          "summary": "Saipem and Subsea7 have secured approvals from 13 of the 16 relevant antitrust authorities for their proposed merger, with the companies continuing to target completion in early 2027…",
+          "date": "2026-11-19",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544461-saipem-subsea7-target-early-2027-merger-completion",
           "relevant": false
         },
         {
@@ -9481,6 +9489,15 @@
           "date": "2026-11-19",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/philippines_advances_plans_for_strategic_oil_reserves-19-nov-2026-185121-article/?rss=true",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Global Energy Exhibition & Congress Vietnam Set for May 2027 Debut",
+          "summary": "Supported by Vietnam’s Ministry of Industry and Trade, the event will welcome 30,000+ energy professionals, 800 exhibitors, 1,000 conference delegates and 450 speakers Event…",
+          "date": "2026-11-19",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544443-global-energy-exhibition-congress-vietnam-set-for-may-2027-debut",
           "relevant": false,
           "region": "SEA"
         },
