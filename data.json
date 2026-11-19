@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T07:01:07Z",
+  "last_updated": "2026-11-19T08:01:18Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -289,30 +289,6 @@
           "relevant": false
         },
         {
-          "title": "Eiffage secures offshore converter platform contract in Germany",
-          "summary": "French construction group Eiffage has secured a contract to fabricate the jacket foundation for the LanWin beta offshore converter platform in the German North Sea. Dragados Offshore awarded the contract to Eiffage’s…",
-          "date": "2026-11-18",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/eiffage-secures-offshore-converter-platform-contract-in-germany/",
-          "relevant": false
-        },
-        {
-          "title": "Chinese contractors land $238m in offshore wind installation deals",
-          "summary": "Three Chinese contractors have secured offshore wind construction and installation contracts worth a combined CNY1.58bn ($238m) for two projects being developed by Jiangsu Guoxin in the Yellow Sea. The awards cover the…",
-          "date": "2026-11-18",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/chinese-contractors-land-238m-in-offshore-wind-installation-deals/",
-          "relevant": false
-        },
-        {
-          "title": "DEME orders pair of autonomous offshore survey vessels",
-          "summary": "Belgian marine contractor DEME has ordered two uncrewed offshore survey vessels from Dutch technology specialist DEMCON Unmanned Systems, expanding its capabilities in remote and autonomous offshore operations. The…",
-          "date": "2026-11-18",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/deme-orders-pair-of-autonomous-offshore-survey-vessels/",
-          "relevant": false
-        },
-        {
           "title": "OMV targets late-November spud at Libya’s Marwa prospect",
           "summary": "OMV lined up its first exploration well at the Marwa prospect in Libya’s Contract Area 103/3 (NC74B), with drilling set to begin by the end of November. The well will target a depth of about 6,500 ft (1,981 m). OMV…",
           "date": "2026-11-18",
@@ -406,6 +382,30 @@
           "date": "2026-11-18",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544434-excelerate-energy-taps-nord-gas-for-reliquefaction-retrofit",
+          "relevant": false
+        },
+        {
+          "title": "Eiffage secures offshore converter platform contract in Germany",
+          "summary": "French construction group Eiffage has secured a contract to fabricate the jacket foundation for the LanWin beta offshore converter platform in the German North Sea. Dragados Offshore awarded the contract to Eiffage’s…",
+          "date": "2026-11-18",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/eiffage-secures-offshore-converter-platform-contract-in-germany/",
+          "relevant": false
+        },
+        {
+          "title": "Chinese contractors land $238m in offshore wind installation deals",
+          "summary": "Three Chinese contractors have secured offshore wind construction and installation contracts worth a combined CNY1.58bn ($238m) for two projects being developed by Jiangsu Guoxin in the Yellow Sea. The awards cover the…",
+          "date": "2026-11-18",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/chinese-contractors-land-238m-in-offshore-wind-installation-deals/",
+          "relevant": false
+        },
+        {
+          "title": "DEME orders pair of autonomous offshore survey vessels",
+          "summary": "Belgian marine contractor DEME has ordered two uncrewed offshore survey vessels from Dutch technology specialist DEMCON Unmanned Systems, expanding its capabilities in remote and autonomous offshore operations. The…",
+          "date": "2026-11-18",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/deme-orders-pair-of-autonomous-offshore-survey-vessels/",
           "relevant": false
         },
         {
@@ -5449,14 +5449,6 @@
           "relevant": false
         },
         {
-          "title": "Shipping heavyweights warn against double carbon charges",
-          "summary": "Nine of the world’s leading shipping associations have joined forces to push governments towards a global emissions deal, warning that a patchwork of regional regulations risks leaving shipowners paying multiple times…",
-          "date": "2026-11-18",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/shipping-heavyweights-warn-against-double-carbon-charges/",
-          "relevant": false
-        },
-        {
           "title": "EnQuest exits UK upstream in deal with NEO NEXT+",
           "summary": "EnQuest agreed to sell EnQuest Britain Ltd, which holds its UK upstream, midstream and decommissioning assets, to NEO NEXT+ Energy Upstream UK for up to $960 million. The buyer is part of NEO NEXT, formed from NEO…",
           "date": "2026-11-18",
@@ -5502,6 +5494,14 @@
           "date": "2026-11-18",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544433-exail-secures-five-drix-usv-orders-in-u-s",
+          "relevant": false
+        },
+        {
+          "title": "Shipping heavyweights warn against double carbon charges",
+          "summary": "Nine of the world’s leading shipping associations have joined forces to push governments towards a global emissions deal, warning that a patchwork of regional regulations risks leaving shipowners paying multiple times…",
+          "date": "2026-11-18",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/shipping-heavyweights-warn-against-double-carbon-charges/",
           "relevant": false
         },
         {
