@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T20:01:06Z",
+  "last_updated": "2026-11-19T21:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5536,6 +5536,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "ARC Adds Another U.S.-Flag Ro/Ro Ship to Strengthen Military Sealift Capacity",
+          "summary": "American Roll-On/Roll-Off Carrier Group (ARC) has added another large vehicle carrier to its U.S.-flag fleet, strengthening its ability to transport heavy military equipment and commercial cargo overseas. The 757-foot…",
+          "date": "2026-11-19",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/arc-adds-another-u-s-flag-ro-ro-ship-to-strengthen-military-sealift-capacity/",
+          "relevant": false
+        },
         {
           "title": "Bayesian Disaster Prompts Calls for Overhaul of Superyacht Safety Standards",
           "summary": "British marine accident investigators are calling for changes to superyacht safety regulations after the sinking of the luxury sailing yacht Bayesian exposed gaps in vessel stability standards, liferaft requirements…",
