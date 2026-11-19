@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T09:01:03Z",
+  "last_updated": "2026-11-19T10:01:16Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -280,6 +280,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Orlen, QatarEnergy Eye Fresh LNG Agreement After Contract Cancellation",
+          "summary": "Poland's Orlen and QatarEnergy have begun talks on a new long-term liquefied natural gas supply deal days after the Polish group ended a decades-old contract, three…",
+          "date": "2026-11-19",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544460-orlen-qatarenergy-eye-fresh-lng-agreement-after-contract-cancellation",
+          "relevant": false
+        },
         {
           "title": "Searenergy lands offshore wind commissioning deal in Poland",
           "summary": "German offshore services group Searenergy has secured a contract from Equinor and Polenergia for hook-up and commissioning work on two offshore substations at the Bałtyk 2 and Bałtyk 3 wind farms in the Polish Baltic…",
@@ -8169,6 +8177,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Saipem, Subsea7 Target Early 2027 Merger Completion",
+          "summary": "Saipem and Subsea7 have secured approvals from 13 of the 16 relevant antitrust authorities for their proposed merger, with the companies continuing to target completion in early 2027…",
+          "date": "2026-11-19",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544461-saipem-subsea7-target-early-2027-merger-completion",
+          "relevant": false
+        },
+        {
           "title": "Trump Calls Venezuela an 'Acquisition'",
           "summary": "President Donald Trump referred to Venezuela as an 'acquisition' while touting an increasing supply of U.S. energy he said will benefit American allies.",
           "date": "2026-11-18",
@@ -9384,6 +9400,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Borr Drilling’s CEO sees ‘encouraging signs’ in rig market activity",
+          "summary": "Borr Drilling has highlighted improving shallow-water drilling demand in West Africa and Southeast Asia.",
+          "date": "2026-11-19",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/19/borr-drillings-ceo-sees-encouraging-signs-in-rig-market-activity",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "UAE’s ADNOC L&S Says One Crew Member Missing After Attack on Its Vessel in Hormuz",
           "summary": "The United Arab Emirates' ADNOC L&S said on Wednesday that one crew member was missing and 11 injured after one of its vessels was attacked in the Strait of Hormuz on Tuesday.",
