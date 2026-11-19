@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T12:54:47Z",
+  "last_updated": "2026-11-19T13:01:21Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8217,19 +8217,19 @@
           "relevant": false
         },
         {
-          "title": "Shell Divests West African Solar Unit",
-          "summary": "'This transaction reflects Shell's ongoing work to high-grade its portfolio and focus on areas of the power value chain where it has differentiated capabilities, including asset-backed power trading and associated…",
-          "date": "2026-11-19",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/shell_divests_west_african_solar_unit-19-nov-2026-185122-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Saipem, Subsea7 Target Early 2027 Merger Completion",
           "summary": "Saipem and Subsea7 have secured approvals from 13 of the 16 relevant antitrust authorities for their proposed merger, with the companies continuing to target completion in early 2027…",
           "date": "2026-11-19",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544461-saipem-subsea7-target-early-2027-merger-completion",
+          "relevant": false
+        },
+        {
+          "title": "Shell Divests West African Solar Unit",
+          "summary": "'This transaction reflects Shell's ongoing work to high-grade its portfolio and focus on areas of the power value chain where it has differentiated capabilities, including asset-backed power trading and associated…",
+          "date": "2026-11-19",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/shell_divests_west_african_solar_unit-19-nov-2026-185122-article/?rss=true",
           "relevant": false
         },
         {
