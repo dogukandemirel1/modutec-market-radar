@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T11:01:09Z",
+  "last_updated": "2026-11-19T12:01:09Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -280,6 +280,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Seamec scores fresh Indian offshore installation award",
+          "summary": "Indian offshore services provider Seamec has secured a letter of award worth approximately $10.77m from the Indian subsidiary of PACC Offshore Services Holdings (POSH) for subsea installation work on the ONGC Pipeline…",
+          "date": "2026-11-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/seamec-scores-fresh-indian-offshore-installation-award/",
+          "relevant": false
+        },
         {
           "title": "Weatherford bags new deepwater drilling deal in Brazil",
           "summary": "US oilfield services giant Weatherford has secured a contract from Constellation Oil Services to provide managed pressure drilling (MPD) technology for a deepwater exploration campaign offshore Brazil. The agreement…",
@@ -5473,6 +5481,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Marinakis-backed Capital Tankers gets Oslo main board green light",
+          "summary": "Evangelos Marinakis-backed Capital Tankers has secured approval to move its shares to Oslo’s main stock market, eight months after making its Norwegian trading debut through a $500m equity placement. Oslo Børs confirmed…",
+          "date": "2026-11-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/marinakis-backed-capital-tankers-makes-move-to-oslo-main-board/",
+          "relevant": false
+        },
+        {
           "title": "EnQuest Sells UK North Sea Assets to NEO NEXT+ in $960M Deal",
           "summary": "EnQuest has agreed to sell its UK upstream oil and gas business and associated infrastructure to NEO NEXT+ for up to $960 million, marking a major step in its strategic shift towards Southeast Asia…",
           "date": "2026-11-19",
@@ -9417,6 +9433,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Stamford firms up 10 MR tankers in China",
+          "summary": "Singapore-based Stamford Shipping has firmed up an order for 10 MR product tankers at China’s Nantong CIMC Sinopacific Offshore & Engineering (CIMC SOE), with the yard also securing two vessels of the same design from…",
+          "date": "2026-11-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/stamford-firms-up-10-mr-tankers-in-china/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Paratus and Vantris explore sale of Brazilian subsea venture",
           "summary": "Paratus Energy Services and Malaysia’s Vantris Energy are looking into a potential sale of their jointly owned Brazilian subsea services business, Seagems, as part of a strategic review. The two companies, which each…",
           "date": "2026-11-19",
@@ -9431,6 +9456,15 @@
           "date": "2026-11-19",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/19/borr-drillings-ceo-sees-encouraging-signs-in-rig-market-activity",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Philippines Advances Plans for Strategic Oil Reserves",
+          "summary": "The agreement was signed at the ASEAN summit and related meetings, which also advanced proposals for regional oil stockpiling cooperation.",
+          "date": "2026-11-19",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/philippines_advances_plans_for_strategic_oil_reserves-19-nov-2026-185121-article/?rss=true",
           "relevant": false,
           "region": "SEA"
         },
