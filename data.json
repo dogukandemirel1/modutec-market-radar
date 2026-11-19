@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T18:01:08Z",
+  "last_updated": "2026-11-19T19:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -297,6 +297,30 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Panama Files Criminal Complaint Tied to CK Hutchison Ports Dispute",
+          "summary": "Panama's comptroller general said on Wednesday it had filed a criminal complaint over suspected irregularities uncovered in an audit of a state contract with a unit of Hong Kong conglomerate CK Hutchison.",
+          "date": "2026-11-19",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/panama-files-criminal-complaint-tied-to-ck-hutchison-ports-dispute/",
+          "relevant": false
+        },
+        {
+          "title": "Seamec scores fresh Indian offshore installation award",
+          "summary": "Indian offshore services provider Seamec has secured a letter of award worth approximately $10.77m from the Indian subsidiary of PACC Offshore Services Holdings (POSH) for subsea installation work on the ONGC Pipeline…",
+          "date": "2026-11-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/seamec-scores-fresh-indian-offshore-installation-award/",
+          "relevant": false
+        },
+        {
+          "title": "Weatherford bags new deepwater drilling deal in Brazil",
+          "summary": "US oilfield services giant Weatherford has secured a contract from Constellation Oil Services to provide managed pressure drilling (MPD) technology for a deepwater exploration campaign offshore Brazil. The agreement…",
+          "date": "2026-11-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/weatherford-bags-new-deepwater-drilling-deal-in-brazil/",
+          "relevant": false
+        },
+        {
           "title": "Boskalis Subsea Services joins one of 'UK’s largest offshore decommissioning programs'",
           "summary": "Boskalis Subsea Services has secured a long-term contract with Apache North Sea for what is described as one of the UK’s largest offshore...",
           "date": "2026-11-19",
@@ -337,22 +361,6 @@
           "relevant": false
         },
         {
-          "title": "Seamec scores fresh Indian offshore installation award",
-          "summary": "Indian offshore services provider Seamec has secured a letter of award worth approximately $10.77m from the Indian subsidiary of PACC Offshore Services Holdings (POSH) for subsea installation work on the ONGC Pipeline…",
-          "date": "2026-11-19",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/seamec-scores-fresh-indian-offshore-installation-award/",
-          "relevant": false
-        },
-        {
-          "title": "Weatherford bags new deepwater drilling deal in Brazil",
-          "summary": "US oilfield services giant Weatherford has secured a contract from Constellation Oil Services to provide managed pressure drilling (MPD) technology for a deepwater exploration campaign offshore Brazil. The agreement…",
-          "date": "2026-11-19",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/weatherford-bags-new-deepwater-drilling-deal-in-brazil/",
-          "relevant": false
-        },
-        {
           "title": "Searenergy lands offshore wind commissioning deal in Poland",
           "summary": "German offshore services group Searenergy has secured a contract from Equinor and Polenergia for hook-up and commissioning work on two offshore substations at the Bałtyk 2 and Bałtyk 3 wind farms in the Polish Baltic…",
           "date": "2026-11-19",
@@ -366,14 +374,6 @@
           "date": "2026-11-18",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/china-oilfield-services-orders-59-offshore-vessels-in-1-6-billion-shipbuilding-deal/",
-          "relevant": false
-        },
-        {
-          "title": "Strike Threat Looms at Ports of Los Angeles and Long Beach as Labor Talks Stall",
-          "summary": "A potential strike at the nation’s busiest container port complex is back on the table after contract negotiations between waterfront employers and a union representing about 250 port security workers...",
-          "date": "2026-11-18",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/strike-threat-looms-at-ports-of-los-angeles-and-long-beach-as-labor-talks-stall/",
           "relevant": false
         },
         {
@@ -446,6 +446,14 @@
           "date": "2026-11-18",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544450-when-contractors-collide-keeping-offshore-energy-projects-on-schedule",
+          "relevant": false
+        },
+        {
+          "title": "Strike Threat Looms at Ports of Los Angeles and Long Beach as Labor Talks Stall",
+          "summary": "A potential strike at the nation’s busiest container port complex is back on the table after contract negotiations between waterfront employers and a union representing about 250 port security workers...",
+          "date": "2026-11-18",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/strike-threat-looms-at-ports-of-los-angeles-and-long-beach-as-labor-talks-stall/",
           "relevant": false
         },
         {
@@ -5529,6 +5537,22 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Bayesian Disaster Prompts Calls for Overhaul of Superyacht Safety Standards",
+          "summary": "British marine accident investigators are calling for changes to superyacht safety regulations after the sinking of the luxury sailing yacht Bayesian exposed gaps in vessel stability standards, liferaft requirements…",
+          "date": "2026-11-19",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/bayesian-disaster-prompts-calls-for-overhaul-of-superyacht-safety-standards/",
+          "relevant": false
+        },
+        {
+          "title": "Marinakis-backed Capital Tankers gets Oslo main board green light",
+          "summary": "Evangelos Marinakis-backed Capital Tankers has secured approval to move its shares to Oslo’s main stock market, eight months after making its Norwegian trading debut through a $500m equity placement. Oslo Børs confirmed…",
+          "date": "2026-11-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/marinakis-backed-capital-tankers-makes-move-to-oslo-main-board/",
+          "relevant": false
+        },
+        {
           "title": "2026 Delivers 'Double Major Surprise' to Oil Markets",
           "summary": "Analysts at Goldman Sachs, including Daan Struyven, noted that 2026 has delivered a 'double major surprise' to oil markets.",
           "date": "2026-11-19",
@@ -5542,14 +5566,6 @@
           "date": "2026-11-19",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544463-enquest-sells-uk-north-sea-assets-to-neo-next-in-960m-deal",
-          "relevant": false
-        },
-        {
-          "title": "Marinakis-backed Capital Tankers gets Oslo main board green light",
-          "summary": "Evangelos Marinakis-backed Capital Tankers has secured approval to move its shares to Oslo’s main stock market, eight months after making its Norwegian trading debut through a $500m equity placement. Oslo Børs confirmed…",
-          "date": "2026-11-19",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/marinakis-backed-capital-tankers-makes-move-to-oslo-main-board/",
           "relevant": false
         },
         {
@@ -8265,6 +8281,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Torm hits back at Hafnia over rejected merger bids",
+          "summary": "Danish product tanker giant Torm has hit back at Hafnia following its abandoned takeover pursuit, revealing that it rejected several merger proposals from its rival because they offered no meaningful premium and…",
+          "date": "2026-11-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/torm-hits-back-at-hafnia-over-rejected-merger-bids/",
+          "relevant": false
+        },
+        {
           "title": "Shell Divests West African Solar Unit",
           "summary": "'This transaction reflects Shell's ongoing work to high-grade its portfolio and focus on areas of the power value chain where it has differentiated capabilities, including asset-backed power trading and associated…",
           "date": "2026-11-19",
@@ -8278,14 +8302,6 @@
           "date": "2026-11-19",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544461-saipem-subsea7-target-early-2027-merger-completion",
-          "relevant": false
-        },
-        {
-          "title": "Torm hits back at Hafnia over rejected merger bids",
-          "summary": "Danish product tanker giant Torm has hit back at Hafnia following its abandoned takeover pursuit, revealing that it rejected several merger proposals from its rival because they offered no meaningful premium and…",
-          "date": "2026-11-19",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/torm-hits-back-at-hafnia-over-rejected-merger-bids/",
           "relevant": false
         },
         {
@@ -9505,6 +9521,24 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Stamford firms up 10 MR tankers in China",
+          "summary": "Singapore-based Stamford Shipping has firmed up an order for 10 MR product tankers at China’s Nantong CIMC Sinopacific Offshore & Engineering (CIMC SOE), with the yard also securing two vessels of the same design from…",
+          "date": "2026-11-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/stamford-firms-up-10-mr-tankers-in-china/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Paratus and Vantris explore sale of Brazilian subsea venture",
+          "summary": "Paratus Energy Services and Malaysia’s Vantris Energy are looking into a potential sale of their jointly owned Brazilian subsea services business, Seagems, as part of a strategic review. The two companies, which each…",
+          "date": "2026-11-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/paratus-and-vantris-explore-sale-of-brazilian-subsea-venture/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "$960 million deal enabling NEO NEXT+ to bring EnQuest’s UK North Sea business into its fold",
           "summary": "London Stock Exchange-listed energy firm EnQuest has decided to exit the UK upstream arena to strengthen its focus on Southeast Asia.",
           "date": "2026-11-19",
@@ -9546,24 +9580,6 @@
           "date": "2026-11-19",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544443-global-energy-exhibition-congress-vietnam-set-for-may-2027-debut",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Stamford firms up 10 MR tankers in China",
-          "summary": "Singapore-based Stamford Shipping has firmed up an order for 10 MR product tankers at China’s Nantong CIMC Sinopacific Offshore & Engineering (CIMC SOE), with the yard also securing two vessels of the same design from…",
-          "date": "2026-11-19",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/stamford-firms-up-10-mr-tankers-in-china/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Paratus and Vantris explore sale of Brazilian subsea venture",
-          "summary": "Paratus Energy Services and Malaysia’s Vantris Energy are looking into a potential sale of their jointly owned Brazilian subsea services business, Seagems, as part of a strategic review. The two companies, which each…",
-          "date": "2026-11-19",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/paratus-and-vantris-explore-sale-of-brazilian-subsea-venture/",
           "relevant": false,
           "region": "SEA"
         },
