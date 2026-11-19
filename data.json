@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T17:01:19Z",
+  "last_updated": "2026-11-19T18:01:08Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -310,6 +310,14 @@
           "date": "2026-11-19",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/saipem_posts_nearly_50_percent_yoy_increase_in_bookings-19-nov-2026-185126-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Raytheon awards Ursa Major and Avio USA contract for Tomahawk booster",
+          "summary": "Raytheon, an RTX business, has awarded Ursa Major and Avio USA a joint contract to design, develop, and qualify a new solid rocket motor booster for the Tomahawk cruise missile, the companies announced. The post…",
+          "date": "2026-11-19",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/raytheon-ursa-major-avio-tomahawk/",
           "relevant": false
         },
         {
@@ -9496,6 +9504,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "$960 million deal enabling NEO NEXT+ to bring EnQuest’s UK North Sea business into its fold",
+          "summary": "London Stock Exchange-listed energy firm EnQuest has decided to exit the UK upstream arena to strengthen its focus on Southeast Asia.",
+          "date": "2026-11-19",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/19/dollar960-million-deal-enabling-neo-next-to-bring-enquests-uk-north-sea-business-into-its-fold",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Borr Drilling’s CEO sees ‘encouraging signs’ in rig market activity",
           "summary": "Borr Drilling has highlighted improving shallow-water drilling demand in West Africa and Southeast Asia.",
