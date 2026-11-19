@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T12:01:09Z",
+  "last_updated": "2026-11-19T12:54:47Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8208,6 +8208,22 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "Torm hits back at Hafnia over rejected merger bids",
+          "summary": "Danish product tanker giant Torm has hit back at Hafnia following its abandoned takeover pursuit, revealing that it rejected several merger proposals from its rival because they offered no meaningful premium and…",
+          "date": "2026-11-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/torm-hits-back-at-hafnia-over-rejected-merger-bids/",
+          "relevant": false
+        },
+        {
+          "title": "Shell Divests West African Solar Unit",
+          "summary": "'This transaction reflects Shell's ongoing work to high-grade its portfolio and focus on areas of the power value chain where it has differentiated capabilities, including asset-backed power trading and associated…",
+          "date": "2026-11-19",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/shell_divests_west_african_solar_unit-19-nov-2026-185122-article/?rss=true",
+          "relevant": false
+        },
         {
           "title": "Saipem, Subsea7 Target Early 2027 Merger Completion",
           "summary": "Saipem and Subsea7 have secured approvals from 13 of the 16 relevant antitrust authorities for their proposed merger, with the companies continuing to target completion in early 2027…",
