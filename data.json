@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T10:01:16Z",
+  "last_updated": "2026-11-19T11:01:09Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -280,6 +280,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Weatherford bags new deepwater drilling deal in Brazil",
+          "summary": "US oilfield services giant Weatherford has secured a contract from Constellation Oil Services to provide managed pressure drilling (MPD) technology for a deepwater exploration campaign offshore Brazil. The agreement…",
+          "date": "2026-11-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/weatherford-bags-new-deepwater-drilling-deal-in-brazil/",
+          "relevant": false
+        },
         {
           "title": "Orlen, QatarEnergy Eye Fresh LNG Agreement After Contract Cancellation",
           "summary": "Poland's Orlen and QatarEnergy have begun talks on a new long-term liquefied natural gas supply deal days after the Polish group ended a decades-old contract, three…",
@@ -5465,6 +5473,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "EnQuest Sells UK North Sea Assets to NEO NEXT+ in $960M Deal",
+          "summary": "EnQuest has agreed to sell its UK upstream oil and gas business and associated infrastructure to NEO NEXT+ for up to $960 million, marking a major step in its strategic shift towards Southeast Asia…",
+          "date": "2026-11-19",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544463-enquest-sells-uk-north-sea-assets-to-neo-next-in-960m-deal",
+          "relevant": false
+        },
+        {
           "title": "Will shipping get its solar moment?",
           "summary": "The IMO has an opportunity to do for green shipping what governments once did for solar power. But watering down its Net-Zero Framework could squander that chance. Jude Lee from Transport & Environment writes for Splash…",
           "date": "2026-11-19",
@@ -9400,6 +9416,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Paratus and Vantris explore sale of Brazilian subsea venture",
+          "summary": "Paratus Energy Services and Malaysia’s Vantris Energy are looking into a potential sale of their jointly owned Brazilian subsea services business, Seagems, as part of a strategic review. The two companies, which each…",
+          "date": "2026-11-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/paratus-and-vantris-explore-sale-of-brazilian-subsea-venture/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Borr Drilling’s CEO sees ‘encouraging signs’ in rig market activity",
           "summary": "Borr Drilling has highlighted improving shallow-water drilling demand in West Africa and Southeast Asia.",
