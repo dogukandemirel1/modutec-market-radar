@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T14:01:03Z",
+  "last_updated": "2026-11-19T15:01:13Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -294,6 +294,14 @@
           "date": "2026-11-19",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/weatherford-bags-new-deepwater-drilling-deal-in-brazil/",
+          "relevant": false
+        },
+        {
+          "title": "Boskalis Subsea Services joins one of 'UK’s largest offshore decommissioning programs'",
+          "summary": "Boskalis Subsea Services has secured a long-term contract with Apache North Sea for what is described as one of the UK’s largest offshore...",
+          "date": "2026-11-19",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/19/boskalis-subsea-services-joins-one-of-uks-largest-offshore-decommissioning-programs",
           "relevant": false
         },
         {
@@ -5497,6 +5505,14 @@
           "relevant": false
         },
         {
+          "title": "2026 Delivers 'Double Major Surprise' to Oil Markets",
+          "summary": "Analysts at Goldman Sachs, including Daan Struyven, noted that 2026 has delivered a 'double major surprise' to oil markets.",
+          "date": "2026-11-19",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/2026_delivers_double_major_surprise_to_oil_markets-19-nov-2026-185123-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "EnQuest Sells UK North Sea Assets to NEO NEXT+ in $960M Deal",
           "summary": "EnQuest has agreed to sell its UK upstream oil and gas business and associated infrastructure to NEO NEXT+ for up to $960 million, marking a major step in its strategic shift towards Southeast Asia…",
           "date": "2026-11-19",
@@ -5553,19 +5569,19 @@
           "relevant": false
         },
         {
-          "title": "USA Strikes IRGC Site on Qeshm Island",
-          "summary": "American warplanes hit an Iranian missile launch site on Qeshm Island in the Persian Gulf on Tuesday, a U.S. military official said.",
-          "date": "2026-11-18",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/usa_strikes_irgc_site_on_qeshm_island-18-nov-2026-185116-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Gulf militaries rewrite procurement priorities",
           "summary": "Gulf Cooperation Council member states are assessing their defence needs in light of the US-Iran war and impact on the region. The post Gulf militaries rewrite procurement priorities appeared first on Naval Technology .",
           "date": "2026-11-18",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/analyst-comment/gulf-militaries-rewrite-procurement-priorities/",
+          "relevant": false
+        },
+        {
+          "title": "USA Strikes IRGC Site on Qeshm Island",
+          "summary": "American warplanes hit an Iranian missile launch site on Qeshm Island in the Persian Gulf on Tuesday, a U.S. military official said.",
+          "date": "2026-11-18",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/usa_strikes_irgc_site_on_qeshm_island-18-nov-2026-185116-article/?rss=true",
           "relevant": false
         },
         {
@@ -9502,15 +9518,6 @@
           "region": "SEA"
         },
         {
-          "title": "UAE’s ADNOC L&S Says One Crew Member Missing After Attack on Its Vessel in Hormuz",
-          "summary": "The United Arab Emirates' ADNOC L&S said on Wednesday that one crew member was missing and 11 injured after one of its vessels was attacked in the Strait of Hormuz on Tuesday.",
-          "date": "2026-11-18",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/uaes-adnoc-ls-says-one-crew-member-missing-after-attack-on-its-vessel-in-hormuz/",
-          "relevant": true,
-          "region": "UAE"
-        },
-        {
           "title": "Shell Increases Gas Production offshore Malaysia",
           "summary": "'Rosmari-Marjoram contributes to Shell's commitment to deliver upstream and integrated gas projects coming onstream between 2025 to 2030 with a total peak production of more than 1.4 million barrels of oil equivalent…",
           "date": "2026-11-18",
@@ -9527,6 +9534,15 @@
           "source_url": "https://www.rigzone.com/news/woodside_bags_10year_deal_to_supply_lng_to_trafigura-18-nov-2026-185111-article/?rss=true",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "UAE’s ADNOC L&S Says One Crew Member Missing After Attack on Its Vessel in Hormuz",
+          "summary": "The United Arab Emirates' ADNOC L&S said on Wednesday that one crew member was missing and 11 injured after one of its vessels was attacked in the Strait of Hormuz on Tuesday.",
+          "date": "2026-11-18",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/uaes-adnoc-ls-says-one-crew-member-missing-after-attack-on-its-vessel-in-hormuz/",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Shell starts production from Rosmari-Marjoram gas fields offshore Malaysia",
