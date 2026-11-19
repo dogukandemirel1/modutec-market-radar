@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T15:01:13Z",
+  "last_updated": "2026-11-19T16:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -302,6 +302,14 @@
           "date": "2026-11-19",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/19/boskalis-subsea-services-joins-one-of-uks-largest-offshore-decommissioning-programs",
+          "relevant": false
+        },
+        {
+          "title": "Saipem Posts Nearly 50 Percent YoY Increase in Bookings",
+          "summary": "'In addition, the numerous commercial opportunities currently in advanced negotiations reinforce our confidence that the 2026 order intake will exceed that of 2025'.",
+          "date": "2026-11-19",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/saipem_posts_nearly_50_percent_yoy_increase_in_bookings-19-nov-2026-185126-article/?rss=true",
           "relevant": false
         },
         {
@@ -9498,6 +9506,15 @@
           "source_url": "https://www.offshore-energy.biz/2026/11/19/borr-drillings-ceo-sees-encouraging-signs-in-rig-market-activity",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Another ADNOC Vessel Attacked",
+          "summary": "ADNOC L&S confirmed that one of its vessels was attacked while transiting the Strait of Hormuz on the evening of November 17.",
+          "date": "2026-11-19",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/another_adnoc_vessel_attacked-19-nov-2026-185127-article/?rss=true",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Philippines Advances Plans for Strategic Oil Reserves",
