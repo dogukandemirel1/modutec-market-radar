@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T16:01:03Z",
+  "last_updated": "2026-11-20T17:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -296,6 +296,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Carnival Orders Two LNG-Powered Cruise Ships in $2.2 Billion Fincantieri Deal",
+          "summary": "Carnival Corporation has signed a contract with Italian shipbuilding giant Fincantieri for two next-generation cruise ships, marking a shift toward smaller vessels designed to reach more destinations. The agreement…",
+          "date": "2026-11-20",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/carnival-orders-two-lng-powered-cruise-ships-in-2-2-billion-fincantieri-deal/",
+          "relevant": false
+        },
         {
           "title": "Seaway 7 lines up vessel trio for Scottish offshore wind project",
           "summary": "Offshore construction contractor Seaway 7 is preparing to deploy three vessels on SSE Renewables’ proposed 1.4GW Berwick Bank B offshore wind development in Scotland. The planned installation fleet comprises the Seaway…",
@@ -5617,6 +5625,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "IMO Finds Just $10.5 Billion in Maritime Climate Finance",
+          "summary": "A new study by the International Maritime Organization (IMO) has identified just $10.5 billion in direct maritime climate finance over a six-year period, accounting for only 0.14% of global climate...",
+          "date": "2026-11-20",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/imo-finds-just-10-5-billion-in-maritime-climate-finance/",
+          "relevant": false
+        },
+        {
           "title": "TechnipFMC scores double offshore Guyana",
           "summary": "TechnipFMC has won a contract worth between $500 million and $1 billion to deliver subsea production systems for ExxonMobil's recently sanctioned...",
           "date": "2026-11-20",
@@ -5689,14 +5705,6 @@
           "relevant": false
         },
         {
-          "title": "Shipping Industry Presses for Global IMO Climate Deal as Divisions Over Rules Persist",
-          "summary": "Nine major shipping associations are urging governments to reach an agreement on global greenhouse gas regulations, warning that continued uncertainty threatens investment in cleaner ships and alternative fuels ahead…",
-          "date": "2026-11-18",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/shipping-industry-presses-for-global-imo-climate-deal-as-divisions-over-rules-persist/",
-          "relevant": false
-        },
-        {
           "title": "EnQuest exits UK upstream in deal with NEO NEXT+",
           "summary": "EnQuest agreed to sell EnQuest Britain Ltd, which holds its UK upstream, midstream and decommissioning assets, to NEO NEXT+ Energy Upstream UK for up to $960 million. The buyer is part of NEO NEXT, formed from NEO…",
           "date": "2026-11-18",
@@ -5726,6 +5734,14 @@
           "date": "2026-11-18",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/analyst-comment/gulf-militaries-rewrite-procurement-priorities/",
+          "relevant": false
+        },
+        {
+          "title": "Shipping Industry Presses for Global IMO Climate Deal as Divisions Over Rules Persist",
+          "summary": "Nine major shipping associations are urging governments to reach an agreement on global greenhouse gas regulations, warning that continued uncertainty threatens investment in cleaner ships and alternative fuels ahead…",
+          "date": "2026-11-18",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/shipping-industry-presses-for-global-imo-climate-deal-as-divisions-over-rules-persist/",
           "relevant": false
         },
         {
