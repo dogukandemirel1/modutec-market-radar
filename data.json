@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T20:01:01Z",
+  "last_updated": "2026-11-20T21:01:11Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -342,6 +342,14 @@
           "date": "2026-11-20",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/20/1-mw-floating-wave-energy-converter-gets-green-light-for-test-site-deployment",
+          "relevant": false
+        },
+        {
+          "title": "Indian Refiners Race to Secure Oil Tankers",
+          "summary": "Indian refiners are rushing to lock in tankers on long-term contracts.",
+          "date": "2026-11-20",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/indian_refiners_race_to_secure_oil_tankers-20-nov-2026-185139-article/?rss=true",
           "relevant": false
         },
         {
