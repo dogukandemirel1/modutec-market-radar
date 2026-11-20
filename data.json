@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T12:01:06Z",
+  "last_updated": "2026-11-20T12:47:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -318,6 +318,14 @@
           "date": "2026-11-20",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/hunter-makes-offshore-move-with-jacktel-buyout-offer/",
+          "relevant": false
+        },
+        {
+          "title": "ExxonMobil Greenlights $4B Kizomba Revamp with Fresh Discovery off Angola",
+          "summary": "ExxonMobil and its partners in Angola's offshore Block 15 have approved an estimated $4 billion final investment decision (FID) for the redevelopment of Kizomba A and B fields…",
+          "date": "2026-11-20",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544497-exxonmobil-greenlights-4b-kizomba-revamp-with-fresh-discovery-off-angola",
           "relevant": false
         },
         {
