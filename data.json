@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T14:01:04Z",
+  "last_updated": "2026-11-20T15:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -321,6 +321,22 @@
           "relevant": false
         },
         {
+          "title": "FPSO revamp to begin next year as Navitas addresses contractor challenges",
+          "summary": "Sea Lion oil development remains on track, according to Navitas, which is working to replace contractors amid Argentina-related tensions.",
+          "date": "2026-11-20",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/20/fpso-revamp-to-begin-next-year-as-navitas-addresses-contractor-challenges",
+          "relevant": false
+        },
+        {
+          "title": "1 MW floating wave energy converter gets green light for test site deployment",
+          "summary": "WEDUSEA, a €19.6 million collaborative project bringing together 14 European partners, has secured a marine license that allows the installation...",
+          "date": "2026-11-20",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/20/1-mw-floating-wave-energy-converter-gets-green-light-for-test-site-deployment",
+          "relevant": false
+        },
+        {
           "title": "ExxonMobil Greenlights $4B Kizomba Revamp with Fresh Discovery off Angola",
           "summary": "ExxonMobil and its partners in Angola's offshore Block 15 have approved an estimated $4 billion final investment decision (FID) for the redevelopment of Kizomba A and B fields…",
           "date": "2026-11-20",
@@ -457,14 +473,6 @@
           "relevant": false
         },
         {
-          "title": "China Oilfield Services Orders 59 Offshore Vessels in $1.6 Billion Shipbuilding Deal",
-          "summary": "China Oilfield Services Limited (COSL) has signed contracts worth approximately $1.64 billion to build 59 offshore support vessels at three Chinese shipyards, marking a major investment in the country’s offshore...",
-          "date": "2026-11-18",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/china-oilfield-services-orders-59-offshore-vessels-in-1-6-billion-shipbuilding-deal/",
-          "relevant": false
-        },
-        {
           "title": "OMV targets late-November spud at Libya’s Marwa prospect",
           "summary": "OMV lined up its first exploration well at the Marwa prospect in Libya’s Contract Area 103/3 (NC74B), with drilling set to begin by the end of November. The well will target a depth of about 6,500 ft (1,981 m). OMV…",
           "date": "2026-11-18",
@@ -526,6 +534,14 @@
           "date": "2026-11-18",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/tkms-german-meko-a-200/",
+          "relevant": false
+        },
+        {
+          "title": "China Oilfield Services Orders 59 Offshore Vessels in $1.6 Billion Shipbuilding Deal",
+          "summary": "China Oilfield Services Limited (COSL) has signed contracts worth approximately $1.64 billion to build 59 offshore support vessels at three Chinese shipyards, marking a major investment in the country’s offshore...",
+          "date": "2026-11-18",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/china-oilfield-services-orders-59-offshore-vessels-in-1-6-billion-shipbuilding-deal/",
           "relevant": false
         },
         {
@@ -8358,6 +8374,22 @@
           "date": "2026-11-20",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/subsea-7-seeks-buyer-for-pipelay-vessel-ahead-of-saipem-merger/",
+          "relevant": false
+        },
+        {
+          "title": "Azule Energy wraps up divestment of two Angolan offshore blocks",
+          "summary": "Etu Energias has strengthened its position in Angola’s offshore energy industry with the acquisition of Azule Energy’s interests in two blocks.",
+          "date": "2026-11-20",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/20/azule-energy-wraps-up-divestment-of-two-angolan-offshore-blocks",
+          "relevant": false
+        },
+        {
+          "title": "Energy Transfer Seals Vaquero Acquisition",
+          "summary": "'The transaction is expected to further strengthen Energy Transfer's Permian footprint by increasing access to growing natural gas and NGL production volumes while enhancing connectivity to the Partnership's broader…",
+          "date": "2026-11-20",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/energy_transfer_seals_vaquero_acquisition-20-nov-2026-185135-article/?rss=true",
           "relevant": false
         },
         {
