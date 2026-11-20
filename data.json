@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T15:01:05Z",
+  "last_updated": "2026-11-20T16:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -481,14 +481,6 @@
           "relevant": false
         },
         {
-          "title": "Saipem lines up Scarabeo 9 work offshore Egypt and Suriname",
-          "summary": "Burullus Gas Company and TotalEnergies awarded Saipem two offshore drilling contracts for the semisubmersible Scarabeo 9, extending the rig’s work program into 2027 and 2028. In Egypt, the Scarabeo 9 will drill three…",
-          "date": "2026-11-18",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/saipem-lines-up-scarabeo-9-work-offshore-egypt-and-suriname-81093",
-          "relevant": false
-        },
-        {
           "title": "Greece: Dodecanese islands' link to mainland awarded €228.9 million EU grant",
           "summary": "An interconnector that will link Greece's Dodecanese islands to the mainland electricity grid has secured the largest grant ever awarded under...",
           "date": "2026-11-18",
@@ -534,6 +526,14 @@
           "date": "2026-11-18",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/tkms-german-meko-a-200/",
+          "relevant": false
+        },
+        {
+          "title": "Saipem lines up Scarabeo 9 work offshore Egypt and Suriname",
+          "summary": "Burullus Gas Company and TotalEnergies awarded Saipem two offshore drilling contracts for the semisubmersible Scarabeo 9, extending the rig’s work program into 2027 and 2028. In Egypt, the Scarabeo 9 will drill three…",
+          "date": "2026-11-18",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/saipem-lines-up-scarabeo-9-work-offshore-egypt-and-suriname-81093",
           "relevant": false
         },
         {
@@ -9741,15 +9741,6 @@
           "region": "UAE"
         },
         {
-          "title": "Shell starts production from Rosmari-Marjoram gas fields offshore Malaysia",
-          "summary": "Sarawak Shell Berhad (SSB), a subsidiary of Shell, brought the Rosmari and Marjoram deepwater gas fields onstream 220 km off the coast of Sarawak, Malaysia. Gas from the fields will be piped to a new onshore gas plant…",
-          "date": "2026-11-17",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/shell-starts-production-from-rosmari-marjoram-gas-fields-offshore-malaysia-81090",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Shell kicks off gas production from its deepwater project in Southeast Asia",
           "summary": "Shell has brought online a natural gas development off the coast of Malaysia, which is home to an offshore platform designed to run on solar energy.",
           "date": "2026-11-17",
@@ -9774,6 +9765,15 @@
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/oil-prices-fall-supply-surplus-gulf-tensions/",
           "relevant": false
+        },
+        {
+          "title": "Shell starts production from Rosmari-Marjoram gas fields offshore Malaysia",
+          "summary": "Sarawak Shell Berhad (SSB), a subsidiary of Shell, brought the Rosmari and Marjoram deepwater gas fields onstream 220 km off the coast of Sarawak, Malaysia. Gas from the fields will be piped to a new onshore gas plant…",
+          "date": "2026-11-17",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/shell-starts-production-from-rosmari-marjoram-gas-fields-offshore-malaysia-81090",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Shell Brings Deepwater Gas Fields Onstream off Malaysia",
