@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T08:01:04Z",
+  "last_updated": "2026-11-20T09:01:08Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -297,6 +297,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Hunter makes offshore move with Jacktel buyout offer",
+          "summary": "Oslo-listed Hunter Group has launched a NOK1.63bn ($168m) takeover bid for Norwegian offshore accommodation player Jacktel, looking to put its windfall from lucrative VLCC charter contracts into a longer-term business…",
+          "date": "2026-11-20",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/hunter-makes-offshore-move-with-jacktel-buyout-offer/",
+          "relevant": false
+        },
+        {
           "title": "US contractors win subsea package on Australian LNG megaproject",
           "summary": "A consortium comprising US offshore contractors McDermott and Baker Hughes has secured a subsea engineering, procurement, construction and installation (EPCI) contract from Japan’s Inpex for the next development phase…",
           "date": "2026-11-20",
@@ -334,14 +342,6 @@
           "date": "2026-11-19",
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/panama-files-criminal-complaint-tied-to-ck-hutchison-ports-dispute/",
-          "relevant": false
-        },
-        {
-          "title": "Seamec scores fresh Indian offshore installation award",
-          "summary": "Indian offshore services provider Seamec has secured a letter of award worth approximately $10.77m from the Indian subsidiary of PACC Offshore Services Holdings (POSH) for subsea installation work on the ONGC Pipeline…",
-          "date": "2026-11-19",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/seamec-scores-fresh-indian-offshore-installation-award/",
           "relevant": false
         },
         {
@@ -401,6 +401,14 @@
           "relevant": false
         },
         {
+          "title": "Seamec scores fresh Indian offshore installation award",
+          "summary": "Indian offshore services provider Seamec has secured a letter of award worth approximately $10.77m from the Indian subsidiary of PACC Offshore Services Holdings (POSH) for subsea installation work on the ONGC Pipeline…",
+          "date": "2026-11-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/seamec-scores-fresh-indian-offshore-installation-award/",
+          "relevant": false
+        },
+        {
           "title": "Weatherford bags new deepwater drilling deal in Brazil",
           "summary": "US oilfield services giant Weatherford has secured a contract from Constellation Oil Services to provide managed pressure drilling (MPD) technology for a deepwater exploration campaign offshore Brazil. The agreement…",
           "date": "2026-11-19",
@@ -438,14 +446,6 @@
           "date": "2026-11-18",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/saipem-lines-up-scarabeo-9-work-offshore-egypt-and-suriname-81093",
-          "relevant": false
-        },
-        {
-          "title": "TKMS and BAAINBw sign contract for four additional MEKO A-200 DEU frigates",
-          "summary": "German naval shipbuilder TKMS and the Federal Office of Bundeswehr Equipment, Information Technology and In-Service Support (BAAINBw) have signed the contract for the second batch of four additional MEKO A-200 DEU…",
-          "date": "2026-11-18",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/tkms-and-baainbw-sign-contract-for-four-additional-meko-a-200-deu-frigates/",
           "relevant": false
         },
         {
@@ -502,6 +502,14 @@
           "date": "2026-11-18",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544450-when-contractors-collide-keeping-offshore-energy-projects-on-schedule",
+          "relevant": false
+        },
+        {
+          "title": "TKMS and BAAINBw sign contract for four additional MEKO A-200 DEU frigates",
+          "summary": "German naval shipbuilder TKMS and the Federal Office of Bundeswehr Equipment, Information Technology and In-Service Support (BAAINBw) have signed the contract for the second batch of four additional MEKO A-200 DEU…",
+          "date": "2026-11-18",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/tkms-and-baainbw-sign-contract-for-four-additional-meko-a-200-deu-frigates/",
           "relevant": false
         },
         {
@@ -5577,14 +5585,6 @@
           "relevant": false
         },
         {
-          "title": "Marinakis-backed Capital Tankers gets Oslo main board green light",
-          "summary": "Evangelos Marinakis-backed Capital Tankers has secured approval to move its shares to Oslo’s main stock market, eight months after making its Norwegian trading debut through a $500m equity placement. Oslo Børs confirmed…",
-          "date": "2026-11-19",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/marinakis-backed-capital-tankers-makes-move-to-oslo-main-board/",
-          "relevant": false
-        },
-        {
           "title": "2026 Delivers 'Double Major Surprise' to Oil Markets",
           "summary": "Analysts at Goldman Sachs, including Daan Struyven, noted that 2026 has delivered a 'double major surprise' to oil markets.",
           "date": "2026-11-19",
@@ -5598,6 +5598,14 @@
           "date": "2026-11-19",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544463-enquest-sells-uk-north-sea-assets-to-neo-next-in-960m-deal",
+          "relevant": false
+        },
+        {
+          "title": "Marinakis-backed Capital Tankers gets Oslo main board green light",
+          "summary": "Evangelos Marinakis-backed Capital Tankers has secured approval to move its shares to Oslo’s main stock market, eight months after making its Norwegian trading debut through a $500m equity placement. Oslo Børs confirmed…",
+          "date": "2026-11-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/marinakis-backed-capital-tankers-makes-move-to-oslo-main-board/",
           "relevant": false
         },
         {
@@ -8289,14 +8297,6 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
-          "title": "Torm hits back at Hafnia over rejected merger bids",
-          "summary": "Danish product tanker giant Torm has hit back at Hafnia following its abandoned takeover pursuit, revealing that it rejected several merger proposals from its rival because they offered no meaningful premium and…",
-          "date": "2026-11-19",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/torm-hits-back-at-hafnia-over-rejected-merger-bids/",
-          "relevant": false
-        },
-        {
           "title": "Shell Divests West African Solar Unit",
           "summary": "'This transaction reflects Shell's ongoing work to high-grade its portfolio and focus on areas of the power value chain where it has differentiated capabilities, including asset-backed power trading and associated…",
           "date": "2026-11-19",
@@ -8310,6 +8310,14 @@
           "date": "2026-11-19",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544461-saipem-subsea7-target-early-2027-merger-completion",
+          "relevant": false
+        },
+        {
+          "title": "Torm hits back at Hafnia over rejected merger bids",
+          "summary": "Danish product tanker giant Torm has hit back at Hafnia following its abandoned takeover pursuit, revealing that it rejected several merger proposals from its rival because they offered no meaningful premium and…",
+          "date": "2026-11-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/torm-hits-back-at-hafnia-over-rejected-merger-bids/",
           "relevant": false
         },
         {
@@ -9529,11 +9537,11 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Stamford firms up 10 MR tankers in China",
-          "summary": "Singapore-based Stamford Shipping has firmed up an order for 10 MR product tankers at China’s Nantong CIMC Sinopacific Offshore & Engineering (CIMC SOE), with the yard also securing two vessels of the same design from…",
-          "date": "2026-11-19",
+          "title": "Tsakos weighs Singapore listing in Asian capital push",
+          "summary": "Greek tanker owner Tsakos Energy Navigation (TEN) is weighing a second stock market listing in Singapore, looking to tap Asian investors after a bumper year for tanker earnings. The New York-listed company disclosed on…",
+          "date": "2026-11-20",
           "source_name": "Splash247",
-          "source_url": "https://splash247.com/stamford-firms-up-10-mr-tankers-in-china/",
+          "source_url": "https://splash247.com/tsakos-weighs-singapore-listing-in-asian-capital-push/",
           "relevant": false,
           "region": "SEA"
         },
@@ -9579,6 +9587,15 @@
           "date": "2026-11-19",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544443-global-energy-exhibition-congress-vietnam-set-for-may-2027-debut",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Stamford firms up 10 MR tankers in China",
+          "summary": "Singapore-based Stamford Shipping has firmed up an order for 10 MR product tankers at China’s Nantong CIMC Sinopacific Offshore & Engineering (CIMC SOE), with the yard also securing two vessels of the same design from…",
+          "date": "2026-11-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/stamford-firms-up-10-mr-tankers-in-china/",
           "relevant": false,
           "region": "SEA"
         },
