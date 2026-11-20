@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T21:01:11Z",
+  "last_updated": "2026-11-20T22:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -329,6 +329,14 @@
           "relevant": false
         },
         {
+          "title": "Italy’s Next-Generation DDG (NG DDG / DDX): First Platform and Combat System Details",
+          "summary": "Following the €3.7 billion contract signing, Naval News reveals the first platform, sensor, and weapon details of the Italian Navy’s new 13,500-tonne NG DDG (previously known as DDX). The post Italy’s Next-Generation…",
+          "date": "2026-11-20",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/features/2026/11/italy-next-generation-ddg-ddx-combat-system-details/",
+          "relevant": false
+        },
+        {
           "title": "FPSO revamp to begin next year as Navitas addresses contractor challenges",
           "summary": "Sea Lion oil development remains on track, according to Navitas, which is working to replace contractors amid Argentina-related tensions.",
           "date": "2026-11-20",
@@ -401,6 +409,14 @@
           "relevant": false
         },
         {
+          "title": "ADSB to relocate shipyard as it eyes shipbuilding expansion",
+          "summary": "Today, Abu Dhabi Ship Building (ADSB) has three major shipbuilding contracts from three different nations. These projects are keeping the workforce almost fully occupied but, with future expansion in mind, ADSB is…",
+          "date": "2026-11-19",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/adsb-to-relocate-shipyard-as-it-eyes-shipbuilding-expansion/",
+          "relevant": true
+        },
+        {
           "title": "Boskalis Subsea Services joins one of 'UK’s largest offshore decommissioning programs'",
           "summary": "Boskalis Subsea Services has secured a long-term contract with Apache North Sea for what is described as one of the UK’s largest offshore...",
           "date": "2026-11-19",
@@ -447,14 +463,6 @@
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544467-cosl-places-1-64b-order-for-59-offshore-support-vessels",
           "relevant": false
-        },
-        {
-          "title": "ADSB to relocate shipyard as it eyes shipbuilding expansion",
-          "summary": "Today, Abu Dhabi Ship Building (ADSB) has three major shipbuilding contracts from three different nations. These projects are keeping the workforce almost fully occupied but, with future expansion in mind, ADSB is…",
-          "date": "2026-11-19",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/adsb-to-relocate-shipyard-as-it-eyes-shipbuilding-expansion/",
-          "relevant": true
         },
         {
           "title": "Orlen, QatarEnergy Eye Fresh LNG Agreement After Contract Cancellation",
@@ -8449,19 +8457,19 @@
           "relevant": false
         },
         {
-          "title": "Trump Calls Venezuela an 'Acquisition'",
-          "summary": "President Donald Trump referred to Venezuela as an 'acquisition' while touting an increasing supply of U.S. energy he said will benefit American allies.",
-          "date": "2026-11-18",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/trump_calls_venezuela_an_acquisition-18-nov-2026-185114-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "South Korea Launches Fifth FFX Batch-III Frigate, ROKS Pyeongtaek",
           "summary": "Hanwha Ocean launched South Korea’s fifth FFX Batch-III frigate, ROKS Pyeongtaek (FFG-833), featuring upgraded electronic warfare and cybersecurity systems. ROK Navy and Defense Acquisition Program Administration(DAPA)…",
           "date": "2026-11-18",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/11/south-korea-launches-fifth-ffx-batch-iii-frigate-roks-pyeongtaek/",
+          "relevant": false
+        },
+        {
+          "title": "Trump Calls Venezuela an 'Acquisition'",
+          "summary": "President Donald Trump referred to Venezuela as an 'acquisition' while touting an increasing supply of U.S. energy he said will benefit American allies.",
+          "date": "2026-11-18",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/trump_calls_venezuela_an_acquisition-18-nov-2026-185114-article/?rss=true",
           "relevant": false
         },
         {
