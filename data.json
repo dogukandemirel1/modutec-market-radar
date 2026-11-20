@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T18:01:02Z",
+  "last_updated": "2026-11-20T19:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -393,14 +393,6 @@
           "relevant": false
         },
         {
-          "title": "Panama Files Criminal Complaint Tied to CK Hutchison Ports Dispute",
-          "summary": "Panama's comptroller general said on Wednesday it had filed a criminal complaint over suspected irregularities uncovered in an audit of a state contract with a unit of Hong Kong conglomerate CK Hutchison.",
-          "date": "2026-11-19",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/panama-files-criminal-complaint-tied-to-ck-hutchison-ports-dispute/",
-          "relevant": false
-        },
-        {
           "title": "Boskalis Subsea Services joins one of 'UK’s largest offshore decommissioning programs'",
           "summary": "Boskalis Subsea Services has secured a long-term contract with Apache North Sea for what is described as one of the UK’s largest offshore...",
           "date": "2026-11-19",
@@ -430,6 +422,14 @@
           "date": "2026-11-19",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/raytheon-ursa-major-avio-tomahawk/",
+          "relevant": false
+        },
+        {
+          "title": "Panama Files Criminal Complaint Tied to CK Hutchison Ports Dispute",
+          "summary": "Panama's comptroller general said on Wednesday it had filed a criminal complaint over suspected irregularities uncovered in an audit of a state contract with a unit of Hong Kong conglomerate CK Hutchison.",
+          "date": "2026-11-19",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/panama-files-criminal-complaint-tied-to-ck-hutchison-ports-dispute/",
           "relevant": false
         },
         {
@@ -5625,6 +5625,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "US Treasury Presses Singapore and Malaysia on Iran Sanctions Compliance",
+          "summary": "US Treasury Department officials met with government authorities in Singapore and Malaysia this week, including regulators and national security bodies, to warn of potential risks they could face if they do not comply…",
+          "date": "2026-11-20",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/us-treasury-presses-singapore-and-malaysia-on-iran-sanctions-compliance/",
+          "relevant": false
+        },
+        {
           "title": "IMO Finds Just $10.5 Billion in Maritime Climate Finance",
           "summary": "A new study by the International Maritime Organization (IMO) has identified just $10.5 billion in direct maritime climate finance over a six-year period, accounting for only 0.14% of global climate...",
           "date": "2026-11-20",
@@ -5665,19 +5673,19 @@
           "relevant": false
         },
         {
-          "title": "Bayesian Disaster Prompts Calls for Overhaul of Superyacht Safety Standards",
-          "summary": "British marine accident investigators are calling for changes to superyacht safety regulations after the sinking of the luxury sailing yacht Bayesian exposed gaps in vessel stability standards, liferaft requirements…",
-          "date": "2026-11-19",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/bayesian-disaster-prompts-calls-for-overhaul-of-superyacht-safety-standards/",
-          "relevant": false
-        },
-        {
           "title": "2026 Delivers 'Double Major Surprise' to Oil Markets",
           "summary": "Analysts at Goldman Sachs, including Daan Struyven, noted that 2026 has delivered a 'double major surprise' to oil markets.",
           "date": "2026-11-19",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/2026_delivers_double_major_surprise_to_oil_markets-19-nov-2026-185123-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Bayesian Disaster Prompts Calls for Overhaul of Superyacht Safety Standards",
+          "summary": "British marine accident investigators are calling for changes to superyacht safety regulations after the sinking of the luxury sailing yacht Bayesian exposed gaps in vessel stability standards, liferaft requirements…",
+          "date": "2026-11-19",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/bayesian-disaster-prompts-calls-for-overhaul-of-superyacht-safety-standards/",
           "relevant": false
         },
         {
@@ -9648,6 +9656,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Houthis Order Ships to Leave Saudi Red Sea Ports After Hodeidah Airstrikes",
+          "summary": "The Saudi-led coalition fighting Yemen's Iran-aligned Houthis said it had struck the Red Sea port of Hodeidah to destroy Houthi capabilities on Friday, as the militants warned airlines to avoid Saudi airspace, pledging…",
+          "date": "2026-11-20",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/houthis-order-ships-to-leave-saudi-red-sea-ports-after-hodeidah-airstrikes/",
+          "relevant": false,
+          "region": "KSA"
+        },
         {
           "title": "Tsakos weighs Singapore listing in Asian capital push",
           "summary": "Greek tanker owner Tsakos Energy Navigation (TEN) is weighing a second stock market listing in Singapore, looking to tap Asian investors after a bumper year for tanker earnings. The New York-listed company disclosed on…",
