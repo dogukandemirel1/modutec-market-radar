@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T03:01:03Z",
+  "last_updated": "2026-11-20T04:00:58Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -321,14 +321,6 @@
           "relevant": false
         },
         {
-          "title": "ADSB to relocate shipyard as it eyes shipbuilding expansion",
-          "summary": "Today, Abu Dhabi Ship Building (ADSB) has three major shipbuilding contracts from three different nations. These projects are keeping the workforce almost fully occupied but, with future expansion in mind, ADSB is…",
-          "date": "2026-11-19",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/adsb-to-relocate-shipyard-as-it-eyes-shipbuilding-expansion/",
-          "relevant": true
-        },
-        {
           "title": "Boskalis Subsea Services joins one of 'UK’s largest offshore decommissioning programs'",
           "summary": "Boskalis Subsea Services has secured a long-term contract with Apache North Sea for what is described as one of the UK’s largest offshore...",
           "date": "2026-11-19",
@@ -377,6 +369,14 @@
           "relevant": false
         },
         {
+          "title": "ADSB to relocate shipyard as it eyes shipbuilding expansion",
+          "summary": "Today, Abu Dhabi Ship Building (ADSB) has three major shipbuilding contracts from three different nations. These projects are keeping the workforce almost fully occupied but, with future expansion in mind, ADSB is…",
+          "date": "2026-11-19",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/adsb-to-relocate-shipyard-as-it-eyes-shipbuilding-expansion/",
+          "relevant": true
+        },
+        {
           "title": "Searenergy lands offshore wind commissioning deal in Poland",
           "summary": "German offshore services group Searenergy has secured a contract from Equinor and Polenergia for hook-up and commissioning work on two offshore substations at the Bałtyk 2 and Bałtyk 3 wind farms in the Polish Baltic…",
           "date": "2026-11-19",
@@ -406,14 +406,6 @@
           "date": "2026-11-18",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/saipem-lines-up-scarabeo-9-work-offshore-egypt-and-suriname-81093",
-          "relevant": false
-        },
-        {
-          "title": "TKMS and BAAINBw sign contract for four additional MEKO A-200 DEU frigates",
-          "summary": "German naval shipbuilder TKMS and the Federal Office of Bundeswehr Equipment, Information Technology and In-Service Support (BAAINBw) have signed the contract for the second batch of four additional MEKO A-200 DEU…",
-          "date": "2026-11-18",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/tkms-and-baainbw-sign-contract-for-four-additional-meko-a-200-deu-frigates/",
           "relevant": false
         },
         {
@@ -470,6 +462,14 @@
           "date": "2026-11-18",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544450-when-contractors-collide-keeping-offshore-energy-projects-on-schedule",
+          "relevant": false
+        },
+        {
+          "title": "TKMS and BAAINBw sign contract for four additional MEKO A-200 DEU frigates",
+          "summary": "German naval shipbuilder TKMS and the Federal Office of Bundeswehr Equipment, Information Technology and In-Service Support (BAAINBw) have signed the contract for the second batch of four additional MEKO A-200 DEU…",
+          "date": "2026-11-18",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/tkms-and-baainbw-sign-contract-for-four-additional-meko-a-200-deu-frigates/",
           "relevant": false
         },
         {
@@ -8281,14 +8281,6 @@
           "relevant": false
         },
         {
-          "title": "South Korea Launches Fifth FFX Batch-III Frigate, ROKS Pyeongtaek",
-          "summary": "Hanwha Ocean launched South Korea’s fifth FFX Batch-III frigate, ROKS Pyeongtaek (FFG-833), featuring upgraded electronic warfare and cybersecurity systems. ROK Navy and Defense Acquisition Program Administration(DAPA)…",
-          "date": "2026-11-18",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/south-korea-launches-fifth-ffx-batch-iii-frigate-roks-pyeongtaek/",
-          "relevant": false
-        },
-        {
           "title": "Trump Calls Venezuela an 'Acquisition'",
           "summary": "President Donald Trump referred to Venezuela as an 'acquisition' while touting an increasing supply of U.S. energy he said will benefit American allies.",
           "date": "2026-11-18",
@@ -8302,6 +8294,14 @@
           "date": "2026-11-18",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/enquest_exits_uk_pivots_to_se_asia-18-nov-2026-185110-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "South Korea Launches Fifth FFX Batch-III Frigate, ROKS Pyeongtaek",
+          "summary": "Hanwha Ocean launched South Korea’s fifth FFX Batch-III frigate, ROKS Pyeongtaek (FFG-833), featuring upgraded electronic warfare and cybersecurity systems. ROK Navy and Defense Acquisition Program Administration(DAPA)…",
+          "date": "2026-11-18",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/south-korea-launches-fifth-ffx-batch-iii-frigate-roks-pyeongtaek/",
           "relevant": false
         },
         {
