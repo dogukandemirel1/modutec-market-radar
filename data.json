@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T10:01:05Z",
+  "last_updated": "2026-11-20T11:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -297,6 +297,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Seaway 7 lines up vessel trio for Scottish offshore wind project",
+          "summary": "Offshore construction contractor Seaway 7 is preparing to deploy three vessels on SSE Renewables’ proposed 1.4GW Berwick Bank B offshore wind development in Scotland. The planned installation fleet comprises the Seaway…",
+          "date": "2026-11-20",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/seaway-7-lines-up-vessel-trio-for-scottish-offshore-wind-project/",
+          "relevant": false
+        },
+        {
           "title": "Scotland greenlights 1 GW floating offshore wind project",
           "summary": "The Scottish Government has granted offshore planning consent for the 1GW Muir Mhòr floating wind farm being developed by Fred. Olsen Seawind off the Aberdeenshire coast. Located approximately 63 km east of Peterhead…",
           "date": "2026-11-20",
@@ -313,19 +321,19 @@
           "relevant": false
         },
         {
-          "title": "US contractors win subsea package on Australian LNG megaproject",
-          "summary": "A consortium comprising US offshore contractors McDermott and Baker Hughes has secured a subsea engineering, procurement, construction and installation (EPCI) contract from Japan’s Inpex for the next development phase…",
-          "date": "2026-11-20",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/us-contractors-win-subsea-package-on-australian-lng-megaproject/",
-          "relevant": false
-        },
-        {
           "title": "China’s COOEC Lands $800M QatarEnergy Subsea Contract",
           "summary": "China's Offshore Oil Engineering Company (COOEC) has signed a contract worth approximately $800 million with QatarEnergy for the engineering, procurement, construction…",
           "date": "2026-11-20",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544493-china-s-cooec-lands-800m-qatarenergy-subsea-contract",
+          "relevant": false
+        },
+        {
+          "title": "US contractors win subsea package on Australian LNG megaproject",
+          "summary": "A consortium comprising US offshore contractors McDermott and Baker Hughes has secured a subsea engineering, procurement, construction and installation (EPCI) contract from Japan’s Inpex for the next development phase…",
+          "date": "2026-11-20",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/us-contractors-win-subsea-package-on-australian-lng-megaproject/",
           "relevant": false
         },
         {
@@ -359,14 +367,6 @@
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/panama-files-criminal-complaint-tied-to-ck-hutchison-ports-dispute/",
           "relevant": false
-        },
-        {
-          "title": "ADSB to relocate shipyard as it eyes shipbuilding expansion",
-          "summary": "Today, Abu Dhabi Ship Building (ADSB) has three major shipbuilding contracts from three different nations. These projects are keeping the workforce almost fully occupied but, with future expansion in mind, ADSB is…",
-          "date": "2026-11-19",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/adsb-to-relocate-shipyard-as-it-eyes-shipbuilding-expansion/",
-          "relevant": true
         },
         {
           "title": "Boskalis Subsea Services joins one of 'UK’s largest offshore decommissioning programs'",
@@ -407,6 +407,14 @@
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544467-cosl-places-1-64b-order-for-59-offshore-support-vessels",
           "relevant": false
+        },
+        {
+          "title": "ADSB to relocate shipyard as it eyes shipbuilding expansion",
+          "summary": "Today, Abu Dhabi Ship Building (ADSB) has three major shipbuilding contracts from three different nations. These projects are keeping the workforce almost fully occupied but, with future expansion in mind, ADSB is…",
+          "date": "2026-11-19",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/adsb-to-relocate-shipyard-as-it-eyes-shipbuilding-expansion/",
+          "relevant": true
         },
         {
           "title": "Orlen, QatarEnergy Eye Fresh LNG Agreement After Contract Cancellation",
@@ -8361,19 +8369,19 @@
           "relevant": false
         },
         {
-          "title": "South Korea Launches Fifth FFX Batch-III Frigate, ROKS Pyeongtaek",
-          "summary": "Hanwha Ocean launched South Korea’s fifth FFX Batch-III frigate, ROKS Pyeongtaek (FFG-833), featuring upgraded electronic warfare and cybersecurity systems. ROK Navy and Defense Acquisition Program Administration(DAPA)…",
-          "date": "2026-11-18",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/south-korea-launches-fifth-ffx-batch-iii-frigate-roks-pyeongtaek/",
-          "relevant": false
-        },
-        {
           "title": "Trump Calls Venezuela an 'Acquisition'",
           "summary": "President Donald Trump referred to Venezuela as an 'acquisition' while touting an increasing supply of U.S. energy he said will benefit American allies.",
           "date": "2026-11-18",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/trump_calls_venezuela_an_acquisition-18-nov-2026-185114-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "South Korea Launches Fifth FFX Batch-III Frigate, ROKS Pyeongtaek",
+          "summary": "Hanwha Ocean launched South Korea’s fifth FFX Batch-III frigate, ROKS Pyeongtaek (FFG-833), featuring upgraded electronic warfare and cybersecurity systems. ROK Navy and Defense Acquisition Program Administration(DAPA)…",
+          "date": "2026-11-18",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/south-korea-launches-fifth-ffx-batch-iii-frigate-roks-pyeongtaek/",
           "relevant": false
         },
         {
