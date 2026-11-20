@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T06:01:02Z",
+  "last_updated": "2026-11-20T07:01:10Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -297,6 +297,38 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "US contractors win subsea package on Australian LNG megaproject",
+          "summary": "A consortium comprising US offshore contractors McDermott and Baker Hughes has secured a subsea engineering, procurement, construction and installation (EPCI) contract from Japan’s Inpex for the next development phase…",
+          "date": "2026-11-20",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/us-contractors-win-subsea-package-on-australian-lng-megaproject/",
+          "relevant": false
+        },
+        {
+          "title": "ExxonMobil hands TechnipFMC fresh Guyana subsea work",
+          "summary": "Offshore engineering company TechnipFMC has secured two contracts from ExxonMobil for subsea equipment on the $12.5bn Longtail gas-condensate development in Guyana’s Stabroek block. The first award covers project…",
+          "date": "2026-11-20",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/exxonmobil-hands-technipfmc-fresh-guyana-subsea-work/",
+          "relevant": false
+        },
+        {
+          "title": "Borr declares Prospector 5 total loss with $200m insurance cover",
+          "summary": "Norwegian offshore drilling contractor Borr Drilling has formally declared its Prospector 5 jackup a total loss following the rig’s sinking offshore Gabon last month, with the company expecting an insurance payment of…",
+          "date": "2026-11-20",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/borr-declares-prospector-5-total-loss-with-200m-insurance-cover/",
+          "relevant": false
+        },
+        {
+          "title": "Boskalis secures subsea decom work across two UK fields",
+          "summary": "Dutch marine contractor Boskalis has secured a long-term offshore decommissioning contract from Apache North Sea covering subsea infrastructure at the Forties and Beryl fields in the UK North Sea. The award, secured…",
+          "date": "2026-11-20",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/boskalis-secures-subsea-decom-work-across-two-uk-fields/",
+          "relevant": false
+        },
+        {
           "title": "Panama Files Criminal Complaint Tied to CK Hutchison Ports Dispute",
           "summary": "Panama's comptroller general said on Wednesday it had filed a criminal complaint over suspected irregularities uncovered in an audit of a state contract with a unit of Hong Kong conglomerate CK Hutchison.",
           "date": "2026-11-19",
@@ -310,14 +342,6 @@
           "date": "2026-11-19",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/seamec-scores-fresh-indian-offshore-installation-award/",
-          "relevant": false
-        },
-        {
-          "title": "Weatherford bags new deepwater drilling deal in Brazil",
-          "summary": "US oilfield services giant Weatherford has secured a contract from Constellation Oil Services to provide managed pressure drilling (MPD) technology for a deepwater exploration campaign offshore Brazil. The agreement…",
-          "date": "2026-11-19",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/weatherford-bags-new-deepwater-drilling-deal-in-brazil/",
           "relevant": false
         },
         {
@@ -374,6 +398,14 @@
           "date": "2026-11-19",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544460-orlen-qatarenergy-eye-fresh-lng-agreement-after-contract-cancellation",
+          "relevant": false
+        },
+        {
+          "title": "Weatherford bags new deepwater drilling deal in Brazil",
+          "summary": "US oilfield services giant Weatherford has secured a contract from Constellation Oil Services to provide managed pressure drilling (MPD) technology for a deepwater exploration campaign offshore Brazil. The agreement…",
+          "date": "2026-11-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/weatherford-bags-new-deepwater-drilling-deal-in-brazil/",
           "relevant": false
         },
         {
@@ -9506,15 +9538,6 @@
           "region": "SEA"
         },
         {
-          "title": "Paratus and Vantris explore sale of Brazilian subsea venture",
-          "summary": "Paratus Energy Services and Malaysia’s Vantris Energy are looking into a potential sale of their jointly owned Brazilian subsea services business, Seagems, as part of a strategic review. The two companies, which each…",
-          "date": "2026-11-19",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/paratus-and-vantris-explore-sale-of-brazilian-subsea-venture/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "$960 million deal enabling NEO NEXT+ to bring EnQuest’s UK North Sea business into its fold",
           "summary": "London Stock Exchange-listed energy firm EnQuest has decided to exit the UK upstream arena to strengthen its focus on Southeast Asia.",
           "date": "2026-11-19",
@@ -9556,6 +9579,15 @@
           "date": "2026-11-19",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544443-global-energy-exhibition-congress-vietnam-set-for-may-2027-debut",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Paratus and Vantris explore sale of Brazilian subsea venture",
+          "summary": "Paratus Energy Services and Malaysia’s Vantris Energy are looking into a potential sale of their jointly owned Brazilian subsea services business, Seagems, as part of a strategic review. The two companies, which each…",
+          "date": "2026-11-19",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/paratus-and-vantris-explore-sale-of-brazilian-subsea-venture/",
           "relevant": false,
           "region": "SEA"
         },
