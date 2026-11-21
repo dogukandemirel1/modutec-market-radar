@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T16:01:04Z",
+  "last_updated": "2026-11-21T17:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5576,6 +5576,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "Russian Military-Linked Cargo Ship Burns After Suspected Drone Strike in Gulf of Finland",
+          "summary": "A Russian cargo ship linked to Moscow’s military logistics network caught fire after a drone strike in the Gulf of Finland on Saturday, drifting into Finnish territorial waters and triggering...",
+          "date": "2026-11-21",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/russian-military-linked-cargo-ship-burns-after-suspected-drone-strike-in-gulf-of-finland/",
+          "relevant": false
+        },
         {
           "title": "US Treasury Presses Singapore and Malaysia on Iran Sanctions Compliance",
           "summary": "US Treasury Department officials met with government authorities in Singapore and Malaysia this week, including regulators and national security bodies, to warn of potential risks they could face if they do not comply…",
