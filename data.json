@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T16:01:01Z",
+  "last_updated": "2026-11-22T17:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5473,14 +5473,6 @@
           "relevant": false
         },
         {
-          "title": "IMO Finds Just $10.5 Billion in Maritime Climate Finance",
-          "summary": "A new study by the International Maritime Organization (IMO) has identified just $10.5 billion in direct maritime climate finance over a six-year period, accounting for only 0.14% of global climate...",
-          "date": "2026-11-20",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/imo-finds-just-10-5-billion-in-maritime-climate-finance/",
-          "relevant": false
-        },
-        {
           "title": "TechnipFMC scores double offshore Guyana",
           "summary": "TechnipFMC has won a contract worth between $500 million and $1 billion to deliver subsea production systems for ExxonMobil's recently sanctioned...",
           "date": "2026-11-20",
@@ -5502,6 +5494,14 @@
           "date": "2026-11-20",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544490-cheniere-gets-federal-approval-for-major-sabine-pass-lng-expansion",
+          "relevant": false
+        },
+        {
+          "title": "IMO Finds Just $10.5 Billion in Maritime Climate Finance",
+          "summary": "A new study by the International Maritime Organization (IMO) has identified just $10.5 billion in direct maritime climate finance over a six-year period, accounting for only 0.14% of global climate...",
+          "date": "2026-11-20",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/imo-finds-just-10-5-billion-in-maritime-climate-finance/",
           "relevant": false
         },
         {
