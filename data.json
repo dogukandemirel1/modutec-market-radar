@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T11:01:09Z",
+  "last_updated": "2026-11-22T12:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -296,6 +296,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "TechnipFMC to Supply Subsea Production Systems for Longtail Project",
+          "summary": "ExxonMobil awarded TechnipFMC a $500 million-$1 billion contract to supply production systems for the Longtail project in the Stabroek block offshore Guyana.",
+          "date": "2026-11-22",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/technipfmc_to_supply_subsea_production_systems_for_longtail_project-22-nov-2026-185136-article/?rss=true",
+          "relevant": false
+        },
         {
           "title": "Carnival Orders Two LNG-Powered Cruise Ships in $2.2 Billion Fincantieri Deal",
           "summary": "Carnival Corporation has signed a contract with Italian shipbuilding giant Fincantieri for two next-generation cruise ships, marking a shift toward smaller vessels designed to reach more destinations. The agreement…",
@@ -9400,20 +9408,20 @@
           "region": "UAE"
         },
         {
-          "title": "Philippines Advances Plans for Strategic Oil Reserves",
-          "summary": "The agreement was signed at the ASEAN summit and related meetings, which also advanced proposals for regional oil stockpiling cooperation.",
-          "date": "2026-11-19",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/philippines_advances_plans_for_strategic_oil_reserves-19-nov-2026-185121-article/?rss=true",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Global Energy Exhibition & Congress Vietnam Set for May 2027 Debut",
           "summary": "Supported by Vietnam’s Ministry of Industry and Trade, the event will welcome 30,000+ energy professionals, 800 exhibitors, 1,000 conference delegates and 450 speakers Event…",
           "date": "2026-11-19",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544443-global-energy-exhibition-congress-vietnam-set-for-may-2027-debut",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Philippines Advances Plans for Strategic Oil Reserves",
+          "summary": "The agreement was signed at the ASEAN summit and related meetings, which also advanced proposals for regional oil stockpiling cooperation.",
+          "date": "2026-11-19",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/philippines_advances_plans_for_strategic_oil_reserves-19-nov-2026-185121-article/?rss=true",
           "relevant": false,
           "region": "SEA"
         },
