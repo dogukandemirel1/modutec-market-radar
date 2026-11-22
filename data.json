@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T08:01:10Z",
+  "last_updated": "2026-11-22T09:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5502,6 +5502,14 @@
           "date": "2026-11-19",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/2026_delivers_double_major_surprise_to_oil_markets-19-nov-2026-185123-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "UGI board approves plan to pursue global LPG business spin-off",
+          "summary": "UGI said that its board has unanimously approved a plan to pursue a spin-off of its global liquefied petroleum gas (LPG) business.",
+          "date": "2026-11-19",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/ugi-board-global-lpg-business-spin-off/",
           "relevant": false
         },
         {
