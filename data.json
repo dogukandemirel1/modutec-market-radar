@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T18:01:01Z",
+  "last_updated": "2026-11-22T19:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -305,14 +305,6 @@
           "relevant": false
         },
         {
-          "title": "Carnival Orders Two LNG-Powered Cruise Ships in $2.2 Billion Fincantieri Deal",
-          "summary": "Carnival Corporation has signed a contract with Italian shipbuilding giant Fincantieri for two next-generation cruise ships, marking a shift toward smaller vessels designed to reach more destinations. The agreement…",
-          "date": "2026-11-20",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/carnival-orders-two-lng-powered-cruise-ships-in-2-2-billion-fincantieri-deal/",
-          "relevant": false
-        },
-        {
           "title": "Seaway 7 lines up vessel trio for Scottish offshore wind project",
           "summary": "Offshore construction contractor Seaway 7 is preparing to deploy three vessels on SSE Renewables’ proposed 1.4GW Berwick Bank B offshore wind development in Scotland. The planned installation fleet comprises the Seaway…",
           "date": "2026-11-20",
@@ -374,6 +366,14 @@
           "date": "2026-11-20",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544493-china-s-cooec-lands-800m-qatarenergy-subsea-contract",
+          "relevant": false
+        },
+        {
+          "title": "Carnival Orders Two LNG-Powered Cruise Ships in $2.2 Billion Fincantieri Deal",
+          "summary": "Carnival Corporation has signed a contract with Italian shipbuilding giant Fincantieri for two next-generation cruise ships, marking a shift toward smaller vessels designed to reach more destinations. The agreement…",
+          "date": "2026-11-20",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/carnival-orders-two-lng-powered-cruise-ships-in-2-2-billion-fincantieri-deal/",
           "relevant": false
         },
         {
