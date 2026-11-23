@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T07:01:02Z",
+  "last_updated": "2026-11-23T08:01:10Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -297,35 +297,27 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "COOEC lands $800m QatarEnergy offshore contract",
+          "summary": "China’s Offshore Oil Engineering Company (COOEC) has secured an engineering, procurement, construction and installation contract worth approximately $800m from QatarEnergy for work on the Maydan Mahzam offshore oilfield…",
+          "date": "2026-11-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/cooec-lands-800m-qatarenergy-offshore-contract/",
+          "relevant": false
+        },
+        {
+          "title": "ExxonMobil and partners approve $4bn investment in Angola’s Block 15",
+          "summary": "ExxonMobil and its partners in Angola's Block 15 have agreed on a final investment decision (FID) valued at approximately $4bn to redevelop the Kizomba A and Kizomba B fields, as well as to develop the Likembe field.",
+          "date": "2026-11-23",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/exxonmobil-partners-4bn-angolas-block-15/",
+          "relevant": false
+        },
+        {
           "title": "TechnipFMC to Supply Subsea Production Systems for Longtail Project",
           "summary": "ExxonMobil awarded TechnipFMC a $500 million-$1 billion contract to supply production systems for the Longtail project in the Stabroek block offshore Guyana.",
           "date": "2026-11-22",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/technipfmc_to_supply_subsea_production_systems_for_longtail_project-22-nov-2026-185136-article/?rss=true",
-          "relevant": false
-        },
-        {
-          "title": "Seaway 7 lines up vessel trio for Scottish offshore wind project",
-          "summary": "Offshore construction contractor Seaway 7 is preparing to deploy three vessels on SSE Renewables’ proposed 1.4GW Berwick Bank B offshore wind development in Scotland. The planned installation fleet comprises the Seaway…",
-          "date": "2026-11-20",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/seaway-7-lines-up-vessel-trio-for-scottish-offshore-wind-project/",
-          "relevant": false
-        },
-        {
-          "title": "Scotland greenlights 1 GW floating offshore wind project",
-          "summary": "The Scottish Government has granted offshore planning consent for the 1GW Muir Mhòr floating wind farm being developed by Fred. Olsen Seawind off the Aberdeenshire coast. Located approximately 63 km east of Peterhead…",
-          "date": "2026-11-20",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/scotland-greenlights-1-gw-floating-offshore-wind-project/",
-          "relevant": true
-        },
-        {
-          "title": "Hunter makes offshore move with Jacktel buyout offer",
-          "summary": "Oslo-listed Hunter Group has launched a NOK1.63bn ($168m) takeover bid for Norwegian offshore accommodation player Jacktel, looking to put its windfall from lucrative VLCC charter contracts into a longer-term business…",
-          "date": "2026-11-20",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/hunter-makes-offshore-move-with-jacktel-buyout-offer/",
           "relevant": false
         },
         {
@@ -366,6 +358,30 @@
           "date": "2026-11-20",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544493-china-s-cooec-lands-800m-qatarenergy-subsea-contract",
+          "relevant": false
+        },
+        {
+          "title": "Seaway 7 lines up vessel trio for Scottish offshore wind project",
+          "summary": "Offshore construction contractor Seaway 7 is preparing to deploy three vessels on SSE Renewables’ proposed 1.4GW Berwick Bank B offshore wind development in Scotland. The planned installation fleet comprises the Seaway…",
+          "date": "2026-11-20",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/seaway-7-lines-up-vessel-trio-for-scottish-offshore-wind-project/",
+          "relevant": false
+        },
+        {
+          "title": "Scotland greenlights 1 GW floating offshore wind project",
+          "summary": "The Scottish Government has granted offshore planning consent for the 1GW Muir Mhòr floating wind farm being developed by Fred. Olsen Seawind off the Aberdeenshire coast. Located approximately 63 km east of Peterhead…",
+          "date": "2026-11-20",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/scotland-greenlights-1-gw-floating-offshore-wind-project/",
+          "relevant": true
+        },
+        {
+          "title": "Hunter makes offshore move with Jacktel buyout offer",
+          "summary": "Oslo-listed Hunter Group has launched a NOK1.63bn ($168m) takeover bid for Norwegian offshore accommodation player Jacktel, looking to put its windfall from lucrative VLCC charter contracts into a longer-term business…",
+          "date": "2026-11-20",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/hunter-makes-offshore-move-with-jacktel-buyout-offer/",
           "relevant": false
         },
         {
@@ -801,19 +817,19 @@
           "relevant": false
         },
         {
-          "title": "Energos puts Hanwha Power in charge of FSRU conversion with another on the cards",
-          "summary": "This deal with Energos Infrastructure to transform an LNG carrier into an FSRU is Hanwha Power’s second turnkey FSRU conversion contract.",
-          "date": "2026-11-16",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/2026/11/16/energos-puts-hanwha-power-in-charge-of-fsru-conversion-with-another-on-the-cards",
-          "relevant": false
-        },
-        {
           "title": "HD Hyundai and Anduril launch 600t autonomous surface vessel",
           "summary": "HD Hyundai Heavy Industries (HHI) has launched an autonomous surface vessel (ASV) developed in partnership with US defence contractor Anduril Industries. The post HD Hyundai and Anduril launch 600t autonomous surface…",
           "date": "2026-11-16",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/hd-hyundai-anduril-asv/",
+          "relevant": false
+        },
+        {
+          "title": "Energos puts Hanwha Power in charge of FSRU conversion with another on the cards",
+          "summary": "This deal with Energos Infrastructure to transform an LNG carrier into an FSRU is Hanwha Power’s second turnkey FSRU conversion contract.",
+          "date": "2026-11-16",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/16/energos-puts-hanwha-power-in-charge-of-fsru-conversion-with-another-on-the-cards",
           "relevant": false
         },
         {
@@ -5313,6 +5329,30 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "No safe harbour as maritime war spreads beyond Black Sea",
+          "summary": "The maritime war between Russia and Ukraine has expanded far beyond the Black Sea, with a Russian naval corvette sunk in Libya and a sanctioned Russian cargo ship attacked in the Baltic over the weekend. The Russian…",
+          "date": "2026-11-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/no-safe-harbour-as-maritime-war-spreads-beyond-black-sea/",
+          "relevant": false
+        },
+        {
+          "title": "Tanker inferno greets UN oceans advocate’s swim through Hormuz",
+          "summary": "Three tankers have been hit by projectiles in the Strait of Hormuz in the space of 15 hours as more images emerge of the huge marine damage the nine-month war is having on the marine environment. The Joint Maritime…",
+          "date": "2026-11-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/tanker-inferno-greets-un-oceans-advocates-swim-through-hormuz/",
+          "relevant": false
+        },
+        {
+          "title": "Canada clears Equinor’s $10bn offshore oil development",
+          "summary": "Canada’s federal and Newfoundland and Labrador governments have approved Equinor’s development plan for the C$14bn ($10bn) Bay du Nord offshore oil project, clearing a major regulatory hurdle ahead of a final investment…",
+          "date": "2026-11-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/canada-clears-equinors-10bn-offshore-oil-development/",
+          "relevant": false
+        },
+        {
           "title": "Russian Military-Linked Cargo Ship Burns After Suspected Drone Strike in Gulf of Finland",
           "summary": "A Russian cargo ship linked to Moscow’s military logistics network caught fire after a drone strike in the Gulf of Finland on Saturday, drifting into Finnish territorial waters and triggering...",
           "date": "2026-11-21",
@@ -7977,6 +8017,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "1974-built rig changes hands as Dolphin Drilling and SPM forge joint venture for drilling jobs in India",
+          "summary": "With the sale of a 52-year-old semi-submersible out of the way, Dolphin Drilling and SPM have taken steps to create an India-focused joint venture.",
+          "date": "2026-11-23",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/23/1974-built-rig-changes-hands-as-dolphin-drilling-and-spm-forge-joint-venture-for-drilling-jobs-in-india",
+          "relevant": false
+        },
+        {
           "title": "Subsea 7 seeks buyer for pipelay vessel ahead of Saipem merger",
           "summary": "Norwegian offshore engineering contractor Subsea 7 has begun identifying a buyer for its pipelay and heavy-lift vessel Seven Borealis, which it must divest as part of its planned merger with Saipem. The company…",
           "date": "2026-11-20",
@@ -9139,15 +9187,6 @@
           "region": "KSA"
         },
         {
-          "title": "Tsakos weighs Singapore listing in Asian capital push",
-          "summary": "Greek tanker owner Tsakos Energy Navigation (TEN) is weighing a second stock market listing in Singapore, looking to tap Asian investors after a bumper year for tanker earnings. The New York-listed company disclosed on…",
-          "date": "2026-11-20",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/tsakos-weighs-singapore-listing-in-asian-capital-push/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Oil Prices Rise as Houthi Strikes Revive Supply Disruption Fears",
           "summary": "Oil prices rose on Friday but were set for a weekly decline as concerns over supply disruptions grew following Houthi attacks on Saudi Arabia's capital Riyadh and…",
           "date": "2026-11-20",
@@ -9155,6 +9194,15 @@
           "source_url": "https://www.oedigital.com/news/544488-oil-prices-rise-as-houthi-strikes-revive-supply-disruption-fears",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Tsakos weighs Singapore listing in Asian capital push",
+          "summary": "Greek tanker owner Tsakos Energy Navigation (TEN) is weighing a second stock market listing in Singapore, looking to tap Asian investors after a bumper year for tanker earnings. The New York-listed company disclosed on…",
+          "date": "2026-11-20",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/tsakos-weighs-singapore-listing-in-asian-capital-push/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "$960 million deal enabling NEO NEXT+ to bring EnQuest’s UK North Sea business into its fold",
