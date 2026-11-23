@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T11:01:10Z",
+  "last_updated": "2026-11-23T12:01:08Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -593,19 +593,19 @@
           "relevant": false
         },
         {
-          "title": "SBM Offshore wins FPSO contracts from ExxonMobil for Longtail project",
-          "summary": "SBM Offshore has won contracts from ExxonMobil Guyana, a subsidiary of ExxonMobil, to build and install a floating production, storage and offloading vessel (FPSO) for the Longtail development project offshore Guyana.",
-          "date": "2026-11-18",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/sbm-offshore-fpso-exxonmobil-longtail/",
-          "relevant": false
-        },
-        {
           "title": "TKMS signs contract for four additional German MEKO A-200 frigates",
           "summary": "Thyssenkrupp Marine Systems (TKMS) has signed an agreement with Germany to build four more MEKO A-200 DEU frigates. The post TKMS signs contract for four additional German MEKO A-200 frigates appeared first on Naval…",
           "date": "2026-11-18",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/tkms-german-meko-a-200/",
+          "relevant": false
+        },
+        {
+          "title": "SBM Offshore wins FPSO contracts from ExxonMobil for Longtail project",
+          "summary": "SBM Offshore has won contracts from ExxonMobil Guyana, a subsidiary of ExxonMobil, to build and install a floating production, storage and offloading vessel (FPSO) for the Longtail development project offshore Guyana.",
+          "date": "2026-11-18",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/sbm-offshore-fpso-exxonmobil-longtail/",
           "relevant": false
         },
         {
@@ -5377,14 +5377,6 @@
           "relevant": false
         },
         {
-          "title": "COP31 collapse casts shadow over shipping’s net-zero showdown",
-          "summary": "Global climate negotiations have collapsed in Turkey just as shipping’s fiercely contested decarbonisation talks resume at the International Maritime Organization (IMO) in London. The COP31 summit in Antalya ended on…",
-          "date": "2026-11-23",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/cop31-collapse-casts-shadow-over-shippings-net-zero-showdown/",
-          "relevant": false
-        },
-        {
           "title": "$4.4 billion play for ConocoPhillips’ Norwegian oil & gas assets and UK infrastructure expands Vår Energi’s North Sea footprint",
           "summary": "Vår Energi is acquiring ConocoPhillips’ Norwegian business and related UK infrastructure, strengthening its position as 'Europe’s largest independent E&P company.'",
           "date": "2026-11-23",
@@ -5406,6 +5398,14 @@
           "date": "2026-11-23",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544513-v-r-energi-strikes-4-4b-deal-for-conocophillips-norway-assets",
+          "relevant": false
+        },
+        {
+          "title": "COP31 collapse casts shadow over shipping’s net-zero showdown",
+          "summary": "Global climate negotiations have collapsed in Turkey just as shipping’s fiercely contested decarbonisation talks resume at the International Maritime Organization (IMO) in London. The COP31 summit in Antalya ended on…",
+          "date": "2026-11-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/cop31-collapse-casts-shadow-over-shippings-net-zero-showdown/",
           "relevant": false
         },
         {
@@ -8086,6 +8086,14 @@
           "date": "2026-11-23",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/23/1974-built-rig-changes-hands-as-dolphin-drilling-and-spm-forge-joint-venture-for-drilling-jobs-in-india",
+          "relevant": false
+        },
+        {
+          "title": "Etu Energias acquires interests in Angola’s offshore blocks 14 and 14K",
+          "summary": "Etu Energias, via its subsidiary Etu Energias Block 14, has acquired a 20% participating interest in Block 14 and a 10% interest in Block 14K, located offshore Angola.",
+          "date": "2026-11-23",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/etu-energias-angolas-offshore-blocks-14-14k/",
           "relevant": false
         },
         {
