@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T12:01:08Z",
+  "last_updated": "2026-11-23T13:01:08Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -326,6 +326,14 @@
           "date": "2026-11-23",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/exxonmobil-partners-4bn-angolas-block-15/",
+          "relevant": false
+        },
+        {
+          "title": "Arabian Drilling Seals $400M Offshore Vessel Deal with KJO",
+          "summary": "Arabian Drilling has signed a $400 million (SAR 1.5 billion) contract with Khafji Joint Operations (KJO) to provide and operate two self-propelled offshore vessels…",
+          "date": "2026-11-23",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544520-arabian-drilling-seals-400m-offshore-vessel-deal-with-kjo",
           "relevant": false
         },
         {
@@ -5361,19 +5369,19 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Ukraine Sinks Russian Warship in Libya as Conflict Spreads Beyond Europe",
+          "summary": "Ukraine sank a Russian naval corvette in a Libyan port using naval drones on Sunday, the day after a drone strike on a Russian military-linked cargo ship in the Gulf of Finland, President Volodymyr Zelenskiy said.",
+          "date": "2026-11-23",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/ukraine-sinks-russian-warship-in-libya-as-conflict-spreads-beyond-europe/",
+          "relevant": false
+        },
+        {
           "title": "No safe harbour as maritime war spreads beyond Black Sea",
           "summary": "The maritime war between Russia and Ukraine has expanded far beyond the Black Sea, with a Russian naval corvette sunk in Libya and a sanctioned Russian cargo ship attacked in the Baltic over the weekend. The Russian…",
           "date": "2026-11-23",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/no-safe-harbour-as-maritime-war-spreads-beyond-black-sea/",
-          "relevant": false
-        },
-        {
-          "title": "Tanker inferno greets UN oceans advocate’s swim through Hormuz",
-          "summary": "Three tankers have been hit by projectiles in the Strait of Hormuz in the space of 15 hours as more images emerge of the huge damage the nine-month war is having on the marine environment. The Joint Maritime Information…",
-          "date": "2026-11-23",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/tanker-inferno-greets-un-oceans-advocates-swim-through-hormuz/",
           "relevant": false
         },
         {
@@ -5401,6 +5409,14 @@
           "relevant": false
         },
         {
+          "title": "Tanker inferno greets UN oceans advocate’s swim through Hormuz",
+          "summary": "Three tankers have been hit by projectiles in the Strait of Hormuz in the space of 15 hours as more images emerge of the huge damage the nine-month war is having on the marine environment. The Joint Maritime Information…",
+          "date": "2026-11-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/tanker-inferno-greets-un-oceans-advocates-swim-through-hormuz/",
+          "relevant": false
+        },
+        {
           "title": "COP31 collapse casts shadow over shipping’s net-zero showdown",
           "summary": "Global climate negotiations have collapsed in Turkey just as shipping’s fiercely contested decarbonisation talks resume at the International Maritime Organization (IMO) in London. The COP31 summit in Antalya ended on…",
           "date": "2026-11-23",
@@ -5425,14 +5441,6 @@
           "relevant": false
         },
         {
-          "title": "US Treasury Presses Singapore and Malaysia on Iran Sanctions Compliance",
-          "summary": "US Treasury Department officials met with government authorities in Singapore and Malaysia this week, including regulators and national security bodies, to warn of potential risks they could face if they do not comply…",
-          "date": "2026-11-20",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/us-treasury-presses-singapore-and-malaysia-on-iran-sanctions-compliance/",
-          "relevant": false
-        },
-        {
           "title": "TechnipFMC scores double offshore Guyana",
           "summary": "TechnipFMC has won a contract worth between $500 million and $1 billion to deliver subsea production systems for ExxonMobil's recently sanctioned...",
           "date": "2026-11-20",
@@ -5446,6 +5454,14 @@
           "date": "2026-11-20",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544492-sentinel-s-2-1b-texas-gulflink-project-faces-regulatory-setback",
+          "relevant": false
+        },
+        {
+          "title": "US Treasury Presses Singapore and Malaysia on Iran Sanctions Compliance",
+          "summary": "US Treasury Department officials met with government authorities in Singapore and Malaysia this week, including regulators and national security bodies, to warn of potential risks they could face if they do not comply…",
+          "date": "2026-11-20",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/us-treasury-presses-singapore-and-malaysia-on-iran-sanctions-compliance/",
           "relevant": false
         },
         {
@@ -8097,6 +8113,14 @@
           "relevant": false
         },
         {
+          "title": "Dolphin Drilling Closes Rig Sale, Signs India JV Deal with SPM Energy",
+          "summary": "Dolphin Drilling has completed the sale of its Blackford Dolphin semi-submersible drilling rig and signed a joint venture agreement with SPM Energy Shipping to pursue…",
+          "date": "2026-11-23",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544521-dolphin-drilling-closes-rig-sale-signs-india-jv-deal-with-spm-energy",
+          "relevant": false
+        },
+        {
           "title": "Azule Energy wraps up divestment of two Angolan offshore blocks",
           "summary": "Etu Energias has strengthened its position in Angola’s offshore energy industry with the acquisition of Azule Energy’s interests in two blocks.",
           "date": "2026-11-20",
@@ -9240,6 +9264,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Precious Shipping secures year-long ultramax charter",
+          "summary": "Thailand’s Precious Shipping has secured another index-linked ultramax charter with Singapore’s PACC Line, fixing the 2015-built Sarita Naree for up to 13 months at a current equivalent rate of around $23,700 per day…",
+          "date": "2026-11-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/precious-shipping-secures-year-long-ultramax-charter/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Saudi Arabia's Fossil Fuel Stance at Center of COP31 Collapse",
           "summary": "As the COP31 climate conference drifted into what proved to be record overtime, a negotiator from a small island state complained that a promised meeting with the…",
