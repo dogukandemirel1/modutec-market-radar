@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T16:01:05Z",
+  "last_updated": "2026-11-23T17:01:08Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8,6 +8,14 @@
       "short_title": "Day-Rates",
       "description": "Benchmark day-rate trends for jackups, floaters and offshore support vessels across key regions.",
       "items": [
+        {
+          "title": "Dolphin Drilling completes sale of semisubmersible Blackford Dolphin",
+          "summary": "Dolphin Drilling finalized the transfer of the semisubmersible Blackford Dolphin to Voyage Shipping, a guaranteed nominee of SPM Energy Shipping, on 20 November 2026. The company received $10 million at closing, with a…",
+          "date": "2026-11-23",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/dolphin-drilling-completes-sale-of-semisubmersible-blackford-dolphin-81235",
+          "relevant": false
+        },
         {
           "title": "Amplitude starts Nestor-1 drilling in Otway Basin with Transocean Equinox",
           "summary": "Amplitude Energy spudded the Nestor-1 exploration well in the offshore Otway Basin on 18 November 2026 using the semisubmersible Transocean Equinox. Nestor-1 is the final well in the operator’s East Coast Supply Project…",
@@ -577,14 +585,6 @@
           "relevant": false
         },
         {
-          "title": "OMV targets late-November spud at Libya’s Marwa prospect",
-          "summary": "OMV lined up its first exploration well at the Marwa prospect in Libya’s Contract Area 103/3 (NC74B), with drilling set to begin by the end of November. The well will target a depth of about 6,500 ft (1,981 m). OMV…",
-          "date": "2026-11-18",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/omv-targets-late-november-spud-at-libyas-marwa-prospect-81095",
-          "relevant": false
-        },
-        {
           "title": "Greece: Dodecanese islands' link to mainland awarded €228.9 million EU grant",
           "summary": "An interconnector that will link Greece's Dodecanese islands to the mainland electricity grid has secured the largest grant ever awarded under...",
           "date": "2026-11-18",
@@ -622,6 +622,14 @@
           "date": "2026-11-18",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/tkms-german-meko-a-200/",
+          "relevant": false
+        },
+        {
+          "title": "OMV targets late-November spud at Libya’s Marwa prospect",
+          "summary": "OMV lined up its first exploration well at the Marwa prospect in Libya’s Contract Area 103/3 (NC74B), with drilling set to begin by the end of November. The well will target a depth of about 6,500 ft (1,981 m). OMV…",
+          "date": "2026-11-18",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/omv-targets-late-november-spud-at-libyas-marwa-prospect-81095",
           "relevant": false
         },
         {
@@ -5385,6 +5393,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Drone-Hit Russian Cargo Ship Leaves Finnish Waters Despite Sanctions Hold",
+          "summary": "The Russian cargo ship Sparta II, severely damaged in a suspected Ukrainian drone attack in the Gulf of Finland, has been towed out of Finnish waters following a multinational firefighting...",
+          "date": "2026-11-23",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/drone-hit-russian-cargo-ship-leaves-finnish-waters-despite-sanctions-hold/",
+          "relevant": false
+        },
+        {
           "title": "Ukraine Sinks Russian Warship in Libya as Conflict Spreads Beyond Europe",
           "summary": "Ukraine sank a Russian naval corvette in a Libyan port using naval drones on Sunday, the day after a drone strike on a Russian military-linked cargo ship in the Gulf of Finland, President Volodymyr Zelenskiy said.",
           "date": "2026-11-23",
@@ -5569,14 +5585,6 @@
           "relevant": false
         },
         {
-          "title": "EnQuest exits UK upstream in deal with NEO NEXT+",
-          "summary": "EnQuest agreed to sell EnQuest Britain Ltd, which holds its UK upstream, midstream and decommissioning assets, to NEO NEXT+ Energy Upstream UK for up to $960 million. The buyer is part of NEO NEXT, formed from NEO…",
-          "date": "2026-11-18",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/enquest-exits-uk-upstream-in-deal-with-neo-next-81098",
-          "relevant": false
-        },
-        {
           "title": "Orlen spreads its wings across Central and Eastern Europe with new gas pacts",
           "summary": "U.S. LNG is expected to reach more European energy markets as Orlen’s new partnerships strengthen regional cooperation.",
           "date": "2026-11-18",
@@ -5598,6 +5606,14 @@
           "date": "2026-11-18",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/analyst-comment/gulf-militaries-rewrite-procurement-priorities/",
+          "relevant": false
+        },
+        {
+          "title": "EnQuest exits UK upstream in deal with NEO NEXT+",
+          "summary": "EnQuest agreed to sell EnQuest Britain Ltd, which holds its UK upstream, midstream and decommissioning assets, to NEO NEXT+ Energy Upstream UK for up to $960 million. The buyer is part of NEO NEXT, formed from NEO…",
+          "date": "2026-11-18",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/enquest-exits-uk-upstream-in-deal-with-neo-next-81098",
           "relevant": false
         },
         {
@@ -8129,6 +8145,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "INPEX greenlights five-well Ichthys LNG Phase 2c development",
+          "summary": "The Ichthys Joint Venture approved the next phase of offshore development at the INPEX-operated Ichthys LNG project offshore Western Australia. Known as Phase 2c Part 1, the development will include five production…",
+          "date": "2026-11-23",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/inpex-greenlights-five-well-ichthys-lng-phase-2c-development-81232",
+          "relevant": false
+        },
+        {
           "title": "1974-built rig changes hands as Dolphin Drilling and SPM forge joint venture for drilling jobs in India",
           "summary": "With the sale of a 52-year-old semi-submersible out of the way, Dolphin Drilling and SPM have taken steps to create an India-focused joint venture.",
           "date": "2026-11-23",
@@ -8142,6 +8166,14 @@
           "date": "2026-11-23",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/etu-energias-angolas-offshore-blocks-14-14k/",
+          "relevant": false
+        },
+        {
+          "title": "Argentina signs LoI for up to three Fincantieri FCX20 corvettes",
+          "summary": "Argentina and Italy have signed a Letter of Intent (LoI) covering Argentina’s potential acquisition of up to three FCX20 corvettes from Fincantieri. The post Argentina signs LoI for up to three Fincantieri FCX20…",
+          "date": "2026-11-23",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/argentina-fincantieri-fcx20-corvettes/",
           "relevant": false
         },
         {
