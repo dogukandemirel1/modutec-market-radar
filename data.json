@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T08:01:10Z",
+  "last_updated": "2026-11-23T09:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -297,19 +297,19 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "COOEC lands $800m QatarEnergy offshore contract",
-          "summary": "China’s Offshore Oil Engineering Company (COOEC) has secured an engineering, procurement, construction and installation contract worth approximately $800m from QatarEnergy for work on the Maydan Mahzam offshore oilfield…",
-          "date": "2026-11-23",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/cooec-lands-800m-qatarenergy-offshore-contract/",
-          "relevant": false
-        },
-        {
           "title": "ExxonMobil and partners approve $4bn investment in Angola’s Block 15",
           "summary": "ExxonMobil and its partners in Angola's Block 15 have agreed on a final investment decision (FID) valued at approximately $4bn to redevelop the Kizomba A and Kizomba B fields, as well as to develop the Likembe field.",
           "date": "2026-11-23",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/exxonmobil-partners-4bn-angolas-block-15/",
+          "relevant": false
+        },
+        {
+          "title": "COOEC lands $800m QatarEnergy offshore contract",
+          "summary": "China’s Offshore Oil Engineering Company (COOEC) has secured an engineering, procurement, construction and installation contract worth approximately $800m from QatarEnergy for work on the Maydan Mahzam offshore oilfield…",
+          "date": "2026-11-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/cooec-lands-800m-qatarenergy-offshore-contract/",
           "relevant": false
         },
         {
@@ -809,19 +809,19 @@
           "relevant": false
         },
         {
-          "title": "Subsea7 selected for deepwater tieback offshore US",
-          "summary": "Subsea7 has won a contract worth between $50 million and $150 million for a project located at a water depth of around 2,200 meters in the Gulf...",
-          "date": "2026-11-16",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/2026/11/16/subsea7-selected-for-deepwater-tieback-offshore-us",
-          "relevant": false
-        },
-        {
           "title": "HD Hyundai and Anduril launch 600t autonomous surface vessel",
           "summary": "HD Hyundai Heavy Industries (HHI) has launched an autonomous surface vessel (ASV) developed in partnership with US defence contractor Anduril Industries. The post HD Hyundai and Anduril launch 600t autonomous surface…",
           "date": "2026-11-16",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/hd-hyundai-anduril-asv/",
+          "relevant": false
+        },
+        {
+          "title": "Subsea7 selected for deepwater tieback offshore US",
+          "summary": "Subsea7 has won a contract worth between $50 million and $150 million for a project located at a water depth of around 2,200 meters in the Gulf...",
+          "date": "2026-11-16",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/16/subsea7-selected-for-deepwater-tieback-offshore-us",
           "relevant": false
         },
         {
@@ -5345,11 +5345,27 @@
           "relevant": false
         },
         {
+          "title": "COP31 collapse casts shadow over shipping’s net-zero showdown",
+          "summary": "Global climate negotiations have collapsed in Turkey just as shipping’s fiercely contested decarbonisation talks resume at the International Maritime Organization (IMO) in London. The COP31 summit in Antalya ended on…",
+          "date": "2026-11-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/cop31-collapse-casts-shadow-over-shippings-net-zero-showdown/",
+          "relevant": false
+        },
+        {
           "title": "Canada clears Equinor’s $10bn offshore oil development",
           "summary": "Canada’s federal and Newfoundland and Labrador governments have approved Equinor’s development plan for the C$14bn ($10bn) Bay du Nord offshore oil project, clearing a major regulatory hurdle ahead of a final investment…",
           "date": "2026-11-23",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/canada-clears-equinors-10bn-offshore-oil-development/",
+          "relevant": false
+        },
+        {
+          "title": "$4.4 billion play for ConocoPhillips’ Norwegian oil & gas assets and UK infrastructure expands Vår Energi’s North Sea footprint",
+          "summary": "Vår Energi is acquiring ConocoPhillips’ Norwegian business and related UK infrastructure, strengthening its position as 'Europe’s largest independent E&P company.'",
+          "date": "2026-11-23",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/23/dollar44-billion-play-for-conocophillips-norwegian-oil-and-gas-assets-and-uk-infrastructure-expands-var-energis-north-sea-footprint",
           "relevant": false
         },
         {
@@ -8025,14 +8041,6 @@
           "relevant": false
         },
         {
-          "title": "Subsea 7 seeks buyer for pipelay vessel ahead of Saipem merger",
-          "summary": "Norwegian offshore engineering contractor Subsea 7 has begun identifying a buyer for its pipelay and heavy-lift vessel Seven Borealis, which it must divest as part of its planned merger with Saipem. The company…",
-          "date": "2026-11-20",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/subsea-7-seeks-buyer-for-pipelay-vessel-ahead-of-saipem-merger/",
-          "relevant": false
-        },
-        {
           "title": "Azule Energy wraps up divestment of two Angolan offshore blocks",
           "summary": "Etu Energias has strengthened its position in Angola’s offshore energy industry with the acquisition of Azule Energy’s interests in two blocks.",
           "date": "2026-11-20",
@@ -8046,6 +8054,14 @@
           "date": "2026-11-20",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/energy_transfer_seals_vaquero_acquisition-20-nov-2026-185135-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Subsea 7 seeks buyer for pipelay vessel ahead of Saipem merger",
+          "summary": "Norwegian offshore engineering contractor Subsea 7 has begun identifying a buyer for its pipelay and heavy-lift vessel Seven Borealis, which it must divest as part of its planned merger with Saipem. The company…",
+          "date": "2026-11-20",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/subsea-7-seeks-buyer-for-pipelay-vessel-ahead-of-saipem-merger/",
           "relevant": false
         },
         {
@@ -9168,6 +9184,24 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Gulf Energy Maritime doubles down on LR1s in South Korea",
+          "summary": "Dubai-based tanker owner Gulf Energy Maritime (GEM) has signed up for another series of LR1 product tanker newbuildings at South Korea’s K Shipbuilding, extending its investment in the panamax segment. Shipbuilding…",
+          "date": "2026-11-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/gulf-energy-maritime-doubles-down-on-lr1s-in-south-korea/",
+          "relevant": true,
+          "region": "UAE"
+        },
+        {
+          "title": "Singapore Shipping returns to newbuilds with $210m car carrier deal",
+          "summary": "Singapore Shipping Corporation (SSC) has returned to the newbuilding market with a $210m investment in two LNG dual-fuel car carriers in China, launching a fleet renewal programme that could eventually reach $400m. The…",
+          "date": "2026-11-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/singapore-shipping-returns-to-newbuilds-with-210m-car-carrier-deal/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Saudis Make Deal with Japan to Replenish Oil Stocks",
           "summary": "Saudi Arabia reached an agreement to help replenish Japan's depleted crude stockpiles and expand the kingdom's own storage capacity in the Asian country.",
