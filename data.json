@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T10:01:03Z",
+  "last_updated": "2026-11-23T11:01:10Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -296,6 +296,22 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Arabian Drilling picks up $400m in long-term offshore work",
+          "summary": "Saudi Arabian drilling contractor Arabian Drilling has secured a SAR1.5bn ($400m) long-term contract from Khafji Joint Operations (KJO) to provide and operate two self-propelled offshore service units. The agreement…",
+          "date": "2026-11-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/arabian-drilling-picks-up-400m-in-long-term-offshore-work/",
+          "relevant": true
+        },
+        {
+          "title": "Shipping Corp of India casts $3.2bn net for 22 ships",
+          "summary": "State-owned Shipping Corporation of India (SCI) is pressing ahead with a fleet expansion drive worth an estimated $3.2bn, launching tenders for up to 22 newbuildings across the gas carrier, tanker and container…",
+          "date": "2026-11-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/shipping-corp-of-india-casts-3-2bn-net-for-22-ships/",
+          "relevant": false
+        },
         {
           "title": "ExxonMobil greenlights $4bn Angola offshore redevelopment",
           "summary": "US energy major ExxonMobil and its partners have taken a final investment decision worth an estimated $4bn to redevelop the Kizomba A and B fields offshore Angola, while announcing a fresh hydrocarbon discovery in the…",
@@ -5449,19 +5465,19 @@
           "relevant": false
         },
         {
-          "title": "2026 Delivers 'Double Major Surprise' to Oil Markets",
-          "summary": "Analysts at Goldman Sachs, including Daan Struyven, noted that 2026 has delivered a 'double major surprise' to oil markets.",
-          "date": "2026-11-19",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/2026_delivers_double_major_surprise_to_oil_markets-19-nov-2026-185123-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "UGI board approves plan to pursue global LPG business spin-off",
           "summary": "UGI said that its board has unanimously approved a plan to pursue a spin-off of its global liquefied petroleum gas (LPG) business.",
           "date": "2026-11-19",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/ugi-board-global-lpg-business-spin-off/",
+          "relevant": false
+        },
+        {
+          "title": "2026 Delivers 'Double Major Surprise' to Oil Markets",
+          "summary": "Analysts at Goldman Sachs, including Daan Struyven, noted that 2026 has delivered a 'double major surprise' to oil markets.",
+          "date": "2026-11-19",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/2026_delivers_double_major_surprise_to_oil_markets-19-nov-2026-185123-article/?rss=true",
           "relevant": false
         },
         {
