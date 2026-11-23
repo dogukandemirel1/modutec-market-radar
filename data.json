@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T14:28:57Z",
+  "last_updated": "2026-11-23T15:01:12Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -297,27 +297,11 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Arabian Drilling picks up $400m in long-term offshore work",
-          "summary": "Saudi Arabian drilling contractor Arabian Drilling has secured a SAR1.5bn ($400m) long-term contract from Khafji Joint Operations (KJO) to provide and operate two self-propelled offshore service units. The agreement…",
+          "title": "Oil & gas player books Aker Solutions on assignment worth up to $409 million",
+          "summary": "Aker Solutions has received a letter of award (LOA) for a new job with an undisclosed oil and gas company.",
           "date": "2026-11-23",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/arabian-drilling-picks-up-400m-in-long-term-offshore-work/",
-          "relevant": true
-        },
-        {
-          "title": "Shipping Corp of India casts $3.2bn net for 22 ships",
-          "summary": "State-owned Shipping Corporation of India (SCI) is pressing ahead with a fleet expansion drive worth an estimated $3.2bn, launching tenders for up to 22 newbuildings across the gas carrier, tanker and container…",
-          "date": "2026-11-23",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/shipping-corp-of-india-casts-3-2bn-net-for-22-ships/",
-          "relevant": false
-        },
-        {
-          "title": "ExxonMobil greenlights $4bn Angola offshore redevelopment",
-          "summary": "US energy major ExxonMobil and its partners have taken a final investment decision worth an estimated $4bn to redevelop the Kizomba A and B fields offshore Angola, while announcing a fresh hydrocarbon discovery in the…",
-          "date": "2026-11-23",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/exxonmobil-greenlights-4bn-angola-offshore-redevelopment/",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/23/oil-and-gas-player-books-aker-solutions-on-assignment-worth-up-to-dollar409-million",
           "relevant": false
         },
         {
@@ -350,6 +334,30 @@
           "date": "2026-11-23",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544515-aker-solutions-lines-up-substantial-oil-and-gas-contract",
+          "relevant": false
+        },
+        {
+          "title": "Arabian Drilling picks up $400m in long-term offshore work",
+          "summary": "Saudi Arabian drilling contractor Arabian Drilling has secured a SAR1.5bn ($400m) long-term contract from Khafji Joint Operations (KJO) to provide and operate two self-propelled offshore service units. The agreement…",
+          "date": "2026-11-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/arabian-drilling-picks-up-400m-in-long-term-offshore-work/",
+          "relevant": true
+        },
+        {
+          "title": "Shipping Corp of India casts $3.2bn net for 22 ships",
+          "summary": "State-owned Shipping Corporation of India (SCI) is pressing ahead with a fleet expansion drive worth an estimated $3.2bn, launching tenders for up to 22 newbuildings across the gas carrier, tanker and container…",
+          "date": "2026-11-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/shipping-corp-of-india-casts-3-2bn-net-for-22-ships/",
+          "relevant": false
+        },
+        {
+          "title": "ExxonMobil greenlights $4bn Angola offshore redevelopment",
+          "summary": "US energy major ExxonMobil and its partners have taken a final investment decision worth an estimated $4bn to redevelop the Kizomba A and B fields offshore Angola, while announcing a fresh hydrocarbon discovery in the…",
+          "date": "2026-11-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/exxonmobil-greenlights-4bn-angola-offshore-redevelopment/",
           "relevant": false
         },
         {
@@ -489,19 +497,19 @@
           "relevant": false
         },
         {
-          "title": "TPAO In Talks for $1B Loan",
-          "summary": "Turkey's state-owned oil and natural gas producer is in talks with banks for a loan of up to $1 billion, according to people familiar with the matter.",
-          "date": "2026-11-19",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/tpao_in_talks_for_1b_loan-19-nov-2026-185125-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Raytheon awards Ursa Major and Avio USA contract for Tomahawk booster",
           "summary": "Raytheon, an RTX business, has awarded Ursa Major and Avio USA a joint contract to design, develop, and qualify a new solid rocket motor booster for the Tomahawk cruise missile, the companies announced. The post…",
           "date": "2026-11-19",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/raytheon-ursa-major-avio-tomahawk/",
+          "relevant": false
+        },
+        {
+          "title": "TPAO In Talks for $1B Loan",
+          "summary": "Turkey's state-owned oil and natural gas producer is in talks with banks for a loan of up to $1 billion, according to people familiar with the matter.",
+          "date": "2026-11-19",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/tpao_in_talks_for_1b_loan-19-nov-2026-185125-article/?rss=true",
           "relevant": false
         },
         {
@@ -5385,11 +5393,11 @@
           "relevant": false
         },
         {
-          "title": "No safe harbour as maritime war spreads beyond Black Sea",
-          "summary": "The maritime war between Russia and Ukraine has expanded far beyond the Black Sea, with a Russian naval corvette sunk in Libya and a sanctioned Russian cargo ship attacked in the Baltic over the weekend. The Russian…",
+          "title": "First well hits target depth offshore Oman as operator gets ready for next one",
+          "summary": "Masirah Oil has reached target depth at the first well in its drilling campaign offshore Oman and will proceed with the move to the second well.",
           "date": "2026-11-23",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/no-safe-harbour-as-maritime-war-spreads-beyond-black-sea/",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/23/first-well-hits-target-depth-offshore-oman-as-operator-gets-ready-for-next-one",
           "relevant": false
         },
         {
@@ -5422,6 +5430,14 @@
           "date": "2026-11-23",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544513-v-r-energi-strikes-4-4b-deal-for-conocophillips-norway-assets",
+          "relevant": false
+        },
+        {
+          "title": "No safe harbour as maritime war spreads beyond Black Sea",
+          "summary": "The maritime war between Russia and Ukraine has expanded far beyond the Black Sea, with a Russian naval corvette sunk in Libya and a sanctioned Russian cargo ship attacked in the Baltic over the weekend. The Russian…",
+          "date": "2026-11-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/no-safe-harbour-as-maritime-war-spreads-beyond-black-sea/",
           "relevant": false
         },
         {
@@ -9281,15 +9297,6 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Precious Shipping secures year-long ultramax charter",
-          "summary": "Thailand’s Precious Shipping has secured another index-linked ultramax charter with Singapore’s PACC Line, fixing the 2015-built Sarita Naree for up to 13 months at a current equivalent rate of around $23,700 per day…",
-          "date": "2026-11-23",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/precious-shipping-secures-year-long-ultramax-charter/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Saudi Arabia's Fossil Fuel Stance at Center of COP31 Collapse",
           "summary": "As the COP31 climate conference drifted into what proved to be record overtime, a negotiator from a small island state complained that a promised meeting with the…",
           "date": "2026-11-23",
@@ -9297,6 +9304,15 @@
           "source_url": "https://www.oedigital.com/news/544512-saudi-arabia-s-fossil-fuel-stance-at-center-of-cop31-collapse",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Precious Shipping secures year-long ultramax charter",
+          "summary": "Thailand’s Precious Shipping has secured another index-linked ultramax charter with Singapore’s PACC Line, fixing the 2015-built Sarita Naree for up to 13 months at a current equivalent rate of around $23,700 per day…",
+          "date": "2026-11-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/precious-shipping-secures-year-long-ultramax-charter/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Gulf Energy Maritime doubles down on LR1s in South Korea",
