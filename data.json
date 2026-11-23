@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T20:01:02Z",
+  "last_updated": "2026-11-23T21:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5393,6 +5393,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "U.S. Targets Financial Networks Behind Iran’s Tanker Fleet and Oil Trade",
+          "summary": "The U.S. Treasury Department on Monday announced new sanctions targeting financial networks supporting Iran’s oil exports and tanker operations, including companies accused of facilitating payments for the National…",
+          "date": "2026-11-23",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/u-s-targets-financial-networks-behind-irans-tanker-fleet-and-oil-trade/",
+          "relevant": false
+        },
+        {
           "title": "Drone-Hit Russian Cargo Ship Leaves Finnish Waters Despite Sanctions Hold",
           "summary": "The Russian cargo ship Sparta II, severely damaged in a suspected Ukrainian drone attack in the Gulf of Finland, has been towed out of Finnish waters following a multinational firefighting...",
           "date": "2026-11-23",
@@ -5438,6 +5446,14 @@
           "date": "2026-11-23",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/europa_oil_gets_environmental_permit_for_cloughton_appraisal_well-23-nov-2026-185147-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "ConocoPhillips agrees $4.4bn sale of Norway assets to Vår Energi",
+          "summary": "ConocoPhillips has agreed to sell its Norway business and its 40.25% interest in, and operatorship of, the UK’s Teesside oil terminal to Vår Energi for $4.425bn before adjustments.",
+          "date": "2026-11-23",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/conocophillips-4bn-norway-assets-var-energi/",
           "relevant": false
         },
         {
