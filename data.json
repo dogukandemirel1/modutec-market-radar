@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T09:01:05Z",
+  "last_updated": "2026-11-23T10:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -297,11 +297,27 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "ExxonMobil greenlights $4bn Angola offshore redevelopment",
+          "summary": "US energy major ExxonMobil and its partners have taken a final investment decision worth an estimated $4bn to redevelop the Kizomba A and B fields offshore Angola, while announcing a fresh hydrocarbon discovery in the…",
+          "date": "2026-11-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/exxonmobil-greenlights-4bn-angola-offshore-redevelopment/",
+          "relevant": false
+        },
+        {
           "title": "ExxonMobil and partners approve $4bn investment in Angola’s Block 15",
           "summary": "ExxonMobil and its partners in Angola's Block 15 have agreed on a final investment decision (FID) valued at approximately $4bn to redevelop the Kizomba A and Kizomba B fields, as well as to develop the Likembe field.",
           "date": "2026-11-23",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/exxonmobil-partners-4bn-angolas-block-15/",
+          "relevant": false
+        },
+        {
+          "title": "Aker Solutions Lines Up 'Substantial' Oil and Gas Contract",
+          "summary": "Aker Solutions has received a letter of award for a substantial contract with an undisclosed client in the oil and gas sector.Aker Solutions classifies a substantial…",
+          "date": "2026-11-23",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544515-aker-solutions-lines-up-substantial-oil-and-gas-contract",
           "relevant": false
         },
         {
@@ -5338,7 +5354,7 @@
         },
         {
           "title": "Tanker inferno greets UN oceans advocate’s swim through Hormuz",
-          "summary": "Three tankers have been hit by projectiles in the Strait of Hormuz in the space of 15 hours as more images emerge of the huge marine damage the nine-month war is having on the marine environment. The Joint Maritime…",
+          "summary": "Three tankers have been hit by projectiles in the Strait of Hormuz in the space of 15 hours as more images emerge of the huge damage the nine-month war is having on the marine environment. The Joint Maritime Information…",
           "date": "2026-11-23",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/tanker-inferno-greets-un-oceans-advocates-swim-through-hormuz/",
@@ -5353,19 +5369,35 @@
           "relevant": false
         },
         {
-          "title": "Canada clears Equinor’s $10bn offshore oil development",
-          "summary": "Canada’s federal and Newfoundland and Labrador governments have approved Equinor’s development plan for the C$14bn ($10bn) Bay du Nord offshore oil project, clearing a major regulatory hurdle ahead of a final investment…",
-          "date": "2026-11-23",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/canada-clears-equinors-10bn-offshore-oil-development/",
-          "relevant": false
-        },
-        {
           "title": "$4.4 billion play for ConocoPhillips’ Norwegian oil & gas assets and UK infrastructure expands Vår Energi’s North Sea footprint",
           "summary": "Vår Energi is acquiring ConocoPhillips’ Norwegian business and related UK infrastructure, strengthening its position as 'Europe’s largest independent E&P company.'",
           "date": "2026-11-23",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/23/dollar44-billion-play-for-conocophillips-norwegian-oil-and-gas-assets-and-uk-infrastructure-expands-var-energis-north-sea-footprint",
+          "relevant": false
+        },
+        {
+          "title": "Navitas Targets March 2027 Drilling Ops Offshore Falkland Islands",
+          "summary": "Navitas Petroleum is considering drilling an exploration well offshore the Falkland Islands in 2027 targeting five prospects with estimated gross prospective resources…",
+          "date": "2026-11-23",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544514-navitas-targets-march-2027-drilling-ops-offshore-falkland-islands",
+          "relevant": false
+        },
+        {
+          "title": "Vår Energi Strikes $4.4B Deal for ConocoPhillips' Norway Assets",
+          "summary": "Vår Energi has agreed to acquire ConocoPhillips' Norwegian upstream business and related infrastructure interests in Norway and the United Kingdom for an enterprise value of $4…",
+          "date": "2026-11-23",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544513-v-r-energi-strikes-4-4b-deal-for-conocophillips-norway-assets",
+          "relevant": false
+        },
+        {
+          "title": "Canada clears Equinor’s $10bn offshore oil development",
+          "summary": "Canada’s federal and Newfoundland and Labrador governments have approved Equinor’s development plan for the C$14bn ($10bn) Bay du Nord offshore oil project, clearing a major regulatory hurdle ahead of a final investment…",
+          "date": "2026-11-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/canada-clears-equinors-10bn-offshore-oil-development/",
           "relevant": false
         },
         {
@@ -9184,6 +9216,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Saudi Arabia's Fossil Fuel Stance at Center of COP31 Collapse",
+          "summary": "As the COP31 climate conference drifted into what proved to be record overtime, a negotiator from a small island state complained that a promised meeting with the…",
+          "date": "2026-11-23",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544512-saudi-arabia-s-fossil-fuel-stance-at-center-of-cop31-collapse",
+          "relevant": true,
+          "region": "KSA"
+        },
         {
           "title": "Gulf Energy Maritime doubles down on LR1s in South Korea",
           "summary": "Dubai-based tanker owner Gulf Energy Maritime (GEM) has signed up for another series of LR1 product tanker newbuildings at South Korea’s K Shipbuilding, extending its investment in the panamax segment. Shipbuilding…",
