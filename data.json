@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T13:01:08Z",
+  "last_updated": "2026-11-23T14:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -329,6 +329,14 @@
           "relevant": false
         },
         {
+          "title": "Naval Group taps Van Halteren for Scorpène submarine winches",
+          "summary": "Naval Group has awarded Van Halteren Technologies a contract to supply anchor winches for a variant of its conventionally powered Scorpène attack submarine. The post Naval Group taps Van Halteren for Scorpène submarine…",
+          "date": "2026-11-23",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/naval-group-van-halteren-scorpene/",
+          "relevant": false
+        },
+        {
           "title": "Arabian Drilling Seals $400M Offshore Vessel Deal with KJO",
           "summary": "Arabian Drilling has signed a $400 million (SAR 1.5 billion) contract with Khafji Joint Operations (KJO) to provide and operate two self-propelled offshore vessels…",
           "date": "2026-11-23",
@@ -489,19 +497,19 @@
           "relevant": false
         },
         {
-          "title": "Saipem Posts Nearly 50 Percent YoY Increase in Bookings",
-          "summary": "'In addition, the numerous commercial opportunities currently in advanced negotiations reinforce our confidence that the 2026 order intake will exceed that of 2025'.",
-          "date": "2026-11-19",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/saipem_posts_nearly_50_percent_yoy_increase_in_bookings-19-nov-2026-185126-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Raytheon awards Ursa Major and Avio USA contract for Tomahawk booster",
           "summary": "Raytheon, an RTX business, has awarded Ursa Major and Avio USA a joint contract to design, develop, and qualify a new solid rocket motor booster for the Tomahawk cruise missile, the companies announced. The post…",
           "date": "2026-11-19",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/raytheon-ursa-major-avio-tomahawk/",
+          "relevant": false
+        },
+        {
+          "title": "Saipem Posts Nearly 50 Percent YoY Increase in Bookings",
+          "summary": "'In addition, the numerous commercial opportunities currently in advanced negotiations reinforce our confidence that the 2026 order intake will exceed that of 2025'.",
+          "date": "2026-11-19",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/saipem_posts_nearly_50_percent_yoy_increase_in_bookings-19-nov-2026-185126-article/?rss=true",
           "relevant": false
         },
         {
@@ -841,19 +849,19 @@
           "relevant": true
         },
         {
-          "title": "DOF starts activities as part of 'large' contract in APAC",
-          "summary": "DOF Group has secured a subsea umbilicals, risers and flowlines (SURF) services contract with Amplitude Energy Limited (AEL) for a project in the...",
-          "date": "2026-11-16",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/2026/11/16/dof-starts-activities-as-part-of-large-contract-in-apac",
-          "relevant": false
-        },
-        {
           "title": "HD Hyundai and Anduril launch 600t autonomous surface vessel",
           "summary": "HD Hyundai Heavy Industries (HHI) has launched an autonomous surface vessel (ASV) developed in partnership with US defence contractor Anduril Industries. The post HD Hyundai and Anduril launch 600t autonomous surface…",
           "date": "2026-11-16",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/hd-hyundai-anduril-asv/",
+          "relevant": false
+        },
+        {
+          "title": "DOF starts activities as part of 'large' contract in APAC",
+          "summary": "DOF Group has secured a subsea umbilicals, risers and flowlines (SURF) services contract with Amplitude Energy Limited (AEL) for a project in the...",
+          "date": "2026-11-16",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/16/dof-starts-activities-as-part-of-large-contract-in-apac",
           "relevant": false
         },
         {
@@ -5390,6 +5398,14 @@
           "date": "2026-11-23",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/23/dollar44-billion-play-for-conocophillips-norwegian-oil-and-gas-assets-and-uk-infrastructure-expands-var-energis-north-sea-footprint",
+          "relevant": false
+        },
+        {
+          "title": "Europa Oil Gets Environmental Permit for Cloughton Appraisal Well",
+          "summary": "The approval is separate from the planning permission for the proposed onshore gas project, for which Europa is appealing the North Yorkshire Council's rejection.",
+          "date": "2026-11-23",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/europa_oil_gets_environmental_permit_for_cloughton_appraisal_well-23-nov-2026-185147-article/?rss=true",
           "relevant": false
         },
         {
