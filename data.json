@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T17:01:08Z",
+  "last_updated": "2026-11-23T18:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8170,7 +8170,7 @@
         },
         {
           "title": "Argentina signs LoI for up to three Fincantieri FCX20 corvettes",
-          "summary": "Argentina and Italy have signed a Letter of Intent (LoI) covering Argentina’s potential acquisition of up to three FCX20 corvettes from Fincantieri. The post Argentina signs LoI for up to three Fincantieri FCX20…",
+          "summary": "Argentina and Italy signed a Letter of Intent covering Argentina’s potential acquisition of up to three FCX20 corvettes from Fincantieri. The post Argentina signs LoI for up to three Fincantieri FCX20 corvettes appeared…",
           "date": "2026-11-23",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/argentina-fincantieri-fcx20-corvettes/",
@@ -9334,6 +9334,15 @@
           "date": "2026-11-23",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/precious-shipping-secures-year-long-ultramax-charter/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Go-ahead for Eni’s Indonesian field development paves the way to unlock 8 trillion cubic feet of gas",
+          "summary": "A green light has been secured for a gas development off the coast of Indonesia, targeting peak production of 1 billion cubic feet per day.",
+          "date": "2026-11-23",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/23/go-ahead-for-enis-indonesian-field-development-paves-the-way-to-unlock-8-trillion-cubic-feet-of-gas",
           "relevant": false,
           "region": "SEA"
         },
