@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T15:01:10Z",
+  "last_updated": "2026-11-24T16:01:12Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -313,6 +313,22 @@
           "relevant": false
         },
         {
+          "title": "Island Captain set for upgrade under six-year SLB extension",
+          "summary": "Island Offshore secured a contract extension of up to six years with SLB for its well stimulation vessel Island Captain. The vessel has operated continuously for SLB since its conversion to well stimulation duties in…",
+          "date": "2026-11-24",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/island-captain-set-for-upgrade-under-six-year-slb-extension-81249",
+          "relevant": false
+        },
+        {
+          "title": "ExxonMobil signs off on $4 billion FID as new discovery signals more oil potential at Angolan offshore block",
+          "summary": "ExxonMobil’s final investment decision (FID) will extend production at Block 15 fields, while a new discovery marks the block’s 21st hydrocarbon find.",
+          "date": "2026-11-24",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/24/exxonmobil-signs-off-on-dollar4-billion-fid-as-new-discovery-signals-more-oil-potential-at-angolan-offshore-block",
+          "relevant": false
+        },
+        {
           "title": "LS Marine Solution selects NjordGuard cable protection for South Korean offshore wind farm",
           "summary": "AIS, formerly CRP Subsea, and LS Marine Solution have signed a contract for the supply of NjordGuard cable protection systems (CPS) and...",
           "date": "2026-11-24",
@@ -361,14 +377,6 @@
           "relevant": false
         },
         {
-          "title": "Royal Thai Navy Forced to Retender Frigate Programme",
-          "summary": "The Royal Thai Navy has been forced to cancel and retender its frigate programme after procedural flaws overturned Hanwha Ocean's selection The post Royal Thai Navy Forced to Retender Frigate Programme appeared first on…",
-          "date": "2026-11-23",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/royal-thai-navy-forced-to-retender-frigate-programme/",
-          "relevant": false
-        },
-        {
           "title": "Oil & gas player books Aker Solutions on assignment worth up to $409 million",
           "summary": "Aker Solutions has received a letter of award (LOA) for a new job with an undisclosed oil and gas company.",
           "date": "2026-11-23",
@@ -390,6 +398,14 @@
           "date": "2026-11-23",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/naval-group-van-halteren-scorpene/",
+          "relevant": false
+        },
+        {
+          "title": "Royal Thai Navy Forced to Retender Frigate Programme",
+          "summary": "The Royal Thai Navy has been forced to cancel and retender its frigate programme after procedural flaws overturned Hanwha Ocean's selection The post Royal Thai Navy Forced to Retender Frigate Programme appeared first on…",
+          "date": "2026-11-23",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/royal-thai-navy-forced-to-retender-frigate-programme/",
           "relevant": false
         },
         {
@@ -825,19 +841,19 @@
           "relevant": false
         },
         {
-          "title": "DOF's largest vessel nets contract with TechnipFMC",
-          "summary": "DOF Group has secured a new contract for its largest vessel, following the announcement of two other contracts this week. The new contract for...",
-          "date": "2026-11-17",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/2026/11/17/dofs-largest-vessel-nets-contract-with-technipfmc",
-          "relevant": false
-        },
-        {
           "title": "HII secures US Navy order for 82 additional Lionfish SUUVs",
           "summary": "HII has received an updated US Navy contract to produce 82 additional Lionfish small uncrewed undersea vehicles (SUUVs). The post HII secures US Navy order for 82 additional Lionfish SUUVs appeared first on Naval…",
           "date": "2026-11-17",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/hii-us-navy-lionfish-order/",
+          "relevant": false
+        },
+        {
+          "title": "DOF's largest vessel nets contract with TechnipFMC",
+          "summary": "DOF Group has secured a new contract for its largest vessel, following the announcement of two other contracts this week. The new contract for...",
+          "date": "2026-11-17",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/17/dofs-largest-vessel-nets-contract-with-technipfmc",
           "relevant": false
         },
         {
@@ -5297,14 +5313,6 @@
           "relevant": false
         },
         {
-          "title": "Bayraktar AKINCI Conducts First ORKA Torpedo Release Test",
-          "summary": "Baykar’s Bayraktar AKINCI unmanned combat aerial vehicle (UCAV) has completed an airborne release test with the ORKA next-generation lightweight torpedo developed by Türkiye’s ROKETSAN. Baykar announced the test on 22…",
-          "date": "2026-11-24",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/bayraktar-akinci-conducts-first-orka-torpedo-release-test/",
-          "relevant": false
-        },
-        {
           "title": "EU, UK Agree to Link Emissions Trading Systems",
           "summary": "The EU and UK have agreed to link their Emissions Trading Systems.",
           "date": "2026-11-24",
@@ -5318,6 +5326,14 @@
           "date": "2026-11-24",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/petrobras-pre-salt-growth-122bn-investment/",
+          "relevant": false
+        },
+        {
+          "title": "Bayraktar AKINCI Conducts First ORKA Torpedo Release Test",
+          "summary": "Baykar’s Bayraktar AKINCI unmanned combat aerial vehicle (UCAV) has completed an airborne release test with the ORKA next-generation lightweight torpedo developed by Türkiye’s ROKETSAN. Baykar announced the test on 22…",
+          "date": "2026-11-24",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/bayraktar-akinci-conducts-first-orka-torpedo-release-test/",
           "relevant": false
         },
         {
