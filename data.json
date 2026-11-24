@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T06:01:10Z",
+  "last_updated": "2026-11-24T07:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5241,14 +5241,6 @@
           "relevant": false
         },
         {
-          "title": "No safe harbour as maritime war spreads beyond Black Sea",
-          "summary": "The maritime war between Russia and Ukraine has expanded far beyond the Black Sea, with a Russian naval corvette sunk in Libya and a sanctioned Russian cargo ship attacked in the Baltic over the weekend. The Russian…",
-          "date": "2026-11-23",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/no-safe-harbour-as-maritime-war-spreads-beyond-black-sea/",
-          "relevant": false
-        },
-        {
           "title": "$4.4 billion play for ConocoPhillips’ Norwegian oil & gas assets and UK infrastructure expands Vår Energi’s North Sea footprint",
           "summary": "Vår Energi is acquiring ConocoPhillips’ Norwegian business and related UK infrastructure, strengthening its position as 'Europe’s largest independent E&P company.'",
           "date": "2026-11-23",
@@ -5294,6 +5286,14 @@
           "date": "2026-11-23",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544513-v-r-energi-strikes-4-4b-deal-for-conocophillips-norway-assets",
+          "relevant": false
+        },
+        {
+          "title": "No safe harbour as maritime war spreads beyond Black Sea",
+          "summary": "The maritime war between Russia and Ukraine has expanded far beyond the Black Sea, with a Russian naval corvette sunk in Libya and a sanctioned Russian cargo ship attacked in the Baltic over the weekend. The Russian…",
+          "date": "2026-11-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/no-safe-harbour-as-maritime-war-spreads-beyond-black-sea/",
           "relevant": false
         },
         {
@@ -9120,6 +9120,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Jadestone accuses major shareholder of backdoor takeover attempt",
+          "summary": "Asia-Pacific oil and gas producer Jadestone Energy has accused Indonesian shareholder Prima Energy of trying to gain control of the company without paying a takeover premium, after demanding two seats on its board…",
+          "date": "2026-11-24",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/jadestone-accuses-major-shareholder-of-backdoor-takeover-attempt/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Precious Shipping secures year-long ultramax charter",
           "summary": "Thailand’s Precious Shipping has secured another index-linked ultramax charter with Singapore’s PACC Line, fixing the 2015-built Sarita Naree for up to 13 months at a current equivalent rate of around $23,700 per day…",
