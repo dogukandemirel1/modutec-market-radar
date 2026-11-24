@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T20:00:59Z",
+  "last_updated": "2026-11-24T21:01:14Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -304,6 +304,22 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Maersk and ONE Eye Landmark Global North-South Shipping Alliance",
+          "summary": "The formation of container shipping’s first global liner alliance covering the north-south trades appears to be taking shape, The Loadstar has learned.",
+          "date": "2026-11-24",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/maersk-and-one-eye-landmark-global-north-south-shipping-alliance/",
+          "relevant": false
+        },
+        {
+          "title": "Grounded Bulk Carrier MIRO G Successfully Refloated Off French Beach",
+          "summary": "French authorities have successfully refloated the Malta-flagged bulk carrier MIRO G, four days after the vessel ran aground on France’s Atlantic coast during severe weather. The Atlantic Maritime Prefecture confirmed…",
+          "date": "2026-11-24",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/grounded-bulk-carrier-miro-g-successfully-refloated-off-french-beach/",
+          "relevant": false
+        },
         {
           "title": "Grounded bulker pulled free off French coast",
           "summary": "Salvors have successfully refloated the 28,200 dwt bulk carrier Miro G, four days after the ship was driven onto a beach on France’s Atlantic coast. The 2011-built, Malta-flagged bulker was pulled clear of the shoreline…",
@@ -5369,22 +5385,6 @@
           "relevant": false
         },
         {
-          "title": "U.S. Targets Financial Networks Behind Iran’s Tanker Fleet and Oil Trade",
-          "summary": "The U.S. Treasury Department on Monday announced new sanctions targeting financial networks supporting Iran’s oil exports and tanker operations, including companies accused of facilitating payments for the National…",
-          "date": "2026-11-23",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/u-s-targets-financial-networks-behind-irans-tanker-fleet-and-oil-trade/",
-          "relevant": false
-        },
-        {
-          "title": "Drone-Hit Russian Cargo Ship Leaves Finnish Waters Despite Sanctions Hold",
-          "summary": "The Russian cargo ship Sparta II, severely damaged in a suspected Ukrainian drone attack in the Gulf of Finland, has been towed out of Finnish waters following a multinational firefighting...",
-          "date": "2026-11-23",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/drone-hit-russian-cargo-ship-leaves-finnish-waters-despite-sanctions-hold/",
-          "relevant": false
-        },
-        {
           "title": "$4.4 billion play for ConocoPhillips’ Norwegian oil & gas assets and UK infrastructure expands Vår Energi’s North Sea footprint",
           "summary": "Vår Energi is acquiring ConocoPhillips’ Norwegian business and related UK infrastructure, strengthening its position as 'Europe’s largest independent E&P company.'",
           "date": "2026-11-23",
@@ -5414,6 +5414,22 @@
           "date": "2026-11-23",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/conocophillips-4bn-norway-assets-var-energi/",
+          "relevant": false
+        },
+        {
+          "title": "U.S. Targets Financial Networks Behind Iran’s Tanker Fleet and Oil Trade",
+          "summary": "The U.S. Treasury Department on Monday announced new sanctions targeting financial networks supporting Iran’s oil exports and tanker operations, including companies accused of facilitating payments for the National…",
+          "date": "2026-11-23",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/u-s-targets-financial-networks-behind-irans-tanker-fleet-and-oil-trade/",
+          "relevant": false
+        },
+        {
+          "title": "Drone-Hit Russian Cargo Ship Leaves Finnish Waters Despite Sanctions Hold",
+          "summary": "The Russian cargo ship Sparta II, severely damaged in a suspected Ukrainian drone attack in the Gulf of Finland, has been towed out of Finnish waters following a multinational firefighting...",
+          "date": "2026-11-23",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/drone-hit-russian-cargo-ship-leaves-finnish-waters-despite-sanctions-hold/",
           "relevant": false
         },
         {
