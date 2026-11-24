@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T17:01:08Z",
+  "last_updated": "2026-11-24T18:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8089,14 +8089,6 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
-          "title": "Seatrium cuts 220 jobs in latest post-merger restructuring",
-          "summary": "Singapore-based offshore and marine engineering group Seatrium is laying off around 220 employees, representing 2% of its local workforce, as part of a restructuring programme to streamline operations and consolidate…",
-          "date": "2026-11-24",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/seatrium-cuts-220-jobs-in-latest-post-merger-restructuring/",
-          "relevant": false
-        },
-        {
           "title": "DOF sells 2008-built vessel and charters it back for two years",
           "summary": "DOF has struck a deal to divest its 2008-built construction support vessel (CSV), expecting a $35 million gain upon delivery to the new owners.",
           "date": "2026-11-24",
@@ -8118,6 +8110,14 @@
           "date": "2026-11-24",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544547-seatrium-to-cut-2-of-singapore-workforce-in-yard-shake-up",
+          "relevant": false
+        },
+        {
+          "title": "Seatrium cuts 220 jobs in latest post-merger restructuring",
+          "summary": "Singapore-based offshore and marine engineering group Seatrium is laying off around 220 employees, representing 2% of its local workforce, as part of a restructuring programme to streamline operations and consolidate…",
+          "date": "2026-11-24",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/seatrium-cuts-220-jobs-in-latest-post-merger-restructuring/",
           "relevant": false
         },
         {
