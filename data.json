@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T14:01:02Z",
+  "last_updated": "2026-11-24T14:46:23Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -305,6 +305,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Danaos bags $611m in fresh boxship charters",
+          "summary": "Greek containership owner Danaos has secured another $611m in contracted revenue through a string of new fixtures and charter extensions, taking its forward revenue backlog to $5bn. The John Coustas-led company revealed…",
+          "date": "2026-11-24",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/danaos-bags-611m-in-fresh-boxship-charters/",
+          "relevant": false
+        },
+        {
           "title": "LS Marine Solution selects NjordGuard cable protection for South Korean offshore wind farm",
           "summary": "AIS, formerly CRP Subsea, and LS Marine Solution have signed a contract for the supply of NjordGuard cable protection systems (CPS) and...",
           "date": "2026-11-24",
@@ -329,6 +337,14 @@
           "relevant": false
         },
         {
+          "title": "Scottish Floating Wind Farm to Feature Siemens Gamesa Turbines",
+          "summary": "Green Volt has signed an agreement with Siemens Gamesa to reserve manufacturing capacity for 28 offshore wind turbines for the planned floating wind farm off Scotland…",
+          "date": "2026-11-24",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544556-scottish-floating-wind-farm-to-feature-siemens-gamesa-turbines",
+          "relevant": false
+        },
+        {
           "title": "Equinor Extends Saipem's Subsea Robotics Contract off Norway",
           "summary": "Saipem has secured a contract extension from Equinor to provide subsea inspection and intervention services at the Njord field offshore Norway through the end of 2034…",
           "date": "2026-11-24",
@@ -342,6 +358,14 @@
           "date": "2026-11-24",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544548-deme-lands-offshore-works-contract-for-canadian-gas-pipeline",
+          "relevant": false
+        },
+        {
+          "title": "Royal Thai Navy Forced to Retender Frigate Programme",
+          "summary": "The Royal Thai Navy has been forced to cancel and retender its frigate programme after procedural flaws overturned Hanwha Ocean's selection The post Royal Thai Navy Forced to Retender Frigate Programme appeared first on…",
+          "date": "2026-11-23",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/royal-thai-navy-forced-to-retender-frigate-programme/",
           "relevant": false
         },
         {
@@ -374,14 +398,6 @@
           "date": "2026-11-23",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544520-arabian-drilling-seals-400m-offshore-vessel-deal-with-kjo",
-          "relevant": false
-        },
-        {
-          "title": "Royal Thai Navy Forced to Retender Frigate Programme",
-          "summary": "The Royal Thai Navy has been forced to cancel and retender its frigate programme after procedural flaws overturned Hanwha Ocean's selection The post Royal Thai Navy Forced to Retender Frigate Programme appeared first on…",
-          "date": "2026-11-23",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/royal-thai-navy-forced-to-retender-frigate-programme/",
           "relevant": false
         },
         {
@@ -5257,11 +5273,27 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Ukraine Insists Attack on Russian Ships in Libya was Self-Defense",
+          "summary": "Ukraine's foreign minister said on Tuesday a drone attack against a Russian military vessel and cargo ship in Libyan waters at the weekend was a legitimate act of self-defense, following criticism from the government in…",
+          "date": "2026-11-24",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/ukraine-insists-attack-on-russian-ships-in-libya-was-self-defense/",
+          "relevant": false
+        },
+        {
           "title": "One Maritime Generation targets specialist shipmanagement niche",
           "summary": "Two German shipping professionals from markedly different maritime backgrounds have established a shipmanagement company in Hamburg, targeting a niche in the market for vessels engaged in complex and unconventional…",
           "date": "2026-11-24",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/one-maritime-generation-targets-specialist-shipmanagement-niche/",
+          "relevant": false
+        },
+        {
+          "title": "Bayraktar AKINCI Conducts First ORKA Torpedo Release Test",
+          "summary": "Baykar’s Bayraktar AKINCI unmanned combat aerial vehicle (UCAV) has completed an airborne release test with the ORKA next-generation lightweight torpedo developed by Türkiye’s ROKETSAN. Baykar announced the test on 22…",
+          "date": "2026-11-24",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/bayraktar-akinci-conducts-first-orka-torpedo-release-test/",
           "relevant": false
         },
         {
