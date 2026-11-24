@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T12:01:04Z",
+  "last_updated": "2026-11-24T13:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -313,11 +313,27 @@
           "relevant": false
         },
         {
+          "title": "Equinor agrees 18-year gas supply contract with Germany’s VNG",
+          "summary": "Equinor has agreed to supply German energy company VNG with natural gas for 18 years, with deliveries beginning on 1 January 2027 and running until the end of 2044.",
+          "date": "2026-11-24",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/equinor-18-year-gas-supply-contract-vng/",
+          "relevant": false
+        },
+        {
           "title": "Eni receives approval for Geliga gas field plan in Indonesia",
           "summary": "Eni has obtained approval from Indonesian authorities for the plan of development (POD) concerning the Geliga gas field within the Ganal production sharing contract (PSC) in the Kutei Basin.",
           "date": "2026-11-24",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/eni-approval-geliga-gas-field-indonesia/",
+          "relevant": false
+        },
+        {
+          "title": "Equinor Extends Saipem's Subsea Robotics Contract off Norway",
+          "summary": "Saipem has secured a contract extension from Equinor to provide subsea inspection and intervention services at the Njord field offshore Norway through the end of 2034…",
+          "date": "2026-11-24",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544552-equinor-extends-saipem-s-subsea-robotics-contract-off-norway",
           "relevant": false
         },
         {
@@ -5249,14 +5265,6 @@
           "relevant": false
         },
         {
-          "title": "UN lays bare the cost of the Black Sea shipping crisis",
-          "summary": "Brussels is seeking to ban tankers insured in Russia and the United Nations is pushing for a new humanitarian grain shipping arrangement in the Black Sea as the maritime dimension of the Ukraine war spreads ever further…",
-          "date": "2026-11-24",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/un-lays-bare-the-cost-of-the-black-sea-shipping-crisis/",
-          "relevant": false
-        },
-        {
           "title": "EU, UK Agree to Link Emissions Trading Systems",
           "summary": "The EU and UK have agreed to link their Emissions Trading Systems.",
           "date": "2026-11-24",
@@ -5270,6 +5278,14 @@
           "date": "2026-11-24",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/petrobras-pre-salt-growth-122bn-investment/",
+          "relevant": false
+        },
+        {
+          "title": "UN lays bare the cost of the Black Sea shipping crisis",
+          "summary": "Brussels is seeking to ban tankers insured in Russia and the United Nations is pushing for a new humanitarian grain shipping arrangement in the Black Sea as the maritime dimension of the Ukraine war spreads ever further…",
+          "date": "2026-11-24",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/un-lays-bare-the-cost-of-the-black-sea-shipping-crisis/",
           "relevant": false
         },
         {
