@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T08:01:00Z",
+  "last_updated": "2026-11-24T09:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -9146,15 +9146,6 @@
           "region": "SEA"
         },
         {
-          "title": "Precious Shipping secures year-long ultramax charter",
-          "summary": "Thailand’s Precious Shipping has secured another index-linked ultramax charter with Singapore’s PACC Line, fixing the 2015-built Sarita Naree for up to 13 months at a current equivalent rate of around $23,700 per day…",
-          "date": "2026-11-23",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/precious-shipping-secures-year-long-ultramax-charter/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Go-ahead for Eni’s Indonesian field development paves the way to unlock 8 trillion cubic feet of gas",
           "summary": "A green light has been secured for a gas development off the coast of Indonesia, targeting peak production of 1 billion cubic feet per day.",
           "date": "2026-11-23",
@@ -9180,6 +9171,15 @@
           "source_url": "https://www.oedigital.com/news/544512-saudi-arabia-s-fossil-fuel-stance-at-center-of-cop31-collapse",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Precious Shipping secures year-long ultramax charter",
+          "summary": "Thailand’s Precious Shipping has secured another index-linked ultramax charter with Singapore’s PACC Line, fixing the 2015-built Sarita Naree for up to 13 months at a current equivalent rate of around $23,700 per day…",
+          "date": "2026-11-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/precious-shipping-secures-year-long-ultramax-charter/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Gulf Energy Maritime doubles down on LR1s in South Korea",
