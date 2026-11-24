@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T16:01:12Z",
+  "last_updated": "2026-11-24T17:01:08Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -304,6 +304,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "Grounded bulker pulled free off French coast",
+          "summary": "Salvors have successfully refloated the 28,200 dwt bulk carrier Miro G, four days after the ship was driven onto a beach on France’s Atlantic coast. The 2011-built, Malta-flagged bulker was pulled clear of the shoreline…",
+          "date": "2026-11-24",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/grounded-bulker-pulled-free-off-french-coast/",
+          "relevant": false
+        },
         {
           "title": "Danaos bags $611m in fresh boxship charters",
           "summary": "Greek containership owner Danaos has secured another $611m in contracted revenue through a string of new fixtures and charter extensions, taking its forward revenue backlog to $5bn. The John Coustas-led company revealed…",
@@ -5289,6 +5297,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Used Supertankers Now Cost More Than New Ships as Hormuz War Upends Shipping Markets",
+          "summary": "The war with Iran has so severely distorted the global oil tanker market that 15-year-old supertankers are now worth considerably more than brand-new vessels, highlighting the extraordinary premium placed on...",
+          "date": "2026-11-24",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/used-supertankers-now-cost-more-than-new-ships-as-hormuz-war-upends-shipping-markets/",
+          "relevant": false
+        },
+        {
           "title": "Ukraine Insists Attack on Russian Ships in Libya was Self-Defense",
           "summary": "Ukraine's foreign minister said on Tuesday a drone attack against a Russian military vessel and cargo ship in Libyan waters at the weekend was a legitimate act of self-defense, following criticism from the government in…",
           "date": "2026-11-24",
@@ -5369,14 +5385,6 @@
           "relevant": false
         },
         {
-          "title": "Ukraine Sinks Russian Warship in Libya as Conflict Spreads Beyond Europe",
-          "summary": "Ukraine sank a Russian naval corvette in a Libyan port using naval drones on Sunday, the day after a drone strike on a Russian military-linked cargo ship in the Gulf of Finland, President Volodymyr Zelenskiy said.",
-          "date": "2026-11-23",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/ukraine-sinks-russian-warship-in-libya-as-conflict-spreads-beyond-europe/",
-          "relevant": false
-        },
-        {
           "title": "$4.4 billion play for ConocoPhillips’ Norwegian oil & gas assets and UK infrastructure expands Vår Energi’s North Sea footprint",
           "summary": "Vår Energi is acquiring ConocoPhillips’ Norwegian business and related UK infrastructure, strengthening its position as 'Europe’s largest independent E&P company.'",
           "date": "2026-11-23",
@@ -5406,6 +5414,14 @@
           "date": "2026-11-23",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/conocophillips-4bn-norway-assets-var-energi/",
+          "relevant": false
+        },
+        {
+          "title": "Ukraine Sinks Russian Warship in Libya as Conflict Spreads Beyond Europe",
+          "summary": "Ukraine sank a Russian naval corvette in a Libyan port using naval drones on Sunday, the day after a drone strike on a Russian military-linked cargo ship in the Gulf of Finland, President Volodymyr Zelenskiy said.",
+          "date": "2026-11-23",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/ukraine-sinks-russian-warship-in-libya-as-conflict-spreads-beyond-europe/",
           "relevant": false
         },
         {
@@ -9298,20 +9314,20 @@
           "region": "SEA"
         },
         {
-          "title": "Vietnam Ocean Shipping expands tanker bet with fresh Korean duo",
-          "summary": "Vietnam Ocean Shipping (VOSCO) has been linked to another pair of MR product tanker newbuildings at South Korea’s K Shipbuilding, potentially doubling its orderbook at the yard to four vessels. Shipbrokers have…",
-          "date": "2026-11-24",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/vietnam-ocean-shipping-expands-tanker-bet-with-fresh-korean-duo/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Searah Starts Production from New Bukit Tua Well Offshore Indonesia",
           "summary": "Searah has achieved first hydrocarbons from the NZ3 well at the Bukit Tua field offshore East Java, Indonesia, ahead of schedule.The well reached first hydrocarbons on November 10…",
           "date": "2026-11-24",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544546-searah-starts-production-from-new-bukit-tua-well-offshore-indonesia",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Vietnam Ocean Shipping expands tanker bet with fresh Korean duo",
+          "summary": "Vietnam Ocean Shipping (VOSCO) has been linked to another pair of MR product tanker newbuildings at South Korea’s K Shipbuilding, potentially doubling its orderbook at the yard to four vessels. Shipbrokers have…",
+          "date": "2026-11-24",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/vietnam-ocean-shipping-expands-tanker-bet-with-fresh-korean-duo/",
           "relevant": false,
           "region": "SEA"
         },
