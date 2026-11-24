@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T09:01:07Z",
+  "last_updated": "2026-11-24T10:01:11Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -617,19 +617,19 @@
           "relevant": false
         },
         {
-          "title": "Saipem wins $181m drilling contracts for Scarabeo 9 rig",
-          "summary": "Saipem has secured two offshore drilling contracts worth approximately $181m for its Scarabeo 9 semi-submersible in Egypt and Suriname, with work due to start in 2027.",
-          "date": "2026-11-18",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/saipem-181m-drilling-contracts-scarabeo-9/",
-          "relevant": false
-        },
-        {
           "title": "TKMS signs contract for four additional German MEKO A-200 frigates",
           "summary": "Thyssenkrupp Marine Systems (TKMS) has signed an agreement with Germany to build four more MEKO A-200 DEU frigates. The post TKMS signs contract for four additional German MEKO A-200 frigates appeared first on Naval…",
           "date": "2026-11-18",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/tkms-german-meko-a-200/",
+          "relevant": false
+        },
+        {
+          "title": "Saipem wins $181m drilling contracts for Scarabeo 9 rig",
+          "summary": "Saipem has secured two offshore drilling contracts worth approximately $181m for its Scarabeo 9 semi-submersible in Egypt and Suriname, with work due to start in 2027.",
+          "date": "2026-11-18",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/saipem-181m-drilling-contracts-scarabeo-9/",
           "relevant": false
         },
         {
@@ -7953,6 +7953,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Texas Pacific Land agrees $3bn all-stock acquisition of EagleRock",
+          "summary": "Texas Pacific Land (TPL), a Permian Basin land and water business, has agreed to acquire EagleRock Land in an all-stock transaction valued at approximately $3bn.",
+          "date": "2026-11-24",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/texas-pacific-land-3bn-acquisition-eaglerock/",
+          "relevant": false
+        },
+        {
           "title": "INPEX greenlights five-well Ichthys LNG Phase 2c development",
           "summary": "The Ichthys Joint Venture approved the next phase of offshore development at the INPEX-operated Ichthys LNG project offshore Western Australia. Known as Phase 2c Part 1, the development will include five production…",
           "date": "2026-11-23",
@@ -9136,6 +9144,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Vietnam Ocean Shipping expands tanker bet with fresh Korean duo",
+          "summary": "Vietnam Ocean Shipping (VOSCO) has been linked to another pair of MR product tanker newbuildings at South Korea’s K Shipbuilding, potentially doubling its orderbook at the yard to four vessels. Shipbrokers have…",
+          "date": "2026-11-24",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/vietnam-ocean-shipping-expands-tanker-bet-with-fresh-korean-duo/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Jadestone accuses major shareholder of backdoor takeover attempt",
           "summary": "Asia-Pacific oil and gas producer Jadestone Energy has accused Indonesian shareholder Prima Energy of trying to gain control of the company without paying a takeover premium, after demanding two seats on its board…",
