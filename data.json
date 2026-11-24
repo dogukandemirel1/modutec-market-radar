@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T10:01:11Z",
+  "last_updated": "2026-11-24T11:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -304,6 +304,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "LS Marine Solution selects NjordGuard cable protection for South Korean offshore wind farm",
+          "summary": "AIS, formerly CRP Subsea, and LS Marine Solution have signed a contract for the supply of NjordGuard cable protection systems (CPS) and...",
+          "date": "2026-11-24",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/24/ls-marine-solution-selects-njordguard-cable-protection-for-south-korean-offshore-wind-farm",
+          "relevant": false
+        },
         {
           "title": "Royal Thai Navy Forced to Retender Frigate Programme",
           "summary": "The Royal Thai Navy has been forced to cancel and retender its frigate programme after procedural flaws overturned Hanwha Ocean's selection The post Royal Thai Navy Forced to Retender Frigate Programme appeared first on…",
@@ -7953,6 +7961,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Seatrium cuts 220 jobs in latest post-merger restructuring",
+          "summary": "Singapore-based offshore and marine engineering group Seatrium is laying off around 220 employees, representing 2% of its local workforce, as part of a restructuring programme to streamline operations and consolidate…",
+          "date": "2026-11-24",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/seatrium-cuts-220-jobs-in-latest-post-merger-restructuring/",
+          "relevant": false
+        },
+        {
           "title": "Texas Pacific Land agrees $3bn all-stock acquisition of EagleRock",
           "summary": "Texas Pacific Land (TPL), a Permian Basin land and water business, has agreed to acquire EagleRock Land in an all-stock transaction valued at approximately $3bn.",
           "date": "2026-11-24",
@@ -9150,6 +9166,15 @@
           "date": "2026-11-24",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/vietnam-ocean-shipping-expands-tanker-bet-with-fresh-korean-duo/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Searah Starts Production from New Bukit Tua Well Offshore Indonesia",
+          "summary": "Searah has achieved first hydrocarbons from the NZ3 well at the Bukit Tua field offshore East Java, Indonesia, ahead of schedule.The well reached first hydrocarbons on November 10…",
+          "date": "2026-11-24",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544546-searah-starts-production-from-new-bukit-tua-well-offshore-indonesia",
           "relevant": false,
           "region": "SEA"
         },
