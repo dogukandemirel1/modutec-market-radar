@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T07:01:04Z",
+  "last_updated": "2026-11-24T08:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -305,30 +305,6 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Arabian Drilling picks up $400m in long-term offshore work",
-          "summary": "Saudi Arabian drilling contractor Arabian Drilling has secured a SAR1.5bn ($400m) long-term contract from Khafji Joint Operations (KJO) to provide and operate two self-propelled offshore service units. The agreement…",
-          "date": "2026-11-23",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/arabian-drilling-picks-up-400m-in-long-term-offshore-work/",
-          "relevant": true
-        },
-        {
-          "title": "Shipping Corp of India casts $3.2bn net for 22 ships",
-          "summary": "State-owned Shipping Corporation of India (SCI) is pressing ahead with a fleet expansion drive worth an estimated $3.2bn, launching tenders for up to 22 newbuildings across the gas carrier, tanker and container…",
-          "date": "2026-11-23",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/shipping-corp-of-india-casts-3-2bn-net-for-22-ships/",
-          "relevant": false
-        },
-        {
-          "title": "ExxonMobil greenlights $4bn Angola offshore redevelopment",
-          "summary": "US energy major ExxonMobil and its partners have taken a final investment decision worth an estimated $4bn to redevelop the Kizomba A and B fields offshore Angola, while announcing a fresh hydrocarbon discovery in the…",
-          "date": "2026-11-23",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/exxonmobil-greenlights-4bn-angola-offshore-redevelopment/",
-          "relevant": false
-        },
-        {
           "title": "Royal Thai Navy Forced to Retender Frigate Programme",
           "summary": "The Royal Thai Navy has been forced to cancel and retender its frigate programme after procedural flaws overturned Hanwha Ocean's selection The post Royal Thai Navy Forced to Retender Frigate Programme appeared first on…",
           "date": "2026-11-23",
@@ -374,6 +350,30 @@
           "date": "2026-11-23",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544515-aker-solutions-lines-up-substantial-oil-and-gas-contract",
+          "relevant": false
+        },
+        {
+          "title": "Arabian Drilling picks up $400m in long-term offshore work",
+          "summary": "Saudi Arabian drilling contractor Arabian Drilling has secured a SAR1.5bn ($400m) long-term contract from Khafji Joint Operations (KJO) to provide and operate two self-propelled offshore service units. The agreement…",
+          "date": "2026-11-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/arabian-drilling-picks-up-400m-in-long-term-offshore-work/",
+          "relevant": true
+        },
+        {
+          "title": "Shipping Corp of India casts $3.2bn net for 22 ships",
+          "summary": "State-owned Shipping Corporation of India (SCI) is pressing ahead with a fleet expansion drive worth an estimated $3.2bn, launching tenders for up to 22 newbuildings across the gas carrier, tanker and container…",
+          "date": "2026-11-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/shipping-corp-of-india-casts-3-2bn-net-for-22-ships/",
+          "relevant": false
+        },
+        {
+          "title": "ExxonMobil greenlights $4bn Angola offshore redevelopment",
+          "summary": "US energy major ExxonMobil and its partners have taken a final investment decision worth an estimated $4bn to redevelop the Kizomba A and B fields offshore Angola, while announcing a fresh hydrocarbon discovery in the…",
+          "date": "2026-11-23",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/exxonmobil-greenlights-4bn-angola-offshore-redevelopment/",
           "relevant": false
         },
         {
@@ -5216,6 +5216,22 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "UN lays bare the cost of the Black Sea shipping crisis",
+          "summary": "Brussels is seeking to ban tankers insured in Russia and the United Nations is pushing for a new humanitarian grain shipping arrangement in the Black Sea as the maritime dimension of the Ukraine war spreads ever further…",
+          "date": "2026-11-24",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/un-lays-bare-the-cost-of-the-black-sea-shipping-crisis/",
+          "relevant": false
+        },
+        {
+          "title": "Inui bets on handysize upcycle with fleet expansion",
+          "summary": "Japanese shipowner Inui Global Logistics is looking to expand its handysize bulk carrier fleet by a third by the end of the decade, more than doubling its long-term chartered tonnage in anticipation of a tightening dry…",
+          "date": "2026-11-24",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/inui-bets-on-handysize-upcycle-with-fleet-expansion/",
+          "relevant": false
+        },
         {
           "title": "U.S. Targets Financial Networks Behind Iran’s Tanker Fleet and Oil Trade",
           "summary": "The U.S. Treasury Department on Monday announced new sanctions targeting financial networks supporting Iran’s oil exports and tanker operations, including companies accused of facilitating payments for the National…",
