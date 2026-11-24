@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T21:01:14Z",
+  "last_updated": "2026-11-24T22:01:08Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -345,6 +345,14 @@
           "relevant": false
         },
         {
+          "title": "U.S. Navy Taps Raytheon to Advance SLCM-N Nuclear Cruise Missile",
+          "summary": "The U.S. Navy awarded Raytheon an OTA contract to mature the Nuclear-Armed Sea-Launched Cruise Missile (SLCM-N), teaming with Anduril, Divergent, and Williams. The post U.S. Navy Taps Raytheon to Advance SLCM-N Nuclear…",
+          "date": "2026-11-24",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/u-s-navy-taps-raytheon-to-advance-slcm-n-nuclear-cruise-missile/",
+          "relevant": false
+        },
+        {
           "title": "ExxonMobil signs off on $4 billion FID as new discovery signals more oil potential at Angolan offshore block",
           "summary": "ExxonMobil’s final investment decision (FID) will extend production at Block 15 fields, while a new discovery marks the block’s 21st hydrocarbon find.",
           "date": "2026-11-24",
@@ -401,6 +409,14 @@
           "relevant": false
         },
         {
+          "title": "Royal Thai Navy Forced to Retender Frigate Programme",
+          "summary": "The Royal Thai Navy has been forced to cancel and retender its frigate programme after procedural flaws overturned Hanwha Ocean's selection The post Royal Thai Navy Forced to Retender Frigate Programme appeared first on…",
+          "date": "2026-11-23",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/royal-thai-navy-forced-to-retender-frigate-programme/",
+          "relevant": false
+        },
+        {
           "title": "Oil & gas player books Aker Solutions on assignment worth up to $409 million",
           "summary": "Aker Solutions has received a letter of award (LOA) for a new job with an undisclosed oil and gas company.",
           "date": "2026-11-23",
@@ -422,14 +438,6 @@
           "date": "2026-11-23",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/naval-group-van-halteren-scorpene/",
-          "relevant": false
-        },
-        {
-          "title": "Royal Thai Navy Forced to Retender Frigate Programme",
-          "summary": "The Royal Thai Navy has been forced to cancel and retender its frigate programme after procedural flaws overturned Hanwha Ocean's selection The post Royal Thai Navy Forced to Retender Frigate Programme appeared first on…",
-          "date": "2026-11-23",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/royal-thai-navy-forced-to-retender-frigate-programme/",
           "relevant": false
         },
         {
@@ -5345,6 +5353,14 @@
           "relevant": false
         },
         {
+          "title": "Bayraktar AKINCI Conducts First ORKA Torpedo Release Test",
+          "summary": "Baykar’s Bayraktar AKINCI unmanned combat aerial vehicle (UCAV) has completed an airborne release test with the ORKA next-generation lightweight torpedo developed by Türkiye’s ROKETSAN. Baykar announced the test on 22…",
+          "date": "2026-11-24",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/bayraktar-akinci-conducts-first-orka-torpedo-release-test/",
+          "relevant": false
+        },
+        {
           "title": "EU, UK Agree to Link Emissions Trading Systems",
           "summary": "The EU and UK have agreed to link their Emissions Trading Systems.",
           "date": "2026-11-24",
@@ -5358,14 +5374,6 @@
           "date": "2026-11-24",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/petrobras-pre-salt-growth-122bn-investment/",
-          "relevant": false
-        },
-        {
-          "title": "Bayraktar AKINCI Conducts First ORKA Torpedo Release Test",
-          "summary": "Baykar’s Bayraktar AKINCI unmanned combat aerial vehicle (UCAV) has completed an airborne release test with the ORKA next-generation lightweight torpedo developed by Türkiye’s ROKETSAN. Baykar announced the test on 22…",
-          "date": "2026-11-24",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/bayraktar-akinci-conducts-first-orka-torpedo-release-test/",
           "relevant": false
         },
         {
