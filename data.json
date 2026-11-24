@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T13:01:05Z",
+  "last_updated": "2026-11-24T14:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -345,14 +345,6 @@
           "relevant": false
         },
         {
-          "title": "Royal Thai Navy Forced to Retender Frigate Programme",
-          "summary": "The Royal Thai Navy has been forced to cancel and retender its frigate programme after procedural flaws overturned Hanwha Ocean's selection The post Royal Thai Navy Forced to Retender Frigate Programme appeared first on…",
-          "date": "2026-11-23",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/royal-thai-navy-forced-to-retender-frigate-programme/",
-          "relevant": false
-        },
-        {
           "title": "Oil & gas player books Aker Solutions on assignment worth up to $409 million",
           "summary": "Aker Solutions has received a letter of award (LOA) for a new job with an undisclosed oil and gas company.",
           "date": "2026-11-23",
@@ -382,6 +374,14 @@
           "date": "2026-11-23",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544520-arabian-drilling-seals-400m-offshore-vessel-deal-with-kjo",
+          "relevant": false
+        },
+        {
+          "title": "Royal Thai Navy Forced to Retender Frigate Programme",
+          "summary": "The Royal Thai Navy has been forced to cancel and retender its frigate programme after procedural flaws overturned Hanwha Ocean's selection The post Royal Thai Navy Forced to Retender Frigate Programme appeared first on…",
+          "date": "2026-11-23",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/royal-thai-navy-forced-to-retender-frigate-programme/",
           "relevant": false
         },
         {
@@ -433,14 +433,6 @@
           "relevant": false
         },
         {
-          "title": "Italy’s Next-Generation DDG (NG DDG / DDX): First Platform and Combat System Details",
-          "summary": "Following the €3.7 billion contract signing, Naval News reveals the first platform, sensor, and weapon details of the Italian Navy’s new 13,500-tonne NG DDG (previously known as DDX). The post Italy’s Next-Generation…",
-          "date": "2026-11-20",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/features/2026/11/italy-next-generation-ddg-ddx-combat-system-details/",
-          "relevant": false
-        },
-        {
           "title": "FPSO revamp to begin next year as Navitas addresses contractor challenges",
           "summary": "Sea Lion oil development remains on track, according to Navitas, which is working to replace contractors amid Argentina-related tensions.",
           "date": "2026-11-20",
@@ -462,6 +454,14 @@
           "date": "2026-11-20",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/wire/indian_refiners_race_to_secure_oil_tankers-20-nov-2026-185139-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Italy’s Next-Generation DDG (NG DDG / DDX): First Platform and Combat System Details",
+          "summary": "Following the €3.7 billion contract signing, Naval News reveals the first platform, sensor, and weapon details of the Italian Navy’s new 13,500-tonne NG DDG (previously known as DDX). The post Italy’s Next-Generation…",
+          "date": "2026-11-20",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/features/2026/11/italy-next-generation-ddg-ddx-combat-system-details/",
           "relevant": false
         },
         {
@@ -8022,6 +8022,14 @@
           "date": "2026-11-24",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/seatrium-cuts-220-jobs-in-latest-post-merger-restructuring/",
+          "relevant": false
+        },
+        {
+          "title": "DOF sells 2008-built vessel and charters it back for two years",
+          "summary": "DOF has struck a deal to divest its 2008-built construction support vessel (CSV), expecting a $35 million gain upon delivery to the new owners.",
+          "date": "2026-11-24",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/24/dof-sells-2008-built-vessel-and-charters-it-back-for-two-years",
           "relevant": false
         },
         {
