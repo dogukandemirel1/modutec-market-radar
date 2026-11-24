@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T11:01:02Z",
+  "last_updated": "2026-11-24T12:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -310,6 +310,22 @@
           "date": "2026-11-24",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/24/ls-marine-solution-selects-njordguard-cable-protection-for-south-korean-offshore-wind-farm",
+          "relevant": false
+        },
+        {
+          "title": "Eni receives approval for Geliga gas field plan in Indonesia",
+          "summary": "Eni has obtained approval from Indonesian authorities for the plan of development (POD) concerning the Geliga gas field within the Ganal production sharing contract (PSC) in the Kutei Basin.",
+          "date": "2026-11-24",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/eni-approval-geliga-gas-field-indonesia/",
+          "relevant": false
+        },
+        {
+          "title": "DEME Lands Offshore Works Contract for Canadian Gas Pipeline",
+          "summary": "Belgian marine engineering company DEME has secured a major subcontract from Allseas for marine construction works on the Prince Rupert Gas Transmission (PRGT) pipeline project in British Columbia…",
+          "date": "2026-11-24",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544548-deme-lands-offshore-works-contract-for-canadian-gas-pipeline",
           "relevant": false
         },
         {
@@ -5225,11 +5241,35 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "One Maritime Generation targets specialist shipmanagement niche",
+          "summary": "Two German shipping professionals from markedly different maritime backgrounds have established a shipmanagement company in Hamburg, targeting a niche in the market for vessels engaged in complex and unconventional…",
+          "date": "2026-11-24",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/one-maritime-generation-targets-specialist-shipmanagement-niche/",
+          "relevant": false
+        },
+        {
           "title": "UN lays bare the cost of the Black Sea shipping crisis",
           "summary": "Brussels is seeking to ban tankers insured in Russia and the United Nations is pushing for a new humanitarian grain shipping arrangement in the Black Sea as the maritime dimension of the Ukraine war spreads ever further…",
           "date": "2026-11-24",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/un-lays-bare-the-cost-of-the-black-sea-shipping-crisis/",
+          "relevant": false
+        },
+        {
+          "title": "EU, UK Agree to Link Emissions Trading Systems",
+          "summary": "The EU and UK have agreed to link their Emissions Trading Systems.",
+          "date": "2026-11-24",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/eu_uk_agree_to_link_emissions_trading_systems-24-nov-2026-185154-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Petrobras targets pre-salt growth in $122bn investment programme",
+          "summary": "Petrobras has announced plans to invest $122bn between 2027 and 2031, following approval of its new business plan by the company’s board of directors.",
+          "date": "2026-11-24",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/petrobras-pre-salt-growth-122bn-investment/",
           "relevant": false
         },
         {
@@ -7977,6 +8017,14 @@
           "relevant": false
         },
         {
+          "title": "Seatrium to Cut 2% of Singapore Workforce in Yard Shake-Up",
+          "summary": "Singapore-based offshore and marine engineering group Seatrium will reduce its Singapore workforce by approximately 2% as part of a restructuring program aimed at…",
+          "date": "2026-11-24",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544547-seatrium-to-cut-2-of-singapore-workforce-in-yard-shake-up",
+          "relevant": false
+        },
+        {
           "title": "INPEX greenlights five-well Ichthys LNG Phase 2c development",
           "summary": "The Ichthys Joint Venture approved the next phase of offshore development at the INPEX-operated Ichthys LNG project offshore Western Australia. Known as Phase 2c Part 1, the development will include five production…",
           "date": "2026-11-23",
@@ -9161,6 +9209,15 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
+          "title": "Indonesia clears offshore gas development for Eni-Petronas venture",
+          "summary": "Indonesian authorities have approved the development plan for the Geliga gas field offshore East Kalimantan, paving the way for a major new deepwater production hub involving an FPSO vessel and 15 subsea wells. The…",
+          "date": "2026-11-24",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/indonesia-clears-offshore-gas-development-for-eni-petronas-venture/",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
           "title": "Vietnam Ocean Shipping expands tanker bet with fresh Korean duo",
           "summary": "Vietnam Ocean Shipping (VOSCO) has been linked to another pair of MR product tanker newbuildings at South Korea’s K Shipbuilding, potentially doubling its orderbook at the yard to four vessels. Shipbrokers have…",
           "date": "2026-11-24",
@@ -9193,6 +9250,15 @@
           "date": "2026-11-23",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/23/go-ahead-for-enis-indonesian-field-development-paves-the-way-to-unlock-8-trillion-cubic-feet-of-gas",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Indonesia Approves Development Plan for Geliga Oilfield",
+          "summary": "Eni announces that the Indonesian authorities have approved the Plan of Development (POD) for the Geliga field (Ganal PSC), a milestone that advances the development…",
+          "date": "2026-11-23",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544531-indonesia-approves-development-plan-for-geliga-oilfield",
           "relevant": false,
           "region": "SEA"
         },
