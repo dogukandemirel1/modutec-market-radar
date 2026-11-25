@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T19:01:06Z",
+  "last_updated": "2026-11-25T20:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -367,6 +367,14 @@
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/11/uk-awards-hii-142-million-contract-for-royal-navy-remus-620-uuvs/",
           "relevant": false
+        },
+        {
+          "title": "ADNOC Places Restrictions on Tankers After Attacks",
+          "summary": "Tankers loaded with crude and oil products are facing restrictions on entering waters near some of the United Arab Emirates' major oil and gas export hubs.",
+          "date": "2026-11-25",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/adnoc_places_restrictions_on_tankers_after_attacks-25-nov-2026-185170-article/?rss=true",
+          "relevant": true
         },
         {
           "title": "Saipem secures $650m Saudi offshore EPCI work from Aramco",
