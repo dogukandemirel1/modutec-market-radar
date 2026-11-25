@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T14:12:34Z",
+  "last_updated": "2026-11-25T15:01:13Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -305,6 +305,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Damen and Windcat sign for secondMulti-Purpose Accommodation Support Vessel (MP-ASV)",
+          "summary": "On 24 November 2026, Windcat signed a contract with Damen Shipyards Group for the second Multi-Purpose Accommodation Support Vessel (MP-ASV) in the Innovation Series. The contract follows the order for...",
+          "date": "2026-11-25",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/damen-and-windcat-sign-for-secondmulti-purpose-accommodation-support-vessel-mp-asv/",
+          "relevant": false
+        },
+        {
           "title": "Safe Bulkers offloads vintage post-panamax for $15m",
           "summary": "Polys Hajioannou-led Safe Bulkers is clearing out more older tonnage, striking a $14.86m deal to sell a 20-year-old post-panamax bulk carrier. The New York- and Athens-listed owner revealed in a US securities filing…",
           "date": "2026-11-25",
@@ -361,11 +369,27 @@
           "relevant": false
         },
         {
+          "title": "Saipem secures $650m Saudi offshore EPCI work from Aramco",
+          "summary": "Saipem has secured two offshore contracts worth around $650m from Aramco for EPCI work at five fields in Saudi Arabia.",
+          "date": "2026-11-25",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/saipem-650m-saudi-offshore-aramco/",
+          "relevant": true
+        },
+        {
           "title": "Expro wins three-year flow management deal in Alaska",
           "summary": "US-based energy services company Expro has been awarded a three-year well flow management contract by a major US operator for operations on the Arctic North Slope in Alaska.",
           "date": "2026-11-25",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/expro-three-year-flow-management-alaska/",
+          "relevant": false
+        },
+        {
+          "title": "HII wins $186m Royal Navy contract for REMUS 620 mine-hunting fleet",
+          "summary": "The UK's NAD Group has awarded HII a contract to supply REMUS 620 UUVs for the Royal Navy's Mine-Hunting Capability (MHC) programme. The post HII wins $186m Royal Navy contract for REMUS 620 mine-hunting fleet appeared…",
+          "date": "2026-11-25",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/hii-royal-navy-remus-620/",
           "relevant": false
         },
         {
@@ -8161,19 +8185,19 @@
           "relevant": false
         },
         {
-          "title": "Etu Energias acquires interests in Angola’s offshore blocks 14 and 14K",
-          "summary": "Etu Energias, via its subsidiary Etu Energias Block 14, has acquired a 20% participating interest in Block 14 and a 10% interest in Block 14K, located offshore Angola.",
-          "date": "2026-11-23",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/etu-energias-angolas-offshore-blocks-14-14k/",
-          "relevant": false
-        },
-        {
           "title": "Argentina signs LoI for up to three Fincantieri FCX20 corvettes",
           "summary": "Argentina and Italy signed a Letter of Intent covering Argentina’s potential acquisition of up to three FCX20 corvettes from Fincantieri. The post Argentina signs LoI for up to three Fincantieri FCX20 corvettes appeared…",
           "date": "2026-11-23",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/argentina-fincantieri-fcx20-corvettes/",
+          "relevant": false
+        },
+        {
+          "title": "Etu Energias acquires interests in Angola’s offshore blocks 14 and 14K",
+          "summary": "Etu Energias, via its subsidiary Etu Energias Block 14, has acquired a 20% participating interest in Block 14 and a 10% interest in Block 14K, located offshore Angola.",
+          "date": "2026-11-23",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/etu-energias-angolas-offshore-blocks-14-14k/",
           "relevant": false
         },
         {
