@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T18:01:15Z",
+  "last_updated": "2026-11-25T19:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5377,6 +5377,22 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "U.S. Targets China, EU With New Tariffs Citing Overcapacity",
+          "summary": "The US announced plans to impose a fresh round of tariffs on goods from China, the European Union and a dozen other economies under President Donald Trump’s push to restore sweeping global import taxes that the Supreme…",
+          "date": "2026-11-25",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/u-s-targets-china-eu-with-new-tariffs-citing-overcapacity/",
+          "relevant": false
+        },
+        {
+          "title": "IMO Sounds Alarm Over Shortage of Training Berths for Future Seafarers",
+          "summary": "The International Maritime Organization (IMO) is calling on shipping companies to make more training berths available to cadets, highlighting a longstanding disconnect between the industry’s need for qualified seafarers…",
+          "date": "2026-11-25",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/imo-sounds-alarm-over-shortage-of-training-berths-for-future-seafarers/",
+          "relevant": false
+        },
+        {
           "title": "Photo Gallery: 2026 IADC Geothermal Conference, 17-18 November, Copenhagen, Denmark",
           "summary": "Geothermal energy regulatory regimes are inconsistent and immature compared to those of the oil and gas industry, which creates obstacles and extends the lead time for geothermal projects. IADC’s expertise in providing…",
           "date": "2026-11-25",
@@ -5425,22 +5441,6 @@
           "relevant": false
         },
         {
-          "title": "Used Supertankers Now Cost More Than New Ships as Hormuz War Upends Shipping Markets",
-          "summary": "The war with Iran has so severely distorted the global oil tanker market that 15-year-old supertankers are now worth considerably more than brand-new vessels, highlighting the extraordinary premium placed on...",
-          "date": "2026-11-24",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/used-supertankers-now-cost-more-than-new-ships-as-hormuz-war-upends-shipping-markets/",
-          "relevant": false
-        },
-        {
-          "title": "Ukraine Insists Attack on Russian Ships in Libya was Self-Defense",
-          "summary": "Ukraine's foreign minister said on Tuesday a drone attack against a Russian military vessel and cargo ship in Libyan waters at the weekend was a legitimate act of self-defense, following criticism from the government in…",
-          "date": "2026-11-24",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/ukraine-insists-attack-on-russian-ships-in-libya-was-self-defense/",
-          "relevant": false
-        },
-        {
           "title": "Searah gets go-ahead for Geliga gas hub offshore Indonesia",
           "summary": "Indonesian authorities gave the go-ahead to the plan of development for the Geliga gas field in the Ganal PSC offshore East Kalimantan, six months after Eni discovered it. Geliga is operated by Searah, the 50/50 company…",
           "date": "2026-11-24",
@@ -5470,6 +5470,22 @@
           "date": "2026-11-24",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/petrobras-pre-salt-growth-122bn-investment/",
+          "relevant": false
+        },
+        {
+          "title": "Used Supertankers Now Cost More Than New Ships as Hormuz War Upends Shipping Markets",
+          "summary": "The war with Iran has so severely distorted the global oil tanker market that 15-year-old supertankers are now worth considerably more than brand-new vessels, highlighting the extraordinary premium placed on...",
+          "date": "2026-11-24",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/used-supertankers-now-cost-more-than-new-ships-as-hormuz-war-upends-shipping-markets/",
+          "relevant": false
+        },
+        {
+          "title": "Ukraine Insists Attack on Russian Ships in Libya was Self-Defense",
+          "summary": "Ukraine's foreign minister said on Tuesday a drone attack against a Russian military vessel and cargo ship in Libyan waters at the weekend was a legitimate act of self-defense, following criticism from the government in…",
+          "date": "2026-11-24",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/ukraine-insists-attack-on-russian-ships-in-libya-was-self-defense/",
           "relevant": false
         },
         {
