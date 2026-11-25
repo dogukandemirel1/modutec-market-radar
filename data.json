@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T15:01:13Z",
+  "last_updated": "2026-11-25T16:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5382,6 +5382,14 @@
           "date": "2026-11-25",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/photo-gallery-2026-iadc-geothermal-conference-17-18-november-copenhagen-denmark-81252",
+          "relevant": false
+        },
+        {
+          "title": "TotalEnergies to Acquire Stake in US Gas Assets from Continental",
+          "summary": "'This transaction will strengthen our natural gas production in the United States and consolidate TotalEnergies' integrated position from upstream gas production to LNG exports'.",
+          "date": "2026-11-25",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/totalenergies_to_acquire_stake_in_us_gas_assets_from_continental-25-nov-2026-185166-article/?rss=true",
           "relevant": false
         },
         {
