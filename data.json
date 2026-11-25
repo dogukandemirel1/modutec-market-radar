@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T08:01:10Z",
+  "last_updated": "2026-11-25T09:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -313,6 +313,14 @@
           "relevant": false
         },
         {
+          "title": "Johan Castberg Oil Field’s Output Curtailed by Offloading System Fault",
+          "summary": "A spokesperson for Norway's Equinor said on Tuesday that production at the Johan Castberg oilfield in the Barents Sea had been temporarily reduced to a minimum level…",
+          "date": "2026-11-25",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544572-johan-castberg-oil-field-s-output-curtailed-by-offloading-system-fault",
+          "relevant": false
+        },
+        {
           "title": "Maersk and ONE Eye Landmark Global North-South Shipping Alliance",
           "summary": "The formation of container shipping’s first global liner alliance covering the north-south trades appears to be taking shape, The Loadstar has learned.",
           "date": "2026-11-24",
@@ -342,22 +350,6 @@
           "date": "2026-11-24",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/11/u-s-navy-taps-raytheon-to-advance-slcm-n-nuclear-cruise-missile/",
-          "relevant": false
-        },
-        {
-          "title": "ExxonMobil signs off on $4 billion FID as new discovery signals more oil potential at Angolan offshore block",
-          "summary": "ExxonMobil’s final investment decision (FID) will extend production at Block 15 fields, while a new discovery marks the block’s 21st hydrocarbon find.",
-          "date": "2026-11-24",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/2026/11/24/exxonmobil-signs-off-on-dollar4-billion-fid-as-new-discovery-signals-more-oil-potential-at-angolan-offshore-block",
-          "relevant": false
-        },
-        {
-          "title": "LS Marine Solution selects NjordGuard cable protection for South Korean offshore wind farm",
-          "summary": "AIS, formerly CRP Subsea, and LS Marine Solution have signed a contract for the supply of NjordGuard cable protection systems (CPS) and...",
-          "date": "2026-11-24",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/2026/11/24/ls-marine-solution-selects-njordguard-cable-protection-for-south-korean-offshore-wind-farm",
           "relevant": false
         },
         {
@@ -401,6 +393,22 @@
           "relevant": false
         },
         {
+          "title": "ExxonMobil signs off on $4 billion FID as new discovery signals more oil potential at Angolan offshore block",
+          "summary": "ExxonMobil’s final investment decision (FID) will extend production at Block 15 fields, while a new discovery marks the block’s 21st hydrocarbon find.",
+          "date": "2026-11-24",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/24/exxonmobil-signs-off-on-dollar4-billion-fid-as-new-discovery-signals-more-oil-potential-at-angolan-offshore-block",
+          "relevant": false
+        },
+        {
+          "title": "LS Marine Solution selects NjordGuard cable protection for South Korean offshore wind farm",
+          "summary": "AIS, formerly CRP Subsea, and LS Marine Solution have signed a contract for the supply of NjordGuard cable protection systems (CPS) and...",
+          "date": "2026-11-24",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/24/ls-marine-solution-selects-njordguard-cable-protection-for-south-korean-offshore-wind-farm",
+          "relevant": false
+        },
+        {
           "title": "Grounded bulker pulled free off French coast",
           "summary": "Salvors have successfully refloated the 28,200 dwt bulk carrier Miro G, four days after the ship was driven onto a beach on France’s Atlantic coast. The 2011-built, Malta-flagged bulker was pulled clear of the shoreline…",
           "date": "2026-11-24",
@@ -425,14 +433,6 @@
           "relevant": false
         },
         {
-          "title": "Oil & gas player books Aker Solutions on assignment worth up to $409 million",
-          "summary": "Aker Solutions has received a letter of award (LOA) for a new job with an undisclosed oil and gas company.",
-          "date": "2026-11-23",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/2026/11/23/oil-and-gas-player-books-aker-solutions-on-assignment-worth-up-to-dollar409-million",
-          "relevant": false
-        },
-        {
           "title": "ExxonMobil and partners approve $4bn investment in Angola’s Block 15",
           "summary": "ExxonMobil and its partners in Angola's Block 15 have agreed on a final investment decision (FID) valued at approximately $4bn to redevelop the Kizomba A and Kizomba B fields, as well as to develop the Likembe field.",
           "date": "2026-11-23",
@@ -446,6 +446,14 @@
           "date": "2026-11-23",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/naval-group-van-halteren-scorpene/",
+          "relevant": false
+        },
+        {
+          "title": "Oil & gas player books Aker Solutions on assignment worth up to $409 million",
+          "summary": "Aker Solutions has received a letter of award (LOA) for a new job with an undisclosed oil and gas company.",
+          "date": "2026-11-23",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/23/oil-and-gas-player-books-aker-solutions-on-assignment-worth-up-to-dollar409-million",
           "relevant": false
         },
         {
@@ -617,19 +625,19 @@
           "relevant": false
         },
         {
-          "title": "Boskalis Subsea Services joins one of 'UK’s largest offshore decommissioning programs'",
-          "summary": "Boskalis Subsea Services has secured a long-term contract with Apache North Sea for what is described as one of the UK’s largest offshore...",
-          "date": "2026-11-19",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/2026/11/19/boskalis-subsea-services-joins-one-of-uks-largest-offshore-decommissioning-programs",
-          "relevant": false
-        },
-        {
           "title": "Raytheon awards Ursa Major and Avio USA contract for Tomahawk booster",
           "summary": "Raytheon, an RTX business, has awarded Ursa Major and Avio USA a joint contract to design, develop, and qualify a new solid rocket motor booster for the Tomahawk cruise missile, the companies announced. The post…",
           "date": "2026-11-19",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/raytheon-ursa-major-avio-tomahawk/",
+          "relevant": false
+        },
+        {
+          "title": "Boskalis Subsea Services joins one of 'UK’s largest offshore decommissioning programs'",
+          "summary": "Boskalis Subsea Services has secured a long-term contract with Apache North Sea for what is described as one of the UK’s largest offshore...",
+          "date": "2026-11-19",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/19/boskalis-subsea-services-joins-one-of-uks-largest-offshore-decommissioning-programs",
           "relevant": false
         },
         {
@@ -705,6 +713,14 @@
           "relevant": false
         },
         {
+          "title": "TKMS signs contract for four additional German MEKO A-200 frigates",
+          "summary": "Thyssenkrupp Marine Systems (TKMS) has signed an agreement with Germany to build four more MEKO A-200 DEU frigates. The post TKMS signs contract for four additional German MEKO A-200 frigates appeared first on Naval…",
+          "date": "2026-11-18",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/tkms-german-meko-a-200/",
+          "relevant": false
+        },
+        {
           "title": "Greece: Dodecanese islands' link to mainland awarded €228.9 million EU grant",
           "summary": "An interconnector that will link Greece's Dodecanese islands to the mainland electricity grid has secured the largest grant ever awarded under...",
           "date": "2026-11-18",
@@ -726,14 +742,6 @@
           "date": "2026-11-18",
           "source_name": "Offshore Energy",
           "source_url": "https://www.offshore-energy.biz/2026/11/18/saipem-rig-lines-up-multimillion-dollar-gigs-off-egypt-and-surinames-coasts",
-          "relevant": false
-        },
-        {
-          "title": "TKMS signs contract for four additional German MEKO A-200 frigates",
-          "summary": "Thyssenkrupp Marine Systems (TKMS) has signed an agreement with Germany to build four more MEKO A-200 DEU frigates. The post TKMS signs contract for four additional German MEKO A-200 frigates appeared first on Naval…",
-          "date": "2026-11-18",
-          "source_name": "Naval Technology",
-          "source_url": "https://www.naval-technology.com/news/tkms-german-meko-a-200/",
           "relevant": false
         },
         {
@@ -5257,6 +5265,22 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "British sanctions put $390m of Dynagas charter revenues at risk",
+          "summary": "With little more than five weeks to go before Britain tightens its sanctions on the transportation of Russian LNG, George Procopiou-backed Dynagas LNG Partners is still seeking replacement insurance for two vessels…",
+          "date": "2026-11-25",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/british-sanctions-put-390m-of-dynagas-charter-revenues-at-risk/",
+          "relevant": false
+        },
+        {
+          "title": "Equinor, JAPEX Agree Goliat-Verdande Stake Exchange",
+          "summary": "Equinor and JAPEX have agreed to exchange interests in offshore oil and gas assets on the Norwegian continental shelf, with Equinor set to increase its stake in the Verdande field…",
+          "date": "2026-11-25",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544571-equinor-japex-agree-goliat-verdande-stake-exchange",
+          "relevant": false
+        },
+        {
           "title": "Used Supertankers Now Cost More Than New Ships as Hormuz War Upends Shipping Markets",
           "summary": "The war with Iran has so severely distorted the global oil tanker market that 15-year-old supertankers are now worth considerably more than brand-new vessels, highlighting the extraordinary premium placed on...",
           "date": "2026-11-24",
@@ -5329,22 +5353,6 @@
           "relevant": false
         },
         {
-          "title": "$4.4 billion play for ConocoPhillips’ Norwegian oil & gas assets and UK infrastructure expands Vår Energi’s North Sea footprint",
-          "summary": "Vår Energi is acquiring ConocoPhillips’ Norwegian business and related UK infrastructure, strengthening its position as 'Europe’s largest independent E&P company.'",
-          "date": "2026-11-23",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/2026/11/23/dollar44-billion-play-for-conocophillips-norwegian-oil-and-gas-assets-and-uk-infrastructure-expands-var-energis-north-sea-footprint",
-          "relevant": false
-        },
-        {
-          "title": "First well hits target depth offshore Oman as operator gets ready for next one",
-          "summary": "Masirah Oil has reached target depth at the first well in its drilling campaign offshore Oman and will proceed with the move to the second well.",
-          "date": "2026-11-23",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/2026/11/23/first-well-hits-target-depth-offshore-oman-as-operator-gets-ready-for-next-one",
-          "relevant": false
-        },
-        {
           "title": "Europa Oil Gets Environmental Permit for Cloughton Appraisal Well",
           "summary": "The approval is separate from the planning permission for the proposed onshore gas project, for which Europa is appealing the North Yorkshire Council's rejection.",
           "date": "2026-11-23",
@@ -5358,6 +5366,22 @@
           "date": "2026-11-23",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/conocophillips-4bn-norway-assets-var-energi/",
+          "relevant": false
+        },
+        {
+          "title": "$4.4 billion play for ConocoPhillips’ Norwegian oil & gas assets and UK infrastructure expands Vår Energi’s North Sea footprint",
+          "summary": "Vår Energi is acquiring ConocoPhillips’ Norwegian business and related UK infrastructure, strengthening its position as 'Europe’s largest independent E&P company.'",
+          "date": "2026-11-23",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/23/dollar44-billion-play-for-conocophillips-norwegian-oil-and-gas-assets-and-uk-infrastructure-expands-var-energis-north-sea-footprint",
+          "relevant": false
+        },
+        {
+          "title": "First well hits target depth offshore Oman as operator gets ready for next one",
+          "summary": "Masirah Oil has reached target depth at the first well in its drilling campaign offshore Oman and will proceed with the move to the second well.",
+          "date": "2026-11-23",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/23/first-well-hits-target-depth-offshore-oman-as-operator-gets-ready-for-next-one",
           "relevant": false
         },
         {
@@ -7993,14 +8017,6 @@
           "relevant": false
         },
         {
-          "title": "DOF sells 2008-built vessel and charters it back for two years",
-          "summary": "DOF has struck a deal to divest its 2008-built construction support vessel (CSV), expecting a $35 million gain upon delivery to the new owners.",
-          "date": "2026-11-24",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/2026/11/24/dof-sells-2008-built-vessel-and-charters-it-back-for-two-years",
-          "relevant": false
-        },
-        {
           "title": "Texas Pacific Land agrees $3bn all-stock acquisition of EagleRock",
           "summary": "Texas Pacific Land (TPL), a Permian Basin land and water business, has agreed to acquire EagleRock Land in an all-stock transaction valued at approximately $3bn.",
           "date": "2026-11-24",
@@ -8025,6 +8041,14 @@
           "relevant": false
         },
         {
+          "title": "DOF sells 2008-built vessel and charters it back for two years",
+          "summary": "DOF has struck a deal to divest its 2008-built construction support vessel (CSV), expecting a $35 million gain upon delivery to the new owners.",
+          "date": "2026-11-24",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/24/dof-sells-2008-built-vessel-and-charters-it-back-for-two-years",
+          "relevant": false
+        },
+        {
           "title": "Seatrium cuts 220 jobs in latest post-merger restructuring",
           "summary": "Singapore-based offshore and marine engineering group Seatrium is laying off around 220 employees, representing 2% of its local workforce, as part of a restructuring programme to streamline operations and consolidate…",
           "date": "2026-11-24",
@@ -8041,14 +8065,6 @@
           "relevant": false
         },
         {
-          "title": "1974-built rig changes hands as Dolphin Drilling and SPM forge joint venture for drilling jobs in India",
-          "summary": "With the sale of a 52-year-old semi-submersible out of the way, Dolphin Drilling and SPM have taken steps to create an India-focused joint venture.",
-          "date": "2026-11-23",
-          "source_name": "Offshore Energy",
-          "source_url": "https://www.offshore-energy.biz/2026/11/23/1974-built-rig-changes-hands-as-dolphin-drilling-and-spm-forge-joint-venture-for-drilling-jobs-in-india",
-          "relevant": false
-        },
-        {
           "title": "Etu Energias acquires interests in Angola’s offshore blocks 14 and 14K",
           "summary": "Etu Energias, via its subsidiary Etu Energias Block 14, has acquired a 20% participating interest in Block 14 and a 10% interest in Block 14K, located offshore Angola.",
           "date": "2026-11-23",
@@ -8062,6 +8078,14 @@
           "date": "2026-11-23",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/argentina-fincantieri-fcx20-corvettes/",
+          "relevant": false
+        },
+        {
+          "title": "1974-built rig changes hands as Dolphin Drilling and SPM forge joint venture for drilling jobs in India",
+          "summary": "With the sale of a 52-year-old semi-submersible out of the way, Dolphin Drilling and SPM have taken steps to create an India-focused joint venture.",
+          "date": "2026-11-23",
+          "source_name": "Offshore Energy",
+          "source_url": "https://www.offshore-energy.biz/2026/11/23/1974-built-rig-changes-hands-as-dolphin-drilling-and-spm-forge-joint-venture-for-drilling-jobs-in-india",
           "relevant": false
         },
         {
