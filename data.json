@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T09:01:04Z",
+  "last_updated": "2026-11-25T10:01:00Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -304,6 +304,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "TotalEnergies taps Shearwater for fresh Angola survey",
+          "summary": "Norwegian offshore seismic vessel operator Shearwater Geoservices has been awarded a 4D towed-streamer seismic acquisition project by TotalEnergies offshore Angola. Amazon Conqueror will conduct the survey in Blocks 17…",
+          "date": "2026-11-25",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/totalenergies-taps-shearwater-for-fresh-angola-survey/",
+          "relevant": false
+        },
         {
           "title": "UK Awards HII £142 Million Contract for Royal Navy REMUS 620 UUVs",
           "summary": "The UK Ministry of Defence has awarded HII a £142 million ($186 million) contract to supply REMUS 620 UUVs and Sea Launchers for the Royal Navy MHC program. The post UK Awards HII £142 Million Contract for Royal Navy…",
@@ -5270,6 +5278,14 @@
           "date": "2026-11-25",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/british-sanctions-put-390m-of-dynagas-charter-revenues-at-risk/",
+          "relevant": false
+        },
+        {
+          "title": "Iraq Rebuffs OPEC Assessment of Output Capacity",
+          "summary": "Iraq rejected an assessment of its oil production capacity commissioned by OPEC+, according to people familiar with the matter, setting up a potential clash at this weekend's key meeting on production targets.",
+          "date": "2026-11-25",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/iraq_rebuffs_opec_assessment_of_output_capacity-25-nov-2026-185161-article/?rss=true",
           "relevant": false
         },
         {
