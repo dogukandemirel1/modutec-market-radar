@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T11:01:04Z",
+  "last_updated": "2026-11-25T12:01:15Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -353,6 +353,30 @@
           "relevant": false
         },
         {
+          "title": "Expro wins three-year flow management deal in Alaska",
+          "summary": "US-based energy services company Expro has been awarded a three-year well flow management contract by a major US operator for operations on the Arctic North Slope in Alaska.",
+          "date": "2026-11-25",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/expro-three-year-flow-management-alaska/",
+          "relevant": false
+        },
+        {
+          "title": "Petronas Names ‘World's First’ Nearshore FLNG Facility",
+          "summary": "Petronas has officially named its third floating liquefied natural gas (FLNG) facility, PFLNG TIGA, at Samsung Heavy Industries' shipyard in South Korea, ahead of…",
+          "date": "2026-11-25",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544579-petronas-names-world-s-first-nearshore-flng-facility",
+          "relevant": false
+        },
+        {
+          "title": "Windcat Expands Offshore Fleet with Second Damen Multi-Purpose Vessel",
+          "summary": "Windcat has signed a contract with Damen Shipyards Group for a second Multi-Purpose Accommodation Support Vessel (MP-ASV) under its Innovation Series, expanding…",
+          "date": "2026-11-25",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544577-windcat-expands-offshore-fleet-with-second-damen-multi-purpose-vessel",
+          "relevant": false
+        },
+        {
           "title": "NextGeo Gets $12.7M Offshore Survey Job for Spain-France Hydrogen Link",
           "summary": "Italian offshore services provider Next Geosolutions (NextGeo) has secured a contract worth approximately $12.7 million (€11.6 million) from BarMar for offshore…",
           "date": "2026-11-25",
@@ -489,19 +513,19 @@
           "relevant": false
         },
         {
-          "title": "ExxonMobil and partners approve $4bn investment in Angola’s Block 15",
-          "summary": "ExxonMobil and its partners in Angola's Block 15 have agreed on a final investment decision (FID) valued at approximately $4bn to redevelop the Kizomba A and Kizomba B fields, as well as to develop the Likembe field.",
-          "date": "2026-11-23",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/exxonmobil-partners-4bn-angolas-block-15/",
-          "relevant": false
-        },
-        {
           "title": "Naval Group taps Van Halteren for Scorpène submarine winches",
           "summary": "Naval Group has awarded Van Halteren Technologies a contract to supply anchor winches for a variant of its conventionally powered Scorpène attack submarine. The post Naval Group taps Van Halteren for Scorpène submarine…",
           "date": "2026-11-23",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/naval-group-van-halteren-scorpene/",
+          "relevant": false
+        },
+        {
+          "title": "ExxonMobil and partners approve $4bn investment in Angola’s Block 15",
+          "summary": "ExxonMobil and its partners in Angola's Block 15 have agreed on a final investment decision (FID) valued at approximately $4bn to redevelop the Kizomba A and Kizomba B fields, as well as to develop the Likembe field.",
+          "date": "2026-11-23",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/exxonmobil-partners-4bn-angolas-block-15/",
           "relevant": false
         },
         {
