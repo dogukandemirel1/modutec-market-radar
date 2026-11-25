@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T13:01:03Z",
+  "last_updated": "2026-11-25T14:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -342,6 +342,14 @@
           "date": "2026-11-25",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/totalenergies-taps-shearwater-for-fresh-angola-survey/",
+          "relevant": false
+        },
+        {
+          "title": "Expro to provide flowback for 200-well North Slope development",
+          "summary": "Expro secured a three-year contract with a major US operator to provide well flow management services on Alaska’s Arctic North Slope. The award is Expro’s largest Arctic project to date and includes two one-year…",
+          "date": "2026-11-25",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/expro-to-provide-flowback-for-200-well-north-slope-development-81321",
           "relevant": false
         },
         {
@@ -5345,6 +5353,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Photo Gallery: 2026 IADC Geothermal Conference, 17-18 November, Copenhagen, Denmark",
+          "summary": "Geothermal energy regulatory regimes are inconsistent and immature compared to those of the oil and gas industry, which creates obstacles and extends the lead time for geothermal projects. IADC’s expertise in providing…",
+          "date": "2026-11-25",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/photo-gallery-2026-iadc-geothermal-conference-17-18-november-copenhagen-denmark-81252",
+          "relevant": false
+        },
+        {
           "title": "Iraq Rebuffs OPEC Assessment of Output Capacity",
           "summary": "Iraq rejected an assessment of its oil production capacity commissioned by OPEC+, according to people familiar with the matter, setting up a potential clash at this weekend's key meeting on production targets.",
           "date": "2026-11-25",
@@ -8145,14 +8161,6 @@
           "relevant": false
         },
         {
-          "title": "INPEX greenlights five-well Ichthys LNG Phase 2c development",
-          "summary": "The Ichthys Joint Venture approved the next phase of offshore development at the INPEX-operated Ichthys LNG project offshore Western Australia. Known as Phase 2c Part 1, the development will include five production…",
-          "date": "2026-11-23",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/inpex-greenlights-five-well-ichthys-lng-phase-2c-development-81232",
-          "relevant": false
-        },
-        {
           "title": "Etu Energias acquires interests in Angola’s offshore blocks 14 and 14K",
           "summary": "Etu Energias, via its subsidiary Etu Energias Block 14, has acquired a 20% participating interest in Block 14 and a 10% interest in Block 14K, located offshore Angola.",
           "date": "2026-11-23",
@@ -8166,6 +8174,14 @@
           "date": "2026-11-23",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/argentina-fincantieri-fcx20-corvettes/",
+          "relevant": false
+        },
+        {
+          "title": "INPEX greenlights five-well Ichthys LNG Phase 2c development",
+          "summary": "The Ichthys Joint Venture approved the next phase of offshore development at the INPEX-operated Ichthys LNG project offshore Western Australia. Known as Phase 2c Part 1, the development will include five production…",
+          "date": "2026-11-23",
+          "source_name": "Drilling Contractor",
+          "source_url": "https://drillingcontractor.org/inpex-greenlights-five-well-ichthys-lng-phase-2c-development-81232",
           "relevant": false
         },
         {
