@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T10:01:00Z",
+  "last_updated": "2026-11-25T11:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -305,6 +305,38 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Safe Bulkers offloads vintage post-panamax for $15m",
+          "summary": "Polys Hajioannou-led Safe Bulkers is clearing out more older tonnage, striking a $14.86m deal to sell a 20-year-old post-panamax bulk carrier. The New York- and Athens-listed owner revealed in a US securities filing…",
+          "date": "2026-11-25",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/safe-bulkers-offloads-vintage-post-panamax-for-15m/",
+          "relevant": false
+        },
+        {
+          "title": "Saipem bags dual offshore EPCI contracts from Aramco",
+          "summary": "Italian offshore engineering and construction contractor Saipem has been awarded two offshore contracts in Saudi Arabia under its existing long-term agreement with Aramco. The approximate value of $650m covers the…",
+          "date": "2026-11-25",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/saipem-bags-dual-offshore-epci-contracts-from-aramco/",
+          "relevant": true
+        },
+        {
+          "title": "Vantris secures $115m Petronas work package",
+          "summary": "Malaysian offshore contractor Vantris Energy has secured further transportation and installation work orders from Petronas Carigali, with a combined potential value of RM475m ($115m). The Kuala Lumpur-listed company…",
+          "date": "2026-11-25",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/vantris-secures-115m-petronas-work-package/",
+          "relevant": false
+        },
+        {
+          "title": "DEME joins Allseas on Canadian LNG pipeline project",
+          "summary": "Belgian marine contractor DEME has secured a subcontract from Swiss-based offshore construction specialist Allseas for marine works on the Prince Rupert Gas Transmission (PRGT) pipeline in Canada. DEME described the…",
+          "date": "2026-11-25",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/deme-joins-allseas-on-canadian-lng-pipeline-project/",
+          "relevant": false
+        },
+        {
           "title": "TotalEnergies taps Shearwater for fresh Angola survey",
           "summary": "Norwegian offshore seismic vessel operator Shearwater Geoservices has been awarded a 4D towed-streamer seismic acquisition project by TotalEnergies offshore Angola. Amazon Conqueror will conduct the survey in Blocks 17…",
           "date": "2026-11-25",
@@ -319,6 +351,22 @@
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/11/uk-awards-hii-142-million-contract-for-royal-navy-remus-620-uuvs/",
           "relevant": false
+        },
+        {
+          "title": "NextGeo Gets $12.7M Offshore Survey Job for Spain-France Hydrogen Link",
+          "summary": "Italian offshore services provider Next Geosolutions (NextGeo) has secured a contract worth approximately $12.7 million (€11.6 million) from BarMar for offshore…",
+          "date": "2026-11-25",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544576-nextgeo-gets-12-7m-offshore-survey-job-for-spain-france-hydrogen-link",
+          "relevant": false
+        },
+        {
+          "title": "Saipem Bags $650M in Aramco Deals Covering Five Offshore Fields",
+          "summary": "Saipem has secured two offshore engineering, procurement, construction and installation (EPCI) contracts from Aramco in Saudi Arabia worth approximately $650 million…",
+          "date": "2026-11-25",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544575-saipem-bags-650m-in-aramco-deals-covering-five-offshore-fields",
+          "relevant": true
         },
         {
           "title": "Johan Castberg Oil Field’s Output Curtailed by Offloading System Fault",
