@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T06:01:01Z",
+  "last_updated": "2026-11-25T07:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -304,6 +304,14 @@
       "short_title": "Tenders",
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
+        {
+          "title": "UK Awards HII £142 Million Contract for Royal Navy REMUS 620 UUVs",
+          "summary": "The UK Ministry of Defence has awarded HII a £142 million ($186 million) contract to supply REMUS 620 UUVs and Sea Launchers for the Royal Navy MHC program. The post UK Awards HII £142 Million Contract for Royal Navy…",
+          "date": "2026-11-25",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/uk-awards-hii-142-million-contract-for-royal-navy-remus-620-uuvs/",
+          "relevant": false
+        },
         {
           "title": "Maersk and ONE Eye Landmark Global North-South Shipping Alliance",
           "summary": "The formation of container shipping’s first global liner alliance covering the north-south trades appears to be taking shape, The Loadstar has learned.",
@@ -5265,14 +5273,6 @@
           "relevant": false
         },
         {
-          "title": "One Maritime Generation targets specialist shipmanagement niche",
-          "summary": "Two German shipping professionals from markedly different maritime backgrounds have established a shipmanagement company in Hamburg, targeting a niche in the market for vessels engaged in complex and unconventional…",
-          "date": "2026-11-24",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/one-maritime-generation-targets-specialist-shipmanagement-niche/",
-          "relevant": false
-        },
-        {
           "title": "Searah gets go-ahead for Geliga gas hub offshore Indonesia",
           "summary": "Indonesian authorities gave the go-ahead to the plan of development for the Geliga gas field in the Ganal PSC offshore East Kalimantan, six months after Eni discovered it. Geliga is operated by Searah, the 50/50 company…",
           "date": "2026-11-24",
@@ -5302,6 +5302,14 @@
           "date": "2026-11-24",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/petrobras-pre-salt-growth-122bn-investment/",
+          "relevant": false
+        },
+        {
+          "title": "One Maritime Generation targets specialist shipmanagement niche",
+          "summary": "Two German shipping professionals from markedly different maritime backgrounds have established a shipmanagement company in Hamburg, targeting a niche in the market for vessels engaged in complex and unconventional…",
+          "date": "2026-11-24",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/one-maritime-generation-targets-specialist-shipmanagement-niche/",
           "relevant": false
         },
         {
@@ -7977,6 +7985,14 @@
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
         {
+          "title": "Lila Global stays afloat in the VLCC segment",
+          "summary": "Lila Global is staying afloat in the VLCC segment with the acquisition of a 22-year-old tanker known for storing fuel oil off Singapore. The company is behind the $110m purchase of the 2004-built, Dalian-built Southern…",
+          "date": "2026-11-25",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/lila-global-stays-afloat-in-the-vlcc-segment/",
+          "relevant": false
+        },
+        {
           "title": "DOF sells 2008-built vessel and charters it back for two years",
           "summary": "DOF has struck a deal to divest its 2008-built construction support vessel (CSV), expecting a $35 million gain upon delivery to the new owners.",
           "date": "2026-11-24",
@@ -9193,20 +9209,20 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Indonesia clears offshore gas development for Eni-Petronas venture",
-          "summary": "Indonesian authorities have approved the development plan for the Geliga gas field offshore East Kalimantan, paving the way for a major new deepwater production hub involving an FPSO vessel and 15 subsea wells. The…",
-          "date": "2026-11-24",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/indonesia-clears-offshore-gas-development-for-eni-petronas-venture/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Searah Starts Production from New Bukit Tua Well Offshore Indonesia",
           "summary": "Searah has achieved first hydrocarbons from the NZ3 well at the Bukit Tua field offshore East Java, Indonesia, ahead of schedule.The well reached first hydrocarbons on November 10…",
           "date": "2026-11-24",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544546-searah-starts-production-from-new-bukit-tua-well-offshore-indonesia",
+          "relevant": false,
+          "region": "SEA"
+        },
+        {
+          "title": "Indonesia clears offshore gas development for Eni-Petronas venture",
+          "summary": "Indonesian authorities have approved the development plan for the Geliga gas field offshore East Kalimantan, paving the way for a major new deepwater production hub involving an FPSO vessel and 15 subsea wells. The…",
+          "date": "2026-11-24",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/indonesia-clears-offshore-gas-development-for-eni-petronas-venture/",
           "relevant": false,
           "region": "SEA"
         },
