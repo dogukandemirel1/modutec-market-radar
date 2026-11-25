@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T07:01:05Z",
+  "last_updated": "2026-11-25T08:01:10Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -329,22 +329,6 @@
           "relevant": false
         },
         {
-          "title": "Grounded bulker pulled free off French coast",
-          "summary": "Salvors have successfully refloated the 28,200 dwt bulk carrier Miro G, four days after the ship was driven onto a beach on France’s Atlantic coast. The 2011-built, Malta-flagged bulker was pulled clear of the shoreline…",
-          "date": "2026-11-24",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/grounded-bulker-pulled-free-off-french-coast/",
-          "relevant": false
-        },
-        {
-          "title": "Danaos bags $611m in fresh boxship charters",
-          "summary": "Greek containership owner Danaos has secured another $611m in contracted revenue through a string of new fixtures and charter extensions, taking its forward revenue backlog to $5bn. The John Coustas-led company revealed…",
-          "date": "2026-11-24",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/danaos-bags-611m-in-fresh-boxship-charters/",
-          "relevant": false
-        },
-        {
           "title": "Island Captain set for upgrade under six-year SLB extension",
           "summary": "Island Offshore secured a contract extension of up to six years with SLB for its well stimulation vessel Island Captain. The vessel has operated continuously for SLB since its conversion to well stimulation duties in…",
           "date": "2026-11-24",
@@ -414,6 +398,22 @@
           "date": "2026-11-24",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544548-deme-lands-offshore-works-contract-for-canadian-gas-pipeline",
+          "relevant": false
+        },
+        {
+          "title": "Grounded bulker pulled free off French coast",
+          "summary": "Salvors have successfully refloated the 28,200 dwt bulk carrier Miro G, four days after the ship was driven onto a beach on France’s Atlantic coast. The 2011-built, Malta-flagged bulker was pulled clear of the shoreline…",
+          "date": "2026-11-24",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/grounded-bulker-pulled-free-off-french-coast/",
+          "relevant": false
+        },
+        {
+          "title": "Danaos bags $611m in fresh boxship charters",
+          "summary": "Greek containership owner Danaos has secured another $611m in contracted revenue through a string of new fixtures and charter extensions, taking its forward revenue backlog to $5bn. The John Coustas-led company revealed…",
+          "date": "2026-11-24",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/danaos-bags-611m-in-fresh-boxship-charters/",
           "relevant": false
         },
         {
