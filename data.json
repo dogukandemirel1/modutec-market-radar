@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T16:01:07Z",
+  "last_updated": "2026-11-25T17:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5385,6 +5385,14 @@
           "relevant": false
         },
         {
+          "title": "ConocoPhillips Sells Norway Business to Var Energi",
+          "summary": "ConocoPhillips agreed to divest its Norwegian assets and the Teesside oil terminal in the United Kingdom to Var Energi for $4.425 billion including tax and decommissioning liabilities.",
+          "date": "2026-11-25",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/conocophillips_sells_norway_business_to_var_energi-25-nov-2026-185168-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "TotalEnergies to Acquire Stake in US Gas Assets from Continental",
           "summary": "'This transaction will strengthen our natural gas production in the United States and consolidate TotalEnergies' integrated position from upstream gas production to LNG exports'.",
           "date": "2026-11-25",
@@ -5489,19 +5497,19 @@
           "relevant": false
         },
         {
-          "title": "Europa Oil Gets Environmental Permit for Cloughton Appraisal Well",
-          "summary": "The approval is separate from the planning permission for the proposed onshore gas project, for which Europa is appealing the North Yorkshire Council's rejection.",
-          "date": "2026-11-23",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/europa_oil_gets_environmental_permit_for_cloughton_appraisal_well-23-nov-2026-185147-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "ConocoPhillips agrees $4.4bn sale of Norway assets to Vår Energi",
           "summary": "ConocoPhillips has agreed to sell its Norway business and its 40.25% interest in, and operatorship of, the UK’s Teesside oil terminal to Vår Energi for $4.425bn before adjustments.",
           "date": "2026-11-23",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/conocophillips-4bn-norway-assets-var-energi/",
+          "relevant": false
+        },
+        {
+          "title": "Europa Oil Gets Environmental Permit for Cloughton Appraisal Well",
+          "summary": "The approval is separate from the planning permission for the proposed onshore gas project, for which Europa is appealing the North Yorkshire Council's rejection.",
+          "date": "2026-11-23",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/europa_oil_gets_environmental_permit_for_cloughton_appraisal_well-23-nov-2026-185147-article/?rss=true",
           "relevant": false
         },
         {
@@ -8144,6 +8152,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "Eni, Repsol to Invest $2b in PDVSA Joint Venture",
+          "summary": "Spain's Repsol and Italy's Eni have 'committed to jointly investing' $2 billion in five years in their joint venture with Venezuelan state energy firm PDVSA, according…",
+          "date": "2026-11-25",
+          "source_name": "Offshore Engineer",
+          "source_url": "https://www.oedigital.com/news/544587-eni-repsol-to-invest-2b-in-pdvsa-joint-venture",
+          "relevant": false
+        },
         {
           "title": "Lila Global stays afloat in the VLCC segment",
           "summary": "Lila Global is staying afloat in the VLCC segment with the acquisition of a 22-year-old tanker known for storing fuel oil off Singapore. The company is behind the $110m purchase of the 2004-built, Dalian-built Southern…",
