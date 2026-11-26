@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T16:01:04Z",
+  "last_updated": "2026-11-26T17:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5441,6 +5441,14 @@
           "relevant": false
         },
         {
+          "title": "Eldridge Consortium Pens Deal to Acquire Lukoil International",
+          "summary": "The agreement to acquire the sanctioned Russian company's upstream and downstream international assets aims to 'secure critical global energy assets under American and allied ownership', the consortium said.",
+          "date": "2026-11-26",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/eldridge_consortium_pens_deal_to_acquire_lukoil_international-26-nov-2026-185176-article/?rss=true",
+          "relevant": false
+        },
+        {
           "title": "Constellation Completes $5B Sale of 4.4GW PJM Assets to LS Power",
           "summary": "Part of Constellation's regulatory commitments related to its acquisition of Calpine, the sale to LS Power consisted of the Bethlehem, York 1 and York 2 facilities in Pennsylvania and Hay Road and Edge Moor in Delaware.",
           "date": "2026-11-26",
@@ -5462,6 +5470,14 @@
           "date": "2026-11-26",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/eldridge-consortium-to-acquire-lukoil-assets/",
+          "relevant": false
+        },
+        {
+          "title": "Pratt & Whitney receives $2.53bn F-35 engine sustainment contract",
+          "summary": "RTX’s Pratt & Whitney and Pratt & Whitney Military Engines divisions have received a $2.53bn US Navy contract action to sustain F135 propulsion systems used by F-35 Lightning II aircraft. The post Pratt & Whitney…",
+          "date": "2026-11-26",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/pratt-whitney-f135-engines-2/",
           "relevant": false
         },
         {
