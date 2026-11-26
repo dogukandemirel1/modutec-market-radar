@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T06:01:07Z",
+  "last_updated": "2026-11-26T07:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -345,6 +345,14 @@
           "relevant": false
         },
         {
+          "title": "TotalEnergies taps Shearwater for fresh Angola survey",
+          "summary": "Norwegian offshore seismic vessel operator Shearwater Geoservices has been awarded a 4D towed-streamer seismic acquisition project by TotalEnergies offshore Angola. Amazon Conqueror will conduct the survey in Blocks 17…",
+          "date": "2026-11-25",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/totalenergies-taps-shearwater-for-fresh-angola-survey/",
+          "relevant": false
+        },
+        {
           "title": "Expro to provide flowback for 200-well North Slope development",
           "summary": "Expro secured a three-year contract with a major US operator to provide well flow management services on Alaska’s Arctic North Slope. The award is Expro’s largest Arctic project to date and includes two one-year…",
           "date": "2026-11-25",
@@ -430,14 +438,6 @@
           "date": "2026-11-25",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544572-johan-castberg-oil-field-s-output-curtailed-by-offloading-system-fault",
-          "relevant": false
-        },
-        {
-          "title": "TotalEnergies taps Shearwater for fresh Angola survey",
-          "summary": "Norwegian offshore seismic vessel operator Shearwater Geoservices has been awarded a 4D towed-streamer seismic acquisition project by TotalEnergies offshore Angola. Amazon Conqueror will conduct the survey in Blocks 17…",
-          "date": "2026-11-25",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/totalenergies-taps-shearwater-for-fresh-angola-survey/",
           "relevant": false
         },
         {
