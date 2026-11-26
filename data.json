@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T00:01:06Z",
+  "last_updated": "2026-11-26T01:01:01Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -545,19 +545,19 @@
           "relevant": false
         },
         {
-          "title": "Royal Thai Navy Forced to Retender Frigate Programme",
-          "summary": "The Royal Thai Navy has been forced to cancel and retender its frigate programme after procedural flaws overturned Hanwha Ocean's selection The post Royal Thai Navy Forced to Retender Frigate Programme appeared first on…",
-          "date": "2026-11-23",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/royal-thai-navy-forced-to-retender-frigate-programme/",
-          "relevant": false
-        },
-        {
           "title": "Naval Group taps Van Halteren for Scorpène submarine winches",
           "summary": "Naval Group has awarded Van Halteren Technologies a contract to supply anchor winches for a variant of its conventionally powered Scorpène attack submarine. The post Naval Group taps Van Halteren for Scorpène submarine…",
           "date": "2026-11-23",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/naval-group-van-halteren-scorpene/",
+          "relevant": false
+        },
+        {
+          "title": "Royal Thai Navy Forced to Retender Frigate Programme",
+          "summary": "The Royal Thai Navy has been forced to cancel and retender its frigate programme after procedural flaws overturned Hanwha Ocean's selection The post Royal Thai Navy Forced to Retender Frigate Programme appeared first on…",
+          "date": "2026-11-23",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/royal-thai-navy-forced-to-retender-frigate-programme/",
           "relevant": false
         },
         {
@@ -9400,6 +9400,15 @@
       "short_title": "Regional",
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
+        {
+          "title": "Indonesian Navy Takes Delivery of 58-Knot Missile-Capable USV",
+          "summary": "North Sea Boats has delivered the first Indonesian Navy KSR X33, a 58-knot missile-capable USV commissioned as Patkamla Geledek, for coastal defence. The post Indonesian Navy Takes Delivery of 58-Knot Missile-Capable…",
+          "date": "2026-11-26",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/indonesian-navy-ksr-x33-missile-usv/",
+          "relevant": false,
+          "region": "SEA"
+        },
         {
           "title": "Aramco Completes $7B Petrochemical Project in South Korea",
           "summary": "Expected to start production 2027, the project in Ulsan has a capacity of about 3.2 million metric tons.",
