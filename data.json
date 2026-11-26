@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T14:01:13Z",
+  "last_updated": "2026-11-26T15:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -305,6 +305,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "UK MOD Awards Babcock Record £8.7B ‘Gateway’ Submarine Support Deal",
+          "summary": "Babcock has signed a record £8.7 billion Gateway Agreement with the UK Ministry of Defence to succeed the Future Maritime Support Programme. The post UK MOD Awards Babcock Record £8.7B ‘Gateway’ Submarine Support Deal…",
+          "date": "2026-11-26",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/uk-mod-awards-babcock-record-8-7b-gateway-submarine-support-deal/",
+          "relevant": false
+        },
+        {
           "title": "UK Government: new submarine deal “should” improve availability",
           "summary": "The UK's submarine fleets have been plagued by poor availability in recent years, as Babcock receives a new maintenance contract. The post UK Government: new submarine deal “should” improve availability appeared first…",
           "date": "2026-11-26",
@@ -358,14 +366,6 @@
           "date": "2026-11-25",
           "source_name": "Drilling Contractor",
           "source_url": "https://drillingcontractor.org/expro-to-provide-flowback-for-200-well-north-slope-development-81321",
-          "relevant": false
-        },
-        {
-          "title": "UK Awards HII £142 Million Contract for Royal Navy REMUS 620 UUVs",
-          "summary": "The UK Ministry of Defence has awarded HII a £142 million ($186 million) contract to supply REMUS 620 UUVs and Sea Launchers for the Royal Navy MHC program. The post UK Awards HII £142 Million Contract for Royal Navy…",
-          "date": "2026-11-25",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/uk-awards-hii-142-million-contract-for-royal-navy-remus-620-uuvs/",
           "relevant": false
         },
         {
@@ -438,6 +438,14 @@
           "date": "2026-11-25",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544572-johan-castberg-oil-field-s-output-curtailed-by-offloading-system-fault",
+          "relevant": false
+        },
+        {
+          "title": "UK Awards HII £142 Million Contract for Royal Navy REMUS 620 UUVs",
+          "summary": "The UK Ministry of Defence has awarded HII a £142 million ($186 million) contract to supply REMUS 620 UUVs and Sea Launchers for the Royal Navy MHC program. The post UK Awards HII £142 Million Contract for Royal Navy…",
+          "date": "2026-11-25",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/uk-awards-hii-142-million-contract-for-royal-navy-remus-620-uuvs/",
           "relevant": false
         },
         {
