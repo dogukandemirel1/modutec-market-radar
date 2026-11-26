@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T23:01:05Z",
+  "last_updated": "2026-11-26T00:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -8159,14 +8159,6 @@
           "source_name": "gCaptain",
           "source_url": "https://gcaptain.com/philippines-says-china-blocked-sea-mission-first-since-2024/",
           "relevant": false
-        },
-        {
-          "title": "How Europe’s Intensifying Marine Heatwaves Threaten Its Fisheries",
-          "summary": "By Ben Welsh, Simon Jessop and Kate Abnett LONDON, Sept 26 (Reuters) – As drought spread and wildfires raged across Europe this summer, the extraordinary heat didn’t stop at the shoreline. European...",
-          "date": "2026-09-26",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/how-europes-intensifying-marine-heatwaves-threaten-its-fisheries/",
-          "relevant": false
         }
       ]
     },
@@ -11834,24 +11826,6 @@
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/09/royal-saudi-navy-akinci-ucav-deployment/",
           "relevant": false,
-          "region": "KSA"
-        },
-        {
-          "title": "TKMS and EDGE Explore Collaboration on Underwater Protection and Surveillance Capability",
-          "summary": "TKMS and EDGE Group have signed a Memorandum of Understanding (MoU) within the framework of the state visit of the United Arab Emirates (UAE) to Germany. The MoU is a part of an initiative agreed by the German…",
-          "date": "2026-09-26",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/tkms-and-edge-explore-collaboration-on-underwater-protection-and-surveillance-capability/",
-          "relevant": true,
-          "region": "UAE"
-        },
-        {
-          "title": "Trump Rejects Iran Proposal On Hormuz As Houthis Target Riyadh",
-          "summary": "By Courtney Subramanian Sep 26, 2026 (Bloomberg) –President Donald Trump said Saturday he rejected a deal from Iran to reopen the Strait of Hormuz as Saudi Arabia’s capital came under attack...",
-          "date": "2026-09-26",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/trump-rejects-iran-proposal-on-hormuz-as-houthis-target-riyadh/",
-          "relevant": true,
           "region": "KSA"
         }
       ]
