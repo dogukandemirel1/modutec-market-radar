@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T08:01:04Z",
+  "last_updated": "2026-11-26T09:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -305,19 +305,19 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Four ammonia car carriers and a fuel chain, but who signs the cheque?",
-          "summary": "Seven Japanese partners have lined up ships, Indian green ammonia and Nagoya bunkering for 2030. The missing piece is a contract saying who pays the fuel premium and who holds the Scope 3 claim. Ilja Nevolin from C3…",
-          "date": "2026-11-26",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/four-ammonia-car-carriers-and-a-fuel-chain-but-who-signs-the-cheque/",
-          "relevant": false
-        },
-        {
           "title": "Former Petrofac executives on trial over alleged bribery",
           "summary": "Two former executives of British offshore engineering and construction contractor Petrofac have gone on trial in London over allegations of bribery relating to multibillion-dollar contracts in the United Arab Emirates…",
           "date": "2026-11-26",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/former-petrofac-executives-on-trial-over-alleged-bribery/",
+          "relevant": false
+        },
+        {
+          "title": "Four ammonia car carriers and a fuel chain, but who signs the cheque?",
+          "summary": "Seven Japanese partners have lined up ships, Indian green ammonia and Nagoya bunkering for 2030. The missing piece is a contract saying who pays the fuel premium and who holds the Scope 3 claim. Ilja Nevolin from C3…",
+          "date": "2026-11-26",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/four-ammonia-car-carriers-and-a-fuel-chain-but-who-signs-the-cheque/",
           "relevant": false
         },
         {
@@ -5497,14 +5497,6 @@
           "relevant": false
         },
         {
-          "title": "Bayraktar AKINCI Conducts First ORKA Torpedo Release Test",
-          "summary": "Baykar’s Bayraktar AKINCI unmanned combat aerial vehicle (UCAV) has completed an airborne release test with the ORKA next-generation lightweight torpedo developed by Türkiye’s ROKETSAN. Baykar announced the test on 22…",
-          "date": "2026-11-24",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/bayraktar-akinci-conducts-first-orka-torpedo-release-test/",
-          "relevant": false
-        },
-        {
           "title": "EU, UK Agree to Link Emissions Trading Systems",
           "summary": "The EU and UK have agreed to link their Emissions Trading Systems.",
           "date": "2026-11-24",
@@ -5518,6 +5510,14 @@
           "date": "2026-11-24",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/petrobras-pre-salt-growth-122bn-investment/",
+          "relevant": false
+        },
+        {
+          "title": "Bayraktar AKINCI Conducts First ORKA Torpedo Release Test",
+          "summary": "Baykar’s Bayraktar AKINCI unmanned combat aerial vehicle (UCAV) has completed an airborne release test with the ORKA next-generation lightweight torpedo developed by Türkiye’s ROKETSAN. Baykar announced the test on 22…",
+          "date": "2026-11-24",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/bayraktar-akinci-conducts-first-orka-torpedo-release-test/",
           "relevant": false
         },
         {
@@ -9457,6 +9457,15 @@
           "source_url": "https://www.navalnews.com/naval-news/2026/11/indonesian-navy-ksr-x33-missile-usv/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Houthis Strike Saudi Ports on Red Sea",
+          "summary": "Yemen's Houthis carried out strikes on Saudi Arabia's Red Sea ports of Jeddah and Jazan, as the Iran-backed militants and the kingdom continue to exchange fire with no signs of respite.",
+          "date": "2026-11-26",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/houthis_strike_saudi_ports_on_red_sea-26-nov-2026-185172-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "Aramco Completes $7B Petrochemical Project in South Korea",
