@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T11:01:12Z",
+  "last_updated": "2026-11-26T12:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -321,6 +321,14 @@
           "relevant": false
         },
         {
+          "title": "UK Government: new submarine deal “should” improve availability",
+          "summary": "The UK's submarine fleets have been plagued by poor availability in recent years, as Babcock receives a new maintenance contract. The post UK Government: new submarine deal “should” improve availability appeared first…",
+          "date": "2026-11-26",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/uk-government-new-submarine-deal-should-improve-availability/",
+          "relevant": false
+        },
+        {
           "title": "Former Petrofac executives on trial over alleged bribery",
           "summary": "Two former executives of British offshore engineering and construction contractor Petrofac have gone on trial in London over allegations of bribery relating to multibillion-dollar contracts in the United Arab Emirates…",
           "date": "2026-11-26",
@@ -505,19 +513,19 @@
           "relevant": false
         },
         {
-          "title": "Eni receives approval for Geliga gas field plan in Indonesia",
-          "summary": "Eni has obtained approval from Indonesian authorities for the plan of development (POD) concerning the Geliga gas field within the Ganal production sharing contract (PSC) in the Kutei Basin.",
-          "date": "2026-11-24",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/eni-approval-geliga-gas-field-indonesia/",
-          "relevant": false
-        },
-        {
           "title": "Scottish Floating Wind Farm to Feature Siemens Gamesa Turbines",
           "summary": "Green Volt has signed an agreement with Siemens Gamesa to reserve manufacturing capacity for 28 offshore wind turbines for the planned floating wind farm off Scotland…",
           "date": "2026-11-24",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544556-scottish-floating-wind-farm-to-feature-siemens-gamesa-turbines",
+          "relevant": false
+        },
+        {
+          "title": "Eni receives approval for Geliga gas field plan in Indonesia",
+          "summary": "Eni has obtained approval from Indonesian authorities for the plan of development (POD) concerning the Geliga gas field within the Ganal production sharing contract (PSC) in the Kutei Basin.",
+          "date": "2026-11-24",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/eni-approval-geliga-gas-field-indonesia/",
           "relevant": false
         },
         {
@@ -5425,6 +5433,22 @@
           "relevant": false
         },
         {
+          "title": "OEEG 2026: international offshore buyers meet China’s supply chain as sanctioned investment heads for $137bn",
+          "summary": "The 2026 Offshore Energy & Engineering Global Conference (OEEG 2026) brought together more than 7,000 participants from 20 countries.",
+          "date": "2026-11-26",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/features/oeeg-2026-international-offshore-buyers-meet-chinas-supply-chain-as-sanctioned-investment-heads-for-137bn/",
+          "relevant": false
+        },
+        {
+          "title": "Eldridge-led consortium to acquire Lukoil International assets",
+          "summary": "A consortium led by US investment firm Eldridge has agreed to acquire Lukoil International (LIG), in a transaction that would shift ownership of the Russian group’s non-Russian oil and gas assets to American and allied…",
+          "date": "2026-11-26",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/eldridge-consortium-to-acquire-lukoil-assets/",
+          "relevant": false
+        },
+        {
           "title": "IMO’s false flag tally climbs to 587 ships",
           "summary": "The number of ships identified by the International Maritime Organization (IMO) as flying false flags has climbed to 587, up from 470 reported at the end of 2025. IMO secretary-general Arsenio Dominguez yesterday called…",
           "date": "2026-11-26",
@@ -8249,19 +8273,19 @@
           "relevant": false
         },
         {
-          "title": "Texas Pacific Land agrees $3bn all-stock acquisition of EagleRock",
-          "summary": "Texas Pacific Land (TPL), a Permian Basin land and water business, has agreed to acquire EagleRock Land in an all-stock transaction valued at approximately $3bn.",
-          "date": "2026-11-24",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/texas-pacific-land-3bn-acquisition-eaglerock/",
-          "relevant": false
-        },
-        {
           "title": "Forecasts: Argentina defence market data (2026-2035)",
           "summary": "Argentina is improving its defence landscape with the acquisition of new combat aircraft, naval combatants, and armoured vehicles. The post Forecasts: Argentina defence market data (2026-2035) appeared first on Naval…",
           "date": "2026-11-24",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/features/forecasts-argentina-defence-market-data-2026-2035/",
+          "relevant": false
+        },
+        {
+          "title": "Texas Pacific Land agrees $3bn all-stock acquisition of EagleRock",
+          "summary": "Texas Pacific Land (TPL), a Permian Basin land and water business, has agreed to acquire EagleRock Land in an all-stock transaction valued at approximately $3bn.",
+          "date": "2026-11-24",
+          "source_name": "Offshore Technology",
+          "source_url": "https://www.offshore-technology.com/news/texas-pacific-land-3bn-acquisition-eaglerock/",
           "relevant": false
         },
         {
@@ -9465,15 +9489,6 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Abu Dhabi restricts tanker movements amid mounting Gulf security concerns",
-          "summary": "Abu Dhabi has imposed sweeping restrictions on tanker movements near its principal oil and gas export facilities as the United Arab Emirates seeks to protect critical infrastructure amid escalating attacks on commercial…",
-          "date": "2026-11-26",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/abu-dhabi-restricts-tanker-movements-amid-mounting-gulf-security-concerns/",
-          "relevant": true,
-          "region": "UAE"
-        },
-        {
           "title": "Indonesian Navy Takes Delivery of 58-Knot Missile-Capable USV",
           "summary": "North Sea Boats has delivered the first Indonesian Navy KSR X33, a 58-knot missile-capable USV commissioned as Patkamla Geledek, for coastal defence. The post Indonesian Navy Takes Delivery of 58-Knot Missile-Capable…",
           "date": "2026-11-26",
@@ -9490,6 +9505,15 @@
           "source_url": "https://www.rigzone.com/news/wire/houthis_strike_saudi_ports_on_red_sea-26-nov-2026-185172-article/?rss=true",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Abu Dhabi restricts tanker movements amid mounting Gulf security concerns",
+          "summary": "Abu Dhabi has imposed sweeping restrictions on tanker movements near its principal oil and gas export facilities as the United Arab Emirates seeks to protect critical infrastructure amid escalating attacks on commercial…",
+          "date": "2026-11-26",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/abu-dhabi-restricts-tanker-movements-amid-mounting-gulf-security-concerns/",
+          "relevant": true,
+          "region": "UAE"
         },
         {
           "title": "Aramco Completes $7B Petrochemical Project in South Korea",
