@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T09:01:05Z",
+  "last_updated": "2026-11-26T10:01:07Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -481,14 +481,6 @@
           "relevant": false
         },
         {
-          "title": "U.S. Navy Taps Raytheon to Advance SLCM-N Nuclear Cruise Missile",
-          "summary": "The U.S. Navy awarded Raytheon an OTA contract to mature the Nuclear-Armed Sea-Launched Cruise Missile (SLCM-N), teaming with Anduril, Divergent, and Williams. The post U.S. Navy Taps Raytheon to Advance SLCM-N Nuclear…",
-          "date": "2026-11-24",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/u-s-navy-taps-raytheon-to-advance-slcm-n-nuclear-cruise-missile/",
-          "relevant": false
-        },
-        {
           "title": "Equinor agrees 18-year gas supply contract with Germany’s VNG",
           "summary": "Equinor has agreed to supply German energy company VNG with natural gas for 18 years, with deliveries beginning on 1 January 2027 and running until the end of 2044.",
           "date": "2026-11-24",
@@ -510,6 +502,14 @@
           "date": "2026-11-24",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544556-scottish-floating-wind-farm-to-feature-siemens-gamesa-turbines",
+          "relevant": false
+        },
+        {
+          "title": "U.S. Navy Taps Raytheon to Advance SLCM-N Nuclear Cruise Missile",
+          "summary": "The U.S. Navy awarded Raytheon an OTA contract to mature the Nuclear-Armed Sea-Launched Cruise Missile (SLCM-N), teaming with Anduril, Divergent, and Williams. The post U.S. Navy Taps Raytheon to Advance SLCM-N Nuclear…",
+          "date": "2026-11-24",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/u-s-navy-taps-raytheon-to-advance-slcm-n-nuclear-cruise-missile/",
           "relevant": false
         },
         {
