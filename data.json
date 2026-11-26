@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T15:01:05Z",
+  "last_updated": "2026-11-26T16:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -305,22 +305,6 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "UK MOD Awards Babcock Record £8.7B ‘Gateway’ Submarine Support Deal",
-          "summary": "Babcock has signed a record £8.7 billion Gateway Agreement with the UK Ministry of Defence to succeed the Future Maritime Support Programme. The post UK MOD Awards Babcock Record £8.7B ‘Gateway’ Submarine Support Deal…",
-          "date": "2026-11-26",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/uk-mod-awards-babcock-record-8-7b-gateway-submarine-support-deal/",
-          "relevant": false
-        },
-        {
-          "title": "UK Government: new submarine deal “should” improve availability",
-          "summary": "The UK's submarine fleets have been plagued by poor availability in recent years, as Babcock receives a new maintenance contract. The post UK Government: new submarine deal “should” improve availability appeared first…",
-          "date": "2026-11-26",
-          "source_name": "Naval Technology",
-          "source_url": "https://www.naval-technology.com/news/uk-government-new-submarine-deal-should-improve-availability/",
-          "relevant": false
-        },
-        {
           "title": "NextGeo wins survey work on European hydrogen pipeline",
           "summary": "Italian offshore survey specialist Next Geosolutions (NextGeo) has secured an €11.6m ($12.7m) contract to survey a planned subsea hydrogen pipeline linking Spain and France. BarMar, a joint venture between French gas…",
           "date": "2026-11-26",
@@ -334,6 +318,22 @@
           "date": "2026-11-26",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/stealthgas-boosts-forward-cover-with-seven-fixtures/",
+          "relevant": false
+        },
+        {
+          "title": "UK MOD Awards Babcock Record £8.7B ‘Gateway’ Submarine Support Deal",
+          "summary": "Babcock has signed a record £8.7 billion Gateway Agreement with the UK Ministry of Defence to succeed the Future Maritime Support Programme. The post UK MOD Awards Babcock Record £8.7B ‘Gateway’ Submarine Support Deal…",
+          "date": "2026-11-26",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/uk-mod-awards-babcock-record-8-7b-gateway-submarine-support-deal/",
+          "relevant": false
+        },
+        {
+          "title": "UK Government: new submarine deal “should” improve availability",
+          "summary": "The UK's submarine fleets have been plagued by poor availability in recent years, as Babcock receives a new maintenance contract. The post UK Government: new submarine deal “should” improve availability appeared first…",
+          "date": "2026-11-26",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/uk-government-new-submarine-deal-should-improve-availability/",
           "relevant": false
         },
         {
@@ -5433,6 +5433,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Hanwha Ocean pulls out of 800MW offshore wind project",
+          "summary": "South Korean shipbuilding heavyweight Hanwha Ocean has pulled out of an 800MW offshore wind development off the country’s southwestern coast. The company confirmed in a regulatory filing on Wednesday that it had decided…",
+          "date": "2026-11-26",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/hanwha-ocean-pulls-out-of-800mw-offshore-wind-project/",
+          "relevant": false
+        },
+        {
           "title": "Constellation Completes $5B Sale of 4.4GW PJM Assets to LS Power",
           "summary": "Part of Constellation's regulatory commitments related to its acquisition of Calpine, the sale to LS Power consisted of the Bethlehem, York 1 and York 2 facilities in Pennsylvania and Hay Road and Edge Moor in Delaware.",
           "date": "2026-11-26",
@@ -5454,14 +5462,6 @@
           "date": "2026-11-26",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/eldridge-consortium-to-acquire-lukoil-assets/",
-          "relevant": false
-        },
-        {
-          "title": "Hanwha Ocean pulls out of 800MW offshore wind project",
-          "summary": "South Korean shipbuilding heavyweight Hanwha Ocean has pulled out of an 800MW offshore wind development off the country’s southwestern coast. The company confirmed in a regulatory filing on Wednesday that it had decided…",
-          "date": "2026-11-26",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/hanwha-ocean-pulls-out-of-800mw-offshore-wind-project/",
           "relevant": false
         },
         {
