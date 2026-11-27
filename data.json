@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T08:01:02Z",
+  "last_updated": "2026-11-27T09:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -305,6 +305,14 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Fincantieri signs contract to construct the 3rd LSS for the Italian Navy",
+          "summary": "The Temporary Grouping of Companies (RTI), led by Fincantieri with the participation of Leonardo, has signed an amendment to the contract with OCCAR (Organisation Conjointe de Coopération en matière d’Armement) for the…",
+          "date": "2026-11-27",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/fincantieri-signs-contract-to-construct-the-3rd-lss-for-the-italian-navy/",
+          "relevant": false
+        },
+        {
           "title": "ADM exits shipowning with $88m fleet sale to Hayfin Capital",
           "summary": "Grains giant Archer Daniels Midland (ADM) is exiting shipowning through a fleet sale to Hayfin Capital. The American post-panamax specialist has offloaded its three vessels, Harvest Frost, Harvest Rain, renamed GH…",
           "date": "2026-11-27",
@@ -334,14 +342,6 @@
           "date": "2026-11-27",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/serica-taps-cbi-for-new-subsea-wells-and-offshore-services/",
-          "relevant": false
-        },
-        {
-          "title": "Fincantieri signs contract to construct the 3rd LSS for the Italian Navy",
-          "summary": "The Temporary Grouping of Companies (RTI), led by Fincantieri with the participation of Leonardo, has signed an amendment to the contract with OCCAR (Organisation Conjointe de Coopération en matière d’Armement) for the…",
-          "date": "2026-11-27",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/fincantieri-signs-contract-to-construct-the-3rd-lss-for-the-italian-navy/",
           "relevant": false
         },
         {
