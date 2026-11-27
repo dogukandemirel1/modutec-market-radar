@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T04:01:04Z",
+  "last_updated": "2026-11-27T05:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -305,22 +305,6 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "NextGeo wins survey work on European hydrogen pipeline",
-          "summary": "Italian offshore survey specialist Next Geosolutions (NextGeo) has secured an €11.6m ($12.7m) contract to survey a planned subsea hydrogen pipeline linking Spain and France. BarMar, a joint venture between French gas…",
-          "date": "2026-11-26",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/nextgeo-wins-survey-work-on-european-hydrogen-pipeline/",
-          "relevant": false
-        },
-        {
-          "title": "StealthGas boosts forward cover with seven fixtures",
-          "summary": "Harry Vafias-led StealthGas has wrapped up seven charter deals for its LPG carriers, lifting its contracted revenue backlog to $115m and securing employment for one vessel into 2030. The Nasdaq-listed Greek owner…",
-          "date": "2026-11-26",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/stealthgas-boosts-forward-cover-with-seven-fixtures/",
-          "relevant": false
-        },
-        {
           "title": "UK MOD Awards Babcock Record £8.7B ‘Gateway’ Submarine Support Deal",
           "summary": "Babcock has signed a record £8.7 billion Gateway Agreement with the UK Ministry of Defence to succeed the Future Maritime Support Programme. The post UK MOD Awards Babcock Record £8.7B ‘Gateway’ Submarine Support Deal…",
           "date": "2026-11-26",
@@ -334,6 +318,22 @@
           "date": "2026-11-26",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/uk-government-new-submarine-deal-should-improve-availability/",
+          "relevant": false
+        },
+        {
+          "title": "NextGeo wins survey work on European hydrogen pipeline",
+          "summary": "Italian offshore survey specialist Next Geosolutions (NextGeo) has secured an €11.6m ($12.7m) contract to survey a planned subsea hydrogen pipeline linking Spain and France. BarMar, a joint venture between French gas…",
+          "date": "2026-11-26",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/nextgeo-wins-survey-work-on-european-hydrogen-pipeline/",
+          "relevant": false
+        },
+        {
+          "title": "StealthGas boosts forward cover with seven fixtures",
+          "summary": "Harry Vafias-led StealthGas has wrapped up seven charter deals for its LPG carriers, lifting its contracted revenue backlog to $115m and securing employment for one vessel into 2030. The Nasdaq-listed Greek owner…",
+          "date": "2026-11-26",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/stealthgas-boosts-forward-cover-with-seven-fixtures/",
           "relevant": false
         },
         {
@@ -5433,14 +5433,6 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
-          "title": "Hanwha Ocean pulls out of 800MW offshore wind project",
-          "summary": "South Korean shipbuilding heavyweight Hanwha Ocean has pulled out of an 800MW offshore wind development off the country’s southwestern coast. The company confirmed in a regulatory filing on Wednesday that it had decided…",
-          "date": "2026-11-26",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/hanwha-ocean-pulls-out-of-800mw-offshore-wind-project/",
-          "relevant": false
-        },
-        {
           "title": "Eldridge Consortium Pens Deal to Acquire Lukoil International",
           "summary": "The agreement to acquire the sanctioned Russian company's upstream and downstream international assets aims to 'secure critical global energy assets under American and allied ownership', the consortium said.",
           "date": "2026-11-26",
@@ -5478,6 +5470,14 @@
           "date": "2026-11-26",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/pratt-whitney-f135-engines-2/",
+          "relevant": false
+        },
+        {
+          "title": "Hanwha Ocean pulls out of 800MW offshore wind project",
+          "summary": "South Korean shipbuilding heavyweight Hanwha Ocean has pulled out of an 800MW offshore wind development off the country’s southwestern coast. The company confirmed in a regulatory filing on Wednesday that it had decided…",
+          "date": "2026-11-26",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/hanwha-ocean-pulls-out-of-800mw-offshore-wind-project/",
           "relevant": false
         },
         {
