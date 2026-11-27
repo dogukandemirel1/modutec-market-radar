@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T06:01:11Z",
+  "last_updated": "2026-11-27T07:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -305,19 +305,19 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "UK MOD Awards Babcock Record £8.7B ‘Gateway’ Submarine Support Deal",
-          "summary": "Babcock has signed a record £8.7 billion Gateway Agreement with the UK Ministry of Defence to succeed the Future Maritime Support Programme. The post UK MOD Awards Babcock Record £8.7B ‘Gateway’ Submarine Support Deal…",
-          "date": "2026-11-26",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/11/uk-mod-awards-babcock-record-8-7b-gateway-submarine-support-deal/",
+          "title": "ADM exits shipowning with $88m fleet sale to Hayfin Capital",
+          "summary": "Grains giant Archer Daniels Midland (ADM) is exiting shipowning through a fleet sale to Hayfin Capital. The American post-panamax specialist has offloaded its three vessels, Harvest Frost, Harvest Rain, renamed GH…",
+          "date": "2026-11-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/adm-exits-shipowning-with-88m-fleet-sale-to-hayfin-capital/",
           "relevant": false
         },
         {
-          "title": "UK Government: new submarine deal “should” improve availability",
-          "summary": "The UK's submarine fleets have been plagued by poor availability in recent years, as Babcock receives a new maintenance contract. The post UK Government: new submarine deal “should” improve availability appeared first…",
-          "date": "2026-11-26",
-          "source_name": "Naval Technology",
-          "source_url": "https://www.naval-technology.com/news/uk-government-new-submarine-deal-should-improve-availability/",
+          "title": "Fincantieri signs contract to construct the 3rd LSS for the Italian Navy",
+          "summary": "The Temporary Grouping of Companies (RTI), led by Fincantieri with the participation of Leonardo, has signed an amendment to the contract with OCCAR (Organisation Conjointe de Coopération en matière d’Armement) for the…",
+          "date": "2026-11-27",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/fincantieri-signs-contract-to-construct-the-3rd-lss-for-the-italian-navy/",
           "relevant": false
         },
         {
@@ -334,6 +334,22 @@
           "date": "2026-11-26",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/stealthgas-boosts-forward-cover-with-seven-fixtures/",
+          "relevant": false
+        },
+        {
+          "title": "UK MOD Awards Babcock Record £8.7B ‘Gateway’ Submarine Support Deal",
+          "summary": "Babcock has signed a record £8.7 billion Gateway Agreement with the UK Ministry of Defence to succeed the Future Maritime Support Programme. The post UK MOD Awards Babcock Record £8.7B ‘Gateway’ Submarine Support Deal…",
+          "date": "2026-11-26",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/uk-mod-awards-babcock-record-8-7b-gateway-submarine-support-deal/",
+          "relevant": false
+        },
+        {
+          "title": "UK Government: new submarine deal “should” improve availability",
+          "summary": "The UK's submarine fleets have been plagued by poor availability in recent years, as Babcock receives a new maintenance contract. The post UK Government: new submarine deal “should” improve availability appeared first…",
+          "date": "2026-11-26",
+          "source_name": "Naval Technology",
+          "source_url": "https://www.naval-technology.com/news/uk-government-new-submarine-deal-should-improve-availability/",
           "relevant": false
         },
         {
@@ -5433,6 +5449,14 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
+          "title": "Hanwha Ocean pulls out of 800MW offshore wind project",
+          "summary": "South Korean shipbuilding heavyweight Hanwha Ocean has pulled out of an 800MW offshore wind development off the country’s southwestern coast. The company confirmed in a regulatory filing on Wednesday that it had decided…",
+          "date": "2026-11-26",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/hanwha-ocean-pulls-out-of-800mw-offshore-wind-project/",
+          "relevant": false
+        },
+        {
           "title": "Eldridge Consortium Pens Deal to Acquire Lukoil International",
           "summary": "The agreement to acquire the sanctioned Russian company's upstream and downstream international assets aims to 'secure critical global energy assets under American and allied ownership', the consortium said.",
           "date": "2026-11-26",
@@ -5470,14 +5494,6 @@
           "date": "2026-11-26",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/pratt-whitney-f135-engines-2/",
-          "relevant": false
-        },
-        {
-          "title": "Hanwha Ocean pulls out of 800MW offshore wind project",
-          "summary": "South Korean shipbuilding heavyweight Hanwha Ocean has pulled out of an 800MW offshore wind development off the country’s southwestern coast. The company confirmed in a regulatory filing on Wednesday that it had decided…",
-          "date": "2026-11-26",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/hanwha-ocean-pulls-out-of-800mw-offshore-wind-project/",
           "relevant": false
         },
         {
