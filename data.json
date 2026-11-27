@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T10:01:09Z",
+  "last_updated": "2026-11-27T11:01:05Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -305,19 +305,27 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Sallaum Lines seals $60m US shipping deal",
-          "summary": "Car carrier operator Sallaum Lines has secured a two-year extension to a shipping contract with an undisclosed American manufacturer in a deal worth $60m. The company said it would deploy vessels from its LNG dual-fuel…",
-          "date": "2026-11-27",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/sallaum-lines-seals-60m-us-shipping-deal/",
-          "relevant": false
-        },
-        {
           "title": "Fincantieri signs contract to construct the 3rd LSS for the Italian Navy",
           "summary": "The Temporary Grouping of Companies (RTI), led by Fincantieri with the participation of Leonardo, has signed an amendment to the contract with OCCAR (Organisation Conjointe de Coopération en matière d’Armement) for the…",
           "date": "2026-11-27",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/11/fincantieri-signs-contract-to-construct-the-3rd-lss-for-the-italian-navy/",
+          "relevant": false
+        },
+        {
+          "title": "Petronas Greenlights Suriname's 1st Offshore Gas Project",
+          "summary": "Petronas and Staatsolie made a positive Final Investment Decision to develop the Sloanea field offshore Suriname for liquefied natural gas production.",
+          "date": "2026-11-27",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/petronas_greenlights_surinames_1st_offshore_gas_project-27-nov-2026-185181-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Sallaum Lines seals $60m US shipping deal",
+          "summary": "Car carrier operator Sallaum Lines has secured a two-year extension to a shipping contract with an undisclosed American manufacturer in a deal worth $60m. The company said it would deploy vessels from its LNG dual-fuel…",
+          "date": "2026-11-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/sallaum-lines-seals-60m-us-shipping-deal/",
           "relevant": false
         },
         {
