@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T16:01:15Z",
+  "last_updated": "2026-11-27T17:01:14Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -305,30 +305,6 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Netherlands opens 2GW offshore wind tender",
-          "summary": "The Netherlands has launched tenders for two offshore wind farms with a combined generating capacity of 2GW, backed by a maximum subsidy budget of nearly €9.5bn ($10.43bn). The Netherlands Enterprise Agency (RVO) opened…",
-          "date": "2026-11-27",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/netherlands-opens-2gw-offshore-wind-tender/",
-          "relevant": false
-        },
-        {
-          "title": "Sallaum Lines seals $60m US shipping deal",
-          "summary": "Car carrier operator Sallaum Lines has secured a two-year extension to a shipping contract with an undisclosed American manufacturer in a deal worth $60m. The company said it would deploy vessels from its LNG dual-fuel…",
-          "date": "2026-11-27",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/sallaum-lines-seals-60m-us-shipping-deal/",
-          "relevant": false
-        },
-        {
-          "title": "Wood scores FEED work on Spain-France offshore hydrogen link",
-          "summary": "UK engineering and consulting firm Wood has secured a front-end engineering design (FEED) contract for the proposed BarMar subsea hydrogen pipeline connecting Spain and France. The BarMar consortium, comprising Spanish…",
-          "date": "2026-11-27",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/wood-scores-feed-work-on-spain-france-offshore-hydrogen-link/",
-          "relevant": false
-        },
-        {
           "title": "Fincantieri signs contract to construct the 3rd LSS for the Italian Navy",
           "summary": "The Temporary Grouping of Companies (RTI), led by Fincantieri with the participation of Leonardo, has signed an amendment to the contract with OCCAR (Organisation Conjointe de Coopération en matière d’Armement) for the…",
           "date": "2026-11-27",
@@ -374,6 +350,30 @@
           "date": "2026-11-27",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/petronas-staatsolie-1-6bn-fid-suriname-gas-field/",
+          "relevant": false
+        },
+        {
+          "title": "Netherlands opens 2GW offshore wind tender",
+          "summary": "The Netherlands has launched tenders for two offshore wind farms with a combined generating capacity of 2GW, backed by a maximum subsidy budget of nearly €9.5bn ($10.43bn). The Netherlands Enterprise Agency (RVO) opened…",
+          "date": "2026-11-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/netherlands-opens-2gw-offshore-wind-tender/",
+          "relevant": false
+        },
+        {
+          "title": "Sallaum Lines seals $60m US shipping deal",
+          "summary": "Car carrier operator Sallaum Lines has secured a two-year extension to a shipping contract with an undisclosed American manufacturer in a deal worth $60m. The company said it would deploy vessels from its LNG dual-fuel…",
+          "date": "2026-11-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/sallaum-lines-seals-60m-us-shipping-deal/",
+          "relevant": false
+        },
+        {
+          "title": "Wood scores FEED work on Spain-France offshore hydrogen link",
+          "summary": "UK engineering and consulting firm Wood has secured a front-end engineering design (FEED) contract for the proposed BarMar subsea hydrogen pipeline connecting Spain and France. The BarMar consortium, comprising Spanish…",
+          "date": "2026-11-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/wood-scores-feed-work-on-spain-france-offshore-hydrogen-link/",
           "relevant": false
         },
         {
@@ -593,22 +593,6 @@
           "relevant": false
         },
         {
-          "title": "Maersk and ONE Eye Landmark Global North-South Shipping Alliance",
-          "summary": "The formation of container shipping’s first global liner alliance covering the north-south trades appears to be taking shape, The Loadstar has learned.",
-          "date": "2026-11-24",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/maersk-and-one-eye-landmark-global-north-south-shipping-alliance/",
-          "relevant": false
-        },
-        {
-          "title": "Grounded Bulk Carrier MIRO G Successfully Refloated Off French Beach",
-          "summary": "French authorities have successfully refloated the Malta-flagged bulk carrier MIRO G, four days after the vessel ran aground on France’s Atlantic coast during severe weather. The Atlantic Maritime Prefecture confirmed…",
-          "date": "2026-11-24",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/grounded-bulk-carrier-miro-g-successfully-refloated-off-french-beach/",
-          "relevant": false
-        },
-        {
           "title": "Island Captain set for upgrade under six-year SLB extension",
           "summary": "Island Offshore secured a contract extension of up to six years with SLB for its well stimulation vessel Island Captain. The vessel has operated continuously for SLB since its conversion to well stimulation duties in…",
           "date": "2026-11-24",
@@ -622,6 +606,22 @@
           "date": "2026-11-24",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544556-scottish-floating-wind-farm-to-feature-siemens-gamesa-turbines",
+          "relevant": false
+        },
+        {
+          "title": "Maersk and ONE Eye Landmark Global North-South Shipping Alliance",
+          "summary": "The formation of container shipping’s first global liner alliance covering the north-south trades appears to be taking shape, The Loadstar has learned.",
+          "date": "2026-11-24",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/maersk-and-one-eye-landmark-global-north-south-shipping-alliance/",
+          "relevant": false
+        },
+        {
+          "title": "Grounded Bulk Carrier MIRO G Successfully Refloated Off French Beach",
+          "summary": "French authorities have successfully refloated the Malta-flagged bulk carrier MIRO G, four days after the vessel ran aground on France’s Atlantic coast during severe weather. The Atlantic Maritime Prefecture confirmed…",
+          "date": "2026-11-24",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/grounded-bulk-carrier-miro-g-successfully-refloated-off-french-beach/",
           "relevant": false
         },
         {
@@ -5537,11 +5537,19 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
-          "title": "Prysmian gets green light for $1bn Greek cable programme",
-          "summary": "Italian cabling giant Prysmian has received the go-ahead from Greece’s Independent Power Transmission Operator (IPTO) to proceed with seven electricity interconnection projects worth up to €910m ($998.3m). The notice to…",
+          "title": "Chinese Military Tests New Taiwan Landing Tactics in Coastal Drills",
+          "summary": "China is staging a weeks-long amphibious landing drill in the province facing Taiwan, testing a new method to land troops ashore by linking civilian vessels into a makeshift floating bridge, satellite images and a…",
           "date": "2026-11-27",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/prysmian-gets-green-light-for-1bn-greek-cable-programme/",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills/",
+          "relevant": false
+        },
+        {
+          "title": "Building a Culture of Safety: Leadership, Accountability, and Workforce Commitment",
+          "summary": "In the ship repair industry, safety is more than a regulatory requirement or a box to check. It is a fundamental part of successful operations and a responsibility that must be reinforced...",
+          "date": "2026-11-27",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/building-a-culture-of-safety-leadership-accountability-and-workforce-commitment/",
           "relevant": false
         },
         {
@@ -5550,6 +5558,14 @@
           "date": "2026-11-27",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/eni_petronas_receive_indonesian_approval_for_geliga_gas_project-27-nov-2026-185185-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Prysmian gets green light for $1bn Greek cable programme",
+          "summary": "Italian cabling giant Prysmian has received the go-ahead from Greece’s Independent Power Transmission Operator (IPTO) to proceed with seven electricity interconnection projects worth up to €910m ($998.3m). The notice to…",
+          "date": "2026-11-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/prysmian-gets-green-light-for-1bn-greek-cable-programme/",
           "relevant": false
         },
         {
@@ -5665,19 +5681,19 @@
           "relevant": false
         },
         {
-          "title": "TotalEnergies to Acquire Stake in US Gas Assets from Continental",
-          "summary": "'This transaction will strengthen our natural gas production in the United States and consolidate TotalEnergies' integrated position from upstream gas production to LNG exports'.",
-          "date": "2026-11-25",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/totalenergies_to_acquire_stake_in_us_gas_assets_from_continental-25-nov-2026-185166-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Equinor, JAPEX Agree Goliat-Verdande Stake Exchange",
           "summary": "Equinor and JAPEX have agreed to exchange interests in offshore oil and gas assets on the Norwegian continental shelf, with Equinor set to increase its stake in the Verdande field…",
           "date": "2026-11-25",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544571-equinor-japex-agree-goliat-verdande-stake-exchange",
+          "relevant": false
+        },
+        {
+          "title": "TotalEnergies to Acquire Stake in US Gas Assets from Continental",
+          "summary": "'This transaction will strengthen our natural gas production in the United States and consolidate TotalEnergies' integrated position from upstream gas production to LNG exports'.",
+          "date": "2026-11-25",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/totalenergies_to_acquire_stake_in_us_gas_assets_from_continental-25-nov-2026-185166-article/?rss=true",
           "relevant": false
         },
         {
