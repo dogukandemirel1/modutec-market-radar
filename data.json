@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T15:01:09Z",
+  "last_updated": "2026-11-27T16:01:15Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -334,6 +334,14 @@
           "date": "2026-11-27",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/11/fincantieri-signs-contract-to-construct-the-3rd-lss-for-the-italian-navy/",
+          "relevant": false
+        },
+        {
+          "title": "Iran, Turkey Extend Natural Gas Deal",
+          "summary": "Turkey extended its long-term natural gas import contract with Iran, according to people familiar with the matter.",
+          "date": "2026-11-27",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/iran_turkey_extend_natural_gas_deal-27-nov-2026-185188-article/?rss=true",
           "relevant": false
         },
         {
@@ -5534,6 +5542,14 @@
           "date": "2026-11-27",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/prysmian-gets-green-light-for-1bn-greek-cable-programme/",
+          "relevant": false
+        },
+        {
+          "title": "Eni, Petronas Receive Indonesian Approval for Geliga Gas Project",
+          "summary": "The project targets 5.9 trillion cubic feet of gas in place and 250 million barrels of associated condensate.",
+          "date": "2026-11-27",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/eni_petronas_receive_indonesian_approval_for_geliga_gas_project-27-nov-2026-185185-article/?rss=true",
           "relevant": false
         },
         {
