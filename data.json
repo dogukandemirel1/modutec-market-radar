@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T12:01:04Z",
+  "last_updated": "2026-11-27T13:01:09Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5649,19 +5649,19 @@
           "relevant": false
         },
         {
-          "title": "Iraq Rebuffs OPEC Assessment of Output Capacity",
-          "summary": "Iraq rejected an assessment of its oil production capacity commissioned by OPEC+, according to people familiar with the matter, setting up a potential clash at this weekend's key meeting on production targets.",
-          "date": "2026-11-25",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/iraq_rebuffs_opec_assessment_of_output_capacity-25-nov-2026-185161-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Equinor, JAPEX Agree Goliat-Verdande Stake Exchange",
           "summary": "Equinor and JAPEX have agreed to exchange interests in offshore oil and gas assets on the Norwegian continental shelf, with Equinor set to increase its stake in the Verdande field…",
           "date": "2026-11-25",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544571-equinor-japex-agree-goliat-verdande-stake-exchange",
+          "relevant": false
+        },
+        {
+          "title": "Iraq Rebuffs OPEC Assessment of Output Capacity",
+          "summary": "Iraq rejected an assessment of its oil production capacity commissioned by OPEC+, according to people familiar with the matter, setting up a potential clash at this weekend's key meeting on production targets.",
+          "date": "2026-11-25",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/iraq_rebuffs_opec_assessment_of_output_capacity-25-nov-2026-185161-article/?rss=true",
           "relevant": false
         },
         {
