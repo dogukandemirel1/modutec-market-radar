@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T07:01:06Z",
+  "last_updated": "2026-11-27T08:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -313,27 +313,35 @@
           "relevant": false
         },
         {
+          "title": "Petronas and Staatsolie greenlight $1.6bn Suriname FLNG project",
+          "summary": "Malaysian state-owned energy giant Petronas and Suriname’s Staatsolie have taken the final investment decision on a $1.6bn offshore gas development involving an FLNG facility. The development, named KrakaWi, will…",
+          "date": "2026-11-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/petronas-and-staatsolie-greenlight-1-6bn-suriname-flng-project/",
+          "relevant": false
+        },
+        {
+          "title": "Equinor keeps Subsea 7 vessel working through 2028",
+          "summary": "Offshore engineering and services player Subsea 7 has secured another contract extension from Norwegian energy major Equinor for the 2013-built subsea vessel Seven Viking. The latest deal will keep the vessel working…",
+          "date": "2026-11-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/equinor-keeps-subsea-7-vessel-working-through-2028/",
+          "relevant": false
+        },
+        {
+          "title": "Serica taps CB&I for new subsea wells and offshore services",
+          "summary": "US engineering and construction firm CB&I has secured a five-year contract extension from UK independent Serica Energy for offshore well services in the North Sea. The contract was awarded to CB&I’s Asset Solutions…",
+          "date": "2026-11-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/serica-taps-cbi-for-new-subsea-wells-and-offshore-services/",
+          "relevant": false
+        },
+        {
           "title": "Fincantieri signs contract to construct the 3rd LSS for the Italian Navy",
           "summary": "The Temporary Grouping of Companies (RTI), led by Fincantieri with the participation of Leonardo, has signed an amendment to the contract with OCCAR (Organisation Conjointe de Coopération en matière d’Armement) for the…",
           "date": "2026-11-27",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/11/fincantieri-signs-contract-to-construct-the-3rd-lss-for-the-italian-navy/",
-          "relevant": false
-        },
-        {
-          "title": "NextGeo wins survey work on European hydrogen pipeline",
-          "summary": "Italian offshore survey specialist Next Geosolutions (NextGeo) has secured an €11.6m ($12.7m) contract to survey a planned subsea hydrogen pipeline linking Spain and France. BarMar, a joint venture between French gas…",
-          "date": "2026-11-26",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/nextgeo-wins-survey-work-on-european-hydrogen-pipeline/",
-          "relevant": false
-        },
-        {
-          "title": "StealthGas boosts forward cover with seven fixtures",
-          "summary": "Harry Vafias-led StealthGas has wrapped up seven charter deals for its LPG carriers, lifting its contracted revenue backlog to $115m and securing employment for one vessel into 2030. The Nasdaq-listed Greek owner…",
-          "date": "2026-11-26",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/stealthgas-boosts-forward-cover-with-seven-fixtures/",
           "relevant": false
         },
         {
@@ -350,6 +358,22 @@
           "date": "2026-11-26",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/uk-government-new-submarine-deal-should-improve-availability/",
+          "relevant": false
+        },
+        {
+          "title": "NextGeo wins survey work on European hydrogen pipeline",
+          "summary": "Italian offshore survey specialist Next Geosolutions (NextGeo) has secured an €11.6m ($12.7m) contract to survey a planned subsea hydrogen pipeline linking Spain and France. BarMar, a joint venture between French gas…",
+          "date": "2026-11-26",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/nextgeo-wins-survey-work-on-european-hydrogen-pipeline/",
+          "relevant": false
+        },
+        {
+          "title": "StealthGas boosts forward cover with seven fixtures",
+          "summary": "Harry Vafias-led StealthGas has wrapped up seven charter deals for its LPG carriers, lifting its contracted revenue backlog to $115m and securing employment for one vessel into 2030. The Nasdaq-listed Greek owner…",
+          "date": "2026-11-26",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/stealthgas-boosts-forward-cover-with-seven-fixtures/",
           "relevant": false
         },
         {
@@ -5449,11 +5473,11 @@
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
         {
-          "title": "Hanwha Ocean pulls out of 800MW offshore wind project",
-          "summary": "South Korean shipbuilding heavyweight Hanwha Ocean has pulled out of an 800MW offshore wind development off the country’s southwestern coast. The company confirmed in a regulatory filing on Wednesday that it had decided…",
-          "date": "2026-11-26",
+          "title": "US-led consortium strikes $10bn deal for Lukoil international assets",
+          "summary": "A US-led consortium has signed an agreement to acquire the international assets of sanctioned Russian oil major Lukoil in a share-swap transaction involving $10bn in securities. The consortium, led by billionaire Todd…",
+          "date": "2026-11-27",
           "source_name": "Splash247",
-          "source_url": "https://splash247.com/hanwha-ocean-pulls-out-of-800mw-offshore-wind-project/",
+          "source_url": "https://splash247.com/us-led-consortium-strikes-10bn-deal-for-lukoil-international-assets/",
           "relevant": false
         },
         {
@@ -5494,6 +5518,14 @@
           "date": "2026-11-26",
           "source_name": "Naval Technology",
           "source_url": "https://www.naval-technology.com/news/pratt-whitney-f135-engines-2/",
+          "relevant": false
+        },
+        {
+          "title": "Hanwha Ocean pulls out of 800MW offshore wind project",
+          "summary": "South Korean shipbuilding heavyweight Hanwha Ocean has pulled out of an 800MW offshore wind development off the country’s southwestern coast. The company confirmed in a regulatory filing on Wednesday that it had decided…",
+          "date": "2026-11-26",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/hanwha-ocean-pulls-out-of-800mw-offshore-wind-project/",
           "relevant": false
         },
         {
