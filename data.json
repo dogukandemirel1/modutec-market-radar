@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T13:01:09Z",
+  "last_updated": "2026-11-27T13:46:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -313,14 +313,6 @@
           "relevant": false
         },
         {
-          "title": "Wood scores FEED work on Spain-France offshore hydrogen link",
-          "summary": "UK engineering and consulting firm Wood has secured a front-end engineering design (FEED) contract for the proposed BarMar subsea hydrogen pipeline connecting Spain and France. The BarMar consortium, comprising Spanish…",
-          "date": "2026-11-27",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/wood-scores-feed-work-on-spain-france-offshore-hydrogen-link/",
-          "relevant": false
-        },
-        {
           "title": "Sallaum Lines seals $60m US shipping deal",
           "summary": "Car carrier operator Sallaum Lines has secured a two-year extension to a shipping contract with an undisclosed American manufacturer in a deal worth $60m. The company said it would deploy vessels from its LNG dual-fuel…",
           "date": "2026-11-27",
@@ -329,11 +321,27 @@
           "relevant": false
         },
         {
+          "title": "Wood scores FEED work on Spain-France offshore hydrogen link",
+          "summary": "UK engineering and consulting firm Wood has secured a front-end engineering design (FEED) contract for the proposed BarMar subsea hydrogen pipeline connecting Spain and France. The BarMar consortium, comprising Spanish…",
+          "date": "2026-11-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/wood-scores-feed-work-on-spain-france-offshore-hydrogen-link/",
+          "relevant": false
+        },
+        {
           "title": "Fincantieri signs contract to construct the 3rd LSS for the Italian Navy",
           "summary": "The Temporary Grouping of Companies (RTI), led by Fincantieri with the participation of Leonardo, has signed an amendment to the contract with OCCAR (Organisation Conjointe de Coopération en matière d’Armement) for the…",
           "date": "2026-11-27",
           "source_name": "Naval News",
           "source_url": "https://www.navalnews.com/naval-news/2026/11/fincantieri-signs-contract-to-construct-the-3rd-lss-for-the-italian-navy/",
+          "relevant": false
+        },
+        {
+          "title": "Saipem Bags New Middle East Deals Worth $650MM",
+          "summary": "The deals are the latest in a line of Middle East contracts, which are worth billions of dollars, Saipem's website shows.",
+          "date": "2026-11-27",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/saipem_bags_new_middle_east_deals_worth_650mm-27-nov-2026-185183-article/?rss=true",
           "relevant": false
         },
         {
@@ -8384,6 +8392,14 @@
       "short_title": "Competitors",
       "description": "M&A, contract wins, product launches and strategic shifts among offshore contractors and modular/accommodation equipment providers.",
       "items": [
+        {
+          "title": "Marine Alliance snaps up German marine insurance broker Marincon",
+          "summary": "Norwegian marine insurance group Marine Alliance has acquired Hamburg-based Marincon, adding a fourth specialist brokerage to its growing European network. The company has taken full ownership of Marincon GmbH & Co. KG…",
+          "date": "2026-11-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/marine-alliance-snaps-up-german-marine-insurance-broker-marincon/",
+          "relevant": false
+        },
         {
           "title": "Eni, Repsol to Invest $2b in PDVSA Joint Venture",
           "summary": "Spain's Repsol and Italy's Eni have 'committed to jointly investing' $2 billion in five years in their joint venture with Venezuelan state energy firm PDVSA, according…",
