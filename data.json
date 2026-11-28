@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T23:01:04Z",
+  "last_updated": "2026-11-28T00:01:06Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -305,6 +305,30 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
+          "title": "Netherlands opens 2GW offshore wind tender",
+          "summary": "The Netherlands has launched tenders for two offshore wind farms with a combined generating capacity of 2GW, backed by a maximum subsidy budget of nearly €9.5bn ($10.43bn). The Netherlands Enterprise Agency (RVO) opened…",
+          "date": "2026-11-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/netherlands-opens-2gw-offshore-wind-tender/",
+          "relevant": false
+        },
+        {
+          "title": "Sallaum Lines seals $60m US shipping deal",
+          "summary": "Car carrier operator Sallaum Lines has secured a two-year extension to a shipping contract with an undisclosed American manufacturer in a deal worth $60m. The company said it would deploy vessels from its LNG dual-fuel…",
+          "date": "2026-11-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/sallaum-lines-seals-60m-us-shipping-deal/",
+          "relevant": false
+        },
+        {
+          "title": "Wood scores FEED work on Spain-France offshore hydrogen link",
+          "summary": "UK engineering and consulting firm Wood has secured a front-end engineering design (FEED) contract for the proposed BarMar subsea hydrogen pipeline connecting Spain and France. The BarMar consortium, comprising Spanish…",
+          "date": "2026-11-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/wood-scores-feed-work-on-spain-france-offshore-hydrogen-link/",
+          "relevant": false
+        },
+        {
           "title": "Fincantieri signs contract to construct the 3rd LSS for the Italian Navy",
           "summary": "The Temporary Grouping of Companies (RTI), led by Fincantieri with the participation of Leonardo, has signed an amendment to the contract with OCCAR (Organisation Conjointe de Coopération en matière d’Armement) for the…",
           "date": "2026-11-27",
@@ -350,30 +374,6 @@
           "date": "2026-11-27",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/petronas-staatsolie-1-6bn-fid-suriname-gas-field/",
-          "relevant": false
-        },
-        {
-          "title": "Netherlands opens 2GW offshore wind tender",
-          "summary": "The Netherlands has launched tenders for two offshore wind farms with a combined generating capacity of 2GW, backed by a maximum subsidy budget of nearly €9.5bn ($10.43bn). The Netherlands Enterprise Agency (RVO) opened…",
-          "date": "2026-11-27",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/netherlands-opens-2gw-offshore-wind-tender/",
-          "relevant": false
-        },
-        {
-          "title": "Sallaum Lines seals $60m US shipping deal",
-          "summary": "Car carrier operator Sallaum Lines has secured a two-year extension to a shipping contract with an undisclosed American manufacturer in a deal worth $60m. The company said it would deploy vessels from its LNG dual-fuel…",
-          "date": "2026-11-27",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/sallaum-lines-seals-60m-us-shipping-deal/",
-          "relevant": false
-        },
-        {
-          "title": "Wood scores FEED work on Spain-France offshore hydrogen link",
-          "summary": "UK engineering and consulting firm Wood has secured a front-end engineering design (FEED) contract for the proposed BarMar subsea hydrogen pipeline connecting Spain and France. The BarMar consortium, comprising Spanish…",
-          "date": "2026-11-27",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/wood-scores-feed-work-on-spain-france-offshore-hydrogen-link/",
           "relevant": false
         },
         {
@@ -5423,110 +5423,6 @@
           "source_name": "Splash247",
           "source_url": "https://splash247.com/china-lines-up-centralised-offshore-wind-grid-project-off-fujian/",
           "relevant": false
-        },
-        {
-          "title": "Southeast Asian oil field development clears key environmental hurdle to move toward FID",
-          "summary": "Finder Energy is edging closer to a final investment decision (FID) for the development of its offshore oil field in Timor-Leste.",
-          "date": "2026-09-28",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/09/28/southeast-asian-oil-field-development-clears-key-environmental-hurdle-to-move-toward-fid",
-          "relevant": false
-        },
-        {
-          "title": "‘Major’ oil & gas player awards Shearwater with three-year contract off South America",
-          "summary": "Norway’s Shearwater Geoservices has won a three-year ocean bottom node (OBN) seismic acquisition contract offshore South America, with what it...",
-          "date": "2026-09-28",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/09/28/major-oil-and-gas-player-awards-shearwater-with-three-year-contract-off-south-america",
-          "relevant": false
-        },
-        {
-          "title": "UK confirms British shipyards to build floating naval docks",
-          "summary": "The government has confirmed that new floating docks for the Royal Navy’s submarine base at Faslane will be constructed by British shipyards. The post UK confirms British shipyards to build floating naval docks appeared…",
-          "date": "2026-09-28",
-          "source_name": "Naval Technology",
-          "source_url": "https://www.naval-technology.com/news/uk-confirms-british-shipyards-to-build-floating-naval-docks/",
-          "relevant": false
-        },
-        {
-          "title": "Noble Faye Kozack lines up Tullow work offshore Ghana",
-          "summary": "Noble Corp won a drilling contract with Tullow Oil for the drillship Noble Faye Kozack, covering up to 10 wells offshore Ghana. The work is expected to begin in mid-2027. The 2013-built Noble Faye Kozack is a Samsung…",
-          "date": "2026-09-28",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/noble-faye-kozack-lines-up-tullow-work-offshore-ghana-80144",
-          "relevant": false
-        },
-        {
-          "title": "TotalEnergies, partners approve full-field development of Absheron gas field",
-          "summary": "TotalEnergies and its partners took a final investment decision to develop the Absheron gas and condensate field in the Caspian Sea, about 100 km southeast of Baku. TotalEnergies operates the field with a 35% interest…",
-          "date": "2026-09-28",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/totalenergies-partners-approve-full-field-development-of-absheron-gas-field-80138",
-          "relevant": false
-        },
-        {
-          "title": "TotalEnergies and partners approve Absheron gas project FID",
-          "summary": "TotalEnergies and its partners State Oil Company of the Republic of Azerbaijan (SOCAR) and XRG have made a final investment decision (FID) to move ahead with the full field development of the Absheron gas and condensate…",
-          "date": "2026-09-28",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/totalenergies-partners-absheron-gas-fid/",
-          "relevant": false
-        },
-        {
-          "title": "Shearwater Lines Up Three-Year South America OBN Campaign",
-          "summary": "Shearwater Geoservices has been awarded a three-year ocean bottom node (OBN) seismic acquisition contract by an undisclosed oil and gas company for work offshore South America…",
-          "date": "2026-09-28",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/543287-shearwater-lines-up-three-year-south-america-obn-campaign",
-          "relevant": false
-        },
-        {
-          "title": "Tullow Oil Books Noble Corporation’s Drillship for Work Offshore Ghana",
-          "summary": "Noble Corporation has secured a contract by Tullow Oil for the Noble Faye Kozack drillship for a drilling campaign offshore Ghana.The work will include up to 10 wells off Ghana…",
-          "date": "2026-09-28",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/543286-tullow-oil-books-noble-corporation-s-drillship-for-work-offshore-ghana",
-          "relevant": false
-        },
-        {
-          "title": "TotalEnergies, SOCAR, XRG Greenlight Absheron Field Expansion in Caspian Sea",
-          "summary": "TotalEnergies, SOCAR and XRG have taken a final investment decision (FID) on the full-field development of Azerbaijan's Absheron gas and condensate field, targeting…",
-          "date": "2026-09-28",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/543285-totalenergies-socar-xrg-greenlight-absheron-field-expansion-in-caspian-sea",
-          "relevant": false
-        },
-        {
-          "title": "Tullow books Noble drillship for Ghana campaign",
-          "summary": "Offshore drilling giant Noble Corporation has been awarded a contract by Tullow Oil for one of its drillships. The London-based oil and gas player hired the 2013-built drillship Noble Faye Kozack for work offshore…",
-          "date": "2026-09-28",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/tullow-books-noble-drillship-for-ghana-campaign/",
-          "relevant": false
-        },
-        {
-          "title": "Fugro survey supports Petronas fields off Malaysia",
-          "summary": "Dutch surveyor Fugro has executed a geohazard site survey contract for Petronas Carigali for the Megah and Limbayong fields off the coast of Sabah, offshore East Malaysia. The development supports ongoing efforts to…",
-          "date": "2026-09-28",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/fugro-survey-supports-petronas-fields-off-malaysia/",
-          "relevant": false
-        },
-        {
-          "title": "TotalEnergies advances another major offshore gas project",
-          "summary": "French giant TotalEnergies, along with its partners SOCAR and XRG, has made the final investment decision to fully develop the Absheron gas and condensate field in the Caspian Sea. Located 100 km southeast of Baku, the…",
-          "date": "2026-09-28",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/totalenergies-advances-another-major-offshore-gas-project/",
-          "relevant": false
-        },
-        {
-          "title": "SAIC Anji goes supersized with fresh car carrier tender",
-          "summary": "China’s SAIC Anji Logistics is preparing another major step up in car carrier size, launching an international tender for two 11,000 ceu LNG dual-fuel newbuilds. The logistics arm of state-owned automaker SAIC Motor…",
-          "date": "2026-09-28",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/saic-anji-goes-supersized-with-fresh-car-carrier-tender/",
-          "relevant": false
         }
       ]
     },
@@ -5553,19 +5449,19 @@
           "relevant": false
         },
         {
-          "title": "Eni, Petronas Receive Indonesian Approval for Geliga Gas Project",
-          "summary": "The project targets 5.9 trillion cubic feet of gas in place and 250 million barrels of associated condensate.",
-          "date": "2026-11-27",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/eni_petronas_receive_indonesian_approval_for_geliga_gas_project-27-nov-2026-185185-article/?rss=true",
-          "relevant": false
-        },
-        {
           "title": "Prysmian gets green light for $1bn Greek cable programme",
           "summary": "Italian cabling giant Prysmian has received the go-ahead from Greece’s Independent Power Transmission Operator (IPTO) to proceed with seven electricity interconnection projects worth up to €910m ($998.3m). The notice to…",
           "date": "2026-11-27",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/prysmian-gets-green-light-for-1bn-greek-cable-programme/",
+          "relevant": false
+        },
+        {
+          "title": "Eni, Petronas Receive Indonesian Approval for Geliga Gas Project",
+          "summary": "The project targets 5.9 trillion cubic feet of gas in place and 250 million barrels of associated condensate.",
+          "date": "2026-11-27",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/eni_petronas_receive_indonesian_approval_for_geliga_gas_project-27-nov-2026-185185-article/?rss=true",
           "relevant": false
         },
         {
@@ -8359,62 +8255,6 @@
           "source_name": "Splash247",
           "source_url": "https://splash247.com/jefferson-to-buy-port-arthur-terminal-in-255m-logistics-deal/",
           "relevant": false
-        },
-        {
-          "title": "Hilcorp gets go-ahead for two Paxton Pad wells on Kenai Peninsula",
-          "summary": "Alaska’s Division of Oil and Gas approved a Hilcorp Alaska plan to drill two grassroots wells at the Paxton Pad in the Ninilchik unit on the southern Kenai Peninsula. The wells are Paxton 16 and Paxton 17. Work also…",
-          "date": "2026-09-28",
-          "source_name": "Drilling Contractor",
-          "source_url": "https://drillingcontractor.org/hilcorp-gets-go-ahead-for-two-paxton-pad-wells-on-kenai-peninsula-80135",
-          "relevant": false
-        },
-        {
-          "title": "TotalEnergies Targets 3 Percent Yearly Production Growth",
-          "summary": "Nonetheless, TotalEnergies said it is targeting a 50 percent reduction in Scope 1 and 2 emissions from oil and gas upstream and downstream activities, excluding gas electricity generation, by the end of the decade…",
-          "date": "2026-09-28",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/totalenergies_targets_3_percent_yearly_production_growth-28-sep-2026-184712-article/?rss=true",
-          "relevant": false
-        },
-        {
-          "title": "Finder Energy Clears Environmental Hurdle for Timor-Leste Oil Project",
-          "summary": "Finder Energy has secured the principal environmental approval for its Kuda Tasi and Jahal (KTJ) oil development in Timor-Leste, clearing a key regulatory hurdle…",
-          "date": "2026-09-28",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/543289-finder-energy-clears-environmental-hurdle-for-timor-leste-oil-project",
-          "relevant": false
-        },
-        {
-          "title": "Big Oil Faces Strategy Rethink as Iran War Reshapes Energy Markets",
-          "summary": "The world's biggest energy companies are poised to deliver another quarter of bumper profits, fuelled by record refining margins. Flush with cash, Big Oil now needs…",
-          "date": "2026-09-28",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/543284-big-oil-faces-strategy-rethink-as-iran-war-reshapes-energy-markets",
-          "relevant": false
-        },
-        {
-          "title": "Brazil puts container demurrage rules under review",
-          "summary": "Brazil has opened a formal review of its container demurrage rules, putting one of the country’s more contentious liner charging issues back on the regulatory agenda. Waterway regulator ANTAQ has launched a public call…",
-          "date": "2026-09-28",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/brazil-puts-container-demurrage-rules-under-review/",
-          "relevant": false
-        },
-        {
-          "title": "Enjoy the tanker party, but watch the hangover",
-          "summary": "Tanker markets may be producing extraordinary returns, but the message from last week’s Splash Singapore tanker panel was far from euphoric: enjoy the money, lock in cashflow where possible and be very careful about…",
-          "date": "2026-09-28",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/enjoy-the-tanker-party-but-watch-the-hangover/",
-          "relevant": false
-        },
-        {
-          "title": "Sanctioned ships retreat under the Russian flag",
-          "summary": "Russia has increasingly become the flag of last resort for sanctioned shipping as Western pressure closes down the network of open and fraudulent registries that helped keep Moscow’s energy exports moving. A new study…",
-          "date": "2026-09-28",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/sanctioned-ships-retreat-under-the-russian-flag/",
-          "relevant": false
         }
       ]
     },
@@ -9639,22 +9479,6 @@
           "source_name": "Splash247",
           "source_url": "https://splash247.com/mermaid-teams-with-marine-platforms-for-nigeria-subsea-push/",
           "relevant": false
-        },
-        {
-          "title": "Shearwater wins seabed node survey contract in South America",
-          "summary": "Shearwater Geoservices has landed a three-year ocean bottom node (OBN) seismic acquisition contract in South American waters.",
-          "date": "2026-09-28",
-          "source_name": "Offshore Technology",
-          "source_url": "https://www.offshore-technology.com/news/shearwater-seabed-node-survey-south-america/",
-          "relevant": false
-        },
-        {
-          "title": "Mermaid Maritime Forms Nigerian Subsea Joint Venture",
-          "summary": "Mermaid Maritime has established a joint venture with Nigerian oilfield services company Marine Platforms Limited to pursue subsea work for TotalEnergies Nigeria…",
-          "date": "2026-09-28",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/543291-mermaid-maritime-forms-nigerian-subsea-joint-venture",
-          "relevant": false
         }
       ]
     },
@@ -9665,15 +9489,6 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Deadly Houthi Strike at Jazan Refinery Halts Some Operations",
-          "summary": "An attack on Saudi Arabia's oil refinery in the southern province of Jazan temporarily halted some of the facility's operations and killed one worker, the latest assault by Yemen's Iran-backed Houthis on the kingdom's…",
-          "date": "2026-11-27",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/deadly_houthi_strike_at_jazan_refinery_halts_some_operations-27-nov-2026-185180-article/?rss=true",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
           "title": "Precious Shipping lines up five-ship buying spree",
           "summary": "Thailand’s Precious Shipping is lining up the acquisition of five more vessels through a fresh series of joint ventures with Malaysia’s Emstraits Navigation and Singapore-based Lianson Fleet. The Khalid Hashim-led dry…",
           "date": "2026-11-27",
@@ -9681,6 +9496,15 @@
           "source_url": "https://splash247.com/precious-shipping-lines-up-five-ship-buying-spree/",
           "relevant": false,
           "region": "SEA"
+        },
+        {
+          "title": "Deadly Houthi Strike at Jazan Refinery Halts Some Operations",
+          "summary": "An attack on Saudi Arabia's oil refinery in the southern province of Jazan temporarily halted some of the facility's operations and killed one worker, the latest assault by Yemen's Iran-backed Houthis on the kingdom's…",
+          "date": "2026-11-27",
+          "source_name": "Rigzone",
+          "source_url": "https://www.rigzone.com/news/wire/deadly_houthi_strike_at_jazan_refinery_halts_some_operations-27-nov-2026-185180-article/?rss=true",
+          "relevant": true,
+          "region": "KSA"
         },
         {
           "title": "Indonesian Navy Takes Delivery of 58-Knot Missile-Capable USV",
@@ -12017,114 +11841,6 @@
           "date": "2026-09-29",
           "source_name": "Splash247",
           "source_url": "https://splash247.com/maritime-techs-scale-problem-comes-under-the-spotlight-at-splash-singapore/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Fugro performs ultra-deepwater AUV survey off East Malaysia",
-          "summary": "Fugro has completed an ultra-deepwater geohazard site survey offshore East Malaysia, on behalf of Petronas Carigali, the primary upstream...",
-          "date": "2026-09-28",
-          "source_name": "Offshore Energy",
-          "source_url": "https://offshore-energy.biz/2026/09/28/fugro-performs-ultra-deepwater-auv-survey-off-east-malaysia",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "TKMS and EDGE sign MoU to explore underwater security capabilities",
-          "summary": "TKMS and UAE defence group EDGE have signed a memorandum of understanding (MoU) to explore the joint development of underwater surveillance and protection capabilities. The post TKMS and EDGE sign MoU to explore…",
-          "date": "2026-09-28",
-          "source_name": "Naval Technology",
-          "source_url": "https://www.naval-technology.com/news/tkms-edge-underwater-capabilities/",
-          "relevant": true,
-          "region": "UAE"
-        },
-        {
-          "title": "Fincantieri and PT PAL Indonesia sign agreement for the modernization of ex-Giuseppe Garibaldi",
-          "summary": "Fincantieri, one of the world’s leading shipbuilding groups, and PT PAL Indonesia, the country’s leading state-owned shipbuilder, signed a Memorandum of Understanding (MoU) establishing a framework for cooperation on…",
-          "date": "2026-09-28",
-          "source_name": "Naval News",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/fincantieri-and-pt-pal-indonesia-sign-agreement-for-the-modernization-of-ex-giuseppe-garibaldi/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Eni Wins New Block offshore Indonesia",
-          "summary": "'The acreage is adjacent to Eni's existing operated and participated blocks and close to the future North Hub developments'.",
-          "date": "2026-09-28",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/eni_wins_new_block_offshore_indonesia-28-sep-2026-184717-article/?rss=true",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Saudi Arabia Restores Key Pipeline to Half Its Capacity",
-          "summary": "Saudi Arabia has restored about half the flows through its cross-country oil pipeline bypassing the Strait of Hormuz.",
-          "date": "2026-09-28",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/saudi_arabia_restores_key_pipeline_to_half_its_capacity-28-sep-2026-184718-article/?rss=true",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
-          "title": "PTTEP Approves Bussabong Gas Project",
-          "summary": "State-owned PTTEP expects to start production 2028 to help meet Thailand's growing energy demand.",
-          "date": "2026-09-28",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/pttep_approves_bussabong_gas_project-28-sep-2026-184716-article/?rss=true",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Chevron, ExxonMobil Agree Potential Crude Supply to Vietnam",
-          "summary": "State-owned PVN said its agreement with Chevron could also secure liquefied natural gas and liquefied petroleum gas for Vietnam.",
-          "date": "2026-09-28",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/chevron_exxonmobil_agree_potential_crude_supply_to_vietnam-28-sep-2026-184715-article/?rss=true",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Fugro Completes Ultra-Deepwater Survey for Petronas",
-          "summary": "Fugro has completed an ultra-deepwater geohazard site survey for Petronas Carigali's Megah and Limbayong fields off Sabah, East Malaysia, using autonomous underwater vehicle (AUV) technology…",
-          "date": "2026-09-28",
-          "source_name": "Offshore Engineer",
-          "source_url": "https://www.oedigital.com/news/543292-fugro-completes-ultra-deepwater-survey-for-petronas",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Philippines Accuses Chinese Vessel of Spoofing Location in Northern Waters",
-          "summary": "The Philippine Coast Guard accused a Chinese research vessel on Monday of spoofing its location while loitering off Batanes, the country's northernmost island group near Taiwan, saying its movements were consistent with…",
-          "date": "2026-09-28",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/philippines-accuses-chinese-vessel-of-spoofing-location-in-northern-waters/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Saudi Arabia's Key Oil Pipeline Starts Exports",
-          "summary": "The pipeline has a total capacity of about seven million a day, with about five million typically earmarked for exports.",
-          "date": "2026-09-28",
-          "source_name": "Rigzone",
-          "source_url": "https://www.rigzone.com/news/wire/saudi_arabias_key_oil_pipeline_starts_exports-28-sep-2026-184718-article/?rss=true",
-          "relevant": true,
-          "region": "KSA"
-        },
-        {
-          "title": "RCL signs third Huangpu Wenchong boxship series",
-          "summary": "Thailand’s Regional Container Lines has returned to CSSC Huangpu Wenchong for another four containerships, adding a new 3,100 teu class to its rapidly expanding orderbook at the Guangzhou-based builder. RCL signed for…",
-          "date": "2026-09-28",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/rcl-signs-third-huangpu-wenchong-boxship-series/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
-          "title": "Vantris Energy lands $440m offshore work in Malaysia",
-          "summary": "Malaysian offshore services company Vantris Energy, formerly known as Sapura Energy, has secured two work orders from Petronas Carigali and two PTTEP subsidiaries to provide offshore transportation and installation…",
-          "date": "2026-09-28",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/vantris-energy-lands-440m-offshore-work-in-malaysia/",
           "relevant": false,
           "region": "SEA"
         }
