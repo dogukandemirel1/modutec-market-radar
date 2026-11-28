@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28T16:01:01Z",
+  "last_updated": "2026-11-28T17:01:03Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -457,14 +457,6 @@
           "relevant": false
         },
         {
-          "title": "Damen and Windcat sign for secondMulti-Purpose Accommodation Support Vessel (MP-ASV)",
-          "summary": "On 24 November 2026, Windcat signed a contract with Damen Shipyards Group for the second Multi-Purpose Accommodation Support Vessel (MP-ASV) in the Innovation Series. The contract follows the order for...",
-          "date": "2026-11-25",
-          "source_name": "gCaptain",
-          "source_url": "https://gcaptain.com/damen-and-windcat-sign-for-secondmulti-purpose-accommodation-support-vessel-mp-asv/",
-          "relevant": false
-        },
-        {
           "title": "Expro to provide flowback for 200-well North Slope development",
           "summary": "Expro secured a three-year contract with a major US operator to provide well flow management services on Alaska’s Arctic North Slope. The award is Expro’s largest Arctic project to date and includes two one-year…",
           "date": "2026-11-25",
@@ -534,6 +526,14 @@
           "date": "2026-11-25",
           "source_name": "Offshore Engineer",
           "source_url": "https://www.oedigital.com/news/544572-johan-castberg-oil-field-s-output-curtailed-by-offloading-system-fault",
+          "relevant": false
+        },
+        {
+          "title": "Damen and Windcat sign for secondMulti-Purpose Accommodation Support Vessel (MP-ASV)",
+          "summary": "On 24 November 2026, Windcat signed a contract with Damen Shipyards Group for the second Multi-Purpose Accommodation Support Vessel (MP-ASV) in the Innovation Series. The contract follows the order for...",
+          "date": "2026-11-25",
+          "source_name": "gCaptain",
+          "source_url": "https://gcaptain.com/damen-and-windcat-sign-for-secondmulti-purpose-accommodation-support-vessel-mp-asv/",
           "relevant": false
         },
         {
