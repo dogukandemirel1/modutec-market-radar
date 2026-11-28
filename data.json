@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28T09:01:05Z",
+  "last_updated": "2026-11-28T10:01:02Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -5432,6 +5432,14 @@
       "short_title": "Regulatory",
       "description": "Rule changes from IMO, EU, classification societies and export-control authorities affecting marine, offshore and defence operators.",
       "items": [
+        {
+          "title": "Stark Unveils Vanta 24 USV to Bolster Baltic Undersea Security",
+          "summary": "European defence firm Stark has unveiled the Vanta 24 USV to help NATO navies protect Baltic undersea infrastructure, escort ships, and track shadow fleets. The post Stark Unveils Vanta 24 USV to Bolster Baltic Undersea…",
+          "date": "2026-11-28",
+          "source_name": "Naval News",
+          "source_url": "https://www.navalnews.com/naval-news/2026/11/stark-vanta-24-usv-baltic-undersea-security/",
+          "relevant": false
+        },
         {
           "title": "Chinese Military Tests New Taiwan Landing Tactics in Coastal Drills",
           "summary": "China is staging a weeks-long amphibious landing drill in the province facing Taiwan, testing a new method to land troops ashore by linking civilian vessels into a makeshift floating bridge, satellite images and a…",
