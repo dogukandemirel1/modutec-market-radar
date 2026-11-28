@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28T01:01:01Z",
+  "last_updated": "2026-11-28T02:01:04Z",
   "footer_note": "Modutec Market Radar — compiled from public industry sources (press releases, trade press, classification societies, regulators). Verify figures against primary sources before use in decision-making.",
   "sections": [
     {
@@ -305,30 +305,6 @@
       "description": "Recent EPC/EPCI awards, FIDs and charter contracts across oil & gas, offshore wind and defence.",
       "items": [
         {
-          "title": "Netherlands opens 2GW offshore wind tender",
-          "summary": "The Netherlands has launched tenders for two offshore wind farms with a combined generating capacity of 2GW, backed by a maximum subsidy budget of nearly €9.5bn ($10.43bn). The Netherlands Enterprise Agency (RVO) opened…",
-          "date": "2026-11-27",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/netherlands-opens-2gw-offshore-wind-tender/",
-          "relevant": false
-        },
-        {
-          "title": "Sallaum Lines seals $60m US shipping deal",
-          "summary": "Car carrier operator Sallaum Lines has secured a two-year extension to a shipping contract with an undisclosed American manufacturer in a deal worth $60m. The company said it would deploy vessels from its LNG dual-fuel…",
-          "date": "2026-11-27",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/sallaum-lines-seals-60m-us-shipping-deal/",
-          "relevant": false
-        },
-        {
-          "title": "Wood scores FEED work on Spain-France offshore hydrogen link",
-          "summary": "UK engineering and consulting firm Wood has secured a front-end engineering design (FEED) contract for the proposed BarMar subsea hydrogen pipeline connecting Spain and France. The BarMar consortium, comprising Spanish…",
-          "date": "2026-11-27",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/wood-scores-feed-work-on-spain-france-offshore-hydrogen-link/",
-          "relevant": false
-        },
-        {
           "title": "Fincantieri signs contract to construct the 3rd LSS for the Italian Navy",
           "summary": "The Temporary Grouping of Companies (RTI), led by Fincantieri with the participation of Leonardo, has signed an amendment to the contract with OCCAR (Organisation Conjointe de Coopération en matière d’Armement) for the…",
           "date": "2026-11-27",
@@ -374,6 +350,30 @@
           "date": "2026-11-27",
           "source_name": "Offshore Technology",
           "source_url": "https://www.offshore-technology.com/news/petronas-staatsolie-1-6bn-fid-suriname-gas-field/",
+          "relevant": false
+        },
+        {
+          "title": "Netherlands opens 2GW offshore wind tender",
+          "summary": "The Netherlands has launched tenders for two offshore wind farms with a combined generating capacity of 2GW, backed by a maximum subsidy budget of nearly €9.5bn ($10.43bn). The Netherlands Enterprise Agency (RVO) opened…",
+          "date": "2026-11-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/netherlands-opens-2gw-offshore-wind-tender/",
+          "relevant": false
+        },
+        {
+          "title": "Sallaum Lines seals $60m US shipping deal",
+          "summary": "Car carrier operator Sallaum Lines has secured a two-year extension to a shipping contract with an undisclosed American manufacturer in a deal worth $60m. The company said it would deploy vessels from its LNG dual-fuel…",
+          "date": "2026-11-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/sallaum-lines-seals-60m-us-shipping-deal/",
+          "relevant": false
+        },
+        {
+          "title": "Wood scores FEED work on Spain-France offshore hydrogen link",
+          "summary": "UK engineering and consulting firm Wood has secured a front-end engineering design (FEED) contract for the proposed BarMar subsea hydrogen pipeline connecting Spain and France. The BarMar consortium, comprising Spanish…",
+          "date": "2026-11-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/wood-scores-feed-work-on-spain-france-offshore-hydrogen-link/",
           "relevant": false
         },
         {
@@ -5449,19 +5449,19 @@
           "relevant": false
         },
         {
-          "title": "Prysmian gets green light for $1bn Greek cable programme",
-          "summary": "Italian cabling giant Prysmian has received the go-ahead from Greece’s Independent Power Transmission Operator (IPTO) to proceed with seven electricity interconnection projects worth up to €910m ($998.3m). The notice to…",
-          "date": "2026-11-27",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/prysmian-gets-green-light-for-1bn-greek-cable-programme/",
-          "relevant": false
-        },
-        {
           "title": "Eni, Petronas Receive Indonesian Approval for Geliga Gas Project",
           "summary": "The project targets 5.9 trillion cubic feet of gas in place and 250 million barrels of associated condensate.",
           "date": "2026-11-27",
           "source_name": "Rigzone",
           "source_url": "https://www.rigzone.com/news/eni_petronas_receive_indonesian_approval_for_geliga_gas_project-27-nov-2026-185185-article/?rss=true",
+          "relevant": false
+        },
+        {
+          "title": "Prysmian gets green light for $1bn Greek cable programme",
+          "summary": "Italian cabling giant Prysmian has received the go-ahead from Greece’s Independent Power Transmission Operator (IPTO) to proceed with seven electricity interconnection projects worth up to €910m ($998.3m). The notice to…",
+          "date": "2026-11-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/prysmian-gets-green-light-for-1bn-greek-cable-programme/",
           "relevant": false
         },
         {
@@ -9489,15 +9489,6 @@
       "description": "Offshore, energy and defence developments across the UAE, Saudi Arabia and South East Asia.",
       "items": [
         {
-          "title": "Precious Shipping lines up five-ship buying spree",
-          "summary": "Thailand’s Precious Shipping is lining up the acquisition of five more vessels through a fresh series of joint ventures with Malaysia’s Emstraits Navigation and Singapore-based Lianson Fleet. The Khalid Hashim-led dry…",
-          "date": "2026-11-27",
-          "source_name": "Splash247",
-          "source_url": "https://splash247.com/precious-shipping-lines-up-five-ship-buying-spree/",
-          "relevant": false,
-          "region": "SEA"
-        },
-        {
           "title": "Deadly Houthi Strike at Jazan Refinery Halts Some Operations",
           "summary": "An attack on Saudi Arabia's oil refinery in the southern province of Jazan temporarily halted some of the facility's operations and killed one worker, the latest assault by Yemen's Iran-backed Houthis on the kingdom's…",
           "date": "2026-11-27",
@@ -9505,6 +9496,15 @@
           "source_url": "https://www.rigzone.com/news/wire/deadly_houthi_strike_at_jazan_refinery_halts_some_operations-27-nov-2026-185180-article/?rss=true",
           "relevant": true,
           "region": "KSA"
+        },
+        {
+          "title": "Precious Shipping lines up five-ship buying spree",
+          "summary": "Thailand’s Precious Shipping is lining up the acquisition of five more vessels through a fresh series of joint ventures with Malaysia’s Emstraits Navigation and Singapore-based Lianson Fleet. The Khalid Hashim-led dry…",
+          "date": "2026-11-27",
+          "source_name": "Splash247",
+          "source_url": "https://splash247.com/precious-shipping-lines-up-five-ship-buying-spree/",
+          "relevant": false,
+          "region": "SEA"
         },
         {
           "title": "Indonesian Navy Takes Delivery of 58-Knot Missile-Capable USV",
